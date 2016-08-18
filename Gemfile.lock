@@ -48,8 +48,6 @@ GEM
       therubyracer (~> 0.12)
     jekyll-sass-converter (1.4.0)
       sass (~> 3.4)
-    jekyll-sitemap (0.11.0)
-      addressable (~> 2.4.0)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
     json (1.8.3)
@@ -96,7 +94,6 @@ DEPENDENCIES
   jekyll
   jekyll-lunr-js-search
   jekyll-pandoc-multiple-formats!
-  jekyll-sitemap
   pdf_info
   rtex
 

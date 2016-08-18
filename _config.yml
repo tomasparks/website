@@ -5,7 +5,8 @@ searchindex: yes
 #url: /home/tom/blog/_site/
 #url: http://127.0.0.1:4000/
 url: https://tomasparks.github.io/
-keep_files:   [".git", ".svn"]
+#url: /
+keep_files:   [".git", ".svn",".sh"]
 
 
 lunr_search:
@@ -13,16 +14,6 @@ lunr_search:
   excludes: [rss.xml, 404.html]
 
 gems:      []
-sitemap:
-    file: "/sitemap.xml"
-    exclude:
-        - "/atom.xml"
-        - "/feed.xml"
-        - "/feed/index.xml"
-    include_posts:
-        - "/index.html"
-    change_frequency_name: "change_frequency"
-    priority_name: "priority"
 
 gems: [ 'jekyll-pandoc-multiple-formats' ]
 markdown: pandoc
