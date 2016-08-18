@@ -5,6 +5,7 @@ searchindex: yes
 #url: /home/tom/blog/_site/
 #url: http://127.0.0.1:4000/
 url: https://tomasparks.github.io/
+keep_files:   [".git", ".svn"]
 
 
 lunr_search:
