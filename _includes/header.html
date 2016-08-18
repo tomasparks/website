@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+        <title>{{ page.title }} {{ site.name }} </title>
+
+
+    <meta name="description" content="{{ site.description }}">
+
+    {% if site.google_verification %}
+        <meta name="google-site-verification" content="{{ site.google_verify }}">
+    {% endif %}
+
+    <link rel="icon" href="{{ site.url }}/assets/img/favicon.png">
+    <!-- <link rel="stylesheet" href="{{ site.url }}/assets/css/fonts.css" type="text/css" charset="utf-8" /> -->
+   <!-- <link rel="stylesheet" type="text/css" href="{{ site.url }}/assets/css/main.css"> -->
+<style>
+@font-face {
+	font-family: 'IBM_MDA';
+	src: url('{{ site.url }}/assets/css/fonts/PxPlus_IBM_MDA.eot');
+	src: url('{{ site.url }}/assets/css/fonts/PxPlus_IBM_MDA.woff') format('woff'),
+ url('{{ site.url }}/assets/css/fonts/PxPlus_IBM_MDA.ttf') format('truetype'),
+ url('{{ site.url }}/assets/css/fonts/PxPlus_IBM_MDA.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+</style>
+<style>
+* {
+	color: green;
+	background: black;
+	font-family: 'IBM_MDA';
+        font-size:xx-large;
+margin: 0px;
+}
+
+ul {
+	list-style-type: none;
+}
+
+ul li
+{
+	text-indent: -1.4em;
+}
+
+
+ul li:before
+{
+	font-family: 'IBM_MDA';
+	content: "\25CF";
+	float: left;
+	width: 1.4em;
+}
+
+hr {
+    text-align:      center;
+    border:          none;
+padding: 2em;
+    height:          0;
+    line-height:     0;
+    }
+
+hr:after {
+    content:         "---------------------------------------";
+    }
+
+
+main {
+height: auto; min-height: 100%;
+}
+article {
+	color: green;
+	background: black;
+	font-family: 'IBM_MDA';
+margin: auto;
+padding: 20px;
+width: 60%;
+display: block;
+}
+article header {
+padding: 5px;
+}
+article h1,h2,h3,h4,h5,h6 {
+text-decoration: underline;
+padding: 5px;
+}
+article div {
+padding: 5px;
+}
+a {
+	color: black;
+	background: green;
+margin: 0px;
+
+}
+
+
+</style>
+</head>
+
+<body style="display: table;">
+<header style="color:black; background: green; width: 100%; display: table; ">
+<div style="color:black; background: green; display: table-row">
+        <div style="color:black; background: green; display: table-cell; text-align: left;">
+<script type="text/javascript"><!--
+var now = new Date();
+var Month = new Array("JAN","FEB","MAR","APR","MAY","JUN","JUL","AUG","SEP","OCT","NOV","DEC");
+document.write(now.getDate()+" "+Month[now.getMonth()]+" "+now.getFullYear());
+//--></script>
+</div>
+        <div style="color:black; background: green; display: table-cell;">{{ site.name }}</div>
+        <div style="color:black; background: green; display: table-cell; text-align: right;">
+<script type="text/javascript"><!--
+var a_p = "";
+var d = new Date();
+var curr_hour = d.getHours();
+if (curr_hour < 12)
+   {
+   a_p = "am";
+   }
+else
+   {
+   a_p = "pm";
+   }
+if (curr_hour == 0)
+   {
+   curr_hour = 12;
+   }
+if (curr_hour > 12)
+   {
+   curr_hour = curr_hour - 12;
+   }
+
+var curr_min = d.getMinutes();
+
+curr_min = curr_min + "";
+
+if (curr_min.length == 1)
+   {
+   curr_min = "0" + curr_min;
+   }
+
+document.write(curr_hour + ":" + curr_min + "" + a_p);
+
+ //--></script>
+
+</div>
+</div>
+</header>

@@ -1,0 +1,31 @@
+---
+layout: default
+---
+<main role="main">
+<article>
+<div>Welcome to the Online {{ site.name }} Catalog!<br />
+Please select one of the options bellow.</div>
+
+<nav>
+    <ol>
+        {% for item in site.data.navigation %}
+        <li>
+            <a href="{{ site.url }}{{ item.url }}">{{ item.title }}</a>
+        </li>
+        {% endfor %}
+    </ol>
+</nav>
+    <h1>Just Added:</h1>
+<nav>
+    <ol>
+        {% for post in site.posts limit:10 %}
+        <li>
+             <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+<time datetime="{{ post.date  | date_to_xmlschema }}">{{ post.date  | date_to_string }}</time>
+{{ post.excerpt | strip_html }}
+        </li>
+        {% endfor %}
+    </ol>
+</nav>
+</article>
+</main>
