@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pov-Ray Usenet Archiving"
+title:  "Pov-Ray Usenet Archiving Completed"
 date:   2016-08-19
 categories: compression archiving dtn
 tags: ZPAQ zpaq backup archive archiving dtn usenet
