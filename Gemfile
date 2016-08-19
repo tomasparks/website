@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 gem 'jekyll'
 gem 'jekyll-lunr-js-search'
 gem 'jekyll-archives'
+gem 'jekyll-responsive_image'
 
 
 gem 'html-proofer'
