@@ -9,14 +9,14 @@ url: https://tomasparks.github.io/
 keep_files:   [".git"]
 
 
-gems: [jekyll-seo-tag]
+gem: [jekyll-seo-tag]
 
 
-gems: [jekyll-feed]
+gem: [jekyll-feed]
 feed:
   path: atom.xml
 
-gems: [jekyll-archives]
+gems: ['jekyll-archives']
 jekyll-archives:
   enabled:   all
   layout:
@@ -30,7 +30,7 @@ jekyll-archives:
     category: '/category/:name/'
 
 
-gem: [jekyll-lunr-js-search]
+gem: ['jekyll-lunr-js-search']
 lunr_search:
   js_dir: "./assets/js/"
   excludes: [rss.xml, 404.html]
