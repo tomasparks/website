@@ -1,5 +1,5 @@
 # Blog settings
-permalink: /:year/:month/:slug.html
+permalink: '/archive/:year/:month/:slug.html'
 limit_posts: 0
 searchindex: yes
 #url: /home/tom/blog/_site/
@@ -7,35 +7,16 @@ searchindex: yes
 url: https://tomasparks.github.io/
 #url: /
 keep_files:   [".git"]
+include: [".htaccess"]
+exclude: ["README.md", "LICENSE","build.sh","Gemfile.lock","Gemfile"]
+name: Tom Sparks
+description: 
+google_verification: null
 
 
-gem: [jekyll-seo-tag]
 
 
-gem: [jekyll-feed]
-feed:
-  path: atom.xml
-
-gems: ['jekyll-archives']
-jekyll-archives:
-  enabled:   all
-  layout:
-  year: 'year-archive'
-  month: 'month-archive'
-  tag: 'tag-archive'
-  permalinks:
-    year: '/:year/'
-    month: '/:year/:month/'
-    tag: '/tag/:name/'
-    category: '/category/:name/'
-
-
-gem: ['jekyll-lunr-js-search']
-lunr_search:
-  js_dir: "./assets/js/"
-  excludes: [rss.xml, 404.html]
-
-gems: [ 'jekyll-pandoc-multiple-formats' ]
+gems: ['jekyll-pandoc-multiple-formats','jekyll-lunr-js-search','jekyll-archives','jekyll-seo-tag','jekyll-feed']
 markdown: pandoc
 pandoc:
 #    skip: false
@@ -50,19 +31,31 @@ pandoc:
 #      pdf: '--latex-engine=pdflatex'
 #      epub: '--epub-chapter-level=2'
 
-#citation:
+feed:
+  path: atom.xml
+
+jekyll-archives:
+  enabled:   [ 'year','month']
+  layout:
+    year: 'year-archive'
+    month: 'month-archive'
+  permalinks:
+    year: '/archive/:year/'
+    month: '/archive/:year/:month/'
+
+
+lunr_search:
+  js_dir: "./assets/js/"
+  excludes: [rss.xml, 404.html]
+
+
+
+
+
+citation:
 #    citation_style: apa
 #    citation_locale: en
 
-# My variables
-name: Tom Sparks
-description: 
-google_verification: null
-
-
-# File management
-include: [".htaccess"]
-exclude: ["README.md", "LICENSE","build.sh"]
 
 
 # Sass
