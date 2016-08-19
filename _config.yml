@@ -9,10 +9,10 @@ url: https://tomasparks.github.io/
 keep_files:   [".git"]
 
 
-gems:
-  - jekyll-seo-tag
-gems:
-  - jekyll-feed
+gems: [jekyll-seo-tag]
+
+
+gems: [jekyll-feed]
 feed:
   path: atom.xml
 
@@ -62,7 +62,7 @@ google_verification: null
 
 # File management
 include: [".htaccess"]
-exclude: ["README.md", "LICENSE"]
+exclude: ["README.md", "LICENSE","build.sh"]
 
 
 # Sass
