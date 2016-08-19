@@ -2,8 +2,11 @@ source 'https://rubygems.org'
 gem 'jekyll'
 gem 'jekyll-lunr-js-search'
 gem 'jekyll-archives'
-gem 'rmagick'
-gem 'jekyll-responsive_image'
+gem 'jekyll-seo-tag'
+gem 'jekyll-feed'
+
+#gem 'rmagick'
+#gem 'jekyll-responsive_image'
 
 
 gem 'html-proofer'
