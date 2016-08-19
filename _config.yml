@@ -15,7 +15,6 @@ jekyll-archives:
   month: month-archive
   day: day-archive
   tag: tag-archive-layout
-    category: 'cat-archive-layout'
   permalinks:
     year: '/:year/'
     month: '/:year/:month/'
