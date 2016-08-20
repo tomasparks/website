@@ -54,10 +54,13 @@ body {
 							li {
 
 								div {
+									width: 100%; display: table;
 									a {
+										display: table-row;
 										text-align:      left;
 										}
 									time {	
+										display: table-row;
 										text-align:      right;
 										}
 									}
