@@ -46,11 +46,13 @@ body {
 						}
 					nav {
 						display:block;
-						ul, ol {
-							display:block;
+						}
+
+
+						 ol {
+
 							li {
 
-								display:block;
 								div {
 									a {
 										text-align:      left;
@@ -62,13 +64,11 @@ body {
 								}
 						
 							}
-						}
 					ul {
-						display:block;
+
 						list-style-type: none;
 						li {
 							text-indent: -1.4em;
-							display:block;
 							}
 						li:before {
 								font-family: 'IBM_MDA';
