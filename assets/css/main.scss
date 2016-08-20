@@ -44,10 +44,16 @@ body {
 						padding: 5px;
 						}
 					nav {
-						ul {
+						ol {
 							list-style-type: none;
 							li {
 								text-indent: -1.4em;
+								a {
+									text-align:      left;
+									}
+								time {	
+									text-align:      right;
+									}
 								}
 							li:before {
 									font-family: 'IBM_MDA';
@@ -55,9 +61,10 @@ body {
 									float: left;
 									width: 1.4em;
 								}
+						
 							}
 						}
-					ul {
+					ol {
 						list-style-type: none;
 						li {
 							text-indent: -1.4em;
