@@ -54,14 +54,14 @@ body {
 							li {
 
 								div {
-									width: 100%;
+									width: 100%;clear: both;
 									a {
-										display: inline-block;
+										float: left;
 										text-align:      left;
 										}
 									time {	
 										min-width: 100%;
-										display: inline-block;
+										float: right;
 										text-align:      right;
 										}
 									}
