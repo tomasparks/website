@@ -16,7 +16,14 @@ google_verification: null
 
 
 
-gems: ['jekyll-pandoc-multiple-formats','jekyll-lunr-js-search','jekyll-archives','jekyll-seo-tag','jekyll-feed']
+gems: 
+ - 'jekyll-pandoc-multiple-formats'
+ - 'jekyll-lunr-js-search'
+ - 'jekyll-archives'
+ - 'jekyll-seo-tag'
+ - 'jekyll-feed'
+
+
 markdown: pandoc
 pandoc:
 #    skip: false

@@ -2,7 +2,8 @@
 
  bundle update
 
-jekyll build
+jekyll build --verbose
+
 htmlproofer ./_site
 
 
