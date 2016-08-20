@@ -20,9 +20,8 @@ Please select one of the options bellow.</div>
     <ol>
         {% for post in site.posts limit:10 %}
         <li>
-             <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-<time datetime="{{ post.date  | date_to_xmlschema }}">{{ post.date  | date_to_string }}</time>
-{{ post.excerpt | strip_html }}
+<header><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a><time datetime="{{ post.date  | date_to_xmlschema }}">{{ post.date  | date_to_string }}</time></header>
+<div>{{ post.excerpt | strip_html }}</div>
         </li>
         {% endfor %}
     </ol>

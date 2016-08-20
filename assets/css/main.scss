@@ -21,15 +21,13 @@ body {
 			color:black; background: green; width: 100%; display: table;
 			}
 		main {
-			height: auto; min-height: 100%;
+			height: auto;
+			min-height: 100%;
 			article {
-				border-style: solid;
-				border-color: green;
-				border-width: 5px;
 				color: green;
 				background: black;
 				font-family: 'IBM_MDA';
-				margin: auto;
+				margin: 20px;
 				padding: 20px;
 				width: 60%;
 				display: block;
