@@ -44,27 +44,21 @@ body {
 						padding: 5px;
 						}
 					nav {
-						ol {
-							list-style-type: none;
+						ul, ol {
 							li {
-								text-indent: -1.4em;
-								a {
-									text-align:      left;
+								div {
+									a {
+										text-align:      left;
+										}
+									time {	
+										text-align:      right;
+										}
 									}
-								time {	
-									text-align:      right;
-									}
-								}
-							li:before {
-									font-family: 'IBM_MDA';
-									content: "\25CF";
-									float: left;
-									width: 1.4em;
 								}
 						
 							}
 						}
-					ol {
+					ul {
 						list-style-type: none;
 						li {
 							text-indent: -1.4em;
