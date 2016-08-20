@@ -2,21 +2,51 @@
 ---
 @import "reset";
 @import "config";
-* {
+
+$font-stack:    IBM_MDA;
+$primary-color: green;
+$secondary-color: black;
+
+
+body {
 	color: green;
 	background: black;
 	font-family: 'IBM_MDA';
         font-size:xx-large;
 margin: 0px;
+header {
+color:black; background: green; width: 100%; display: table;
+}
+main {
+height: auto; min-height: 100%;
+article {
+	color: green;
+	background: black;
+	font-family: 'IBM_MDA';
+margin: auto;
+padding: 20px;
+width: 60%;
+display: block;
+header {
+padding: 5px;
 }
 
-body header {color:black; background: green; width: 100%; display: table; }
-body footer {color:black; background: green; width: 100%; display: table; }
-
-nav ol li time {
-text-align: right;
-
+ h1,h2,h3,h4,h5,h6 {
+text-decoration: underline;
+padding: 5px;
 }
+div {
+padding: 5px;
+}
+}
+}
+footer {
+color:black; background: green; width: 100%; display: table;
+ }
+}
+
+
+
 ul {
 	list-style-type: none;
 }
@@ -39,6 +69,11 @@ text-align: left;
 overflow: hidden;
 
 }
+
+nav ol li time {
+text-align: right;
+
+}
 hr {
     text-align:      center;
     border:          none;
@@ -55,25 +90,8 @@ hr:after {
 main {
 height: auto; min-height: 100%;
 }
-article {
-	color: green;
-	background: black;
-	font-family: 'IBM_MDA';
-margin: auto;
-padding: 20px;
-width: 60%;
-display: block;
-}
-article header {
-padding: 5px;
-}
-article h1,h2,h3,h4,h5,h6 {
-text-decoration: underline;
-padding: 5px;
-}
-article div {
-padding: 5px;
-}
+
+
 a {
 	color: black;
 	background: green;
