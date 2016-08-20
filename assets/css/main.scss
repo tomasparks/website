@@ -56,10 +56,12 @@ body {
 								div {
 									width: 100%; display: table;
 									a {
+										overflow: hidden;
 										display: table-row;display: table-cell;
 										text-align:      left;
 										}
 									time {	
+										min-width: 100%;
 										display: table-row;display: table-cell;
 										text-align:      right;
 										}
