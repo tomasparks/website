@@ -23,13 +23,13 @@ body {
 		main {
 			height: auto;
 			min-height: 100%;
+			width: 60%;
 			article {
 				color: green;
 				background: black;
 				font-family: 'IBM_MDA';
-				margin: 20px;
+				margin: auto;
 				padding: 20px;
-				width: 60%;
 				display: block;
 					header {
 						padding: 5px;
@@ -41,6 +41,19 @@ body {
 						}
 					div {
 						padding: 5px;
+						}
+					nav {
+						ul {
+							list-style-type: none;
+							li {
+								text-indent: -1.4em;
+								}
+							li:before {
+									font-family: 'IBM_MDA';
+									content: "\25CF";
+									float: left;
+									width: 1.4em;
+								}
 						}
 					ul {
 						list-style-type: none;
