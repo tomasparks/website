@@ -3,7 +3,7 @@
 @import "reset";
 @import "config";
 
-$font-stack:    IBM_MDA;
+$font-family:    IBM_MDA;
 $primary-color: green;
 $secondary-color: black;
 
@@ -13,90 +13,58 @@ body {
 	background: black;
 	font-family: 'IBM_MDA';
         font-size:xx-large;
-margin: 0px;
-header {
-color:black; background: green; width: 100%; display: table;
-}
-main {
-height: auto; min-height: 100%;
-article {
-	color: green;
-	background: black;
-	font-family: 'IBM_MDA';
-margin: auto;
-padding: 20px;
-width: 60%;
-display: block;
-header {
-padding: 5px;
-}
+	margin: 0px;
+		header {
+			color:black; background: green; width: 100%; display: table;
+			}
+		main {
+			height: auto; min-height: 100%;
+			article {
+				color: green;
+				background: black;
+				font-family: 'IBM_MDA';
+				margin: auto;
+				padding: 20px;
+				width: 60%;
+				display: block;
+					header {
+						padding: 5px;
+						}
 
- h1,h2,h3,h4,h5,h6 {
-text-decoration: underline;
-padding: 5px;
-}
-div {
-padding: 5px;
-}
-}
-}
-footer {
-color:black; background: green; width: 100%; display: table;
- }
-}
+					h1,h2,h3,h4,h5,h6 {
+						text-decoration: underline;
+						padding: 5px;
+						}
+					div {
+						padding: 5px;
+						}
+					ul {
+						list-style-type: none;
+						li {
+							text-indent: -1.4em;
+							}
+						li:before {
+								font-family: 'IBM_MDA';
+								content: "\25CF";
+								float: left;
+								width: 1.4em;
+							}
+						}
+						hr {
+							text-align:      center;
+							border:          none;
+							padding: 2em;
+							height:          0;
+							line-height:     0;
+							}
 
+						hr:after {
+								content:         "---------------------------------------";
+								}
 
-
-ul {
-	list-style-type: none;
-}
-
-ul li
-{
-	text-indent: -1.4em;
-}
-
-
-ul li:before
-{
-	font-family: 'IBM_MDA';
-	content: "\25CF";
-	float: left;
-	width: 1.4em;
-}
-nav ol li a {
-text-align: left;
-overflow: hidden;
-
-}
-
-nav ol li time {
-text-align: right;
-
-}
-hr {
-    text-align:      center;
-    border:          none;
-padding: 2em;
-    height:          0;
-    line-height:     0;
-    }
-
-hr:after {
-    content:         "---------------------------------------";
-    }
-
-
-main {
-height: auto; min-height: 100%;
-}
-
-
-a {
-	color: black;
-	background: green;
-margin: 0px;
-
-}
-
-
+					}
+		}
+	footer {
+		color:black; background: green; width: 100%; display: table;
+ 		}
+	}
