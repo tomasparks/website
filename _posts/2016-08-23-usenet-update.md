@@ -10,7 +10,12 @@ tags: ZPAQ zpaq backup archive archiving dtn usenet
 
 
 ~~~~~~~
-nget -dfim --host $url --no-decode  -m yes -P  '$folder' -g $group -r ""
+nget -dfim --host $url \n
+ --no-decode -m yes \n
+ -P '$folder' \n
+ -g $group \n
+ -r ""
+
 $url is the nttp server
 $folder is were you want the articles saved
 $group is the group you want to download
