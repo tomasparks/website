@@ -2,4 +2,7 @@
   url: /
 
 - title: about
-  url: /about-me
+  url: /about-me/
+
+- title: Reviews
+  url:/reviews/

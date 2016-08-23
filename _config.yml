@@ -79,6 +79,6 @@ sass:
 #highlighter: rouge
 
 collections:
- reviews:
+ - reviews:
    output: true
    layout: page
