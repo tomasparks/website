@@ -4,7 +4,6 @@
 
 jekyll build --verbose
 
-htmlproofer ./_site
 
 
 git add --all 
@@ -15,3 +14,5 @@ cd _site
 git add --all 
 git commit -a -m "updating static website."
 git push
+
+htmlproofer ./_site

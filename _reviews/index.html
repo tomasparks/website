@@ -13,7 +13,7 @@ permalink: /reviews/index.html
 {% for reviews in site.reviews %}
 	<li>
 	<h2><a href="{{ reviews.url }}">{{ reviews.title }}</a></h2>
-<img src="{{ reviews.image }}" alt="{{ reviews.title }}" />
+<img src="{{ reviews.url }}{{ reviews.image }}" alt="{{ reviews.title }}" />
 <div>{{ reviews.type }}</div>
 </li>
 {% endfor %}
