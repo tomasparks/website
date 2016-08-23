@@ -79,6 +79,8 @@ sass:
 #highlighter: rouge
 
 collections:
- - reviews:
-   output: true
-   layout: page
+
+collections:
+  reviews:
+    output: true
+    permalink: /reviews/:path/
