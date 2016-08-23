@@ -1,5 +1,6 @@
 ---
-title: The Hacker Crackdown: Law and Disorder on the Electronic Frontier Review
+title: The Hacker Crackdown: Law and Disorder on the Electronic Frontier
+author: Bruce Sterling
 ---
 
 > The Hacker Crackdown: Law and Disorder on the Electronic Frontier is a work of nonfiction by Bruce Sterling first published in 1992.
