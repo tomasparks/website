@@ -83,4 +83,4 @@ collections:
   reviews:
     layout: page
     output: true
-    permalink: /reviews/:path/:basename:output_ext
+    permalink: /reviews/:path/:slug.html
