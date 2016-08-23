@@ -82,4 +82,3 @@ collections:
  reviews:
    output: true
    layout: page
-   permalink: /reviews/:path/
