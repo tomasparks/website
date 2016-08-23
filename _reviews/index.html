@@ -9,6 +9,8 @@ title:Reviews
 <nav>
 {% for reviews in site.reviews %}
 		<h2><a href="{{ reviews.url }}">{{ reviews.title }}</a></h2>
+<img src="reviews.image" alt="{{ reviews.title }}" />
+<div>{{ reviews.type }}</div>
 {% endfor %}
 </nav>
 </article>
