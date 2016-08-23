@@ -2,6 +2,7 @@
 title: "The Hacker Crackdown"
 author: Bruce Sterling
 type: book
+isbn: 0-553-56370-X
 layout: page
 ---
 

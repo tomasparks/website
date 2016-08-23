@@ -5,13 +5,18 @@ title: Reviews
 <main role="main">
 <article>
 
-
+<div>These reviews 
+</div>
 <nav>
+<ol>
 {% for reviews in site.reviews %}
-		<h2><a href="{{ reviews.url }}">{{ reviews.title }}</a></h2>
+	<li>
+	<h2><a href="{{ reviews.url }}">{{ reviews.title }}</a></h2>
 <img src="{{ reviews.image }}" alt="{{ reviews.title }}" />
 <div>{{ reviews.type }}</div>
+</li>
 {% endfor %}
+</ol>
 </nav>
 </article>
 </main>
