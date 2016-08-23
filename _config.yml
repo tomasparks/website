@@ -77,3 +77,8 @@ sass:
 #  input: GFM
 #  hard_wrap: false
 #highlighter: rouge
+
+collections:
+ reviews:
+   output: true
+permalink: /reviews/:path/

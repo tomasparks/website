@@ -5,8 +5,8 @@ date:   2016-08-23
 categories: compression archiving dtn
 tags: ZPAQ zpaq backup archive archiving dtn usenet
 ---
-* I have give thunderbird the middle finger for download usenet articles[^1]
-* I found [nget](http://nget.sourceforge.net/), its an old program, but still works
+* I have given thunderbird the middle finger for download usenet articles[^1]
+* I found [nget](http://nget.sourceforge.net/), its an old program, but still works :)
 
 
 ~~~~~~~
