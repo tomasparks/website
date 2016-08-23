@@ -81,4 +81,5 @@ sass:
 collections:
  reviews:
    output: true
-#permalink: /reviews/:path/
+   layout: page
+   permalink: /reviews/:path/
