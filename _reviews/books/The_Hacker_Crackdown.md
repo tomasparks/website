@@ -1,5 +1,5 @@
 ---
-title: The Hacker Crackdown: Law and Disorder on the Electronic Frontier
+title: "The Hacker Crackdown: Law and Disorder on the Electronic Frontier"
 author: Bruce Sterling
 type: book
 ---
