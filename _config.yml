@@ -78,10 +78,9 @@ sass:
 #  hard_wrap: false
 #highlighter: rouge
 
-collections:
 
 collections:
   reviews:
     layout: page
     output: true
-    permalink: /reviews/:path
+    permalink: /reviews/:path/:basename:output_ext
