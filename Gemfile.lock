@@ -45,7 +45,7 @@ GEM
     jekyll-archives (2.1.0)
       jekyll (>= 2.4)
     jekyll-feed (0.6.0)
-    jekyll-lunr-js-search (3.1.0)
+    jekyll-lunr-js-search (3.2.0)
       json (~> 1.8)
       nokogiri (~> 1.6)
       therubyracer (~> 0.12)
