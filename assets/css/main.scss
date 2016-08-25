@@ -10,13 +10,14 @@ $secondary-color: black;
 body {
 	color: green;
 	background: black;
-	font-family: 'Glass_TTY_VT220';
+	font-family: 'IBM_MDA';
         font-size:xx-large;
 	margin: 0px;
 		a {
 			color:black; background: green;
 		}
 		header {
+			font-family: 'Glass_TTY_VT220';
 			color:black; background: green; width: 100%; display: table;
 			}
 		main {
@@ -37,7 +38,7 @@ body {
 						background: black;
 						padding: 0.5em;
 						margin: 0.5em;
-						border: 1px solid green;
+						border: 2px solid green;
 						font-family: 'Glass_TTY_VT220';
 						text-decoration: underline;
 						text-align: center;
@@ -51,7 +52,7 @@ body {
 						background: black;
 						padding: 0.5em;
 						margin: 0.5em;
-						border: 1px solid green;
+						border: 2px solid green;
 						font-family: 'Glass_TTY_VT220';
 					}
 					nav {
@@ -106,6 +107,7 @@ body {
 					}
 		}
 	footer {
+	font-family: 'Glass_TTY_VT220';
 		color:black; background: green; width: 100%; display: table;
  		}
 	}
