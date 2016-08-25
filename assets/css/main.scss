@@ -7,7 +7,6 @@ $font-family:   Glass_TTY_VT220;
 $primary-color: green;
 $secondary-color: black;
 
-
 body {
 	color: green;
 	background: black;
@@ -16,7 +15,7 @@ body {
 	margin: 0px;
 		a {
 			color:black; background: green;
-			}
+		}
 		header {
 			color:black; background: green; width: 100%; display: table;
 			}
@@ -33,7 +32,7 @@ body {
 				padding: 20px;
 				display: block;
 					header {
-
+						display: block;
 							h1,h2,h3,h4,h5,h6 {
 								padding: 1.5em;
 								margin: 0.5em;
