@@ -9,24 +9,7 @@ layout: default
 </header>
 <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time>
 
-
-
         {{ content }}
-<hr />
-<nav>
-categories:
-<ul>
-{% for tag in page.categories %}
-    <li> {{tag}} </li>
-{% endfor %}
-</ul>
-tags:
-<ul>
-{% for tag in page.tags %}
-    <li> {{tag}} </li>
-{% endfor %}
-</ul>
-</nav>
 </article>
 <nav>
 </nav>
