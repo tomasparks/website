@@ -5,8 +5,8 @@ gem 'jekyll-archives'
 gem 'jekyll-seo-tag'
 gem 'jekyll-feed'
 
-#gem 'rmagick'
-#gem 'jekyll-responsive_image'
+gem 'rmagick'
+gem 'jekyll-responsive_image'
 
 
 gem 'html-proofer'

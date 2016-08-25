@@ -22,6 +22,7 @@ gems:
  - 'jekyll-archives'
  - 'jekyll-seo-tag'
  - 'jekyll-feed'
+ - 'jekyll/responsive_image'
 
 
 markdown: pandoc
@@ -56,7 +57,51 @@ lunr_search:
   excludes: [rss.xml, 404.html]
 
 
+responsive_image:
+  # [Required]
+  # Path to the image template.
+  template: _includes/responsive-image.html
 
+  # [Optional, Default: 85]
+  # Quality to use when resizing images.
+  default_quality: 95
+
+  # [Optional, Default: []]
+  # An array of resize configuration objects. Each object must contain at least
+  # a `width` value.
+  sizes:
+    - width: 480  # [Required] How wide the resized image will be.
+      quality: 80 # [Optional] Overrides default_quality for this size.
+    - width: 800
+    - width: 1400
+      quality: 90
+
+  # [Optional, Default: assets]
+  # The base directory where assets are stored. This is used to determine the
+  # `dirname` value in `output_path_format` below.
+  base_path: assets
+
+  # [Optional, Default: assets/resized/%{filename}-%{width}x%{height}.%{extension}]
+  # The template used when generating filenames for resized images. Must be a
+  # relative path.
+  #
+  # Parameters available are:
+  #   %{dirname}     Directory of the file relative to `base_path` (assets/sub/dir/some-file.jpg => sub/dir)
+  #   %{basename}    Basename of the file (assets/some-file.jpg => some-file.jpg)
+  #   %{filename}    Basename without the extension (assets/some-file.jpg => some-file)
+  #   %{extension}   Extension of the file (assets/some-file.jpg => jpg)
+  #   %{width}       Width of the resized image
+  #   %{height}      Height of the resized image
+  #
+  output_path_format: assets/resized/%{width}/%{basename}
+
+  # By default, only images referenced by the responsive_image and responsive_image_block
+  # tags are resized. Here you can set a list of paths or path globs to resize other
+  # images. This is useful for resizing images which will be referenced from stylesheets.
+  extra_images:
+    - assets/foo/bar.png
+    - assets/bgs/*.png
+    - assets/avatars/*.{jpeg,jpg}
 
 
 citation:
@@ -84,3 +129,7 @@ collections:
     layout: page
     output: true
     permalink: /reviews/:path/
+  questions:
+    layout: page
+    output: true
+    permalink: /questions/:path/

@@ -1,0 +1,10 @@
+{% assign path = 'assets/test.png' %}
+{% assign alt = 'Lorem ipsum...' %}
+
+{% responsive_image_block %}
+    path: {{ path }}
+    alt: {{ alt }}
+    {% if title %}
+    title: {{ title }}
+    {% endif %}
+{% endresponsive_image_block %}
