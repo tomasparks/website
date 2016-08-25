@@ -1,12 +1,14 @@
 ---
 layout: default
 ---
-<! start of post !>
+<!-- start of post -->
 <main role="main">
 <article>
+{% if page.title %}
 <header>
     <h1>{{ page.title }}</h1>
 </header>
+{% endif %}
 <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time>
 
         {{ content }}
@@ -14,4 +16,4 @@ layout: default
 <nav>
 </nav>
 </main>
-<! end of post !>
+<!-- end of post --!>
