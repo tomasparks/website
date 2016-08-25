@@ -14,7 +14,7 @@ body {
         font-size:xx-large;
 	margin: 0px;
 		a {
-			color:black; background: green;
+			color:black; background: green;font-family: 'Glass_TTY_VT220';
 		}
 		header {
 			font-family: 'Glass_TTY_VT220';
@@ -70,10 +70,10 @@ body {
 
 								div {
 									width: 100%;
-									a {
+									a { font-family: 'Glass_TTY_VT220';
 										text-align:      left;
 										}
-									time {	
+									time {	font-family: 'Glass_TTY_VT220';
 										text-align:      right;
 										}
 									}
@@ -101,7 +101,7 @@ body {
 							line-height:     0;
 							}
 
-						hr:after {
+						hr:after {color: green;background: black;
 								content:         "---------------------------------------";
 								}
 
