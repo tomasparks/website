@@ -3,7 +3,7 @@
 @import "reset";
 @import "config";
 
-$font-family:   Conv_Glass_TTY_VT220;
+$font-family:   Glass_TTY_VT220;
 $primary-color: green;
 $secondary-color: black;
 
@@ -11,7 +11,7 @@ $secondary-color: black;
 body {
 	color: green;
 	background: black;
-	font-family: 'Conv_Glass_TTY_VT220';
+	font-family: 'Glass_TTY_VT220';
         font-size:xx-large;
 	margin: 0px;
 		a {
@@ -27,27 +27,38 @@ body {
 			article {
 				color: green;
 				background: black;
-				font-family: 'Conv_Glass_TTY_VT220';
+				font-family: 'IBM_MDA';
 				margin: auto;
 				width: 60%;
 				padding: 20px;
 				display: block;
 					header {
-						padding: 5px;
+						padding: 1.5em;
+						margin: 0.5em;
+						border-style: solid;
+						font-family: 'Glass_TTY_VT220';
 						h1,h2,h3,h4,h5,h6 {
-							color:black; background: green; width: 100%;
+							color:green; background: black; width: 100%;
+							text-align: center;
 							}
 						}
 
 					h1,h2,h3,h4,h5,h6 {
+						padding: 1.5em;
+						margin: 0.5em;
+						border-style: solid;
+						font-family: 'Glass_TTY_VT220';
 						text-decoration: underline;
-						padding: 5px;
+						text-align: center;
 						}
 					div {
 						padding: 5px;
 						display:block;
 						}
 					nav {
+						padding: 1.5em;
+						margin: 0.5em;
+						border-style: solid;
 						display:block;
 						}
 
@@ -75,7 +86,7 @@ body {
 							text-indent: -1.4em;
 							}
 						li:before {
-								font-family: 'Conv_Glass_TTY_VT220';
+								font-family: 'IBM_MDA';
 								content: "\25CF";
 								float: left;
 								width: 1.4em;
