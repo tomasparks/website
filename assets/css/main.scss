@@ -3,7 +3,7 @@
 @import "reset";
 @import "config";
 
-$font-family:    IBM_MDA;
+$font-family:   Conv_Glass_TTY_VT220;
 $primary-color: green;
 $secondary-color: black;
 
@@ -11,7 +11,7 @@ $secondary-color: black;
 body {
 	color: green;
 	background: black;
-	font-family: 'IBM_MDA';
+	font-family: 'Conv_Glass_TTY_VT220';
         font-size:xx-large;
 	margin: 0px;
 		a {
@@ -27,7 +27,7 @@ body {
 			article {
 				color: green;
 				background: black;
-				font-family: 'IBM_MDA';
+				font-family: 'Conv_Glass_TTY_VT220';
 				margin: auto;
 				width: 60%;
 				padding: 20px;
@@ -75,7 +75,7 @@ body {
 							text-indent: -1.4em;
 							}
 						li:before {
-								font-family: 'IBM_MDA';
+								font-family: 'Conv_Glass_TTY_VT220';
 								content: "\25CF";
 								float: left;
 								width: 1.4em;
