@@ -17,7 +17,7 @@ permalink: /reviews/index.html
 <div>
 <div id=image_reviews" style="float:left; padding:10px;" >
 <a href="{{ reviews.url }}"><img src="{{ reviews.url }}{{ reviews.image }}" alt="{{reviews.type}} cover: {{ reviews.title }} by {{ review.author }}"/></a>
-{% picture The-internets-own-boy.jpg alt="bla" %}
+{% picture {{ reviews.image }} alt="bla" %}
 </div>Type: {{ reviews.type }}<br />{{ reviews.excerpt | strip_html }}
 </div>
 </li>
