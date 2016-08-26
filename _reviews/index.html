@@ -13,7 +13,9 @@ permalink: /reviews/index.html
 {% for reviews in site.reviews %}
 	<li>
 	<h2><a href="{{ reviews.url }}">{{ reviews.title }}</a></h2>
-<img src="{{ reviews.url }}{{ reviews.image }}" alt="{{ reviews.title }}" />
+<div id=image_reviews" style="float:left; padding:10px;" >
+<img src="{{ reviews.url }}{{ reviews.image }}" alt="{{page:type}} cover: {{ reviews.title }} by {{ review.author }}"/>
+</div>
 <div>{{ reviews.type }}</div>
 </li>
 {% endfor %}
