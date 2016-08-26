@@ -42,7 +42,7 @@ pandoc:
 picture:
   source: "assets/img/_originals/"
   output: "assets/img/resized/"
-  posts_folders: "assets/img/:year/:month/:slug/"
+#  posts_folders: "assets/img/resized/:year/:month/:slug/"
   markup: "picture"
   presets:
     default:
