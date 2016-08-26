@@ -20,7 +20,7 @@ layout: reviews
 
 
 
-=== Quotes ===
+## Quotes ##
 
 >    I can see a future in which any person can have a Node on the [Internet].
 >    Any person can be a publisher. It's better than the media we now have. It's possible.
