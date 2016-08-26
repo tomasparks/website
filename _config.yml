@@ -45,11 +45,11 @@ picture:
   posts_folders: "assets/img/:year/:month/:slug/"
   markup: "picture"
   presets:
-hero:
-      attr:
-        class: "page__hero-image"
-        itemprop: "image"
-      ppi: [1]
+	hero:
+      	 attr:
+        	class: "page__hero-image"
+        	itemprop: "image"
+         ppi: [1,1.5]
       source_1600:
         media: "(min-width: 1600px)"
         width: "1600"
@@ -64,6 +64,8 @@ hero:
         width: "600"
       source_default:
         width: "320"
+
+
 
 
 lunr_search:
