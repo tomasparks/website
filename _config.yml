@@ -46,8 +46,6 @@ picture:
   markup: "picture"
   presets:
     default:
-      attr:
-        class: "img"
        ppi: [1, 1.5, 2]
      source_1080:
         width: "1280"
