@@ -1,13 +1,13 @@
 source 'https://rubygems.org'
 gem 'jekyll'
 gem 'jekyll-lunr-js-search'
-gem 'jekyll-archives'
+#gem 'jekyll-archives'
 gem 'jekyll-seo-tag'
-gem 'jekyll-feed'
+#gem 'jekyll-feed'
 
-gem 'rmagick'
-gem 'jekyll-responsive_image'
-
+#gem 'rmagick'
+#gem 'jekyll-responsive_image'
+gem 'jekyll-picture-tag', github: 'nhoizey/jekyll-picture-tag'
 
 gem 'html-proofer'
 #gem 'jekyll-pandoc-multiple-formats', github: 'edsl/jekyll-pandoc-multiple-formats', branch: 'develop'
