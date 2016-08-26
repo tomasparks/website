@@ -41,7 +41,7 @@ pandoc:
 
 picture:
   source: "assets/img/_originals/"
-  output: "assets/"
+  output: "assets/img/"
 #  posts_folders: "assets/img/resized/:year/:month/:slug/"
   markup: "picture"
   presets:
