@@ -9,11 +9,13 @@ permalink: /questions/index.html
 <div>These Open Questions have not been answered yet?</div>
 <nav>
 <ol>
-{% for questions in site.questions %}
+{% for questions in site.questions | sort: 'title' %}
+{% if reviews.title != 'index' %}
 	<li>
 <h2>{{questions.title}}</h2>
 {{ questions.excerpt | strip_html }}
 </li>
+{% endif %}
 {% endfor %}
 </ol>
 </nav>

@@ -10,7 +10,7 @@ permalink: /reviews/index.html
 </div>
 <nav>
 <ol>
-{% for reviews in site.reviews %}
+{% for reviews in site.reviews | sort: 'type' %}
 	<li>
 <div>
 <div id=image_reviews" style="float:left; padding:10px;" >
