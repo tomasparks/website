@@ -71,6 +71,6 @@ None[^3]:
 [source](https://en.wikipedia.org/wiki/Incremental_backup)
 [^2]: 
 > This implies that the bitstream is arranged so that most important information is near the front end of the bitstream and the least important information is at the back of the bitstream. Thus, in decoding, the quality of the decoded image is progressively increased.
-[source](http://www.igi-global.com/dictionary/progressive-transmission/36015)
+[source](http://www.igi-global.com/dictionary/progressive-transmission/36015)   
 [Pyramid (image processing)](https://en.wikipedia.org/wiki/Pyramid_(image_processing) )
 [^3]: NASA/CCSDS and PGF are the best options today
