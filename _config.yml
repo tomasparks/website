@@ -46,9 +46,6 @@ picture:
   markup: "picture"
   presets:
     default:
-      attr:
-        class: "img"
-       ppi: [1, 1.5, 2]
      source_1080:
         width: "1280"
         height: "1080"
@@ -68,8 +65,8 @@ picture:
         width: "320"
         height: "240"
      source_default:
-        width: "100%"
-        height: "100%"
+        width: "640"
+        height: "480"
 
 
 
