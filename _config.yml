@@ -39,10 +39,10 @@ pandoc:
 #      epub: '--epub-chapter-level=2'
 
 
-#picture:
-#  source: "assets/images/_fullsize"
+picture:
+  source: "assets/images/_fullsize"
 #  output: "assets/images/"
-#   posts_folders: "assets/images/:year/:month/:slug/"
+   posts_folders: "assets/images/:year/:month/:slug/"
 #  markup: "picture"
 #  presets:
 
