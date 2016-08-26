@@ -75,7 +75,7 @@ responsive_image:
   #   %{width}       Width of the resized image
   #   %{height}      Height of the resized image
   #
-  output_path_format: assets/img/resized/%{width}/%{basename}
+  output_path_format: _site/assets/img/resized/%{height}/%{basename}
 
   # By default, only images referenced by the responsive_image and responsive_image_block
   # tags are resized. Here you can set a list of paths or path globs to resize other
