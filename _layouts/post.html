@@ -12,11 +12,10 @@ layout: default
 <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time>
 {% if page.title %}
 <div id=image_post" style="float:right; padding:10px;" >
-{% assign path = {{ page.image }} %}
-{% assign alt = {{ page.title }} %}
+
 {% responsive_image_block %}
-    path: "assets/img/_originals/{{ page.image }}"
-    alt: {{ alt }}
+    path: assets/img/_originals/{{ page.image }}
+    alt: {{ page.title }}
 {% endresponsive_image_block %}
 </div>
 {% endif %}
