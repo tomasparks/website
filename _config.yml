@@ -45,14 +45,15 @@ picture:
   posts_folders: "assets/img/:year/:month/:slug/"
   markup: "picture"
   presets:
-      default:
-         ppi: [1,1.5]
+    default:
+      ppi: [1, 1.5]
       source_medium:
         media: "(min-width: 40em)"
-        width: "600"
-        height: "300"
+        width: "640"
+        height: "480"
       source_default:
         width: "320"
+        height: "240"
 
 
 
