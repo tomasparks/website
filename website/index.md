@@ -4,9 +4,10 @@ layout: page
 ---
 this website is a mock-clone of the [Dynix Automated Library System](https://en.wikipedia.org/wiki/Dynix_(software))
 
- * I am not following the style 100%, but I am following the [Text-based_user interface](https://en.wikipedia.org/wiki/Text-based_user_interface)
+ * I am not following the style 100%,
+ * but I am following the [Text-based user interface](https://en.wikipedia.org/wiki/Text-based_user_interface)
 
-== fonts ==
+## fonts ##
 
 I am using two fonts:
 (I had to convert them to the webfont standard)
