@@ -11,7 +11,7 @@ permalink: /questions/index.html
 <ol>
 {% assign sortedQuestions = site.questions | sort: 'title' %}
 {% for questions in sortedQuestions %}
-{% if questions.title != 'index' %}
+{% if questions.title != 'Open Questions' %}
 	<li>
 <h2><a href="{{ questions.url }}">{{questions.title}}</a></h2>
 {{ questions.excerpt | strip_html }}
