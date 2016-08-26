@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<main role="main">
+<article>
+<div></div>
+<nav>
+    <ol type="A">
+        {% for item in site.data.blogroll %}
+        <li>
+            <a href="{{ item.url }}">{{ item.title }}</a>
+        </li>
+        {% endfor %}
+    </ol>
+</nav>
+</article>
+</main>
