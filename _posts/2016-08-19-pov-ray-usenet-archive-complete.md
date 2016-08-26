@@ -2,7 +2,7 @@
 layout: post
 title:  "Pov-Ray Usenet Archiving Completed"
 date:   2016-08-19
-image: assets/img/_originals/Povray_logo_sphere.png
+image: /assets/img/_originals/Povray_logo_sphere.png
 categories: compression archiving dtn
 tags: ZPAQ zpaq backup archive archiving dtn usenet
 ---
