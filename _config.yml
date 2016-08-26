@@ -45,7 +45,11 @@ picture:
 #  posts_folders: "assets/img/resized/:year/:month/:slug/"
   markup: "picture"
   presets:
-    default:
+      default:
+        ppi: [1, 1.5, 2]
+        source_default:
+           width: "100%"
+           height: "100%"
 #      attr:
 #        class: "img"
 #       ppi: [1, 1.5, 2]
@@ -67,9 +71,7 @@ picture:
 #      source_320:
 #        width: "320"
 #        height: "240"
-      source_default:
-        width: "100%"
-        height: "100%"
+
 
 
 
