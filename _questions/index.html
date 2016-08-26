@@ -1,0 +1,22 @@
+---
+layout: page
+title: Open Questions
+permalink: /Questions/index.html
+---
+<main role="main">
+<article>
+
+<div>These reviews 
+</div>
+<nav>
+<ol>
+{% for questions in site.questions %}
+	<li>
+<h2>{{questions.title}}</h2>
+{{ questions.excerpt | strip_html }}
+</li>
+{% endfor %}
+</ol>
+</nav>
+</article>
+</main>

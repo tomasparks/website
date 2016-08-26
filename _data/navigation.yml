@@ -1,8 +1,11 @@
 - title: home
   url: /
 
-- title: about
+- title: about me
   url: /about-me/
 
 - title: Reviews
   url: /reviews/
+
+- title: Open Questions
+  url: /questions/
