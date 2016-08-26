@@ -8,7 +8,7 @@ gem 'jekyll-seo-tag'
 #gem 'rmagick'
 #gem 'jekyll-responsive_image'
 #gem 'jekyll-picture-tag', github: 'nhoizey/jekyll-picture-tag'
-gem 'jekyll-picture-tag' 
+gem 'jekyll-responsive_image' 
 
 gem 'html-proofer'
 #gem 'jekyll-pandoc-multiple-formats', github: 'edsl/jekyll-pandoc-multiple-formats', branch: 'develop'
