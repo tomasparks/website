@@ -42,11 +42,12 @@ pandoc:
 picture:
   source: "images/_originals"
   output: "images"
+  posts_folders: ":year/:month/:slug/"
   markup: "picture"
   presets:
-    hero:
+    default:
       attr:
-        class: "page__hero-image"
+        class: "page-image"
         itemprop: "image"
       ppi: [1]
       source_1600:
