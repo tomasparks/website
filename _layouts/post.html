@@ -10,9 +10,8 @@ layout: default
 </header>
 {% endif %}
 <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time>
-{% if page.title %}
+{% if page.image %}
 <div id="image_post">
-
 {% responsive_image_block %}
     path: assets/img/_originals/Povray_logo_sphere.png
 {% endresponsive_image_block %}
