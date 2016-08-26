@@ -40,7 +40,7 @@ pandoc:
 
 
 picture:
-  source: "images/_originals"
+  source: "assets/images/_originals"
   output: "images"
   posts_folders: ":year/:month/:slug/"
   markup: "picture"
