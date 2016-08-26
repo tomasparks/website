@@ -17,7 +17,15 @@ permalink: /reviews/index.html
 <div>
 <div id=image_reviews" style="float:left; padding:10px;" >
 <a href="{{ reviews.url }}"><img src="{{ reviews.url }}{{ reviews.image }}" alt="{{reviews.type}} cover: {{ reviews.title }} by {{ review.author }}"/></a>
-{% responsive_image path: assets/{{ reviews.image }} alt: "{{reviews.type}} cover: {{ reviews.title }} by {{ review.author }}" title: "{{reviews.type}} cover: {{ reviews.title }} by {{ review.author }}" %}
+<picture>
+  <source srcset="image-1600.jpg" media="(min-width: 1600px)">
+  <source srcset="image-1024.jpg" media="(min-width: 1024px)">
+  <source srcset="image-768.jpg" media="(min-width: 768px)">
+  <source srcset="image-600.jpg" media="(min-width: 600px)">
+  <source srcset="image-320.jpg">
+  <img src="image-320.jpg" alt="">
+</picture>
+
 </div>Type: {{ reviews.type }}<br />{{ reviews.excerpt | strip_html }}
 </div>
 </li>
