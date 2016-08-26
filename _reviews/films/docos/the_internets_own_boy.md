@@ -3,6 +3,7 @@ title: "The Internet's Own Boy"
 author: Brian Knappenberger
 type: film
 layout: reviews
+image: ../The-internets-own-boy.jpg
 ---
 
 
