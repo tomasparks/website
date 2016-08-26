@@ -40,14 +40,14 @@ pandoc:
 
 
 picture:
-  source: "assets/images/_originals"
+  source: "assets/img/_originals"
   output: "images"
   posts_folders: ":year/:month/:slug/"
   markup: "picture"
   presets:
     default:
       attr:
-        class: "page-image"
+        class: "image"
         itemprop: "image"
       ppi: [1]
       source_1600:
