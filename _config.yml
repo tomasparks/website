@@ -41,7 +41,7 @@ pandoc:
 
 picture:
   source: "assets/img/_originals/"
-  output: "assets/img/"
+  output: "assets/"
 #  posts_folders: "assets/img/resized/:year/:month/:slug/"
   markup: "picture"
   presets:
@@ -65,7 +65,9 @@ picture:
       source_320:
         width: "320"
         height: "240"
-
+      source_default:
+        width: "100%"
+        height: "100%"
 
 
 
