@@ -47,7 +47,7 @@ picture:
   presets:
       default:
         ppi: [1, 1.5, 2]
-        source_default::
+        source_default:
           width: "640"
           height: "480"
         source_1080:
@@ -62,6 +62,9 @@ picture:
         source_800:
           width: "800"
           height: "600"
+        source_640:
+          width: "640"
+          height: "480"
         source_320:
           width: "320"
           height: "240"
