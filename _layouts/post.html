@@ -10,12 +10,16 @@ layout: default
 </header>
 {% endif %}
 <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time>
+{% if page.title %}
 <div id=image_post" style="float:left; padding:10px;" >
+{% assign path = {{ page.image }} %}
+{% assign alt = {{ page.title }} %}
 {% responsive_image_block %}
-    path: {{ page.image }}
-    alt: {{ page.title }}
+    path: {{ path }}
+    alt: {{ alt }}
 {% endresponsive_image_block %}
 </div>
+{% endif %}
         {{ content }}
 </article>
 <nav>
