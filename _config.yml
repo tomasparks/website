@@ -46,6 +46,9 @@ picture:
   markup: "picture"
   presets:
     default:
+  attr:
+    class: "gallery-pict"
+    itemprop: "image"
       ppi: [1]
       source_1600:
         media: "(min-width: 1600px)"
