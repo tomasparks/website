@@ -2,7 +2,7 @@
 
  bundle update
 
-jekyll build --trace
+jekyll build --verbose --trace
 
 
 
