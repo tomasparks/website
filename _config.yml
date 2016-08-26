@@ -46,27 +46,27 @@ picture:
   markup: "picture"
   presets:
     default:
-      attr:
-        class: "img"
-       ppi: [1, 1.5, 2]
-      source_1080:
-        width: "1280"
-        height: "1080"
-      source_720:
-        width: "1280"
-        height: "720"
-      source_1024:
-        width: "1024"
-        height: "768"
-      source_800:
-        width: "800"
-        height: "600"
-      source_640:
-        width: "640"
-        height: "480"
-      source_320:
-        width: "320"
-        height: "240"
+#      attr:
+#        class: "img"
+#       ppi: [1, 1.5, 2]
+#      source_1080:
+#        width: "1280"
+#        height: "1080"
+#      source_720:
+#        width: "1280"
+#        height: "720"
+#      source_1024:
+#        width: "1024"
+#        height: "768"
+#      source_800:
+#        width: "800"
+#        height: "600"
+#      source_640:
+#        width: "640"
+#        height: "480"
+#      source_320:
+#        width: "320"
+#        height: "240"
       source_default:
         width: "100%"
         height: "100%"
