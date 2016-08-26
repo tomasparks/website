@@ -11,7 +11,8 @@ permalink: /reviews/index.html
 <nav>
 <ol>
 {% assign sortedReviews = site.reviews | sort: 'type' %}
-{% for reviews in sortedReviews}
+{% for reviews in sortedReviews %}
+{% if reviews.title != 'index' %}
 	<li>
 <div>
 <div id=image_reviews" style="float:left; padding:10px;" >
@@ -19,6 +20,7 @@ permalink: /reviews/index.html
 </div>Type: {{ reviews.type }}<br />{{ reviews.excerpt | strip_html }}
 </div>
 </li>
+{% endif %}
 {% endfor %}
 </ol>
 </nav>
