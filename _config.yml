@@ -41,20 +41,29 @@ pandoc:
 
 picture:
   source: "assets/img/_originals/"
-  output: "assets/img/"
+  output: "assets/img/resized/"
   posts_folders: "assets/img/:year/:month/:slug/"
   markup: "picture"
   presets:
-    default:
-      ppi: [1, 1.5]
-      source_medium:
-        media: "(min-width: 40em)"
+hero:
+      attr:
+        class: "page__hero-image"
+        itemprop: "image"
+      ppi: [1]
+      source_1600:
+        media: "(min-width: 1600px)"
+        width: "1600"
+      source_1024:
+        media: "(min-width: 1024px)"
+        width: "1024"
+      source_768:
+        media: "(min-width: 768px)"
+        width: "768"
+      source_600:
+        media: "(min-width: 600px)"
         width: "600"
-        height: "300"
       source_default:
-        width: "300"
-
-
+        width: "320"
 
 
 lunr_search:
