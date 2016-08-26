@@ -81,7 +81,8 @@ responsive_image:
   # tags are resized. Here you can set a list of paths or path globs to resize other
   # images. This is useful for resizing images which will be referenced from stylesheets.
  extra_images:
-     - assets/img/_originals/*.*
+     - assets/img/_originals/*.png
+     - assets/img/_originals/*.jpg
 #    - assets/foo/bar.png
 #    - assets/bgs/*.png
 #    - assets/avatars/*.{jpeg,jpg}
