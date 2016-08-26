@@ -45,7 +45,7 @@ picture:
   posts_folders: "assets/img/:year/:month/:slug/"
   markup: "picture"
   presets:
-	default:
+      default:
          ppi: [1,1.5]
       source_1600:
         media: "(min-width: 1600px)"
