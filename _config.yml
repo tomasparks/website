@@ -41,12 +41,24 @@ pandoc:
 
 picture:
   source: "assets/img/_originals/"
-  output: ""
+  output: "assets/"
 #  posts_folders: "assets/img/resized/:year/:month/:slug/"
   markup: "picture"
   presets:
     default:
-      ppi: [1, 1.5]
+      ppi: [1]
+      source_1080:
+        width: "1280"
+        height: "1080"
+      source_720:
+        width: "1280"
+        height: "720"
+      source_1024:
+        width: "1024"
+        height: "768"
+      source_800:
+        width: "800"
+        height: "600"
       source_640:
         width: "640"
         height: "480"
