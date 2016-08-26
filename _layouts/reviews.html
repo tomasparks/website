@@ -7,8 +7,9 @@ layout: default
 <header>
     <h1>{{ page.title }}<br />by<br />{{ page.author }}</h1>
 </header>
-<div style="float:right; padding:10px;" >
+<div style="float:left; padding:10px;" >
 <img src="{{ page.image }}" alt="{{ page.title }} by {{ page.author }}"/>
+{{page:type}} cover: {{ page.title }} by {{ page.author }}
 </div>
         {{ content }}
 
