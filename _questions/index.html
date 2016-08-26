@@ -9,7 +9,7 @@ permalink: /questions/index.html
 <div>These Open Questions have not been answered yet?</div>
 <nav>
 <ol>
-{% assign sortedQuestions = questions | sort: 'title' %}
+{% assign sortedQuestions = site.questions | sort: 'title' %}
 {% for questions in sortedQuestions %}
 {% if questions.title != 'index' %}
 	<li>
