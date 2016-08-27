@@ -15,16 +15,14 @@ permalink: /reviews/index.html
 {% if reviews.title != 'index' %}
 	<li>
 <div>
-<div id=image_reviews" style="float:left; padding:10px;" >
-<a href="{{ reviews.url }}"><img src="{{ reviews.url }}{{ reviews.image }}" alt="{{reviews.type}} cover: {{ reviews.title }} by {{ review.author }}"/></a>
-
+<h2><a href="{{ reviews.url }}">{{reviews.title}} by {{review.author}}</a></h2>
+{% if page.image %}
+<div  id="image_reviews" style="float:left; padding:10px;" >
 {% responsive_image_block %}
-    path: "assets/img/_originals/The-internets-own-boy.jpg"
-    alt: "{{reviews.type}} cover: {{ reviews.title }} by {{ review.author }}"
-    {% if title %}
-    title: {{ reviews.title }}
-    {% endif %}
+    path: assets/img/_originals/{{page.image}}
+    alt: {{reviews.type}} cover: {{reviews.title}} by {{review.author}}
 {% endresponsive_image_block %}
+</div>
 
 </div>Type: {{ reviews.type }}<br />{{ reviews.excerpt | strip_html }}
 </div>
