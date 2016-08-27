@@ -4,7 +4,7 @@
 
 jekyll build --verbose --trace
 
-cp ./assets/img/resized/* ./_site/assets/img/resized/
+cp -r -f ./assets/img/resized/* ./_site/assets/img/resized/
 
 
 git add --all 
