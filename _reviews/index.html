@@ -14,20 +14,20 @@ permalink: /reviews/index.html
 {% for reviews in sortedReviews %}
 {% if reviews.title != 'index' %}
 	<li>
-<div>
-<h2><a href="{{ reviews.url }}">{{reviews.title}} by {{review.author}}</a></h2>
-{% if page.image %}
-<div  id="image_reviews" style="float:left; padding:10px;" >
+		<div>
+			<h2><a href="{{ reviews.url }}">{{reviews.title}} by {{review.author}}</a></h2>
+
+				<div  id="image_reviews" style="float:left; padding:10px;" >
 {% responsive_image_block %}
     path: assets/img/_originals/{{page.image}}
     alt: {{reviews.type}} cover: {{reviews.title}} by {{review.author}}
 {% endresponsive_image_block %}
-</div>
+				</div>
+Type: {{ reviews.type }}<br />{{ reviews.excerpt | strip_html }}
+		</div>
+	</li>
 {% endif %}
-</div>Type: {{ reviews.type }}<br />{{ reviews.excerpt | strip_html }}
-</div>
-</li>
-{% endif %}
+
 {% endfor %}
 </ol>
 </nav>
