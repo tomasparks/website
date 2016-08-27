@@ -16,6 +16,12 @@ git add --all
 git commit -a -m "updating static website."
 git push
 
+
 htmlproofer https://tomasparks.github.io/
 
-zpaq a "../compressed/tomasparks.github.io/????.zpaq" * -test -all
+mkdir -p "../compressed/tomasparks.github.io/archive/"
+cd archive
+find -mindepth 1 -maxdepth 1 -type d  -exec mkdir -p "../../compressed/tomasparks.github.io/archive/{}" \;
+find -mindepth 1 -maxdepth 1 -type d  -exec zpaq a "../../compressed/tomasparks.github.io/archive/{}/????.zpaq" "{}" -test -all \;
+cd ..
+zpaq a "../compressed/tomasparks.github.io/????.zpaq" -not "./archive" * -test -all
