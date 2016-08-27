@@ -52,14 +52,14 @@ responsive_image:
   # An array of resize configuration objects. Each object must contain at least
   # a `width` value.
   sizes:
-    - width: 240  # [Required] How wide the resized image will be.
+    - width: 160  # [Required] How wide the resized image will be.
   #    quality: 80 # [Optional] Overrides default_quality for this size.
-    - width: 480
+    - width: 320
+    - width: 640
     - width: 800
-    - width: 720
-    - width: 1080
-  #  - width: 1400
-  #    quality: 90
+    - width: 1024
+    - width: 1920
+
 
   # [Optional, Default: assets]
   # The base directory where assets are stored. This is used to determine the
