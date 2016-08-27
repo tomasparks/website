@@ -17,3 +17,5 @@ git commit -a -m "updating static website."
 git push
 
 htmlproofer https://tomasparks.github.io/
+
+zpaq a "../compressed/tomasparks.github.io/????.zpaq" * -test -all
