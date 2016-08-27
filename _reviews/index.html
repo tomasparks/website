@@ -12,11 +12,10 @@ permalink: /reviews/index.html
 <ol>
 {% assign sortedReviews = site.reviews | sort: 'type' %}
 {% for reviews in sortedReviews %}
-{% if reviews.title != 'index' %}
+{% if reviews.title != 'Reviews' %}
 	<li>
 		<div>
 			<h2><a href="{{ reviews.url }}">{{reviews.title}} by {{review.author}}</a></h2>
-
 				<div  id="image_reviews" style="float:left; padding:10px;" >
 {% responsive_image_block %}
     path: assets/img/_originals/{{reviews.image}}
