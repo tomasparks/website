@@ -7,13 +7,11 @@ layout: default
 <header>
     <h1>{{ page.title }}<br />by<br />{{ page.author }}</h1>
 </header>
-{% if page.image %}
 <div  id="image_reviews" style="padding:10px;">
 {% responsive_image_block %}
     path: assets/img/_originals/{{page.image}}
 {% endresponsive_image_block %}
 </div>
-{% endif %}
         {{ content }}
 
 </article>
