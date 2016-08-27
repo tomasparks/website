@@ -15,4 +15,4 @@ git add --all
 git commit -a -m "updating static website."
 git push
 
-htmlproofer ./_site
+htmlproofer https://tomasparks.github.io/
