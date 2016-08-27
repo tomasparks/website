@@ -23,7 +23,7 @@ permalink: /reviews/index.html
     alt: {{reviews.type}} cover: {{reviews.title}} by {{review.author}}
 {% endresponsive_image_block %}
 </div>
-
+{% endif %}
 </div>Type: {{ reviews.type }}<br />{{ reviews.excerpt | strip_html }}
 </div>
 </li>
