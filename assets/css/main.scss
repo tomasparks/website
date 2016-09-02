@@ -11,7 +11,7 @@ body {
 	color: green;
 	background: black;
 	font-family: 'IBM_MDA';
-        font-size:xx-large;
+    font-size:xx-large;
 	margin: 0px;
 		a {
 			color:black; background: green;font-family: 'IBM_MDA';
@@ -26,9 +26,10 @@ body {
             width: 95%;
             margin: auto;
 			display: block;
-					header { display: block; width: 100%; }
+					header { display: block; width: 100%; margin: auto;}
 					h1,h2,h3,h4,h5,h6 {
 						width: 100%;
+                        margin: auto;
 						color: green;
 						background: black;
 						padding: 0.5em;
@@ -45,7 +46,18 @@ body {
 				margin: auto;
 				padding: 20px;
 				display: block;
-
+					header { display: block; width: 100%; }
+					h1,h2,h3,h4,h5,h6 {
+						width: 100%;
+						color: green;
+						background: black;
+						padding: 0.5em;
+						margin: 0.5em;
+						border: 2px solid green;
+						font-family: 'Glass_TTY_VT220';
+						text-decoration: underline;
+						text-align: center;
+						}
 					div {
 						padding: 5px;
 						display:block;
@@ -59,17 +71,13 @@ body {
 						font-family: 'Glass_TTY_VT220';
 					}
 					nav {
-						padding: 1.5em;
+						padding: 0.5em;
 						margin: 0.5em;
 						border-style: solid;
 						display:block;
 						}
-
-
 						 ol {
-
 							li {
-
 								div {
 									width: 100%;
 									a { font-family: 'IBM_MDA';
@@ -83,16 +91,15 @@ body {
 						
 							}
 					ul {
-
 						list-style-type: none;
 						li {
-							text-indent: -0.4em;
+							text-indent: -1em;
 							}
 						li:before {
 								font-family: 'IBM_MDA';
 								content: "\25CF";
 								float: left;
-								width: 0.4em;
+								width: 1em;
 							}
 						}
 						hr {
@@ -106,7 +113,6 @@ body {
 						hr:after {color: green;background: black;
 								content:         "---------------------------------------";
 								}
-
 					}
 		}
 	footer {
