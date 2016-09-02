@@ -3,13 +3,17 @@ layout: default
 ---
 <!-- start of post -->
 <main role="main">
-<article>
+<div id="tabs">
+	<ul>
+		<li><a href="#tabs-1">Main</a></li>
+		<li><a href="#tabs-2">Meta</a></li>
+	</ul>
+<article id="tabs-1">
 {% if page.title %}
 <header>
     <h1>{{ page.title }}</h1>
 </header>
 {% endif %}
-<time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time>
 {% if page.image %}
 <div id="image_post">
 {% responsive_image_block %}
@@ -19,7 +23,15 @@ layout: default
 {% endif %}
         {{ content }}
 </article>
+<aside id="tabs-2">
+<time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time>
 <nav>
 </nav>
+</aside>
+</div>
 </main>
+<script src="/assets/ext/jqueryui/external/jquery/jquery.js"></script>
+<script src="/assets/ext/jqueryui/jquery-ui.js"></script>
+<script>$( "#tabs" ).tabs();
+</script>
 <!-- end of post -->
