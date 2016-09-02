@@ -134,7 +134,7 @@
 
 .ui-tabs-panel {
 	display: block;
-	border: 2px solid green;
+	border: 2px dashed green;
 	padding: 1em 1.4em;
     color: green;
 	background: black;
@@ -188,7 +188,7 @@
 works properly when clicked or hovered */
 html .ui-button.ui-state-disabled:hover,
 html .ui-button.ui-state-disabled:active {
-	border: 2px solid green;
+	border: 2px dashed green;
 	background: black;
 	font-weight: normal;
 	color: green;
@@ -200,8 +200,10 @@ a.ui-button,
 a:link.ui-button,
 a:visited.ui-button,
 .ui-button {
+	border: 2px dashed green;
+	background: black;
+	font-weight: normal;
 	color: green;
-	text-decoration: none;
 }
 .ui-state-hover,
 .ui-widget-content .ui-state-hover,
@@ -226,8 +228,10 @@ a:visited.ui-button,
 .ui-state-focus a:visited,
 a.ui-button:hover,
 a.ui-button:focus {
+	border: 2px solid green;
+	background: black;
+	font-weight: normal;
 	color: green;
-	text-decoration: none;
 }
 
 .ui-visual-focus {
@@ -246,14 +250,18 @@ a.ui-button:active,
 }
 .ui-icon-background,
 .ui-state-active .ui-icon-background {
-	border: green;
-	background-color: black;
+	border: 2px solid green;
+	background: black;
+	font-weight: normal;
+	color: green;
 }
 .ui-state-active a,
 .ui-state-active a:link,
 .ui-state-active a:visited {
+	border: 2px solid green;
+	background: black;
+	font-weight: normal;
 	color: green;
-	text-decoration: none;
 }
 
 /* Interaction Cues
