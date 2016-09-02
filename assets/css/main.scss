@@ -23,7 +23,7 @@ body {
 		main {
 			height: auto;
 			min-height: 100%;
-            width: 90%;
+            width: 95%;
             margin: auto;
 			display: block;
 					header { display: block; width: 100%; }
@@ -86,13 +86,13 @@ body {
 
 						list-style-type: none;
 						li {
-							text-indent: -1.4em;
+							text-indent: -0.4em;
 							}
 						li:before {
 								font-family: 'IBM_MDA';
 								content: "\25CF";
 								float: left;
-								width: 1.4em;
+								width: 0.4em;
 							}
 						}
 						hr {
