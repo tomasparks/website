@@ -135,7 +135,7 @@
 
  .ui-tabs-panel {
 	display: block;
-	border 1px;
+	border: 1px;
 	padding: 1em 1.4em;
     color: #00ff00;
 	background: #000000;
@@ -161,21 +161,20 @@
 	border: 1px solid #c5c5c5;
 }
 .ui-widget-content {
-	border: 1px solid #dddddd;
-	background: #ffffff;
-	color: #333333;
+	border: 1px solid #00ff00;
+	background: #000000;
+	color: #00ff00;
 }
 .ui-widget-content a {
-	color: #333333;
+	color: #00ff00;
 }
 .ui-widget-header {
-	border: 1px solid #dddddd;
-	background: #e9e9e9;
-	color: #333333;
-	font-weight: bold;
+	background: #000000;
+	color: #00ff00;
+	font-weight: normal;
 }
 .ui-widget-header a {
-	color: #333333;
+	color: #00ff00;
 }
 
 /* Interaction states
@@ -295,7 +294,7 @@ a.ui-button:active,
 .ui-priority-primary,
 .ui-widget-content .ui-priority-primary,
 .ui-widget-header .ui-priority-primary {
-	font-weight: bold;
+	font-weight: normal;
 }
 .ui-priority-secondary,
 .ui-widget-content .ui-priority-secondary,
