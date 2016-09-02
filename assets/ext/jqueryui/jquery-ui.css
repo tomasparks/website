@@ -133,9 +133,9 @@
 }
 
 
- .ui-tabs-panel {
+.ui-tabs-panel {
 	display: block;
-	border: 1px;
+	border: 2px;
 	padding: 1em 1.4em;
     color: green;
 	background: black;
@@ -159,10 +159,13 @@
 }
 .ui-widget.ui-widget-content {
 }
+/*
 .ui-widget-content {
 	background: black;
 	color: green;
 }
+*/
+
 .ui-widget-content a {
 	color: green;
 }
@@ -186,7 +189,7 @@
 works properly when clicked or hovered */
 html .ui-button.ui-state-disabled:hover,
 html .ui-button.ui-state-disabled:active {
-	border: 1px solid #c5c5c5;
+	border: 2px solid #c5c5c5;
 	background: #f6f6f6;
 	font-weight: normal;
 	color: #454545;
@@ -209,7 +212,7 @@ a:visited.ui-button,
 .ui-widget-header .ui-state-focus,
 .ui-button:hover,
 .ui-button:focus {
-	border: 1px solid #cccccc;
+	border: 2px solid #cccccc;
 	background: #ededed;
 	font-weight: normal;
 	color: #2b2b2b;
@@ -237,7 +240,7 @@ a.ui-button:focus {
 a.ui-button:active,
 .ui-button:active,
 .ui-button.ui-state-active:hover {
-	border: 1px solid #003eff;
+	border: 2px solid #003eff;
 	background: #007fff;
 	font-weight: normal;
 	color: #ffffff;
@@ -259,12 +262,12 @@ a.ui-button:active,
 .ui-state-highlight,
 .ui-widget-content .ui-state-highlight,
 .ui-widget-header .ui-state-highlight {
-	border: 1px solid #dad55e;
+	border: 2px solid #dad55e;
 	background: #fffa90;
 	color: #777620;
 }
 .ui-state-checked {
-	border: 1px solid #dad55e;
+	border: 2px solid #dad55e;
 	background: #fffa90;
 }
 .ui-state-highlight a,
@@ -275,7 +278,7 @@ a.ui-button:active,
 .ui-state-error,
 .ui-widget-content .ui-state-error,
 .ui-widget-header .ui-state-error {
-	border: 1px solid #f1a899;
+	border: 2px solid #f1a899;
 	background: #fddfdf;
 	color: #5f3f3f;
 }
