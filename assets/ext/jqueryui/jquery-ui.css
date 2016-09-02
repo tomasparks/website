@@ -137,8 +137,8 @@
 	display: block;
 	border: 1px;
 	padding: 1em 1.4em;
-    color: #00ff00;
-	background: #000000;
+    color: green;
+	background: black;
 }
 
 /* Component containers
@@ -158,23 +158,22 @@
 	font-size: 1em;
 }
 .ui-widget.ui-widget-content {
-	border: 1px solid #c5c5c5;
 }
 .ui-widget-content {
-	border: 1px solid #00ff00;
-	background: #000000;
-	color: #00ff00;
+	border: 1px solid green;
+	background: black;
+	color: green;
 }
 .ui-widget-content a {
-	color: #00ff00;
+	color: green;
 }
 .ui-widget-header {
-	background: #000000;
-	color: #00ff00;
+	background: black;
+	color: green;
 	font-weight: normal;
 }
 .ui-widget-header a {
-	color: #00ff00;
+	color: green;
 }
 
 /* Interaction states

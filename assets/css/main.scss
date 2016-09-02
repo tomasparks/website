@@ -24,13 +24,6 @@ body {
 			height: auto;
 			min-height: 100%;
 			display: block;
-			article {
-				color: green;
-				background: black;
-				font-family: 'IBM_MDA';
-				margin: auto;
-				padding: 20px;
-				display: block;
 					header { display: block; }
 					h1,h2,h3,h4,h5,h6 {
 						width: 100%;
@@ -43,6 +36,14 @@ body {
 						text-decoration: underline;
 						text-align: center;
 						}
+			article {
+				color: green;
+				background: black;
+				font-family: 'IBM_MDA';
+				margin: auto;
+				padding: 20px;
+				display: block;
+
 					div {
 						padding: 5px;
 						display:block;
