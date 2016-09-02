@@ -132,10 +132,9 @@
 	background: none;
 }
 
-
 .ui-tabs-panel {
 	display: block;
-	border: 2px;
+	border: 2px solid green;
 	padding: 1em 1.4em;
     color: green;
 	background: black;
@@ -159,12 +158,12 @@
 }
 .ui-widget.ui-widget-content {
 }
-/*
+
+
 .ui-widget-content {
 	background: black;
 	color: green;
 }
-*/
 
 .ui-widget-content a {
 	color: green;
