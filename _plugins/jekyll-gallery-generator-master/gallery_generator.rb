@@ -107,6 +107,7 @@ puts "page=0 )"
 					local_config = YAML.load_file(config_file)
 				end
 			end
+puts DEFAULT_METADATA.merge(site_metadata).merge(local_config)
 			return DEFAULT_METADATA.merge(site_metadata).merge(local_config)
 		end
 
