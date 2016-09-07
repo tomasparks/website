@@ -109,7 +109,6 @@ puts idx
 					local_config = YAML.load_file(config_file)
 				end
 			end
-puts DEFAULT_METADATA.merge(site_metadata).merge(local_config)
 			return DEFAULT_METADATA.merge(site_metadata).merge(local_config)
 		end
 
@@ -127,7 +126,6 @@ puts DEFAULT_METADATA.merge(site_metadata).merge(local_config)
 			directories = entries.select { |x| File.directory? File.join(@album_source, x) } # Filter out non-directories
 
 			files.select! { |x| ['.png', '.jpg', '.gif'].include? File.extname(File.join(@album_source, x)) } # Filter out files that image-tag doesn't handle
-
 			# Sort images
 			def filename_sort(a, b, reverse)
 				if reverse =~ /^desc/
@@ -138,7 +136,8 @@ puts DEFAULT_METADATA.merge(site_metadata).merge(local_config)
 
 			sort_on, sort_direction = @album_metadata['sort'].split
 			files.sort! { |a, b| send("#{sort_on}_sort", a, b, sort_direction) }
-
+puts files
+puts directories
 			return files, directories
 		end
 
