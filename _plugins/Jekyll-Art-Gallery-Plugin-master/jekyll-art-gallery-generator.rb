@@ -98,7 +98,7 @@ class GalleryPage < ReadYamlPage
     @site = site
     @base = base
     #source_dir=dir
-
+    puts dir.gsub(/^_/, "").gsub(/[^0-9A-Za-z.\\\-\/]/, '_').downcase
     @dir = dir.gsub(/^_/, "").gsub(/[^0-9A-Za-z.\\\-\/]/, '_').downcase   # destination dir, same as source sans the leading underscore, the directory component is made web compatible
     FileUtils.mkdir_p(site.in_dest_dir(@dir), :mode => 0755)
 
