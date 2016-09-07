@@ -114,14 +114,16 @@ class GalleryPage < ReadYamlPage
     self.read_yaml(File.dirname(gallery_page), File.basename(gallery_page))
     self.data["gallery"] = gallery_name # aka folder name
     self.data["description"] = gallery_config["description"]
-    puts "self.data[\"gallery\"]"
+    puts "self.data[\"gallery\"] = "
     puts self.data["gallery"]
-    puts "self.data[\"description\"]"
+    puts "self.data[\"description\"] = "
     puts self.data["description"]
 
     # prettify gallery name if not set
+    puts "gallery_name.gsub(\"_\", \" \").gsub(/\w+/) {|word| word.capitalize} = "
     puts gallery_name.gsub("_", " ").gsub(/\w+/) {|word| word.capitalize}
     gallery_name = gallery_name.gsub("_", " ").gsub(/\w+/) {|word| word.capitalize}
+
     gallery_name = gallery_config["title"] || gallery_name
     self.data["title"] = gallery_name
     self.data["link"] = "/#{@dir}/"
@@ -156,13 +158,13 @@ class GalleryPage < ReadYamlPage
           if date_array != nil && date_array.length > 0 and date_array[0].length > 1
             date_times[image]=DateTime.strptime(date_array[0][1],"%Y:%m:%d %H:%M:%S").to_time.to_i
           end
-          # puts "gtot #{date_array} date" + date_times[image].to_s
+          puts "gtot #{date_array} date" + date_times[image].to_s
         rescue Exception => e
           puts "Error getting date_time "+date_times[image]+" for #{image}: #{e}"
         end
       end
-      # cleanup, watermark and copy the files
-      # Strip out the non-ascii character and downcase the final file name
+      puts "cleanup, watermark and copy the files"
+      puts "Strip out the non-ascii character and downcase the final file name"
       dest_image=image.gsub(/[^0-9A-Za-z.\-]/, '_').downcase
       dest_image_abs_path = site.in_dest_dir(File.join(@dir, dest_image))
       if File.file?(dest_image_abs_path) == false or File.mtime(image_path) > File.mtime(dest_image_abs_path)
