@@ -11,7 +11,7 @@
 source_dir: _Art
 title: Art
 #sort_field: "timestamp" #
-sort_field: "title" # sorting of the galleries on the gallery index page
+sort_field: "timestamp" # sorting of the galleries on the gallery index page
 #sort_reverse: true   #
 thumbnail_size:
   x: 640
