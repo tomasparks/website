@@ -178,7 +178,7 @@ puts directories
 				albums.reject! { |x| x =~ /^\./ }
 				albums.select! { |x| File.directory? File.join(base_album_path, x) }
 				albums.each do |album|
-put album
+puts album
 					site.pages << AlbumPage.new(site, site.source, album)
 				end
 			end
