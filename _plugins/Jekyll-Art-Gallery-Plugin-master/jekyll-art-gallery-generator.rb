@@ -18,8 +18,11 @@ module Jekyll
   end
 
   class ReadYamlPage < Page
-    def read_yaml(base, name, opts = {})
-      puts "inside ReadYamlPage()"
+    def read_yaml(base, name)
+      puts "inside ReadYamlPage("
+puts base
+puts name
+puts ")"
       begin
       self.content = File.read(File.join(base, name))
       #  self.content = File.read(File.join(base.to_s, name.to_s), (site ? site.file_read_opts : {}).merge(opts))
