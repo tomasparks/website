@@ -4,7 +4,7 @@ layout: default
 <h2>{{ page.title }}</h2>
 <div class='image-page'>
 	<span class="image-container">
-		<a href="/{{ page.img_src }}">{% image medium {{page.img_src}} %}</a>
+		<a href="/{{ page.img_src }}"><img src="{{page.img_src}}" /></a>
 	</span>
 	<div class='image-footer'>
 		{% if page.prev_url %}

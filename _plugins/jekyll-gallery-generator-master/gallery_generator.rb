@@ -2,7 +2,16 @@ module Jekyll
 	class ImagePage < Page
 		# An image page
 		def initialize(site, base, dir, img_source, name, prev_name, next_name, album_page)
-                        puts "inside initialize()"
+                        puts "inside initialize("
+puts site
+puts base
+puts dir
+puts img_source
+puts name
+puts prev_name
+puts next_name
+puts album_page
+puts ")"
 			@site = site
 			@base = base
 			@dir = dir
@@ -27,7 +36,11 @@ module Jekyll
 		}
 
 		def initialize(site, base, dir, page=0)
-                        puts "initialize()"
+puts "initialize("
+puts site
+puts base
+puts dir
+puts "page=0 )"
 			@site = site
 			@base = base # Absolute path to use to find files for generation
 
