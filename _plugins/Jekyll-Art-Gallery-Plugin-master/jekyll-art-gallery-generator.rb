@@ -144,6 +144,8 @@ class GalleryPage < ReadYamlPage
     Dir.foreach(dir) do |image|
       puts "dir: "
       puts dir
+      puts "image: "
+      puts image
       next if image.chars.first == "."
       next unless image.downcase().end_with?(*$image_extensions)
       puts "image: "
