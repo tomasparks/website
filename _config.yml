@@ -123,5 +123,16 @@ collections:
     layout: page
     output: true
     permalink: /questions/:path/
+album_dir: art
 
-
+image:
+    output: generated
+    presets:
+        album_thumb:
+            width: 200
+            attr:
+                class: album-image
+        medium:
+            width: 1200
+            attr:
+                class: image

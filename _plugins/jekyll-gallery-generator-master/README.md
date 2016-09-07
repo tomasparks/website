@@ -1,91 +1,142 @@
-# Gallery Generator
+# jekyll-gallery-generator
 
-This is a [Jekyll plugin](http://jekyllrb.com/docs/plugins/) that generates galleries from directories full of images. It uses [RMagick](http://rmagick.rubyforge.org/) to create thumbnails.
+**Effortless Image Albums for Jekyll**
 
-This plugin is quite minimalist. It generates galleries with no pagination, no sub-galleries, and no descriptions. [See my gallery](http://geoff.greer.fm/photos/) for an example of what it looks like.
+Jekyll Gallery Generator is a plugin for the [Jekyll](http://jekyllrb.com)
+static site generator to streamline creating image albums and a gallery site.
+Gather images for an album into a directory and the gallery generator will
+create an album page for each directory.
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-gallery-generator.svg)](https://rubygems.org/gems/jekyll-gallery-generator)
+## Installation
 
-[![Build Status](https://travis-ci.org/ggreer/jekyll-gallery-generator.svg?branch=master)](https://travis-ci.org/ggreer/jekyll-gallery-generator)
+So far Jekyll Gallery Generator requires Ruby, Jekyll,
+[minimagick](https://github.com/minimagick/minimagick),
+[jekyll-image-tag](https://github.com/robwierzbowski/jekyll-image-tag), and
+[ImageMagick](http://www.imagemagick.org/script/index.php).
 
-[![Floobits Status](https://floobits.com/ggreer/jekyll-gallery-generator.svg)](https://floobits.com/ggreer/jekyll-gallery-generator/redirect)
+In an upcoming release it will likely require
+[miniexiftool](https://github.com/janfri/mini_exiftool) as well.
 
+Once you have the dependencies installed Just put `gallery_generator.rb` in the
+`_plugins` directory and `album_index.html` `image_page.html` in `_layouts` (or
+write your own templates). Put `album.css` in your `css` directory and import
+it into your main CSS file (or, again, write your own CSS).
+
+You'll need to include the following YAML snippet in your `_config.yml` for
+jekyll-image-tag to work, but don't actually *need* any further changes to
+`_config.yml`:
+
+```YAML
+image:
+    output: generated
+    presets:
+        album_thumb:
+            width: 200
+            attr:
+                class: album-image
+        medium:
+            width: 1200
+            attr:
+                class: image
+```
+
+Finally, put directories full of images in a directory called `"albums"` and
+build your site!
 
 ## Usage
 
-1. Install the `jekyll-gallery-generator` gem, either by running `gem install jekyll-gallery-generator` or by adding `gem 'jekyll-gallery-generator'` to your `Gemfile` and running `bundle`.
+There are three parts to using the gallery generator:
 
-2. Add `jekyll-gallery-generator` to the gems list in your `_config.yml`:
+- [Configuration](#configuration)
+- [Directory Structure](#directory-structure)
+- [Templates](#templates)
 
-    ```
-gems:
-  - jekyll-gallery-generator
+### Configuration
+
+Your _config.py should specify `album_dir: some_directory`. If it does not,
+`album_dir` defaults to `"albums"`.
+
+### Directory Structure
+
+If your `album_dir` is `"albums"` then this structure:
+
+
+```
+.
+|-albums
+| |-Some Event
+| | |-IMG_123.jpg
+| | |-IMG_124.jpg
+| |-Family
+|   |-album_info.yml
+|   |-Mom_and_Dad_Anniversary.jpg
+|   |-Morgan.jpg
+|   |-Terry_and_Leslie.jpg
 ```
 
-3. Copy your image directories into `jekyll-site/photos/`. Here's what my directory structure looks like:
+will build a gallery with two albums: "Some Event" and "Family".
+`http://mysite.com/Some Event/index.html` will show two images: `IMG_123.jpg`
+and `IMG_124.jpg`. Similarly, `http://mysite.com/Family/index.html` will show
+three images: `Morgan.jpg`, `Terri_and_Leslie.jpg`, and
+`Mom_and_Dad_Anniversary.jpg`. The Family album has metadata about the album
+that it reads from album_info.yml.
 
-    ```bash
-$ ls jekyll-site/photos
-best/          chile_trip/  japan_trip/
-$ ls jekyll-site/photos/chile_trip
-IMG_1039.JPG  IMG_1046.JPG  IMG_1057.JPG
+The data in album_info.yml is structured as a hash -- just like _config.yml --
+and affects the behavior of your album. Possible metadata keys are:
+
+- description: Text describing the album. Becomes available as
+`page.description` in the album_index.html template.
+- sort: string describing how to sort the images in the album. First word is
+the field to sort on, second is either 'asc' or 'desc'. Valid sort
+fields are:
+  - filename: sorts on the image's filename.
+- hidden: boolean (true or false) indicating whether or not an album should be
+linked to from the gallery or parent albums. Hidden albums still exist in the
+site.pages list and are publicly accessible to anyone with the url, but don't
+get explicit links placed on parent albums' pages.
+
+```YAML
+description: Lorem ipsum dolor hipster nonsense
+sort: filename desc
+hidden: false
 ```
 
-4. Run `jekyll build` and be patient. It can take a while to generate all the thumbnails on the first run. After that, you should have pretty pictures.
+### Templates
 
+Your album template must be named `album_index.html` and should loop over
+`page.images` to actually place all the images on the page. `page.images` is an
+array of hashes; each has has two keys: `rel_link` and `source`.  For example:
 
-## Dependencies
-
-* [ImageMagick](http://www.imagemagick.org/)
-* [RMagick](https://github.com/rmagick/rmagick)
-* [exifr](https://github.com/remvee/exifr/)
-
-### Install dependencies on OS X
-
-```bash
-brew install imagemagick
-gem install rmagick exifr
+```
+---
+layout: default
+page_type: album
+---
+<h2>{{ page.title }}</h2>
+{% for image in page.images %}
+    <a href="{{ image.rel_link }}">{% image album_thumb {{ image.src }} %}</a>
+{% endfor %}
 ```
 
-### Install dependencies on Ubuntu
+Your image page template must be named `image_page.html`. The `page` variable
+contains the following data:
 
-```apt install libmagick++-dev
-gem install rmagick exifr
+- prev_url: The relative path for the previous image in the gallery
+- next_url: The relative path for the next image in the gallery
+- img_src: The relative path to the image file for this page
+- album_url: The path to the album's index page.
+
+If you want to list all available albums, make sure that your album template
+includes `page_type: albums` and then put this in your site's homepage (or
+wherever you want the album list):
+
+```Liquid
+<ul>
+{% for page in site.pages %}
+    {% if page.page_type == 'album' %}
+		{% if page.hidden %}{% continue %}{% endif %}
+        <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+    {% endif %}
+{% endfor %}
+</ul>
 ```
-
-## Configuration
-
-This plugin reads several config options from `_config.yml`. The following options are supported (default settings are shown):
-
-```yaml
-gallery:
-  dir: photos               # Path to the gallery
-  symlink: false            # false: copy images into _site. true: create symbolic links (saves disk space)
-  title: "Photos"           # Title for gallery index page
-  title_prefix: "Photos: "  # Title prefix for gallery pages. Gallery title = title_prefix + gallery_name
-  sort_field: "date_time"   # How to sort galleries on the index page.
-                            # Possible values are: title, date_time, best_image
-  thumbnail_size:
-    x: 400                  # max width of thumbnails (in pixels)
-    y: 400                  # max height of thumbnails (in pixels)
-  # The following options are for individual galleries.
-  galleries:
-    chile_trip:
-      best_image: IMG_1068.JPG  # The image to show on the gallery index page. Defaults to the last image.
-    japan_trip:
-      best_image: IMG_0690.JPG
-      name: "日本の旅"       # Defaults to directory name, replacing _ with spaces & capitalizing words.
-    awesome_stuff:
-      best_image: snaileo_gonzales.jpg
-      sort_reverse: true    # Reverse sort images in gallery.
-    secret_stuff:
-      hidden: true          # Don't show this gallery on the index page. People must guess the URL.
-```
-
-
-## Overriding layouts
-
-If you want to customize the templates used by this generator, copy `gallery_index.html` and `gallery_page.html` to your Jekyll site's `_layouts`:
-
-    cp lib/gallery_index.html jekyll-site/_layouts/
-    cp lib/gallery_page.html jekyll-site/_layouts/
