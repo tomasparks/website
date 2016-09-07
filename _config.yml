@@ -128,7 +128,7 @@ collections:
 
 
 gallery:
-  dir: _art               # Path to the gallery
+  dir: art               # Path to the gallery
   symlink: false            # false: copy images into _site. true: create symbolic links (saves disk space)
   title: "Artwork"           # Title for gallery index page
   title_prefix: "Artwork: "  # Title prefix for gallery pages. Gallery title = title_prefix + gallery_name
