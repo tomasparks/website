@@ -2,7 +2,7 @@ module Jekyll
 	class ImagePage < Page
 		# An image page
 		def initialize(site, base, dir, img_source, name, prev_name, next_name, album_page)
-                        puts "inside initialize("
+                        puts "ImagePage:initialize("
 puts site
 puts base
 puts dir
@@ -36,7 +36,7 @@ puts ")"
 		}
 
 		def initialize(site, base, dir, page=0)
-puts "initialize("
+puts "AlbumPage:initialize("
 puts site
 puts base
 puts dir
@@ -98,6 +98,7 @@ puts "page=0 )"
 		end
 
 		def get_album_metadata
+                        puts "get_album_metadata"
 			site_metadata = @site.config['album_config'] || {}
 			local_config = {}
 			['yml', 'yaml'].each do |ext|
@@ -110,10 +111,12 @@ puts "page=0 )"
 		end
 
 		def album_name_from_page(page)
+                        puts "album_name_from_page()"
 			return page == 0 ? 'index.html' : "index#{page + 1}.html"
 		end
 
 		def list_album_contents
+                        puts "list_album_contents"
 			entries = Dir.entries(@album_source)
 			entries.reject! { |x| x =~ /^\./ } # Filter out ., .., and dotfiles
 
@@ -137,6 +140,7 @@ puts "page=0 )"
 		end
 
 		def do_image(filename, prev_file, next_file, album_page)
+                        puts "do_image"
 			# Get info for the album page and make the image's page.
 
 			rel_link = image_page_url(filename)
@@ -165,7 +169,7 @@ puts "page=0 )"
 		safe true
 
 		def generate(site)
-                        puts "generate()"
+                        puts "GalleryGenerator:generate()"
 			if site.layouts.key? 'album_index'
 				base_album_path = site.config['album_dir'] || 'albums'
 				albums = Dir.entries(base_album_path)
