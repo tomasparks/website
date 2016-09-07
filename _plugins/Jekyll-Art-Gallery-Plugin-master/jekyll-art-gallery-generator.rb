@@ -156,6 +156,7 @@ puts " )"
       puts image
       next if image.chars.first == "."
       next unless image.downcase().end_with?(*$image_extensions)
+      next unless File.file?(image)
       puts "image: "
       puts image
       image_path = File.join(dir, image) # source image short path
