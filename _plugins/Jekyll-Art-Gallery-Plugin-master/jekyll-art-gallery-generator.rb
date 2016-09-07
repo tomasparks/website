@@ -114,6 +114,8 @@ class GalleryPage < ReadYamlPage
     self.read_yaml(File.dirname(gallery_page), File.basename(gallery_page))
     self.data["gallery"] = gallery_name # aka folder name
     self.data["description"] = gallery_config["description"]
+    puts self.data["gallery"]
+    puts self.data["description"]
 
     # prettify gallery name if not set
     puts gallery_name.gsub("_", " ").gsub(/\w+/) {|word| word.capitalize}
