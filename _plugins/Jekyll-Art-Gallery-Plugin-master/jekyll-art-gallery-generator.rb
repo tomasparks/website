@@ -321,6 +321,8 @@ class GalleryGenerator < Generator
     Dir.chdir(site.source)
     begin
       Dir.foreach(dir) do |gallery_dir|
+      puts "gallery_dir: "
+      puts gallery_dir
         gallery_path = File.join(dir, gallery_dir)
         if File.directory?(gallery_path) and gallery_dir.chars.first != "." # skip galleries starting with a dot
           gallery = GalleryPage.new(site, site.source, gallery_path, gallery_dir)
