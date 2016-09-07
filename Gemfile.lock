@@ -20,6 +20,7 @@ GEM
     colored (1.2)
     ethon (0.9.0)
       ffi (>= 1.3.0)
+    exifr (1.2.5)
     ffi (1.9.14)
     forwardable-extended (2.6.0)
     html-proofer (3.0.6)
@@ -96,6 +97,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  exifr
   html-proofer
   jekyll
   jekyll-lunr-js-search
@@ -103,6 +105,7 @@ DEPENDENCIES
   jekyll-responsive_image
   jekyll-seo-tag
   pdf_info
+  rmagick
   rtex
 
 BUNDLED WITH
