@@ -6,6 +6,7 @@ gem 'jekyll-seo-tag'
 #gem 'jekyll-feed'
 gem 'rmagick'
 gem 'exifr'
+gem 'jekyll-gallery-generator'
 
 #gem 'rmagick'
 #gem 'jekyll-responsive_image'
