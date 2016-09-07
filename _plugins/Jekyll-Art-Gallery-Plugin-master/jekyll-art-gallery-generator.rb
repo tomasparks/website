@@ -89,7 +89,7 @@ class GalleryPage < ReadYamlPage
   attr_reader :hidden
 
   def initialize(site, base, dir, gallery_name)
-    puts "Inside GalleryPage()"
+    puts "Inside GalleryPage(" site, base, dir, gallery_name ")"
     @site = site
     @base = base
     #source_dir=dir
