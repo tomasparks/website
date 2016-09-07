@@ -77,11 +77,14 @@ puts "page=0 )"
 					if !albumpage.data['hidden']
 						self.data['albums'] << { 'name' => subalbum, 'url' => albumpage.url }
 					end
+puts site.pages << albumpage
 					site.pages << albumpage #FIXME: sub albums are getting included in my gallery index
 				end
 			end
 
 			files.each_with_index do |filename, idx|
+puts filename
+puts idx
 				if num_images
 					next if idx < first
 					if idx >= last
