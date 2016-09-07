@@ -1,7 +1,7 @@
 # Jekyll art gallery generator plugin
 # Distribiuted under MIT license with attribution
 #
-#require 'exifr'
+require 'exifr'
 require 'rmagick'
 include Magick
 
