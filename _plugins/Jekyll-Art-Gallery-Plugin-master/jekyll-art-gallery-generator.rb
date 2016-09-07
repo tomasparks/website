@@ -146,12 +146,11 @@ puts " )"
       wm_img = Image.read(File.join(base, "images",config["watermark"])).first
     end
 
-    puts "process and copy images"
+    puts "process and copy images..."
     self.data["captions"] = {}
     date_times = {}
     Dir.foreach(dir) do |image|
-      puts File.file?(File.join(dir, image))
-      next unless File.file?(File.join(dir, image))
+      next if File.file?(File.join(dir, image)) == false
       next if image.chars.first == "." 
      # next unless image.downcase().end_with?(*$image_extensions)
       puts "image: "
@@ -159,9 +158,10 @@ puts " )"
       image_path = File.join(dir, image) # source image short path
       # img_src = site.in_source_dir(image_path) # absolute path for the source image
 
-      puts "extract timestamp"
+      puts "extract timestamp....."
       if sort_field == "timestamp"
         begin
+          puts "doing timestamping..."
           #date_times[image] = EXIFR::JPEG.new(image_path).date_time.to_i
           date_times[image]=0
           #  ["DateTime"], ["DateTimeDigitized"], ["DateTimeOriginal"]
@@ -260,16 +260,17 @@ puts " )"
     site.static_files = @site.static_files
     self.data["images"] = @images
 
+    puts "select best Image"
     best_image = gallery_config["best_image"] || @images[0]
     best_image.gsub!(/[^0-9A-Za-z.\-]/, '_') # renormalize the name - important in case the best image name is specified via config
     best_image.downcase! # two step because mutating gsub returns nil that's unusable in a compound call
     #best_image = File.join(@dir, best_image)
     self.data["best_image"] = best_image
 
-    # generate best image thumb for the gallery super-index page
+    puts "generate best image thumb for the gallery super-index page"
     makeThumb(site.in_dest_dir(File.join(@dir, best_image)), "front_"+best_image, config["front_thumb_size"]["x"] || 400, config["front_thumb_size"]["y"] || 400,"crop")
 
-    # generate best image thumb for the header of a gallery index page
+    puts "generate best image thumb for the header of a gallery index page"
     makeThumb(site.in_dest_dir(File.join(@dir, best_image)), "header_"+best_image, config["header_thumb_size"]["x"] || 400, config["header_thumb_size"]["y"] || 400,"crop")
 
     self.data["header"]["image_fullwidth"] = "thumbs/header_"+best_image # used in the theme
