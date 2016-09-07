@@ -154,7 +154,7 @@ puts " )"
       puts dir
       puts "image: "
       puts image
-      put File.file?(File.join(dir, image))
+      puts File.file?(File.join(dir, image))
       next if image.chars.first == "."
       next unless image.downcase().end_with?(*$image_extensions)
       puts "image: "
