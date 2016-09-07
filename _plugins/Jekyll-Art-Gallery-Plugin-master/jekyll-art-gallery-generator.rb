@@ -114,14 +114,8 @@ class GalleryPage < ReadYamlPage
     self.read_yaml(File.dirname(gallery_page), File.basename(gallery_page))
     self.data["gallery"] = gallery_name # aka folder name
     self.data["description"] = gallery_config["description"]
-    puts "self.data[\"gallery\"] = "
-    puts self.data["gallery"]
-    puts "self.data[\"description\"] = "
-    puts self.data["description"]
 
     # prettify gallery name if not set
-    puts "gallery_name.gsub(\"_\", \" \").gsub(/\w+/) {|word| word.capitalize} = "
-    puts gallery_name.gsub("_", " ").gsub(/\w+/) {|word| word.capitalize}
     gallery_name = gallery_name.gsub("_", " ").gsub(/\w+/) {|word| word.capitalize}
 
     gallery_name = gallery_config["title"] || gallery_name
@@ -138,7 +132,7 @@ class GalleryPage < ReadYamlPage
       wm_img = Image.read(File.join(base, "images",config["watermark"])).first
     end
 
-    # process and copy images
+    puts "process and copy images"
     self.data["captions"] = {}
     date_times = {}
     Dir.foreach(dir) do |image|
@@ -148,7 +142,7 @@ class GalleryPage < ReadYamlPage
       image_path = File.join(dir, image) # source image short path
       # img_src = site.in_source_dir(image_path) # absolute path for the source image
 
-      # extract timestamp
+      puts "extract timestamp"
       if sort_field == "timestamp"
         begin
           #date_times[image] = EXIFR::JPEG.new(image_path).date_time.to_i
