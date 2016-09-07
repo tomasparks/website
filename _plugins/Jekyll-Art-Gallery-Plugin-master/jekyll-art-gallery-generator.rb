@@ -142,6 +142,7 @@ class GalleryPage < ReadYamlPage
     self.data["captions"] = {}
     date_times = {}
     Dir.foreach(dir) do |image|
+      puts image
       next if image.chars.first == "."
       next unless image.downcase().end_with?(*$image_extensions)
 
