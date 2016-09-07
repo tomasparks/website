@@ -43,9 +43,6 @@ GEM
       pathutil (~> 0.9)
       rouge (~> 1.7)
       safe_yaml (~> 1.0)
-    jekyll-gallery-generator (1.0.4)
-      exifr (~> 1.2)
-      rmagick (~> 2.12)
     jekyll-lunr-js-search (3.2.0)
       json (~> 1.8)
       nokogiri (~> 1.6)
@@ -103,7 +100,6 @@ DEPENDENCIES
   exifr
   html-proofer
   jekyll
-  jekyll-gallery-generator
   jekyll-lunr-js-search
   jekyll-pandoc-multiple-formats!
   jekyll-responsive_image
