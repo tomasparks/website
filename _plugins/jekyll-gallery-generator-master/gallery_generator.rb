@@ -77,7 +77,6 @@ puts "page=0 )"
 					if !albumpage.data['hidden']
 						self.data['albums'] << { 'name' => subalbum, 'url' => albumpage.url }
 					end
-puts site.pages << albumpage
 					site.pages << albumpage #FIXME: sub albums are getting included in my gallery index
 				end
 			end
