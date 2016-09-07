@@ -12,12 +12,14 @@ $image_extensions = [".png", ".jpg", ".jpeg", ".gif"]
 module Jekyll
   class GalleryFile < StaticFile
     def write(dest)
+      puts "inside GalleryFile()"
       return false
     end
   end
 
   class ReadYamlPage < Page
     def read_yaml(base, name, opts = {})
+      puts "inside ReadYamlPage()"
       begin
         self.content = File.read(File.join(base, name), merged_file_read_opts(opts))
         if content =~ /\A(---\s*\n.*?\n?)^((---|\.\.\.)\s*$\n?)/m
@@ -37,6 +39,7 @@ end
 # main page linking all galleries together
 class GalleryIndex < ReadYamlPage
   def initialize(site, base, dir, galleries)
+    puts "inside GalleryIndex()"
     @site = site
     @base = base
     @dir = dir.gsub(/^_/, "")
@@ -89,7 +92,7 @@ class GalleryPage < ReadYamlPage
   attr_reader :hidden
 
   def initialize(site, base, dir, gallery_name)
-
+    puts "inside GalleryPage()"
     @site = site
     @base = base
     #source_dir=dir
@@ -298,6 +301,7 @@ class GalleryGenerator < Generator
   safe true
 
   def generate(site)
+    puts "inside GalleryGenerator()"
     config = site.data["gallery"] || {}
     dir = config["source_dir"] || "_photos"
     galleries = []
