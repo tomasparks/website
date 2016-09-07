@@ -150,7 +150,7 @@ puts " )"
     self.data["captions"] = {}
     date_times = {}
     Dir.foreach(dir) do |image|
-      #next if File.file?(File.join(dir, image)) == false
+      next if File.file?(File.join(dir, image)) == false
       next if image.chars.first == "." 
      # next unless image.downcase().end_with?(*$image_extensions)
       puts "image: "
