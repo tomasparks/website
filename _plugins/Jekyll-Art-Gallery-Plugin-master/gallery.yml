@@ -38,19 +38,7 @@ strip_exif: true
 galleries:
   Other:
     hidden: true
-  Shows:
+  TSP:
     #hidden: true
     #sort_field: name # rule for sorting images within galleries.
-    #best_image: MoonLight.jpg
-    #header_image: sy_header.jpg
-    I_f-As.jpg: Set one
-    SSDa.jpg: All in two
-    scale_method: crop_bottom
-  Paintings:
-    description: Egg tempera, acrylic and gold leaf on wood.
-    best_image: Soob.jpg
-    header_image: batik_header.jpg
-    scale_method: crop_bottom
-    ddeal.jpg: Nevy
-
 #symlink: true # to avoid copying big files into the generated site folder - does not work with stripping EXIF
