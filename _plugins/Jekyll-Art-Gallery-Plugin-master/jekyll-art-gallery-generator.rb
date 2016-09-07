@@ -7,7 +7,7 @@ include Magick
 
 include FileUtils
 
-$image_extensions = [".png", ".jpg", ".jpeg", ".gif"]
+$image_extensions = [".png", ".jpg", ".jpeg", ".gif",".pov.tgz",".schematic",".svg"]
 
 module Jekyll
   class GalleryFile < StaticFile
