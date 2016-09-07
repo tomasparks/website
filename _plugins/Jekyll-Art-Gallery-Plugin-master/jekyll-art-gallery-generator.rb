@@ -150,17 +150,12 @@ puts " )"
     self.data["captions"] = {}
     date_times = {}
     Dir.foreach(dir) do |image|
-      puts "dir: "
-      puts dir
-      puts "image: "
-      puts image
       puts File.file?(File.join(dir, image))
-      next if File.file?(File.join(dir, image)) == false
+      next unless File.file?(File.join(dir, image))
       next if image.chars.first == "." 
-      next unless image.downcase().end_with?(*$image_extensions)
+     # next unless image.downcase().end_with?(*$image_extensions)
       puts "image: "
       puts image
-
       image_path = File.join(dir, image) # source image short path
       # img_src = site.in_source_dir(image_path) # absolute path for the source image
 
