@@ -142,10 +142,11 @@ class GalleryPage < ReadYamlPage
     self.data["captions"] = {}
     date_times = {}
     Dir.foreach(dir) do |image|
+      puts "dir: "
       puts dir
-
       next if image.chars.first == "."
       next unless image.downcase().end_with?(*$image_extensions)
+      puts "image: "
       puts image
       image_path = File.join(dir, image) # source image short path
       # img_src = site.in_source_dir(image_path) # absolute path for the source image
