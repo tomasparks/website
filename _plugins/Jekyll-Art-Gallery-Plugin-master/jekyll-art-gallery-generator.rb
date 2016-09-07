@@ -35,6 +35,7 @@ module Jekyll
 
   self.data ||= {}
 end
+puts "leaving ReadYamlPage()"
 end
 
 # main page linking all galleries together
@@ -86,6 +87,7 @@ class GalleryIndex < ReadYamlPage
       end
       }
   end
+    puts "Leaving GalleryIndex()"
 end
 
 # gallery page for each gallery
@@ -261,10 +263,11 @@ class GalleryPage < ReadYamlPage
 
     self.data["header"]["image_fullwidth"] = "thumbs/header_"+best_image # used in the theme
     GC.start
-
+    puts "leaving GalleryPage()"
   end
 
   def makeThumb(image_path, dest_image, thumb_x, thumb_y, scale_method)
+         puts "inside makeThumb()"
       # create thumbnail if it is not there
       thumbs_dir = File.join(site.dest, @dir, "thumbs")
       #thumbs_dir = File.join(@dir, "thumbs")
@@ -296,6 +299,7 @@ class GalleryPage < ReadYamlPage
       # record the thumbnail
       @site.static_files << GalleryFile.new(@site, @base, thumbs_dir, dest_image)
   end
+    puts "leaving makeThumb()"
 end
 
 class GalleryGenerator < Generator
@@ -335,4 +339,6 @@ class GalleryGenerator < Generator
     site.pages << gallery_index
   end
 end
+    puts "leaving GalleryGenerator()"
 end
+
