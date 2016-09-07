@@ -89,16 +89,10 @@ class GalleryPage < ReadYamlPage
   attr_reader :hidden
 
   def initialize(site, base, dir, gallery_name)
-    puts "Inside GalleryPage(" 
-    puts site
-    puts base
-    puts dir
-    puts gallery_name
-    puts ")"
+
     @site = site
     @base = base
     #source_dir=dir
-    puts dir.gsub(/^_/, "").gsub(/[^0-9A-Za-z.\\\-\/]/, '_').downcase
     @dir = dir.gsub(/^_/, "").gsub(/[^0-9A-Za-z.\\\-\/]/, '_').downcase   # destination dir, same as source sans the leading underscore, the directory component is made web compatible
     FileUtils.mkdir_p(site.in_dest_dir(@dir), :mode => 0755)
 
@@ -106,7 +100,7 @@ class GalleryPage < ReadYamlPage
     @images = []
     @hidden = false
 
-    # load configs, set defaults
+    puts "load configs, set defaults"
     config = site.data["gallery"] || {}
     symlink = config["symlink"] || false
     gallery_config = config["galleries"][gallery_name] || {}
@@ -122,6 +116,7 @@ class GalleryPage < ReadYamlPage
     self.data["description"] = gallery_config["description"]
 
     # prettify gallery name if not set
+    puts gallery_name.gsub("_", " ").gsub(/\w+/) {|word| word.capitalize}
     gallery_name = gallery_name.gsub("_", " ").gsub(/\w+/) {|word| word.capitalize}
     gallery_name = gallery_config["title"] || gallery_name
     self.data["title"] = gallery_name
