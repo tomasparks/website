@@ -23,8 +23,8 @@ header_thumb_size:    # best image thumb for the header of a gallery index page
   x: 640
   y: 480
 
-scale_method: fit # default for all galleries. could be fit or crop or crop_bottom
-strip_exif: true
+#scale_method: fit # default for all galleries. could be fit or crop or crop_bottom
+#strip_exif: true
 #watermark: Watermark2_200x200.png #add this as a watermark, lower bottom corner. Transparent image, from images/ folder, with grayscale used for hardlight compositing
 # RMagick has visible watermark(image, how much of watermark lightness to compose on "xx%", how much of watermark's saturation to compose %, gravity (SouthEastGravity is good), x-offset (origin depends on gravity), y-offset)
 # Invisible watermark can be done via Fourier Watermark, Visible when viewed with the Fourier filter - gmic.sourceforge.net or G'Mic plugin for Gimp
