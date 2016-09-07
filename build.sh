@@ -18,11 +18,3 @@ git push
 
 
 htmlproofer https://tomasparks.github.io/
-
-mkdir -p "../compressed/tomasparks.github.io/"
-cd archive
-find -mindepth 1 -type d  -exec mkdir -p "../../compressed/tomasparks.github.io/archive/{}" \;
-find -mindepth 1 -type d  -exec zpaq a "../../compressed/tomasparks.github.io/archive/{}/????.zpaq" "{}" -test -all \;
-cd ..
-
-zpaq a "../compressed/tomasparks.github.io/"$(date +%F)".zpaq" * -not "archive" -test -all -index "../compressed/tomasparks.github.io/index.zpaq"

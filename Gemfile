@@ -4,6 +4,8 @@ gem 'jekyll-lunr-js-search'
 #gem 'jekyll-archives'
 gem 'jekyll-seo-tag'
 #gem 'jekyll-feed'
+gem 'rmagick'
+gem 'exifr'
 
 #gem 'rmagick'
 #gem 'jekyll-responsive_image'
