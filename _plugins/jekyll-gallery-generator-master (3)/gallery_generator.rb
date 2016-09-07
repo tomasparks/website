@@ -2,7 +2,6 @@ module Jekyll
 	class ImagePage < Page
 		# An image page
 		def initialize(site, base, dir, img_source, name, prev_name, next_name, album_page)
-                        puts "inside initialize()"
 			@site = site
 			@base = base
 			@dir = dir
@@ -27,7 +26,6 @@ module Jekyll
 		}
 
 		def initialize(site, base, dir, page=0)
-                        puts "initialize()"
 			@site = site
 			@base = base # Absolute path to use to find files for generation
 
@@ -152,7 +150,6 @@ module Jekyll
 		safe true
 
 		def generate(site)
-                        puts "generate()"
 			if site.layouts.key? 'album_index'
 				base_album_path = site.config['album_dir'] || 'albums'
 				albums = Dir.entries(base_album_path)
