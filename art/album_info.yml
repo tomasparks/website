@@ -1,0 +1,70 @@
+---
+layout: default
+page_type: album
+title: art
+images:
+- src: art/Blank_Folder.png
+  rel_link: Blank_Folder_png.html
+- src: art/CSG.png
+  rel_link: CSG_png.html
+- src: art/Minecraft.png
+  rel_link: Minecraft_png.html
+- src: art/TSP.png
+  rel_link: TSP_png.html
+- src: art/Blank_Folder.png
+  rel_link: Blank_Folder_png.html
+- src: art/CSG.png
+  rel_link: CSG_png.html
+- src: art/Minecraft.png
+  rel_link: Minecraft_png.html
+- src: art/TSP.png
+  rel_link: TSP_png.html
+image: art/./blank_folder.png
+albums:
+- title: TSP
+  url: "/art/TSP/"
+  image: blank_folder.png
+  description: ''
+  hidden: 
+- title: CSG
+  url: "/art/CSG/"
+  image: "../CSG.png"
+  description: Constructive solid geometry (CSG) (formerly called computational binary
+    solid geometry) is a technique used in solid modeling. Constructive solid geometry
+    allows a modeler to create a complex surface or object by using Boolean operators
+    to combine simpler objects.[1] Often CSG presents a model or surface that appears
+    visually complex, but is actually little more than cleverly combined or decombined
+    objects.
+  hidden: 
+- title: Minecraft
+  url: "/art/Minecraft/"
+  image: "../Minecraft.png"
+  description: Minecraft is a sandbox video game originally created by Swedish programmer
+    Markus "Notch" Persson and later developed and published by Mojang. The creative
+    and building aspects of Minecraft enable players to build constructions out of
+    textured cubes in a 3D procedurally generated world.
+  hidden: 
+- title: TSP
+  url: "/art/TSP/"
+  image: blank_folder.png
+  description: ''
+  hidden: 
+- title: CSG
+  url: "/art/CSG/"
+  image: "../CSG.png"
+  description: Constructive solid geometry (CSG) (formerly called computational binary
+    solid geometry) is a technique used in solid modeling. Constructive solid geometry
+    allows a modeler to create a complex surface or object by using Boolean operators
+    to combine simpler objects.[1] Often CSG presents a model or surface that appears
+    visually complex, but is actually little more than cleverly combined or decombined
+    objects.
+  hidden: 
+- title: Minecraft
+  url: "/art/Minecraft/"
+  image: "../Minecraft.png"
+  description: Minecraft is a sandbox video game originally created by Swedish programmer
+    Markus "Notch" Persson and later developed and published by Mojang. The creative
+    and building aspects of Minecraft enable players to build constructions out of
+    textured cubes in a 3D procedurally generated world.
+  hidden: 
+description: ''

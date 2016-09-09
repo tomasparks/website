@@ -1,5 +1,37 @@
-description: Minecraft is a sandbox video game originally created by Swedish programmer Markus "Notch" Persson and later developed and published by Mojang. The creative and building aspects of Minecraft enable players to build constructions out of textured cubes in a 3D procedurally generated world.
-sort: filename desc
-settings:
- - 360
- - x3dom
+---
+layout: default
+page_type: album
+title: art/Minecraft
+images: []
+image: "../Minecraft.png"
+albums:
+- name: third-party
+  url: "/art/Minecraft/third-party/"
+- title: third-party
+  url: "/art/Minecraft/third-party/"
+- title: third-party
+  url: "/art/Minecraft/third-party/"
+- title: third-party
+  url: "/art/Minecraft/third-party/"
+- title: third-party
+  url: "/art/Minecraft/third-party/"
+  image: blank_folder.png
+- title: third-party
+  url: "/art/Minecraft/third-party/"
+  image: blank_folder.png
+  description: ''
+  hidden: 
+- title: third-party
+  url: "/art/Minecraft/third-party/"
+  image: blank_folder.png
+  description: ''
+  hidden: 
+- title: third-party
+  url: "/art/Minecraft/third-party/"
+  image: blank_folder.png
+  description: ''
+  hidden: 
+description: Minecraft is a sandbox video game originally created by Swedish programmer
+  Markus "Notch" Persson and later developed and published by Mojang. The creative
+  and building aspects of Minecraft enable players to build constructions out of textured
+  cubes in a 3D procedurally generated world.

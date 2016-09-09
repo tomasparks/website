@@ -73,11 +73,14 @@ puts "Entering AlbumPage:initialize()"
 			self.process(@name)
 			self.read_yaml(File.join(@base, '_layouts'), 'album_index.html')
 
-			self.data['title'] = "{{#@album_metadata['title']}: {{@name}}"
+			self.data['title'] = @album_metadata['title'] || @dir
                       #  self.data['url'] = File.join(@dir, @name)
-			self.data['images'] = []
-			self.data['albums'] = []
-			self.data['description'] = @album_metadata['description']
+			self.data['images'] = @album_metadata['images'] || []
+                        @base_album_path = site.config['album_dir'] || 'albums'
+			self.data['image'] = @album_metadata['image'] || File.join(@base_album_path, "./blank_folder.png")
+
+			self.data['albums'] = @album_metadata['albums'] || []
+			self.data['description'] = @album_metadata['description'] || ""
 			self.data['hidden'] = true if @album_metadata['hidden']
 			files, directories = list_album_contents
 
@@ -91,14 +94,13 @@ puts "Entering AlbumPage:initialize()"
 			end
 			if page == 0
 				directories.each do |subalbum|
-puts "subalbum:"
-puts subalbum
-puts "callling AlbumPage.new(site, base, dir)"
+
 puts File.join(@dir, subalbum)
 
 					albumpage = AlbumPage.new(site, site.source, File.join(@dir, subalbum))
+puts albumpage.data
 					if !albumpage.data['hidden']
-						self.data['albums'] << { 'name' => subalbum, 'url' => albumpage.url }
+						self.data['albums'] << { 'title' => subalbum, 'url' => albumpage.url, 'image' => albumpage.data['image'], 'description' => albumpage.data['description'], 'hidden' => albumpage.data['hidden'] }
 					end
 					site.pages << albumpage #FIXME: sub albums are getting included in my gallery index
 				end
@@ -115,8 +117,10 @@ puts File.join(@dir, subalbum)
 				next_file = files[idx+1] || nil
 
 				album_page = "#{@dir}/#{album_name_from_page(page)}"
-			#	do_image(filename, prev_file, next_file, album_page)
+				do_image(filename, prev_file, next_file, album_page)
 			end
+
+@album_metadata = self.data
 tmp = write_album_metadata
  puts "Leaving AlbumPage:initialize()"
 
@@ -138,7 +142,7 @@ tmp = write_album_metadata
 
 	def write_album_metadata
                         puts "Entering write_album_metadata()"
-File.open(File.join(@dir, 'album_info.yml'), "w+") do |f|
+File.open(File.join(@dir, 'album_info.yml'), "w") do |f|
       f.write(@album_metadata.to_yaml)
     end
  puts "Leaving write_album_metadata()"
