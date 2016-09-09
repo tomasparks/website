@@ -1,5 +1,3 @@
-include FileUtils
-
 module Jekyll
 	class ImagePage < Page
 		# An image page
@@ -8,7 +6,7 @@ module Jekyll
 			@site = site
 			@base = base
 			@dir = dir
-                        @dir = album_source
+                        @album_source = album_source
 			@name = name # Name of the generated page
 			self.process(@name)
 			self.read_yaml(File.join(@base, '_layouts'), 'image_page.html')
@@ -18,35 +16,10 @@ module Jekyll
 			'prev_url' => prev_name,
 			'next_url' => next_name,
 			'album_url' => album_page,
-                        'url' => File.join('/', @dir, @dir, @name)
+                        'url' => File.join('/', @album_source, @dir, @name)
  }
 
                         puts "Leaving ImagePage:initialize()"
-		end
-
-	end
-
-	class DeepZoomPage < Page
-		# An DeepZoom page
-		def initialize(site, base, dir, album_source, img_source, name, prev_name, next_name, album_page)
-                        puts "Entering DeepZoomPage:initialize()"
-			@site = site
-			@base = base
-			@dir = dir
-                        @dir = dir
-			@name = name # Name of the generated page
-			self.process(@name)
-			self.read_yaml(File.join(@base, '_layouts'), 'Deepzom_page.html')
-      self.data = {
-			'title' => "#{File.basename(img_source)}",
-			'img_src' => img_source,
-			'prev_url' => prev_name,
-			'next_url' => next_name,
-			'album_url' => album_page,
-                        'url' => File.join('/', @dir, @dir, @name)
- }
-
-                        puts "Leaving DeepZoomPage:initialize()"
 		end
 
 	end
@@ -61,20 +34,19 @@ module Jekyll
 
 		def initialize(site, base, dir, page=0)
 puts "Entering AlbumPage:initialize()"
-
-    @dir = dir.gsub(/^_/, "").gsub(/[^0-9A-Za-z.\\\-\/]/, '_')   # destination dir, same as source sans the leading underscore, the directory component is made web compatible
-    FileUtils.mkdir_p(site.in_dest_dir(@dir), :mode => 0755)
 			@site = site
 			@base = base # Absolute path to use to find files for generation
 
 			# Page will be created at www.mysite.com/#{album_source}/#{dir}/#{name}
+			@dir = dir
 			@name = album_name_from_page(page)
+			@album_source = File.join(site.config['album_dir'] || 'albums', @dir)
 			@album_metadata = get_album_metadata
 			self.process(@name)
 			self.read_yaml(File.join(@base, '_layouts'), 'album_index.html')
 
-			self.data['title'] = @name
-                      #  self.data['url'] = File.join(@dir, @name)
+			self.data['title'] = @album_source
+                        self.data['url'] = File.join('/', @album_source, @dir, @name)
 			self.data['images'] = []
 			self.data['albums'] = []
 			self.data['description'] = @album_metadata['description']
@@ -93,7 +65,7 @@ puts "Entering AlbumPage:initialize()"
 				directories.each do |subalbum|
 puts "subalbum:"
 puts subalbum
-puts "callling AlbumPage.new(site, base, dir)"
+puts "callling AlbumPage.new(site, site.source, File.join(@dir, subalbum))"
 puts File.join(@dir, subalbum)
 
 					albumpage = AlbumPage.new(site, site.source, File.join(@dir, subalbum))
@@ -114,7 +86,7 @@ puts File.join(@dir, subalbum)
 				prev_file = files[idx-1] unless idx == 0
 				next_file = files[idx+1] || nil
 
-				album_page = "#{@dir}/#{album_name_from_page(page)}"
+				album_page = "#{@album_source}/#{album_name_from_page(page)}"
 				do_image(filename, prev_file, next_file, album_page)
 			end
 
@@ -127,7 +99,7 @@ puts File.join(@dir, subalbum)
 			site_metadata = @site.config['album_config'] || {}
 			local_config = {}
 			['yml', 'yaml'].each do |ext|
-				config_file = File.join(@dir, 'album_info.yml')
+				config_file = File.join(@album_source, 'album_info.yml')
 				if File.exists? config_file
 					local_config = YAML.load_file(config_file)
 				end
@@ -144,13 +116,13 @@ puts File.join(@dir, subalbum)
 
 		def list_album_contents
                         puts "Entering list_album_contents()"
-			entries = Dir.entries(@dir)
+			entries = Dir.entries(@album_source)
 			entries.reject! { |x| x =~ /^\./ } # Filter out ., .., and dotfiles
 
-			files = entries.reject { |x| File.directory? File.join(@dir, x) } # Filter out directories
+			files = entries.reject { |x| File.directory? File.join(@album_source, x) } # Filter out directories
 
-			directories = entries.select { |x| File.directory? File.join(@dir, x) } # Filter out non-directories
-			files.select! { |x| ['.png', '.jpg','.jpeg', '.gif','.pov.tgz','.schematic'].include? File.extname(File.join(@dir, x)) } # Filter out files that image-tag doesn't handle
+			directories = entries.select { |x| File.directory? File.join(@album_source, x) } # Filter out non-directories
+			files.select! { |x| ['.png', '.jpg','.jpeg', '.gif','.pov.tgz','.schematic'].include? File.extname(File.join(@album_source, x)) } # Filter out files that image-tag doesn't handle
 			# Sort images
 			def filename_sort(a, b, reverse)
 				if reverse =~ /^desc/
@@ -180,7 +152,7 @@ puts album_page
 			# Get info for the album page and make the image's page.
 
 			rel_link = image_page_url(filename)
-			img_source = "#{File.join(@dir, filename)}"
+			img_source = "#{File.join(@album_source, filename)}"
 
 			image_data = {
 				'src' => img_source,
@@ -190,9 +162,8 @@ puts album_page
 			self.data['images'] << image_data
 
 			# Create image page
-			site.pages << ImagePage.new(@site, @base, @dir, @dir, img_source,
+			site.pages << ImagePage.new(@site, @base, @dir, @album_source, img_source,
 				rel_link, image_page_url(prev_file), image_page_url(next_file), album_page)
-
 
  puts "Leaving do_image()"
 		end
@@ -213,35 +184,15 @@ puts filename
 
 		def generate(site)
                         puts "Entering GalleryGenerator:generate()"
-    dir = site.config["source_dir"] || "_photos"
+			if site.layouts.key? 'album_index'
 				base_album_path = site.config['album_dir'] || 'albums'
-    original_dir = Dir.getwd
-
-    # generate galleries
-    Dir.chdir(site.source)
-    begin
-site.pages << AlbumPage.new(site, site.source, dir)
- #     Dir.foreach(dir) do |base_album_path|
- #       gallery_path = File.join(dir, base_album_path)
- #       if File.directory?(gallery_path) and base_album_path.chars.first != "." # skip galleries starting with a dot
-#puts gallery_path
-#					site.pages << AlbumPage.new(site, site.source, gallery_path)
-
-       #   gallery = GalleryPage.new(site, site.source, gallery_path, gallery_dir)
-       #   gallery.render(site.layouts, site.site_payload)
-       #   gallery.write(site.dest)
-       #   site.pages << gallery
-       #   galleries << gallery
-#        end
- #     end
-    rescue Exception => e
-      puts "Error generating galleries: #{e}"
-      puts e.backtrace
-    end
-
-    Dir.chdir(original_dir)
-
-
+				albums = Dir.entries(base_album_path)
+				albums.reject! { |x| x =~ /^\./ }
+				albums.select! { |x| File.directory? File.join(base_album_path, x) }
+				albums.each do |album|
+					site.pages << AlbumPage.new(site, site.source, album)
+				end
+			end
                         puts "Leaving GalleryGenerator:generate()"
 		end
 	end

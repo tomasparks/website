@@ -1,6 +1,6 @@
 
 
- bundle update
+ #bundle update
 
 jekyll build --verbose --trace
 
@@ -17,4 +17,4 @@ git commit -a -m "updating static website."
 git push
 
 
-htmlproofer https://tomasparks.github.io/
+#htmlproofer https://tomasparks.github.io/
