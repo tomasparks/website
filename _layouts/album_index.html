@@ -58,7 +58,7 @@ $(document).ready(function() {
 	<div id="album-images">
 <ul>
 	{% for image in page.images %}
-		<li><a class="fancybox fancybox.iframe" href="{{ site.url }}{{page.url}}{{ image.rel_link }}"><img src="{{ site.url }}{{page.url}}{{image.src}}" /></a>
+		<li><a class="fancybox fancybox.iframe" href="{{ site.url }}{{page.url}}{{ image.rel_link }}"><img src="{{ site.url }}{{image.src}}" /></a>
 	{% endfor %}
 </ul>
 	</div>
