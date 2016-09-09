@@ -58,17 +58,17 @@ $(document).ready(function() {
 	<div id="album-images">
 <ul>
 	{% for image in page.images %}
-		<li><a class="fancybox fancybox.iframe" href="{{ site.url }}{{page.path}}{{ image.rel_link }}"><img src="{{ site.url }}{{ site.url }}{{page.path}}{{image.src}}" /></a>
+		<li><a class="fancybox fancybox.iframe" href="{{ site.url }}{{page.path}}{{ image.rel_link }}"><img src="{{ site.url }}{{page.path}}{{image.src}}" /></a>
 	{% endfor %}
 </ul>
 	</div>
 
 	<div class=album-footer>
 		{% if page.prev_url %}
-		<a class="nav prev-button" href="{{ site.url }}{{ site.url }}{{page.path}}{{ page.prev_url }}">&lt;Previous Page</a>
+		<a class="nav prev-button" href="{{ site.url }}{{page.path}}{{ page.prev_url }}">&lt;Previous Page</a>
 		{% endif %}
 		{% if page.next_url %}
-		<a class="nav next-button" href="{{ site.url }}{{ site.url }}{{page.path}}{{ page.next_url }}">Next Page&gt;</a>
+		<a class="nav next-button" href="{{ site.url }}{{page.path}}{{ page.next_url }}">Next Page&gt;</a>
 		{% endif %}
 	</div>
 </div>
