@@ -5,7 +5,17 @@ layout: page
 this website is a mock-clone of the [Dynix Automated Library System](https://en.wikipedia.org/wiki/Dynix_(software))
 
  * I am not following the style 100%,
- * but I am following the [Text-based user interface](https://en.wikipedia.org/wiki/Text-based_user_interface)
+ * but I am following the [Text-based user interface](https://en.wikipedia.org/wiki/Text-based_user_interface) style
+
+
+## javascript ##
+
+ * [jQuery](https://jquery.com/)
+ * [jQuery UI](https://jqueryui.com/)
+ * [fancyBox](http://fancybox.net/)
+ * [x3dom](http://www.x3dom.org/)
+ * [SpriteSpin](http://spritespin.ginie.eu/)
+ * [OpenSeadragon](https://openseadragon.github.io/)
 
 ## fonts ##
 
