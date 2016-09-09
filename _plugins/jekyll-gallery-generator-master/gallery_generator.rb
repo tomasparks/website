@@ -73,7 +73,7 @@ puts "Entering AlbumPage:initialize()"
 			self.process(@name)
 			self.read_yaml(File.join(@base, '_layouts'), 'album_index.html')
 
-			self.data['title'] = @name
+			self.data['title'] = "{{#@album_metadata['title']}: {{@name}}"
                       #  self.data['url'] = File.join(@dir, @name)
 			self.data['images'] = []
 			self.data['albums'] = []
@@ -169,14 +169,6 @@ puts directories
 
 		def do_image(filename, prev_file, next_file, album_page)
                         puts "Entering do_image()"
-puts "filename:"
-puts filename
-puts "prev_file:"
-puts prev_file
-puts "next_file:"
-puts next_file
-puts "album_page:"
-puts album_page
 			# Get info for the album page and make the image's page.
 
 			rel_link = image_page_url(filename)
