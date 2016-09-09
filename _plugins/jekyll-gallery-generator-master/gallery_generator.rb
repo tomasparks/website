@@ -18,7 +18,7 @@ module Jekyll
 			'prev_url' => prev_name,
 			'next_url' => next_name,
 			'album_url' => album_page,
-                        'url' => File.join('/', @dir, @dir, @name)
+                       # 'url' => File.join('/', @dir, @dir, @name)
  }
 
                         puts "Leaving ImagePage:initialize()"
