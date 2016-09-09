@@ -125,4 +125,5 @@ collections:
     permalink: /questions/:path/
 
 album_dir: art
+source_dir: art
 

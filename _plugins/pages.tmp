@@ -1,0 +1,204 @@
+# Jekyll art gallery generator plugin
+# Distribiuted under MIT license with attribution
+#
+#require 'exifr'
+require 'rmagick'
+include Magick
+
+include FileUtils
+
+$file_extensions = [".png", ".schematic", ".pov.gz"]
+
+module Jekyll
+  class GalleryFile < StaticFile
+    def write(dest)
+      puts "Entering Jekyll:GalleryFile()"
+      return false      
+      puts "Leaving Jekyll:GalleryFile()"
+    end
+  end
+
+  class ReadYamlPage < Page
+    def read_yaml(base, name, opts = {})
+      puts "Entering ReadYamlPage:read_yaml()"
+      begin
+        self.content = File.read(File.join(base, name))
+        if content =~ /\A(---\s*\n.*?\n?)^((---|\.\.\.)\s*$\n?)/m
+          self.content = $POSTMATCH
+          self.data = SafeYAML.load($1)
+        end
+      rescue SyntaxError => e
+        Jekyll.logger.warn "YAML Exception reading #{File.join(base, name)}: #{e.message}"
+    rescue Exception => e
+      Jekyll.logger.warn "Error reading file #{File.join(base, name)}: #{e.message}"
+  end
+
+  self.data ||= {}
+end
+end
+
+# main page linking all galleries together
+class GalleryIndex < ReadYamlPage
+  def initialize(site, base, dir, galleries)
+    @site = site
+    @base = base
+    @dir = dir.gsub(/^_/, "")
+    @name = "index.html"
+    # load gallery configs from the _data/gallery.yml file
+    config = site.data["gallery"] || {}
+
+    self.process(@name)
+    gallery_index = File.join(base, "_layouts", "art_gallery_index.html")
+    unless File.exists?(gallery_index)
+      gallery_index = File.join(File.dirname(__FILE__), "art_gallery_index.html")
+    end
+    self.read_yaml(File.dirname(gallery_index), File.basename(gallery_index))
+    self.data["title"] = config["title"] || "Photos"
+    self.data["galleries"] = []
+
+    begin
+      sort_field = config["sort_field"] || "name"
+      galleries.sort! {|a,b| a.data[sort_field] <=> b.data[sort_field]}
+    rescue Exception => e
+      puts "Error sorting galleries: #{e}"
+      puts e.backtrace
+    end
+    if config["sort_reverse"]
+      galleries.reverse!
+    end
+
+    site.data["galleries-sorted"]=[]
+    galleries.each {|gallery|
+      unless gallery.hidden
+        self.data["galleries"].push(gallery.data)
+        # site-wide data for use in liquid templates
+        # available to liquid via site.data.gallery.galleries.[name]. subitems are manually defined in gallery.yml, and title, link, description, best_image etc and images array
+        # inject additional auto-discovered data back into sitewide gallery object
+        gallery_title=gallery.data["gallery"] # folder name
+        if site.data["gallery"]["galleries"].has_key?(gallery_title)
+          site.data["gallery"]["galleries"][gallery_title].merge!(gallery.data)
+        else
+          site.data["gallery"]["galleries"][gallery_title]=gallery.data
+        end
+        site.data["navigation"].push({"title"=> gallery.data["title"], "url"=> gallery.data["link"], "side"=> "left"})
+        site.data["galleries-sorted"].push(gallery.data["title"]) # sorted array to order the galleries hash on the portfolio page
+      end
+      }
+  end
+end
+
+# gallery page for each gallery
+class GalleryPage < ReadYamlPage
+  attr_reader :hidden
+
+  def initialize(site, base, dir, gallery_name)
+puts "Entering GalleryPage:initialize()"
+    @site = site
+    @base = base
+    #source_dir=dir
+
+    @dir = dir.gsub(/^_/, "").gsub(/[^0-9A-Za-z.\\\-\/]/, '_')   # destination dir, same as source sans the leading underscore, the directory component is made web compatible
+    FileUtils.mkdir_p(site.in_dest_dir(@dir), :mode => 0755)
+
+puts @base
+puts @dir
+puts gallery_name
+
+    @name = "index.html"
+    @images = []
+    @hidden = false
+
+    puts "load configs, set defaults"
+    config = site.data["gallery"] || {}
+    symlink = config["symlink"] || false
+    gallery_config = config["galleries"][gallery_name] || {}
+    sort_field = config["sort_field"] || "name"
+puts config
+
+
+
+    self.process(@name)
+    gallery_page = File.join(base, "_layouts", "art_gallery_page.html")
+    unless File.exists?(gallery_page)
+      gallery_page = File.join(File.dirname(__FILE__), "art_gallery_page.html")
+    end
+
+    self.read_yaml(File.dirname(gallery_page), File.basename(gallery_page))
+    self.data["gallery"] = gallery_name # aka folder name
+    self.data["title"] = gallery_name
+
+    puts "prettify gallery name if not set"
+    gallery_name = gallery_name.gsub("_", " ").gsub(/\w+/) {|word| word.capitalize}
+    gallery_name = gallery_config["title"] || gallery_name
+    self.data["title"] = gallery_name
+    self.data["link"] = "/#{@dir}/"
+
+#doImages()
+
+			local_config = {}
+			['yml', 'yaml'].each do |ext|
+				config_file = File.join(@dir, 'album_info.yml')
+				if File.exists?(config_file)
+                                        puts "found you: album_info.yml"
+					local_config = YAML.load_file(config_file)
+    self.data["description"] = local_config['description']
+self.data["settings"] = local_config['settings']
+				end
+
+			end
+
+    GC.start
+
+      Dir.foreach(dir) do |gallery_dir|
+        gallery_path = File.join(dir, gallery_dir)
+        if File.directory?(gallery_path) and gallery_dir.chars.first != "." # skip galleries starting with a dot
+          gallery = GalleryPage.new(site, site.source, gallery_path, gallery_dir)
+          gallery.render(site.layouts, site.site_payload)
+          gallery.write(site.dest)
+          #site.pages << gallery
+          #galleries << gallery
+        end
+      end
+puts "Leaving GalleryPage:initialize()"
+  end
+end
+
+class GalleryGenerator < Generator
+  safe true
+
+  def generate(site)
+puts "Entering GalleryGenerator:generate()"
+    config = site.data["gallery"] || {}
+    dir = config["source_dir"] || "_photos"
+    galleries = []
+    original_dir = Dir.getwd
+
+    # generate galleries
+    Dir.chdir(site.source)
+    begin
+      Dir.foreach(dir) do |gallery_dir|
+        gallery_path = File.join(dir, gallery_dir)
+        if File.directory?(gallery_path) and gallery_dir.chars.first != "." # skip galleries starting with a dot
+          gallery = GalleryPage.new(site, site.source, gallery_path, gallery_dir)
+          gallery.render(site.layouts, site.site_payload)
+          gallery.write(site.dest)
+          site.pages << gallery
+          galleries << gallery
+        end
+      end
+    rescue Exception => e
+      puts "Error generating galleries: #{e}"
+      puts e.backtrace
+    end
+    Dir.chdir(original_dir)
+
+    # generate gallery index
+    gallery_index = GalleryIndex.new(site, site.source, dir, galleries)
+    gallery_index.render(site.layouts, site.site_payload)
+    gallery_index.write(site.dest)
+
+    site.pages << gallery_index
+  end
+end
+puts "Leaving GalleryGenerator:generate()"
+end
