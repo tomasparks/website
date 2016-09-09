@@ -43,7 +43,7 @@ module Jekyll
 			'prev_url' => prev_name,
 			'next_url' => next_name,
 			'album_url' => album_page,
-                        'url' => File.join('/', @dir, @dir, @name)
+                        #'url' => File.join('/', @dir, @dir, @name)
  }
 
                         puts "Leaving DeepZoomPage:initialize()"
@@ -115,9 +115,9 @@ puts File.join(@dir, subalbum)
 				next_file = files[idx+1] || nil
 
 				album_page = "#{@dir}/#{album_name_from_page(page)}"
-				do_image(filename, prev_file, next_file, album_page)
+			#	do_image(filename, prev_file, next_file, album_page)
 			end
-
+tmp = write_album_metadata
  puts "Leaving AlbumPage:initialize()"
 
 		end
@@ -135,6 +135,15 @@ puts File.join(@dir, subalbum)
 			return DEFAULT_METADATA.merge(site_metadata).merge(local_config)
  puts "Leaving get_album_metadata()"
 		end
+
+	def write_album_metadata
+                        puts "Entering write_album_metadata()"
+File.open(File.join(@dir, 'album_info.yml'), "w+") do |f|
+      f.write(@album_metadata.to_yaml)
+    end
+ puts "Leaving write_album_metadata()"
+		end
+
 
 		def album_name_from_page(page)
                         puts "Entering album_name_from_page()"
