@@ -22,6 +22,21 @@ page_type: album
 
 	<!-- Add Media helper (this is optional) -->
 	<script type="text/javascript" src="{{ site.url }}/assets/ext/fancyBox//source/helpers/jquery.fancybox-media.js?v=1.0.6"></script>
+	<script type="text/javascript"
+$(document).ready(function() {
+	$(".various").fancybox({
+		maxWidth	: 800,
+		maxHeight	: 600,
+		fitToView	: false,
+		width		: '70%',
+		height		: '70%',
+		autoSize	: false,
+		closeClick	: false,
+		openEffect	: 'none',
+		closeEffect	: 'none'
+	});
+});
+</script>
 <h2>{{ page.title }}</h2>
 
 {% if page.description %}
@@ -34,7 +49,7 @@ page_type: album
 		<h3>Sub-Albums</h3>
 		<ul>
 		{% for album in page.albums %}
-			<li><a href="{{ album.url }}">{{ album.name }}</a></li>
+			<li><a href="{{ site.url }}{{ album.url }}">{{ album.name }}</a></li>
 		{% endfor %}
 		</ul>
 	</div>
@@ -43,17 +58,17 @@ page_type: album
 	<div id="album-images">
 <ul>
 	{% for image in page.images %}
-		<li><a class="fancybox fancybox.iframe" href="{{ site.url }}{{ image.rel_link }}"><img src="{{ site.url }}{{image.src}}" /></a>
+		<li><a class="fancybox fancybox.iframe" href="{{ site.url }}{{page.path}}{{ image.rel_link }}"><img src="{{ site.url }}{{ site.url }}{{page.path}}{{image.src}}" /></a>
 	{% endfor %}
 </ul>
 	</div>
 
 	<div class=album-footer>
 		{% if page.prev_url %}
-		<a class="nav prev-button" href="{{ site.url }}{{ page.prev_url }}">&lt;Previous Page</a>
+		<a class="nav prev-button" href="{{ site.url }}{{ site.url }}{{page.path}}{{ page.prev_url }}">&lt;Previous Page</a>
 		{% endif %}
 		{% if page.next_url %}
-		<a class="nav next-button" href="{{ site.url }}{{ page.next_url }}">Next Page&gt;</a>
+		<a class="nav next-button" href="{{ site.url }}{{ site.url }}{{page.path}}{{ page.next_url }}">Next Page&gt;</a>
 		{% endif %}
 	</div>
 </div>
