@@ -3,11 +3,10 @@ layout: page
 page_type: album
 title: art/Minecraft
 files: []
-image: art/./blank_folder.png
 albums:
 - title: third-party
   url: "/art/Minecraft/third-party/"
-  image: art/./blank_folder.png
+  image: 
   description: ''
   hidden: 
 description: ''
