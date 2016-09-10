@@ -2,7 +2,7 @@
 layout: default
 page_type: album
 title: Constructive solid geometry
-images: []
+files: []
 image: "../CSG.png"
 albums: []
 description: Constructive solid geometry (CSG) (formerly called computational binary
@@ -11,3 +11,6 @@ description: Constructive solid geometry (CSG) (formerly called computational bi
   to combine simpler objects.[1] Often CSG presents a model or surface that appears
   visually complex, but is actually little more than cleverly combined or decombined
   objects.
+author: ''
+website: ''
+settings: ''

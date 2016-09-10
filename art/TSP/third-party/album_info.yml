@@ -2,7 +2,10 @@
 layout: default
 page_type: album
 title: art/TSP/third-party
-images: []
+files: []
 image: blank_folder.png
 albums: []
 description: ''
+author: ''
+website: ''
+settings: ''

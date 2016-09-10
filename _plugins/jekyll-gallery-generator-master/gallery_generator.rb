@@ -1,7 +1,7 @@
 include FileUtils
 
 module Jekyll
-	class ImagePage < Page
+	class FilePage < Page
 		# An image page
 		def initialize(site, base, dir, album_source, img_source, name, prev_name, next_name, album_page)
                         puts "Entering ImagePage:initialize()"
@@ -75,11 +75,11 @@ puts "Entering AlbumPage:initialize()"
 
 			self.data['title'] = @album_metadata['title'] || @dir
                       #  self.data['url'] = File.join(@dir, @name)
-			self.data['images'] = @album_metadata['images'] || []
+			self.data['files'] = []
                         @base_album_path = site.config['album_dir'] || 'albums'
 			self.data['image'] = @album_metadata['image'] || File.join(@base_album_path, "./blank_folder.png")
 
-			self.data['albums'] = @album_metadata['albums'] || []
+			self.data['albums'] =  []
 			self.data['description'] = @album_metadata['description'] || ""
 			self.data['hidden'] = true if @album_metadata['hidden']
 			files, directories = list_album_contents
@@ -117,10 +117,13 @@ puts albumpage.data
 				next_file = files[idx+1] || nil
 
 				album_page = "#{@dir}/#{album_name_from_page(page)}"
-				do_image(filename, prev_file, next_file, album_page)
+				do_file(site, filename, prev_file, next_file, album_page)
 			end
 
 @album_metadata = self.data
+@album_metadata['author'] = ''
+@album_metadata['website'] = ''
+@album_metadata['settings'] = ''
 tmp = write_album_metadata
  puts "Leaving AlbumPage:initialize()"
 
@@ -137,6 +140,7 @@ tmp = write_album_metadata
 				end
 			end
 			return DEFAULT_METADATA.merge(site_metadata).merge(local_config)
+puts DEFAULT_METADATA
  puts "Leaving get_album_metadata()"
 		end
 
@@ -180,36 +184,61 @@ puts directories
  puts "Leaving list_album_contents()"
 		end
 
-		def do_image(filename, prev_file, next_file, album_page)
-                        puts "Entering do_image()"
+		def do_file(site, filename, prev_file, next_file, album_page)
+                        puts "Entering do_file()"
+puts filename
+puts "loading file data....."
+			local_config = {}
+			['yml', 'yaml'].each do |ext|
+puts ext
+				config_file = "#{File.join(@dir,filename)}.yml"
+				if File.exists? config_file
+				#	local_config = YAML.load_file(config_file)
+				end
+			end
+puts local_config
+puts "finshed"
+			#return DEFAULT_METADATA.merge(site_metadata).merge(local_config)
 			# Get info for the album page and make the image's page.
 
-			rel_link = image_page_url(filename)
-			img_source = "#{File.join(@dir, filename)}"
+			rel_link = file_page_url(filename)
+			file_source = "#{File.join(@dir, filename)}"
 
-			image_data = {
-				'src' => img_source,
-				'rel_link' => rel_link
-			}
 
-			self.data['images'] << image_data
+                                self.data['author'] = local_config['author'] || "unknown"
+                                self.data['title'] = local_config['title'] || filename
+                                self.data['website'] = local_config['website'] || "unknown"
+self.data['settings'] = local_config['settings'] || {'still-image'=>'true','360'=>'false','deepzoom'=>'false','x3dom'=>'false'}
+
+filedata = {'title'=>self.data['title'],'author'=>self.data['author'],'website'=>self.data['website'],'settings'=>self.data['settings']}
+
+                               # self.data['files'] = @album_metadata['files'] || []
+puts self.data
+
+#self.data['albums'] = { 'title' => subalbum, 'url' => albumpage.url, 'image' => albumpage.data['image'], 'description' => albumpage.data['description'], 'hidden' => albumpage.data['hidden'] }
+#self.data['files'].push( filedata )
+
+
 
 			# Create image page
-			site.pages << ImagePage.new(@site, @base, @dir, @dir, img_source,
-				rel_link, image_page_url(prev_file), image_page_url(next_file), album_page)
-
-
- puts "Leaving do_image()"
+			site.pages << FilePage.new(@site, @base, @dir, @dir, file_source,
+				rel_link, file_page_url(prev_file), file_page_url(next_file), album_page)
+puts "writing file data....."
+File.open("#{File.join(@dir,filename)}.yml", "w") do |f|
+      f.write(filedata.to_yaml)
+    end
+puts "finshed"
+ puts "Leaving do_file()"
 		end
 
-		def image_page_url(filename)
-                        puts "Entering image_page_url()"
+		def file_page_url(filename)
+                        puts "Entering file_page_url()"
 puts "filename:"
 puts filename
 			return nil if filename == nil
 			ext = File.extname(filename)
 			return "#{File.basename(filename, ext)}_#{File.extname(filename)[1..-1]}.html"
- puts "Leaving image_page_url()"
+ puts "Leaving file_page_url()"
 		end
 	end
 

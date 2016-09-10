@@ -1,6 +1,6 @@
 
 
-bundle update
+#bundle update
 
 jekyll build --verbose --trace
 

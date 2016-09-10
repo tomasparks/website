@@ -2,33 +2,16 @@
 layout: default
 page_type: album
 title: art/TSP
-images: []
+files: []
 image: blank_folder.png
 albums:
-- name: third-party
-  url: "/art/TSP/third-party/"
-- title: third-party
-  url: "/art/TSP/third-party/"
-- title: third-party
-  url: "/art/TSP/third-party/"
-- title: third-party
-  url: "/art/TSP/third-party/"
-- title: third-party
-  url: "/art/TSP/third-party/"
-  image: blank_folder.png
 - title: third-party
   url: "/art/TSP/third-party/"
   image: blank_folder.png
   description: ''
   hidden: 
-- title: third-party
-  url: "/art/TSP/third-party/"
-  image: blank_folder.png
-  description: ''
-  hidden: 
-- title: third-party
-  url: "/art/TSP/third-party/"
-  image: blank_folder.png
-  description: ''
-  hidden: 
-description: ''
+description: TSP Art (art constructed by solving instances of the Traveling Salesman
+  Problem)
+author: ''
+website: ''
+settings: ''
