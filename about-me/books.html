@@ -7,7 +7,7 @@ title: books
 {% assign sortedebooks = site.data.ebooks | sort: 'title_sort' | sort: 'series_index' %}
 {% for ebooks in sortedebooks  %}
   <li>
-      {{ ebooks.title }} {{%if ebooks.series_index %}}({{ ebooks.series_index }} of {{ ebooks.series}}){% endif %} by {{ ebooks.authors }}
+      {{ ebooks.title }} {{%if ebooks.series_index %}}({{ ebooks.series_index }} of {{ ebooks.series}}){{% endif %}} by {{ ebooks.authors }}
   </li>
 {% endfor %}
 </ul>
