@@ -35,7 +35,7 @@ body {
 				padding: 20px;
 				display: block;
 					header { display: block; }
-                                        h1,h2,h3,h4,h5,h6 {padding: 0.5em;
+                                        h1,h2,h3,h4,h5,h6 {padding: 0.5em; text-align: center;
 						           margin: 0.5em;
                                                            color:green;
                                                            background: black;
@@ -59,7 +59,8 @@ body {
 						border-style: solid;
 						display:block;
 						}
-						 ol {
+						 ol {padding: 0.5em;
+						     margin: 0.5em; display:block;
 							li {
 								div {
 									width: 100%;
@@ -73,7 +74,8 @@ body {
 								}
 						
 							}
-					ul {
+					ul { padding: 0.5em;
+				             margin: 0.5em; display:block;
 						list-style-type: none;
 						li {
 							text-indent: -1em;
