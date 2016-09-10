@@ -14,7 +14,7 @@ module Jekyll
 puts "loading file data....."
 			local_config = {}
 			['yml', 'yaml'].each do |ext|
-				config_file = "#{File.join(@dir,img_source)}.yml"
+				config_file = "#{img_source}.yml"
 				if File.exists? config_file
 					local_config = YAML.load_file(config_file)
 				end
@@ -49,7 +49,7 @@ filedata = {'title'=>self.data['title'],'author'=>self.data['author'],'website'=
                                # self.data['files'] = @album_metadata['files'] || []
 puts self.data
 puts "writing file data....."
-File.open("#{File.join(@dir,img_source)}.yml", "w") do |f|
+File.open("#{img_source}.yml", "w") do |f|
       f.write(filedata.to_yaml)
     end
 puts "finshed"
