@@ -73,8 +73,8 @@ puts "Entering AlbumPage:initialize()"
 			self.process(@name)
 			self.read_yaml(File.join(@base, '_layouts'), 'album_index.html')
 
-		#	self.data['title'] = @album_metadata['title'] || @dir
- self.data['title'] = @dir
+	self.data['title'] = @album_metadata['title'] || @dir
+ #self.data['title'] = @dir
                       #  self.data['url'] = File.join(@dir, @name)
 			self.data['files'] = []
                         @base_album_path = site.config['album_dir'] || 'albums'
