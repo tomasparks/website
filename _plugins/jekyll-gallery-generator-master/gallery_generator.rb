@@ -35,9 +35,9 @@ puts "finshed"
 
       self.data = {
 			'title' => "#{File.basename(img_source)}",
-                                self.data['author'] = local_config['author'] || "unknown",
-                                self.data['website'] = local_config['website'] || "unknown",
-                                self.data['settings'] = local_config['settings'] || {'still-image'=>'true','360'=>'false','deepzoom'=>'false','x3dom'=>'false'},
+                                'author' => local_config['author'] || "unknown",
+                                'website' => local_config['website'] || "unknown",
+                                'settings' => local_config['settings'] || {'still-image'=>'true','360'=>'false','deepzoom'=>'false','x3dom'=>'false'},
 			'img_src' => img_source,
 			'prev_url' => prev_name,
 			'next_url' => next_name,
