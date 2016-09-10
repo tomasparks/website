@@ -6,17 +6,17 @@ files: []
 albums:
 - title: TSP
   url: "/art/TSP/"
-  image: 
+  image: art/art/TSP.png
   description: ''
   hidden: 
 - title: CSG
   url: "/art/CSG/"
-  image: 
+  image: art/art/CSG.png
   description: ''
   hidden: 
 - title: Minecraft
   url: "/art/Minecraft/"
-  image: 
+  image: art/art/Minecraft.png
   description: ''
   hidden: 
 description: ''
