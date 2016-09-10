@@ -19,16 +19,4 @@ tags: {{ ebooks.tags}}
 {% endfor %}
 </ul>
 <h3>Dead tree books</h3>
-<ul>
-{% assign sortedbooks = site.data.pbooks | sort: 'title_sort' | sort: 'series_index' %}
-{% for books in sortedbooks %}
-  <li>
-{{ books.title }} {% if books.series %}}( {{ books.series_index }} of {{ books.series}} ) {% endif %}
-Author: {{ books.authors }}
-ISBN: {{ books.isbn}}
-pubdate: {{ books.pubdate}}
-publisher: {{ books.publisher}}
-tags: {{ books.tags}} 
- </li>
-{% endfor %}
-</ul>
+Comming soon
