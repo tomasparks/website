@@ -49,7 +49,7 @@ filedata = {'title'=>self.data['title'],'author'=>self.data['author'],'website'=
                                # self.data['files'] = @album_metadata['files'] || []
 puts self.data
 puts "writing file data....."
-File.open("#{File.join(@dir,filename)}.yml", "w") do |f|
+File.open("#{File.join(@dir,img_source)}.yml", "w") do |f|
       f.write(filedata.to_yaml)
     end
 puts "finshed"
