@@ -3,6 +3,7 @@ layout: page
 page_type: album
 title: art/TSP
 files: []
+image: art/art/TSP.png
 albums:
 - title: third-party
   url: "/art/TSP/third-party/"

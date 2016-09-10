@@ -111,8 +111,8 @@ puts "Entering AlbumPage:initialize()"
 			self.data['files'] = []
                         @base_album_path = site.config['album_dir'] || 'albums'
 
-puts File.join(@base_album_path,"#{@dir}.png")
-				if File.exists? File.join(@base_album_path,"#{@dir}.png")
+puts "#{@dir}.png"
+				if File.exists? "#{@dir}.png"
 puts "found you"
 					self.data['image'] = File.join(@base_album_path,"#{@dir}.png")
 				end
