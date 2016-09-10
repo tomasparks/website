@@ -7,7 +7,7 @@ image: art/art/Minecraft.png
 albums:
 - title: third-party
   url: "/art/Minecraft/third-party/"
-  image: 
+  image: art/./blank_folder.png
   description: ''
   hidden: 
 description: ''
