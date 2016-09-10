@@ -110,12 +110,13 @@ puts "Entering AlbumPage:initialize()"
                       #  self.data['url'] = File.join(@dir, @name)
 			self.data['files'] = []
                         @base_album_path = site.config['album_dir'] || 'albums'
+
 puts File.join(@base_album_path,"#{@dir}.png")
 				if File.exists? File.join(@base_album_path,"#{@dir}.png")
 puts "found you"
 					self.data['image'] = File.join(@base_album_path,"#{@dir}.png")
 				end
-			self.data['image'] = self.data['image'] || File.join(@base_album_path, "./blank_folder.png")
+			#self.data['image'] = self.data['image'] || File.join(@base_album_path, "./blank_folder.png")
 
 			self.data['albums'] =  []
 			self.data['description'] = @album_metadata['description'] || ""

@@ -3,21 +3,20 @@ layout: page
 page_type: album
 title: art
 files: []
-image: art/./blank_folder.png
 albums:
 - title: TSP
   url: "/art/TSP/"
-  image: art/./blank_folder.png
+  image: 
   description: ''
   hidden: 
 - title: CSG
   url: "/art/CSG/"
-  image: art/./blank_folder.png
+  image: 
   description: ''
   hidden: 
 - title: Minecraft
   url: "/art/Minecraft/"
-  image: art/./blank_folder.png
+  image: 
   description: ''
   hidden: 
 description: ''
