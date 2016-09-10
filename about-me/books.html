@@ -4,7 +4,7 @@ title: books
 ---
 <h3>Ebooks</h3>
 <ol>
-{% assign sortedebooks = site.data.ebooks | sort: 'title_sort' | sort: 'series_index' %}
+{% assign sortedebooks = site.data.ebooks | sort: 'title_sort'%}
 {% for ebooks in sortedebooks  %}
 
 
