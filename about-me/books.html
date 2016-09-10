@@ -9,7 +9,7 @@ title: books
 
   <li>
 {{ ebooks.title }} 
-{%if ebooks.series_index }}
+{%if ebooks.ebooks.series }}
 ({{ ebooks.series_index }} of {{ ebooks.series}}) 
 {% endif %} by {{ ebooks.authors }}
   </li>
