@@ -193,10 +193,9 @@ puts filename
 puts "loading file data....."
 			local_config = {}
 			['yml', 'yaml'].each do |ext|
-puts ext
 				config_file = "#{File.join(@dir,filename)}.yml"
 				if File.exists? config_file
-				#	local_config = YAML.load_file(config_file)
+					local_config = YAML.load_file(config_file)
 				end
 			end
 puts local_config
