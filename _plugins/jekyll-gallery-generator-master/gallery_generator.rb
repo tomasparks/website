@@ -10,17 +10,49 @@ module Jekyll
 			@dir = dir
                         @dir = album_source
 			@name = name # Name of the generated page
+
+puts "loading file data....."
+			local_config = {}
+			['yml', 'yaml'].each do |ext|
+				config_file = "#{File.join(@dir,filename)}.yml"
+				if File.exists? config_file
+					local_config = YAML.load_file(config_file)
+				end
+			end
+puts local_config
+puts "finshed"
+
 			self.process(@name)
 			self.read_yaml(File.join(@base, '_layouts'), 'image_page.html')
+
+
+
+
+
+#self.data['albums'] = { 'title' => subalbum, 'url' => albumpage.url, 'image' => albumpage.data['image'], 'description' => albumpage.data['description'], 'hidden' => albumpage.data['hidden'] }
+#self.data['files'].push( filedata )
+
+
       self.data = {
 			'title' => "#{File.basename(img_source)}",
+                                self.data['author'] = local_config['author'] || "unknown"
+                                self.data['website'] = local_config['website'] || "unknown"
+                                self.data['settings'] = local_config['settings'] || {'still-image'=>'true','360'=>'false','deepzoom'=>'false','x3dom'=>'false'}
 			'img_src' => img_source,
 			'prev_url' => prev_name,
 			'next_url' => next_name,
 			'album_url' => album_page,
                        # 'url' => File.join('/', @dir, @dir, @name)
  }
+filedata = {'title'=>self.data['title'],'author'=>self.data['author'],'website'=>self.data['website'],'settings'=>self.data['settings']}
 
+                               # self.data['files'] = @album_metadata['files'] || []
+puts self.data
+puts "writing file data....."
+File.open("#{File.join(@dir,filename)}.yml", "w") do |f|
+      f.write(filedata.to_yaml)
+    end
+puts "finshed"
                         puts "Leaving ImagePage:initialize()"
 		end
 
@@ -190,16 +222,7 @@ puts directories
 		def do_file(site, filename, prev_file, next_file, album_page)
                         puts "Entering do_file()"
 puts filename
-puts "loading file data....."
-			local_config = {}
-			['yml', 'yaml'].each do |ext|
-				config_file = "#{File.join(@dir,filename)}.yml"
-				if File.exists? config_file
-					local_config = YAML.load_file(config_file)
-				end
-			end
-puts local_config
-puts "finshed"
+
 			#return DEFAULT_METADATA.merge(site_metadata).merge(local_config)
 			# Get info for the album page and make the image's page.
 
@@ -207,29 +230,12 @@ puts "finshed"
 			file_source = "#{File.join(@dir, filename)}"
 
 
-                                self.data['author'] = local_config['author'] || "unknown"
-                                self.data['title'] = local_config['title'] || filename
-                                self.data['website'] = local_config['website'] || "unknown"
-self.data['settings'] = local_config['settings'] || {'still-image'=>'true','360'=>'false','deepzoom'=>'false','x3dom'=>'false'}
-
-filedata = {'title'=>self.data['title'],'author'=>self.data['author'],'website'=>self.data['website'],'settings'=>self.data['settings']}
-
-                               # self.data['files'] = @album_metadata['files'] || []
-puts self.data
-
-#self.data['albums'] = { 'title' => subalbum, 'url' => albumpage.url, 'image' => albumpage.data['image'], 'description' => albumpage.data['description'], 'hidden' => albumpage.data['hidden'] }
-#self.data['files'].push( filedata )
-
 
 
 			# Create image page
 			site.pages << FilePage.new(@site, @base, @dir, @dir, file_source,
 				rel_link, file_page_url(prev_file), file_page_url(next_file), album_page)
-puts "writing file data....."
-File.open("#{File.join(@dir,filename)}.yml", "w") do |f|
-      f.write(filedata.to_yaml)
-    end
-puts "finshed"
+
  puts "Leaving do_file()"
 		end
 
