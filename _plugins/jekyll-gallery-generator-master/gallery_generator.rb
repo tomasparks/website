@@ -114,7 +114,7 @@ puts "Entering AlbumPage:initialize()"
 puts "#{@dir}.png"
 				if File.exists? "#{@dir}.png"
 puts "found you"
-					self.data['image'] = File.join(@base_album_path,"#{@dir}.png")
+					self.data['image'] = File.join("#{@dir}.png")
 				end
 			self.data['image'] = self.data['image'] || File.join(@base_album_path, "./blank_folder.png")
 

@@ -3,7 +3,7 @@ layout: page
 page_type: album
 title: art/Minecraft
 files: []
-image: art/art/Minecraft.png
+image: art/Minecraft.png
 albums:
 - title: third-party
   url: "/art/Minecraft/third-party/"

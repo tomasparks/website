@@ -7,17 +7,17 @@ image: art/./blank_folder.png
 albums:
 - title: TSP
   url: "/art/TSP/"
-  image: art/art/TSP.png
+  image: art/TSP.png
   description: ''
   hidden: 
 - title: CSG
   url: "/art/CSG/"
-  image: art/art/CSG.png
+  image: art/CSG.png
   description: ''
   hidden: 
 - title: Minecraft
   url: "/art/Minecraft/"
-  image: art/art/Minecraft.png
+  image: art/Minecraft.png
   description: ''
   hidden: 
 description: ''
