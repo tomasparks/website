@@ -3,22 +3,22 @@ layout: page
 title: books
 ---
 <h3>Ebooks</h3>
-<ul>
+
 {% assign sortedebooks = site.data.ebooks | sort: 'title_sort' | sort: 'series_index' %}
 {% for ebooks in sortedebooks  %}
 
-  <li>
-<pre>
-{{ ebooks.title }} {% if ebooks.series_index %}}( {{ ebooks.series_index }} of {{ ebooks.series}} ) {% endif %}
-Author: {{ ebooks.authors }}
-ISBN: {{ ebooks.isbn}}
-pubdate: {{ ebooks.pubdate | date_to_long_string}}
-publisher: {{ ebooks.publisher}}
-tags: {{ ebooks.tags}}
-</pre>
-  </li>
+
+
+{{ ebooks.title }} {% if ebooks.series %}} ({{ ebooks.series_index }} of {{ ebooks.series}} ) {% endif %}<br />
+Author: {{ ebooks.authors }}<br />
+ISBN: {{ ebooks.isbn}}<br />
+pubdate: {{ ebooks.pubdate | date_to_long_string}}<br />
+publisher: {{ ebooks.publisher}}<br />
+tags: {{ ebooks.tags}}<br />
+
+
 
 {% endfor %}
-</ul>
+
 <h3>Dead tree books</h3>
 Comming soon
