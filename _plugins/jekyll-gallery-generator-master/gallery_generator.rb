@@ -122,8 +122,12 @@ puts albumpage.data
 			end
 
 @album_metadata = self.data
+@album_metadata['title'] = @album_metadata['title'] || @dir
 @album_metadata['author'] = ''
 @album_metadata['website'] = ''
+@album_metadata['settings'] = ''
+@album_metadata['page_type'] = ''
+@album_metadata['layout'] = ''
 @album_metadata['settings'] = ''
 tmp = write_album_metadata
  puts "Leaving AlbumPage:initialize()"
