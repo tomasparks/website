@@ -32,7 +32,6 @@ body {
 				background: black;
 				font-family: 'IBM_MDA';
 				margin: auto;
-				padding: 20px;
 				display: block;
 					header { display: block; }
                                         h1,h2,h3,h4,h5,h6 {padding: 0.5em; text-align: center;
@@ -60,7 +59,7 @@ body {
 						display:block;
 						}
 						 ol {padding: 1.5em;
-						     margin: 1.5em; display:block;
+						     margin: 1.5em; display:block; list-style-position: inside;
 							li {
 								div {
 									width: 100%;
@@ -76,7 +75,7 @@ body {
 							}
 					ul { padding: 1.5em;
 				             margin: 1.5em; display:block;
-						list-style-type: none;
+						list-style-type: none; list-style-position: inside;
 						li {
 							text-indent: -1em;
 							}
