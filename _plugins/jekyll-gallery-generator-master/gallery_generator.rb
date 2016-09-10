@@ -122,7 +122,7 @@ puts albumpage.data
 			end
 
 @album_metadata = self.data
-@album_metadata['title'] = @album_metadata['title'] || @dir
+#@album_metadata['title'] = @album_metadata['title'] || @dir
 @album_metadata['author'] = ''
 @album_metadata['website'] = ''
 @album_metadata['settings'] = ''
