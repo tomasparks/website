@@ -1,17 +1,16 @@
 ---
 layout: default
 page_type: page
-title: Traveling Salesman Problem art
+title: art/TSP
 files: []
-image: blank_folder.png
+image: art/./blank_folder.png
 albums:
 - title: third-party
   url: "/art/TSP/third-party/"
-  image: blank_folder.png
+  image: art/./blank_folder.png
   description: ''
   hidden: 
-description: TSP Art (art constructed by solving instances of the Traveling Salesman
-  Problem)
+description: ''
 author: ''
 website: ''
 settings: ''

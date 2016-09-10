@@ -3,14 +3,9 @@ layout: default
 page_type: page
 title: art/CSG
 files: []
-image: "../CSG.png"
+image: art/./blank_folder.png
 albums: []
-description: Constructive solid geometry (CSG) (formerly called computational binary
-  solid geometry) is a technique used in solid modeling. Constructive solid geometry
-  allows a modeler to create a complex surface or object by using Boolean operators
-  to combine simpler objects.[1] Often CSG presents a model or surface that appears
-  visually complex, but is actually little more than cleverly combined or decombined
-  objects.
+description: ''
 author: ''
 website: ''
 settings: ''
