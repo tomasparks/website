@@ -14,7 +14,7 @@ module Jekyll
 puts "loading file data....."
 			local_config = {}
 			['yml', 'yaml'].each do |ext|
-				config_file = "#{File.join(@dir,filename)}.yml"
+				config_file = "#{File.join(@dir,img_source)}.yml"
 				if File.exists? config_file
 					local_config = YAML.load_file(config_file)
 				end
