@@ -1,6 +1,6 @@
 ---
 layout: page
-title:about me
+title: about me
 ---
 
 Hello, my name is Tom Sparks. I am a Alternative Technology Researcher.
