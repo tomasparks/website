@@ -1,6 +1,6 @@
 ---
-layout: default
-page_type: page
+layout: page
+page_type: album
 title: art/Minecraft
 files: []
 image: art/./blank_folder.png
