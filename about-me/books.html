@@ -1,10 +1,11 @@
 ---
 layout: page
-title:books
+title: books
 ---
 <h3>Ebooks</h3>
 <ul>
-{% for ebooks in site.data.ebooks %}
+{% assign sortedebooks = site.data.ebooks | sort: 'title_sort','series_index' %}
+{% for ebooks in sortedebooks  %}
   <li>
       {{ ebooks.title }} by {{ ebooks.authors }}
   </li>
