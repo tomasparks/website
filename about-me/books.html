@@ -9,7 +9,7 @@ title: books
 
 
 <li>
-{{ ebooks.title }} {% if ebooks.series<>"" %} ({{ ebooks.series_index }} of {{ ebooks.series}} ) {% endif %}<br />
+<a href="{{ ebooks.isbn}}">{{ ebooks.title }} {% if ebooks.series<>"" %} ({{ ebooks.series_index }} of {{ ebooks.series}} ) {% endif %}</a><br />
 Author: {{ ebooks.authors }}<br />
 ISBN: {{ ebooks.isbn}}<br />
 pubdate: {{ ebooks.pubdate | date_to_long_string}}<br />
