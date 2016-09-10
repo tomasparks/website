@@ -1,5 +1,6 @@
 ---
 layout: page
+title:about me
 ---
 
 Hello, my name is Tom Sparks. I am a Alternative Technology Researcher.
@@ -19,3 +20,6 @@ see [my computer art page]({{site.url}}/art/)
 
 ## Classic Computers ##
 see my [classic computer page]({{site.url}}/about-me/computers.html)
+
+## other ##
+see my [book list]({{site.url}}/about-me/books.html)
