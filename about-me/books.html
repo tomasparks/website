@@ -1,0 +1,21 @@
+---
+layout: page
+title:books
+---
+<h3>Ebooks</h3>
+<ul>
+{% for ebooks in site.data.ebooks %}
+  <li>
+
+      {{ ebooks.name }}
+  </li>
+{% endfor %}
+</ul>
+<h3>Dead tree books</h3>
+<ul>
+{% for books in site.data.books %}
+  <li>
+      {{ books.name }}
+  </li>
+{% endfor %}
+</ul>
