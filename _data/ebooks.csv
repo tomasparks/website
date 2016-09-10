@@ -1,0 +1,555 @@
+﻿author_sort,authors,comments,cover,formats,id,identifiers,isbn,languages,library_name,pubdate,publisher,rating,series,series_index,size,tags,timestamp,title,title_sort,uuid
+"Unknown","Unknown","","","","53","","","eng","Calibre Library","2014-04-03T22:06:20+10:00","","","","1.0","","","2016-01-09T22:32:18+10:00","9781782175858-THINKING IN JAVASCRIPT","9781782175858-THINKING IN JAVASCRIPT","3ceaa75f-e78e-4bf6-8abf-bdeac4f895ed"
+"Unknown","Unknown","","","","49","","","eng","Calibre Library","2015-04-14T22:24:48+10:00","","","","1.0","","","2016-01-09T22:32:23+10:00","9781782175872-THINKING IN HTML","9781782175872-THINKING IN HTML","2bb8afda-a896-442a-b920-1ee6b65b0205"
+"Curtis, Keith Cary","Keith Cary Curtis","Computers are an advancement whose importance is comparable to the invention of the wheel or movable type. While computers and the Internet have already changed many aspects of our lives, we still live in the dark ages of computing because proprietary software is still the dominant model. One might say that the richest alchemist who ever lived is my former boss, Bill Gates. (Oracle founder Larry Ellison, and Google co-founders Sergey Brin and Larry Page are close behind.) Human knowledge increasingly exists in digital form, so building new and better models requires the software to be improved. People can only share ideas when they also share the software to display and modify them. It is the expanded use of free software that will allow a greater ability for people to work together and increase the pace of progress. This book will demonstrate that a system where anyone can edit, share, and review the body of work will lead not just to something that works, but eventually to the best that the world can achieve! With better cooperation among our scientists, robot-driven cars is just one of the many inventions that will arrive -- pervasive robotics, artificial intelligence, and much faster progress in biology, all of which rely heavily on software. - Publisher.
+","/home/tom/Calibre Library/Keith Cary Curtis/After the Software Wars (17)/cover.jpg","epub","17","isbn:9780578011899,google:J7sB9-oQjvwC,amazon:0578011891","9780578011899","eng","Calibre Library","2009-02-19T23:00:00+10:00","Keith Curtis","3","","1.0","7832967","Business & Economics, General, Computers","2015-10-27T16:12:15+10:00","After the Software Wars","After the Software Wars","51e0739a-451f-4a48-a36b-19c6478f36e5"
+"Contributors, The","The Contributors","","/home/tom/Calibre Library/The Contributors/Airtime (92)/cover.jpg","epub","92","booki.cc:http://booki.flossmanuals.net/airtime/2012.04.23-18.47","","eng","Calibre Library","0101-01-01T10:00:00+10:00","FLOSS Manuals http://flossmanuals.net","","","1.0","6228237","","2015-10-27T16:12:28+10:00","Airtime","Airtime","10831055-8180-4c48-a371-46d73e36962f"
+"Unknown","Unknown","","/home/tom/Calibre Library/Unknown/anttonen salminen building 3d webgl applications (76)/cover.jpg","pdf","76","","","eng","Calibre Library","2011-09-29T18:46:24+10:00","","","","1.0","482365","","2015-12-22T05:35:43+10:00","anttonen salminen building 3d webgl applications","anttonen salminen building 3d webgl applications","238488cf-9ae6-494b-a04b-b3d3677582e3"
+"Contributors, The","The Contributors","","/home/tom/Calibre Library/The Contributors/ARDOUR (90)/cover.jpg","epub","90","booki.cc:http://booki.flossmanuals.net/ardour/2011.03.10-07.34","","eng","Calibre Library","2010-12-06T23:00:00+10:00","FLOSS Manuals http://flossmanuals.net","","","1.0","10102510","","2015-10-27T16:12:35+10:00","ARDOUR","ARDOUR","0fbe1be6-8b0b-422f-b2e1-1bddee22a81a"
+"Unknown","Unknown","","/home/tom/Calibre Library/Unknown/AROS (57)/cover.jpg","epub","57","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","PediaPress GmbH","","","1.0","1618862","","2015-10-27T16:12:32+10:00","AROS","AROS","09c1743e-de28-4966-a5d0-1b9efa170737"
+"Contributors, The","The Contributors","","/home/tom/Calibre Library/The Contributors/Audio Production (91)/cover.jpg","epub","91","booki.cc:http://booki.flossmanuals.net/audio-production/2011.03.10-07.45","","eng","Calibre Library","2010-12-20T23:00:00+10:00","FLOSS Manuals http://flossmanuals.net","","","1.0","737381","","2015-10-27T16:12:39+10:00","Audio Production","Audio Production","59799ca5-14f3-424e-abcd-d0d68f1371d9"
+"Unknown","Unknown","","/home/tom/Calibre Library/Unknown/Benkler Wealth Of Networks (60)/cover.jpg","epub","60","","","eng","Calibre Library","2006-01-27T20:31:26+10:00","","","","1.0","1111715","","2015-10-27T16:12:45+10:00","Benkler Wealth Of Networks","Benkler Wealth Of Networks","edaaed49-5b23-4e26-99f8-470e8304b6ef"
+"Unknown","Unknown","","/home/tom/Calibre Library/Unknown/A Bit History of Internet (52)/cover.jpg","epub","52","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","PediaPress GmbH","","","1.0","102329","","2015-10-27T16:12:48+10:00","A Bit History of Internet","Bit History of Internet, A","c44b55f4-2f40-45a9-b1ac-9dd85b681e92"
+"Unknown","Unknown","","/home/tom/Calibre Library/Unknown/Blender 3D (75)/cover.jpg","epub","75","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","PediaPress GmbH","","","1.0","51803052","","2015-10-27T16:13:44+10:00","Blender 3D","Blender 3D","3bf5fe50-c480-4adb-9070-eef08577371e"
+"Fisher, Gordon","Gordon Fisher","Learn 3D printing using the free open-source Blender software. This book gives you both an overview and practical instructions, enabling you to learn how to scale, build, color, and detail a model for a 3D printer.
+
+**Overview**
+
+  * Design beautiful, colourful, and practical objects in Blender to print or export 
+  * Master Blender's special 3D printing tools to maximize print quality and minimize cost 
+  * Consider requirements unique to 3D printing such as structural integrity and stability 
+
+**In Detail**
+
+Like computing, 3D printing has been around for decades but it was expensive and was only used for making complex prototypes. Now, prices have dropped and third-party printing services such as Shapeways have become available, making the technology available to everyone. 
+
+Blender is an open source modeling and animation program popular in the 3D printing community. 3D printing demands more of a modeler than animation or virtual reality. The model maker must engineer their model to work in the real world. They must keep in mind the particular needs of the materials and printers that they are planning to use to print their model. 
+
+This practical guide gives Blender users all the information they need to design high-quality 3D printed objects. With a solid exploration of the 3D modeling process, design considerations for 3D printing, plus step-by-step exercises, you will soon be comfortable making 3D objects for real-world enjoyment. 
+
+Starting with an overview of 3D printing, this guide moves onto to precision measurement, fixing problems in a 3D model, and how to make it light and strong enough for real-world use. 
+
+You will learn how to scale, build, and detail a model for a 3D printer. You will learn to color and decorate it, as well as making parts precisely in the size you want them, so that multi-part objects fit together smoothly. You will also learn tips on saving money when you have printed your model. 
+
+With the help of this guide, you will be able to complete your project and learn how to export the file so it is ready for a variety of 3D printers. 
+
+**What you will learn from this book**
+
+  * Understand how a 3D printer makes a 3D object 
+  * Get an introduction to different types of 3D printers 
+  * Explore the materials that can be used in a 3D printer 
+  * Get to grips with precision modeling techniques in Blender 
+  * Use Blender's Ruler/Protractor tool 
+  * Unwrap a texture to fit a model 
+  * Make a model watertight and manifold 
+  * Design an object hollow using the Solidify modifier 
+  * Export to STL and X3D files for printing
+
+**Approach**
+
+This book adopts a practical approach, with the use of step-by-step instructions to help guide readers. There are lots of screenshots covering each and every step needed to design a high-quality model in Blender for 3D printing. 
+
+**Who this book is written for**
+
+If you are a Blender user or someone who wants to use Blender to make 3D objects suitable for 3D printing, this book is ideal for you. You should already be comfortable with basic modeling in Blender - including using modifiers - although advanced skills are not required. All of the models that you will need are explored in-depth. This book does not assume that you will use any specific printer and teaches the general principles common to building models for most printers. It also gives you tips on discovering the requirements of the specific printer you will be using. 
+
+**
+","/home/tom/Calibre Library/Gordon Fisher/Blender 3D Printing Essentials (82)/cover.jpg","epub, pdf","82","isbn:9781783284597,amazon:1783284595","9781783284597","eng","Calibre Library","2013-11-20T14:00:00+10:00","Packt Publishing","4","","1.0","6268724","","2015-10-27T16:12:54+10:00","Blender 3D Printing Essentials","Blender 3D Printing Essentials","bcb1c331-a994-4692-ac94-367a80d9aa28"
+"Bacone, Victor Kuller","Victor Kuller Bacone","The non programmer's guide to creating 3D video games
+
+  * Use Blender to create a complete 3D video game
+  * Ideal entry level to game development without the need for coding
+  * No programming or scripting required
+
+**In Detail**
+
+Blender Game Engine is the part of the Blender 3D editor used to create actual 3D video games. It's the ideal entry level game development environment because you don't even need to learn to program. Create a complete game using Bender's innovative logic bricks.
+
+""Blender Game Engine: Beginner's Guide"" is the ideal introduction to game development. Using only logic bricks, the reader will create a complete game in Blender. By the end of the book the reader will be able to use their skills to create their own 3D games.
+
+**What will you learn from this book **
+
+  * How to control game characters
+  * Setting up a complete game level
+  * Creating spawn points for your player character
+  * Modify enemy behavior without needing to use scripts
+  * Set up collision detection and enemy AI
+  * Import freely available 3D game assets for use in your game
+  * How to master Blender's logic editor
+
+**Approach**
+
+Create a complete game step by step with no previous experience necessary. Practical tutorials take you through the entire process from beginning to end.
+
+**Who this book is written for**
+
+If you have used Blender before but never got to grips with the Blender Game Engine (BGE), this book is for you. If you have tried and failed with other game development environments, or if scripting is not your strong point, this is where you should start.
+
+**
+","/home/tom/Calibre Library/Victor Kuller Bacone/Blender Game Engine_ Beginner's Guide (87)/cover.jpg","epub, pdf","87","isbn:9781849517027,amazon:1849517029","9781849517027","eng","Calibre Library","2012-09-24T00:00:00+10:00","Packt Publishing","3","","1.0","10509357","","2015-12-25T05:15:41+10:00","Blender Game Engine: Beginner's Guide","Blender Game Engine: Beginner's Guide","54878f9c-ad0c-4e12-a1d7-cdf544e73516"
+"al, Trevor Parsons et","Trevor Parsons et al","","/home/tom/Calibre Library/Trevor Parsons et al/Booktype 1.6 for Authors and Publishers (28)/cover.jpg","epub","28","","","eng","Calibre Library","2013-02-17T23:00:00+10:00","Sourcefabric","","","1.0","3100305","","2015-10-27T16:12:58+10:00","Booktype 1.6 for Authors and Publishers","Booktype 1.6 for Authors and Publishers","a26c3ad1-286f-4906-afff-98e6b829788f"
+"Unknown","Unknown","","/home/tom/Calibre Library/Unknown/Bourne shell scripting (34)/cover.jpg","epub","34","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","PediaPress GmbH","","","1.0","100709","","2015-10-27T16:13:02+10:00","Bourne shell scripting","Bourne shell scripting","fe4b6777-ea04-49ac-86d2-1a264434c640"
+"Unknown","Unknown","","","epub, pdf","67","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","","","","1.0","629550","","2016-07-04T16:23:43+10:00","BourneShellScripting","BourneShellScripting","ba5835e7-789e-48a8-8c6b-c76cc1b2643a"
+"Unknown","Unknown","","","epub","48","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","","","","1.0","1089265","","2016-04-01T16:21:49+10:00","The Boy Who Could Change the World","Boy Who Could Change the World, The","cff4ea16-7c85-4baa-9a81-c172362e1b78"
+"Unknown","Unknown","","/home/tom/Calibre Library/Unknown/Building a Beowulf Cluster (64)/cover.jpg","epub","64","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","PediaPress GmbH","","","1.0","23183","","2015-10-27T16:13:10+10:00","Building a Beowulf Cluster","Building a Beowulf Cluster","dab6ee0c-a1f5-4c67-acdb-f7525833a54f"
+"v1.2","v1.2","","/home/tom/Calibre Library/v1.2/Campaign Guide (25)/cover.jpg","pdf","25","","","eng","Calibre Library","2005-03-02T09:35:24+10:00","VBAM games","","","1.0","4037862","","2015-12-22T04:48:31+10:00","Campaign Guide","Campaign Guide","203c9a11-1a2e-43ed-a72f-eff329a1a403"
+"Administrator","Administrator","","/home/tom/Calibre Library/Administrator/Campaign Moderator's Companion (20)/cover.jpg","doc, pdf","20","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","VBAM games","","","1.0","11492052","cc_3","2015-12-22T04:51:21+10:00","Campaign Moderator’s Companion","Campaign Moderator’s Companion","959c723d-5853-46b6-aa5c-4fde551be342"
+"Administrator","Administrator","","/home/tom/Calibre Library/Administrator/Campaign Moderator's Companion_ Sample Artifacts (21)/cover.jpg","pdf","21","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","VBAM games","","","1.0","221766","cc_3","2015-12-22T04:51:39+10:00","Campaign Moderator’s Companion: Sample Artifacts","Campaign Moderator’s Companion: Sample Artifacts","de7dc009-958b-4286-a380-f621bc6161ef"
+"Verens, Kae","Kae Verens","This is a practical, tutorial-style book that develops a project from start to finish, explaining all aspects of the project. Every chapter starts by explaining what is to be accomplished and the various ways in which the problem may be tackled, followed by an in-depth explanation of the chosen solution. If you want to see jQuery in action with PHP and MySQL code, in the context of a real application, this is the book for you. It is written for developers who have written multiple scripts or websites, and want to know how to combine them all into one package that can be used to simplify future scripts and sites. The book is aimed at people who understand the basics of PHP and jQuery, and want to know how they can be used effectively to create a large project that is user-friendly and flexible.
+
+**
+
+### Review
+
+""Overall this book is a great resource for amateur web programmers or for anyone that wants to crack down and learn how to make a CMS. Kae Verens and the publishers at Packt Publishing did an excellent job at putting CMS Design Using PHP and jQuery together.""- Cody Sparks --www.webhostdesignpost.com/website/cmsdesignusingphpandjqueryreview.html 
+
+""I recommend the book to those who want to make your own CMS. You will find many clever and cunning ways of coding and learn new things."" - Shinichi Okada --www.okadadesign.no/blog/books/book-review-cms-design-using-php-and-jquery/ 
+","/home/tom/Calibre Library/Kae Verens/CMS Design Using PHP and jQuery (4)/cover.jpg","epub, pdf","4","isbn:9781849512527,amazon:1849512523","9781849512527","eng","Calibre Library","2010-12-08T23:00:00+10:00","Packt Publishing","3","","1.0","9139733","","2015-10-27T16:13:30+10:00","CMS Design Using PHP and jQuery","CMS Design Using PHP and jQuery","80f96425-c223-4680-b0dd-9cda6b8d6690"
+"Ramakrishnan, N.; UNESCO Office New Delhi & Communication, Regional Bureau for & Asia, Information in & Pacific, the","Ramakrishnan, N.; UNESCO Office New Delhi & Regional Bureau for Communication & Information in Asia & the Pacific","","/home/tom/Calibre Library/Ramakrishnan, N.; UNESCO Office New Delhi/Community radio_ a user's guide to the technology; a guide to the technology and technical param (23)/cover.jpg","epub","23","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","","","","1.0","15804947","radio, programmes;, stations;, local, broadcasting;, communication, development;, India;, guides","2015-10-27T16:11:57+10:00","Community radio: a user's guide to the technology; a guide to the technology and technical parameters of community radio in India; 2007","Community radio: a user's guide to the technology; a guide to the technology and technical parameters of community radio in India; 2007","aa324c14-cfed-408d-939e-0c90d0237870"
+"Unknown","Unknown","","","epub, pdf","45","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","","","","1.0","2765361","","2016-07-04T16:23:46+10:00","Computer network technologies and services lecture notes","Computer network technologies and services lecture notes","65202402-60ce-49de-ad67-bce5a75bc914"
+"Tomayko, James","James Tomayko","","/home/tom/Calibre Library/James Tomayko/Computers in Spaceflight_ The NASA Experience (6)/cover.jpg","epub","6","amazon:B001T4YUI4","","eng","Calibre Library","1988-02-29T23:00:00+10:00","","3","","1.0","5265869","","2015-10-27T16:13:40+10:00","Computers in Spaceflight: The NASA Experience","Computers in Spaceflight: The NASA Experience","e0f03050-4719-4b79-befe-e594712467f7"
+"Unknown","Unknown","","/home/tom/Calibre Library/Unknown/COPIA-The-Carrot-Or-The-Stick (66)/cover.jpg","pdf","66","","","eng","Calibre Library","2015-10-08T01:03:20+10:00","","","","1.0","792979","","2015-10-28T22:28:20+10:00","COPIA-The-Carrot-Or-The-Stick","COPIA-The-Carrot-Or-The-Stick","a3914195-9756-4467-909d-ef0c71376bab"
+"Unknown","Unknown","","/home/tom/Calibre Library/Unknown/creating apps with mozilla (39)/cover.jpg","epub","39","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","","","","1.0","3883980","","2015-10-27T16:13:56+10:00","creating apps with mozilla","creating apps with mozilla","b70a7189-d4dc-4d14-85b7-38fda6c7b64e"
+"Dhillon, Vikram","Vikram Dhillon","Learn to create your own blog using the Jekyll static site generator. You’ll start with a simple template, add new features to it, automate any maintenance, attach social sharing, and begin writing. By the end of *Creating Blogs with Jekyll*, you will be able to create custom blogs with Jekyll, update the content with ease, and reach out to your readers with minimal effort. Because you've built your blog yourself, you'll know exactly how each component works, and you won’t be dependent on an admin panel to maintain it.
+
+*Creating Blogs with Jekyll *equips you with the knowledge to create an elegantly designed blog and scale it to capture more readers. Recapture the magic of writing by creating great content and use an easy workflow in Jekyll to maintain it for blogging. Do new things and write about them in style with Jekyll.
+
+  * Takes you through building a fully functional blog from scratch using Jekyll
+  * Provides a fun way to work on a side-project and integrate cutting edge web technologies
+  * Teaches you how to update and maintain your awesome blog 
+
+Jekyll is a simple, secure and very low maintenance blog engine that converts naturally written content in markdown into a beautiful and minimal blog. It allows you to focus on content creation and expressing yourself instead of spending all your time updating the plugins and maintaining the database. Jekyll does not rely on a database as a backend so your blog will be far more secure and reliable than any traditional blogging engines such as WordPress. 
+
+We live in a day and age where short attention spans make it very difficult to expose a reader to interesting content. What better way to capture a reader's attention and retain viewers by captivating them by your own unique style and taste? Jekyll allows the content to shine with minimal distractions and a greater focus on the content and easy sharing of the content.
+
+**What You'll Learn**
+
+Choose a base theme appropriate for your style and development * Integrate various web technologies that will work well together and enhance your blog * Automate social sharing components and comments workflow * Make adjustments to themes, views and styles of blog posts * Update any of the modular components of the blog and integrate new technologies * Implementing Jekyll and deploying static websites for future projects
+
+**Who This Book Is For**
+
+*Creating Blogs with Jekyll* is for the developer who is ready to move beyond the complexities of maintaining a content management system by creating their own unique blog in their own style. It’s for the project manager tired of spending all their time editing their blog on the admin panel and updating the content management system. *Creating Blogs with Jekyll* is an excellent choice for new developers to start blogging because of the simplicity of Jekyll’s theming layer and writing workflow. It’s an excellent choice for the web developer wanting to build their blog from scratch and expand their knowledge of higher level web technologies. 
+
+**
+
+### From the Back Cover
+
+Learn to create your own blog using the Jekyll static site generator. You’ll start with a simple template, add new features to it, automate any maintenance, attach social sharing, and begin writing. By the end of *Creating Blogs with Jekyll*, you will be able to create custom blogs with Jekyll, update the content with ease, and reach out to your readers with minimal effort. Because you've built your blog yourself, you'll know exactly how each component works, and you won’t be dependent on an admin panel to maintain it.
+
+*Creating Blogs with Jekyll *equips you with the knowledge to create an elegantly designed blog and scale it to capture more readers. Recapture the magic of writing by creating great content and use an easy workflow in Jekyll to maintain it for blogging. Do new things and write about them in style with Jekyll.
+
+  * Takes you through building a fully functional blog from scratch using Jekyll
+  * Provides a fun way to work on a side-project and integrate cutting edge web technologies
+  * Teaches you how to update and maintain your awesome blog
+
+Jekyll is a simple, secure and very low maintenance blog engine that converts naturally written content in markdown into a beautiful and minimal blog. It allows you to focus on content creation and expressing yourself instead of spending all your time updating the plugins and maintaining the database. Jekyll does not rely on a database as a backend so your blog will be far more secure and reliable than any traditional blogging engines such as WordPress.
+
+### About the Author
+
+**Vikram Dhillon** is currently a research fellow in the Institute of Simulation and Training, at University of Central Florida. He holds a Bachelor of Science degree in Molecular Biology from the University of Central Florida, where his main focus was bioinformatics. He has published a few scientific papers on computational genomics. He has worked as a software and business development coach at the Blackstone Launchpad to mentor young entrepreneurs and startups through the process of building technology products. He was previously funded by the National Science Foundation through the Innovation Corps program to study customer discovery and apply it to commercialize high-risk startup ideas. He is a member of the Linux Foundation and stays very involved in open source projects and initiatives for the past several years. He often speaks at local conferences and meetups about programming, design, security and entrepreneurship. He currently lives in Orlando and writes a technology focused blog at opsbug.com.
+","/home/tom/Calibre Library/Vikram Dhillon/Creating Blogs With Jekyll (7)/cover.jpg","epub, mobi, pdf","7","isbn:9781484214657,goodreads:28152384,kobo:creating-blogs-with-jekyll,amazon:148421465X","9781484214657","eng","Calibre Library","2016-06-01T00:00:00+10:00","Apress","4","","1.0","18780676","Nonfiction, Computers, Advanced Computing, Computer Science, General Computing","2016-08-17T21:01:51+10:00","Creating Blogs With Jekyll","Creating Blogs With Jekyll","71b46368-066e-4c34-a724-c26d1e89ace9"
+"Maher, Jimmy","Jimmy Maher","This is volume 1 of a series of ebooks collecting the articles from Jimmy Maher's Digital Antiquarian blog, an ongoing history of interactive entertainment. This volume covers the historical years 1966-1979. Please note that some multimedia elements -- pictures, screenshots, movies, audio -- may display imperfectly or not at all on many e-readers.This version does not include comments made by readers of the original articles. Another version is available that does.","/home/tom/Calibre Library/Jimmy Maher/The Digital Antiquarian, Volume 1_ 1966-1979 (13)/cover.jpg","epub","13","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","","","","1.0","1568354","","2016-01-18T08:38:41+10:00","The Digital Antiquarian, Volume 1: 1966-1979","Digital Antiquarian, Volume 1: 1966-1979, The","23022b0c-6c9e-482a-9760-9b8f04e4e72e"
+"Maher, Jimmy","Jimmy Maher","This is volume 2 of a series of ebooks collecting the articles from Jimmy Maher's Digital Antiquarian blog, an ongoing history of interactive entertainment. This volume covers the historical year 1980. Please note that some multimedia elements -- pictures, screenshots, movies, audio -- may display imperfectly or not at all on many e-readers.This version does not include comments made by readers of the original articles. Another version is available that does.","/home/tom/Calibre Library/Jimmy Maher/The Digital Antiquarian, Volume 2_ 1980 (9)/cover.jpg","epub","9","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","","","","1.0","1377801","","2016-01-18T08:38:53+10:00","The Digital Antiquarian, Volume 2: 1980","Digital Antiquarian, Volume 2: 1980, The","5bfd8834-6f46-462b-b7a4-55535e8b8981"
+"Maher, Jimmy","Jimmy Maher","This is volume 3 of a series of ebooks collecting the articles from Jimmy Maher's Digital Antiquarian blog, an ongoing history of interactive entertainment. This volume covers the historical year 1981. Please note that some multimedia elements -- pictures, screenshots, movies, audio -- may display imperfectly or not at all on many e-readers.This version does not include comments made by readers of the original articles. Another version is available that does.","/home/tom/Calibre Library/Jimmy Maher/The Digital Antiquarian, Volume 3_ 1981 (11)/cover.jpg","epub","11","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","","","","1.0","1376478","","2016-01-18T08:39:08+10:00","The Digital Antiquarian, Volume 3: 1981","Digital Antiquarian, Volume 3: 1981, The","43441c9b-508c-4a63-a7b8-c374ac9d044c"
+"Maher, Jimmy","Jimmy Maher","This is volume 4 of a series of ebooks collecting the articles from Jimmy Maher's Digital Antiquarian blog, an ongoing history of interactive entertainment. This volume covers the historical year 1982. Please note that some multimedia elements -- pictures, screenshots, movies, audio -- may display imperfectly or not at all on many e-readers.This version does not include comments made by readers of the original articles. Another version is available that does.","/home/tom/Calibre Library/Jimmy Maher/The Digital Antiquarian, Volume 4_ 1982 (14)/cover.jpg","epub","14","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","","","","1.0","2380705","","2016-01-18T08:39:03+10:00","The Digital Antiquarian, Volume 4: 1982","Digital Antiquarian, Volume 4: 1982, The","002de0b3-d6e1-4029-ac61-43e270bcc9f8"
+"Maher, Jimmy","Jimmy Maher","This is volume 5 of a series of ebooks collecting the articles from Jimmy Maher's Digital Antiquarian blog, an ongoing history of interactive entertainment. This volume covers the historical year 1983. Please note that some multimedia elements -- pictures, screenshots, movies, audio -- may display imperfectly or not at all on many e-readers.This version does not include comments made by readers of the original articles. Another version is available that does.","/home/tom/Calibre Library/Jimmy Maher/The Digital Antiquarian, Volume 5_ 1983 (8)/cover.jpg","epub","8","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","","","","1.0","2959085","","2016-01-18T08:38:56+10:00","The Digital Antiquarian, Volume 5: 1983","Digital Antiquarian, Volume 5: 1983, The","4be125bf-0194-434b-bb9a-252f0b21b00a"
+"Maher, Jimmy","Jimmy Maher","This is volume 6 of a series of ebooks collecting the articles from Jimmy Maher's Digital Antiquarian blog, an ongoing history of interactive entertainment. This volume covers the historical year 1984. Please note that some multimedia elements -- pictures, screenshots, movies, audio -- may display imperfectly or not at all on many e-readers.This version does not include comments made by readers of the original articles. Another version is available that does.","/home/tom/Calibre Library/Jimmy Maher/The Digital Antiquarian, Volume 6_ 1984 (16)/cover.jpg","epub","16","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","","","","1.0","2673920","","2016-01-18T08:39:00+10:00","The Digital Antiquarian, Volume 6: 1984","Digital Antiquarian, Volume 6: 1984, The","8b5f16e1-c8bd-4c4f-8095-f6f76c620e9c"
+"Maher, Jimmy","Jimmy Maher","This is volume 7 of a series of ebooks collecting the articles from Jimmy Maher's Digital Antiquarian blog, an ongoing history of interactive entertainment. This volume covers the historical year 1985. Please note that some multimedia elements -- pictures, screenshots, movies, audio -- may display imperfectly or not at all on many e-readers.This version does not include comments made by readers of the original articles. Another version is available that does.","/home/tom/Calibre Library/Jimmy Maher/The Digital Antiquarian, Volume 7_ 1985 (15)/cover.jpg","epub","15","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","","","","1.0","3572025","","2016-01-18T08:38:49+10:00","The Digital Antiquarian, Volume 7: 1985","Digital Antiquarian, Volume 7: 1985, The","e6b4a0ef-a9f0-4497-979e-56085833f3a0"
+"Maher, Jimmy","Jimmy Maher","This is volume 8 of a series of ebooks collecting the articles from Jimmy Maher's Digital Antiquarian blog, an ongoing history of interactive entertainment. This volume covers the historical year 1986. Please note that some multimedia elements -- pictures, screenshots, movies, audio -- may display imperfectly or not at all on many e-readers.This version does not include comments made by readers of the original articles. Another version is available that does.","/home/tom/Calibre Library/Jimmy Maher/The Digital Antiquarian, Volume 8_ 1986 (12)/cover.jpg","epub","12","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","","","","1.0","7639042","","2016-01-18T08:38:46+10:00","The Digital Antiquarian, Volume 8: 1986","Digital Antiquarian, Volume 8: 1986, The","42919e42-a073-436b-9933-bdb157585da0"
+"Maher, Jimmy","Jimmy Maher","","/home/tom/Calibre Library/Jimmy Maher/The Digital Antiquarian, Volume 9_ 1987 (10)/cover.jpg","epub","10","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","","","","1.0","7359360","","2016-02-01T21:18:14+10:00","The Digital Antiquarian, Volume 9: 1987","Digital Antiquarian, Volume 9: 1987, The","91b7a15d-293c-4ce8-9858-ebea4ffb297d"
+"Keathley, Elizabeth","Elizabeth Keathley","***Digital Asset Management: Content Architectures, Project Management, and Creating Order out of Media Chaos*** is for those who are planning a digital asset management system or interested in becoming digital asset managers. This book explains both the purpose of digital asset management systems and why an organization might need one. The text then walks readers step-by-step through the concerns involved in selecting, staffing, and maintaining a DAM. This book is dedicated to providing you with a solid base in the common concerns, both legal and technical, in launching a complex DAM capable of providing visual search results and workflow options. 
+
+Containing sample job models, case studies, return on investment models, and quotes from many top digital asset managers, this book provides a detailed resource for the vocabulary and procedures associated with digital asset management. It can even serve as a field guide for system and implementation requirements you may need to consider. 
+
+This book is not dedicated to the purchase or launch of a DAM; instead it is filled with the information you need in order to examine digital asset management and the challenges presented by the management of visual assets, user rights, and branded materials.  It will guide you through justifying the cost for deploying a DAM and how to plan for growth of the system in the future. This book provides the most useful information to those who find themselves in the bewildering position of formulating access control lists, auditing metadata, and consolidating information silos into a very new sort of workplace management tool – the DAM. 
+
+The author, Elizabeth Ferguson Keathley, is a board member of the DAM Foundation and has chaired both the Human Resources and Education committees. Currently Elizabeth is working with the University of British Columbia and the DAM Foundation to establish the first official certificate program for Digital Asset Managers. She has written, taught, and been actively a part of conferences related to the arrangement, description, preservation and access of information for over ten years. Her ongoing exploration of digital asset management and its relationship to user needs can be followed at her homepage for Atlanta Metadata Authority : atlantametadata.com. 
+
+### What you’ll learn
+
+  * The difference between DAMs, CMSs, and WCMs 
+
+  * How to identify the need for a DAM, and how to conduct a needs assessment
+
+  * Why there is no single best DAM solution for every need
+  * How to discuss servers, hosting, and storage with your vendors and IT staff
+  * How to hire staff or create positions for digital asset managers
+  * How to survey and appraise collections and systems for DAM integration
+  * How a search engine within a DAM actually works
+  * How to establish reportable metrics for you DAM, including ROI figures
+  * How to migrate collections for digital preservation and protection
+  * Why rights management and brand management are two sides of the same DAM coin
+  * Why DAM workflows will change the modern workplace for the better
+
+### Who this book is for
+
+  * Anyone who creates, uses, or searches for visual information in digital form
+  * Librarians and Archivists interested in the future of digital preservation and access
+  * Information Science Students and Professionals
+  * CIOs and CEOs of companies with a large volume of visual assets
+  * IT staff who need to understand what digital asset managers do all day
+  * Graphic Designers, Photographers, and other creative people involved with image generation and storage
+
+### About the Author
+
+Elizabeth Ferguson Keathley is a board member of the DAM Foundation and has chaired both the Human Resources and Education committees. Currently Elizabeth is working with the DAM Foundation to establish the first official certificate program for digital asset managers. One of the original UPS DAM team members for seven years, Elizabeth worked with her team to win the 2010 DAMMY award for best preservation, storage, or archives solution. Previous to her work at UPS, Elizabeth worked as a Preservation Field Services officer for the Southeastern Library Network, helping libraries, archives, and other cultural institutions meet preservation and access challenges by writing and teaching. She has written, taught, and been generally loud at conferences related to the arrangement, description, preservation and access of information for eleven years. Elizabeth has a MS in Archives Management from Simmons College, Boston, and has published in such periodicals as Journal of Digital Media Management. Her ongoing exploration of digital asset management and its relationship to user needs can be followed at her homepage for Atlanta Metadata Authority : atlantametadata.com, where she provides services related to the staffing, training, metadata modeling, and asset migrations for corporations acclimating to the labor intensive and detail-oriented nature of digital asset management. 
+","/home/tom/Calibre Library/Elizabeth Keathley/Digital Asset Management_ Content Architectures, Project Management, and Creating Order Out of M (84)/cover.jpg","epub","84","isbn:9781430263760,google:YBI-ngEACAAJ,amazon:1430263768","9781430263760","eng","Calibre Library","2014-03-17T14:00:00+10:00","Apress","4","","1.0","4009372","Computers, Data Processing, Document Management, Digital Media, General","2015-10-27T16:13:51+10:00","Digital Asset Management: Content Architectures, Project Management, and Creating Order Out of Media Chaos","Digital Asset Management: Content Architectures, Project Management, and Creating Order Out of Media Chaos","0589e63c-0ccb-4aaa-a5d1-6674a14798d0"
+"Unknown","Unknown","","","epub, pdf","71","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","","","","1.0","1164341","","2016-07-04T16:23:51+10:00","eprimer-nets","eprimer-nets","36df5df7-a4e6-475d-be19-dd803495d7e9"
+"Unknown","Unknown","","/home/tom/Calibre Library/Unknown/Fantasy Seeds (69)/cover.jpg","pdf","69","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","","","","1.0","226346","","2015-12-03T02:32:11+10:00","Fantasy Seeds","Fantasy Seeds","afff6e89-c4f0-453b-b329-91955cb9c500"
+"Unknown","Unknown","","/home/tom/Calibre Library/Unknown/Fantasy Seeds Print (59)/cover.jpg","pdf","59","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","","","","1.0","190427","","2015-12-03T02:32:05+10:00","Fantasy Seeds Print","Fantasy Seeds Print","ffa05065-db46-468a-9eab-3b636efc8e83"
+"Reid, Corey","Corey Reid","","/home/tom/Calibre Library/Corey Reid/fire and brimstone (5)/cover.jpg","pdf","5","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","","","","1.0","4358468","","2015-12-03T01:52:31+10:00","fire and brimstone","fire and brimstone","d278f6aa-c20a-4543-918f-63463925e5c5"
+"Unknown","Unknown","","/home/tom/Calibre Library/Unknown/FOSS Network Infrastructure and Security (65)/cover.jpg","epub","65","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","PediaPress GmbH","","","1.0","227903","","2015-10-27T16:14:04+10:00","FOSS Network Infrastructure and Security","FOSS Network Infrastructure and Security","4a832724-cfa6-4cd8-a348-3a3c34cbf77a"
+"Sukin, Isaac","Isaac Sukin","## In Detail
+
+The advent of WebGL and its inclusion in many browsers enabled JavaScript programs running in a web browser to access the GPU without a plugin or extension. Three.js is a next generation high-level library that makes it possible to author complex 3D computer animations that display in the browser using nothing more than a simple text editor. The development of these new tools has opened up the world of real-time 3D computer animations to a far broader spectrum of developers.
+
+Starting with how to build 3D games on the web using the Three.js graphics library, you will learn how to build 3D worlds with meshes, lighting, user interaction, physics, and more. Along the way, you’ll learn how to build great online games through fun examples. Use this book as a guide to embrace the next generation of game development!
+
+Moving on from the basics, you will learn how to use Three.js to build game worlds using its core components, including renderers, geometries, materials, lighting, cameras, and scenes. Following on from this, you will learn how to work with mouse and keyboard interactions, incorporate game physics, and import custom models and animations. You will also learn how to include effects like particles, sounds, and post-processing. You will start by building a 3D world, and then create a first person shooter game using it. You will then be shown how to imbue this FPS game with a “capture the flag” gameplay objective. With Game Development with Three.js, you will be able to build 3D games on the Web using the Three.js graphics library.
+
+## Approach
+
+A step-by-step, example-based guide to building immersive 3D games on the Web using the Three.js graphics library.
+
+## Who this book is for
+
+This book is for people interested in programming 3D games for the Web. Readers are expected to have basic knowledge of JavaScript syntax and a basic understanding of HTML and CSS. This book will be useful regardless of prior experience with game programming, whether you intend to build casual side projects or large-scale professional titles.
+
+**
+","/home/tom/Calibre Library/Isaac Sukin/Game Development With Three.js (81)/cover.jpg","epub, pdf, zip","81","amazon:B00G58JD4K","","eng","Calibre Library","2013-10-24T00:00:00+10:00","Packt Publishing","4","","1.0","2325325","Computers & Technology, Programming, Game Programming, Programming Languages, Web Development & Design, JavaScript, Reference, Games","2015-11-29T12:47:23+10:00","Game Development With Three.js","Game Development With Three.js","5787d37f-2426-464b-9cbf-f47a9b2376b7"
+"Unknown","Unknown","","","pdf","31","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","","","","1.0","418858","","2016-07-22T01:27:13+10:00","Getting Started Making Video Games [eBook]","Getting Started Making Video Games [eBook]","8b1a7825-38b9-44e8-bee1-6ccdaea96d50"
+"Unknown","Unknown","","/home/tom/Calibre Library/Unknown/GURPS Combat File (78)/cover.jpg","pdf","78","","","eng","Calibre Library","2006-01-10T06:30:53+10:00","","","","1.0","251875","","2015-12-03T01:53:06+10:00","GURPS Combat File","GURPS Combat File","20301ebb-32f0-447c-813a-27a52b8fe65a"
+"Unknown","Unknown","","/home/tom/Calibre Library/Unknown/GURPS Skill Categories (32)/cover.jpg","pdf","32","","","eng","Calibre Library","2005-06-25T08:42:08+10:00","","","","1.0","226449","","2015-12-03T01:52:52+10:00","GURPS Skill Categories","GURPS Skill Categories","1f42a896-dba1-4d89-bc2b-03877420e216"
+"Unknown","Unknown","","/home/tom/Calibre Library/Unknown/GURPS Space Planetary Record (79)/cover.jpg","pdf","79","","","eng","Calibre Library","2006-05-13T03:20:40+10:00","","","","1.0","595897","","2015-12-03T01:52:49+10:00","GURPS Space Planetary Record","GURPS Space Planetary Record","d301c25f-649f-4f94-865b-235c422e770e"
+"Sterling, Bruce Sterlingbruce","Bruce Sterlingbruce Sterling","A journalist investigates the past, present, and future of computer crimes, as he attends a hacker convention, documents the extent of the computer crimes, and presents intriguing facts about hackers and their misdoings.
+","/home/tom/Calibre Library/Bruce Sterlingbruce Sterling/The Hacker Crackdown_ Law and Disorder on the Electronic Frontier (1)/cover.jpg","epub","1","isbn:9780553563702,goodreads:61182,barnesnoble:w/hacker-crackdown-bruce-sterling/1102709656","9780553563702","eng","Calibre Library","1992-11-01T00:00:00+10:00","Bantam","4","","1.0","387152","History","2016-08-16T15:38:07+10:00","The Hacker Crackdown: Law and Disorder on the Electronic Frontier","Hacker Crackdown: Law and Disorder on the Electronic Frontier, The","4fc5a84d-62d2-4b8b-97c1-56ad40f0ecab"
+"Lisa","Lisa","","/home/tom/Calibre Library/Lisa/hero_and_outlaw_e.indd (95)/cover.jpg","pdf","95","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","","","","1.0","168473","","2015-12-22T04:43:33+10:00","hero_and_outlaw_e.indd","hero_and_outlaw_e.indd","dd3f5ca6-407c-4f58-ba62-42b0bcf1916b"
+"Unknown","Unknown","","/home/tom/Calibre Library/Unknown/How To Assemble A Desktop PC (44)/cover.jpg","epub","44","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","PediaPress GmbH","","","1.0","1428645","","2015-10-27T16:14:28+10:00","How To Assemble A Desktop PC","How To Assemble A Desktop PC","6202c319-5eb8-4960-9daa-f31bb3605023"
+"Kosev, Gorgi & Mitreski, Mite","Gorgi Kosev & Mite Mitreski","Take the fast track to the rapidly growing world of HTML5 data and services with this brilliantly practical cookbook. Whether building websites or web applications, this is the handbook you need to master HTML5.
+
+**Overview**
+
+  * Learn to effectively display lists and tables, draw charts, animate elements and use modern techniques such as templates and data-binding frameworks through simple and short examples.
+  * Examples utilizing modern HTML5 features such as rich text editing, file manipulation, graphics drawing capabilities, real time communication.
+  * Explore the full power of HTML5 - from number rounding to advanced graphics to real-time data binding - we have it covered.
+
+**In Detail**
+
+HTML5 is everywhere. From PCs to tablets to smartphones and even TVs, the web is the most ubiquitous application platform and information medium bar. Its becoming a first class citizen in established operating systems such as Microsoft Windows 8 as well as the primary platform of new operating systems such as Google Chrome OS.
+
+""HTML5 Data and Services Cookbook"" contains over 100 recipes explaining how to utilize modern features and techniques when building websites or web applications. This book will help you to explore the full power of HTML5 - from number rounding to advanced graphics to real-time data binding.
+
+""HTML5 Data and Services Cookbook"" starts with the display of text and related data. Then you will be guided through graphs and animated visualizations followed by input and input controls.
+
+Data serialization, validation and communication with the server as well as modern frameworks with advanced features like automatic data binding and server communication will also be covered in detail.This book covers a fast track into new libraries and features that are part of HTML5!
+
+**What you will learn from this book**
+
+  * Making charts using flot or HTML5 canvas.
+  * Creating awesome visualizations with D3.js
+  * Common helpers when working with input
+  * Making animated and interactive visualizations
+  * Using the HTML5 input helpers
+  * Creating custom input components
+  * Client-side templating to simplify HTML generation
+  * Manipulating and storing data on the client side
+
+**Approach**
+
+A practical approach with hands on recipes to learn more about HTML5 Data and Services, its features and techniques when building websites or web applications.
+
+**Who this book is written for**
+
+This book is for programmers and developers who work with a lot of backend code and want to get fast tracked into the world of HTML5 and Javascript. It is also for JavaScript developers who would like to update their knowledge with new techniques and capabilities made possible with HTML5.Some experience in HTML and jQuery is assumed.
+
+**
+","/home/tom/Calibre Library/Gorgi Kosev/HTML5 Data and Services Cookbook (89)/cover.jpg","epub, pdf, zip","89","isbn:9781783559282,amazon:1783559284","9781783559282","eng","Calibre Library","2013-09-03T00:00:00+10:00","Packt Publishing","4","","1.0","30640455","","2015-12-25T05:16:00+10:00","HTML5 Data and Services Cookbook","HTML5 Data and Services Cookbook","b3269ec8-15b4-4733-8fc9-b88e38d450cf"
+"Cruse, Dale","Dale Cruse","Written in a cookbook style, this book offers solutions using a recipe based approach. Each recipe contains step-by-step instructions followed by an analysis of what was done in each task and other useful information. Web developers who value the need to stay ahead of the game. This cookbook will give you the edge with practical recipes for wielding this new technology immediately.
+
+**
+
+### About the Author
+
+**Dale Cruse**
+
+Since 1995, Boston-area web developer Dale Cruse has been publishing websites for high-profile clients ranging from the U.S. Army to Bloomingdale's. He has been a guest lecturer at the Art Institute of New England & is currently pursuing speaking opportunities. He is also the author of the Champagne blog Drinks Are On Me.
+
+**Lee Jordan**
+
+Lee Jordan is a web developer with a large collection of web technology acronyms on her resume that sound like the names of laundry detergents and cause glazed expressions in school children. She designs and maintains internal and external enterprise-level websites and web-based applications as part of a project team for a privately held technical services company. Her work includes proposing, writing, and editing web content and user guides people actually read. She began her career in 1997 as a web designer after graduating from Florida State University with a Bachelor of Fine Arts, where she swears that she missed at least one home football game while in the computer lab. Lee later convinced Seminole Community College to give her a Web Programming degree in 2003, even though her final project was a Java-based application that actually contained a usable help file. Web development topics or whatever she can think of at the time are posted on her blog.
+","/home/tom/Calibre Library/Dale Cruse/HTML5 Multimedia Development Cookbook (3)/cover.jpg","epub","3","isbn:9781849691048,amazon:1849691045","9781849691048","eng","Calibre Library","2011-05-19T00:00:00+10:00","Packt Publishing","4","","1.0","10297676","","2015-10-27T16:14:37+10:00","HTML5 Multimedia Development Cookbook","HTML5 Multimedia Development Cookbook","7dd68727-c838-4f0b-be56-fc651bf45da6"
+"Unknown","Unknown","","/home/tom/Calibre Library/Unknown/HTML5 Web Application Development By Example Beginner's guide (35)/cover.jpg","epub","35","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","Packt Publishing","","","1.0","4015201","","2015-12-25T05:15:07+10:00","HTML5 Web Application Development By Example Beginner's guide","HTML5 Web Application Development By Example Beginner's guide","6e8bb7e5-5891-40ba-89b9-822cc2ba75cb"
+"Contributors, The","The Contributors","","/home/tom/Calibre Library/The Contributors/ICECAST (93)/cover.jpg","epub","93","booki.cc:http://booki.flossmanuals.net/icecast/2011.06.22-02.50","","eng","Calibre Library","2010-11-28T23:00:00+10:00","FLOSS Manuals http://flossmanuals.net","","","1.0","914020","","2015-10-27T16:14:40+10:00","ICECAST","ICECAST","0461ddb4-1c45-4959-be79-fa90852fdec8"
+"Unknown","Unknown","","/home/tom/Calibre Library/Unknown/Impulse-based Dynamic Simulation of Rigid Body Systems (61)/cover.jpg","pdf","61","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","","","","1.0","5880148","","2015-12-03T01:52:27+10:00","Impulse-based Dynamic Simulation of Rigid Body Systems","Impulse-based Dynamic Simulation of Rigid Body Systems","ff4e9c42-5b1e-42a3-96b0-d1c7726a65a2"
+"Unknown","Unknown","","","epub, zip","56","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","","","","1.0","191957","","2016-07-04T12:54:09+10:00","Jekyll","Jekyll","bbee5a8c-0924-4121-894f-ad087e13573d"
+"Wellman, Dan","Dan Wellman","Ten practical projects that exercise your skill, build your confidence, and help you master jQuery 
+
+**Overview**
+
+  * See how many of jQuery's methods and properties are used in real situations. Covers jQuery 1.9. 
+  * Learn to build jQuery from source files, write jQuery plugins, and use jQuery UI and jQuery Mobile.
+  * Familiarise yourself with the latest related technologies like HTML5, CSS3, and frameworks like Knockout.js.
+
+**In Detail**
+
+jQuery is used by millions of people to write JavaScript more easily and more quickly. It has become the standard tool for web developers and designers to add dynamic, interactive elements to their sites, smoothing out browser inconsistencies and reducing costly development time.
+
+jQuery Hotshot walks you step by step through 10 projects designed to familiarise you with the jQuery library and related technologies. Each project focuses on a particular subject or section of the API, but also looks at something related, like jQuery's official templates, or an HTML5 feature like localStorage. Build your knowledge of jQuery and related technologies.
+
+Learn a large swathe of the API, up to and including jQuery 1.9, by completing the ten individual projects covered in the book.
+
+Some of the projects that we'll work through over the course of this book include a drag-and-drop puzzle game, a browser extension, a multi-file drag-and-drop uploader, an infinite scroller, a sortable table, and a heat map.
+
+Learn which jQuery methods and techniques to use in which situations with jQuery Hotshots.
+
+**What you will learn from this book**
+
+  * Learn how to use the latest version of jQuery (1.9) in real-world situations. 
+  * Create a jQuery plugin structured for organisation and maintainability. 
+  * Construct a custom version of jQuery using Node.js and Grunt.js, and learn how to run unit tests using qUnit. 
+  * Build on top of online services like Google Maps to create interactive interfaces. 
+  * Use templating frameworks to easily and efficiently create repetitive areas of the page populated with data. 
+  * Get started with the related jQuery-powered frameworks jQuery UI and jQuery Mobile. 
+  * Produce interactive interfaces that respond to user interactions using the Model-View-View Model framework Knockout.js. 
+  * Use the latest web standards like HTML5 and CSS3 to create attractive and semantic web pages. 
+
+**Approach**
+
+This book takes a hands-on, tutorial-style approach that walks you step -by -step through 10 individual projects that each focus on producing a specific, real-world product or application. 
+
+**Who this book is written for**
+
+This book is aimed primarily at front-end developers, preferably already with a little jQuery experience, or those people that simply want to build on their existing skills with jQuery.
+
+**
+","/home/tom/Calibre Library/Dan Wellman/jQuery Hotshot (18)/cover.jpg","epub, pdf, zip","18","isbn:9781849519106,amazon:1849519102","9781849519106","eng","Calibre Library","2013-03-26T00:00:00+10:00","Packt Publishing","5","","1.0","6574546","","2015-12-25T05:15:25+10:00","jQuery Hotshot","jQuery Hotshot","fea48f67-142e-48c1-8944-e9c43a801bcf"
+"Unknown","Unknown","","/home/tom/Calibre Library/Unknown/Kopimism Australia (63)/cover.jpg","epub, zip","63","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","","","","1.0","147640","","2016-06-30T18:08:28+10:00","Kopimism Australia","Kopimism Australia","3a60fc82-c294-4281-a8f5-09a7b4bd4d7d"
+"Doctorow, Cory","Doctorow, Cory","","/home/tom/Calibre Library/Doctorow, Cory/Little Brother (2)/cover.jpg","epub","2","urn:urn:uuid:9bde0872-1ad5-11dd-b5b9-0018f369440e","","eng","Calibre Library","2008-06-11T00:00:00+10:00","FeedBooks (www.feedbooks.com)","","","1.0","311971","lcsh: Novels, lcsh: Young Readers, lcsh: Science Fiction","2015-10-27T16:14:56+10:00","Little Brother","Little Brother","da9edbdf-9550-4bcf-a65d-b93df5ae0f6a"
+"Unknown","Unknown","","","epub, pdf","41","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","","","","1.0","231107","","2016-07-04T01:23:16+10:00","Lua Programming","Lua Programming","a4341d8c-3e4c-455d-8c8b-a5bcd17084c4"
+"Unknown","Unknown","","/home/tom/Calibre Library/Unknown/MAKE 3D printing 2014 (58)/cover.jpg","epub","58","","","eng","Calibre Library","2013-10-17T05:11:04+10:00","Maker Media, Inc.","","","1.0","38643011","","2015-10-27T16:15:05+10:00","MAKE 3D printing 2014","MAKE 3D printing2 014","f3a71a3c-07de-49ff-a4bb-cb2055e8892a"
+"Administrator","Administrator","","/home/tom/Calibre Library/Administrator/The Menagerie (22)/cover.jpg","pdf","22","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","VBAM games","","","1.0","2856693","cc_3","2015-12-22T05:07:52+10:00","The Menagerie","Menagerie, The","d51c7686-b988-4301-8a1e-70dd39bf4c7c"
+"Administrator","Administrator","","/home/tom/Calibre Library/Administrator/The Menagerie_ Bonus Material (19)/cover.jpg","pdf","19","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","VBAM games","","","1.0","702407","cc_3","2015-12-22T05:14:19+10:00","The Menagerie: Bonus Material","Menagerie: Bonus Material, The","9bc1945a-59b5-426a-a31d-9d27138f07b5"
+"Unknown","Unknown","","/home/tom/Calibre Library/Unknown/Minimizing Hard Disk Drive Failure and Data Loss (62)/cover.jpg","epub","62","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","PediaPress GmbH","","","1.0","166635","","2015-10-27T16:15:03+10:00","Minimizing Hard Disk Drive Failure and Data Loss","Minimizing Hard Disk Drive Failure and Data Loss","e442903f-0cc2-4815-ba4a-5a598dcf76b4"
+"Project, MongoDB Documentation","MongoDB Documentation Project","","/home/tom/Calibre Library/MongoDB Documentation Project/MongoDB Manual (86)/cover.jpg","epub, pdf","86","url:http://docs.mongodb.org/master","","eng","Calibre Library","2015-09-01T00:00:00+10:00","MongoDB, Inc.","","","1.0","8079922","","2015-10-28T22:27:43+10:00","MongoDB Manual","MongoDB Manual","6e7cb9fc-aa8f-4dd7-87a5-43279e0d1a71"
+"Clements, David Mark","David Mark Clements","Over 50 recipes to master the art of asynchronous server-side JavaScript using Node
+
+**Overview**
+
+  * Packed with practical recipes taking you from the basics to extending Node with your own modules
+  * Create your own web server to see Node’s features in action
+  * Work with JSON, XML, web sockets, and make the most of asynchronous programming
+
+**In Detail**
+
+The principles of asynchronous event-driven programming are perfect for today's web, where efficient real-time applications and scalability are at the forefront. Server-side JavaScript has been here since the 90's but Node got it right. With a thriving community and interest from Internet giants, it could be the PHP of tomorrow.
+
+""Node Cookbook"" shows you how to transfer your JavaScript skills to server side programming. With simple examples and supporting code, ""Node Cookbook"" talks you through various server side scenarios often saving you time, effort, and trouble by demonstrating best practices and showing you how to avoid security faux pas.
+
+Beginning with making your own web server, the practical recipes in this cookbook are designed to smoothly progress you to making full web applications, command line applications, and Node modules. Node Cookbook takes you through interfacing with various database backends such as MySQL, MongoDB and Redis, working with web sockets, and interfacing with network protocols, such as SMTP. Additionally, there are recipes on correctly performing heavy computations, security implementations, writing, your own Node modules and different ways to take your apps live.
+
+**What you will learn from this book**
+
+  * Write and publish your own modules
+  * Interface with various databases
+  * Work with streams of data
+  * Handle file uploads and POST data
+  * Use the Express framework to accelerate the development of your applications
+  * Learn about security, encryption, and authentication techniques
+
+**Approach**
+
+As part of Packt's cookbook series, this book is packed with practical recipes that will get you working efficiently with Node from the start. Each chapter focuses on a different aspect of working with Node.
+
+**Who this book is written for**
+
+If you have some knowledge of JavaScript and want to build fast, efficient, scalable client-server solutions, then Node Cookbook is for you. Experienced users of Node will improve their skills although even if you have not worked with Node before, these practical recipes will make it easy to get started.
+
+**
+","/home/tom/Calibre Library/David Mark Clements/Node Cookbook (29)/cover.jpg","epub, pdf, zip","29","isbn:9781849517188,amazon:1849517185","9781849517188","eng","Calibre Library","2012-07-25T00:00:00+10:00","Packt Publishing","4","","1.0","38501108","","2015-12-25T05:15:38+10:00","Node Cookbook","Node Cookbook","bf0f00b4-1c4b-4607-b302-001f81913e77"
+"Banks, Michael A.","Michael A. Banks","*On the Way to the Web: The Secret History of the Internet and Its Founders* is an absorbing chronicle of the inventive, individualistic, and often cantankerous individuals who set the Internet free. **Michael A. Banks** describes how the online population created a new culture and turned a new frontier into their vision of the future.
+
+This book will introduce you to the innovators who laid the foundation for the Internet and the World Wide Web, the man who invented online chat, and the people who invented the products all of us use online every day. Learn where, when, how and why the Internet came into being, and exactly what hundreds of thousands of people were doing online before the Web. See who was behind it all, and what inspired them.
+
+### What you’ll learn
+
+You’ll find these stories of people and events on the way to the Web: 
+
+  * CIA agents in search of military hardware for sale online 
+  * The first online privacy scandal, three decades ago 
+  * The first instance of online censorship in 1979 
+  * How in 1980 the FBI demanded the ID of a CompuServe user who tried to sell 3,000 M16 rifles online 
+  * Early con artists 
+  * Online romance scams 
+  * Identify theft 
+  * Who really created AOL (Hint: it wasn’t Steve Case) 
+  * The wireless Internet that was built in 1978 
+  * Why the @ sign is used in email addresses 
+
+### Who this book is for
+
+*On the Way to the Web* is a book that will appeal to all readers, but one that computer enthusiasts will find especially interesting. Most readers will have played a part in the story it tells, and anyone who uses the Internet and Web on a day–to–day basis will find this book an absorbing read. 
+
+### Table of Contents
+
+  1. Looking Back: Where Did It All Begin? 
+  2. In the Money 
+  3. Making Contact with CompuServe 
+  4. The Source 
+  5. Dis-Content and Conflict 
+  6. Evolution 
+  7. Online Experiments 
+  8. Trials and Errors 
+  9. The Second Wave 
+  10. AOL Gestation 
+  11. The Third Wave 
+  12. In with the New, Out with the Old 
+  13. AOL Evolves: Expansion, Integration, and Success 
+  14. Prodigy: The Flat-Rate Pioneer Who Just Didn't Get It 
+  15. Moving to the Net 
+
+### About the Author
+
+**Michael A. Banks** is the author of more than 40 books, among them several titles that deal with Internet topics, including *The eBay Survival Guide*; *Web Psychos, Stalkers, and Pranksters*; *The Modem Reference*; *PC Confidential*; and *Welcome to CompuServe*. He is coauthor of *CROSLEY: The Story of Two Brothers and the Business Empire that Transformed the Nation* (Clerisy, 2006), the biography of twentieth-century industrialist/entrepreneur and communications magnate Powel Crosley, Jr. (This book made the *New York Times* extended bestseller list, the *Wall Street Journal* hardcover business book bestseller list, and the *Business Week* bestseller list. Having sold 45,000 copies during its first three months of existence, it received a full-page writeup in the February 12, 2007, issue of *Publishers Weekly*.) He has written hundreds of magazine articles and served as a contributing editor and columnist for *Computer Shopper*, *Windows*, and other magazines. 
+
+Banks has been online since 1979, when he caught his first glimpse of CompuServe. During the 1980s, he was involved in a number of Internet firsts, including online book promotion. He has helped maintain bulletin board systems, was a'special interest group (SIG)'manager on DELPHI for a number of years, and worked in a consulting capacity for CompuServe and* The Source*. He wrote one of the first guides to online services, *The Modem Reference* (Brady/Simon & Schuster), which introduced hundreds of thousands of users to modems and the online world. Because of his reputation as a modem and telecommunications expert, GEnie and BIX (*Byte* Information Exchange) created special online forums for Banks'early blogs. He has also advised a number of businesses in the area of online marketing. 
+","/home/tom/Calibre Library/Michael A. Banks/On the Way to the Web_ The Secret History of the Internet and Its Founders (30)/cover.jpg","epub","30","isbn:9781430208693,amazon:B004JZWLTK","9781430208693","eng","Calibre Library","2008-07-24T00:00:00+10:00","Apress","4","","1.0","3417566","Business & Money, Economics, Economic History, Computers & Technology, Business & Management, History, Internet & Web Culture, Networking, Internet; Groupware; & Telecommunications, Programming, Software Design; Testing & Engineering, Software Development, Computer Science","2015-10-27T16:15:16+10:00","On the Way to the Web: The Secret History of the Internet and Its Founders","On the Way to the Web: The Secret History of the Internet and Its Founders","8f70f480-bb8b-4153-9d76-fc9c8bccfcf1"
+"Keijser, Jan Just","Jan Just Keijser","This is a cookbook, with practical recipes providing tips and tricks to the most common problems and scenarios faced with OpenVPN. This book is ideal for system administrators and networking professionals who are interested in building secure VPNs using OpenVPN. It is preferable that the reader has a basic knowledge of OpenVPN, as well as general network administration skills.
+
+**
+
+### About the Author
+
+**Jan Just Keijser**
+
+Jan Just Keijser is an open source professional from Utrecht, the Netherlands. He has broad experience in IT, ranging from providing user support, system administration, and systems programming to network programming. He has worked for various IT companies since 1989 and has been working mainly on UNIX/Linux platforms since 1995. He was an active USENET contributor in the early 1990s. 
+
+Currently, he is employed as a senior scientific programmer in Amsterdam, the Netherlands, at Nikhef, the institute for sub-atomic physics from the Dutch Foundation for Fundamental Research on Matter (FOM). He is working on grid computing and grid application programming, as well as smartcard applications. 
+
+His open source interests include all types of Virtual Private Networking, including IPSec, PPTP, and of course, OpenVPN. In 2004 he discovered OpenVPN and has been using it ever since. He has been providing OpenVPN community support since 2004. 
+","/home/tom/Calibre Library/Jan Just Keijser/OpenVPN 2 Cookbook (24)/cover.jpg","epub, pdf","24","isbn:9781849510103,amazon:1849510105","9781849510103","eng","Calibre Library","2011-02-16T23:00:00+10:00","Packt Publishing","4","","1.0","7880657","","2015-10-27T16:15:23+10:00","OpenVPN 2 Cookbook","OpenVPN 2 Cookbook","957ab342-2d52-4884-9682-044b5ee38510"
+"Contributors, The","The Contributors","","/home/tom/Calibre Library/The Contributors/ownCloud (94)/cover.jpg","epub","94","booki.cc:http://booki.flossmanuals.net/owncloud/2013.12.02-11.00","","eng","Calibre Library","0101-01-01T10:00:00+10:00","FLOSS Manuals http://flossmanuals.net","","","1.0","11107454","","2015-10-27T16:15:27+10:00","ownCloud","ownCloud","96c434af-476c-413e-b0db-cad6063b07d7"
+"Unknown","Unknown","","/home/tom/Calibre Library/Unknown/The Pirate Book (74)/cover.jpg","pdf","74","","","eng","Calibre Library","2015-11-25T09:57:28+10:00","","","","1.0","59074059","","2016-01-09T22:03:36+10:00","The Pirate Book","Pirate Book, The","92b12f6e-cf5d-46a2-80de-8a324547065b"
+"Vogele, Colette","Colette Vogele","","","","96","","","","Calibre Library","2016-09-10T15:41:39+10:00","","","","1.0","","","2016-09-10T15:41:39+10:00","Podcasting Legal Guide","Podcasting Legal Guide","16f277f9-7870-4d1a-80d3-6654dc4bcd49"
+"Unknown","Unknown","","/home/tom/Calibre Library/Unknown/POL Design High (51)/cover.jpg","pdf","51","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","","","","1.0","20777564","","2015-12-03T01:52:09+10:00","POL Design High","POL Design High","ff55494a-1f3f-4b90-9b7d-2d663891a6d6"
+"Unknown","Unknown","","/home/tom/Calibre Library/Unknown/Priv Manual-Art High (50)/cover.jpg","pdf","50","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","","","","1.0","17179429","","2015-12-03T01:51:46+10:00","Priv Manual-Art High","Priv Manual-Art High","ded108e0-6201-48ea-aeaa-d7616cd78d21"
+"Unknown","Unknown","","/home/tom/Calibre Library/Unknown/Priv3 Design High (80)/cover.jpg","pdf","80","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","","","","1.0","16781784","","2015-12-03T01:51:35+10:00","Priv3 Design High","Priv3 Design High","4d86b5ab-718b-468d-b1c4-47742aebbf53"
+"Unknown","Unknown","","/home/tom/Calibre Library/Unknown/PrivTV Bible High (33)/cover.jpg","pdf","33","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","","","","1.0","2158463","","2015-12-03T01:51:24+10:00","PrivTV Bible High","PrivTV Bible High","68451e2c-146c-41e5-8d19-bf0859c2166c"
+"Shankar, Aditya Ravi","Aditya Ravi Shankar","Build your next game on a bigger scale with *Pro HTML5 Games*. This book teaches you the essentials of advanced game programming in HTML5. You’ll learn techniques that you can transfer to any area of HTML5 game development to make your own professional HTML5 games! 
+
+Led by an expert game programmer, you’ll build two complete games in HTML5: a strategy puzzle game based on the Box2d physics engine and in the style of Angry Birds and a real-time strategy (RTS) game complete with units, buildings, path-finding, artificial intelligence, and multiplayer support. In the process, you’ll learn how to do the following: 
+
+  * Create realistic physics in your game by incorporating the Box2d physics engine 
+  * Design large worlds with lots of characters and let users interact with them 
+  * Use sprite sheets, panning, parallax scrolling, and sound effects to build a more polished game 
+  * Incorporate pathfinding and steering to help characters navigate through your world 
+  * Create challenging levels with intelligent enemies by using decision trees, state machines, and scripted events 
+  * Add multiplayer in your games using Node.js and the WebSocket API 
+
+This book will help you take your HTML5/JavaScript programming experience to the next level. It gives you the knowledge and skills you need to develop more complex, bolder games and become an HTML5 games pro.
+
+### What you’ll learn
+
+  * Creating realistic physics in your game by incorporating the Box2d physics engine 
+  * Designing large worlds with lots of characters and let users interact with them 
+  * Using sprite sheets, panning, parallax scrolling, and sound effects to build a more polished game 
+  * Incorporating pathfinding and steering to help characters navigate through your world 
+  * Creating challenging levels with intelligent enemies by using decision trees, state machines, and scripted events 
+  * Adding multiplayer in your games using Node.js and the WebSocket API 
+
+### Who this book is for
+
+*Pro HTML5 Games* is meant for programmers who already have some HTML and JavaScript programming experience and who now want to learn to harness the power of HTML5 to build amazing-looking games but don’t know where to begin. 
+
+Readers who have experience making games in other languages such as Flash and would like to move to HTML5 will also find a lot of useful information in this book. 
+
+If you do not feel confident about your game programming skills, don’t worry. This book covers all the essentials needed to build these games so you can follow along and learn to design large, professional games in HTML5. The book will also point to resources and reference material for supplemental learning in case you are having trouble keeping up. 
+
+With dedicated chapters on HTML5 basics, the Box2D engine, pathfinding and steering, combat and effective enemy AI, and multiplayer using Node.JS with WebSockets, you should get a lot from this book no matter how much game programming experience you have. 
+
+### Table of Contents
+
+  1. HTML5 and JavaScript Essentials 
+  2. Creating a Basic Game World 
+  3. Physics Engine Basics 
+  4. Integrating the Physics Engine 
+  5. Creating the RTS Game World 
+  6. Adding Entities to Our World
+  7. Intelligent Unit Movement
+  8. Adding More Game Elements
+  9. CreaAdding Weapons and Combat
+  10. Wrapping Up the Single-Player Campaign 
+  11. Multiplayer with WebSockets
+  12. Multiplayer Gameplay
+
+**
+","/home/tom/Calibre Library/Aditya Ravi Shankar/Pro HTML5 Games (88)/cover.jpg","epub, pdf, zip","88","isbn:9781430247104,google:AxdJ0GU4x3IC,amazon:143024710X","9781430247104","eng","Calibre Library","2012-12-11T14:00:00+10:00","Apress","5","","1.0","29253800","Computers, Web, Web Programming, Virtual Worlds","2015-10-27T16:15:35+10:00","Pro HTML5 Games","Pro HTML5 Games","4b9f58b4-17b4-4d5d-be0f-9c2022ad13c6"
+"Unknown","Unknown","","/home/tom/Calibre Library/Unknown/processing for flash dev (42)/cover.jpg","pdf","42","","","eng","Calibre Library","2009-12-10T08:50:07+10:00","","","","1.0","5239809","","2016-01-09T22:20:50+10:00","processing for flash dev","processing for flash dev","3d55ef99-2493-46f5-9fcd-3a072226f5c7"
+"Greenberg, Ira","Ira Greenberg","If you're interested in creating cutting-edge code-based art and animations, you've come to the right place! Processing (available at www.processing.org) is a revolutionary open source programming language and environment designed to bridge the gap between programming and art, allowing non-programmers to learn programming fundamentals as easily as possible, and empowering anyone to produce beautiful creations using math patterns. With the software freely available, Processing provides an accessible alternative to using Flash for creative coding and computational art--both on and off the Web.
+
+This book is written especially for artists, designers, and other creative professionals and students exploring code art, graphics programming, and computational aesthetics. The book provides a solid and comprehensive foundation in programming, including object-oriented principles, and introduces you to the easy-to-grasp Processing language, so no previous coding experience is necessary. The book then goes through using Processing to code lines, curves, shapes, and motion, continuing to the point where you'll have mastered Processing and can really start to unleash your creativity with realistic physics, interactivity, and 3D! In the final chapter, you'll even learn how to extend your Processing skills by working directly with the powerful Java programming languagethe language Processing itself is built with.
+
+### About the Author
+
+'
+
+Ira Greenberg directs the Center of Creative Computation and is Associate Professor with a joint appointment in the Meadows School of the Arts and Lyle School of Engineering at Southern Methodist University, Dallas TX. He is the author of Processing: Creative Coding and Computational Art and The Essential Guide to Processing for Flash Developers, both from friends of ED/Apress. Ira received his BFA from Cornell University and his MFA from the University of Pennsylvania. 
+
+'
+","/home/tom/Calibre Library/Ira Greenberg/Processing_ Creative Coding and Computational Art (85)/cover.jpg","epub, pdf","85","isbn:9781590596173,amazon:159059617X","9781590596173","eng","Calibre Library","2007-05-30T00:00:00+10:00","friendsofED","4","","1.0","14372080","Computers & Technology, Programming, Game Programming, Graphics & Multimedia, Languages & Tools, Software Design; Testing & Engineering, Software Development, Software, Computer Science, Graphics & Visualization, Programming Languages, Software Design & Engineering, Reference","2015-10-27T16:15:38+10:00","Processing: Creative Coding and Computational Art","Processing: Creative Coding and Computational Art","a056be71-6682-49c4-973c-9605ec27b2bf"
+"Unknown","Unknown","","","epub, pdf","54","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","","","","1.0","2354050","","2016-07-04T16:23:49+10:00","Progetto di reti locali lecture notes","Progetto di reti locali lecture notes","2203c6a4-cda4-4066-ae06-73967964a84a"
+"Unknown","Unknown","","/home/tom/Calibre Library/Unknown/Programming in Lua (first edition) (43)/cover.jpg","epub, zip","43","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","","","","1.0","480375","","2016-07-04T02:37:50+10:00","Programming in Lua (first edition)","Programming in Lua (first edition)","e7829e87-e5fe-41d9-8723-765561ff4c36"
+"Unknown","Unknown","","","epub, pdf","55","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","","","","1.0","2348327","","2016-07-04T16:17:54+10:00","Protocolli e architetture di routing lecture notes","Protocolli e architetture di routing lecture notes","a0b1b07e-442d-4eeb-82a4-f0bcff462e2a"
+"Rinaldi, Brian","Brian Rinaldi","Brian Rinaldi, Content and Community Manager at Telerik, explains how static site generators work, the benefits you can expect, and what options are available. Once you complete this brief report, you’ll come to understand what a static site is (and isn’t), as well as how to evaluate whether a static site generator is a workable solution for your project.","/home/tom/Calibre Library/Brian Rinaldi/Static Site Generators (27)/cover.jpg","epub, pdf","27","","","eng","Calibre Library","2015-09-22T00:00:00+10:00","O'Reilly Media, Inc.","","","1.0","4040692","","2016-01-09T21:53:25+10:00","Static Site Generators","Static Site Generators","cfb96482-82cc-44bf-8d14-60856c4d883f"
+"Unknown","Unknown","","","","73","","","eng","Calibre Library","2014-04-03T20:50:54+10:00","","","","1.0","","","2016-01-09T22:29:28+10:00","THINKING IN CSS","THINKING IN CSS","174bce27-ac50-4eee-9ec7-467a6b1ece22"
+"Unknown","Unknown","","/home/tom/Calibre Library/Unknown/Timewarp Rigid Body Simulation (72)/cover.jpg","pdf","72","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","","","","1.0","6522977","","2015-12-03T01:50:43+10:00","Timewarp Rigid Body Simulation","Timewarp Rigid Body Simulation","14aca9ce-3f37-4c1e-b9e4-e5f227b54584"
+"Unknown","Unknown","","/home/tom/Calibre Library/Unknown/Transferring Data between Standard Dial-Up Modems (36)/cover.jpg","epub","36","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","PediaPress GmbH","","","1.0","10722","","2015-10-27T16:15:51+10:00","Transferring Data between Standard Dial-Up Modems","Transferring Data between Standard Dial-Up Modems","072c2523-4a08-4e86-bc52-448de1c34921"
+"Sony Corporation","Sony Corporation","","/home/tom/Calibre Library/Sony Corporation/User Guide (83)/cover.jpg","epub","83","","","eng","Calibre Library","2011-12-25T23:00:00+10:00","Sony Corporation","","","1.0","1602075","","2015-10-27T16:15:54+10:00","User Guide","User Guide","e33b332d-8114-478e-b9c1-f7b4caa5bdb0"
+"Unknown","Unknown","","/home/tom/Calibre Library/Unknown/Voip (40)/cover.jpg","epub","40","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","PediaPress GmbH","","","1.0","212417","","2015-10-27T16:16:00+10:00","Voip","Voip","3483dd56-2b7e-41e6-9915-772db9bcb255"
+"Unknown","Unknown","","/home/tom/Calibre Library/Unknown/WC Bible High (46)/cover.jpg","pdf","46","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","","","","1.0","48297774","","2015-12-03T01:50:57+10:00","WC Bible High","WC Bible High","b9c1350e-2de1-4d62-9879-4e4474efe1ba"
+"Unknown","Unknown","","/home/tom/Calibre Library/Unknown/WC3 Script (47)/cover.jpg","pdf","47","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","","","","1.0","48837018","","2015-12-03T01:50:10+10:00","WC3 Script","WC3 Script","c4a38204-8458-4dbc-badc-214a71064bd4"
+"Unknown","Unknown","","/home/tom/Calibre Library/Unknown/WCP Design High (68)/cover.jpg","pdf","68","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","","","","1.0","65427460","","2015-12-03T01:50:26+10:00","WCP Design High","WCP Design High","d5dec6b8-6638-4f58-8944-ea73cc105454"
+"Unknown","Unknown","","","pdf","38","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","","","","1.0","3540970","","2016-07-22T01:11:51+10:00","WEB DEVELOPMENT SALARY AND SKILLS REPORT","WEB DEVELOPMENT SALARY AND SKILLS REPORT","a995d145-10da-4524-ae69-0d75f80269bd"
+"Unknown","Unknown","","","pdf","37","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","","","","1.0","10281975","","2016-07-22T01:27:59+10:00","What You Need to Know about JavaScript [eBook]","What You Need to Know about JavaScript [eBook]","797a8088-9036-4b11-84ab-a95001f85f7b"
+"Unknown","Unknown","","/home/tom/Calibre Library/Unknown/Wireless Mesh Networks (77)/cover.jpg","epub","77","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","PediaPress GmbH","","","1.0","200951","","2015-10-27T16:16:06+10:00","Wireless Mesh Networks","Wireless Mesh Networks","e18c94ea-4d9a-4995-8830-b4d3ec6bd4e9"
+"Lefebvre, Yannick","Yannick Lefebvre","Over 80 step-by-step recipes to extend the most popular CMS and share your creations with its community
+
+**Overview**
+
+  * Learn to create plugins and configuration panels in order to bring new capabilities to WordPress
+  * Tailor WordPress to your needs with new content types, custom widgets, and fancy jQuery elements, without breaching security needs
+  * Detailed instructions on how to achieve each task, followed by clear explanations of concepts featured in each recipe
+
+**In Detail**
+
+WordPress is a popular, powerful, and open Content Management System. Learning to extend its core capabilities allows you to unleash its full potential, whether you're an administrator who cannot find the right extension, or a developer with a great idea to enhance the platform for the community, or a website designer/developer working to fulfill a client's needs.
+
+""WordPress Plugin Development Cookbook"" is the perfect companion for plugin developers, offering easy-to-follow instructions to accomplish tasks that range from basic plugin creation and configuration to advanced customization techniques. Each topic is illustrated through realistic examples showing how it can be applied to solve common problems, followed by explanations of all concepts used.
+
+Create WordPress plugins of varying complexity, from a few lines that change a specific function to complex extensions that provide intricate new capabilities.
+
+From the creation of your first simple plugin to adding entire new sections and widgets in the administration interface, learn how to change and extend WordPress to perform virtually any task. After installing and configuring an efficient plugin development environment, you will discover how to register your own callbacks that WordPress will execute at key points, forming the basis of plugin creation. Armed with this essential knowledge, you'll explore how to create administration pages to allow users to configure your new creations and to add new content management sections to WordPress through custom post types and custom database tables. Once you have all these elements in place, improve your plugins by customizing the post and page editors, creating user-facing forms to populate new content sections, making your plugin output dynamic using Javascript and AJAX as well as adding new widgets to the platform. Finally, see how to add support for multiple languages and distribute your work to the global WordPress community.
+
+""WordPress Plugin Development Cookbook"" provides you with tools to create any plugin you can imagine.
+
+**What you will learn from this book**
+
+  * Prepare an efficient development environment 
+  * Create your first plugins using WordPress action and filter hooks
+  * Add new sections to the administration interface for plugin configuration
+  * Create new content types using Custom Post Types or Custom Database Tables
+  * Make your content dynamic with JavaScript, jQuery, and AJAX
+  * Add new widgets to the WordPress library
+  * Prepare your plugin to be translated for broad international use
+  * Get your new creations ready to be shared on the official WordPress site
+
+**Approach**
+
+This is a cookbook with step-by-step instructions and code examples required to learn WordPress plugin development easily.
+
+**Who this book is written for**
+
+If you are a WordPress user, developer, or a site integrator with basic knowledge of PHP and an interest to create new plugins to address your personal needs, client needs, or share with the community, then this book is for you.
+
+**
+","/home/tom/Calibre Library/Yannick Lefebvre/WordPress Plugin Development Cookbook (26)/cover.jpg","epub, pdf, zip","26","isbn:9781849517683,amazon:1849517681","9781849517683","eng","Calibre Library","2012-07-26T00:00:00+10:00","Packt Publishing","4","","1.0","5285733","","2015-12-25T05:15:32+10:00","WordPress Plugin Development Cookbook","WordPress Plugin Development Cookbook","081defbf-3881-480a-8099-67ce36402aae"
+"Unknown","Unknown","","/home/tom/Calibre Library/Unknown/The World of Peer-to-Peer (70)/cover.jpg","epub","70","","","eng","Calibre Library","0101-01-01T10:00:00+10:00","PediaPress GmbH","","","1.0","943345","","2015-10-27T16:12:19+10:00","The World of Peer-to-Peer","World of Peer-to-Peer, The","aacda760-ec80-4cc4-9dfb-8b51a32cabbe"
