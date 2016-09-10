@@ -1,18 +1,11 @@
 ---
 layout: default
 page_type: album
-title: art/Minecraft/third-party
-images:
-- src: art/Minecraft/third-party/Large 3 Story Netherbrick Spruce House with 4 Large
-    Fountains UNDECORATED.schematic
-  rel_link: Large 3 Story Netherbrick Spruce House with 4 Large Fountains UNDECORATED_schematic.html
-- src: art/Minecraft/third-party/Living Water Fountain Home.schematic
-  rel_link: Living Water Fountain Home_schematic.html
-- src: art/Minecraft/third-party/Large 3 Story Netherbrick Spruce House with 4 Large
-    Fountains UNDECORATED.schematic
-  rel_link: Large 3 Story Netherbrick Spruce House with 4 Large Fountains UNDECORATED_schematic.html
-- src: art/Minecraft/third-party/Living Water Fountain Home.schematic
-  rel_link: Living Water Fountain Home_schematic.html
-image: blank_folder.png
+title: Living Water Fountain Home.schematic
+files: []
+image: art/./blank_folder.png
 albums: []
 description: ''
+author: ''
+website: ''
+settings: ''
