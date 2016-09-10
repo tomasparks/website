@@ -35,7 +35,12 @@ body {
 				padding: 20px;
 				display: block;
 					header { display: block; }
-                                        h1,h2,h3,h4,h5,h6 { color:black; background: green;font-family: 'Glass_TTY_VT220'; }
+                                        h1,h2,h3,h4,h5,h6 {padding: 0.5em;
+						           margin: 0.5em;
+                                                           color:green;
+                                                           background: black;
+                                                           font-family: 'Glass_TTY_VT220';
+                                                           border: 2px solid green; }
 					div {
 						padding: 5px;
 						display:block;
