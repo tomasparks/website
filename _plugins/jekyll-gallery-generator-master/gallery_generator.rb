@@ -126,9 +126,6 @@ puts albumpage.data
 @album_metadata['author'] = ''
 @album_metadata['website'] = ''
 @album_metadata['settings'] = ''
-@album_metadata['page_type'] = ''
-@album_metadata['layout'] = ''
-@album_metadata['settings'] = ''
 tmp = write_album_metadata
  puts "Leaving AlbumPage:initialize()"
 
