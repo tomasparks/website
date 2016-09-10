@@ -7,7 +7,7 @@ title:books
 {% for ebooks in site.data.ebooks %}
   <li>
 
-      {{ ebooks.name }}
+      {{ ebooks.title }} by {{ ebooks.authors }}
   </li>
 {% endfor %}
 </ul>
@@ -15,7 +15,7 @@ title:books
 <ul>
 {% for books in site.data.books %}
   <li>
-      {{ books.name }}
+      {{ books.title }} by {{ books.authors }}
   </li>
 {% endfor %}
 </ul>
