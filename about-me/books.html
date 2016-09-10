@@ -6,14 +6,20 @@ title: books
 <ul>
 {% assign sortedebooks = site.data.ebooks | sort: 'title_sort' | sort: 'series_index' %}
 {% for ebooks in sortedebooks  %}
+
   <li>
-      {{ ebooks.title }} {%if ebooks.series_index }}({{ ebooks.series_index }} of {{ ebooks.series}}){% endif %} by {{ ebooks.authors }}
+{{ ebooks.title }} 
+{%if ebooks.series_index }}
+({{ ebooks.series_index }} of {{ ebooks.series}}) 
+{% endif %} by {{ ebooks.authors }}
   </li>
+
 {% endfor %}
 </ul>
 <h3>Dead tree books</h3>
 <ul>
-{% for books in site.data.books %}
+{% assign sortedbooks = site.data.ebooks | sort: 'title_sort' | sort: 'series_index' %}
+{% for books in sortedbooks %}
   <li>
       {{ books.title }} by {{ books.authors }}
   </li>
