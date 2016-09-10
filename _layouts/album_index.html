@@ -48,7 +48,7 @@ $(document).ready(function() {
 		<h3>Sub-Albums</h3>
 		<ul>
 		{% for album in page.albums %}
-			<li><a href="{{ site.url }}{{ album.url }}"><img style="height=256px;width=256px;" src="{{ site.url }}{{album.image}}" alt="{{album.name}}" /></a></li>
+			<li><a href="{{ site.url }}{{ album.url }}"><img src="{{ site.url }}{{album.image}}" alt="{{album.name}}" /></a></li>
 		{% endfor %}
 		</ul>
 	</div>
