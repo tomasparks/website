@@ -3,6 +3,7 @@ layout: page
 page_type: album
 title: art
 files: []
+image: art/./blank_folder.png
 albums:
 - title: TSP
   url: "/art/TSP/"

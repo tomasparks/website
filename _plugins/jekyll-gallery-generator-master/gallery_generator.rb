@@ -116,7 +116,7 @@ puts "#{@dir}.png"
 puts "found you"
 					self.data['image'] = File.join(@base_album_path,"#{@dir}.png")
 				end
-			#self.data['image'] = self.data['image'] || File.join(@base_album_path, "./blank_folder.png")
+			self.data['image'] = self.data['image'] || File.join(@base_album_path, "./blank_folder.png")
 
 			self.data['albums'] =  []
 			self.data['description'] = @album_metadata['description'] || ""
