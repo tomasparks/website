@@ -8,12 +8,14 @@ title: books
 {% for ebooks in sortedebooks  %}
 
   <li>
-{{ ebooks.title }} {% if ebooks.series %}}( {{ ebooks.series_index }} of {{ ebooks.series}} ) {% endif %}
+<pre>
+{{ ebooks.title }} {% if ebooks.series_index %}}( {{ ebooks.series_index }} of {{ ebooks.series}} ) {% endif %}
 Author: {{ ebooks.authors }}
 ISBN: {{ ebooks.isbn}}
-pubdate: {{ ebooks.pubdate}}
+pubdate: {{ ebooks.pubdate | date_to_long_string}}
 publisher: {{ ebooks.publisher}}
 tags: {{ ebooks.tags}}
+</pre>
   </li>
 
 {% endfor %}
