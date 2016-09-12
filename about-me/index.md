@@ -19,7 +19,7 @@ see [my GUI page]({{site.url}}/about-me/gui.html)
 see [my computer art page]({{site.url}}/art/)
 
 ## Classic Computers ##
-see my [classic computer page]({{site.url}}/about-me/computers.html)
+see my [classic computer page]({{site.url}}/about-me/computers/)
 
 ## other ##
 see my [book list]({{site.url}}/about-me/books.html)
