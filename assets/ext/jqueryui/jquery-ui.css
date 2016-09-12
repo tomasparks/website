@@ -1006,12 +1006,12 @@ a.ui-button:active,
 .ui-widget-content .ui-state-highlight,
 .ui-widget-header .ui-state-highlight {
 	border: 1px solid green;
-	background: green;
+	background: black;
 	color: black;
 }
 .ui-state-checked {
 	border: 1px solid green;
-	background: green;
+	background: black;
 }
 .ui-state-highlight a,
 .ui-widget-content .ui-state-highlight a,
@@ -1022,7 +1022,7 @@ a.ui-button:active,
 .ui-widget-content .ui-state-error,
 .ui-widget-header .ui-state-error {
 	border: 1px solid green;
-	background: green;
+	background: black;
 	color: black;
 }
 .ui-state-error a,
