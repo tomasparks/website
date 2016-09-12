@@ -11,18 +11,18 @@ body {
 	color: green;
 	background: black;
 	font-family: 'IBM_MDA';
-    font-size:xx-large;
+        font-size:xx-large;
 	margin: 0px;
-		header {
-			font-family: 'Glass_TTY_VT220';
-			color:black; background: green; width: 100%; display: table;
-			}
+
 		main {
 			height: auto;
 			min-height: 100%;
                         margin-top: 1em;margin-bottom: 1em;
 			display: block;
-
+		header {
+			font-family: 'Glass_TTY_VT220';
+			color:black; background: green; width: 100%;
+			}
 			article {
 				color: green;
 				background: black;
