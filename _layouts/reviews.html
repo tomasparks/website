@@ -9,10 +9,10 @@ layout: default
 </header>
 <div  id="image_reviews" style="padding:10px;">
 {% responsive_image_block %}
-    path: assets/img/_originals/{{page:image}}
+    path: assets/img/_originals/{{page.image}}
 {% endresponsive_image_block %}
 <div>
-<a href="{{page:image-website}}">{{page:image-author}}</a>
+<a href="{{page.image-website}}">{{page.image-author}}</a>
 </div>
 </div>
         {{ content }}
