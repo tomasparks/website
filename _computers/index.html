@@ -10,8 +10,9 @@ permalink: /about-me/computers/index.html
 <ol>
 {% assign sortedcomputers = site.computers | sort: 'title' %}
 {% for computers in sortedcomputers %}
-
+{% if questions.title != 'Computers' %}
 	<li><a href="{{ computers.url }}">{{computers.title}}</a></li>
+{% endif %}
 {% endfor %}
 </ol>
 </nav>
