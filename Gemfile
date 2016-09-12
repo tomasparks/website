@@ -6,7 +6,7 @@ gem 'jekyll-seo-tag'
 #gem 'jekyll-feed'
 gem 'rmagick'
 gem 'exifr'
-gem'jekyll-assets'
+#gem'jekyll-assets'
 
 #gem 'rmagick'
 #gem 'jekyll-responsive_image'
