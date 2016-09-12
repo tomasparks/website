@@ -44,7 +44,7 @@ body {
 						padding: 5px;
 						display:block;
 						}
-					img, blockquote, pre, iframe, embed {
+					blockquote, pre, iframe, embed {
 						color: green;
 						background: black;
 						padding: 0.5em;
@@ -52,6 +52,13 @@ body {
 						border: 2px solid green;
 						font-family: 'Glass_TTY_VT220';
 					}
+i                                       mage_post {
+						color: green;
+						background: black;
+						padding: 0.5em;
+						margin: 0.5em;
+						border: 2px solid green;
+						font-family: 'Glass_TTY_VT220';}
 					nav {
 						padding: 0.5em;
 						margin: 0.5em;
