@@ -1,0 +1,19 @@
+---
+layout: page
+title: Computers
+permalink: /about-me/computers/index.html
+---
+<main role="main">
+<article>
+
+<nav>
+<ol>
+{% assign sortedcomputers = site.computers | sort: 'title' %}
+{% for computers in sortedcomputers %}
+
+	<li><a href="{{ computers.url }}">{{computers.title}}</a></li>
+{% endfor %}
+</ol>
+</nav>
+</article>
+</main>
