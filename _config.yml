@@ -115,6 +115,10 @@ sass:
 
 
 collections:
+  computers:
+    layout: page
+    output: true
+    permalink: /about-me/:path/
   questions:
     layout: page
     output: true
@@ -122,4 +126,3 @@ collections:
 
 album_dir: art
 source_dir: art
-
