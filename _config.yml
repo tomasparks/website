@@ -90,7 +90,7 @@ responsive_image:
 
 lunr_search:
   js_dir: "./assets/js/"
-  excludes: [rss.xml, 404.html,*.schematic]
+  excludes: [rss.xml, 404.html,.schematic]
 
 
 
