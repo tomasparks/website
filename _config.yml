@@ -115,10 +115,6 @@ sass:
 
 
 collections:
-  reviews:
-    layout: page
-    output: true
-    permalink: /reviews/:path/
   questions:
     layout: page
     output: true
