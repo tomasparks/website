@@ -1,6 +1,6 @@
 #calibredb catalog /home/tom/blog/_data/ebooks.csv --sort-by title_sort --verbose
 
-#bundle update
+bundle update
 
 jekyll build --verbose --trace
 
