@@ -2,6 +2,8 @@
 layout: default
 ---
 <!-- start of post -->
+{% include jquery-ui.html %}
+
 <main role="main">
 {% if page.title %}
 <header>
@@ -15,10 +17,13 @@ layout: default
 	</ul>
 <article id="tabs-1">
 {% if page.image %}
-<div id="image_post">
+<div id="image_post" style="padding:10px;">
 {% responsive_image_block %}
     path: assets/img/_originals/{{page.image}}
 {% endresponsive_image_block %}
+<div>
+image from <a href="{{page.image-website}}">{{page.image-author}}</a>
+</div>
 </div>
 {% endif %}
         {{ content }}
@@ -30,7 +35,6 @@ layout: default
 </aside>
 </div>
 </main>
-{% include jquery-ui.html %}
 <script>$( "#tabs" ).tabs();
 </script>
 <!-- end of post -->
