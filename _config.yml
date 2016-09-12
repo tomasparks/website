@@ -118,7 +118,7 @@ collections:
   computers:
     layout: page
     output: true
-    permalink: /about-me/:path/
+    permalink: /about-me/computers/:path/
   questions:
     layout: page
     output: true
