@@ -1,4 +1,5 @@
 ---
+layout: blank
 title: Altair 8800micro System specs
 tag: 'Altair 8800micro', 'System specs'
 ---
