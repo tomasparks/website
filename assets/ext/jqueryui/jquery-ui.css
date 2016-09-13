@@ -920,7 +920,7 @@ body .ui-tooltip {
 }
 .ui-widget-content a {
 	color: black;
-        background:green
+        background:green;
         font-family: 'Glass_TTY_VT220';
 
 }
