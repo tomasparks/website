@@ -914,13 +914,13 @@ body .ui-tooltip {
 
 }
 .ui-widget-header {
-	border: 1px solid green;
+	border-bottom: 1px solid green;
 	background: black;
 	color: green;
-	font-weight: bold;
 }
 .ui-widget-header a {
 	color: green;
+        font-family: 'Glass_TTY_VT220';
 }
 
 /* Interaction states
