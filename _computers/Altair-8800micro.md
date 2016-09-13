@@ -1,7 +1,6 @@
 ---
 layout: reviews
 title: Altair 8800micro
-tag: 'Altair 8800micro'
 image: altair_8800micro.jpg
 image-website: https://jefftranter.blogspot.com.au/2014/02/the-briel-altair-8800-replica-kit.html
 image-author: Jeff Tranter

@@ -1,7 +1,5 @@
 ---
 layout: blank
-title: Altair 8800micro System specs
-tag: 'Altair 8800micro', 'System specs'
 ---
 
 Processor:    8080A emulated by ATmega8515 microcontroller
