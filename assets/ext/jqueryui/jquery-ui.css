@@ -917,11 +917,13 @@ body .ui-tooltip {
 	/* border: 1px solid green; */
 	background: black;
 	color: green;
+margin:1em;
 }
 .ui-widget-content a {
 	color: black;
         background:green;
         font-family: 'Glass_TTY_VT220';
+
 
 }
 
@@ -950,7 +952,8 @@ a:link.ui-button,
 a:visited.ui-button,
 .ui-button {
 	color: green;
-	text-decoration: none;
+        background:black;
+        font-family: 'Glass_TTY_VT220';
 }
 .ui-state-hover,
 .ui-widget-content .ui-state-hover,
@@ -961,9 +964,9 @@ a:visited.ui-button,
 .ui-button:hover,
 .ui-button:focus {
 	border: 1px solid green;
-	background: black;
-	font-weight: normal;
 	color: green;
+        background:black;
+        font-family: 'Glass_TTY_VT220';
 }
 .ui-state-hover a,
 .ui-state-hover a:hover,
@@ -976,7 +979,8 @@ a:visited.ui-button,
 a.ui-button:hover,
 a.ui-button:focus {
 	color: green;
-	text-decoration: none;
+        background:black;
+        font-family: 'Glass_TTY_VT220';
 }
 
 .ui-visual-focus {
@@ -989,9 +993,9 @@ a.ui-button:active,
 .ui-button:active,
 .ui-button.ui-state-active:hover {
 	border: 1px solid green;
-	background: black;
-	font-weight: normal;
 	color: green;
+        background:black;
+        font-family: 'Glass_TTY_VT220';
 }
 .ui-icon-background,
 .ui-state-active .ui-icon-background {
@@ -1002,7 +1006,9 @@ a.ui-button:active,
 .ui-state-active a:link,
 .ui-state-active a:visited {
 	color: green;
-	text-decoration: none;
+	color: green;
+        background:black;
+        font-family: 'Glass_TTY_VT220';
 }
 
 /* Interaction Cues
