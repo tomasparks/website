@@ -12,25 +12,20 @@ body {
 	background: black;
 	font-family: 'IBM_MDA';
         font-size:xx-large;
-	margin: 0px;
-
 		main {
 			height: auto;
 			min-height: 100%;
                         margin-top: 1em;margin-bottom: 1em;
 			display: block;
-
 			article {
-				color: green;
-				background: black;
-				font-family: 'IBM_MDA';
 				margin: auto;
 				display: block;
 		                     header {
                                              h1 {
-			                      font-family: 'Glass_TTY_VT220';text-align: center;
-			                       color:green; background: black; width: 100%;
-                                               padding:1em;  margin:1em; border:1px; display: block;
+			                      font-family: 'Glass_TTY_VT220';
+                                              text-align: center;
+			                      color:green; background: black;
+                                              padding:1em;  margin:1em; border:1px solid; display: block;
                                               }
 			                     }
 

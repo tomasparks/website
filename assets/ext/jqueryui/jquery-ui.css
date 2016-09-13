@@ -908,8 +908,8 @@ body .ui-tooltip {
 	color: green;
 }
 .ui-widget-content a {
-	color: black;
-        background:green
+	/*color: black;
+        background:green */
         font-family: 'Glass_TTY_VT220';
 
 }
