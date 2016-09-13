@@ -10,7 +10,28 @@ layout: default
     <h1>{{ page.title }}</h1>
 </header>
 {% endif %}
-<div id="tabs">
+<style>
+#tabs-nohdr {
+	padding: 0px;
+	background: none;
+	border-width: 0px;
+}
+#tabs-nohdr .ui-tabs-nav {
+	padding-left: 0px;
+	background: transparent;
+	border-width: 0px 0px 1px 0px;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	border-radius: 0px;
+}
+#tabs-nohdr .ui-tabs-panel {
+	background: #f5f3e5 url(http://code.jquery.com/ui/1.8.23/themes/south-street/images/ui-bg_highlight-hard_100_f5f3e5_1x100.png) repeat-x scroll 50% top;
+	border-width: 0px 1px 1px 1px;
+}
+</style>
+
+
+<div class="tabs" id="tabs-nohdr">
 	<ul>
 		<li><a href="#tabs-1">Main (F2)</a></li>
 		<li><a href="#tabs-2">Meta (F3)</a></li>
