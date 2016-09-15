@@ -17,21 +17,17 @@ Please select one of the options bellow.</div>
 </nav>
     <h1>Just Added:</h1>
 <nav>
-    <ol>
         {% for post in site.posts limit:10 %}
-        <li>
-<table>
-<tr>
-<td style="text-align:left;"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></td>
+<table style="width:100%;">
+<tr style="width:100%;">
+<td style="text-align:left;">{{ forloop.index }}. <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></td>
 <td></td>
 <td style="text-align:right;"><time datetime="{{ post.date  | date_to_xmlschema }}">{{ post.date  | date_to_string }}</time></td>
-</tr><tr >
-<td colspan="3">{{ post.excerpt | strip_html }}</td>
+</tr><tr style="width:100%;"colspan="3">
+<td>{{ post.excerpt | strip_html }}</td>
 </tr>
 <table>
-        </li>
         {% endfor %}
-    </ol>
 </nav>
 </article>
 </main>
