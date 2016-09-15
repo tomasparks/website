@@ -11,8 +11,9 @@ layout: default
         <li>
             <a href="#{{ linksdir.title | slugify }}">{{ linksdir.title }} (F{{ forloop.index }})</a>
         </li>
-	</ul>
+
         {% endfor %}
+	</ul>
         {% for linksdir in site.data.blogroll %}
 <section id="{{ linksdir.title | slugify }}">
 <div>{{ item.description }}</div>
@@ -25,6 +26,7 @@ layout: default
     </ol>
 </section>
         {% endfor %}
+</div>
 </article>
 </main>
 <script>$( "#tabs" ).tabs();
