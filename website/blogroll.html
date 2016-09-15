@@ -1,17 +1,32 @@
 ---
 layout: default
 ---
+{% include jquery-ui.html %}
 <main role="main">
 <article>
 <div></div>
-<nav>
+<div id="tabs">
+	<ul>
+        {% for linksdir in site.data.blogroll %}
+        <li>
+            <a href="#{{ linksdir.title | | slugify }}">{{ linksdir.title }} (F{{ forloop.index+1 }})</a>
+        </li>
+	</ul>
+        {% endfor %}
+        {% for linksdir in site.data.blogroll %}
+<section id="{{ linksdir.title | | slugify }}">
+<div>{{ item.description }}</div>
     <ol>
-        {% for item in site.data.blogroll %}
+        {% for item in site.data.blogroll.linksdir %}
         <li>
             <a href="{{ item.url }}">{{ item.title }}</a>
         </li>
         {% endfor %}
     </ol>
-</nav>
+</section>
+        {% endfor %}
 </article>
 </main>
+<script>$( "#tabs" ).tabs();
+
+</script>

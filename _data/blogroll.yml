@@ -1,5 +1,10 @@
-- title: Delay-Tolerant Networking Research Group (DTNRG)
-  url: https://sites.google.com/site/dtnresgroup/
-
-- title: Website powered by Jekyll
-  url: https://jekyllrb.com/
+- title: Networks
+  description: Networks bla bla bla
+    - title: Delay-Tolerant Networking Research Group (DTNRG)
+      url: https://sites.google.com/site/dtnresgroup/
+- title: websites
+  description: websites bla bla bla
+    - title: Website powered by Jekyll
+      url: https://jekyllrb.com/
+- title: news
+  description: new bla bla bla

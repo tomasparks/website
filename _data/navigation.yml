@@ -4,11 +4,11 @@
 - title: about me
   url: /about-me/
 
-- title: blogroll
-  url: /website/blogroll.html
-
-- title: Reviews
-  url: /reviews/
+- title: Art
+  url: /art/
 
 - title: Open Questions
   url: /questions/
+
+- title: blogroll
+  url: /website/blogroll.html
