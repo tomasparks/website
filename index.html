@@ -23,8 +23,8 @@ Please select one of the options bellow.</div>
 <td style="text-align:left;">{{ forloop.index }}. <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></td>
 <td></td>
 <td style="text-align:right;"><time datetime="{{ post.date  | date_to_xmlschema }}">{{ post.date  | date_to_string }}</time></td>
-</tr><tr style="width:100%;"colspan="3">
-<td>{{ post.excerpt | strip_html }}</td>
+</tr><tr style="width:100%;">
+<td colspan="3">{{ post.excerpt | strip_html }}</td>
 </tr>
 <table>
         {% endfor %}
