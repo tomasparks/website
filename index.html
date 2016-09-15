@@ -7,7 +7,7 @@ layout: default
 Please select one of the options bellow.</div>
 
 <nav>
-    <ol type="A">
+    <ol type="A"  style="display: table-row; color:black; background: green; width: 100%; display: table; ">
         {% for item in site.data.navigation %}
         <li>
             <a href="{{ site.url }}{{ item.url }}">{{ item.title }}</a>
@@ -19,9 +19,9 @@ Please select one of the options bellow.</div>
 <nav>
     <ol>
         {% for post in site.posts limit:10 %}
-        <li>
-<div><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a> <time datetime="{{ post.date  | date_to_xmlschema }}">{{ post.date  | date_to_string }}</time></div>
-<div>{{ post.excerpt | strip_html }}</div>
+        <li style="display: table-row; color:black; background: green; width: 100%; display: table; ">
+<a style="color:black; background: green; display: table-cell; text-align: left;" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a><div style="color:black; background: green; display: table-cell;" /> <time style="color:black; background: green; display: table-cell; text-align: right;" datetime="{{ post.date  | date_to_xmlschema }}">{{ post.date  | date_to_string }}</time></div>
+<!--<div>{{ post.excerpt | strip_html }}</div> -->
         </li>
         {% endfor %}
     </ol>
