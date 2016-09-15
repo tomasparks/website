@@ -9,15 +9,15 @@ layout: default
 	<ul>
         {% for linksdir in site.data.blogroll %}
         <li>
-            <a href="#{{ linksdir.title | | slugify }}">{{ linksdir.title }} (F{{ forloop.index+1 }})</a>
+            <a href="#{{ linksdir.title | slugify }}">{{ linksdir.title }} (F{{ forloop.index }})</a>
         </li>
 	</ul>
         {% endfor %}
         {% for linksdir in site.data.blogroll %}
-<section id="{{ linksdir.title | | slugify }}">
+<section id="{{ linksdir.title | slugify }}">
 <div>{{ item.description }}</div>
     <ol>
-        {% for item in site.data.blogroll.linksdir %}
+        {% for item in site.data.blogroll.linksdir.links %}
         <li>
             <a href="{{ item.url }}">{{ item.title }}</a>
         </li>
