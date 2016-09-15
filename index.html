@@ -22,11 +22,11 @@ Please select one of the options bellow.</div>
         <li>
 <table>
 <tr>
-<td><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></td>
-<td />
-<td><time datetime="{{ post.date  | date_to_xmlschema }}">{{ post.date  | date_to_string }}</time></td>
+<td style="text-align:left;"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></td>
+<td></td>
+<td style="text-align:right;"><time datetime="{{ post.date  | date_to_xmlschema }}">{{ post.date  | date_to_string }}</time></td>
 </tr><tr >
-<td>{{ post.excerpt | strip_html }}</td>
+<td colspan="3">{{ post.excerpt | strip_html }}</td>
 </tr>
 <table>
         </li>
