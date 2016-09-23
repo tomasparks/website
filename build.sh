@@ -17,4 +17,4 @@ git commit -a -m "updating static website."
 git push
 
 
-wget --spider -r --delete-after -P "/tmp/" -e robots=off https://tomasparks.github.io/
+#wget --spider -r --delete-after -P "/tmp/" -e robots=off https://tomasparks.github.io/
