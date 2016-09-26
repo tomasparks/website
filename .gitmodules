@@ -1,3 +1,24 @@
 [submodule "assets/js/Imager.js"]
 	path = assets/js/Imager.js
 	url = git@github.com:BBC-News/Imager.js.git
+[submodule "assets/ext/x3dom"]
+	path = assets/ext/x3dom
+	url = git@github.com:x3dom/x3dom.git
+[submodule "assets/ext/Imager.js"]
+	path = assets/ext/Imager.js
+	url = git@github.com:BBC-News/Imager.js.git
+[submodule "assets/ext/spritespin"]
+	path = assets/ext/spritespin
+	url = git@github.com:giniedp/spritespin.git
+[submodule "assets/ext/openseadragon"]
+	path = assets/ext/openseadragon
+	url = git@github.com:openseadragon/openseadragon.git
+[submodule "assets/ext/fancyBox"]
+	path = assets/ext/fancyBox
+	url = git@github.com:fancyapps/fancyBox.git
+[submodule "assets/ext/jquery-ui"]
+	path = assets/ext/jquery-ui
+	url = git@github.com:jquery/jquery-ui.git
+[submodule "assets/ext/jquery"]
+	path = assets/ext/jquery
+	url = git@github.com:jquery/jquery.git
