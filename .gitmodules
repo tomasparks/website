@@ -4,9 +4,6 @@
 [submodule "assets/ext/spritespin"]
 	path = assets/ext/spritespin
 	url = git@github.com:giniedp/spritespin.git
-[submodule "assets/ext/openseadragon"]
-	path = assets/ext/openseadragon
-	url = git@github.com:openseadragon/openseadragon.git
 [submodule "assets/ext/fancyBox"]
 	path = assets/ext/fancyBox
 	url = git@github.com:fancyapps/fancyBox.git
