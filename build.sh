@@ -20,10 +20,3 @@ git push
 #wget --spider -r --delete-after -P "/tmp/" -e robots=off https://tomasparks.github.io/
 
 
-java -jar bfg.jar --delete-folders fancyBox
-java -jar bfg.jar --delete-folders jquery-ui
-java -jar bfg.jar --delete-folders jquery
-java -jar bfg.jar --delete-folders openseadragon
-java -jar bfg.jar --delete-folders spritespin
-git reflog expire --expire=now --all && git gc --prune=now --aggressive
-
