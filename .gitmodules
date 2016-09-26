@@ -1,9 +1,3 @@
-[submodule "assets/js/Imager.js"]
-	path = assets/js/Imager.js
-	url = git@github.com:BBC-News/Imager.js.git
-[submodule "assets/ext/x3dom"]
-	path = assets/ext/x3dom
-	url = git@github.com:x3dom/x3dom.git
 [submodule "assets/ext/Imager.js"]
 	path = assets/ext/Imager.js
 	url = git@github.com:BBC-News/Imager.js.git
