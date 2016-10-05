@@ -4,6 +4,8 @@ title:  "Rembering Battlezone 98"
 date:   2016-08-08
 categories: gaming rts fps
 image: battlezone.jpg
+image-website: https://www.mobygames.com/game/windows/battlezone/cover-art/gameCoverId,27365/
+image-author: Moby Games
 ---
 <iframe title="YouTube video player" class="youtube-player" type="text/html" 
 width="640" height="390" src="https://www.youtube.com/embed/QFmW6e-N288"

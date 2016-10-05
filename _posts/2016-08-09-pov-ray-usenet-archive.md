@@ -2,6 +2,9 @@
 layout: post
 title:  "Pov-Ray Usenet Archiving"
 date:   2016-08-09
+image: Povray_logo_sphere.png
+image-website: https://commons.wikimedia.org/wiki/File:Povray_logo_sphere.png
+image-author: SharkD
 categories: compression archiving dtn
 tags: ZPAQ zpaq backup archive archiving dtn usenet
 ---
