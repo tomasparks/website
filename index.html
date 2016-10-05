@@ -17,8 +17,8 @@ Please select one of the options bellow.</div>
 </nav>
     <h1>Just Added:</h1>
 <nav>
-        {% for post in site.posts limit:10 %}
 <table style="width:100%;">
+        {% for post in site.posts limit:10 %}
 <tr style="width:100%;">
 <td style="text-align:left;">{{ forloop.index }}. <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></td>
 <td></td>
@@ -26,8 +26,9 @@ Please select one of the options bellow.</div>
 </tr><tr style="width:100%;">
 <td colspan="3">{{ post.excerpt | strip_html }}</td>
 </tr>
-<table>
+
         {% endfor %}
+</table>
 </nav>
 </article>
 </main>
