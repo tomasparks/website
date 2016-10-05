@@ -19,10 +19,10 @@ Please select one of the options bellow.</div>
     <h1>Just Added:</h1>
 <nav>
 <table style="width:100%;">
-<tr style="color: black;background: green;width:100%;"><td style="text-align:left;">title</td><td></td><td style="text-align:right;">Date & Time</td></tr>
+<tr style="font-family: 'Glass_TTY_VT220';color: black;background: green;width:100%;margin-bottom: 0.5em;"><td style="text-align:left;">Title</td><td></td><td style="text-align:right;">Date (YYYY/MM/DD) & Time</td></tr>
 {% for post in site.posts limit:10 %}
 <tr style="width:100%;">
-<td style="text-align:left;">{{ forloop.index }}. <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></td>
+<td style="text-align:left;">{{ forloop.index }}. <a style="font-family: 'Glass_TTY_VT220';color: black;background: green;" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></td>
 <td></td>
 <td style="text-align:right;"><time datetime="{{ post.date  | date_to_xmlschema }}">{{ post.date  | date_to_string }}</time></td>
 </tr><tr style="width:100%;">
