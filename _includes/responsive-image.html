@@ -1,4 +1,5 @@
 {% assign smallest = resized | sort: 'width' | first %}
+<!-- start of responsive image -->
 <div class="responsive-image">
     <img class="responsive-image__placeholder" src="{{ site.url }}/{{ smallest.path }}">
     <div class="responsive-image__delayed" data-src="{{ site.url }}/assets/resized/{width}/{{ original.basename }}"></div>
@@ -13,3 +14,4 @@
         }
     });
 </script>
+<!-- end of responsive image -->
