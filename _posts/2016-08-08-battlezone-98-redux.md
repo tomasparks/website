@@ -9,8 +9,6 @@ image: battlezone.jpg
 width="640" height="390" src="https://www.youtube.com/embed/QFmW6e-N288"
 frameborder="0" allowFullScreen></iframe>
 
-# Rembering battlezone 98 #
-
 * I bought battlezone in the late 1990s or early 2000s it was in a DVD case for about AU$10
 * I was able to get to Venus[^1][^2]
 
