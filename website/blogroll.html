@@ -8,11 +8,28 @@ layout: default
 <div id="tabs">
 	<ul>
         <li><a href="#linux">linux (F2)</a></li>
+        <li><a href="#music">Music (F3)</a></li>
+        <li><a href="#networks">Networks (F4)</a></li>
+        <li><a href="#podcast">Podcast (F5)</a></li>
+        <li><a href="#software">Software (F6)</a></li>
+        <li><a href="#tech_news">Tech News (F7)</a></li>
+        <li><a href="#websites">Websites (F8)</a></li>
 	</ul>
 <section id="linux">
 <div>{{ site.data.blogroll.linux.description }}</div>
     <ol>
         {% for item in site.data.blogroll.linux.links %}
+        <li>
+            <a href="{{ item.url }}">{{ item.title }}</a>
+        </li>
+        {% endfor %}
+    </ol>
+</section>
+
+<section id="music">
+<div>{{ site.data.blogroll.music.description }}</div>
+    <ol>
+        {% for item in site.data.blogroll.music.links %}
         <li>
             <a href="{{ item.url }}">{{ item.title }}</a>
         </li>
