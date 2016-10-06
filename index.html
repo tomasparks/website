@@ -10,7 +10,7 @@ Please select one of the options bellow.</div>
     <ol type="A">
         {% for item in site.data.navigation %}
         <li>
-            <a href="{{ site.url }}{{ item.url }}">{{ item.title }}</a>
+            <a style="border: 1px;padding: 1px;font-family: 'Glass_TTY_VT220';color: black;background: green;" href="{{ site.url }}{{ item.url }}">{{ item.title }}</a>
         </li>
         {% endfor %}
     </ol>
@@ -22,7 +22,7 @@ Please select one of the options bellow.</div>
 <tr style="font-family: 'Glass_TTY_VT220';color: black;background: green;width:100%;"><td style="text-align:left;">Title</td><td></td><td style="text-align:right;">Date</td></tr>
 {% for post in site.posts limit:10 %}
 <tr style="width:100%;">
-<td style="text-align:left;">{{ forloop.index }}. <a style="overflow:hidden;font-family: 'Glass_TTY_VT220';color: black;background: green;" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></td>
+<td style="text-align:left;">{{ forloop.index }}. <a style="border: 1px;padding: 1px;font-family: 'Glass_TTY_VT220';color: black;background: green;" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></td>
 <td></td>
 <td style="text-align:right;"><time datetime="{{ post.date  | date_to_xmlschema }}">{{ post.date  | date_to_string }}</time></td>
 </tr><tr style="width:100%;">
