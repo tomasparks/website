@@ -7,25 +7,18 @@ layout: default
 <div></div>
 <div id="tabs">
 	<ul>
-        {% for linksdir in site.data.blogroll %}
-        <li>
-            <a href="#{{ linksdir.title | slugify }}">{{ linksdir.title }} (F{{ forloop.index }})</a>
-        </li>
-
-        {% endfor %}
+        <li><a href="#linux">linux (F2)</a></li>
 	</ul>
-        {% for linksdir in site.data.blogroll %}
-<section id="{{ linksdir.title | slugify }}">
-<div>{{ item.description }}</div>
+<section id="linux">
+<div>{{ site.data.blogroll.linux.description }}</div>
     <ol>
-        {% for item in site.data.blogroll.linksdir.links %}
+        {% for item in site.data.blogroll.linux.links %}
         <li>
             <a href="{{ item.url }}">{{ item.title }}</a>
         </li>
         {% endfor %}
     </ol>
 </section>
-        {% endfor %}
 </div>
 </article>
 </main>
