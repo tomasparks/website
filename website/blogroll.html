@@ -86,8 +86,7 @@ layout: default
     <ol>
         {% for item in site.data.blogroll.podcast.links %}
         <li>
-            <a href="{{ item.url }}">{{ item.title }}</a><br />
-            <a href="{{ item.rss }}"><i class="fa fa-rss"></i></a>
+            <a href="{{ item.url }}">{{ item.title }}</a> ( <a href="{{ item.rss }}"><i class="fa fa-rss"></i></a> )
         </li>
         {% endfor %}
     </ol>
