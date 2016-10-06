@@ -36,6 +36,63 @@ layout: default
         {% endfor %}
     </ol>
 </section>
+
+<section id="networks">
+<div>{{ site.data.blogroll.networks.description }}</div>
+    <ol>
+        {% for item in site.data.blogroll.networks.links %}
+        <li>
+            <a href="{{ item.url }}">{{ item.title }}</a>
+        </li>
+        {% endfor %}
+    </ol>
+</section>
+
+<section id="software">
+<div>{{ site.data.blogroll.software.description }}</div>
+    <ol>
+        {% for item in site.data.blogroll.software.links %}
+        <li>
+            <a href="{{ item.url }}">{{ item.title }}</a>
+        </li>
+        {% endfor %}
+    </ol>
+</section>
+
+<section id="tech_news">
+<div>{{ site.data.blogroll.tech_news.description }}</div>
+    <ol>
+        {% for item in site.data.blogroll.tech_news.links %}
+        <li>
+            <a href="{{ item.url }}">{{ item.title }}</a>
+        </li>
+        {% endfor %}
+    </ol>
+</section>
+
+<section id="websites">
+<div>{{ site.data.blogroll.websites.description }}</div>
+    <ol>
+        {% for item in site.data.blogroll.websites.links %}
+        <li>
+            <a href="{{ item.url }}">{{ item.title }}</a>
+        </li>
+        {% endfor %}
+    </ol>
+</section>
+
+<section id="podcast">
+<div>{{ site.data.blogroll.podcast.description }}</div>
+    <ol>
+        {% for item in site.data.blogroll.podcast.links %}
+        <li>
+            <a href="{{ item.url }}">{{ item.title }}</a><br />
+            <a href="{{ item.rss }}"><i class="fa fa-rss"></i></a>
+        </li>
+        {% endfor %}
+    </ol>
+</section>
+
 </div>
 </article>
 </main>
