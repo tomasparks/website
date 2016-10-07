@@ -37,25 +37,23 @@ body {
 								-webkit-border-radius: 0px;
 								border-radius: 0px;
 							}
-ui-tabs-panel {
-			height: auto;
-			min-height: 100%;
-	border-width: 0px 1px 1px 1px;
-        padding: 1em 2em;
+						ui-tabs-panel {
+								height: auto;
+								min-height: 100%;
+								border-width: 0px 1px 1px 1px;
+								padding: 1em 2em;
 
- a {
-	font-family: $secondary_text;
-	color: $black;
-	background: $green;
-}
-}
-}
-
-
-
-                                  nav {table{width:100%;}} 
-                                  a {font-family: $secondary_text; padding: 2px;}
-		                     header {
+								a {
+									font-family: $secondary_text;
+									color: $black;
+									background: $green;
+								}
+							}
+					}
+					nav {table{width:100%;}} 
+                                 		a {font-family: $secondary_text;;color: $green; background: $black;}
+					}
+					header {
                                              h1 {
 	font-family: $secondary_text;
 	text-align:center;
