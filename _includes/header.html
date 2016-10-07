@@ -48,27 +48,23 @@ body::before {
 </head>
 
 <body style="padding: 5px;">
-<header style="display: table-row; color:black; background: green; width: 100%; display: table;" >
-<div style="color:black; background: green; display: table-row">
-        <div style="color:black; background: green; display: table-cell; text-align: left;">
+<header style="" >
+<table style="width:100%;">
+<tr style="font-family: 'Glass_TTY_VT220';color: black;background: green;width:100%;">
+<td style="text-align:left;">
 <script type="text/javascript"><!--
 var now = new Date();
 var Month = new Array("JAN","FEB","MAR","APR","MAY","JUN","JUL","AUG","SEP","OCT","NOV","DEC");
 document.write(now.getDate()+" "+Month[now.getMonth()]+" "+now.getFullYear());
-//--></script>
-</div>
-        <div style="color:black; background: green; display: table-cell;"><a style="color:black; background: green;" href="{{ site.url }}">{{ site.name }}</a></div>
-        <div style="color:black; background: green; display: table-cell; text-align: right;">
-<script type="text/javascript"><!--
+//--></script></td>
+<td><a style="" href="{{ site.url }}">{{ site.name }}</a></td>
+<td style="text-align:right;" ><script type="text/javascript"><!--
 var date_format = '12'; /* FORMAT CAN BE 12 hour (12) OR 24 hour (24)*/
-
-
 var d 		= new Date();
 var hour 	= d.getHours();  /* Returns the hour (from 0-23) */
 var minutes     = d.getMinutes();  /* Returns the minutes (from 0-59) */
 var result 	= hour;
 var ext 	= '';
-
 if(date_format == '12'){
 	if(hour > 12){
 		ext = 'PM';
@@ -88,18 +84,11 @@ if(date_format == '12'){
 		ext = 'PM';
 	}
 }
-
 if(minutes < 10){
 	minutes = "0" + minutes; 
 }
-
 result = result + ":" + minutes + ' ' + ext; 
-
 document.write(result);
-
-
-
-//--></script>
-</div>
-</div>
+//--></script></td></tr>
+</table>
 </header>
