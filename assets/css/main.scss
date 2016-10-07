@@ -9,7 +9,7 @@ $secondary_text: Glass_TTY_VT220;
 
 
 body { color: $green;background: $black; position: relative;font-family: $main_text;font-size:xx-large;padding:5px;
-                a {color: $black;background: $green;margin:5px}
+                a {color: $black;background: $green;padding: 2px;}
                 header {table {width:100%;color: $black;background: $green;}}
 		  main {
 			height: auto;
@@ -31,9 +31,10 @@ body { color: $green;background: $black; position: relative;font-family: $main_t
 			article {
 				margin: auto;
 				display: block;
+                                     a {font-family:$secondary_text; }
 		                     header {
                                              h1 {
-	font-family:'Glass_TTY_VT220';
+	font-family:$secondary_text;
 	text-align:center;
 	color:$green;
 	background:$black;
@@ -45,7 +46,7 @@ body { color: $green;background: $black; position: relative;font-family: $main_t
 			                     }
 
                                              h1,h2,h3,h4,h5,h6 {
-	font-family:'Glass_TTY_VT220';
+	font-family:$secondary_text;
 	text-align:center;
 	color:$green;
 	background:$black;
@@ -63,7 +64,7 @@ body { color: $green;background: $black; position: relative;font-family: $main_t
 							line-height:     0;
 							}
 
-						hr:after {color: green;background: black;
+						hr:after {color: $green;background: $black;
 								content:         "---------------------------------------";
 								}
 				}
