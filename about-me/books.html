@@ -7,7 +7,7 @@ title: books
 {% assign sortedebooks = site.data.ebooks | sort: 'title_sort'%}
 {% for ebooks in sortedebooks  %}
 {% assign pub_details = site.data.bookpub[ebooks.publisher] %}
-
+<!-- {{pub_details}} -->
 <li>
 <a href="{% if ebooks.website %}{{ ebooks.website }}{% else %}{{ pub_details.search }}{{ ebooks.isbn }}{% endif %}">{{ ebooks.title }} {% if ebooks.series<>"" %} ({{ ebooks.series_index }} of {{ ebooks.series}} ) {% endif %}</a><br />
 Author: {{ ebooks.authors }}<br />
@@ -15,7 +15,6 @@ ISBN: {{ ebooks.isbn}}<br />
 pubdate: {{ ebooks.pubdate | date_to_long_string}}<br />
 publisher: {{ ebooks.publisher}}<br />
 {% if ebooks.website %} website: {{ ebooks.website }} {% endif %}
-tags: {{ ebooks.tags}}<br />
 </li>
 
 
