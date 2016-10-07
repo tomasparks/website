@@ -22,7 +22,7 @@ Please select one of the options bellow.</div>
 {% for post in site.posts limit:10 %}
 <tr>
 <td>{{ forloop.index }}. <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></td>
-<td></td>
+<td>{{post.tags}}</td>
 <td><time datetime="{{ post.date  | date_to_xmlschema }}">{{ post.date  | date_to_string }}</time></td>
 </tr><tr>
 <td colspan="3">{{ post.excerpt | strip_html }}</td>
