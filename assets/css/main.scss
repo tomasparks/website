@@ -28,6 +28,32 @@ body {
 			 article {
 				  margin: auto;display: block;
 
+
+
+tabs {padding: 0.5em; background: none; border-width: 0px;
+ui-tabs-nav {	font-family: $secondary_text; 	padding-left: 5px;
+	background: transparent;
+	border-width: 0px 0px 1px 0px;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	border-radius: 0px;
+}
+ui-tabs-panel {
+			height: auto;
+			min-height: 100%;
+	border-width: 0px 1px 1px 1px;
+        padding: 1em 2em;
+
+ a {
+	font-family: $secondary_text;
+	color: $black;
+	background: $green;
+}
+}
+}
+
+
+
                                   nav {table{width:100%;}} 
                                   a {font-family: $secondary_text; padding: 2px;}
 		                     header {
@@ -97,12 +123,13 @@ body::before {
   background-size: 100% 2px, 3px 100%;
   pointer-events: none;
 }
-#tabs {
+
+body main article tabs {
 	padding: 0.5em;
 	background: none;
 	border-width: 0px;
 }
-#tabs .ui-tabs-nav {
+body main article tabs ui-tabs-nav {
 	font-family: $secondary_text; 
 	padding-left: 5px;
 	background: transparent;
@@ -111,13 +138,13 @@ body::before {
 	-webkit-border-radius: 0px;
 	border-radius: 0px;
 }
-#tabs .ui-tabs-panel {
+body main article tabs ui-tabs-panel {
 			height: auto;
 			min-height: 100%;
 	border-width: 0px 1px 1px 1px;
         padding: 1em 2em;
 }
-#tabs .ui-tabs-panel a {
+body main article tabs ui-tabs-panel a {
 	font-family: $secondary_text;
 	color: $black;
 	background: $green;
