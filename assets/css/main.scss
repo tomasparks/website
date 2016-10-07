@@ -9,7 +9,7 @@ $secondary_text: Glass_TTY_VT220;
 
 
 body {
-       color: $green;background: $black; position: relative;font-family: $main_text;font-size:xx-large;padding:5px;
+       color: $green;background: $black; position: relative;font-family: $main_text; font-size:xx-large;padding:5px;
                 a {
                     color: $black; background: $green; padding: 2px;
                   }
@@ -22,19 +22,19 @@ body {
 			 height: auto;min-height: 100%;margin-top: 1em;margin-bottom: 1em;display: block;
                          header {
                                  h1 {
-	                              font-family:$secondary_text;text-align:center;color:$green;background:$black;padding:1em;margin:1em;border:1px solid;display:block
+	                              font-family: $secondary_text; text-align:center; color: $green; background: $black; padding:1em;margin:1em;border:1px solid;display:block
                                      }
 			         }
 			 article {
 				  margin: auto;display: block;
                                   nav {table{width:100%;}} 
-                                  a {font-family:$secondary_text;}
+                                  a {font-family: $secondary_text; padding: 2px;}
 		                     header {
                                              h1 {
-	font-family:$secondary_text;
+	font-family: $secondary_text;
 	text-align:center;
-	color:$green;
-	background:$black;
+	color: $green;
+	background: $black;
 	/*! width:100%; */padding:1em;
 	margin:1em;
 	border:1px solid;
@@ -43,10 +43,10 @@ body {
 			                     }
 
                                              h1,h2,h3,h4,h5,h6 {
-	font-family:$secondary_text;
+	font-family: $secondary_text;
 	text-align:center;
 	color:$green;
-	background:$black;
+	background: $black;
 	/*! width:100%; */padding:1em;
 	margin:1em;
 	border:1px solid;
@@ -61,7 +61,7 @@ body {
 							line-height:     0;
 							}
 
-						hr:after {color: $green;background: $black;
+						hr:after {color: $green; background: $black;
 								content:         "---------------------------------------";
 								}
 				}
