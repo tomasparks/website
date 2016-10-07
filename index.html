@@ -18,13 +18,13 @@ Please select one of the options bellow.</div>
     <h1>Just Added:</h1>
 <nav>
 <table>
-<tr><td>Title</td><td></td><td">Date</td></tr>
+<tr style="color: $black; background: $green;font-family:$secondary_text;"><td>Title</td><td></td><td>Date</td></tr>
 {% for post in site.posts limit:10 %}
 <tr>
 <td>{{ forloop.index }}. <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></td>
 <td></td>
 <td><time datetime="{{ post.date  | date_to_xmlschema }}">{{ post.date  | date_to_string }}</time></td>
-</tr><tr style="width:100%;">
+</tr><tr>
 <td colspan="3">{{ post.excerpt | strip_html }}</td>
 </tr>{% endfor %}
 </table>
