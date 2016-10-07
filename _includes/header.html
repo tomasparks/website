@@ -14,52 +14,21 @@
 {% seo %}
 </head>
 
-<body>
+<body style="padding: 5px;">
 <header style="display: table-row; color:black; background: green; width: 100%; display: table;" >
 <div style="color:black; background: green; display: table-row">
         <div style="color:black; background: green; display: table-cell; text-align: left;">
 <script type="text/javascript"><!--
 var now = new Date();
 var Month = new Array("JAN","FEB","MAR","APR","MAY","JUN","JUL","AUG","SEP","OCT","NOV","DEC");
-document.write(now.getDate()+" "+Month[now.getMonth()]+" "+now.getFullYear());
-//--></script>
+document.write(now.getDate()+" "+Month[now.getMonth()]+" "+now.getFullYear());//--></script>
 </div>
         <div style="color:black; background: green; display: table-cell;"><a style="color:black; background: green;" href="{{ site.url }}">{{ site.name }}</a></div>
         <div style="color:black; background: green; display: table-cell; text-align: right;">
-<script type="text/javascript"><!--
-var a_p = "";
-var d = new Date();
-var curr_hour = d.getHours();
-if (curr_hour < 12)
-   {
-   a_p = "am";
-   }
-else
-   {
-   a_p = "pm";
-   }
-if (curr_hour == 0)
-   {
-   curr_hour = 12;
-   }
-if (curr_hour > 12)
-   {
-   curr_hour = curr_hour - 12;
-   }
-
-var curr_min = d.getMinutes();
-
-curr_min = curr_min + "";
-
-if (curr_min.length == 1)
-   {
-   curr_min = "0" + curr_min;
-   }
-
-document.write(curr_hour + ":" + curr_min + "" + a_p);
-
+<script type="text/javascript"><!--var a_p = "";var d = new Date();
+var curr_hour = d.getHours();if (curr_hour < 12){a_p = "am";}else{a_p = "pm";}if (curr_hour == 0){curr_hour = 12;}if (curr_hour > 12){curr_hour = curr_hour - 12;}
+var curr_min = d.getMinutes();curr_min = curr_min + "";if (curr_min.length == 1){curr_min = "0" + curr_min;}document.write(curr_hour + ":" + curr_min + "" + a_p);
  //--></script>
-
 </div>
 </div>
 </header>

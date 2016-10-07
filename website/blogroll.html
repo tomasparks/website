@@ -13,7 +13,8 @@ layout: default
         <li><a href="#podcast"><i class="fa fa-rss-square" aria-hidden="true"></i> Podcast (F5)</a></li>
         <li><a href="#software">Software (F6)</a></li>
         <li><a href="#tech_news"><i class="fa fa-newspaper-o" aria-hidden="true"></i> Tech News (F7)</a></li>
-        <li><a href="#websites">Websites (F8)</a></li>
+        <li><a href="#videos"><i class="fa fa-video-camera" aria-hidden="true"></i> Videos (F8)</a></li>
+        <li><a href="#websites">Websites (F9)</a></li>
 	</ul>
 <section id="linux">
 <div>{{ site.data.blogroll.linux.description }}</div>
@@ -76,6 +77,17 @@ layout: default
         {% for item in site.data.blogroll.websites.links %}
         <li>
             <a href="{{ item.url }}">{{ item.title }}</a>
+        </li>
+        {% endfor %}
+    </ol>
+</section>
+
+<section id="videos">
+<div>{{ site.data.blogroll.videos.description }}</div>
+    <ol>
+        {% for item in site.data.blogroll.videos.links %}
+        <li>
+           <i class="fa fa-{{ item.loc }}" aria-hidden="true"></i> <a href="{{ item.url }}">{{ item.title }}</a>
         </li>
         {% endfor %}
     </ol>
