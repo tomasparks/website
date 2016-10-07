@@ -1,4 +1,4 @@
-#calibredb catalog /home/tom/blog/_data/ebooks.csv --sort-by title_sort --fields=author_sort,authors,title_sort,title,isbn,pubdate,publisher,series,series_index,#website --verbose
+calibredb catalog /home/tom/blog/_data/ebooks.csv --sort-by title_sort --fields=author_sort,authors,title_sort,title,isbn,pubdate,publisher,series,series_index,#website --verbose
 
 #bundle update
 

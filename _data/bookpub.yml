@@ -1,3 +1,8 @@
-- name: Packt Publishing
-  url: https://www.packtpub.com/
-  search: https://www.packtpub.com/all?search=
+Packt Publishing:
+    name: Packt Publishing
+    url: https://www.packtpub.com/
+    search: https://www.packtpub.com/all?search=
+O'Reilly Media:
+    name: O'Reilly Media
+    url: http://www.oreilly.com/
+    search: http://ssearch.oreilly.com/?q=
