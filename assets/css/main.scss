@@ -5,11 +5,10 @@
 $black: #121010;
 $green: green;
 $main_text: IBM_MDA;
-$secondary_text: Glass_TTY_VT220
+$secondary_text: Glass_TTY_VT220;
 
 
-body {
-      color: $green;background: $black; position: relative;font-family: '$main_text';font-size:xx-large;
+body { color: $green;background: $black; position: relative;font-family: '$main_text';font-size:xx-large;
                 header {
                         table {
                                font-family: '$main_text';color: $black;background: $green; 
