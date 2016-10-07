@@ -50,44 +50,43 @@ body {
 								}
 							}
 					}
-					nav {table{width:100%;}} 
-                                 		a {font-family: $secondary_text;;color: $green; background: $black;}
+					nav {table{width:100%;}
+                                 		a {font-family: $secondary_text;color: $green; background: $black;}
 					}
 					header {
-                                             h1 {
-	font-family: $secondary_text;
-	text-align:center;
-	color: $green;
-	background: $black;
-	/*! width:100%; */padding:1em;
-	margin:1em;
-	border:1px solid;
-	display:block
-                                              }
-			                     }
+						h1 {
+							font-family: $secondary_text;
+							text-align:center;
+							color: $green;
+							background: $black;
+							padding:1em;
+							margin:1em;
+							border:1px solid;
+							display:block
+						}
+					}
+					h1,h2,h3,h4,h5,h6 {
+								font-family: $secondary_text;
+								text-align:center;
+								color:$green;
+								background: $black;
+								padding:1em;
+								margin:1em;
+								border:1px solid;
+								display:block
+					}
+					hr {
+						text-align:      center;
+						border:          none;
+						padding: 2em;
+						height:          0;
+						line-height:     0;
+					}
 
-                                             h1,h2,h3,h4,h5,h6 {
-	font-family: $secondary_text;
-	text-align:center;
-	color:$green;
-	background: $black;
-	/*! width:100%; */padding:1em;
-	margin:1em;
-	border:1px solid;
-	display:block
-                                              }
-
-						hr {
-							text-align:      center;
-							border:          none;
-							padding: 2em;
-							height:          0;
-							line-height:     0;
-							}
-
-						hr:after {color: $green; background: $black;
-								content:         "---------------------------------------";
-								}
+					hr:after {
+							color: $green; background: $black;
+							content:         "---------------------------------------";
+					}
 				}
 		}
 	}
