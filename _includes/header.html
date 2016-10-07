@@ -27,14 +27,45 @@ document.write(now.getDate()+" "+Month[now.getMonth()]+" "+now.getFullYear());
         <div style="color:black; background: green; display: table-cell;"><a style="color:black; background: green;" href="{{ site.url }}">{{ site.name }}</a></div>
         <div style="color:black; background: green; display: table-cell; text-align: right;">
 <script type="text/javascript"><!--
-var a_p = "";var d = new Date();var curr_hour = d.getHours();
-if (curr_hour < 12){a_p = "am";}else{a_p = "pm";}
-if (curr_hour == 0){curr_hour = 12;}
-if (curr_hour > 12){curr_hour = curr_hour - 12;}
-var curr_min = d.getMinutes();
-curr_min = curr_min + "";
-if (curr_min.length == 1){curr_min = "0" + curr_min;}
-document.write(curr_hour + ":" + curr_min + "" + a_p);
+var date_format = '12'; /* FORMAT CAN BE 12 hour (12) OR 24 hour (24)*/
+
+
+var d 		= new Date();
+var hour 	= d.getHours();  /* Returns the hour (from 0-23) */
+var minutes     = d.getMinutes();  /* Returns the minutes (from 0-59) */
+var result 	= hour;
+var ext 	= '';
+
+if(date_format == '12'){
+	if(hour > 12){
+		ext = 'PM';
+		hour = (hour - 12);
+	
+		if(hour < 10){
+			result = "0" + hour;
+		}else if(hour == 12){
+			hour = "00";
+			ext = 'AM';
+		}
+	}
+	else if(hour < 12){
+		result = ((hour < 10) ? "0" + hour : hour);
+		ext = 'AM';
+	}else if(hour == 12){
+		ext = 'PM';
+	}
+}
+
+if(minutes < 10){
+	minutes = "0" + minutes; 
+}
+
+result = result + ":" + minutes + ' ' + ext; 
+
+document.write(result);
+
+
+
 //--></script>
 </div>
 </div>
