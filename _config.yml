@@ -115,6 +115,10 @@ sass:
 
 
 collections:
+  projects:
+    layout: page
+    output: true
+    permalink: /projects/:name.html
   computers:
     layout: page
     output: true
