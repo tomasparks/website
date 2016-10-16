@@ -115,10 +115,18 @@ sass:
 
 
 collections:
-  projects:
+  projects_minecraft:
     layout: page
     output: true
-    permalink: /projects/:name.html
+    permalink: /projects/minecraft/:name.html
+  projects_X3D:
+    layout: page
+    output: true
+    permalink: /projects/X3D/:name.html
+  projects_Lego:
+    layout: page
+    output: true
+    permalink: /projects/lego/:name.html
   computers:
     layout: page
     output: true
