@@ -118,7 +118,7 @@ collections:
   projects:
     layout: page
     output: true
-    permalink: /projects/:path/:name.:output_ext
+    permalink: /projects/:name.html
   computers:
     layout: page
     output: true
