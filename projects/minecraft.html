@@ -1,0 +1,10 @@
+---
+layout: page
+title:minecraft themepark
+---
+{% for minecraft in site.minecraft %}
+  <div class="cookie">
+    <h2>{{minecraft.date }}</h2>
+    {{ minecraft.content }}
+  </div>
+{% endfor %}
