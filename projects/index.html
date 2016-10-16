@@ -7,7 +7,7 @@ title: Projects
 
 <nav>
 <ol>
-{% assign sortedprojects = site.projects | sort: 'title' %}
+{% assign sortedprojects = site.projects_minecraft | sort: 'title' %}
 {% for projects in sortedprojects %}
 {% if projects.title != 'projects' %}
 	<li><a href="{{ projects.url }}">{{projects.title}}</a></li>
