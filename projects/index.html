@@ -9,7 +9,7 @@ title: Projects
 <ol>
 {% assign sortedprojects = site.projects | sort: 'title' %}
 {% for projects in sortedprojects %}
-{% if questions.title != 'projects' %}
+{% if projects.title != 'projects' %}
 	<li><a href="{{ projects.url }}">{{projects.title}}</a></li>
 {% endif %}
 {% endfor %}
