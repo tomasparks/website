@@ -2,7 +2,9 @@
 layout: page
 title: minecraft themepark
 ---
+{% assign sortedminecraft = site.minecraft | sort: 'date'%}
 {% for minecraft in site.minecraft %}
     <h2>{{minecraft.date }}</h2>
+Status: {{minecraft.Status }}<br />
     {{ minecraft.content }}
 {% endfor %}
