@@ -7,12 +7,8 @@ title: Projects
 
 <nav>
 <ol>
-{% assign sortedprojects = site.minecraft | sort: 'title' %}
-{% for projects in sortedprojects %}
-{% if projects.title != 'projects' %}
-	<li><a href="{{ projects.url }}">{{projects.title}}</a></li>
-{% endif %}
-{% endfor %}
+
+	<li><a href="/projects/miecraft.html">minecraft</a></li>
 </ol>
 </nav>
 </article>
