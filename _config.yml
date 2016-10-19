@@ -116,6 +116,8 @@ sass:
 
 collections:
   minecraft:
+    layout: page
+    output: true
     permalink: /projects/minecraft/:name.html
   X3D:
     layout: page
