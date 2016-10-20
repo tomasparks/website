@@ -2,10 +2,10 @@
 layout: page
 title: minecraft themepark
 ---
-{% assign sortedminecraft = site.minecraft | sort: 'date'%}
+{% assign sortedminecraft = site.minecraft | sort: 'date' | reverse %}
 {% for minecraft in site.minecraft %}
-    <h2>{{minecraft.date }}</h2>
-Status: {{minecraft.Status }}<br />
+    <h2>{{minecraft.date | date_to_long_string }}</h2>
+Status: {{minecraft.status }}<br />
 {% if minecraft.image %}
 <div id="image_post" style="padding:1em;margin:1em;float:left;border:1px solid;">
 {% responsive_image_block %}
