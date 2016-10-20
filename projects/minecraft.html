@@ -3,7 +3,7 @@ layout: page
 title: minecraft themepark
 ---
 {% assign sortedminecraft = site.minecraft | sort: 'date' | reverse %}
-{% for minecraft in site.minecraft %}
+{% for minecraft in sortedminecraft %}
     <h2>{{minecraft.date | date_to_long_string }}</h2>
 Status: {{minecraft.status }}<br />
 {% if minecraft.image %}
