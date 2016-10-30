@@ -17,15 +17,15 @@ google_verification: null
 
 
 gems: 
-# - 'jekyll-pandoc-multiple-formats'
+ - 'jekyll-pandoc-multiple-formats'
  - 'jekyll-lunr-js-search'
  - 'jekyll-seo-tag'
  - 'jekyll/responsive_image'
 
 
 
-#markdown: pandoc
-#pandoc:
+markdown: pandoc
+pandoc:
 #    skip: false
 # bundle_permalink: '/:slug.:output_ext'
 #   papersize: 'a4paper'
@@ -33,7 +33,7 @@ gems:
 #    imposition: true
 #    binder: true
 #    flags: '--smart'
-#    site_flags: ' --smart --toc --atx-headers'
+    site_flags: ' --smart --toc --atx-headers'
 #    outputs:
 #      pdf: '--latex-engine=pdflatex'
 #      epub: '--epub-chapter-level=2'
