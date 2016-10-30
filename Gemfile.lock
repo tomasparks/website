@@ -1,6 +1,5 @@
-GIT
-  remote: git://github.com/tomasparks/jekyll-pandoc-multiple-formats.git
-  revision: 8039dce29de4802452dfe07847935ad01bbf0f84
+PATH
+  remote: ~/src/jekyll-pandoc-multiple-formats/
   specs:
     jekyll-pandoc-multiple-formats (0.0.7)
       jekyll (~> 3.3.0)
@@ -27,6 +26,9 @@ GEM
       json (~> 1.8)
       nokogiri (~> 1.6)
       therubyracer (~> 0.12)
+    jekyll-pandoc (2.0.1)
+      jekyll (>= 3.0)
+      pandoc-ruby (~> 2.0, >= 2.0.0)
     jekyll-responsive_image (1.0.1)
       jekyll (>= 2.0, < 4.0)
       rmagick (>= 2.0, < 3.0)
@@ -47,6 +49,7 @@ GEM
     mini_portile2 (2.1.0)
     nokogiri (1.6.8.1)
       mini_portile2 (~> 2.1.0)
+    pandoc-ruby (2.0.1)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
     rb-fsevent (0.9.8)
@@ -67,6 +70,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-lunr-js-search
+  jekyll-pandoc
   jekyll-pandoc-multiple-formats!
   jekyll-responsive_image
   jekyll-seo-tag

@@ -17,26 +17,20 @@ google_verification: null
 
 
 gems: 
- - 'jekyll-pandoc-multiple-formats'
+ - 'jekyll-pandoc'
  - 'jekyll-lunr-js-search'
  - 'jekyll-seo-tag'
  - 'jekyll/responsive_image'
 
 
 
-markdown: pandoc
+markdown: Pandoc
 pandoc:
-#    skip: false
-# bundle_permalink: '/:slug.:output_ext'
-#   papersize: 'a4paper'
-#   sheetsize: 'a4paper'
-#    imposition: true
-#    binder: true
-#    flags: '--smart'
-    site_flags: ' --smart --toc --atx-headers'
-#    outputs:
-#      pdf: '--latex-engine=pdflatex'
-#      epub: '--epub-chapter-level=2'
+  extensions:
+    - smart
+    - toc
+    - atx-headers
+
 
 
 responsive_image:
