@@ -4,7 +4,6 @@ calibredb catalog /home/tom/blog/_data/ebooks.csv --sort-by title_sort --fields=
 
 
 
-
 rsync -r --progress --prune-empty-dirs  \
  --include "*.html" \
  --include "*.md" \
