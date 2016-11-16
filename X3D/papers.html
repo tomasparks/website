@@ -1,0 +1,30 @@
+---
+layout: default
+---
+{% include jquery-ui.html %}
+<main role="main">
+<article>
+<div></div>
+<div id="tabs">
+	<ul>
+        <li><a href="#octree">Octree (F2)</a></li>
+	</ul>
+<section id="linux">
+<div></div>
+    <ol>
+        {% for item in site.data.x3d.papers.octree %}
+        <li>
+            <a href="{{ item.url }}">{{ item.title }}</a>
+            <p>{{item.authors}}</p>
+            <p>{{item.Abstract}}</p>
+        </li>
+        {% endfor %}
+    </ol>
+</section>
+
+</div>
+</article>
+</main>
+<script>$( "#tabs" ).tabs();
+
+</script>
