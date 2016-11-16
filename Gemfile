@@ -7,6 +7,7 @@ gem 'jekyll-seo-tag'
 #gem 'rmagick'
 #gem 'exifr'
 #gem'jekyll-assets'
+gem 'jekyll-redirect-from'
 
 #gem 'rmagick'
 gem 'jekyll-responsive_image'

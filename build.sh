@@ -1,6 +1,6 @@
 calibredb catalog /home/tom/blog/_data/ebooks.csv --sort-by title_sort --fields=author_sort,authors,title_sort,title,isbn,pubdate,publisher,series,series_index,#website --verbose
 
-#bundle update
+bundle update
 
 
 
@@ -31,6 +31,7 @@ rsync -r --progress --prune-empty-dirs  \
  --include "assets/img/" \
  --include "assets/ext/" \
  --include "assets/ext/Imager.js/" \
+ --include "assets/ext/jquery*/" \
  --exclude "*" \
  --exclude "README.md" \
  . theme/
