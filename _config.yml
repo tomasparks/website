@@ -118,6 +118,10 @@ sass:
 
 
 collections:
+  projects:
+    layout: page
+    output: true
+    permalink: /:collection/:name.html
   minecraft:
     layout: page
     output: true
@@ -137,21 +141,20 @@ collections:
   questions:
     layout: page
     output: true
-    comments: true
     permalink: /questions/:path/
 
 album_dir: art
 source_dir: art
 
-
-strict_front_matter: true
-
-
-# Front Matter Defaults
 defaults:
   -
     scope:
       path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "default"
       comments: true
+
+
+strict_front_matter: true
+
