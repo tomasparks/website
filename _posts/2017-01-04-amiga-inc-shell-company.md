@@ -26,6 +26,7 @@ I've been reading [Amiga Documents](https://sites.google.com/site/amigadocuments
 ## Amiga DE ("Digital Environment") / Amiga Anywhere ("AA") ##
  * it could have been a java[^1]/flash beater :(
  * it could be were Android is today :(
+
 ## amithlon ##
  * X86 native amiga, why not, we have AROS now
 
