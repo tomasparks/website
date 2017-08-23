@@ -8,15 +8,29 @@ layout: default
 <div id="tabs">
 	<ul>
         <li><a href="#octree">Octree (F2)</a></li>
+        <li><a href="#tile">Tile (F3)</a></li>
 	</ul>
-<section id="linux">
+<section id="octree">
 <div></div>
     <ol>
-        {% for item in site.data.x3d.papers.octree %}
+        {% for item in site.data.x3d.papers.models.LODing.outdoors.octree.octree %}
         <li>
             <a href="{{ item.url }}">{{ item.title }}</a>
-            <p>{{item.authors}}</p>
-            <p>{{item.Abstract}}</p>
+            <p>Authors: {{item.authors}}</p>
+            <p>Abstract: {{item.Abstract}}</p>
+        </li>
+        {% endfor %}
+    </ol>
+</section>
+
+<section id="tile">
+<div></div>
+    <ol>
+        {% for item in site.data.x3d.papers.models.LODing.outdoors.tile.tile %}
+        <li>
+            <a href="{{ item.url }}">{{ item.title }}</a>
+            <p>Authors: {{item.authors}}</p>
+            <p>Abstract: {{item.Abstract}}</p>
         </li>
         {% endfor %}
     </ol>

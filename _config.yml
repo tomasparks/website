@@ -14,6 +14,12 @@ description:
 google_verification: null
 
 
+repository               : "tomasparks/website"
+
+# reCAPTCHA keys
+reCaptcha:
+  siteKey: "6LfK3S0UAAAAAN8Vg2RId7K8Aq8y-RtRevo6Bgfv"
+  secret: "6LfK3S0UAAAAAKe4pOV4fkqpdARWDrQ5xcyNML8R"
 
 
 gems: 

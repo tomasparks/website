@@ -20,5 +20,7 @@ gem 'jekyll-responsive_image'
 gem 'jekyll-pandoc'
 gem 'pandoc-ruby'
 
+gem 'jekyll-asciinema'
+
 #gem 'pdf_info'
 #gem 'rtex'
