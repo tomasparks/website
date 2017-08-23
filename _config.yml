@@ -153,7 +153,7 @@ defaults:
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "default"
-      comments: true
+     # comments: true
 
 
 strict_front_matter: true
