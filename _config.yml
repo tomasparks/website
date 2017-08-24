@@ -30,7 +30,7 @@ plugins:
  - 'jekyll-seo-tag'
  - 'jekyll/responsive_image'
  - 'jekyll-redirect-from'
- - 'jekyll-paginate'
+ - 'jekyll-paginate-v2'
 
 
 
@@ -153,9 +153,12 @@ defaults:
       path: "" # an empty string here means all files in the project
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
-      layout: "default"
+       layout: post
      # comments: true
-
-
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: page
 strict_front_matter: true
 

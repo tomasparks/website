@@ -1,6 +1,10 @@
 ---
 layout: page
 title: minecraft themepark
+pagination: 
+  enabled: true
+  collection: projects
+  project: minecraft
 ---
 <ul>
     {% for items in site.projects %}
@@ -9,3 +13,18 @@ title: minecraft themepark
       {% endif %}
     {% endfor %}
 </ul>
+
+{% if paginator.total_pages > 1 %}
+<ul>
+  {% if paginator.previous_page %}
+  <li>
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
+  </li>
+  {% endif %}
+  {% if paginator.next_page %}
+  <li>
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
+  </li>
+  {% endif %}
+</ul>
+{% endif %}
