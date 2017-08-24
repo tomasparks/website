@@ -2,23 +2,10 @@
 layout: page
 title: minecraft themepark
 ---
-{% assign sortedminecraft = site.minecraft | sort: 'date' | reverse %}
-{% for minecraft in sortedminecraft %}
-    <h2>{{minecraft.date | date_to_long_string }}</h2>
-Status: {{minecraft.status }}<br />
-{% if minecraft.image %}
-<div id="image_post" style="padding:1em;margin:1em;float:left;border:1px solid;">
-{% responsive_image_block %}
-    path: assets/img/_originals/{{minecraft.image}}
-{% endresponsive_image_block %}
-<div style="text-align: center;">
-{% if minecraft.image-author != "" %}
-image from <a href="{{page.image-website}}">{{minecraft.image-author}}</a>
-{%else%}
-image from unknown :(
-{%endif%}
-</div>
-</div>
-{% endif %}
-    {{ minecraft.content }}
-{% endfor %}
+<ul>
+    {% for items in site.projects %}
+      {% if items.project == "minecraft" %}
+        <li><a href="{{ items.url }}">{{ items.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+</ul>

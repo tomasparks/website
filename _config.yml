@@ -122,7 +122,7 @@ collections:
   projects:
     layout: page
     output: true
-    permalink: /project/:name.html
+    permalink: /projects/:name.html
   minecraft:
     layout: page
     output: true

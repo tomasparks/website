@@ -2,14 +2,13 @@
 layout: page
 title: Projects
 ---
-<main role="main">
-<article>
-
-<nav>
-<ol>
-
-	<li><a href="/projects/minecraft.html">minecraft</a></li>
-</ol>
-</nav>
-</article>
-</main>
+{% assign myprojects = site.projects | group_by: 'project' %}
+{% for pro in myprojects %}
+<h2>{{ pro.name | capitalize }}</h2>
+    <ul>
+      {% assign items = pro.items| sort: 'date' | reverse %}
+      {% for item in items %}
+        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+      {% endfor %}
+    </ul>
+{% endfor %}
