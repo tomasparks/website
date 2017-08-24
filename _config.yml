@@ -1,10 +1,12 @@
 # Blog settings
 permalink: '/archive/:year/:month/:slug.html'
+
 limit_posts: 0
 searchindex: yes
 #url: /home/tom/blog/_site/
 #url: http://127.0.0.1:4000/
 url: https://tomasparks.github.io/
+#url: /home/tom/github/blog/tomasparks.github.io/
 #url: /
 keep_files:   [".git"]
 include: [".htaccess"]
@@ -41,7 +43,15 @@ pandoc:
     - toc
     - atx-headers
 
-
+# Pagination Settings
+pagination:
+  enabled: true
+  per_page: 3
+  permalink: '/page/:num/'
+  title: ':title - page :num of :max'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
 
 responsive_image:
   # [Required]
@@ -120,9 +130,9 @@ sass:
 
 collections:
   projects:
-    layout: page
+    layout: project_page
     output: true
-    permalink: /projects/:name.html
+#    permalink: /projects/:name.html
   minecraft:
     layout: page
     output: true
@@ -159,6 +169,6 @@ defaults:
       path: ""
       type: projects
     values:
-      layout: page
+      layout: project_page
 strict_front_matter: true
 

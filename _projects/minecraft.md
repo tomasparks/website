@@ -3,13 +3,14 @@ layout: page
 title: minecraft themepark
 pagination: 
   enabled: true
-  collection: projects
-  project: minecraft
 ---
 <ul>
     {% for items in site.projects %}
       {% if items.project == "minecraft" %}
         <li><a href="{{ items.url }}">{{ items.title }}</a></li>
+<div>
+{{ items.content }}
+</div>
       {% endif %}
     {% endfor %}
 </ul>
