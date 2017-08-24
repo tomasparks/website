@@ -23,6 +23,7 @@ GEM
       json (~> 2.0)
       nokogiri (~> 1.7)
       therubyracer (~> 0.12)
+    jekyll-paginate (1.1.0)
     jekyll-pandoc (2.0.1)
       jekyll (>= 3.0)
       pandoc-ruby (~> 2.0, >= 2.0.0)
@@ -75,6 +76,7 @@ DEPENDENCIES
   jekyll
   jekyll-asciinema
   jekyll-lunr-js-search
+  jekyll-paginate
   jekyll-pandoc
   jekyll-redirect-from
   jekyll-responsive_image

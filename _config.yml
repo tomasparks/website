@@ -24,12 +24,13 @@ reCaptcha:
   secret: "6LfK3S0UAAAAAKe4pOV4fkqpdARWDrQ5xcyNML8R"
 
 
-gems: 
+plugins: 
  - 'jekyll-pandoc'
  - 'jekyll-lunr-js-search'
  - 'jekyll-seo-tag'
  - 'jekyll/responsive_image'
  - 'jekyll-redirect-from'
+ - 'jekyll-paginate'
 
 
 
@@ -121,7 +122,7 @@ collections:
   projects:
     layout: page
     output: true
-    permalink: /:collection/:name.html
+    permalink: /project/:name.html
   minecraft:
     layout: page
     output: true
