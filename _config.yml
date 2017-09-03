@@ -210,9 +210,9 @@ sass:
 
 
 collections:
-  components:
+   components:
     output: false
-  colors:
+   colors:
     output: false
    projects:
      output: true
