@@ -1,0 +1,38 @@
+development website layout
+├── projects
+│   ├── index.html
+│   ├── minecraft.html
+├── _projects
+│   ├── 00000.md
+│   ├── 00001.md
+│   ├── 00002.md
+│   ├── 00003.md
+│   ├── 00004.md
+│   └── 00005.md
+
+
+layout I want in _site
+
+├── projects
+│   ├── 00000.html
+│   ├── 00001.html
+│   ├── 00002.html
+│   ├── 00003.html
+│   ├── 00004.html
+│   ├── 00005.html
+│   ├── index.html
+│   ├── minecraft-1.html
+│   └── minecraft-2.html
+
+minecraft.html
+---
+layout: page
+title: minecraft themepark
+#permalink: '/minecraft/'
+pagination: 
+  enabled: true
+  collection: projects
+  category: minecraft
+  permalink: 'minecraft-:num.html'
+---
+

@@ -5,8 +5,8 @@ limit_posts: 0
 searchindex: yes
 #url: /home/tom/blog/_site/
 #url: http://127.0.0.1:4000/
-url: https://tomasparks.github.io/
-#url: /home/tom/github/blog/tomasparks.github.io/
+#url: https://tomasparks.github.io/
+url: /home/tom/github/blog/tomasparks.github.io/
 #url: /
 keep_files:   [".git"]
 include: [".htaccess"]
@@ -33,6 +33,7 @@ plugins:
  - 'jekyll/responsive_image'
  - 'jekyll-redirect-from'
  - 'jekyll-paginate-v2'
+# - 'jekyll-pandoc-multiple-formats'
 
 
 
@@ -43,15 +44,95 @@ pandoc:
     - toc
     - atx-headers
 
-# Pagination Settings
+
+
+############################################################
+# Site configuration for the Jekyll 3 Pagination Gem
+# The values here represent the defaults if nothing is set
 pagination:
+  
+  # Site-wide kill switch, disabled here it doesn't run at all 
   enabled: true
-  per_page: 3
-  permalink: '/page/:num/'
-  title: ':title - page :num of :max'
+
+  # Set to 'true' to enable pagination debugging. This can be enabled in the site config or only for individual pagination pages
+  debug: true
+
+  # The default document collection to paginate if nothing is specified ('posts' is default)
+  collection: 'posts'
+
+  # How many objects per paginated page, used to be `paginate` (default: 0, means all)
+  per_page: 1
+
+  # The permalink structure for the paginated pages (this can be any level deep)
+  permalink: '/page/:num/' # Pages are index.html inside this folder (default)
+  #permalink: '/page/:num.html' # Pages are simple html files 
+  #permalink: '/page/:num' # Pages are html files, linked jekyll extensionless permalink style.
+
+  # Optional the title format for the paginated pages (supports :title for original page title, :num for pagination page number, :max for total number of pages)
+  title: ':title - page :num'
+
+  # Limit how many pagenated pages to create (default: 0, means all)
   limit: 0
+  
+  # Optional, defines the field that the posts should be sorted on (omit to default to 'date')
   sort_field: 'date'
+
+  # Optional, sorts the posts in reverse order (omit to default decending or sort_reverse: true)
   sort_reverse: true
+
+  # Optional, the default category to use, omit or just leave this as 'posts' to get a backwards-compatible behavior (all posts)
+  category: 'posts'
+
+  # Optional, the default tag to use, omit to disable
+  tag: ''
+
+  # Optional, the default locale to use, omit to disable (depends on a field 'locale' to be specified in the posts, 
+  # in reality this can be any value, suggested are the Microsoft locale-codes (e.g. en_US, en_GB) or simply the ISO-639 language code )
+  locale: '' 
+
+ # Optional,omit or set both before and after to zero to disable. 
+ # Controls how the pagination trail for the paginated pages look like. 
+  trail: 
+    before: 2
+    after: 2
+
+############################################################
+
+############################################################
+# Site configuration for the Auto-Pages feature
+# The values here represent the defaults if nothing is set
+autopages:
+
+  # Site-wide kill switch, disable here and it doesn't run at all 
+  enabled: false
+
+  # Category pages, omit entire config element to disable
+  categories: 
+    # Optional, the list of layouts that should be processed for every category found in the site
+    layouts: 
+      - 'autopage_category.html'
+    # Optional, the title that each category paginate page should get (:cat is replaced by the Category name)
+    title: 'Posts in category :cat'
+    # Optional, the permalink for the  pagination page (:cat is replaced), 
+    # the pagination permalink path is then appended to this permalink structure
+    permalink: '/archive/category/:cat'
+
+  # Collection pages, omit to disable
+  collections:
+    layouts: 
+      - 'autopage_collection.html'
+    title: 'Posts in collection :coll' # :coll is replaced by the collection name
+    permalink: ':coll'
+  
+  # Tag pages, omit to disable
+  tags:
+    layouts: 
+      - 'autopage_tags.html'
+    title: 'Posts tagged with :tag' # :tag is replaced by the tag name
+    permalink: '/archive/tag/:tag'
+
+
+
 
 responsive_image:
   # [Required]
@@ -129,46 +210,24 @@ sass:
 
 
 collections:
-  projects:
-    layout: project_page
-    output: true
-#    permalink: /projects/:name.html
-  minecraft:
-    layout: page
-    output: true
-    permalink: /projects/minecraft/:name.html
-  X3D:
-    layout: page
-    output: true
-    permalink: /projects/X3D/:name.html
-  lego:
-    layout: page
-    output: true
-    permalink: /projects/lego/:name.html
-  computers:
-    layout: page
-    output: true
-    permalink: /about-me/computers/:name.html
-  questions:
-    layout: page
-    output: true
-    permalink: /questions/:path/
+  components:
+    output: false
+  colors:
+    output: false
+   projects:
+     output: true
+     permalink: /projects/:name.html
+#  computers:
+#    layout: page
+#    output: true
+#    permalink: /about-me/computers/:name.html
+#  questions:
+#    layout: page
+#    output: true
+#    permalink: /questions/:path/
 
 album_dir: art
 source_dir: art
 
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-      type: "posts" # previously `post` in Jekyll 2.2.
-    values:
-       layout: post
-     # comments: true
-  - scope:
-      path: ""
-      type: projects
-    values:
-      layout: project_page
 strict_front_matter: true
 

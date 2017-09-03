@@ -4,39 +4,45 @@ layout: default
 {% include jquery-ui.html %}
 <main role="main">
 <article>
-<div></div>
-<div id="tabs">
-	<ul>
-        <li><a href="#octree">Octree (F2)</a></li>
-        <li><a href="#tile">Tile (F3)</a></li>
-	</ul>
-<section id="octree">
-<div></div>
-    <ol>
-        {% for item in site.data.x3d.papers.models.LODing.outdoors.octree.octree %}
-        <li>
-            <a href="{{ item.url }}">{{ item.title }}</a>
-            <p>Authors: {{item.authors}}</p>
-            <p>Abstract: {{item.Abstract}}</p>
-        </li>
-        {% endfor %}
-    </ol>
-</section>
 
-<section id="tile">
-<div></div>
-    <ol>
+
+<table id="myTable" class="tablesorter"> 
+<thead>        
+
+<tr> 
+    <th>Title</th> 
+    <th>Authors</th> 
+    <th>Abstract</th> 
+    <th>tags</th> 
+    <th>cats</th> 
+    <th>year</th>
+</tr>       
+
+</thead> 
+<tbody> 
+ {% for item in site.data.x3d.papers.models.LODing.outdoors.octree.octree %}
+<tr> 
+    <td><a href="{{ item.url }}">{{ item.title }}</a></td> 
+    <td>{{item.authors}}</td> 
+    <td>{{item.Abstract}}</td> 
+    <td>{{item.tags}}</td> 
+    <td>{{item.cat}}</td> 
+    <td>{{item.year}}</td>
+</tr> 
+  {% endfor %}
+<tr> 
         {% for item in site.data.x3d.papers.models.LODing.outdoors.tile.tile %}
-        <li>
-            <a href="{{ item.url }}">{{ item.title }}</a>
-            <p>Authors: {{item.authors}}</p>
-            <p>Abstract: {{item.Abstract}}</p>
-        </li>
-        {% endfor %}
-    </ol>
-</section>
-
-</div>
+<tr> 
+    <td><a href="{{ item.url }}">{{ item.title }}</a></td> 
+    <td>{{item.authors}}</td> 
+    <td>{{item.Abstract}}</td> 
+    <td>{{item.tags}}</td> 
+    <td>{{item.cat}}</td> 
+    <td>{{item.year}}</td>
+</tr> 
+  {% endfor %}
+</tbody> 
+</table> 
 </article>
 </main>
 <script>$( "#tabs" ).tabs();

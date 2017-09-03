@@ -16,6 +16,8 @@ gem 'jekyll-responsive_image'
 
 
 #gem 'html-proofer'
+
+#gem 'jekyll-pandoc-multiple-formats'
 #gem 'jekyll-pandoc-multiple-formats', github: 'tomasparks/jekyll-pandoc-multiple-formats'
 #gem 'jekyll-pandoc-multiple-formats', :path => '~/src/jekyll-pandoc-multiple-formats/'
 gem 'jekyll-pandoc'

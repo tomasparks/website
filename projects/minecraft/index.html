@@ -1,12 +1,16 @@
 ---
 layout: page
 title: minecraft themepark
+#permalink: '/minecraft/'
 pagination: 
   enabled: true
+  collection: projects
+  category: minecraft
+  permalink: ':num.html'
 ---
 <ul>
     {% for items in site.projects %}
-      {% if items.project == "minecraft" %}
+      {% if items.category == "minecraft" %}
         <li><a href="{{ items.url }}">{{ items.title }}</a></li>
 <div>
 {{ items.content }}
