@@ -5,8 +5,8 @@ limit_posts: 0
 searchindex: yes
 #url: /home/tom/blog/_site/
 #url: http://127.0.0.1:4000/
-#url: https://tomasparks.github.io/
-url: /home/tom/github/blog/tomasparks.github.io/
+url: https://tomasparks.github.io/
+#url: /home/tom/github/blog/tomasparks.github.io/
 #url: /
 keep_files:   [".git"]
 include: [".htaccess"]
