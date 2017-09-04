@@ -23,8 +23,28 @@ our system on complex meshes are presented."
   url: 
   refs: 
 
-- title: ""
-  authors: 
-  Abstract: ""
+- title: "Spatial Data Structures For Accelerated 3D Visibility Computation To Enable Large Model Visualization On The Web."
+  authors: Christian Stein, Max Limper, Arjan Kuijper
+  Abstract: "The visualization of massive 3D models is an intensively exam-
+ined field of research. Due to their rapidly growing complexity of
+such models, visualisation them in real-time will never be possible
+through a higher speed of rasterization alone. Instead, a practical
+solution has to reduce the amount of data to be processed, using a
+fast visibility determination.
+In recent years, the combination of Javascript and WebGL raised
+attention for the possibility of rendering hardware-accelerated 3D
+graphics directly in the browser. However, when compared to desk-
+top applications, they are still fighting with their disadvantages of a
+generally slower execution speed, or a downgraded set of function-
+ality.
+We demonstrate the integration of spatial data structures, computed
+on the client side, using latest technology trends to mitigate the
+shortcomings of the 3D Web environment. We employ comparably
+small bounding volume hierarchies to accelerate our visibility de-
+termination, as well as to enable specific culling techniques. This
+allows for an interactive visualization of such massive 3D data sets.
+Our in-depth analysis of different data structures and environments
+shows which combination of data structure and visibility determi-
+nation techniques are currently the best fit for the Web."
   url: 
   refs: 
