@@ -1,0 +1,7 @@
+- title: "Adaptive Streaming and Rendering of Large Terrains using Strip Masks"
+  authors: Joachim Pouderoux, Jean-Eudes Marvie
+  Abstract: "Terrain rendering is an important factor in the rendering of virtual scenes. If they are large and detailed, digital terrains can represent a huge amount of data and therefore of graphical primitives to render in real-time. In this paper we present an efficient technique for out-of-core rendering of pseudo-infinite terrains. The full terrain height field is divided into regular tiles which are streamed and managed adaptively. Each visible tile is then rendered using a precomputed triangle strip patch selected in an adaptive way according to an importance metric. Thanks to these two levels of adaptivity, our approach can be seen as a cross-platform technique to render terrains on any kind of devices (from slow handheld to powerful desktop PC) by only exploiting the device capacity to draw as much triangles as possible for a target frame rate and memory space."
+  url: 
+  refs: 
+  keywords:
+
