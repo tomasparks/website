@@ -20,6 +20,17 @@ layout: default
 
 </thead> 
 <tbody> 
+ {% for item in site.data.x3d.papers.models.LODing.lod %}
+<tr> 
+    <td><a href="{{ item.url }}">{{ item.title }}</a></td> 
+    <td>{{item.authors}}</td> 
+    <td>{{item.Abstract}}</td> 
+    <td>{{item.tags}}</td> 
+    <td>{{item.cat}}</td> 
+    <td>{{item.year}}</td>
+</tr> 
+  {% endfor %}
+<tbody> 
  {% for item in site.data.x3d.papers.models.LODing.outdoors.octree.octree %}
 <tr> 
     <td><a href="{{ item.url }}">{{ item.title }}</a></td> 
