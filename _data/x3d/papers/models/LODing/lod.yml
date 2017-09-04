@@ -1,6 +1,25 @@
-- title: ""
-  authors: 
-  Abstract: ""
+- title: "External Memory Management and Simplification of Huge Meshes"
+  authors: P. Cignoni, C. Montani, C. Rocchini, R. Scopigno
+  Abstract: "Very large triangle meshes, i.e. meshes com-
+posed of millions of faces, are becoming common in many
+applications. Obviously, processing, rendering, transmission
+and archival of these meshes are not simple tasks. Mesh sim-
+plification and LOD management are a rather mature tech-
+nology that in many cases can efficiently manage complex
+data. But only few available systems can manage meshes
+characterized by a huge size: RAM size is often a severe
+bottleneck.
+In this paper we present a data structure called Octree-
+based External Memory Mesh (OEMM ). It supports exter-
+nal memory management of complex meshes, loading dy-
+namically in main memory only the selected sections and
+preserving data consistency during local updates. The func-
+tionalities implemented on this data structure (simplifica-
+tion, detail preservation, mesh editing, visualization and in-
+spection) can be applied to huge triangles meshes on low-
+cost PC platforms. The time overhead due to the external
+memory management is affordable. Results of the test of
+our system on complex meshes are presented."
   url: 
   refs: 
 
