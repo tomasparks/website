@@ -40,22 +40,33 @@ float:left;
 		</div>
 	</div>
 <h3>Ebooks</h3>
-<ol>
+<table id="myTable" class="tablesorter"> 
+<thead>        
+
+<tr> 
+    <th>Title</th> 
+    <th>Authors</th> 
+    <th>ISBN</th> 
+    <th>PubDate</th> 
+    <th>Publisher</th> 
+    <th>year</th>
+</tr>       
+
+</thead> 
+<tbody>
 {% assign sortedebooks = site.data.ebooks | sort: 'title_sort'%}
 {% for ebooks in sortedebooks  %}
 {% assign pub = site.data.bookpub[ebooks.publisher] %}
 
-<li>
-<a href="{% if ebooks.website %}{{ ebooks.website }}{% else %}{{ pub.search }}{{ ebooks.title | cgi_escape }}{% endif %}">{{ ebooks.title }} {% if ebooks.series<>"" %} ({{ ebooks.series_index }} of {{ ebooks.series}} ){% endif %}</a><br />
-Author: {{ ebooks.authors }}<br />
-ISBN: {{ ebooks.isbn}}<br />
-pubdate: {{ ebooks.pubdate | date_to_long_string}}<br />
-publisher: {{ ebooks.publisher}}<br />
-{% if ebooks.website %} website: {{ ebooks.website }} {% endif %}
-</li>
-
-
+<tr>
+<td><a href="{% if ebooks.website %}{{ ebooks.website }}{% else %}{{ pub.search }}{{ ebooks.title | cgi_escape }}{% endif %}">{{ ebooks.title }} {% if ebooks.series<>"" %} ({{ ebooks.series_index }} of {{ ebooks.series}} ){% endif %}</a></td>
+<td>{{ ebooks.authors }}</td>
+<td>{{ ebooks.isbn}}</td>
+<td>{{ ebooks.pubdate | date_to_long_string}}</td>
+<td>{{ ebooks.publisher}}</td>
+</tr>
 {% endfor %}
-</ol>
+</tbody>
+</table>
 <h3>Dead tree books</h3>
 Comming soon
