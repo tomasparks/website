@@ -34,6 +34,7 @@ plugins:
  - 'jekyll-redirect-from'
  - 'jekyll-paginate-v2'
 # - 'jekyll-pandoc-multiple-formats'
+  -'jekyll/scholar'
 
 
 

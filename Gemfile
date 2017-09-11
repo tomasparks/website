@@ -9,6 +9,7 @@ gem 'jekyll-seo-tag'
 #gem'jekyll-assets'
 gem 'jekyll-redirect-from'
 gem 'jekyll-paginate-v2'
+gem 'jekyll-scholar'
 
 #gem 'rmagick'
 gem 'jekyll-responsive_image'
