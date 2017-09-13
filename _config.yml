@@ -33,7 +33,7 @@ plugins:
  - 'jekyll/responsive_image'
  - 'jekyll-redirect-from'
  - 'jekyll-paginate-v2'
-  -'jekyll/scholar'
+ - 'jekyll/scholar'
 # - 'jekyll-pandoc-multiple-formats'
 
 
