@@ -55,6 +55,8 @@
       </div> 
       <div id='Interaction_Toolbox' style='margin:2px; padding:4px 150px 4px 4px; background-color:rgba(199,202,204,.7); position:absolute; z-index:1000; right:0px; top:0px;'> 
       <!-- Statistics -->
+<div id="output">
+</div>
       <div id="status">
         <div>
           <span class="show-leech">Downloading </span>
@@ -8177,12 +8179,12 @@
       client.add(torrentId, function (torrent) {
         torrent.addWebSeed(webseed)
         // Torrents can contain many files. Let's use the .mp4 file
-        // var file = torrent.files.find(function (file) {
-        // return file.name.endsWith('.mp4')
-        //})
+        var file = torrent.files.find(function (file) {
+        return file.name.endsWith('.png')
+        })
 
         // Stream the file in the browser
-        //file.appendTo('#output')
+        file.appendTo('#output')
 
         // Trigger statistics refresh
         torrent.on('done', onDone)
