@@ -15,6 +15,15 @@
     <style>.x3dom-logContainer { bottom: 0px; position: absolute; }
     </style>
  <style>
+      #output video {
+        width: 100%;
+      }
+      #progressBar {
+          height: 5px;
+          width: 0%;
+          background-color: #35b44f;
+          transition: width .4s ease-in-out;
+      }
       body.is-seed .show-seed {
           display: inline;
       }
@@ -36,14 +45,19 @@
           background-color: #154820;
           transition: .5s .5s background-color ease-in-out;
       }
-
+      #hero {
+          background-color: #2a3749;
+      }
       #status {
           color: #fff;
           font-size: 17px;
           padding: 5px;
       }
-    </style>
-  </head>
+      a:link, a:visited {
+          color: #30a247;
+          text-decoration: none;
+      }
+    </style>  </head>
   <body style='width:100%; height:100%; border:0; margin:0; padding:0;'>
 
     <div id='HUDs_Div'> 
@@ -54,16 +68,19 @@
         </a> aopt tool. 
       </div> 
       <div id='Interaction_Toolbox' style='margin:2px; padding:4px 150px 4px 4px; background-color:rgba(199,202,204,.7); position:absolute; z-index:1000; right:0px; top:0px;'> 
+ <div id="hero">
+      <div id="output">
+        <div id="progressBar"></div>
+        <!-- The video player will be added here -->
+      </div>
       <!-- Statistics -->
-<div id="output">
-</div>
       <div id="status">
         <div>
           <span class="show-leech">Downloading </span>
           <span class="show-seed">Seeding </span>
           <code>
             <!-- Informative link to the torrent file -->
-            <a id="torrentLink" href="https://tomasparks.github.io/X3D/popbuffers/crytek-sponza/crytek-sponza.torrent">crytek-sponza.torrent</a>
+            <a id="torrentLink" href="https://webtorrent.io/torrents/sintel.torrent">sintel.torrent</a>
           </code>
           <span class="show-leech"> from </span>
           <span class="show-seed"> to </span>
@@ -76,7 +93,8 @@
           &#x2198;<code id="downloadSpeed">0 b/s</code>
           / &#x2197;<code id="uploadSpeed">0 b/s</code>
         </div>
-      </div>        
+      </div>
+    </div>      
 <table> 
           <tr> 
             <td>Navigation Mode: 
@@ -8160,14 +8178,14 @@
       </scene>
     </x3d>
 
- <script>
-      var torrentId = 'https://tomasparks.github.io/X3D/popbuffers/crytek-sponza/crytek-sponza.torrent'
-      var webseed = 'https://tomasparks.github.io/X3D/popbuffers/'
+   <script>
+      var torrentId = 'https://webtorrent.io/torrents/sintel.torrent'
+
       var client = new WebTorrent()
 
       // HTML elements
       var $body = document.body
-     // var $progressBar = document.querySelector('#progressBar')
+      var $progressBar = document.querySelector('#progressBar')
       var $numPeers = document.querySelector('#numPeers')
       var $downloaded = document.querySelector('#downloaded')
       var $total = document.querySelector('#total')
@@ -8177,10 +8195,10 @@
 
       // Download the torrent
       client.add(torrentId, function (torrent) {
-        torrent.addWebSeed(webseed)
+
         // Torrents can contain many files. Let's use the .mp4 file
         var file = torrent.files.find(function (file) {
-        return file.name.endsWith('.png')
+          return file.name.endsWith('.mp4')
         })
 
         // Stream the file in the browser
@@ -8197,8 +8215,8 @@
           $numPeers.innerHTML = torrent.numPeers + (torrent.numPeers === 1 ? ' peer' : ' peers')
 
           // Progress
-//          var percent = Math.round(torrent.progress * 100 * 100) / 100
-       //   $progressBar.style.width = percent + '%'
+          var percent = Math.round(torrent.progress * 100 * 100) / 100
+          $progressBar.style.width = percent + '%'
           $downloaded.innerHTML = prettyBytes(torrent.downloaded)
           $total.innerHTML = prettyBytes(torrent.length)
 
