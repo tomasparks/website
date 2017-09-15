@@ -8201,10 +8201,11 @@ layout: null
             console.log('Adding torrent url..');
       client.add(torrentId, function (torrent) {
  console.log('Client is downloading:', torrent.infoHash)
-        torrent.addWebSeed('{{ site.url }}/X3D/popbuffers/crytek-sponza/')
+       // torrent.addWebSeed('{{ site.url }}/X3D/popbuffers/crytek-sponza/')
 console.log(torrent.torrentFileBlobURL);
         // Torrents can contain many files. Let's use the .mp4 file
         var file = torrent.files.find(function (file) {
+console.log(file.name.endsWith('.png'));
           return file.name.endsWith('.png')
         })
 
@@ -8226,7 +8227,7 @@ console.log(torrent.torrentFileBlobURL);
           $progressBar.style.width = percent + '%'
           $downloaded.innerHTML = prettyBytes(torrent.downloaded)
           $total.innerHTML = prettyBytes(torrent.length)
-
+ console.log('Client is downloading: ', percent,'% completed')
           // Remaining time
           var remaining
           if (torrent.done) {
