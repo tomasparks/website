@@ -8198,7 +8198,9 @@ layout: null
       var $downloadSpeed = document.querySelector('#downloadSpeed')
 
       // Download the torrent
+            console.log('Adding torrent url..');
       client.add(torrentId, function (torrent) {
+ console.log('Client is downloading:', torrent.infoHash)
         torrent.addWebSeed('{{ site.url }}/X3D/popbuffers/crytek-sponza/')
 console.log(torrent.torrentFileBlobURL);
         // Torrents can contain many files. Let's use the .mp4 file
