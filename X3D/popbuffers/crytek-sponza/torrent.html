@@ -8200,6 +8200,7 @@ layout: null
       // Download the torrent
       client.add(torrentId, function (torrent) {
         torrent.addWebSeed('{{ site.url }}/X3D/popbuffers/crytek-sponza/')
+console.log(torrent.torrentFileBlobURL);
         // Torrents can contain many files. Let's use the .mp4 file
         var file = torrent.files.find(function (file) {
           return file.name.endsWith('.png')
