@@ -4,3 +4,6 @@
 [submodule "assets/ext/Imager.js"]
 	path = assets/ext/Imager.js
 	url = https://github.com/BBC-News/Imager.js.git
+[submodule "assets/ext/moment"]
+	path = assets/ext/moment
+	url = https://github.com/moment/moment.git
