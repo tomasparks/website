@@ -1,11 +1,14 @@
+---
+layout: null
+---
 <!DOCTYPE html>
 <html style='width:100%; height:100%; border:0; margin:0; padding:0;'>
   <head>
     <meta http-equiv='X-UA-Compatible' content='chrome=1'/>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'/>
     <meta http-equiv='Content-Type' content='text/html;charset=utf-8'/>
-    <link rel='stylesheet' type='text/css' href='/assets/ext/x3dom/x3dom.css'/>
-    <script type='text/javascript' src='/assets/ext/x3dom/x3dom.js'></script>
+    <link rel='stylesheet' type='text/css' href='{{ site.url }}/assets/ext/x3dom/x3dom.css'/>
+    <script type='text/javascript' src='{{ site.url }}/assets/ext/x3dom/x3dom.js'></script>
     <!-- Include the latest version of WebTorrent -->
     <script src="https://cdn.jsdelivr.net/webtorrent/latest/webtorrent.min.js"></script>
 
@@ -81,7 +84,7 @@
           <span class="show-seed">Seeding </span>
           <code>
             <!-- Informative link to the torrent file -->
-            <a id="torrentLink" href="https://tomasparks.github.io/X3D/popbuffers/crytek-sponza/crytek-sponza.torrent">crytek-sponza.torrent</a>
+            <a id="torrentLink" href="{{ site.url }}/X3D/popbuffers/crytek-sponza/crytek-sponza.torrent">crytek-sponza.torrent</a>
           </code>
           <span class="show-leech"> from </span>
           <span class="show-seed"> to </span>
@@ -8180,7 +8183,7 @@
     </x3d>
 
    <script>
-      var torrentId = 'https://tomasparks.github.io/X3D/popbuffers/crytek-sponza/crytek-sponza.torrent'
+      var torrentId = '{{ site.url }}/X3D/popbuffers/crytek-sponza/crytek-sponza.torrent'
 
       var client = new WebTorrent()
 
