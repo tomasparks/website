@@ -4,13 +4,17 @@ title: CV
 ---
 TOM SPARKS
 
+Address removed
 
 ## IT EXPOSURE ##
+
 ### TECHNICAL EXPERIENCE: ###
+
 * Languages:	[BASIC](https://en.wikipedia.org/wiki/BASIC), [JavaScript](https://en.wikipedia.org/wiki/JavaScript), [X/HTML](https://en.wikipedia.org/wiki/XHTML), [PHP](https://en.wikipedia.org/wiki/PHP), [X3D](https://en.wikipedia.org/wiki/X3D), [XML](https://en.wikipedia.org/wiki/XML)
 * 3D modeling:	[Autodesk 3ds Max](https://en.wikipedia.org/wiki/Autodesk_3ds_Max), [Blender](https://en.wikipedia.org/wiki/Blender_(software)), [Pov-ray](https://en.wikipedia.org/wiki/POV-Ray)
-* Platforms: 	Windows Vista/XP/ME/98/95/3.1, MS-DOS, Ubuntu (linux),  AmigaOS 1.0-3.9 and 4.1.x, 		RiscOS, CP/M
+* Platforms: 	[Windows Vista/XP/ME/98/95/3.1](https://en.wikipedia.org/wiki/Microsoft_Windows), [MS-DOS](https://en.wikipedia.org/wiki/MS-DOS), [Ubuntu (linux)](https://en.wikipedia.org/wiki/Ubuntu_(operating_system)), [AmigaOS 1.0-3.9 and 4.1.x](https://en.wikipedia.org/wiki/AmigaOS), [RiscOS](https://en.wikipedia.org/wiki/RISC_OS), [CP/M](https://en.wikipedia.org/wiki/CP/M)
 * Concepts:	Alternative networking, Operating systems, Video/Audio transcoding
+
 ### CERTIFICATIONS: ###
 None
 
