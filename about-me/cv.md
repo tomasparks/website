@@ -7,7 +7,7 @@ title: CV
 
 ## IT EXPOSURE ##
 ## TECHNICAL EXPERIENCE: ##
-Languages:	BASIC, JavaScript, X/HTML, PHP, X3D, XML
+Languages:	[BASIC](https://en.wikipedia.org/wiki/BASIC), [JavaScript](https://en.wikipedia.org/wiki/JavaScript), [X/HTML](https://en.wikipedia.org/wiki/XHTML), [PHP](https://en.wikipedia.org/wiki/PHP), [X3D](https://en.wikipedia.org/wiki/X3D), [XML](https://en.wikipedia.org/wiki/XML)
 3D modeling:	3D max, Blender, Pov-ray
 Platforms: 	Windows Vista/XP/ME/98/95/3.1, MS-DOS, Ubuntu (linux),  AmigaOS 1.0-3.9 and 4.1.x, 		RiscOS, CP/M
 Concepts:	Alternative networking, Operating systems, Video/Audio transcoding
@@ -25,7 +25,7 @@ setting a RAID level 1 Array
 Setting up a Raspberry Pi for XBMC/Kodi (media centre) use
 setting up a Printer server using Arm archlinux on a Raspberry Pi 
 ## OTHER ACTIVITIES & HOBBIES: ##
-Reading E-books/ P-books
+[Reading E-books/ P-books]({{site.url}}/about-me/books.html)
 Net-surfing
 Researching 
 Alternative networking
