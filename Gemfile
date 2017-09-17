@@ -10,7 +10,7 @@ gem 'jekyll-seo-tag'
 gem 'jekyll-redirect-from'
 gem 'jekyll-paginate-v2'
 gem 'jekyll-scholar'
-gem 'jekyll-scholar-extra'
+#gem 'jekyll-scholar-extra'
 
 #gem 'rmagick'
 gem 'jekyll-responsive_image'
