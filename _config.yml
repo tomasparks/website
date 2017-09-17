@@ -190,10 +190,9 @@ lunr_search:
 
 
 
-citation:
-#    citation_style: apa
-#    citation_locale: en
-
+scholar:
+  style: _include/ieee-with-url.csl
+  locale: en
 
 
 # Sass
