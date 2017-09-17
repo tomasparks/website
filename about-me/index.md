@@ -5,6 +5,8 @@ title: about me
 
 Hello, my name is Tom Sparks. I am a Alternative Technology Researcher.
 
+my [CV]({{site.url}}/about-me/cv.html)
+
 # What Alternative technology do you research? #
 
 ## Digital Communication Networks (DCN) ##

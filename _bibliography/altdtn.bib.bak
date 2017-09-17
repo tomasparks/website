@@ -1,0 +1,13 @@
+% Encoding: UTF-8
+
+@Misc{Tyson2013,
+  author        = {Tyson, Gareth and Bigham, John and Bodanese, Eliane},
+  title         = {Towards an information-centric delay-tolerant network},
+  year          = {2013},
+  __markedentry = {[tom:6]},
+  abstract      = {Information-centric networks (ICNs) have emerged as a prominent future Internet architecture. They work on the principle that, in today’s society, a network should be optimised towards the delivery of information, rather than the transit of messages between pre-determined end hosts. At the same time, another prominent research direction has been the delay-tolerant networking initiative, which argues that networks must explicitly support the tolerance of high delays and disruptions in end-to-end paths. We believe that this observation is pervasive across a number of applications and network technologies and should therefore be strongly considered in any future ICN designs. This paper explores the potential of combining these concepts into an information-centric delay-tolerant network (ICDTN). Through a qualitative and quantitative investigation, we present arguments in favour of the design, as well as important research challenges. I.},
+  owner         = {tom},
+  timestamp     = {2017-09-17},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
