@@ -27,7 +27,7 @@ reCaptcha:
 
 
 plugins: 
- - 'jekyll-pandoc'
+# - 'jekyll-pandoc'
  - 'jekyll-lunr-js-search'
  - 'jekyll-seo-tag'
  - 'jekyll/responsive_image'
@@ -38,12 +38,12 @@ plugins:
 # - 'jekyll-pandoc-multiple-formats'
 
 
-markdown: Pandoc
-pandoc:
-  extensions:
-    - smart
-    - toc
-    - atx-headers
+#markdown: Pandoc
+#pandoc:
+#  extensions:
+#    - smart
+#    - toc
+#    - atx-headers
 
 
 
@@ -202,11 +202,11 @@ sass:
 
 
 # Markdown
-#markdown: kramdown
-#kramdown:
-#  input: GFM
-#  hard_wrap: false
-#highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
 
 
 collections:
