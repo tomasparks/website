@@ -8,7 +8,7 @@ url: https://tomasparks.github.io/
 #url: /
 keep_files:   [".git"]
 include: [".htaccess"]
-exclude: ["README.md", "LICENSE","build.sh","Gemfile.lock","Gemfile"]
+exclude: ["README.md", "LICENSE","build.sh","Gemfile.lock","Gemfile","*.yml"]
 
 strict_front_matter: true
 
