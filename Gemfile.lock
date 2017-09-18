@@ -81,7 +81,7 @@ GEM
     namae (0.11.3)
     nokogiri (1.8.0)
       mini_portile2 (~> 2.2.0)
-    pandoc-ruby (2.0.1)
+    pandoc-ruby (2.0.2)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
     public_suffix (3.0.0)
