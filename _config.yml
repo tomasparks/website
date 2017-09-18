@@ -43,7 +43,7 @@ plugins:
 # - 'jekyll-lunr-js-search'
  - 'jekyll-seo-tag'
  - 'jekyll/responsive_image'
-# - 'jekyll-redirect-from'
+ - 'jekyll-redirect-from'
 # - 'jekyll-paginate-v2'
  - 'jekyll/scholar'
 # - 'jekyll/scholar/extras'
