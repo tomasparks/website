@@ -40,7 +40,7 @@ collections:
 
 plugins: 
 # - 'jekyll-pandoc'
-# - 'jekyll-lunr-js-search'
+ - 'jekyll-lunr-js-search'
  - 'jekyll-seo-tag'
  - 'jekyll/responsive_image'
  - 'jekyll-redirect-from'
