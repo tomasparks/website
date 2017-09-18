@@ -1,0 +1,3 @@
+scholar:
+  style: _includes/ieee-with-url.csl
+  locale: en
