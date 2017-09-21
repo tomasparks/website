@@ -1,3 +1,5 @@
+# jekyll-scholar
+# https://github.com/inukshuk/jekyll-scholar
 scholar:
   style: _includes/ieee-with-url.csl
   locale: en
