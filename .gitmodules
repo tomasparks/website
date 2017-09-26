@@ -1,0 +1,12 @@
+[submodule "assets/ext/fancybox"]
+	path = assets/ext/fancybox
+	url = https://github.com/fancyapps/fancybox.git
+[submodule "assets/ext/tablesorter"]
+	path = assets/ext/tablesorter
+	url = https://github.com/christianbach/tablesorter.git
+[submodule "assets/ext/moment"]
+	path = assets/ext/moment
+	url = https://github.com/moment/moment.git
+[submodule "assets/ext/Imager.js"]
+	path = assets/ext/Imager.js
+	url = https://github.com/BBC-News/Imager.js.git
