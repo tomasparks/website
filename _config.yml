@@ -1,3 +1,10 @@
+repo: website
+branch: master
+
+# Jekyll source / destination
+source: .
+destination: _site
+
 # Blog settings
 permalink: '/archive/:year/:month/:slug.html'
 
