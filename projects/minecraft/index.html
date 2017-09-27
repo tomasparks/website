@@ -1,35 +1,16 @@
 ---
-layout: page
-title: minecraft themepark
-#permalink: '/minecraft/'
-pagination: 
-  enabled: true
-  collection: projects
-  category: minecraft
-  permalink: ':num.html'
+layout: default
+title: minecraft project
+category: minecraft
 ---
-<ul>
-    {% for items in site.projects %}
-      {% if items.category == "minecraft" %}
-        <li><a href="{{ items.url }}">{{ items.title }}</a></li>
-<div>
-{{ items.content }}
-</div>
-      {% endif %}
-    {% endfor %}
-</ul>
-
-{% if paginator.total_pages > 1 %}
-<ul>
-  {% if paginator.previous_page %}
-  <li>
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
-  </li>
+{% for post in site.posts %}      
+  {% if post.categories contains 'minecraft' %}
+	<div class="post">
+		<h3 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+		<p class="meta">Date: {{ post.date }}</p>
+		<div class="entry">
+			{{ post.content | strip_html | truncatewords: 100 }}
+		</div>
+	</div>
   {% endif %}
-  {% if paginator.next_page %}
-  <li>
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
-  </li>
-  {% endif %}
-</ul>
-{% endif %}
+{% endfor %}
