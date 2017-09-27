@@ -1,0 +1,17 @@
+- title: home
+  url: /
+
+- title: about me
+  url: /about-me/
+
+- title: Art
+  url: /art/
+
+- title: Open Questions
+  url: /questions/
+
+- title: Projects
+  url: /projects/
+
+- title: blogroll
+  url: /website/blogroll.html
