@@ -5,6 +5,7 @@ scholar:
    locale: en
    source: ./_bibliography
    bibliography: other.bib
+   repository: ./projects/Articles
    use_raw_bibtex_entry: true
    sort_by: none
    order: ascending
