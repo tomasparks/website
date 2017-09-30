@@ -11,6 +11,5 @@ scholar:
    order: ascending
    group_by: none
    group_order: ascending
-   bibtex_filters: latex,smallcaps,superscript
    bibliography_list_tag: tbody
    bibliography_item_tag: tr

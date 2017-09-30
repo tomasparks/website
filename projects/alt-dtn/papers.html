@@ -1,0 +1,70 @@
+---
+layout: default
+---
+{% include jquery-ui.html %}
+<main role="main">
+<article>
+
+<script type="text/javascript" src="{{ site.url }}/assets/ext/tablesorter/jquery.tablesorter.js"></script> 
+<style>
+/* tables */
+table.tablesorter {
+	margin:10px 0pt 15px;
+	width: 100%;
+	text-align: left;
+}
+table.tablesorter thead tr th, table.tablesorter tfoot tr th {
+	border: 1px solid
+	padding: 4px;
+}
+table.tablesorter thead tr .header {
+	cursor: pointer;
+}
+table.tablesorter tbody td {
+	padding: 4px;
+	vertical-align: top;
+}
+table.tablesorter tbody tr.odd td {
+}
+
+table.tablesorter thead tr .headerSortDown, table.tablesorter thead tr .headerSortUp {
+}
+
+
+table th.headerSortUp:after {
+   content: " \2191";
+}
+
+table th.headerSortDown:after {
+   content: " \2193";
+}
+
+table th:after {
+}
+</style>
+<table id="myTable" class="tablesorter"> 
+<thead>        
+
+<tr> 
+    <th>Title</th> 
+    <th>Authors</th> 
+    <th>Abstract</th> 
+    <th>tags</th> 
+    <th>cats</th> 
+    <th>year</th>
+</tr>       
+
+</thead> 
+
+{% bibliography --file altdtn --template bib_table %}
+
+</table> 
+</article>
+</main>
+<script>
+$(document).ready(function() 
+    { 
+        $("#myTable").tablesorter(); 
+    } 
+); 
+</script>
