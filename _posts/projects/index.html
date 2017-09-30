@@ -1,0 +1,43 @@
+---
+layout: default
+title: Projects
+---
+<!-- start of page -->
+<main role="main">
+<article>
+{% if page.title %}
+<header>
+    <h1>{{ page.title }}</h1>
+</header>
+{% endif %}
+
+<!-- create categories array-->
+{% assign categories_array = "" | split:"|" %}
+
+<!--Add each unique 'projects' category to the array-->
+{% for post in site.projects %}
+    {% for category in post.categories %}
+        {% assign categories_array = categories_array | push: category | uniq %}
+    {% endfor %}
+{% endfor %}
+<!--{{ categories_array | jsonify }} -->
+
+
+<!--Output the categories-->
+{% for category in categories_array %}
+    <h2>{{ category }}</h2>
+
+
+    {% for item in site.projects %}
+
+<!-- {{ item.title }} -->
+<!-- {{item.categories}} -->
+      {% if item.categories == category %}
+        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+
+{% endfor %}
+</article>
+</main>
+<!-- end of page -->

@@ -1,0 +1,132 @@
+---
+layout: default
+---
+{% include jquery-ui.html %}
+<main role="main">
+<article>
+
+<script type="text/javascript" src="{{ site.url }}/assets/ext/tablesorter/jquery.tablesorter.js"></script> 
+<style>
+/* tables */
+table.tablesorter {
+	margin:10px 0pt 15px;
+	width: 100%;
+	text-align: left;
+}
+table.tablesorter thead tr th, table.tablesorter tfoot tr th {
+	border: 1px solid
+	padding: 4px;
+}
+table.tablesorter thead tr .header {
+	cursor: pointer;
+}
+table.tablesorter tbody td {
+	padding: 4px;
+	vertical-align: top;
+}
+table.tablesorter tbody tr.odd td {
+}
+
+table.tablesorter thead tr .headerSortDown, table.tablesorter thead tr .headerSortUp {
+}
+
+
+table th.headerSortUp:after {
+   content: " \2191";
+}
+
+table th.headerSortDown:after {
+   content: " \2193";
+}
+
+table th:after {
+}
+</style>
+<table id="myTable" class="tablesorter"> 
+<thead>        
+
+<tr> 
+    <th>Title</th> 
+    <th>Authors</th> 
+    <th>Abstract</th> 
+    <th>tags</th> 
+    <th>cats</th> 
+    <th>year</th>
+</tr>       
+
+</thead> 
+<tbody> 
+
+{% bibliography --file 3D_graphics --template bib_table %}
+
+ {% for item in site.data.x3d.papers.models.LODing.lod %}
+<tr> 
+    <td><a href="{{ item.url }}">{{ item.title }}</a></td> 
+    <td>{{item.authors}}</td> 
+    <td>{{item.Abstract}}</td> 
+    <td>{{item.tags}}</td> 
+    <td>LOD</td> 
+    <td>{{item.year}}</td>
+</tr> 
+  {% endfor %}
+
+
+ {% for item in site.data.x3d.papers.models.LODing.indoors.indoor %}
+<tr> 
+    <td><a href="{{ item.url }}">{{ item.title }}</a></td> 
+    <td>{{item.authors}}</td> 
+    <td>{{item.Abstract}}</td> 
+    <td>{{item.tags}}</td> 
+    <td>LOD, indoors</td> 
+    <td>{{item.year}}</td>
+</tr> 
+  {% endfor %}
+
+
+ {% for item in site.data.x3d.papers.models.LODing.indoors.portal.portal %}
+<tr> 
+    <td><a href="{{ item.url }}">{{ item.title }}</a></td> 
+    <td>{{item.authors}}</td> 
+    <td>{{item.Abstract}}</td> 
+    <td>{{item.tags}}</td> 
+    <td>LOD, indoors, portal</td> 
+    <td>{{item.year}}</td>
+</tr> 
+  {% endfor %}
+
+
+
+
+
+ {% for item in site.data.x3d.papers.models.LODing.outdoors.octree.octree %}
+<tr> 
+    <td><a href="{{ item.url }}">{{ item.title }}</a></td> 
+    <td>{{item.authors}}</td> 
+    <td>{{item.Abstract}}</td> 
+    <td>{{item.tags}}</td> 
+    <td>LOD, Outdoors, Octree</td> 
+    <td>{{item.year}}</td>
+</tr> 
+  {% endfor %}
+<tr> 
+        {% for item in site.data.x3d.papers.models.LODing.outdoors.tile.tile %}
+<tr> 
+    <td><a href="{{ item.url }}">{{ item.title }}</a></td> 
+    <td>{{item.authors}}</td> 
+    <td>{{item.Abstract}}</td> 
+    <td>{{item.tags}}</td> 
+    <td>LOD, Outdoors, tile</td> 
+    <td>{{item.year}}</td>
+</tr> 
+  {% endfor %}
+</tbody> 
+</table> 
+</article>
+</main>
+<script>
+$(document).ready(function() 
+    { 
+        $("#myTable").tablesorter(); 
+    } 
+); 
+</script>
