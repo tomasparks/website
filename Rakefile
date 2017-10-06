@@ -207,6 +207,7 @@ namespace :site do
     end
 
     # Make sure destination folder exists as git repo
+    sh "cd #{USERNAME}/#{REPO}/"
     check_destination
 
     sh "git checkout #{SOURCE_BRANCH}"
