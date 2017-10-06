@@ -208,6 +208,15 @@ namespace :site do
 
     # Make sure destination folder exists as git repo
     check_destination
+    sh "git clone https://github.com/tomasparks/Dynix-theme-jekyll.git _theme"
+    sh "diff -r -u --exclude=\".git\"  ./_theme/ . > ../build-precopy-diff.txt"
+    sh "cd _theme"
+    sh "cp -n -r * ../"
+    sh "cd .."
+    sh "ls"
+    sh "patch -p0 --unified --batch --verbose < ../build-precopy-diff.txt"
+    sh "patch -p0 --unified --batch --verbose < ../build-precopy-diff.txt"
+
 
     sh "git checkout #{SOURCE_BRANCH}"
     Dir.chdir(CONFIG["destination"]) { sh "git checkout #{DESTINATION_BRANCH}" }
