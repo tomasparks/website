@@ -1,4 +1,4 @@
-source 'https://gems.travis-ci.org'
+source 'https://rubygems.org'
 gem 'jekyll'
 gem 'jekyll-lunr-js-search'
 #gem 'jekyll-archives'
