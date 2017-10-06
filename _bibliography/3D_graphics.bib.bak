@@ -1,17 +1,17 @@
 % Encoding: UTF-8
 
 @Article{Aila2004,
-  author   = {Aila, T and Miettinen, V},
-  title    = {dPVS: an occlusion culling system for massive dynamic environments},
-  journal  = {IEEE Computer Graphics and Applications},
-  year     = {2004},
-  volume   = {24},
-  number   = {2},
-  pages    = {86-97},
-  month    = {March},
-  abstract = {A platform-independent occlusion culling library for dynamic environments, dPVS, can benefit such applications as CAD and modeling tools, time-varying simulations, and computer games. Visibility optimization is currently the most effective technique for improving rendering performance in complex 3D environments. The primary reason for this is that during each frame the pixel processing subsystem needs to determine the visibility of each pixel individually. Currently, rendering performance in larger scenes is input sensitive, and most of the processing time is wasted on rendering geometry not visible in the final image. Here we concentrate on real-time visualization using mainstream graphics hardware that has a z-buffer as a de facto standard for hidden surface removal. In an ideal system only the complexity of the geometry actually visible on the screen would significantly impact rendering time - 3D application performance should be output sensitive.},
-  doi      = {10.1109/MCG.2004.1274066},
-  isbn     = {0272-1716},
+  author       = {Aila, T and Miettinen, V},
+  title        = {dPVS: an occlusion culling system for massive dynamic environments},
+  volume       = {24},
+  number       = {2},
+  pages        = {86--97},
+  abstract     = {A platform-independent occlusion culling library for dynamic environments, dPVS, can benefit such applications as CAD and modeling tools, time-varying simulations, and computer games. Visibility optimization is currently the most effective technique for improving rendering performance in complex 3D environments. The primary reason for this is that during each frame the pixel processing subsystem needs to determine the visibility of each pixel individually. Currently, rendering performance in larger scenes is input sensitive, and most of the processing time is wasted on rendering geometry not visible in the final image. Here we concentrate on real-time visualization using mainstream graphics hardware that has a z-buffer as a de facto standard for hidden surface removal. In an ideal system only the complexity of the geometry actually visible on the screen would significantly impact rendering time - 3D application performance should be output sensitive.},
+  date         = {2004-03},
+  doi          = {10.1109/MCG.2004.1274066},
+  isbn         = {0272-1716},
+  journaltitle = {IEEE Computer Graphics and Applications},
+  keywords     = {models},
 }
 
 @InProceedings{Andrioti2015,
@@ -25,7 +25,9 @@
   publisher = {ACM},
   doi       = {10.1145/2775292.2775316},
   isbn      = {978-1-4503-3647-5},
+  keywords  = {X3D, web3D},
   location  = {Heraklion, Crete, Greece},
+  timestamp = {2017-10-01},
   url       = {http://doi.acm.org/10.1145/2775292.2775316},
 }
 
@@ -40,6 +42,7 @@
   publisher = {ACM},
   doi       = {10.1145/2338714.2338717},
   isbn      = {978-1-4503-1432-9},
+  keywords  = {web3D, X3D},
   location  = {Los Angeles, California},
   url       = {http://doi.acm.org/10.1145/2338714.2338717},
 }
@@ -55,7 +58,9 @@
   abstract  = {We present a method to populate very large terrains with very detailed features such as roads, rivers, lakes and fields. These features can be interactively edited, and the landscape can be explored in real time at any altitude from flight view to car view. We use vector descriptions of linear and areal features, with associated shaders to specify their appearance (terrain color and material), their footprint (effect on terrain shape), and their associated objects (bridges, hedges, etc.).In order to encompass both very large terrains and very fine details we rely on a view dependent quadtree refinement scheme. New quads are generated when needed and cached on the GPU. For each quad we produce on the GPU an appearance texture, a footprint texture, and some object meshes, based on the features vector description and their associated shaders. Adaptive refinement, procedural vector features and a mipmap pyramid provide three LOD mechanisms for small, medium and large scale quads. Our results and attached video show high performance with high visual quality.},
   doi       = {10.1111/j.1467-8659.2008.01128.x},
   isbn      = {1467-8659},
+  keywords  = {vector, outdoor, texture},
   publisher = {Blackwell Publishing Ltd},
+  timestamp = {2017-10-01},
   url       = {http://dx.doi.org/10.1111/j.1467-8659.2008.01128.x},
 }
 
@@ -70,6 +75,7 @@
   abstract = {Within this paper, we present a novel, straightforward progressive encoding scheme for general triangle soups, which is particularly well-suited for mobile and Web-based environments due to its minimal requirements on the client's hardware and software. Our rapid encoding method uses a hierarchy of quantization to effectively reorder the original primitive data into several nested levels of detail. The resulting stateless buffer can progressively be transferred as-is to the GPU, where clustering is efficiently performed in parallel during rendering. We combine our approach with a crack-free mesh partitioning scheme to obtain a straightforward method for fast streaming and basic view-dependent LOD control.},
   doi      = {10.1111/cgf.12227},
   isbn     = {1467-8659},
+  keywords = {LOD, X3D, webgl},
   url      = {http://dx.doi.org/10.1111/cgf.12227},
 }
 
@@ -98,6 +104,7 @@
   publisher = {ACM},
   doi       = {10.1145/2466533.2466537},
   isbn      = {978-1-4503-2133-4},
+  keywords  = {web3D},
   location  = {San Sebastian, Spain},
   url       = {http://doi.acm.org/10.1145/2466533.2466537},
 }
@@ -107,6 +114,7 @@
   title     = {A framework for server side rendering using OGC's 3D portrayal service},
   booktitle = {Web3D},
   year      = {2016},
+  keywords  = {web3D},
 }
 
 @InProceedings{Hu2017,
@@ -120,7 +128,10 @@
   publisher = {ACM},
   doi       = {10.1145/3055624.3075944},
   isbn      = {978-1-4503-4955-0},
+  keywords  = {P2P network, indoor webtorrent, web3D},
   location  = {Brisbane, Queensland, Australia},
+  review    = {I contacted the authors to see about getting the source code and got no reply :(},
+  timestamp = {2017-10-01},
   url       = {http://doi.acm.org/10.1145/3055624.3075944},
 }
 
@@ -135,7 +146,9 @@
   publisher = {ACM},
   doi       = {10.1145/2775292.2778296},
   isbn      = {978-1-4503-3647-5},
+  keywords  = {X3D, web3D},
   location  = {Heraklion, Crete, Greece},
+  timestamp = {2017-10-01},
   url       = {http://doi.acm.org/10.1145/2775292.2778296},
 }
 
@@ -159,6 +172,7 @@ interface technology and facilitates the development of visual
 analysis and exploration tools.},
   doi       = {10.1145/585147.585170},
   isbn      = {1-58113-591-2},
+  keywords  = {outdoor, models},
   location  = {McLean, Virginia, USA},
   url       = {http://doi.acm.org/10.1145/585147.585170},
 }
@@ -174,6 +188,7 @@ analysis and exploration tools.},
   address   = {San Diego, CA, USA},
   doi       = {10.1016/j.gmod.2016.06.001},
   isbn      = {1524-0703},
+  keywords  = {models, web3D},
   publisher = {Academic Press Professional, Inc.},
   url       = {https://doi.org/10.1016/j.gmod.2016.06.001},
 }
@@ -189,7 +204,9 @@ analysis and exploration tools.},
   publisher = {ACM},
   doi       = {10.1145/2338714.2338738},
   isbn      = {978-1-4503-1432-9},
+  keywords  = {X3D network, web3D},
   location  = {Los Angeles, California},
+  timestamp = {2017-10-01},
   url       = {http://doi.acm.org/10.1145/2338714.2338738},
 }
 
@@ -204,6 +221,7 @@ analysis and exploration tools.},
   publisher = {ACM},
   doi       = {10.1145/3055624.3075952},
   isbn      = {978-1-4503-4955-0},
+  keywords  = {web3D},
   location  = {Brisbane, Queensland, Australia},
   url       = {http://doi.acm.org/10.1145/3055624.3075952},
 }
@@ -213,6 +231,7 @@ analysis and exploration tools.},
   title     = {PBTree - A New Progressive and Hierarchical Representation for Network-Based Navigation in Urban Environments},
   booktitle = {VMV},
   year      = {2003},
+  keywords  = {network, outdoor},
 }
 
 @InProceedings{Schiefer2010,
@@ -226,7 +245,9 @@ analysis and exploration tools.},
   publisher = {ACM},
   doi       = {10.1145/1836049.1836057},
   isbn      = {978-1-4503-0209-8},
+  keywords  = {web3D},
   location  = {Los Angeles, California},
+  timestamp = {2017-10-01},
   url       = {http://doi.acm.org/10.1145/1836049.1836057},
 }
 
@@ -272,6 +293,7 @@ level. The results from a straight forward imple-
 mentation tried on large mesh models downloaded
 from the net are extremely encouraging.},
   isbn      = {3-89838-028-9},
+  keywords  = {models, portal, indoor},
   url       = {http://dl.acm.org/citation.cfm?id=647260.718648},
 }
 
@@ -295,7 +317,9 @@ from the net are extremely encouraging.},
   publisher = {ACM},
   doi       = {10.1145/2945292.2945304},
   isbn      = {978-1-4503-4428-9},
+  keywords  = {X3D web3D},
   location  = {Anaheim, California},
+  timestamp = {2017-10-01},
   url       = {http://doi.acm.org/10.1145/2945292.2945304},
 }
 
@@ -310,7 +334,9 @@ from the net are extremely encouraging.},
   address   = {Chichester, UK},
   doi       = {10.1002/cav.1670},
   isbn      = {1546-4261},
+  keywords  = {P2P network},
   publisher = {John Wiley and Sons Ltd.},
+  timestamp = {2017-10-01},
   url       = {https://doi.org/10.1002/cav.1670},
 }
 
@@ -326,6 +352,7 @@ from the net are extremely encouraging.},
   abstract  = {Different from the strategy of virtual scene in the stand-alone application, web version may have larger scale scene and more users online at same time. However, because of the network delay (latency) and limitation of computational power of the servers, it causes that users unable to interactively access the virtual scene fluently. Meanwhile, the large scale virtual scene cannot be successfully loaded in the entry-level client machine. In this paper, we propose a client-driven strategy of scene streaming in order to solve large-scale data transmission. The experiment demonstrates that our method enables clients to enter the scene roaming and reduce the server network load. Meanwhile, it also adapts different network architectures.},
   booktitle = {MultiMedia Modeling: 22nd International Conference, MMM 2016, Miami, FL, USA, January 4-6, 2016, Proceedings, Part II},
   doi       = {10.1007/978-3-319-27674-8_9},
+  keywords  = {network, models},
   url       = {https://doi.org/10.1007/978-3-319-27674-8_9},
 }
 
@@ -336,6 +363,9 @@ from the net are extremely encouraging.},
   year         = {1997},
   pages        = {355-ff},
   organization = {IEEE Computer Society Press},
+  groups       = {portal},
+  keywords     = {portal Impostor, texture, indoor},
+  timestamp    = {2017-10-01},
   url          = {/home/tom/Documents/articles/aliaga1997architectural.pdf},
 }
 
@@ -346,6 +376,9 @@ from the net are extremely encouraging.},
   year         = {1999},
   pages        = {199-206},
   organization = {ACM},
+  groups       = {portal},
+  keywords     = {portal Impostor, models},
+  timestamp    = {2017-10-01},
 }
 
 @InProceedings{Andujar2004,
@@ -357,6 +390,7 @@ from the net are extremely encouraging.},
   number       = {3},
   pages        = {499-508},
   organization = {Wiley Online Library},
+  keywords     = {models},
 }
 
 @InProceedings{Cavagna2006,
@@ -366,6 +400,8 @@ from the net are extremely encouraging.},
   year         = {2006},
   pages        = {269-276},
   organization = {ACM},
+  keywords     = {P2P network},
+  timestamp    = {2017-10-01},
 }
 
 @Article{Cignoni2003,
@@ -401,6 +437,7 @@ a conservative superset of an  -neighborhood of a given
 viewpoint. Having such an  -superset, the client is free to
 render the model independently of the server as long as
 he moves within that  -neighborhood.},
+  keywords  = {network, models},
   url       = {/home/tom/Documents/articles/cohen1998visibility.pdf},
 }
 
@@ -420,6 +457,7 @@ he moves within that  -neighborhood.},
   title     = {iWalk: Interactive out-of-core rendering of large models},
   journal   = {Technical Report TR-653-02},
   year      = {2002},
+  keywords  = {models},
   publisher = {Princeton University},
 }
 
@@ -430,6 +468,7 @@ he moves within that  -neighborhood.},
   year      = {1996},
   volume    = {96},
   pages     = {1-8},
+  keywords  = {models, portal, indoor},
 }
 
 @InProceedings{Haumont2003,
@@ -441,24 +480,28 @@ he moves within that  -neighborhood.},
   number       = {3},
   pages        = {303-312},
   organization = {Wiley Online Library},
+  keywords     = {portal generation},
+  timestamp    = {2017-10-01},
 }
 
 @Article{Havemann2005,
   author    = {Havemann, Sven and Fellner, Dieter W},
   title     = {Generative mesh modeling.},
   year      = {2005},
+  keywords  = {models},
   publisher = {Braunschweig University of Technology, Germany},
 }
 
 @Article{Mao2014,
-  author  = {Mao, B. and Harrie, L. and Cao, J. and Wu, Z. and Shen, J.},
-  title   = {NoSQL Based 3D City Model Management System},
-  journal = {ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
-  year    = {2014},
-  volume  = {XL-4},
-  pages   = {169-173},
-  doi     = {10.5194/isprsarchives-XL-4-169-2014},
-  url     = {https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XL-4/169/2014/},
+  author   = {Mao, B. and Harrie, L. and Cao, J. and Wu, Z. and Shen, J.},
+  title    = {NoSQL Based 3D City Model Management System},
+  journal  = {ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
+  year     = {2014},
+  volume   = {XL-4},
+  pages    = {169-173},
+  doi      = {10.5194/isprsarchives-XL-4-169-2014},
+  keywords = {models, octree},
+  url      = {https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XL-4/169/2014/},
 }
 
 @InProceedings{Johansson2009,
@@ -467,13 +510,16 @@ he moves within that  -neighborhood.},
   booktitle = {PROCEEDINGS OF THE 2009 INTERNATIONAL CONFERENCE ON COMPUTER GRAPHICS AND VIRTUAL REALITY (CGVR09)},
   year      = {2009},
   pages     = {97},
+  keywords  = {models},
 }
 
 @PhdThesis{Lefebvre2003,
-  author = {Lefebvre, Sylvain and Hornus, Samuel},
-  title  = {Automatic cell-and-portal decomposition},
-  school = {INRIA},
-  year   = {2003},
+  author    = {Lefebvre, Sylvain and Hornus, Samuel},
+  title     = {Automatic cell-and-portal decomposition},
+  school    = {INRIA},
+  year      = {2003},
+  keywords  = {portal generation},
+  timestamp = {2017-10-01},
 }
 
 @InProceedings{Lerner2003,
@@ -483,6 +529,8 @@ he moves within that  -neighborhood.},
   year         = {2003},
   pages        = {303-312},
   organization = {IEEE},
+  keywords     = {portal generation},
+  timestamp    = {2017-10-01},
 }
 
 @InProceedings{Losasso2004,
@@ -494,6 +542,7 @@ he moves within that  -neighborhood.},
   number       = {3},
   pages        = {769-776},
   organization = {ACM},
+  keywords     = {outdoor},
 }
 
 @InProceedings{Marvie2003,
@@ -503,6 +552,7 @@ he moves within that  -neighborhood.},
   year      = {2003},
   volume    = {2},
   pages     = {756-761},
+  keywords  = {texture},
   url       = {/home/tom/Documents/articles/marvie2003remote.pdf},
 }
 
@@ -513,6 +563,8 @@ he moves within that  -neighborhood.},
   year         = {2004},
   pages        = {145-153},
   organization = {ACM},
+  keywords     = {X3D, portal},
+  timestamp    = {2017-10-01},
 }
 
 @Article{Marvie2005,
@@ -523,6 +575,7 @@ he moves within that  -neighborhood.},
   volume    = {21},
   number    = {5},
   pages     = {329-339},
+  keywords  = {models},
   publisher = {Springer},
 }
 
@@ -533,15 +586,18 @@ he moves within that  -neighborhood.},
   year         = {2011},
   pages        = {111-120},
   organization = {ACM},
+  keywords     = {texture, models, network, LOD},
 }
 
 @Article{Mattausch2006,
-  author  = {Mattausch, Oliver and Bittner, Jir\'\i and Wimmer, Michael},
-  title   = {Adaptive Visibility-Driven View Cell Construction.},
-  journal = {Rendering Techniques},
-  year    = {2006},
-  volume  = {2006},
-  pages   = {195-206},
+  author    = {Mattausch, Oliver and Bittner, Jir\'\i and Wimmer, Michael},
+  title     = {Adaptive Visibility-Driven View Cell Construction.},
+  journal   = {Rendering Techniques},
+  year      = {2006},
+  volume    = {2006},
+  pages     = {195-206},
+  keywords  = {portal},
+  timestamp = {2017-10-01},
 }
 
 @Article{Meneveaux1998,
@@ -552,6 +608,7 @@ he moves within that  -neighborhood.},
   volume    = {9},
   number    = {4},
   pages     = {195-213},
+  keywords  = {portal, indoor},
   publisher = {John Wiley \& Sons, Ltd.},
 }
 
@@ -562,6 +619,7 @@ he moves within that  -neighborhood.},
   year         = {2007},
   pages        = {105-112},
   organization = {ACM},
+  keywords     = {models},
 }
 
 @InProceedings{Mulloni2007,
@@ -571,6 +629,7 @@ he moves within that  -neighborhood.},
   year         = {2007},
   pages        = {17-25},
   organization = {ACM},
+  keywords     = {models},
 }
 
 @InProceedings{Ozaki2015,
@@ -588,6 +647,7 @@ he moves within that  -neighborhood.},
   year         = {2016},
   pages        = {183-184},
   organization = {ACM},
+  keywords     = {web3D},
 }
 
 @InProceedings{Popescu1998,
@@ -597,6 +657,8 @@ he moves within that  -neighborhood.},
   year         = {1998},
   pages        = {211-215},
   organization = {IEEE Computer Society Press},
+  keywords     = {portal Impostor LDI, indoor},
+  timestamp    = {2017-10-01},
   url          = {/home/tom/Documents/articles/popescu1998efficient.pdf},
 }
 
@@ -607,6 +669,8 @@ he moves within that  -neighborhood.},
   year         = {2005},
   pages        = {299-306},
   organization = {ACM},
+  keywords     = {terrain, outdoor},
+  timestamp    = {2017-10-01},
 }
 
 @InProceedings{Rafferty1998,
@@ -616,6 +680,8 @@ he moves within that  -neighborhood.},
   year         = {1998},
   pages        = {228-233},
   organization = {IEEE},
+  keywords     = {portal Impostor, indoor},
+  timestamp    = {2017-10-01},
   url          = {/home/tom/Documents/articles/rafferty19983d.pdf},
 }
 
@@ -627,7 +693,9 @@ he moves within that  -neighborhood.},
   volume    = {18},
   number    = {6},
   pages     = {38-45},
+  keywords  = {portal Impostor, indoor},
   publisher = {IEEE},
+  timestamp = {2017-10-01},
 }
 
 @Article{Schneider2007,
@@ -641,7 +709,9 @@ he moves within that  -neighborhood.},
   abstract  = {In geographical information systems (GIS) vector data has important applications in the analysis and management of virtual landscapes. Therefore, methods that allow combined visualization of terrain and geo-spatial vector data are required. Such methods have to adapt the vector data to the terrain surface and to ensure a precise and efficient mapping. In this paper, we present a method that is based on the stencil shadow volume algorithm and allows high-quality real-time overlay of vector data on virtual landscapes. Since the method is a screen-space algorithm it is per-pixel exact and does not suffer from aliasing artifacts like texture-based techniques. In addition, since the method is independent of the underlying terrain geometry, its performance does not depend on the complexity of the data set but only on the complexity of the vector data.},
   editor    = {Skala, V.},
   isbn      = {1213-6972978-86943-00-8},
+  keywords  = {vector, outdoor, texture, octree},
   publisher = {UNION Agency-Science Press},
+  timestamp = {2017-10-01},
 }
 
 @InProceedings{Scully2015,
@@ -651,6 +721,8 @@ he moves within that  -neighborhood.},
   year         = {2015},
   pages        = {235-243},
   organization = {ACM},
+  keywords     = {X3D web3D},
+  timestamp    = {2017-10-01},
 }
 
 @InProceedings{Scully2016,
@@ -660,6 +732,8 @@ he moves within that  -neighborhood.},
   year         = {2016},
   pages        = {7-15},
   organization = {ACM},
+  keywords     = {X3D, web3D, webgl},
+  timestamp    = {2017-10-01},
 }
 
 @InProceedings{Shade1996,
@@ -669,6 +743,7 @@ he moves within that  -neighborhood.},
   year         = {1996},
   pages        = {75-82},
   organization = {ACM},
+  keywords     = {Impostor},
 }
 
 @InProceedings{Shade1998,
@@ -678,6 +753,7 @@ he moves within that  -neighborhood.},
   year         = {1998},
   pages        = {231-242},
   organization = {ACM},
+  keywords     = {LDI},
   url          = {/home/tom/Documents/articles/shade1998layered.pdf},
 }
 
@@ -689,14 +765,17 @@ he moves within that  -neighborhood.},
   volume       = {16},
   number       = {3},
   organization = {Wiley Online Library},
+  keywords     = {Impostor},
+  timestamp    = {2017-10-01},
   url          = {/home/tom/Documents/articles/sillion1997efficient.pdf},
 }
 
 @PhdThesis{Singh2012,
-  author = {Singh, Ankit},
-  title  = {A Novel Level-of-Detail Technique for Virtual City Environments: Design and Evaluation},
-  school = {Virginia Tech},
-  year   = {2012},
+  author   = {Singh, Ankit},
+  title    = {A Novel Level-of-Detail Technique for Virtual City Environments: Design and Evaluation},
+  school   = {Virginia Tech},
+  year     = {2012},
+  keywords = {outdoor},
 }
 
 @InProceedings{Spini2016,
@@ -705,15 +784,18 @@ he moves within that  -neighborhood.},
   booktitle = {Web3D},
   year      = {2016},
   pages     = {151-154},
+  keywords  = {web3D, indoor, texture},
+  timestamp = {2017-10-01},
   url       = {/home/tom/Documents/articles/spini2016web.pdf},
 }
 
 @Article{Steed1999,
-  author  = {Steed, Anthony and Fr\'econ, Emmanuel},
-  title   = {Building and supporting a large-scale collaborative virtual environment},
-  journal = {Proceedings of 6th UKVRSIG, University of Salford},
-  year    = {1999},
-  pages   = {59-69},
+  author   = {Steed, Anthony and Fr\'econ, Emmanuel},
+  title    = {Building and supporting a large-scale collaborative virtual environment},
+  journal  = {Proceedings of 6th UKVRSIG, University of Salford},
+  year     = {1999},
+  pages    = {59-69},
+  keywords = {outdoor},
 }
 
 @InProceedings{Stein2014,
@@ -723,6 +805,7 @@ he moves within that  -neighborhood.},
   year         = {2014},
   pages        = {53-61},
   organization = {ACM},
+  keywords     = {models, octree},
 }
 
 @InProceedings{TruebaHornero2008,
@@ -750,21 +833,7 @@ he moves within that  -neighborhood.},
   year         = {2017},
   pages        = {4},
   organization = {ACM},
-}
-
-@InBook{Wachs2014,
-  pages     = {19-30},
-  title     = {On the Feasibility of a Censorship Resistant Decentralized Name System},
-  publisher = {Springer International Publishing},
-  year      = {2014},
-  author    = {Wachs, Matthias and Schanzenbach, Martin and Grothoff, Christian},
-  editor    = {Danger, Jean Luc and Debbabi, Mourad and Marion, Jean-Yves and Garcia-Alfaro, Joaquin and Zincir Heywood, Nur},
-  address   = {Cham},
-  isbn      = {978-3-319-05302-8},
-  abstract  = {A central problem on the Internet today is that key infrastructure for security is concentrated in a few places. This is particularly true in the areas of naming and public key infrastructure. Secret services and other government organizations can use this fact to block access to information or monitor communications. One of the most popular and easy to perform techniques is to make information on the Web inaccessible by censoring or manipulating the Domain Name System (DNS). With the introduction of DNSSEC, the DNS is furthermore posed to become an alternative PKI to the failing X.509 CA system, further cementing the power of those in charge of operating DNS.},
-  booktitle = {Foundations and Practice of Security: 6th International Symposium, FPS 2013, La Rochelle, France, October 21-22, 2013, Revised Selected Papers},
-  doi       = {10.1007/978-3-319-05302-8_2},
-  url       = {https://doi.org/10.1007/978-3-319-05302-8_2},
+  keywords     = {models},
 }
 
 @Misc{Papaioannoua,
@@ -779,6 +848,7 @@ he moves within that  -neighborhood.},
   author    = {Mattausch, Oliver and Wimmer, Michael},
   title     = {CHC++: Coherent Hierarchical Culling Revisited},
   abstract  = {We present a new algorithm for efficient occlusion culling using hardware occlusion queries. The algorithm significantly improves on previous techniques by making better use of temporal and spatial coherence of visibility. This is achieved by using adaptive visibility prediction and query batching. As a result of the new optimizations the number of issued occlusion queries and the number of rendering state changes are significantly reduced. We also propose a simple method for determining tighter bounding volumes for occlusion queries and a method which further reduces the pipeline stalls. The proposed method provides up to an order of magnitude speedup over the previous state of the art. The new technique is simple to implement, does not rely on hardware calibration and integrates well with modern game engines. Categories and Subject Descriptors (according to ACM CCS): I.3.7 [Computer Graphics]: Three-Dimensional Graphics and Realism I.3.5 [Computer Graphics]: Computational Geometry and Object Modeling 1.},
+  keywords  = {models, octree},
   owner     = {tom},
   timestamp = {2017-09-16},
 }
@@ -795,7 +865,7 @@ he moves within that  -neighborhood.},
   acmid     = {218391},
   doi       = {10.1145/218380.218391},
   isbn      = {0-89791-701-4},
-  keywords  = {3D graphics hardware, compression, geometry compression},
+  keywords  = {3D graphics hardware, compression, geometry compression, LOD},
   numpages  = {8},
   owner     = {tom},
   timestamp = {2017-09-16},
@@ -815,64 +885,271 @@ he moves within that  -neighborhood.},
   acmid     = {199422},
   doi       = {10.1145/199404.199422},
   isbn      = {0-89791-736-7},
+  keywords  = {portal, models, indoor},
   location  = {Monterey, California, USA},
   owner     = {tom},
-  timestamp = {2017-09-16},
+  timestamp = {2017-10-01},
   url       = {http://doi.acm.org/10.1145/199404.199422},
 }
 
 @Misc{Chamberlain1996a,
-  author        = {Chamberlain, Bradford and Derose, Tony and Lischinski, Dani and Salesin, David and Snyder, John},
-  title         = {Fast Rendering of Complex Environments Using a Spatial Hierarchy},
-  year          = {1996},
-  __markedentry = {[tom:]},
-  abstract      = {We present a new method for accelerating the rendering of complex static scenes. The technique is applicable to unstructured scenes containing arbitrary geometric primitives and has sublinear asymptotic complexity. Our approach is to construct a spatial hierarchy of cells over the scene and to associate with each cell a simplified representation of its contents. The scene is then rendered using a traversal of the hierarchy in which a cell&#039;s approximation is drawn instead of its contents if the approximation is sufficiently accurate. We apply the method to several different scenes and demonstrate significant speedups with little image degradation. We also exhibit and discuss some of the artifacts that our approximation may cause.},
-  owner         = {tom},
-  timestamp     = {2017-09-16},
+  author    = {Chamberlain, Bradford and Derose, Tony and Lischinski, Dani and Salesin, David and Snyder, John},
+  title     = {Fast Rendering of Complex Environments Using a Spatial Hierarchy},
+  year      = {1996},
+  abstract  = {We present a new method for accelerating the rendering of complex static scenes. The technique is applicable to unstructured scenes containing arbitrary geometric primitives and has sublinear asymptotic complexity. Our approach is to construct a spatial hierarchy of cells over the scene and to associate with each cell a simplified representation of its contents. The scene is then rendered using a traversal of the hierarchy in which a cell&#039;s approximation is drawn instead of its contents if the approximation is sufficiently accurate. We apply the method to several different scenes and demonstrate significant speedups with little image degradation. We also exhibit and discuss some of the artifacts that our approximation may cause.},
+  keywords  = {octree},
+  owner     = {tom},
+  timestamp = {2017-09-16},
 }
 
 @InProceedings{Behr2011,
-  author        = {Behr, Johannes and Jung, Yvonne and Drevensek, Timm and Aderhold, Andreas},
-  title         = {Dynamic and Interactive Aspects of X3DOM},
-  booktitle     = {Proceedings of the 16th International Conference on 3D Web Technology},
-  year          = {2011},
-  series        = {Web3D '11},
-  pages         = {81--87},
-  address       = {New York, NY, USA},
-  publisher     = {ACM},
-  __markedentry = {[tom:6]},
-  abstract      = {The previous publications on X3DOM focused on the general integration model [Behr et al. 2009] and implementation strategies [Behr et al. 2010]. The aspects of dynamic and interactive worlds were an essential part, but not specifically addressed as such. The recent major additions to the system are CSS Animations and CSS 3D-Transforms as well as various forms of events for user interaction and system monitoring, which complement the existing design to support a large number of interactive and dynamic use cases. This overall design, including scene update mechanisms, animations, and a large number of DOM-based events are thus presented in this paper as part of a single overall system design.},
-  acmid         = {2010440},
-  doi           = {10.1145/2010425.2010440},
-  isbn          = {978-1-4503-0774-1},
-  keywords      = {DOM, HTML5, WebGL, X3D, web integration},
-  location      = {Paris, France},
-  numpages      = {7},
-  owner         = {tom},
-  timestamp     = {2017-09-17},
-  url           = {http://doi.acm.org/10.1145/2010425.2010440},
+  author    = {Behr, Johannes and Jung, Yvonne and Drevensek, Timm and Aderhold, Andreas},
+  title     = {Dynamic and Interactive Aspects of X3DOM},
+  booktitle = {Proceedings of the 16th International Conference on 3D Web Technology},
+  year      = {2011},
+  series    = {Web3D '11},
+  pages     = {81--87},
+  address   = {New York, NY, USA},
+  publisher = {ACM},
+  abstract  = {The previous publications on X3DOM focused on the general integration model [Behr et al. 2009] and implementation strategies [Behr et al. 2010]. The aspects of dynamic and interactive worlds were an essential part, but not specifically addressed as such. The recent major additions to the system are CSS Animations and CSS 3D-Transforms as well as various forms of events for user interaction and system monitoring, which complement the existing design to support a large number of interactive and dynamic use cases. This overall design, including scene update mechanisms, animations, and a large number of DOM-based events are thus presented in this paper as part of a single overall system design.},
+  acmid     = {2010440},
+  doi       = {10.1145/2010425.2010440},
+  isbn      = {978-1-4503-0774-1},
+  keywords  = {DOM, HTML5, WebGL, X3D, web integration, web3D},
+  location  = {Paris, France},
+  numpages  = {7},
+  owner     = {tom},
+  timestamp = {2017-09-17},
+  url       = {http://doi.acm.org/10.1145/2010425.2010440},
 }
 
 @InProceedings{Behr2009,
-  author        = {Behr, Johannes and Eschler, Peter and Jung, Yvonne and Z\"{o}llner, Michael},
-  title         = {X3DOM: A DOM-based {HTML}5/X3D Integration Model},
-  booktitle     = {Proceedings of the 14th International Conference on 3D Web Technology},
-  year          = {2009},
-  series        = {Web3D '09},
-  pages         = {127--135},
-  address       = {New York, NY, USA},
-  publisher     = {ACM},
-  __markedentry = {[tom:6]},
-  abstract      = {We present a model that allows to directly integrate X3D nodes into HTML5 DOM content. This model tries to fulfill the promise of the HTML5 specification, which references X3D for declarative 3D scenes but does not define a specific integration mode. The goal of this model is to ease the integration of X3D in modern web applications by directly mapping and synchronizing live DOM elements to a X3D scene model. This is a very similar approach to the current SVG integration model for 2D graphics. Furthermore, we propose a framework that includes a new X3D Profile for the DOM integration. This profile should make implementation simple, but in addition we show that the current X3D runtime model still scales well. A detailed discussion includes DOM integration issues like events, namespaces and scripting. We finally propose an implementation framework that should work with multiple browser frontends (e.g. Firefox and WebKit) and different X3D runtime backends. We hope to connect the technologies and the X3D/ W3C communities with this proposal and outline a model, how an integration without plugins could work. Moreover, we hope to inspire further work, which could lead to a native X3D implementation in browsers similar to the SVG implementations today.},
-  acmid         = {1559784},
-  doi           = {10.1145/1559764.1559784},
-  isbn          = {978-1-60558-432-4},
-  keywords      = {DOM, HTML5, X3D, real-time, web integration},
-  location      = {Darmstadt, Germany},
-  numpages      = {9},
+  author    = {Behr, Johannes and Eschler, Peter and Jung, Yvonne and Z\"{o}llner, Michael},
+  title     = {X3DOM: A DOM-based {HTML}5/X3D Integration Model},
+  booktitle = {Proceedings of the 14th International Conference on 3D Web Technology},
+  year      = {2009},
+  series    = {Web3D '09},
+  pages     = {127--135},
+  address   = {New York, NY, USA},
+  publisher = {ACM},
+  abstract  = {We present a model that allows to directly integrate X3D nodes into HTML5 DOM content. This model tries to fulfill the promise of the HTML5 specification, which references X3D for declarative 3D scenes but does not define a specific integration mode. The goal of this model is to ease the integration of X3D in modern web applications by directly mapping and synchronizing live DOM elements to a X3D scene model. This is a very similar approach to the current SVG integration model for 2D graphics. Furthermore, we propose a framework that includes a new X3D Profile for the DOM integration. This profile should make implementation simple, but in addition we show that the current X3D runtime model still scales well. A detailed discussion includes DOM integration issues like events, namespaces and scripting. We finally propose an implementation framework that should work with multiple browser frontends (e.g. Firefox and WebKit) and different X3D runtime backends. We hope to connect the technologies and the X3D/ W3C communities with this proposal and outline a model, how an integration without plugins could work. Moreover, we hope to inspire further work, which could lead to a native X3D implementation in browsers similar to the SVG implementations today.},
+  acmid     = {1559784},
+  doi       = {10.1145/1559764.1559784},
+  isbn      = {978-1-60558-432-4},
+  keywords  = {DOM, HTML5, X3D, real-time, web integration, models, web3D},
+  location  = {Darmstadt, Germany},
+  numpages  = {9},
+  owner     = {tom},
+  timestamp = {2017-09-17},
+  url       = {http://doi.acm.org/10.1145/1559764.1559784},
+}
+
+@InProceedings{Gustavson2006BeyondTP,
+  author    = {Stefan Gustavson},
+  title     = {Beyond the pixel: towards infinite resolution textures},
+  year      = {2006},
+  keywords  = {vector texture},
+  owner     = {tom},
+  timestamp = {2017-10-01},
+}
+
+@Misc{Ray2005,
+  author    = {Ray, Nicolas and Cavin, Xavier and Lévy, Bruno},
+  title     = {Vector texture maps on the GPU},
+  year      = {2005},
+  abstract  = {This paper presents VTMs (Vector Texture Maps), a novel representation of vector images that can be used as a texture by the GPU for real-time rendering. A VTM decomposes texture space into different regions, represented in an analytic way, by a set of implicit degree 3 polynomials. Each region can be rendered by a different fragment shading function. Accurate anti-aliasing is performed in real-time, based on an estimate of fragment coverage. As a consequence, infinite zooming can be applied without any pixel discretization artifact. Based on a hierarchical data structure, our representation has low memory requirements. Its versatility is demonstrated in various settings, including a font engine completely implemented in the GPU.},
+  keywords  = {vector texture},
+  owner     = {tom},
+  timestamp = {2017-10-01},
+}
+
+@Misc{Parvu,
+  author    = {Pârvu, Ovidiu},
+  title     = {A Spatial Database Approach to Virtual Worlds Systems},
+  abstract  = {The rapid pace of computer technology evolution makes web applications suitable for new approaches in taking steps towards a ‘more ’ natural interaction between users of basic online social networking services. One of the properties of “today’s web ” is the ease by which people develop online applications. This paper focuses on the possibility to use spatial database management systems as the building blocks for virtual world like applications facilitating the development of immersive systems for small developers. We propose a model for such an application, the role of the spatial database and elements that should be taken into consideration in the development process. We underline the advantages and disadvantages of using spatial databases for these systems.},
+  keywords  = {network, models, octree},
+  owner     = {tom},
+  timestamp = {2017-10-01},
+}
+
+@Misc{Tschirren1999,
+  author    = {Bernhard Tschirren},
+  title     = {Realtime Walkthroughs of Massive Architectural Models},
+  year      = {1999},
+  abstract  = {Clients are expected to visualise large complex architectural models given only a
+two-dimensional floor plan. A better approach would be to provide a three-
+dimensional view of the building, as seen from a hypothetical human observer. The
+client should be able to interactively control this observer, so that it is possible for
+them to explore the architecture before it is built.
+The architectural model must be completely dynamic. That is, the designer must be
+able to make changes to the model without having to perform an expensive pre-
+processing phase. The only acceptable exception is pre-calculated lighting. Radiosity
+and raytracing schemes are far too slow to be performed in realtime. As a
+compromise, the system should support both dynamic lights, and more realistic pre-
+computed light maps.
+The architectural walkthrough system described in this paper does not require any
+specialty hardware. It simply requires a desktop PC equipped with a recent graphics
+accelerator. To achieve interactive frame rates, the system uses a model that is
+partitioned into cells and portals. These cells and portals are stored in a cyclic scene
+graph. A depth-first-search starting at the viewer’s cell calculates the visible cells.
+Hidden cells are quickly culled by checking portals for visibility. If a portal is not
+visible, the cell behind it is also not visible. In this manner, a large amount of
+geometry can be culled away.
+The results show that this cell and portal approach is very effective. In wire-frame
+mode, it is very clear that hidden triangles are quickly culled away. Because the
+system is very scalable, this statement will hold true for architectural models
+composed of millions of triangles.},
+  keywords  = {portal, models, indoor, webgl},
+  owner     = {tom},
+  timestamp = {2017-10-01},
+  url       = {http://www.btschirren.net/projects/walkthrough/index.html},
+}
+
+@InProceedings{Giannopoulos2007,
+  author       = {Giannopoulos, Ioannis and Hatzi, Ourania and Nikolaidou, Mara and Anagnostopoulos, Dimosthenis},
+  title        = {Realistic virtual environments navigable over the www},
+  booktitle    = {Proceedings of the 2007 Summer Computer Simulation Conference},
+  year         = {2007},
+  pages        = {30},
+  organization = {Society for Computer Simulation International},
+  owner        = {tom},
+  timestamp    = {2017-10-01},
+}
+
+@Article{Jones1971,
+  author    = {Jones, Cliff B.},
+  title     = {A new approach to the ‘hidden line’problem},
+  journal   = {The Computer Journal},
+  year      = {1971},
+  volume    = {14},
+  number    = {3},
+  pages     = {232--237},
+  keywords  = {portal},
+  owner     = {tom},
+  publisher = {Oxford University Press},
+  timestamp = {2017-10-01},
+}
+
+@Article{Tu2004,
+  author       = {Tu, Tiankai and O{\textquoteright}hallaron, David R and L{\'o}pez, Julio C},
+  title        = {Etree: A database-oriented method for generating large octree meshes},
+  volume       = {20},
+  number       = {2},
+  pages        = {117--128},
+  date         = {2004},
+  journaltitle = {Engineering with Computers},
+  owner        = {tom},
+  publisher    = {Springer},
+  timestamp    = {2017-10-01},
+}
+
+@Article{Tu2003,
+  author    = {Tu, Tiankai and O'Hallaron, David R and Lopez, Julio},
+  title     = {The Etree library: A system for manipulating large octrees on disk},
+  year      = {2003},
+  owner     = {tom},
+  timestamp = {2017-10-01},
+}
+
+@InCollection{Uden2013,
+  author    = {Uden, Matthias and Zipf, Alexander},
+  title     = {Open building models: Towards a platform for crowdsourcing virtual 3D cities},
+  booktitle = {Progress and new trends in 3D geoinformation sciences},
+  publisher = {Springer},
+  year      = {2013},
+  pages     = {299--314},
+  keywords  = {models},
+  owner     = {tom},
+  timestamp = {2017-10-01},
+}
+
+@InProceedings{Rocha2012,
+  author    = {Rocha, Jorge and Alves, Nair},
+  title     = {OSM indoor: moving forward},
+  booktitle = {OGRS2012-Symposium proceedings},
+  year      = {2012},
+  pages     = {261--167},
+  keywords  = {indoor},
+  owner     = {tom},
+  timestamp = {2017-10-01},
+}
+
+@Article{Rossignac1993,
+  author    = {Rossignac, Jarek and Borrel, Paul},
+  title     = {Multi-resolution 3D approximations for rendering complex scenes},
+  journal   = {Modeling in computer graphics: methods and applications},
+  year      = {1993},
+  volume    = {465},
+  keywords  = {models, LOD},
+  owner     = {tom},
+  timestamp = {2017-10-01},
+}
+
+@Article{Huettner1998a,
+  author        = {H{\"u}ttner, T and Mei{\ss}ner, M and Bartz, D},
+  title         = {OpenGL-assisted Visibility Queries of Large Polygonal Models. ftp. gris. uni-tuebingen. de/pub/thuettne},
+  journal       = {Occlusion\_Culling/TechReport/techReport. pdf},
+  year          = {1998},
+  __markedentry = {[tom:]},
+  keywords      = {models, webgl},
   owner         = {tom},
-  timestamp     = {2017-09-17},
-  url           = {http://doi.acm.org/10.1145/1559764.1559784},
+  timestamp     = {2017-10-01},
+}
+
+@Article{Stein2015,
+  author        = {Stein, Christian and Limper, Max and Th{\"o}ner, Maik and Behr, Johannes},
+  title         = {hare3d: Rendering Large Models in the Browser},
+  journal       = {WebGL Insights},
+  year          = {2015},
+  volume        = {317},
+  __markedentry = {[tom:6]},
+  keywords      = {models, webgl},
+  owner         = {tom},
+  publisher     = {CRC Press, Aug},
+  timestamp     = {2017-10-01},
+}
+
+@Book{Cozzi2015,
+  title         = {WebGL insights},
+  publisher     = {CRC Press},
+  year          = {2015},
+  author        = {Cozzi, Patrick},
+  __markedentry = {[tom:6]},
+  keywords      = {webgl},
+  owner         = {tom},
+  timestamp     = {2017-10-01},
+  url           = {https://github.com/WebGLInsights/WebGLInsights-1},
+}
+
+@InProceedings{Liu2015,
+  author        = {Liu, Xiaojun and Xie, Ning and Jia, Jinyuan},
+  title         = {Web3D-based Online Walkthrough of Large-scale Underground Scenes},
+  booktitle     = {Proceedings of the 19th International Symposium on Distributed Simulation and Real Time Applications},
+  year          = {2015},
+  pages         = {104--107},
+  organization  = {IEEE Press},
+  __markedentry = {[tom:6]},
+  keywords      = {web3D},
+  owner         = {tom},
+  timestamp     = {2017-10-01},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
+
+@Comment{jabref-meta: groupstree:
+0 AllEntriesGroup:;
+1 KeywordGroup:web3D\;2\;keywords\;web3D\;0\;0\;;
+2 KeywordGroup:X3D\;1\;keywords\;X3D\;0\;0\;;
+2 KeywordGroup:webGL\;2\;keywords\;webgl\;0\;0\;;
+1 KeywordGroup:Network\;1\;keywords\;network\;0\;0\;;
+1 KeywordGroup:models\;1\;keywords\;models\;0\;0\;;
+2 KeywordGroup:LOD\;1\;keywords\;LOD\;0\;0\;;
+3 KeywordGroup:indoor\;0\;keywords\;indoor\;0\;0\;;
+4 KeywordGroup:portal\;2\;keywords\;portal\;0\;0\;;
+5 KeywordGroup:generation\;2\;keywords\;portal generation\;0\;0\;;
+5 KeywordGroup:Impostor\;1\;keywords\;Impostor\;0\;0\;;
+5 KeywordGroup:LDI\;1\;keywords\;LDI\;0\;0\;;
+3 KeywordGroup:outdoor\;1\;keywords\;outdoor\;0\;0\;;
+4 KeywordGroup:octree\;1\;keywords\;octree\;0\;0\;;
+3 KeywordGroup:textures\;1\;keywords\;texture\;0\;0\;;
+}
