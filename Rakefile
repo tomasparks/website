@@ -208,7 +208,7 @@ namespace :site do
 
     # Make sure destination folder exists as git repo
     check_destination
-    Dir.mktmpdir do |tmp|
+    Dir.mktmpdir
     sh "git clone https://github.com/tomasparks/Dynix-theme-jekyll.git _theme"
     sh "diff -r -u --exclude=\".git\"  ./_theme/ . > #{tmp}/build-precopy-diff.txt"
     sh "cd _theme"
