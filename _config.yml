@@ -1,3 +1,15 @@
+# GitHub
+username:             tomasparks
+repo:                 website
+repo_branch:          master
+dest_repo:            tomasparks.github.io
+dest_branch:          master
+
+# Jekyll source / destination
+source:               .
+destination:          _site
+
+
 # Blog settings
 permalink: '/archive/:year/:month/:slug.html'
 
