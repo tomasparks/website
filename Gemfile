@@ -1,4 +1,4 @@
-source 'https://rubygems.org'
+source 'https://gems.travis-ci.org'
 gem 'jekyll'
 gem 'jekyll-lunr-js-search'
 #gem 'jekyll-archives'
@@ -16,7 +16,7 @@ gem 'jekyll-webmention_io'
 gem 'jekyll-responsive_image'
 #gem 'jekyll-picture-tag', github: 'nhoizey/jekyll-picture-tag'
 gem 'jekyll-last-modified-at'
-
+gem 'rake'
 #gem 'html-proofer'
 
 #gem 'jekyll-pandoc-multiple-formats'
