@@ -353,9 +353,10 @@ namespace :site do
     Dir.mktmpdir
     sh "git clone https://github.com/tomasparks/Dynix-theme-jekyll.git _theme"
     sh "diff -r -u --exclude=\".git\"  ./_theme/ . > #{tmp}/build-precopy-diff.txt"
-    sh "cd _theme"
-    sh "cp -n -r * ../"
-    sh "cd .."
+    Dir.chdir("_theme") { sh "cp -n -r * ../" }
+    #sh "cd _theme"
+    #sh "cp -n -r * ../"
+    #sh "cd .."
     sh "ls"
     sh "patch -p0 --unified --batch --verbose < #{tmp}/build-precopy-diff.txt"
     sh "patch -p0 --unified --batch --verbose < #{tmp}/build-precopy-diff.txt"
