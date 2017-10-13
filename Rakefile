@@ -72,8 +72,8 @@ namespace :site do
     sh "git clone https://github.com/tomasparks/Dynix-theme-jekyll.git _theme" 
     Dir.chdir("_theme") { sh "git submodule update --init --recursive" }
     sh "echo WTF1"
-    sh "rsync -I -r --progress --prune-empty-dirs -vv  --remove-source-files --exclude \".git/\" --exclude \"_site/\" --exclude \"_theme/\" . _theme/"
-    sh "rsync -I -r --progress --prune-empty-dirs -vv  --remove-source-files --exclude \".git/\" --exclude \"_site/\" --exclude \"_theme/\" _theme/ ."
+    sh "rsync -I -r --prune-empty-dirs  --remove-source-files --exclude \".git/\" --exclude \"_site/\" --exclude \"_theme/\" . _theme/"
+    sh "rsync -I -r --prune-empty-dirs  --remove-source-files --exclude \".git/\" --exclude \"_site/\" --exclude \"_theme/\" _theme/ ."
 
 
     sh "git checkout #{SOURCE_BRANCH}"
