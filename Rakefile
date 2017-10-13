@@ -72,7 +72,7 @@ namespace :site do
     sh "git clone https://github.com/tomasparks/Dynix-theme-jekyll.git _theme"
     sh "echo WTF1"
     sh "diff --help"
-    sh "diff --recursive  ./_theme/ .  > #{tmp}/build-precopy-diff.txt [$$? -eq 1]"
+    sh "diff --recursive  ./_theme/ .  > \"#{tmp}/build-precopy-diff.txt\" [$$? -eq 1]"
     Dir.chdir("_theme") { sh "cp -n -r * ../" }
     #sh "cd _theme"
     #sh "cp -n -r * ../"
