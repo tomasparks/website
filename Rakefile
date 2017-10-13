@@ -207,14 +207,16 @@ namespace :site do
       sh "git config --global push.default simple"
     end
 
-    # Make sure destination folder exists as git repo
+     # Make sure destination folder exists as git repo
     check_destination
-     Dir.mktmpdir do |tmp|
+    Dir.mktmpdir
     sh "git clone https://github.com/tomasparks/Dynix-theme-jekyll.git _theme"
-    sh "diff -r -u --exclude=\".git\"  ./_theme/ . > #{tmp}/build-precopy-diff.txt"
-    sh "cd _theme"
-    sh "cp -n -r * ../"
-    sh "cd .."
+    sh "echo WTF1"
+    sh "diff -r -u --exclude=\".git\"  ./_theme/ . > #{tmp}/build-precopy-diff.txt [ $$? -eq 1 ]"
+    Dir.chdir("_theme") { sh "cp -n -r * ../" }
+    #sh "cd _theme"
+    #sh "cp -n -r * ../"
+    #sh "cd .."
     sh "ls"
     sh "patch -p0 --unified --batch --verbose < #{tmp}/build-precopy-diff.txt"
     sh "patch -p0 --unified --batch --verbose < #{tmp}/build-precopy-diff.txt"
@@ -237,6 +239,7 @@ namespace :site do
     end
   end
 end
+
 end
 # Post and page tasks
 #
@@ -352,7 +355,7 @@ namespace :site do
     check_destination
     Dir.mktmpdir
     sh "git clone https://github.com/tomasparks/Dynix-theme-jekyll.git _theme"
-    sh "echo WTF"
+    sh "echo WTF2"
     sh "diff -r -u --exclude=\".git\"  ./_theme/ . > #{tmp}/build-precopy-diff.txt [ $$? -eq 1 ]"
     Dir.chdir("_theme") { sh "cp -n -r * ../" }
     #sh "cd _theme"
