@@ -3689,9 +3689,12 @@
     <location>file:///home/tom/website/de.aminet.net/aminet/mods/anakir/DED_FFAm.mp3</location>
     <mtime>1138024800</mtime>
     <first-seen>1507875014</first-seen>
+    <play-count>1</play-count>
+    <last-played>1507929764</last-played>
     <bitrate>128</bitrate>
     <date>730486</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Dead Punx On Pillz</comment>
     <composer>Unknown</composer>
   </entry>
@@ -3851,6 +3854,7 @@
     <bitrate>128</bitrate>
     <date>730486</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Dead Punx On Pillz</comment>
     <composer>Unknown</composer>
   </entry>
@@ -3865,9 +3869,12 @@
     <location>file:///home/tom/website/de.aminet.net/aminet/mods/anakir/DED_FFAl.mp3</location>
     <mtime>1138024800</mtime>
     <first-seen>1507875014</first-seen>
+    <play-count>1</play-count>
+    <last-played>1507929670</last-played>
     <bitrate>128</bitrate>
     <date>730486</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Dead Punx On Pillz</comment>
     <composer>Unknown</composer>
   </entry>
@@ -4291,9 +4298,12 @@
     <location>file:///home/tom/website/de.aminet.net/aminet/mods/anakir/W4R_alat.mp3</location>
     <mtime>1204639200</mtime>
     <first-seen>1507875009</first-seen>
+    <play-count>1</play-count>
+    <last-played>1507929870</last-played>
     <bitrate>32</bitrate>
     <date>732677</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>The theme musuc from "Loadersh</comment>
     <composer>Unknown</composer>
   </entry>
