@@ -2,8 +2,7 @@
 layout: page
 title: about me
 ---
-
-Hello, my name is Tom Sparks. I am a Alternative Technology Researcher.
+<div class="p-name>Tom Sparks</div>, I am a Alternative Technology Researcher.
 
 my [CV]({{site.url}}/about-me/cv.html)
 
