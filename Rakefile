@@ -50,7 +50,7 @@ end
 # Site tasks
 #
 #############################################################################
-
+namespace :site do
   desc "Generate the site and push changes to remote origin"
   task :deploy do
     # Detect pull request
@@ -97,3 +97,4 @@ end
       puts "Pushed updated branch #{DESTINATION_BRANCH} to GitHub Pages"
     end
   end
+end
