@@ -68,7 +68,7 @@ namespace :site do
 
      # Make sure destination folder exists as git repo
     check_destination
-    Dir.mktmpdir
+    Dir.mktmpdir do |tmp|
     sh "git clone https://github.com/tomasparks/Dynix-theme-jekyll.git _theme"
     sh "echo WTF1"
     sh "diff -r -u --exclude=\".git\"  ./_theme/ . > #{tmp}/build-precopy-diff.txt [ $$? -eq 1 ]"
@@ -97,4 +97,5 @@ namespace :site do
       puts "Pushed updated branch #{DESTINATION_BRANCH} to GitHub Pages"
     end
   end
+end
 end
