@@ -97,5 +97,3 @@ end
       puts "Pushed updated branch #{DESTINATION_BRANCH} to GitHub Pages"
     end
   end
-
-end
