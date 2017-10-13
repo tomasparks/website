@@ -842,8 +842,8 @@
     <location>file:///home/tom/website/de.aminet.net/aminet/mods/anakir/WAR_BMFa.mp3</location>
     <mtime>1136901600</mtime>
     <first-seen>1507875019</first-seen>
-    <play-count>1</play-count>
-    <last-played>1507876535</last-played>
+    <play-count>2</play-count>
+    <last-played>1507938225</last-played>
     <bitrate>55</bitrate>
     <date>731947</date>
     <media-type>audio/mpeg</media-type>
@@ -881,6 +881,7 @@
     <bitrate>55</bitrate>
     <date>731947</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <composer>Unknown</composer>
   </entry>
   <entry type="song">
@@ -893,8 +894,8 @@
     <location>file:///home/tom/website/de.aminet.net/aminet/mods/anakir/WAR_BMFb.mp3</location>
     <mtime>1136901600</mtime>
     <first-seen>1507875017</first-seen>
-    <play-count>1</play-count>
-    <last-played>1507876666</last-played>
+    <play-count>2</play-count>
+    <last-played>1507938356</last-played>
     <bitrate>55</bitrate>
     <date>731947</date>
     <media-type>audio/mpeg</media-type>
@@ -910,8 +911,8 @@
     <location>file:///home/tom/website/de.aminet.net/aminet/mods/anakir/WAR_BMFd.mp3</location>
     <mtime>1136901600</mtime>
     <first-seen>1507875021</first-seen>
-    <play-count>1</play-count>
-    <last-played>1507876916</last-played>
+    <play-count>2</play-count>
+    <last-played>1507938607</last-played>
     <bitrate>55</bitrate>
     <date>731947</date>
     <media-type>audio/mpeg</media-type>
@@ -927,8 +928,8 @@
     <location>file:///home/tom/website/de.aminet.net/aminet/mods/anakir/WAR_BMFc.mp3</location>
     <mtime>1136901600</mtime>
     <first-seen>1507875017</first-seen>
-    <play-count>1</play-count>
-    <last-played>1507876798</last-played>
+    <play-count>2</play-count>
+    <last-played>1507938488</last-played>
     <bitrate>55</bitrate>
     <date>731947</date>
     <media-type>audio/mpeg</media-type>
@@ -961,8 +962,8 @@
     <location>file:///home/tom/website/de.aminet.net/aminet/mods/anakir/WAR_BMF6.mp3</location>
     <mtime>1136901600</mtime>
     <first-seen>1507875020</first-seen>
-    <play-count>1</play-count>
-    <last-played>1507876010</last-played>
+    <play-count>2</play-count>
+    <last-played>1507937701</last-played>
     <bitrate>55</bitrate>
     <date>731947</date>
     <media-type>audio/mpeg</media-type>
@@ -978,8 +979,8 @@
     <location>file:///home/tom/website/de.aminet.net/aminet/mods/anakir/WAR_BMF8.mp3</location>
     <mtime>1136901600</mtime>
     <first-seen>1507875020</first-seen>
-    <play-count>1</play-count>
-    <last-played>1507876244</last-played>
+    <play-count>2</play-count>
+    <last-played>1507937934</last-played>
     <bitrate>55</bitrate>
     <date>731947</date>
     <media-type>audio/mpeg</media-type>
@@ -1000,6 +1001,7 @@
     <bitrate>55</bitrate>
     <date>731947</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <composer>Unknown</composer>
   </entry>
   <entry type="song">
@@ -1012,8 +1014,8 @@
     <location>file:///home/tom/website/de.aminet.net/aminet/mods/anakir/WAR_BMF7.mp3</location>
     <mtime>1136901600</mtime>
     <first-seen>1507875020</first-seen>
-    <play-count>1</play-count>
-    <last-played>1507876156</last-played>
+    <play-count>2</play-count>
+    <last-played>1507937847</last-played>
     <bitrate>55</bitrate>
     <date>731947</date>
     <media-type>audio/mpeg</media-type>
@@ -1029,11 +1031,12 @@
     <location>file:///home/tom/website/de.aminet.net/aminet/mods/anakir/WAR_BMF5.mp3</location>
     <mtime>1136901600</mtime>
     <first-seen>1507875016</first-seen>
-    <play-count>1</play-count>
-    <last-played>1507875893</last-played>
+    <play-count>2</play-count>
+    <last-played>1507937584</last-played>
     <bitrate>55</bitrate>
     <date>731947</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <composer>Unknown</composer>
   </entry>
   <entry type="song">
@@ -1046,8 +1049,8 @@
     <location>file:///home/tom/website/de.aminet.net/aminet/mods/anakir/WAR_BMF9.mp3</location>
     <mtime>1136901600</mtime>
     <first-seen>1507875020</first-seen>
-    <play-count>1</play-count>
-    <last-played>1507876389</last-played>
+    <play-count>2</play-count>
+    <last-played>1507938080</last-played>
     <bitrate>55</bitrate>
     <date>731947</date>
     <media-type>audio/mpeg</media-type>
@@ -1081,11 +1084,12 @@
     <location>file:///home/tom/website/de.aminet.net/aminet/mods/anakir/WAR_BMF4.mp3</location>
     <mtime>1136901600</mtime>
     <first-seen>1507875016</first-seen>
-    <play-count>1</play-count>
-    <last-played>1507875762</last-played>
+    <play-count>2</play-count>
+    <last-played>1507937453</last-played>
     <bitrate>55</bitrate>
     <date>731947</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <composer>Unknown</composer>
   </entry>
   <entry type="song">
