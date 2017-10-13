@@ -1063,11 +1063,12 @@
     <location>file:///home/tom/website/de.aminet.net/aminet/mods/anakir/WAR_BMF1.mp3</location>
     <mtime>1136901600</mtime>
     <first-seen>1507875017</first-seen>
-    <play-count>1</play-count>
-    <last-played>1507875307</last-played>
+    <play-count>2</play-count>
+    <last-played>1507930436</last-played>
     <bitrate>55</bitrate>
     <date>731947</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <composer>Unknown</composer>
   </entry>
   <entry type="song">
@@ -4317,9 +4318,12 @@
     <location>file:///home/tom/website/de.aminet.net/aminet/mods/anakir/W4R_food.mp3</location>
     <mtime>1204639200</mtime>
     <first-seen>1507875009</first-seen>
+    <play-count>1</play-count>
+    <last-played>1507930139</last-played>
     <bitrate>32</bitrate>
     <date>732677</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>From "Hit Mouse 01". HTTP://ww</comment>
     <composer>Unknown</composer>
   </entry>
@@ -4333,9 +4337,12 @@
     <location>file:///home/tom/website/de.aminet.net/aminet/mods/anakir/W4R_shot.mp3</location>
     <mtime>1204639200</mtime>
     <first-seen>1507875011</first-seen>
+    <play-count>1</play-count>
+    <last-played>1507930272</last-played>
     <bitrate>32</bitrate>
     <date>732677</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>From "Hit Mouse 01". HTTP://ww</comment>
     <composer>Unknown</composer>
   </entry>
