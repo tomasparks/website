@@ -69,17 +69,11 @@ namespace :site do
      # Make sure destination folder exists as git repo
     check_destination
     Dir.mktmpdir do |tmp|
-    sh "git clone https://github.com/tomasparks/Dynix-theme-jekyll.git _theme"
+    sh "git clone https://github.com/tomasparks/Dynix-theme-jekyll.git _theme" 
+    Dir.chdir("_theme") { sh "git submodule update --init --recursive" }
     sh "echo WTF1"
-    sh "diff --help"
-    sh "diff --recursive  ./_theme/ .  > \"#{tmp}/build-precopy-diff.txt\" "
-    Dir.chdir("_theme") { sh "cp -n -r * ../" }
-    #sh "cd _theme"
-    #sh "cp -n -r * ../"
-    #sh "cd .."
-    sh "ls"
-    sh "patch -p0 --unified --batch --verbose < #{tmp}/build-precopy-diff.txt"
-    sh "patch -p0 --unified --batch --verbose < #{tmp}/build-precopy-diff.txt"
+    sh "rsync -I -r --progress --prune-empty-dirs -vv  --remove-source-files --exclude \".git/\" --exclude \"_site/\" --exclude \"_theme/\" . _theme/"
+    sh "rsync -I -r --progress --prune-empty-dirs -vv  --remove-source-files --exclude \".git/\" --exclude \"_site/\" --exclude \"_theme/\" _theme/ ."
 
 
     sh "git checkout #{SOURCE_BRANCH}"
