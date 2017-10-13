@@ -46,43 +46,40 @@ var gitgraph = new GitGraph({
 var projects = gitgraph.branch("projects");
   projects.commit({ message: "Welcome", detailId: "detail-welcome" });
 
-/* branch then branch */
+/* merge-from >> cat then branch then commit then merge-to << cat */
 
 {% for post in site.projects | sort: 'date' %}
 // {{ post.title }}
+{% if post.merge-from != null%}
+// post.merge-from == true
+			{% for cat in post.categories %}
+				{{post.merge-from | remove: "-"}}.merge({{cat | remove: "-"}},"Merging {{post.merge-from}} to {{cat | remove: "-"}}");
+  		{% endfor %}
+{% endif %}
 
 {% if post.spin-off != null%}
 // post.spin-off == true
   {% if post.spin-off-from != null %}
 			// post.spin-off-from == true
 			{% for cat in post.spin-off %}
-				var {{cat | remove: "-"}} = {{post.spin-off-from | remove: "-"}}.branch("{{cat | remove: "-"}}");
+					var {{cat | remove: "-"}} = {{post.spin-off-from | remove: "-"}}.branch({name: "{{cat}}"});
   		{% endfor %}
   {% endif %}
 {% endif %}
 
   {% if post.categories == null  %}
-    projects.commit({ message: "{{ post.title }}", detailId: "detail-{{ post.title | Slugify }}" });
+    projects.commit({message: "{{ post.title }}",detailId: "detail-{{ post.title | Slugify }}"});
 {% else %}
 {% for cat in post.categories %}
 // {{ post.title }}: {{cat | remove: "-"}}
- {{cat | remove: "-"}}.commit({ message: "{{ post.title }}", detailId: "detail-{{ post.title | Slugify }}" });
+ {{cat | remove: "-"}}.commit({message: "{{ post.title }}",detailId: "detail-{{ post.title | Slugify }}"});
  {% endfor %}
   {% endif %}
 
-// merge-from >> cat
-{% if post.merge-from != null%}
-// post.merge-from == true
-			{% for cat in post.categories %}
-				{{post.merge-from | remove: "-"}}.merge("{{cat | remove: "-"}}");
-  		{% endfor %}
-{% endif %}
-
-// merge-to << cat
 {% if post.merge-to != null%}
 // post.merge-to == true
 			{% for cat in post.categories %}
-				{{cat | remove: "-"}}.merge("{{post.merge-to | remove: "-"}}");
+				{{cat | remove: "-"}}.merge({{post.merge-to | remove: "-"}},"Merging {{cat}} to {{post.merge-to}}");
   		{% endfor %}
 {% endif %}
 

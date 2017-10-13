@@ -4,6 +4,7 @@ date: 11-11-2016
 categories: X
 spin-off: X
 spin-off-from: retrospacegame
+merge-to: retrospacegame
 ---
 
 > i've been testing pop-buffer with meshes from <http://graphics.cs.williams.edu/data/meshes.xml>
