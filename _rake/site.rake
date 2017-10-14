@@ -36,7 +36,7 @@ DESTINATION_BRANCH = CONFIG['dest_branch']
 
 def check_destination
   unless Dir.exist? CONFIG["destination"]
-    sh "git clone https://#{ENV['GIT_NAME']}:#{ENV['GH_TOKEN']}@github.com/#{USERNAME}/#{DEST_REPO}.git #{CONFIG["destination"]}"
+    sh "git clone https://#{ENV['GIT_NAME']}:#{ENV['GITHUB_API_KEY']}@github.com/#{USERNAME}/#{DEST_REPO}.git #{CONFIG["destination"]}"
   end
 end
 
@@ -69,7 +69,7 @@ namespace :site do
      # Make sure destination folder exists as git repo
     check_destination
     Dir.mktmpdir do |tmp|
-    sh "git clone https://#{ENV['GIT_NAME']}:#{ENV['GH_TOKEN']}@github.com/#{USERNAME}/Dynix-theme-jekyll.git _theme" 
+    sh "git clone https://#{ENV['GIT_NAME']}:#{ENV['GITHUB_API_KEY']}@github.com/#{USERNAME}/Dynix-theme-jekyll.git _theme" 
     Dir.chdir("_theme") { sh "git submodule update --init --recursive" }
     
     sh "rsync -I -r --prune-empty-dirs  --remove-source-files --exclude \".git/\" --exclude \"_site/\" --exclude \"_theme/\" . _theme/"
@@ -90,7 +90,7 @@ namespace :site do
       sh "git config user.email 'noreply@travis-ci.org'"
       sh "git config push.default simple"
       sh "git config credential.helper \"store --file=.git/credentials\""
-      sh "echo \"https://${GH_TOKEN}:@github.com\" > .git/credentials"
+      sh "echo \"https://#{ENV['GITHUB_API_KEY']}:@github.com\" > .git/credentials"
       sh "git add --all ."
       sh "git commit -m 'Updating to #{USERNAME}/#{REPO}@#{sha}.'"
       sh "git push"
