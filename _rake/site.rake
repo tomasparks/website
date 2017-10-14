@@ -69,17 +69,11 @@ namespace :site do
      # Make sure destination folder exists as git repo
     check_destination
     Dir.mktmpdir do |tmp|
-    sh "git clone https://github.com/tomasparks/Dynix-theme-jekyll.git _theme"
+    sh "git clone https://github.com/tomasparks/Dynix-theme-jekyll.git _theme" 
+    Dir.chdir("_theme") { sh "git submodule update --init --recursive" }
     sh "echo WTF1"
-    sh "diff --help"
-    sh "diff --recursive  ./_theme/ .  > \"#{tmp}/build-precopy-diff.txt\" "
-    Dir.chdir("_theme") { sh "cp -n -r * ../" }
-    #sh "cd _theme"
-    #sh "cp -n -r * ../"
-    #sh "cd .."
-    sh "ls"
-    sh "patch -p0 --unified --batch --verbose < #{tmp}/build-precopy-diff.txt"
-    sh "patch -p0 --unified --batch --verbose < #{tmp}/build-precopy-diff.txt"
+    sh "rsync -I -r --prune-empty-dirs  --remove-source-files --exclude \".git/\" --exclude \"_site/\" --exclude \"_theme/\" . _theme/"
+    sh "rsync -I -r --prune-empty-dirs  --remove-source-files --exclude \".git/\" --exclude \"_site/\" --exclude \"_theme/\" _theme/ ."
 
 
     sh "git checkout #{SOURCE_BRANCH}"
@@ -87,19 +81,18 @@ namespace :site do
 
     # Generate the site
     sh "bundle exec jekyll build --config base.yml,_config.yml,responsive_image.yml,scholar.yml,webmentions.yml --verbose --trace --profile"
-    sh "bundle exec jekyll webmention"
+    sh "bundle exec jekyll"
+
 
     # Commit and push to github
     sha = `git log`.match(/[a-z0-9]{40}/)[0]
     Dir.chdir(CONFIG["destination"]) do
-      sh "git config --global user.name '#{ENV['GIT_NAME']}'"
-      sh "git config --global user.email '#{ENV['GIT_EMAIL']}'"
-      sh "git config --global push.default simple"
       sh "git add --all ."
       sh "git commit -m 'Updating to #{USERNAME}/#{REPO}@#{sha}.'"
       sh "git push --quiet origin #{DESTINATION_BRANCH}"
       puts "Pushed updated branch #{DESTINATION_BRANCH} to GitHub Pages"
     end
+        sh "bundle exec jekyll webmention"
   end
 end
 end
