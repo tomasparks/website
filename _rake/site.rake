@@ -36,7 +36,7 @@ DESTINATION_BRANCH = CONFIG['dest_branch']
 
 def check_destination
   unless Dir.exist? CONFIG["destination"]
-    sh "git clone https://#{ENV['GH_TOKEN']}@github.com/#{USERNAME}/#{DEST_REPO}.git #{CONFIG["destination"]}"
+    sh "git clone  https://#{ENV['GIT_NAME']}:#{ENV['GH_TOKEN']}@github.com/#{USERNAME}/#{DEST_REPO}.git #{CONFIG["destination"]}"
   end
 end
 
@@ -87,8 +87,8 @@ namespace :site do
     sha = `git log`.match(/[a-z0-9]{40}/)[0]
     Dir.chdir(CONFIG["destination"]) do
       sh "git config user.name 'Travis-CI'"
-      sh "git config --global user.email 'noreply@travis-ci.org'"
-      sh "git config --global push.default simple"
+      sh "git config user.email 'noreply@travis-ci.org'"
+      sh "git config push.default simple"
       sh "git add --all ."
       sh "git commit -m 'Updating to #{USERNAME}/#{REPO}@#{sha}.'"
       sh "git push --quiet origin #{DESTINATION_BRANCH}"

@@ -998,6 +998,8 @@ phone: (0-55) 643 32 67 [dialog]&#13;
     <location>file:///home/tom/website/de.aminet.net/aminet/mods/mpg/lnsM27_ClorEp1.mpg</location>
     <mtime>967212000</mtime>
     <first-seen>1507939704</first-seen>
+    <play-count>1</play-count>
+    <last-played>1507955917</last-played>
     <bitrate>127</bitrate>
     <date>730120</date>
     <media-type>audio/mpeg</media-type>
@@ -1017,6 +1019,7 @@ phone: (0-55) 643 32 67 [dialog]&#13;
     <bitrate>127</bitrate>
     <date>730120</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Amiga+OSS+EffectProcessor</comment>
     <composer>Unknown</composer>
   </entry>
@@ -2949,6 +2952,8 @@ phone: (0-55) 643 32 67 [dialog]&#13;
     <location>file:///home/tom/website/de.aminet.net/aminet/mods/mpg/vampirebride.mpg</location>
     <mtime>979567200</mtime>
     <first-seen>1507939738</first-seen>
+    <play-count>1</play-count>
+    <last-played>1507955203</last-played>
     <bitrate>128</bitrate>
     <date>0</date>
     <media-type>audio/mpeg</media-type>
@@ -9797,6 +9802,7 @@ is no profit and D.I.Y. (do it yourself)!!</comment>
     <bitrate>48</bitrate>
     <date>730120</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Pc Sukss</comment>
     <composer>Unknown</composer>
   </entry>
@@ -9842,9 +9848,12 @@ is no profit and D.I.Y. (do it yourself)!!</comment>
     <location>file:///home/tom/website/de.aminet.net/aminet/mods/mpg/Game.mp3</location>
     <mtime>1177941600</mtime>
     <first-seen>1507939691</first-seen>
+    <play-count>1</play-count>
+    <last-played>1507956876</last-played>
     <bitrate>192</bitrate>
     <date>0</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <composer>Unknown</composer>
   </entry>
   <entry type="song">
@@ -16739,9 +16748,12 @@ phone: (0-55) 643 32 67 [dialog]&#13;
     <location>file:///home/tom/website/de.aminet.net/aminet/mods/mpg/lnsM25_CloudE2.mpg</location>
     <mtime>967212000</mtime>
     <first-seen>1507939704</first-seen>
+    <play-count>1</play-count>
+    <last-played>1507956212</last-played>
     <bitrate>63</bitrate>
     <date>730120</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Amiga+OSS+Mam303-II+EffectProc</comment>
     <composer>Unknown</composer>
   </entry>
@@ -16755,9 +16767,12 @@ phone: (0-55) 643 32 67 [dialog]&#13;
     <location>file:///home/tom/website/de.aminet.net/aminet/mods/mpg/lnsM24_CloudE1.mpg</location>
     <mtime>967212000</mtime>
     <first-seen>1507939705</first-seen>
+    <play-count>1</play-count>
+    <last-played>1507956633</last-played>
     <bitrate>63</bitrate>
     <date>730120</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Amiga+OSS+Mam303-II+EffectProc</comment>
     <composer>Unknown</composer>
   </entry>
@@ -17278,9 +17293,12 @@ phone: (0-55) 643 32 67 [dialog]&#13;
     <location>file:///home/tom/website/de.aminet.net/aminet/mods/mpg/defraq-read_my_mind.mp3</location>
     <mtime>1175349600</mtime>
     <first-seen>1507939684</first-seen>
+    <play-count>1</play-count>
+    <last-played>1507955468</last-played>
     <bitrate>192</bitrate>
     <date>730486</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>2001tracked by Andre Pieloth</comment>
     <album-artist>andre christian pieloth</album-artist>
     <composer>andre christian pieloth</composer>
