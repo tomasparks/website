@@ -36,7 +36,7 @@ DESTINATION_BRANCH = CONFIG['dest_branch']
 
 def check_destination
   unless Dir.exist? CONFIG["destination"]
-    sh "git clone  https://#{ENV['GIT_NAME']}:#{ENV['GH_TOKEN']}@github.com/#{USERNAME}/#{DEST_REPO}.git #{CONFIG["destination"]}"
+    sh "git clone https://#{ENV['GIT_NAME']}:#{ENV['GH_TOKEN']}@github.com/#{USERNAME}/#{DEST_REPO}.git #{CONFIG["destination"]}"
   end
 end
 
@@ -91,7 +91,7 @@ namespace :site do
       sh "git config push.default simple"
       sh "git add --all ."
       sh "git commit -m 'Updating to #{USERNAME}/#{REPO}@#{sha}.'"
-      sh "git push --quiet origin #{DESTINATION_BRANCH}"
+      sh "git push origin"
       puts "Pushed updated branch #{DESTINATION_BRANCH} to GitHub Pages"
     end
         sh "bundle exec jekyll webmention"
