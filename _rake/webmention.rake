@@ -1,15 +1,20 @@
 # Caches
-cache = File.join(Dir.pwd, '.cache')
+cache = File.join(Dir.pwd, '.jekyll-cache')
 FileUtils.mkdir_p( cache )
-cache_all_webmentions = "#{cache}/webmentions.yml"
-cache_sent_webmentions = "#{cache}/webmentions_sent.yml"
+cache_all_webmentions = "#{cache}/webmentions_io_outgoing.yml"
+cache_sent_webmentions = "#{cache}/webmention_io_outgoing.yml"
+cache_received_webmentions = "#{cache}/webmention_io_received.yml"
 
 # Use: rake webmention
 desc "Trigger webmentions"
 task :webmention do
+sh "echo hello"
   if File.exists?(cache_all_webmentions)
+        sh "echo cache_all_webmentions? OK"
     if File.exists?(cache_sent_webmentions)
+            sh "echo cache_sent_webmentions? OK"
       sent_webmentions = open(cache_sent_webmentions) { |f| YAML.load(f) }
+      sh "echo reading #{cache}/webmention_io_outgoing.yml"
     else
       sent_webmentions = {}
     end
@@ -28,7 +33,7 @@ task :webmention do
             endpoint.scan(/href="([^"]+)"/) do |endpoint_url|
               endpoint_url = endpoint_url[0]
               puts "Sending webmention of #{source} to #{endpoint_url}"
-              command =  "curl -s -i -d \"source=#{source}&target=#{target}\" -o /dev/null #{endpoint_url}"
+              sh "curl -s -i -d \"source=#{source}&target=#{target}\" -o /dev/null #{endpoint_url}"
               # puts command
               system command
             end
