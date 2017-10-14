@@ -80,8 +80,7 @@ namespace :site do
     Dir.chdir(CONFIG["destination"]) { sh "git checkout #{DESTINATION_BRANCH}" }
 
     # Generate the site
-    sh "bundle exec jekyll build --config base.yml,_config.yml,responsive_image.yml,scholar.yml,webmentions.yml --verbose --trace --profile"
-    sh "bundle exec jekyll"
+    sh "bundle exec jekyll build --config _config.yml --verbose --trace --profile"
 
 
     # Commit and push to github
