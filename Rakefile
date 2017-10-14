@@ -81,6 +81,7 @@ namespace :site do
 
     # Generate the site
     sh "bundle exec jekyll build --config base.yml,_config.yml,responsive_image.yml,scholar.yml,webmentions.yml --verbose --trace --profile"
+    sh "bundle exec jekyll"
     sh "bundle exec jekyll webmention"
 
     # Commit and push to github
