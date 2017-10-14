@@ -1630,6 +1630,8 @@ phone: (0-55) 643 32 67 [dialog]&#13;
     <location>file:///home/tom/website/de.aminet.net/aminet/mods/mpg/20030705aaa_6.mpg</location>
     <mtime>1058018400</mtime>
     <first-seen>1507939642</first-seen>
+    <play-count>1</play-count>
+    <last-played>1507953954</last-played>
     <bitrate>64</bitrate>
     <date>731216</date>
     <media-type>audio/mpeg</media-type>
@@ -2565,9 +2567,12 @@ especially for 'syntetikk life' demo by origin unknown (nahkolor in this time)&#
     <location>file:///home/tom/website/de.aminet.net/aminet/mods/mpg/lnsM51_DogO.mpg</location>
     <mtime>1007560800</mtime>
     <first-seen>1507939708</first-seen>
+    <play-count>1</play-count>
+    <last-played>1507954449</last-played>
     <bitrate>63</bitrate>
     <date>730486</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Amiga+OSS+TG55+Korg Toneworks</comment>
     <composer>Unknown</composer>
   </entry>
@@ -2597,6 +2602,8 @@ especially for 'syntetikk life' demo by origin unknown (nahkolor in this time)&#
     <location>file:///home/tom/website/de.aminet.net/aminet/mods/mpg/lnsM52_IsIt.mpg</location>
     <mtime>1007560800</mtime>
     <first-seen>1507939708</first-seen>
+    <play-count>1</play-count>
+    <last-played>1507954830</last-played>
     <bitrate>63</bitrate>
     <date>730486</date>
     <media-type>audio/mpeg</media-type>
@@ -4157,9 +4164,12 @@ fu** the system...wenigstens 'n bisschen...</comment>
     <location>file:///home/tom/website/de.aminet.net/aminet/mods/mpg/soo_line.mpg</location>
     <mtime>979567200</mtime>
     <first-seen>1507939736</first-seen>
+    <play-count>1</play-count>
+    <last-played>1507954136</last-played>
     <bitrate>127</bitrate>
     <date>730120</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>http://mp3.com/</comment>
     <composer>Unknown</composer>
   </entry>
@@ -9782,6 +9792,8 @@ is no profit and D.I.Y. (do it yourself)!!</comment>
     <location>file:///home/tom/website/de.aminet.net/aminet/mods/mpg/himnoalpcero.mpg</location>
     <mtime>988207200</mtime>
     <first-seen>1507939693</first-seen>
+    <play-count>1</play-count>
+    <last-played>1507954915</last-played>
     <bitrate>48</bitrate>
     <date>730120</date>
     <media-type>audio/mpeg</media-type>

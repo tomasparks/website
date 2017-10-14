@@ -36,7 +36,7 @@ DESTINATION_BRANCH = CONFIG['dest_branch']
 
 def check_destination
   unless Dir.exist? CONFIG["destination"]
-    sh "git clone https://#{ENV['GIT_NAME']}:#{ENV['GH_TOKEN']}@github.com/#{USERNAME}/#{DEST_REPO}.git #{CONFIG["destination"]}"
+    sh "git clone https://#{ENV['GH_TOKEN']}@github.com/#{USERNAME}/#{DEST_REPO}.git #{CONFIG["destination"]}"
   end
 end
 
