@@ -82,7 +82,7 @@ namespace :site do
     # Generate the site
     sh "bundle exec jekyll build --config base.yml,_config.yml,responsive_image.yml,scholar.yml,webmentions.yml --verbose --trace --profile"
     sh "bundle exec jekyll"
-    sh "bundle exec jekyll webmention"
+
 
     # Commit and push to github
     sha = `git log`.match(/[a-z0-9]{40}/)[0]
@@ -92,6 +92,7 @@ namespace :site do
       sh "git push --quiet origin #{DESTINATION_BRANCH}"
       puts "Pushed updated branch #{DESTINATION_BRANCH} to GitHub Pages"
     end
+        sh "bundle exec jekyll webmention"
   end
 end
 end
