@@ -1493,6 +1493,8 @@ phone: (0-55) 643 32 67 [dialog]&#13;
     <location>file:///home/tom/website/de.aminet.net/aminet/mods/mpg/Eldorado.mpg</location>
     <mtime>968853600</mtime>
     <first-seen>1507939688</first-seen>
+    <play-count>1</play-count>
+    <last-played>1507952709</last-played>
     <bitrate>127</bitrate>
     <date>730120</date>
     <media-type>audio/mpeg</media-type>
@@ -4820,9 +4822,12 @@ novel@supermatse.de, www.supermatse.de</comment>
     <location>file:///home/tom/website/de.aminet.net/aminet/mods/mpg/Awen-309TheTest.mp3</location>
     <mtime>1129816800</mtime>
     <first-seen>1507939674</first-seen>
+    <play-count>1</play-count>
+    <last-played>1507951934</last-played>
     <bitrate>319</bitrate>
     <date>728659</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Leeched from     darkager</comment>
     <composer>Unknown</composer>
   </entry>
@@ -4837,9 +4842,12 @@ novel@supermatse.de, www.supermatse.de</comment>
     <location>file:///home/tom/website/de.aminet.net/aminet/mods/mpg/Awen-306ByStealthPartII.mp3</location>
     <mtime>1129816800</mtime>
     <first-seen>1507939670</first-seen>
+    <play-count>1</play-count>
+    <last-played>1507951688</last-played>
     <bitrate>319</bitrate>
     <date>728659</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Leeched from     darkager</comment>
     <composer>Unknown</composer>
   </entry>
@@ -4854,9 +4862,12 @@ novel@supermatse.de, www.supermatse.de</comment>
     <location>file:///home/tom/website/de.aminet.net/aminet/mods/mpg/Awen-314Pursued.mp3</location>
     <mtime>1129816800</mtime>
     <first-seen>1507939672</first-seen>
+    <play-count>1</play-count>
+    <last-played>1507952344</last-played>
     <bitrate>319</bitrate>
     <date>728659</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Leeched from     darkager</comment>
     <composer>Unknown</composer>
   </entry>
@@ -4871,9 +4882,12 @@ novel@supermatse.de, www.supermatse.de</comment>
     <location>file:///home/tom/website/de.aminet.net/aminet/mods/mpg/Awen-308SlingingStone.mp3</location>
     <mtime>1129816800</mtime>
     <first-seen>1507939674</first-seen>
+    <play-count>1</play-count>
+    <last-played>1507951837</last-played>
     <bitrate>319</bitrate>
     <date>728659</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Leeched from     darkager</comment>
     <composer>Unknown</composer>
   </entry>
@@ -4887,9 +4901,12 @@ novel@supermatse.de, www.supermatse.de</comment>
     <location>file:///home/tom/website/de.aminet.net/aminet/mods/mpg/Awen-307IntoTheHallOfK.mp3</location>
     <mtime>1129816800</mtime>
     <first-seen>1507939674</first-seen>
+    <play-count>1</play-count>
+    <last-played>1507951775</last-played>
     <bitrate>319</bitrate>
     <date>728659</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Leeched from     darkager</comment>
     <composer>Unknown</composer>
   </entry>
@@ -4909,6 +4926,7 @@ novel@supermatse.de, www.supermatse.de</comment>
     <bitrate>319</bitrate>
     <date>728659</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Leeched from     darkager</comment>
     <composer>Unknown</composer>
   </entry>
@@ -4923,9 +4941,12 @@ novel@supermatse.de, www.supermatse.de</comment>
     <location>file:///home/tom/website/de.aminet.net/aminet/mods/mpg/Awen-312BySea.mp3</location>
     <mtime>1129816800</mtime>
     <first-seen>1507939673</first-seen>
+    <play-count>1</play-count>
+    <last-played>1507952188</last-played>
     <bitrate>319</bitrate>
     <date>728659</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Leeched from     darkager</comment>
     <composer>Unknown</composer>
   </entry>
@@ -4940,9 +4961,12 @@ novel@supermatse.de, www.supermatse.de</comment>
     <location>file:///home/tom/website/de.aminet.net/aminet/mods/mpg/Awen-310Warlord.mp3</location>
     <mtime>1129816800</mtime>
     <first-seen>1507939673</first-seen>
+    <play-count>1</play-count>
+    <last-played>1507951997</last-played>
     <bitrate>319</bitrate>
     <date>728659</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Leeched from     darkager</comment>
     <composer>Unknown</composer>
   </entry>
@@ -4957,9 +4981,12 @@ novel@supermatse.de, www.supermatse.de</comment>
     <location>file:///home/tom/website/de.aminet.net/aminet/mods/mpg/Awen-313Wardrums.mp3</location>
     <mtime>1129816800</mtime>
     <first-seen>1507939673</first-seen>
+    <play-count>1</play-count>
+    <last-played>1507952240</last-played>
     <bitrate>319</bitrate>
     <date>728659</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Leeched from     darkager</comment>
     <composer>Unknown</composer>
   </entry>
@@ -4974,9 +5001,12 @@ novel@supermatse.de, www.supermatse.de</comment>
     <location>file:///home/tom/website/de.aminet.net/aminet/mods/mpg/Awen-315Assault.mp3</location>
     <mtime>1129816800</mtime>
     <first-seen>1507939676</first-seen>
+    <play-count>1</play-count>
+    <last-played>1507952377</last-played>
     <bitrate>319</bitrate>
     <date>728659</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Leeched from     darkager</comment>
     <composer>Unknown</composer>
   </entry>
@@ -4996,6 +5026,7 @@ novel@supermatse.de, www.supermatse.de</comment>
     <bitrate>319</bitrate>
     <date>728659</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Leeched from     darkager</comment>
     <composer>Unknown</composer>
   </entry>
@@ -5015,6 +5046,7 @@ novel@supermatse.de, www.supermatse.de</comment>
     <bitrate>319</bitrate>
     <date>728659</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Leeched from     darkager</comment>
     <composer>Unknown</composer>
   </entry>
@@ -5029,9 +5061,12 @@ novel@supermatse.de, www.supermatse.de</comment>
     <location>file:///home/tom/website/de.aminet.net/aminet/mods/mpg/Awen-305ByStealthPartI.mp3</location>
     <mtime>1129816800</mtime>
     <first-seen>1507939670</first-seen>
+    <play-count>1</play-count>
+    <last-played>1507951590</last-played>
     <bitrate>319</bitrate>
     <date>728659</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Leeched from     darkager</comment>
     <composer>Unknown</composer>
   </entry>
@@ -5046,9 +5081,12 @@ novel@supermatse.de, www.supermatse.de</comment>
     <location>file:///home/tom/website/de.aminet.net/aminet/mods/mpg/Awen-311WaitingForDawn.mp3</location>
     <mtime>1129816800</mtime>
     <first-seen>1507939673</first-seen>
+    <play-count>1</play-count>
+    <last-played>1507952101</last-played>
     <bitrate>319</bitrate>
     <date>728659</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Leeched from     darkager</comment>
     <composer>Unknown</composer>
   </entry>
@@ -5068,6 +5106,7 @@ novel@supermatse.de, www.supermatse.de</comment>
     <bitrate>319</bitrate>
     <date>728659</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Leeched from     darkager</comment>
     <composer>Unknown</composer>
   </entry>
@@ -5167,6 +5206,7 @@ novel@supermatse.de, www.supermatse.de</comment>
     <bitrate>319</bitrate>
     <date>728659</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Leeched from     darkager</comment>
     <composer>Unknown</composer>
   </entry>
@@ -5266,6 +5306,7 @@ novel@supermatse.de, www.supermatse.de</comment>
     <bitrate>319</bitrate>
     <date>728659</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Leeched from     darkager</comment>
     <composer>Unknown</composer>
   </entry>
@@ -5325,6 +5366,7 @@ novel@supermatse.de, www.supermatse.de</comment>
     <bitrate>319</bitrate>
     <date>728659</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Leeched from     darkager</comment>
     <composer>Unknown</composer>
   </entry>
@@ -5384,6 +5426,7 @@ novel@supermatse.de, www.supermatse.de</comment>
     <bitrate>319</bitrate>
     <date>728659</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Leeched from     darkager</comment>
     <composer>Unknown</composer>
   </entry>
@@ -5403,6 +5446,7 @@ novel@supermatse.de, www.supermatse.de</comment>
     <bitrate>319</bitrate>
     <date>728659</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Leeched from     darkager</comment>
     <composer>Unknown</composer>
   </entry>
@@ -5422,6 +5466,7 @@ novel@supermatse.de, www.supermatse.de</comment>
     <bitrate>319</bitrate>
     <date>728659</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Leeched from     darkager</comment>
     <composer>Unknown</composer>
   </entry>
@@ -5441,6 +5486,7 @@ novel@supermatse.de, www.supermatse.de</comment>
     <bitrate>319</bitrate>
     <date>728659</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Leeched from     darkager</comment>
     <composer>Unknown</composer>
   </entry>
@@ -5460,6 +5506,7 @@ novel@supermatse.de, www.supermatse.de</comment>
     <bitrate>319</bitrate>
     <date>728659</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Leeched from     darkager</comment>
     <composer>Unknown</composer>
   </entry>
@@ -5479,6 +5526,7 @@ novel@supermatse.de, www.supermatse.de</comment>
     <bitrate>319</bitrate>
     <date>728659</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Leeched from     darkager</comment>
     <composer>Unknown</composer>
   </entry>
@@ -5498,6 +5546,7 @@ novel@supermatse.de, www.supermatse.de</comment>
     <bitrate>319</bitrate>
     <date>728659</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Leeched from     darkager</comment>
     <composer>Unknown</composer>
   </entry>
@@ -5517,6 +5566,7 @@ novel@supermatse.de, www.supermatse.de</comment>
     <bitrate>319</bitrate>
     <date>728659</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Leeched from     darkager</comment>
     <composer>Unknown</composer>
   </entry>
@@ -5536,6 +5586,7 @@ novel@supermatse.de, www.supermatse.de</comment>
     <bitrate>319</bitrate>
     <date>728659</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Leeched from     darkager</comment>
     <composer>Unknown</composer>
   </entry>
@@ -5555,6 +5606,7 @@ novel@supermatse.de, www.supermatse.de</comment>
     <bitrate>319</bitrate>
     <date>728659</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Leeched from     darkager</comment>
     <composer>Unknown</composer>
   </entry>
@@ -5574,6 +5626,7 @@ novel@supermatse.de, www.supermatse.de</comment>
     <bitrate>319</bitrate>
     <date>728659</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Leeched from     darkager</comment>
     <composer>Unknown</composer>
   </entry>
@@ -5593,6 +5646,7 @@ novel@supermatse.de, www.supermatse.de</comment>
     <bitrate>319</bitrate>
     <date>728659</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Leeched from     darkager</comment>
     <composer>Unknown</composer>
   </entry>
@@ -5611,6 +5665,7 @@ novel@supermatse.de, www.supermatse.de</comment>
     <bitrate>319</bitrate>
     <date>728659</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Leeched from     darkager</comment>
     <composer>Unknown</composer>
   </entry>
@@ -5630,6 +5685,7 @@ novel@supermatse.de, www.supermatse.de</comment>
     <bitrate>319</bitrate>
     <date>728659</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Leeched from     darkager</comment>
     <composer>Unknown</composer>
   </entry>
@@ -5649,6 +5705,7 @@ novel@supermatse.de, www.supermatse.de</comment>
     <bitrate>319</bitrate>
     <date>728659</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Leeched from     darkager</comment>
     <composer>Unknown</composer>
   </entry>
@@ -5668,6 +5725,7 @@ novel@supermatse.de, www.supermatse.de</comment>
     <bitrate>319</bitrate>
     <date>728659</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Leeched from     darkager</comment>
     <composer>Unknown</composer>
   </entry>
@@ -5687,6 +5745,7 @@ novel@supermatse.de, www.supermatse.de</comment>
     <bitrate>319</bitrate>
     <date>728659</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Leeched from     darkager</comment>
     <composer>Unknown</composer>
   </entry>
@@ -5706,6 +5765,7 @@ novel@supermatse.de, www.supermatse.de</comment>
     <bitrate>319</bitrate>
     <date>728659</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Leeched from     darkager</comment>
     <composer>Unknown</composer>
   </entry>
@@ -5725,6 +5785,7 @@ novel@supermatse.de, www.supermatse.de</comment>
     <bitrate>319</bitrate>
     <date>728659</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Leeched from     darkager</comment>
     <composer>Unknown</composer>
   </entry>
@@ -5744,6 +5805,7 @@ novel@supermatse.de, www.supermatse.de</comment>
     <bitrate>319</bitrate>
     <date>728659</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Leeched from     darkager</comment>
     <composer>Unknown</composer>
   </entry>
@@ -16933,9 +16995,12 @@ phone: (0-55) 643 32 67 [dialog]&#13;
     <location>file:///home/tom/website/de.aminet.net/aminet/mods/mpg/WildMachine.mpg</location>
     <mtime>1019311200</mtime>
     <first-seen>1507939740</first-seen>
+    <play-count>1</play-count>
+    <last-played>1507952911</last-played>
     <bitrate>127</bitrate>
     <date>0</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>www.fxdaddy.cjb.net</comment>
     <composer>Unknown</composer>
   </entry>
