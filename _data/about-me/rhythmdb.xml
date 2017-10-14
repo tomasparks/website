@@ -847,6 +847,7 @@
     <bitrate>55</bitrate>
     <date>731947</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <composer>Unknown</composer>
   </entry>
   <entry type="song">
@@ -859,11 +860,12 @@
     <location>file:///home/tom/website/de.aminet.net/aminet/mods/anakir/WAR_BMFf.mp3</location>
     <mtime>1136901600</mtime>
     <first-seen>1507875021</first-seen>
-    <play-count>1</play-count>
-    <last-played>1507877131</last-played>
+    <play-count>2</play-count>
+    <last-played>1507938821</last-played>
     <bitrate>55</bitrate>
     <date>731947</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <composer>Unknown</composer>
   </entry>
   <entry type="song">
@@ -899,6 +901,7 @@
     <bitrate>55</bitrate>
     <date>731947</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <composer>Unknown</composer>
   </entry>
   <entry type="song">
@@ -916,6 +919,7 @@
     <bitrate>55</bitrate>
     <date>731947</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <composer>Unknown</composer>
   </entry>
   <entry type="song">
@@ -933,6 +937,7 @@
     <bitrate>55</bitrate>
     <date>731947</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <composer>Unknown</composer>
   </entry>
   <entry type="song">
@@ -945,11 +950,12 @@
     <location>file:///home/tom/website/de.aminet.net/aminet/mods/anakir/WAR_BMFe.mp3</location>
     <mtime>1136901600</mtime>
     <first-seen>1507875021</first-seen>
-    <play-count>1</play-count>
-    <last-played>1507877058</last-played>
+    <play-count>2</play-count>
+    <last-played>1507938749</last-played>
     <bitrate>55</bitrate>
     <date>731947</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <composer>Unknown</composer>
   </entry>
   <entry type="song">
@@ -967,6 +973,7 @@
     <bitrate>55</bitrate>
     <date>731947</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <composer>Unknown</composer>
   </entry>
   <entry type="song">
@@ -984,6 +991,7 @@
     <bitrate>55</bitrate>
     <date>731947</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <composer>Unknown</composer>
   </entry>
   <entry type="song">
@@ -1019,6 +1027,7 @@
     <bitrate>55</bitrate>
     <date>731947</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <composer>Unknown</composer>
   </entry>
   <entry type="song">
@@ -1054,6 +1063,7 @@
     <bitrate>55</bitrate>
     <date>731947</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <composer>Unknown</composer>
   </entry>
   <entry type="song">
