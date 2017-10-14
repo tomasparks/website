@@ -69,9 +69,9 @@ namespace :site do
      # Make sure destination folder exists as git repo
     check_destination
     Dir.mktmpdir do |tmp|
-    sh "git clone https://github.com/tomasparks/Dynix-theme-jekyll.git _theme" 
+    sh "git clone https://#{ENV['GIT_NAME']}:#{ENV['GH_TOKEN']}@github.com/#{USERNAME}/Dynix-theme-jekyll.git _theme" 
     Dir.chdir("_theme") { sh "git submodule update --init --recursive" }
-    sh "echo WTF1"
+    
     sh "rsync -I -r --prune-empty-dirs  --remove-source-files --exclude \".git/\" --exclude \"_site/\" --exclude \"_theme/\" . _theme/"
     sh "rsync -I -r --prune-empty-dirs  --remove-source-files --exclude \".git/\" --exclude \"_site/\" --exclude \"_theme/\" _theme/ ."
 
@@ -86,8 +86,8 @@ namespace :site do
     # Commit and push to github
     sha = `git log`.match(/[a-z0-9]{40}/)[0]
     Dir.chdir(CONFIG["destination"]) do
-      sh "git config --global user.name '#{ENV['GIT_NAME']}'"
-      sh "git config --global user.email '#{ENV['GIT_EMAIL']}'"
+      sh "git config user.name 'Travis-CI'"
+      sh "git config --global user.email 'noreply@travis-ci.org'"
       sh "git config --global push.default simple"
       sh "git add --all ."
       sh "git commit -m 'Updating to #{USERNAME}/#{REPO}@#{sha}.'"
