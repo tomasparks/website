@@ -89,6 +89,8 @@ namespace :site do
       sh "git config user.name 'Travis-CI'"
       sh "git config user.email 'noreply@travis-ci.org'"
       sh "git config push.default simple"
+      sh "git config credential.helper \"store --file=.git/credentials\""
+      sh "echo \"https://${GH_TOKEN}:@github.com\" > .git/credentials"
       sh "git add --all ."
       sh "git commit -m 'Updating to #{USERNAME}/#{REPO}@#{sha}.'"
       sh "git push"
