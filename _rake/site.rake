@@ -91,7 +91,7 @@ namespace :site do
       sh "git config push.default simple"
       sh "git add --all ."
       sh "git commit -m 'Updating to #{USERNAME}/#{REPO}@#{sha}.'"
-      sh "git push origin"
+      sh "git push"
       puts "Pushed updated branch #{DESTINATION_BRANCH} to GitHub Pages"
     end
         sh "bundle exec jekyll webmention"

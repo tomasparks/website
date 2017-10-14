@@ -15644,6 +15644,7 @@ phone: (0-55) 643 32 67 [dialog]&#13;
     <bitrate>63</bitrate>
     <date>730486</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Amiga1200+OSS+Korg Toneworks</comment>
     <composer>Unknown</composer>
   </entry>
@@ -15662,6 +15663,7 @@ phone: (0-55) 643 32 67 [dialog]&#13;
     <bitrate>63</bitrate>
     <date>730486</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Amiga1200+OSS+Korg Toneworks</comment>
     <composer>Unknown</composer>
   </entry>
@@ -15675,9 +15677,12 @@ phone: (0-55) 643 32 67 [dialog]&#13;
     <location>file:///home/tom/website/de.aminet.net/aminet/mods/mpg/lnsM43_Five.mpg</location>
     <mtime>1007560800</mtime>
     <first-seen>1507939707</first-seen>
+    <play-count>1</play-count>
+    <last-played>1507958475</last-played>
     <bitrate>63</bitrate>
     <date>730486</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Amiga1200+OSS+Korg Toneworks</comment>
     <composer>Unknown</composer>
   </entry>
@@ -15691,6 +15696,8 @@ phone: (0-55) 643 32 67 [dialog]&#13;
     <location>file:///home/tom/website/de.aminet.net/aminet/mods/mpg/lnsM44_Demo.mpg</location>
     <mtime>1007560800</mtime>
     <first-seen>1507939707</first-seen>
+    <play-count>1</play-count>
+    <last-played>1507958914</last-played>
     <bitrate>63</bitrate>
     <date>730486</date>
     <media-type>audio/mpeg</media-type>
