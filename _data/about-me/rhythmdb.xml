@@ -1111,9 +1111,12 @@ phone: (0-55) 643 32 67 [dialog]&#13;
     <location>file:///home/tom/website/de.aminet.net/aminet/mods/mpg/sbf_atr.mpg</location>
     <mtime>1033740000</mtime>
     <first-seen>1507939731</first-seen>
+    <play-count>1</play-count>
+    <last-played>1507953793</last-played>
     <bitrate>127</bitrate>
     <date>730486</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>samples (c)2001 by Rolf Roth</comment>
     <composer>Unknown</composer>
   </entry>
@@ -6667,9 +6670,12 @@ all other rrights reserved.</comment>
     <location>file:///home/tom/website/de.aminet.net/aminet/mods/mpg/lou1984.mpg</location>
     <mtime>949500000</mtime>
     <first-seen>1507939709</first-seen>
+    <play-count>1</play-count>
+    <last-played>1507953354</last-played>
     <bitrate>128</bitrate>
     <date>730120</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>home.worldonline.dk/~mr_lou/</comment>
     <composer>Unknown</composer>
   </entry>
@@ -6939,6 +6945,7 @@ all other rrights reserved.</comment>
     <bitrate>24</bitrate>
     <date>731216</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <composer>Unknown</composer>
   </entry>
   <entry type="song">
@@ -6955,6 +6962,7 @@ all other rrights reserved.</comment>
     <bitrate>24</bitrate>
     <date>731216</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <composer>Unknown</composer>
   </entry>
   <entry type="song">
@@ -6971,6 +6979,7 @@ all other rrights reserved.</comment>
     <bitrate>24</bitrate>
     <date>731216</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <composer>Unknown</composer>
   </entry>
   <entry type="song">
@@ -6987,6 +6996,7 @@ all other rrights reserved.</comment>
     <bitrate>24</bitrate>
     <date>731216</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <composer>Unknown</composer>
   </entry>
   <entry type="song">
@@ -7003,6 +7013,7 @@ all other rrights reserved.</comment>
     <bitrate>24</bitrate>
     <date>731216</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <composer>Unknown</composer>
   </entry>
   <entry type="song">
