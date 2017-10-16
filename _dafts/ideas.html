@@ -190,9 +190,13 @@ Error message and password prompt
 
 <li>$:/state/tab/sidebar--1835078512</li>
 
+<li>$:/state/tag-manager/post</li>
+
 <li>$:/status/UserName</li>
 
 <li>$:/StoryList</li>
+
+<li>$:/TagManager</li>
 
 <li>$:/temp/info-plugin</li>
 
@@ -340,9 +344,13 @@ Error message and password prompt
 
 <li>Paramount Pictures and CBS Studios fan-fiction Summer program</li>
 
+<li>post</li>
+
 <li>SuperFX chip</li>
 
 <li>superman 64 visually reverse engineering</li>
+
+<li>website</li>
 
 </ul>
 </p>
@@ -8937,14 +8945,105 @@ Error message and password prompt
 <div created="20171011203356360" creator="tom sparks" modified="20171011203409747" modifier="tom sparks" title="$:/state/tab-2065006209">
 <pre>$:/core/ui/ControlPanel/Saving/General</pre>
 </div>
-<div created="20171011231126454" creator="tom sparks" modified="20171012010312494" modifier="tom sparks" title="$:/state/tab/sidebar--1835078512">
+<div created="20171011231126454" creator="tom sparks" modified="20171015140324454" modifier="tom sparks" title="$:/state/tab/sidebar--1835078512">
 <pre>$:/core/ui/SideBar/Open</pre>
+</div>
+<div created="20171015140248041" creator="tom sparks" modified="20171015140248041" modifier="tom sparks" title="$:/state/tag-manager/post">
+<pre>open</pre>
 </div>
 <div created="20171011203146661" creator="t" modified="20171011203151682" modifier="tom spark" title="$:/status/UserName">
 <pre>tom sparks</pre>
 </div>
 <div list="[[Halt and Catch Fire (TV series)]] [[superman 64 visually reverse engineering]] music" title="$:/StoryList">
 <pre></pre>
+</div>
+<div caption="{{$:/language/TagManager/Caption}}" color="#bbb" created="20171015140212367" creator="tom sparks" icon="$:/core/images/tag-button" modified="20171015140212367" modifier="tom sparks" title="$:/TagManager">
+<pre>\define lingo-base() $:/language/TagManager/
+\define iconEditorTab(type)
+&lt;$list filter=&quot;[all[shadows+tiddlers]is[image]] [all[shadows+tiddlers]tag[$:/tags/Image]] -[type[application/pdf]] +[sort[title]] +[$type$is[system]]&quot;&gt;
+&lt;$link to={{!!title}}&gt;
+&lt;$transclude/&gt; &lt;$view field=&quot;title&quot;/&gt;
+&lt;/$link&gt;
+&lt;/$list&gt;
+\end
+\define iconEditor(title)
+&lt;div class=&quot;tc-drop-down-wrapper&quot;&gt;
+&lt;$button popup=&lt;&lt;qualify &quot;$:/state/popup/icon/$title$&quot;&gt;&gt; class=&quot;tc-btn-invisible tc-btn-dropdown&quot;&gt;{{$:/core/images/down-arrow}}&lt;/$button&gt;
+&lt;$reveal state=&lt;&lt;qualify &quot;$:/state/popup/icon/$title$&quot;&gt;&gt; type=&quot;popup&quot; position=&quot;belowleft&quot; text=&quot;&quot; default=&quot;&quot;&gt;
+&lt;div class=&quot;tc-drop-down&quot;&gt;
+&lt;$linkcatcher to=&quot;$title$!!icon&quot;&gt;
+&lt;&lt;iconEditorTab type:&quot;!&quot;&gt;&gt;
+&lt;hr/&gt;
+&lt;&lt;iconEditorTab type:&quot;&quot;&gt;&gt;
+&lt;/$linkcatcher&gt;
+&lt;/div&gt;
+&lt;/$reveal&gt;
+&lt;/div&gt;
+\end
+\define qualifyTitle(title)
+$title$$(currentTiddler)$
+\end
+\define toggleButton(state)
+&lt;$reveal state=&quot;$state$&quot; type=&quot;match&quot; text=&quot;closed&quot; default=&quot;closed&quot;&gt;
+&lt;$button set=&quot;$state$&quot; setTo=&quot;open&quot; class=&quot;tc-btn-invisible tc-btn-dropdown&quot; selectedClass=&quot;tc-selected&quot;&gt;
+{{$:/core/images/info-button}}
+&lt;/$button&gt;
+&lt;/$reveal&gt;
+&lt;$reveal state=&quot;$state$&quot; type=&quot;match&quot; text=&quot;open&quot; default=&quot;closed&quot;&gt;
+&lt;$button set=&quot;$state$&quot; setTo=&quot;closed&quot; class=&quot;tc-btn-invisible tc-btn-dropdown&quot; selectedClass=&quot;tc-selected&quot;&gt;
+{{$:/core/images/info-button}}
+&lt;/$button&gt;
+&lt;/$reveal&gt;
+\end
+&lt;table class=&quot;tc-tag-manager-table&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;&lt;lingo Colour/Heading&gt;&gt;&lt;/th&gt;
+&lt;th class=&quot;tc-tag-manager-tag&quot;&gt;&lt;&lt;lingo Tag/Heading&gt;&gt;&lt;/th&gt;
+&lt;th&gt;&lt;&lt;lingo Count/Heading&gt;&gt;&lt;/th&gt;
+&lt;th&gt;&lt;&lt;lingo Icon/Heading&gt;&gt;&lt;/th&gt;
+&lt;th&gt;&lt;&lt;lingo Info/Heading&gt;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;$list filter=&quot;[tags[]!is[system]sort[title]]&quot;&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;$edit-text field=&quot;color&quot; tag=&quot;input&quot; type=&quot;color&quot;/&gt;&lt;/td&gt;
+&lt;td&gt;&lt;$macrocall $name=&quot;tag&quot; tag=&lt;&lt;currentTiddler&gt;&gt;/&gt;&lt;/td&gt;
+&lt;td&gt;&lt;$count filter=&quot;[all[current]tagging[]]&quot;/&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;$macrocall $name=&quot;iconEditor&quot; title={{!!title}}/&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;$macrocall $name=&quot;toggleButton&quot; state=&lt;&lt;qualifyTitle &quot;$:/state/tag-manager/&quot;&gt;&gt; /&gt; 
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td colspan=&quot;4&quot;&gt;
+&lt;$reveal state=&lt;&lt;qualifyTitle &quot;$:/state/tag-manager/&quot;&gt;&gt; type=&quot;match&quot; text=&quot;open&quot; default=&quot;&quot;&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;&lt;lingo Colour/Heading&gt;&gt;&lt;/td&gt;&lt;td&gt;&lt;$edit-text field=&quot;color&quot; tag=&quot;input&quot; type=&quot;text&quot; size=&quot;9&quot;/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;&lt;lingo Icon/Heading&gt;&gt;&lt;/td&gt;&lt;td&gt;&lt;$edit-text field=&quot;icon&quot; tag=&quot;input&quot; size=&quot;45&quot;/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/$reveal&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/$list&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;
+{{$:/core/ui/UntaggedTemplate}}
+&lt;/td&gt;
+&lt;td&gt;
+&lt;small class=&quot;tc-menu-list-count&quot;&gt;&lt;$count filter=&quot;[untagged[]!is[system]] -[tags[]]&quot;/&gt;&lt;/small&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</pre>
 </div>
 <div plugin-type="info" title="$:/temp/info-plugin" type="application/json">
 <pre>{
@@ -9531,11 +9630,38 @@ This plugin also requires the JSZip plugin ([[$:/plugins/tiddlywiki/jszip]]) to 
 <div created="20171011204149103" creator="tom sparks" modified="20171011204149103" modifier="tom sparks" title="$:/themes/tiddlywiki/vanilla/options/sidebarlayout">
 <pre>fluid-fixed</pre>
 </div>
-<div created="20171014085735101" creator="tom sparks" modified="20171014090718172" modifier="tom sparks" tags="post" title="Halt and Catch Fire (TV series)" type="text/x-markdown">
+<div created="20171014085735101" creator="tom sparks" modified="20171015213113440" modifier="tom sparks" tags="post" title="Halt and Catch Fire (TV series)" type="text/x-markdown">
 <pre>I have just finished watching [Halt and Catch Fire](https://en.wikipedia.org/wiki/Halt_and_Catch_Fire_(TV_series))
-I've tried to Identify the company repented in the show
+I've tried to Identify the companies the show represents
 
-* [Compaq](https://en.wikipedia.org/wiki/Compaq)  / </pre>
+early 1980-1985 (Season 1):
+
+* Cardiff Electric = [Compaq](https://en.wikipedia.org/wiki/Compaq)
+Joe MacMillan, Gordon Clark, Cameron Howe
+
+1985-1989 (Season 2-3):
+
+* Muntiy = [PlayNET](https://en.wikipedia.org/wiki/PlayNET) / [Quantum Link](https://en.wikipedia.org/wiki/Quantum_Link) / [Habitat](https://en.wikipedia.org/wiki/Habitat_(video_game))
+ Cameron Howe ( founder ), Donna Clark
+* MacMillan = [McAfee](https://en.wikipedia.org/wiki/McAfee)
+Joe MacMillan ( founder )
+*  Unknown? = [NSFNET Regional networks](https://en.wikipedia.org/wiki/National_Science_Foundation_Network#Regional_networks)
+Joe MacMillan ( founder )
+* Gordon Clark computers = [Dell](https://en.wikipedia.org/wiki/History_of_Dell)
+Gordon Clark ( founder )
+
+1990 -1995 (Season 4):
+
+* Comet = [Yahoo! Directory?](https://en.wikipedia.org/wiki/Yahoo!_Directory)
+Gordon Clark ( founder ), Joe MacMillan
+* Rover = [AltaVista?](https://en.wikipedia.org/wiki/AltaVista)
+Donna Clark ( intervestor )
+
+
+Issues I had was:
+
+* Hollywood hacking: [packet sniffer](https://en.wikipedia.org/wiki/Packet_analyzer) = bloodhound
+* Amiga computer: poor portrayal, looked like a DOS  computer</pre>
 </div>
 <div created="20171011213005494" creator="tom sparks" modified="20171011215418230" modifier="tom sparks" tags="post" title="history of email quickie" type="text/x-markdown">
 <pre>I have been half following Shiva Ayyadurai [&quot;EMAIL&quot; invention controversy](https://en.wikipedia.org/wiki/Shiva_Ayyadurai#.22EMAIL.22_invention_controversy)[^1]
@@ -9556,6 +9682,9 @@ https://en.wikipedia.org/wiki/File:WatsonLloydGeorgeTelegram.jpg
 <div created="20171011213124658" creator="tom sparks" modified="20171011215353634" modifier="tom sparks" tags="post" title="Paramount Pictures and CBS Studios fan-fiction Summer program" type="text/x-markdown">
 <pre></pre>
 </div>
+<div color="#ff0000" created="20171015140149678" creator="tom sparks" modified="20171015140149678" modifier="tom sparks" title="post">
+<pre></pre>
+</div>
 <div created="20171011213216278" creator="tom sparks" modified="20171011215333729" modifier="tom sparks" tags="post" title="SuperFX chip" type="text/x-markdown">
 <pre></pre>
 </div>
@@ -9569,6 +9698,9 @@ the indoor enigne looked a lot like descent game engine because of its convex na
 
 ### outdoor ###
 the outdoor enige looks like a 2.5D engine with building extrustion</pre>
+</div>
+<div color="#00ff00" created="20171015140135348" creator="tom sparks" modified="20171015140135348" modifier="tom sparks" title="website">
+<pre></pre>
 </div>
 
 </div>

@@ -7920,6 +7920,8 @@ Rapidly fixed version.</comment>
     <mtime>936972000</mtime>
     <first-seen>1507939646</first-seen>
     <last-seen>1508022503</last-seen>
+    <play-count>1</play-count>
+    <last-played>1508106580</last-played>
     <bitrate>127</bitrate>
     <date>0</date>
     <media-type>audio/mpeg</media-type>
@@ -8232,9 +8234,12 @@ Rapidly fixed version.</comment>
     <mtime>934812000</mtime>
     <first-seen>1507939647</first-seen>
     <last-seen>1508022505</last-seen>
+    <play-count>1</play-count>
+    <last-played>1508105811</last-played>
     <bitrate>127</bitrate>
     <date>0</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <composer>Unknown</composer>
   </entry>
   <entry type="song">
@@ -9199,6 +9204,8 @@ Rapidly fixed version.</comment>
     <mtime>924789600</mtime>
     <first-seen>1507939647</first-seen>
     <last-seen>1508022505</last-seen>
+    <play-count>1</play-count>
+    <last-played>1508105080</last-played>
     <bitrate>128</bitrate>
     <date>0</date>
     <media-type>audio/mpeg</media-type>
@@ -9735,9 +9742,12 @@ Rapidly fixed version.</comment>
     <mtime>929455200</mtime>
     <first-seen>1507939646</first-seen>
     <last-seen>1508022504</last-seen>
+    <play-count>1</play-count>
+    <last-played>1508106189</last-played>
     <bitrate>128</bitrate>
     <date>0</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <composer>Unknown</composer>
   </entry>
   <entry type="song">
@@ -11728,9 +11738,12 @@ Rapidly fixed version.</comment>
     <mtime>934812000</mtime>
     <first-seen>1507939650</first-seen>
     <last-seen>1508022503</last-seen>
+    <play-count>1</play-count>
+    <last-played>1508107274</last-played>
     <bitrate>127</bitrate>
     <date>0</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <composer>Unknown</composer>
   </entry>
   <entry type="song">
@@ -11942,6 +11955,8 @@ Rapidly fixed version.</comment>
     <mtime>924789600</mtime>
     <first-seen>1507939649</first-seen>
     <last-seen>1508022504</last-seen>
+    <play-count>1</play-count>
+    <last-played>1508134447</last-played>
     <bitrate>128</bitrate>
     <date>0</date>
     <media-type>audio/mpeg</media-type>
@@ -12229,9 +12244,12 @@ Rapidly fixed version.</comment>
     <mtime>948290400</mtime>
     <first-seen>1507939647</first-seen>
     <last-seen>1508022504</last-seen>
+    <play-count>1</play-count>
+    <last-played>1508105466</last-played>
     <bitrate>159</bitrate>
     <date>0</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <composer>Unknown</composer>
   </entry>
   <entry type="song">
@@ -12813,9 +12831,12 @@ Rapidly fixed version.</comment>
     <mtime>924789600</mtime>
     <first-seen>1507939646</first-seen>
     <last-seen>1508022505</last-seen>
+    <play-count>1</play-count>
+    <last-played>1508106929</last-played>
     <bitrate>128</bitrate>
     <date>0</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <composer>Unknown</composer>
   </entry>
   <entry type="song">
@@ -14025,6 +14046,8 @@ phone: (0-55) 643 32 67 [dialog]&#13;
     <mtime>932824800</mtime>
     <first-seen>1507939648</first-seen>
     <last-seen>1508022505</last-seen>
+    <play-count>1</play-count>
+    <last-played>1508134882</last-played>
     <bitrate>127</bitrate>
     <date>729755</date>
     <media-type>audio/mpeg</media-type>
