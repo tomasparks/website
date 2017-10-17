@@ -66,9 +66,6 @@ collections:
 #    output: true
 #    permalink: /questions/:path/
 
-group :jekyll_plugins do
-  gem 'jekyll-webmention_io'
-end
 
 plugins: 
 # - 'jekyll-lunr-js-search' [UNSUPPORTED] 

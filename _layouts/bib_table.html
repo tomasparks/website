@@ -1,7 +1,13 @@
 ---
 ---
-
-    <td><a href="{{ entry.url }}">{{ entry.title }}</a></td> 
+    <td>
+    if {{links.pdf}} then <a href="{{links.pdf}}"><i class="fa fa-file-pdf-o"></i></a>
+    if {{links.slides.pdf}} then <a href="{{links.sides.pdf}}"><i class="fa fa-file-pdf-o"></i></a>
+    </td>
+    <td>
+    if entry.url == true then <a href="{{ entry.url }}">{{ entry.title }}</a>
+    else {{ entry.title }}
+    </td> 
     <td>{{ entry.author }}</td> 
     <td>{{ entry.abstract }}</td> 
     <td>{{ entry.year }}</td>
