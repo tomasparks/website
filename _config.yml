@@ -107,8 +107,13 @@ strict_front_matter: true
 # Markdown
 markdown: kramdown
 kramdown:
-  input: GFM
-  hard_wrap: false
+  auto_ids:       true
+  entity_output:  as_char
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  input:          GFM
+  hard_wrap:      false
+  footnote_nr:    1
 highlighter: rouge
 ## EOF _CONFIG.YML
 
