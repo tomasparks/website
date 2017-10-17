@@ -1,3 +1,9 @@
 [submodule "Articles"]
 	path = Articles
 	url = https://github.com/tomasparks/Articles.git
+[submodule "_site"]
+	path = _site
+	url = git@github.com:tomasparks/tomasparks.github.io.git
+[submodule "_theme"]
+	path = _theme
+	url = git@github.com:tomasparks/Dynix-theme-jekyll.git
