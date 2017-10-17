@@ -11,7 +11,6 @@ gem 'jekyll-redirect-from'
 gem 'jekyll-paginate-v2'
 gem 'jekyll-scholar'
 #gem 'jekyll-scholar-extra'
-gem 'jekyll-webmention_io'
 #gem 'rmagick'
 gem 'jekyll-responsive_image'
 #gem 'jekyll-picture-tag', github: 'nhoizey/jekyll-picture-tag'
@@ -29,3 +28,7 @@ gem 'jekyll-asciinema'
 
 #gem 'pdf_info'
 #gem 'rtex'
+
+group :jekyll_plugins do
+  gem 'jekyll-webmention_io'
+end
