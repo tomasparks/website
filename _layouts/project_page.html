@@ -5,7 +5,7 @@ pagination:
 ---
 <!-- start of project_page -->
         {{ content }}
-    {% if post.comments == true %}
-      {% include post_comments.html %}
+    {% if page.comments == true %}
+      {% include post-comments.html %}
 {% endif %}
 <!-- end of project_page -->
