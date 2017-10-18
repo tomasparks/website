@@ -194,8 +194,8 @@ image: /about-me/photo.png
 description:
 author: Tom Sparks
 social:
- name: Tom Sparks
- links:
+name: Tom Sparks
+links:
     - https://github.com/tomasparks
     - https://www.facebook.com/tom.sparks.106
 ## EOF SEO.YML
