@@ -2,7 +2,7 @@
 layout: page
 title: about me
 ---
-<div markdown="0" class="p-name>Tom Sparks</div>, I am a Alternative Technology Researcher.
+{% include author.html %}
 
 my [CV]({{site.url}}/about-me/cv.html)
 

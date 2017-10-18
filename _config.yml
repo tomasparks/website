@@ -4,9 +4,6 @@ permalink: '/archive/:year/:month/:slug.html'
 site.url: https://tomasparks.github.io/
 url: https://tomasparks.github.io/
 
-title: Tom Sparks website
-name: Tom Sparks website
-
 keep_files:   [".git"]
 include: [".htaccess"]
 exclude: ["README.md", "LICENSE","build.sh","Gemfile.lock","Gemfile","*.yml"]
@@ -193,9 +190,10 @@ name: Tom Sparks website
 image: /about-me/photo.png
 description:
 author: Tom Sparks
+bio: I am a Alternative Technology Researcher.
 social:
-name: Tom Sparks
-links:
+  name: Tom Sparks
+  links:
     - https://github.com/tomasparks
     - https://www.facebook.com/tom.sparks.106
 ## EOF SEO.YML
