@@ -4,7 +4,6 @@ permalink: '/archive/:year/:month/:slug.html'
 url: https://tomasparks.github.io/
 
 repository: "tomasparks/website"
-site.staticman.branch: "master"
 
 keep_files:   [".git"]
 include: [".htaccess"]
@@ -78,6 +77,11 @@ plugins:
 # - 'jekyll/scholar/extras' # settings in scholar.yml
 
 ## EOF BASE.YML
+
+## STATICMAN.YML
+staticman:
+  branch: "master"
+## EOF STATICMAN.YML
 
 ## _CONFIG.YML
 
