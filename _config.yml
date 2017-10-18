@@ -190,6 +190,7 @@ scholar:
 # https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 title: Tom Sparks website
 name: Tom Sparks website
+image: /about-me/photo.png
 description:
 author: Tom Sparks
 social:
