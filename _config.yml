@@ -1,11 +1,10 @@
 ## BASE.YML
 # Blog settings
 permalink: '/archive/:year/:month/:slug.html'
-site.url: https://tomasparks.github.io/
 url: https://tomasparks.github.io/
 
 repository: "tomasparks/website"
-
+staticman.branch: "master"
 
 keep_files:   [".git"]
 include: [".htaccess"]
