@@ -4,6 +4,9 @@ permalink: '/archive/:year/:month/:slug.html'
 site.url: https://tomasparks.github.io/
 url: https://tomasparks.github.io/
 
+repository: "tomasparks/website"
+
+
 keep_files:   [".git"]
 include: [".htaccess"]
 exclude: ["README.md", "LICENSE","build.sh","Gemfile.lock","Gemfile","*.yml"]
