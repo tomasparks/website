@@ -91,16 +91,16 @@ plugins:
 ## EOF BASE.YML
 
 ## JEKYLL DATADPAGE GEN.YML
-page_gen-dirs: true # uncomment, if you prefer to generate named folders
-page_gen:
-    - data: comments
-      template: 'single-comment'
-      name: date
-      dir: comments
-    - data: notes
-      template: 'single-comment'
-      name: date
-      dir: notes
+#page_gen-dirs: true # uncomment, if you prefer to generate named folders
+#page_gen:
+#    - data: comments
+#      template: 'single-comment'
+#      name: date
+#      dir: comments
+#    - data: notes
+#      template: 'single-comment'
+#      name: date
+#      dir: notes
 ## EOF JEKYLL DATADPAGE GEN.YML
 
 ## STATICMAN.YML
