@@ -97,6 +97,10 @@ page_gen:
     template: 'single-comment'
     name: date
     dir: comments
+data: notes
+    template: 'single-comment'
+    name: date
+    dir: notes
 ## EOF JEKYLL DATADPAGE GEN.YML
 
 ## STATICMAN.YML
