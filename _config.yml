@@ -93,7 +93,7 @@ plugins:
 ## JEKYLL DATADPAGE GEN.YML
 page_gen-dirs: true # uncomment, if you prefer to generate named folders
 page_gen:
-#    - data: site.data.comments
+#    - data: comments
 #      template: 'single-comment'
 #      name: _id
 #      dir: comments
