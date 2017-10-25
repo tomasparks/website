@@ -11225,6 +11225,7 @@ Rapidly fixed version.</comment>
     <bitrate>128</bitrate>
     <date>0</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <composer>Unknown</composer>
   </entry>
   <entry type="song">
