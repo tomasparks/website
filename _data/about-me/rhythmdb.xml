@@ -11457,9 +11457,12 @@ Rapidly fixed version.</comment>
     <mtime>936972000</mtime>
     <first-seen>1507939652</first-seen>
     <last-seen>1508931292</last-seen>
+    <play-count>1</play-count>
+    <last-played>1508940181</last-played>
     <bitrate>127</bitrate>
     <date>0</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <composer>Unknown</composer>
   </entry>
   <entry type="song">
@@ -12612,9 +12615,12 @@ Rapidly fixed version.</comment>
     <mtime>937144800</mtime>
     <first-seen>1507939651</first-seen>
     <last-seen>1508931289</last-seen>
+    <play-count>1</play-count>
+    <last-played>1508940398</last-played>
     <bitrate>127</bitrate>
     <date>0</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <composer>Unknown</composer>
   </entry>
   <entry type="song">
