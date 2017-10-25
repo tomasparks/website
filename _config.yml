@@ -63,10 +63,10 @@ collections:
      output: true
      layout: project_page
      permalink: /projects/:year:month:day.html
-   notes:
-     output: true
-     layout: post
-     permalink: /notes/:year:month:day.html  
+#   notes:
+#     output: true
+#     layout: post
+#     permalink: /notes/:year:month:day.html  
 #  computers:
 #    layout: page
 #    output: true
