@@ -9546,9 +9546,12 @@ Rapidly fixed version.</comment>
     <mtime>926604000</mtime>
     <first-seen>1507939654</first-seen>
     <last-seen>1508931291</last-seen>
+    <play-count>1</play-count>
+    <last-played>1508941687</last-played>
     <bitrate>128</bitrate>
     <date>0</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <composer>Unknown</composer>
   </entry>
   <entry type="song">
@@ -12020,9 +12023,12 @@ Rapidly fixed version.</comment>
     <mtime>937144800</mtime>
     <first-seen>1507939650</first-seen>
     <last-seen>1508931286</last-seen>
+    <play-count>1</play-count>
+    <last-played>1508941229</last-played>
     <bitrate>127</bitrate>
     <date>0</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <composer>Unknown</composer>
   </entry>
   <entry type="song">
@@ -13413,9 +13419,12 @@ Rapidly fixed version.</comment>
     <mtime>926604000</mtime>
     <first-seen>1507939651</first-seen>
     <last-seen>1508931292</last-seen>
+    <play-count>1</play-count>
+    <last-played>1508940893</last-played>
     <bitrate>128</bitrate>
     <date>0</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <composer>Unknown</composer>
   </entry>
   <entry type="song">
