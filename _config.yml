@@ -63,10 +63,10 @@ collections:
      output: true
      layout: project_page
      permalink: /projects/:year:month:day.html
-   notes:
-     output: true
-     layout: post
-     permalink: /notes/:year:month:day.html  
+#   notes:
+#     output: true
+#     layout: post
+#     permalink: /notes/:year:month:day.html  
 #  computers:
 #    layout: page
 #    output: true
@@ -91,16 +91,16 @@ plugins:
 ## EOF BASE.YML
 
 ## JEKYLL DATADPAGE GEN.YML
-page_gen-dirs: true # uncomment, if you prefer to generate named folders
-page_gen:
+#page_gen-dirs: true # uncomment, if you prefer to generate named folders
+#page_gen:
 #    - data: comments
 #      template: 'single-comment'
 #      name: _id
 #      dir: comments
-    - data: notes
-      template: 'page'
-      name: date
-      dir: notes
+#    - data: notes
+#      template: 'page'
+#      name: date
+#      dir: notes
 ## EOF JEKYLL DATADPAGE GEN.YML
 
 ## STATICMAN.YML

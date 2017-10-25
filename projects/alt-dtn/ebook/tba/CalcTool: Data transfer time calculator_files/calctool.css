@@ -1,0 +1,114 @@
+/* page defaults */
+ a:link{color:#00006f;}
+ a:visited{color:#00006f;}
+ a:hover{color:#f1541f;}
+ a:active{color:#f1541f;}
+BODY {
+	font-family:ariel, helvetica, sans-serif;
+	font-size: 16px;
+	background-image:url('/ct/bg_image.jpg'); 
+}
+/* small headings */ /* font-variant: small-caps; */
+/* h3 used in info and notes boxes */
+div.info h3, div.notes h3 {
+  color:#f1541f; font-weight: bold;  text-transform: lowercase;
+  font-size: 24px; 
+  margin-top: 0; margin-bottom: 4px; 
+}
+/* h3 used for list headings */
+div.detail h3 {
+  color:#f1541f; font-weight: bold; 
+  font-size: 20px; 
+  margin-top: 0; margin-bottom: 4px; 
+}
+/* smaller heading */
+h4 { color:#f1541f; font-weight: bold; 
+  font-size: 16px; line-height: normal; 
+  margin-top: 0; margin-bottom: 0; 
+}
+h5 { color:#000000; font-weight: bold; 
+  font-size: small; line-height: normal; 
+  margin-top: 0; margin-bottom: 0; 
+}
+
+
+/* section defaults */
+div.footer { font-size: 12px; color: #888888; text-align: center; }
+div.grayed { font-size: 11px; color: #888888; text-align: right; }
+div.notes { font-size: 13px; text-align: left; }
+div.info { font-size: 13px;  text-align: left;}
+div.detail {  color:#222222;   text-align: left; }
+/* used for the main title and byline */
+div.title { font-weight: bold; font-size:24px; text-align: left; /* color: #f1541f; */ }
+div.byline {  color:#222222; font-style: italic; font-size:14px; text-align: left; }
+/* used for the index links at the top */
+.mainindex { font-size:14px; font-weight: bold; text-align: right; }
+.categoryindex { font-size:11px;  text-align: right;}
+.subcategoryindex { font-size:11px;  text-align: right;}
+.editor { font-size:10px;  text-align: right;}
+
+/* tables */
+div.detail table { border-collapse: collapse; margin-bottom: 0px; }
+table.ctpage { margin-left: auto; margin-right: auto; }
+/* table.ctpage tr td { background-color:#ffffff; } */
+
+/* lists */
+div.detail ul { line-height: normal; margin-top: 0; margin-bottom: 4px; }
+div.info ul { line-height: normal; margin-top: 0; margin-bottom: 4px; }
+div.notes ul { line-height: normal; margin-top: 0; margin-bottom: 0px;
+	font-size: 12px; }
+
+/* forms */
+input { border:1px solid #00006f; }
+textarea { border:1px solid #00006f; }
+input.search { border:2px solid #00006f;  font-size: 11px; color: #000000; background-color:#eeeeee;
+        font-family: Verdana,Arial,Helvetica,sans-serif;  }
+input.minisearch { border:1px solid #00006f; color: #000000; background-color:#eeeeee; width: 90px; font-size: 11px; 
+        font-family: Verdana,Arial,Helvetica,sans-serif;  }
+input.calculate { font-size: 14px; color: #ffffff; background-color:#00006F; width: 85px;
+	font-family: Verdana,Arial,Helvetica,sans-serif; }
+input.minibutton { font-size: 11px; width:60px; height:18px; }
+input.usrnm { font-size: 14px; color: #000000; background-color: #d7d7e7; width: 120px; }
+input.pswd { font-size: 14px; color: #000000; background-color: #f9d0c3; width: 120px; }
+input.resize { border:0px; }
+input.infield { color: #000000; background-color: #d7d7e7; width: 81px; }
+input.outfield { width: 81px;
+	color: #000000; background-color: #f9d0c3; 
+/*	color: #f1541f; readonly: true; */
+}
+select { border:1px solid #00006f;
+	max-width: 110px;
+	font-family: Verdana,Arial,Helvetica,sans-serif;
+	font-size: 11px;
+ }
+option { font-size: 11px; }
+form { margin-top: 0; margin-bottom: 4px;  }
+
+/* for borders on cells or tables: to be used later */
+td.tl { }
+td.tr { }
+td.bl { }
+td.br { }
+td.t { }
+td.b { }
+td.l { }
+td.r { }
+
+/* for autoscrollbars on lists etc */
+/* IE6 only uses height.  IE7 uses max-height as an alias for height.
+   Firefox uses height and max-height correctly as per W3C definition */
+div.searchlist   { overflow:auto; height:492px; max-height:512px; width:316px; margin-top:8px;  }
+div.longsearchlist   { overflow:auto; height:550px; max-height:570px; width:316px; margin-top:8px;  }
+div.categorylist { overflow:auto; height:280px; max-height:280px; width:316px; }
+div.relatedbox   { overflow:auto; height:173px; max-height:173px; width:316px; font-size:15px; }
+div.categorymenu { overflow:auto; height:369px; max-height:369px; width:316px; font-size:15px; }
+div.notesbox     { overflow:auto; height:300px; width:180px; }
+div.infobox      { overflow:auto; height:200px; width:180px; }
+div.catnotesbox  { overflow:auto; height:288px; width:316px; }
+div.bigbox       { overflow:auto; height:586px; width:664px; }
+div.searchnotesbox { overflow:auto; height:220px; width:316px; margin-top:16px; }
+div.calcbox      { overflow:auto; height:327px; width:300px; background-image:url(http://www.calctool.org/ct/calcbg.jpg);}
+div.smallbox     { overflow:auto; height:200px; width:200px; }
+div.smallboxhead { overflow:auto; height:160px; width:200px; margin-top: 6px; }
+
+img.social-bookmarks { border: 0; }

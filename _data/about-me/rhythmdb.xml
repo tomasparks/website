@@ -3608,6 +3608,8 @@ fu** the system...wenigstens 'n bisschen...</comment>
     <mtime>1018706400</mtime>
     <first-seen>1507939656</first-seen>
     <last-seen>1508931288</last-seen>
+    <play-count>1</play-count>
+    <last-played>1508943625</last-played>
     <bitrate>127</bitrate>
     <date>730120</date>
     <media-type>audio/mpeg</media-type>
@@ -3791,9 +3793,12 @@ fu** the system...wenigstens 'n bisschen...</comment>
     <mtime>1164636000</mtime>
     <first-seen>1507939656</first-seen>
     <last-seen>1508931292</last-seen>
+    <play-count>1</play-count>
+    <last-played>1508943849</last-played>
     <bitrate>159</bitrate>
     <date>0</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Downloaded from http://www.osmusic.net!</comment>
     <composer>Unknown</composer>
   </entry>
@@ -8258,6 +8263,7 @@ Rapidly fixed version.</comment>
     <bitrate>64</bitrate>
     <date>0</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <composer>Unknown</composer>
   </entry>
   <entry type="song">
@@ -8344,6 +8350,7 @@ Rapidly fixed version.</comment>
     <bitrate>64</bitrate>
     <date>0</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <composer>Unknown</composer>
   </entry>
   <entry type="song">
@@ -8507,6 +8514,8 @@ Rapidly fixed version.</comment>
     <mtime>1007560800</mtime>
     <first-seen>1507939658</first-seen>
     <last-seen>1508931283</last-seen>
+    <play-count>1</play-count>
+    <last-played>1508944369</last-played>
     <bitrate>127</bitrate>
     <date>0</date>
     <media-type>audio/mpeg</media-type>
@@ -8722,6 +8731,8 @@ Rapidly fixed version.</comment>
     <mtime>1137247200</mtime>
     <first-seen>1507939657</first-seen>
     <last-seen>1508931267</last-seen>
+    <play-count>1</play-count>
+    <last-played>1508944689</last-played>
     <bitrate>127</bitrate>
     <date>0</date>
     <media-type>audio/mpeg</media-type>
@@ -9076,6 +9087,7 @@ Rapidly fixed version.</comment>
     <bitrate>127</bitrate>
     <date>0</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <composer>Unknown</composer>
   </entry>
   <entry type="song">
@@ -9705,9 +9717,12 @@ Rapidly fixed version.</comment>
     <mtime>937144800</mtime>
     <first-seen>1507939653</first-seen>
     <last-seen>1508931294</last-seen>
+    <play-count>1</play-count>
+    <last-played>1508943139</last-played>
     <bitrate>127</bitrate>
     <date>0</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <composer>Unknown</composer>
   </entry>
   <entry type="song">
@@ -10942,6 +10957,8 @@ Rapidly fixed version.</comment>
     <mtime>1486044000</mtime>
     <first-seen>1507939658</first-seen>
     <last-seen>1508931289</last-seen>
+    <play-count>1</play-count>
+    <last-played>1508944918</last-played>
     <bitrate>112</bitrate>
     <date>0</date>
     <media-type>audio/mpeg</media-type>
@@ -11523,6 +11540,7 @@ Rapidly fixed version.</comment>
     <bitrate>64</bitrate>
     <date>732677</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <composer>Unknown</composer>
   </entry>
   <entry type="song">
@@ -11827,6 +11845,7 @@ Rapidly fixed version.</comment>
     <bitrate>64</bitrate>
     <date>0</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <composer>Unknown</composer>
   </entry>
   <entry type="song">
@@ -13225,9 +13244,12 @@ Rapidly fixed version.</comment>
     <mtime>926604000</mtime>
     <first-seen>1507939653</first-seen>
     <last-seen>1508931291</last-seen>
+    <play-count>1</play-count>
+    <last-played>1508943414</last-played>
     <bitrate>128</bitrate>
     <date>0</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <composer>Unknown</composer>
   </entry>
   <entry type="song">
@@ -13396,6 +13418,7 @@ Rapidly fixed version.</comment>
     <bitrate>159</bitrate>
     <date>732677</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <beats-per-minute>120</beats-per-minute>
     <composer>Richard Gattie</composer>
   </entry>
@@ -13602,6 +13625,8 @@ Rapidly fixed version.</comment>
     <mtime>1054476000</mtime>
     <first-seen>1507939658</first-seen>
     <last-seen>1508931293</last-seen>
+    <play-count>1</play-count>
+    <last-played>1508944429</last-played>
     <bitrate>191</bitrate>
     <date>731216</date>
     <media-type>audio/mpeg</media-type>
@@ -13687,9 +13712,12 @@ Rapidly fixed version.</comment>
     <mtime>1054216800</mtime>
     <first-seen>1507939655</first-seen>
     <last-seen>1508931289</last-seen>
+    <play-count>1</play-count>
+    <last-played>1508944110</last-played>
     <bitrate>191</bitrate>
     <date>730851</date>
     <media-type>audio/mpeg</media-type>
+    <hidden>1</hidden>
     <comment>Creada con mi A1200 MC68030.</comment>
     <composer>Unknown</composer>
   </entry>

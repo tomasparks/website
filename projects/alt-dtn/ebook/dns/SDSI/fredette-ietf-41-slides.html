@@ -1,0 +1,139 @@
+<HTML>
+<TITLE>Matt Fredette's 41st IETF Slides</TITLE>
+<BODY>
+These are the slides I presented at the 41st IETF.  
+<P>
+Matt
+<P>
+
+<HR>
+<H1>A New <TT>(sequence )</TT> Structure</H1>
+<TT>{rivest,elien,fredette,morcos}@theory.lcs.mit.edu</TT>
+<UL>
+<LI>The current sequence structure does not represent all cert
+chains efficiently, and does not handle threshold subjects well.
+<LI>We propose a new <TT>(sequence )</TT> structure and give
+examples.
+</UL>
+<P>
+
+<HR>
+<H1><TT>(sequence )</TT> Name Problems</H1>
+<UL>
+<LI>When the same name is used more than once in a sequence, the
+certs to reduce it must be included more than once.
+</UL>
+Example:
+<PRE>
+K1         => K1 bob friends friends
+K1 bob     => K2
+K2 friends => K3
+K3 friends => K1 bob friends parents
+K1 bob     => K2
+K2 friends => K3
+K3 parents => K4
+</PRE>
+<P>
+
+<HR>
+<H1>Named Subsequences</H1>
+<UL>
+<LI>We now allow sequences to define and reference
+<I>named subsequences</I>.
+</UL>
+Example:
+<PRE>
+(sequence
+  (def S1 (sequence (cert (issuer K1) (subject K2))
+                    (cert (issuer K2) (subject K3))))
+  (cert (issuer K0) (subject K1))
+  (ref S1)
+  (cert (issuer K3) (subject K4)))
+</PRE>
+<P>
+
+<HR>
+<H1>New <TT>(sequence )</TT> Grammar</H1>
+<PRE>
+&lt;new-seq-ent&gt;:: &lt;seq-ent&gt; | &lt;seq-def&gt; | &lt;seq-ref&gt; ;
+
+&lt;seq-def&gt;:: "(" "def" &lt;seq-def-name&gt; &lt;seq-def-value&gt; ")" ;
+&lt;seq-def-name&gt;:: &lt;hash&gt; | &lt;byte-string&gt; ;
+&lt;seq-def-value&gt;:: &lt;pub-key&gt; | &lt;cert&gt; | &lt;sequence&gt; ;
+
+&lt;seq-ref&gt;:: "(" "ref" &lt;seq-def-name&gt; ")" ;
+</PRE>
+<UL>
+<LI>Subsequence definitions can nest.
+<LI>Subsequence names have lexical scope.
+<LI>Use of a subsequence name references the
+most recent completed sequence with that name.
+</UL>
+<P>
+
+<HR>
+<H1><TT>(sequence )</TT> k-of-n Problems</H1>
+<UL>
+<LI>The <TT>(do k-of-n)</TT> framework in the draft requires that
+all thresholds converge on a single simple subject.
+<LI>But the draft says that requests may be multiply signed,
+and that thresholds may leave authority divided, for sharing.
+<LI>The draft also allows for nested threshold subjects in certs.
+</UL>
+<P>
+
+<HR>
+<H1><TT>(process-threshold )</TT></H1>
+<UL>
+<LI>We use named subsequences to reduce the members
+of a threshold subject.
+<LI>There are two reserved subsequence names.
+<TT>kill</TT> removes a subject from a threshold, and
+<TT>keep</TT> specifies "no change".
+</UL>
+Example:
+<PRE>
+(sequence
+  (def S1 (cert (issuer K2) (subject K3)))
+  (def S1 (cert (issuer K4) (subject K3)))
+  (cert (issuer K0) (subject (k-of-n 3 4 K1 K2 K3 K4)))
+  (process-threshold kill S1 keep S2))
+</PRE>
+<P>
+
+<HR>
+<H1>New <TT>(sequence )</TT> Grammar, II</H1>
+<PRE>
+&lt;new-seq-ent&gt;:: &lt;seq-ent&gt; | &lt;seq-def&gt; | &lt;seq-ref&gt; | &lt;proc-t&gt; ;
+
+&lt;proc-t&gt;:: "(" "process-threshold" &lt;proc-t-ent&gt;* ")" ;
+&lt;proc-t-ent&gt;:: &lt;proc-t&gt; | &lt;seq-def-name&gt; ;
+</PRE>
+<UL>
+<LI>Whenever the currently reduced subject is a k-of-n,
+<TT>(process-threshold )</TT> must be used, with the names
+of <I>n</I> subsequences, to reduce the threshold members.
+</UL>
+<P>
+
+<HR>
+<H1>Miscellaneous</H1>
+<UL>
+<LI>We eliminate <TT>(do hash)</TT>; instead, use
+<TT>(def )</TT> to name an object with its hash:
+<PRE>
+(sequence
+  (def (hash md5 |abcdef==|) (public-key (...)))
+  (cert (issuer (hash md5 |abcdef==|))
+        (subject (...)))
+  ...)
+</PRE>
+<LI>This consolidates naming mechanisms and makes for
+more readable sequences.
+</UL>
+<P>
+
+<HR>
+April 6, 1998<BR>
+<A HREF="mailto:fredette@theory.lcs.mit.edu"><I>fredette@theory.lcs.mit.edu</I></A>
+</BODY>

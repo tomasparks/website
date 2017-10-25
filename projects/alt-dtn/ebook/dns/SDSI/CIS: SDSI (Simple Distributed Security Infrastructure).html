@@ -1,0 +1,181 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+   <title>CIS: SDSI (Simple Distributed Security Infrastructure)</title>
+   <meta name="GENERATOR" content="Mozilla/3.01Gold (X11; I; SunOS 4.1.4 sun4c) [Netscape]">
+</head>
+<body bgcolor="#FFFFFF">
+
+<table width="100%" align="ABSCENTER" bgcolor="#CCDDEE" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td><font size="+2">Cryptography and Information Security Group Research Project:
+<br>A Simple Distributed Security Infrastructure (SDSI)</font></td>
+</tr>
+</tbody></table>
+
+<p>
+SDSI is a new design for a public-key infrastructure, designed by Professors
+<a href="http://theory.lcs.mit.edu/%7Erivest">Ronald L. Rivest</a> and Butler
+Lampson of MIT's <a href="http://www.lcs.mit.edu/">Laboratory for Computer
+Science</a>, members of LCS's <a href="http://theory.lcs.mit.edu/%7Ecis">Cryptography
+and Information Security</a> research group. </p>
+
+<p>SDSI research at MIT is supported by DARPA contract DABT63-96-C-0018,
+"Security for Distributed Computer Systems", and by NASA. </p>
+
+<h2>SDSI Status</h2>
+
+<h4>SDSI 1.0</h4>
+
+<p>SDSI 1.0 has been designed (see references below). A prototype implementation
+by Matt Fredette and Gillian Elcock is underway. An initial version of
+a SDSI server is operational. The user interface has been designed and
+a protoype has been implemented, which is described in the thesis <a href="http://theory.lcs.mit.edu/%7Ecis/sdsiui/thesis.ps">A
+Web-Based User Interface for SDSI</a>. Another SDSI 1.0 implementation
+by Wei Dai has been almost entirely completed. </p>
+
+<h4>SDSI 1.1</h4>
+
+<p>A redesign of SDSI, to yield SDSI version 1.1 is underway. The documentation
+(see references below) lags behind the actual design work considerably;
+stay tuned for more details... The goals are to simplify the design still
+further, and to merge the design with <a href="http://www.pobox.com/%7Ecme">Carl
+Ellison</a>'s <a href="http://world.std.com/%7Ecme/html/spki.html">SPKI</a>
+work. </p>
+
+<h4>SDSI 2.0</h4>
+
+<p>This design represents the merger of SDSI and SPKI. It has a unified
+treatment of certificates, a coherent treatment of names (both for individuals
+and for groups), an algebra of "tags" for describing permissions
+and attributes, and a flexible means of denoting cryptographic keys. </p>
+
+<p><img src="CIS:%20SDSI%20%28Simple%20Distributed%20Security%20Infrastructure%29_files/new.gif" height="12" width="31"> A SDSI/SPKI 2.0 software distribution, including crypto code, is now openly available.
+<b>The current release is 0.4.5.</b> Click <a href="http://mynah.lcs.mit.edu.:8003/sdsi-Open/form.html">here</a> for the distribution form.
+</p>
+
+<p><b>Problems with the above link? Send <a href="mailto:fredette@theory.lcs.mit.edu">me</a>
+mail.</b>
+</p>
+
+<p><img src="CIS:%20SDSI%20%28Simple%20Distributed%20Security%20Infrastructure%29_files/new.gif" height="12" width="31"> The <a href="http://theory.lcs.mit.edu/%7Ecis/sdsi/sdsi2/java/SDSI_Java_Intro.html">Java
+implementation</a> of SDSI/SPKI 2.0 is now available online. </p>
+
+<h2>References and Documentation</h2>
+
+There is an archive of the SPKI/SDSI mailing group discussions 
+<a href="http://www.sandelman.ottawa.on.ca/spki/">here</a>.
+
+<p>[Version 1.0]<br>
+</p>
+
+<ul>
+<li><a href="http://theory.lcs.mit.edu/%7Erivest/sdsi10.html">(HTML)</a><br>
+</li>
+
+<li><a href="http://theory.lcs.mit.edu/%7Erivest/sdsi10.ps">(Postscript)</a><br>
+</li>
+
+<li><a href="http://theory.lcs.mit.edu/%7Erivest/sdsi10.tex">(Latex source)</a><br>
+</li>
+
+<li><a href="http://theory.lcs.mit.edu/%7Erivest/sdsi10-usenix.ppt">(PowerPoint
+4.0 slides for USENIX 96 presentation)</a><br>
+</li>
+
+<li><a href="http://theory.lcs.mit.edu/%7Erivest/sdsi10-rsalab96.ppt">(PowerPoint
+4.0 slides for RSA Laboratories Colloquia 96 presentation)</a><br>
+</li>
+
+<li><a href="http://theory.lcs.mit.edu/%7Erivest/sdsi10-crypto96b.ppt">(PowerPoint
+7.0 slides for CRYPTO 96 presentation)</a></li>
+
+<p> </p>
+</ul>
+
+<p>[Version 1.1]<br>
+</p>
+
+<ul>
+<li><a href="http://theory.lcs.mit.edu/%7Erivest/sdsi11.html">(HTML)</a><br>
+</li>
+</ul>
+
+<p>[Version 2.0]<br>
+</p>
+
+<ul>
+<li><a href="http://theory.lcs.mit.edu/%7Erivest/sdsi20-maryland.ppt">(PowerPoint
+slides for Maryland Theoretical Computer Science Day 4/11/97)</a><br>
+</li>
+
+<li><a href="http://theory.lcs.mit.edu/%7Ecis/sdsi/sdsi2/sdsi20_toc.html">(Documentation
+for the SDSI 2.0 Library and Tools)</a><br>
+</li>
+
+<li><a href="http://www.research.digital.com/SRC/personal/ma/Papers/naming-jcs.ps">Martin Abadi's paper,
+<em>On SDSI's linked local name spaces.</em></a> (J. Computer Security 6(1998),3-21.)
+
+</li><li><a href="http://theory.lcs.mit.edu/%7Ecis/theses/elcock-masters.ps">Gilian Elcock's Master's thesis,
+<em>Web-based user interface for a Simple Distributed Security Infrastructure (SDSI)</em></a>
+(June 1997).
+
+</li><li><a href="http://theory.lcs.mit.edu/%7Ecis/theses/elien-masters.ps">Jean-Emile Elien's Master's thesis,
+<em>Certificate discovery using SPKI/SDSI 2.0 certificates.</em></a>
+(May 1998).
+
+</li><li><a href="http://world.std.com/%7Ecme/html/spki.html">Carl Ellison's page,
+<em>SPKI/SDSI Certificate Documentation</em></a>
+
+</li><li><a href="ftp://ftp.isi.edu/in-notes/rfc2692.txt">Carl Ellison's <em>RFC 2692: SPKI Requirements</em></a>
+(September 1999).
+
+</li><li><a href="ftp://ftp.isi.edu/in-notes/rfc2693.txt">Carl Ellison et al.'s <em>RFC 2693: SPKI Certificate Theory</em></a>
+(September 1999).
+
+</li><li><a href="http://www.pobox.com/%7Ecme/spki.txt">Carl Ellison et al.'s <em> Simple Public Key Certificate</em></a>
+(March 1998).
+
+</li><li><a href="http://www.pobox.com/%7Ecme/examples.txt">Carl Ellison et al.'s <em>SPKI Examples</em></a>
+(March 1998).
+
+</li><li><a href="http://theory.lcs.mit.edu/%7Ecis/theses/fredette-masters.ps">Matt Fredette's Master's thesis,
+<em>An implementation of SDSI--the Simple Distributed Security Infrastructure</em></a>
+(May 1997).
+
+</li><li><a href="http://www.ietf.org/html.charters/spki-charter.html">IETF SPKI Working Group Charter</a>
+(1997).
+
+</li><li><a href="http://theory.lcs.mit.edu/%7Ecis/theses/morcos-masters.ps">Alexander Morcos's Master's thesis,
+<em>A Java implementation of Simple Distributed Security Infrastructure</em></a>
+(May 1998).
+
+</li><li><a href="http://theory.lcs.mit.edu/%7Ecis/sdsi/fredette-ietf-41-slides.html">New certificate chain representation.</a>
+
+</li><li><a href="http://theory.lcs.mit.edu/%7Erivest/sexp.html">Ron Rivest's S-expression page and code.</a>
+
+</li><li><em>Certficate Chain Discovery in SPKI/SDSI</em><br>
+by Dwaine Clarke, Jean-Emile Elien, Carl Ellison, Matt Fredette, Alexander Morcos, and Ronald L. Rivest.<br>
+Draft of November 1999.
+<a href="http://theory.lcs.mit.edu/%7Erivest/ClarkeElElFrMoRi-CertficateChainDiscoveryInSPKISDSI.ps">postscript</a>
+
+</li><li><a href="http://theory.lcs.mit.edu/%7Ecis/theses/maywah-masters.ps">Andrew Maywah's Master's thesis,
+<em>An Implementation of a Secure Web Client Using SPKI/SDSI Certificates</em></a>
+(June 2000).
+
+</li><li><a href="http://theory.lcs.mit.edu/%7Ecis/theses/clarke-masters.pdf">Dwaine Clarke's Master's thesis,
+<em>SPKI/SDSI HTTP Server / Certificate Chain Discovery in SPKI/SDSI</em></a>
+(September 2001).
+
+</li></ul>
+
+<br>
+<center><p><font size="-1"><a href="http://theory.lcs.mit.edu/%7Ecis">Back to CIS Home Page</a>
+</font> 
+</p><hr></center>
+<i>$Date$</i>
+
+
+
+
+</body></html>

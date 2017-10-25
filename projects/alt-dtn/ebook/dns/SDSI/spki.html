@@ -1,0 +1,809 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="GENERATOR" content="Mozilla/4.75 [en] (X11; U; Linux 2.2.16-22 i686) [Netscape]">
+   <title>SPKI/SDSI Certificate Documentation [Carl Ellison]</title>
+<!-- saved from url=(0040)http://theworld.com/~cme/html/spki.html -->
+</head>
+<body>
+
+<center><h1>
+SPKI/SDSI Certificates</h1>
+<p><a href="../images/local-full.jpg"><img src="../images/local.jpg"></a>
+</center>
+<p>
+SPKI, SDSI and the other certificate mechanisms from 1996 onward started out to address
+apparent overcomplication in the X.509 world. However, by starting with a blank sheet of paper,
+they ended up addressing a more basic problem than complexity.  Earlier certificate mechanisms
+suffered from the Walton's Mountain Assumption - that if you know a name for someone you know
+their identity (all their defining characteristics) - and that if you know someone's identity, then
+you know whether they're authorized to do or have
+something they request.  This assumption is true in a world of small towns where, as the old
+joke goes, ``you don't have to use your turn signals because everyone knows where you're going''.  That world
+no longer exists, so earlier certificate mechanisms based on it (X.509 in particular) fail miserably.
+Specifically, the Walton's Mountain Assumption is that those characteristics of a small town apply to the entire world.
+<p>
+This assumption is replaced by one of local knowledge: that knowledge required for
+security decisions and identity establishment remains local but the world extends beyond any one locality.  In SDSI,
+an identifier is valid only locally to the
+person who creates it but the underlying raw public key is valid globally. In SPKI, an authorization grant
+is made only locally.  If you need to 
+grant authorization to someone beyond your locality, then you may (must) delegate that grant through a
+chain of local relationships.  The same applies to PolicyMaker, KeyNote and XrML V2 (when properly used).
+<p>
+Along the way, we have learned that what is important in certificate (and related) security systems
+is not the computer-readable data structures and protocols alone. Rather, these certificates, licenses, grants, 
+ACL entries, ..., are a cyberspace reflection of relationships in the physical world - and the security of
+these systems rests most heavily on the security of the process by which the physical world relationships
+are bound to their cyberspace reflections.
+That security far outweighs the more trivial security of private key protection, key length, choice of algorithm,
+etc., that people have obsessed about for decades.
+In pursuing this line of reasoning, we now have
+the <a href="#UPnP">Ceremony</a> work but this work is in its infancy.  There is much more to come.
+
+<p>[24 January 2004]
+<br>
+<hr width="100%">
+<br>There are five certificate syntax forms referenced from this page:&nbsp;
+SPKI/SDSI, X.509, PGP, X9.59 (AADS), PolicyMaker and KeyNote.&nbsp; This
+page defines SPKI/SDSI and gives some links to the others but doesn't claim
+to provide a full set.
+<br>
+<hr width="100%">Check out John Pritchard's <a href="http://www.syntelos.com/spki/">SPKI
+resource page</a>.
+<br>
+<hr width="100%">
+There are frequent questions about the status of SPKI in IETF and in general.  I wrote to the cryptography list about this
+in <a href="re-spki-1.txt">this message</a> and, as I often do, in <a href="re-spki-2.txt">a reply to that message</a>.
+<hr width="100%">
+<h2>
+Table of contents</h2>
+
+<ul>
+<li>
+<a href="http://theworld.com/~cme/html/spki.html#1-SPKI/SDSI">SPKI/SDSI
+Documentation</a></li>
+
+<li>
+<a href="http://theworld.com/~cme/html/spki.html#Code">Code and product
+pages</a></li>
+
+<li>
+Papers</li>
+
+<ul>
+<li>
+<a href="http://theworld.com/~cme/html/spki.html#SPKI Papers">SPKI/SDSI
+Papers</a></li>
+
+<li>
+<a href="#UPNP">UPnP papers</a></li>
+
+<li>
+<a href="http://theworld.com/~cme/html/spki.html#PKI Papers">PKI in general</a></li>
+
+<li>
+<a href="http://theworld.com/~cme/html/spki.html#dsig">Digital Signature
+Risks</a></li>
+
+<li>
+<a href="http://theworld.com/~cme/html/spki.html#General">Miscellaneous
+Papers</a></li>
+</ul>
+
+<li>
+<a href="http://theworld.com/~cme/html/spki.html#Other certificate formats">Other
+certificate formats</a></li>
+
+<li>
+<a href="http://theworld.com/~cme/html/spki.html#Glossary">Glossary</a>
+of terms used within this page</li>
+</ul>
+
+<hr width="100%">
+<h3>
+<a NAME="1-SPKI/SDSI"></a>SPKI/SDSI Documentation</h3>
+The SPKI/SDSI certificate format is the product of <a href="http://www.ietf.org/html.charters/spki-charter.html">the
+SPKI Working Group</a> of the IETF.&nbsp; The IETF SPKI documentation is
+in four parts:
+<ol>
+<li>
+<a href="ftp://ftp.isi.edu/in-notes/rfc2692.txt">RFC2692: Requirements</a>
+giving the requirements gathered by the working group at the start of the
+process.</li>
+
+<li>
+<a href="ftp://ftp.isi.edu/in-notes/rfc2693.txt">RFC2693: Theory</a> giving
+the theory of authorization certificates, as opposed to name or ID certificates
+that most people (e.g., X.509) discuss. This document points out some of
+the flawed assumptions in ID certificate theory and shows how SPKI's certificates
+(both authorization and ID) attempt to correct those flaws.</li>
+
+<li>
+<a href="http://theworld.com/~cme/spki.txt">structure</a> #5 (old, #6
+coming soon) -- giving the detailed structure of certificates that satisfy
+the theory RFC.</li>
+
+<li>
+<a href="http://theworld.com/~cme/examples.txt">examples</a> #1 (even
+older) -- giving actual examples of certificates, both for instruction
+in how to use authorization certificates and for testing implementations
+for interoperability.</li>
+</ol>
+The SPKI mailing list is handled by <a href="mailto:majordomo@metzdowd.com">majordomo@metzdowd.com</a>.
+You can subscribe by sending a message whose body consists of the one line:
+<p>subscribe spki
+<p>As with other majordomo mailing lists, you can send the command:
+<p>help
+<p>to learn of other commands you can issue.
+<p>The mailing list archive can be accessed at <a href="http://www.sandelman.ottawa.on.ca/spki/">http://www.sandelman.ottawa.on.ca/spki/</a>.
+[There is <a href="http://www.egroups.com/messages/spki">another mailing
+list archive</a> that appears to be more current. Thanks to the list member
+who pointed me there...]
+<p>The SDSI (Simple Distributed Security Infrastructure) part of SPKI/SDSI
+was developed separately by Ron Rivest and Butler Lampson.&nbsp; The early
+documents on SDSI are available at:
+<ul>
+<li>
+The MIT <a href="http://theory.lcs.mit.edu/~cis/sdsi.html">official SDSI
+page</a>.</li>
+</ul>
+
+<hr width="100%">
+<h3>
+<a NAME="Code"></a>Code and product pages</h3>
+
+<ul>
+<li>
+<a href="http://jsdsi.sourceforge.net/">JSDSI</a> has a project page on
+<a href="https://sourceforge.net/projects/jsdsi/">Sourceforge</a>.
+
+<li>
+<a href="http://www.lysator.liu.se/~nisse/libspki/">Niels M&ouml;ller's
+SPKI library</a>.
+
+<li>
+<a NAME="XML" href="http://theworld.com/~cme/html/s2x.tgz"></a><a NAME="XML" href="http://theworld.com/~cme/html/s2x.tgz"></a><a href="http://theworld.com/~cme/html/s2x.tgz" name="XML">My
+s2x code source (with Makefile)</a> and an earlier <a href="http://theworld.com/~cme/html/ws2x.zip">executable
+for Windows (along with a copy of sexp)</a>. s2x translates from a canonical
+S-expression into XML. If you have an advanced form S-expression, you can
+convert it to canonical with Ron Rivest's sexp.</li>
+
+<li>
+My canonical S-expression parser is included in s2x.tgz, referenced in
+the previous bullet. When I have time, I will separate it out.</li>
+
+<li>
+Ron Rivest's <a href="http://theory.lcs.mit.edu/~rivest/sexp.html">S-expression
+page</a> includes code for the utility, sexp, that translates from advanced
+to canonical S-expressions.</li>
+
+<li>
+The <a href="http://developer.intel.com/ial/security/">open-source CDSA
+release from Intel</a> includes an SPKI service provider for building certificates
+and a module, AuthCompute, for doing tuple reduction.&nbsp; CDSA splits
+this SPKI operation into two parts so that one can also get tuples from
+<a href="http://theworld.com/~cme/html/spki.html#Other certificateformats">other
+certificate forms</a> and do a combined authorization computation, assuming
+the plug-in service provider written for one of those other formats implements
+the necessary additional call [TP_CertgroupToTuplegroup]. At present, only
+the SPKI service provider implements that call.</li>
+
+<li>
+Cristian Ferreira de Souza has provided <a href="http://theworld.com/~cme/deSouza/">an
+implementation of the SSL Protocol in Java which supports SPKI/SDSI Certificates.</a>
+I have not tested this code yet, but am making it available for the community
+as Christian requested. I did not put it all in one .zip file, as he had
+requested, since I often don't want to wait for a single huge download
+and I assume others are in that position. Here is the <a href="http://theworld.com/~cme/deSouza/mail.txt">mail
+he sent me</a> with that code.</li>
+
+<li>
+Sameer Ajmani has his <a href="http://www.pmg.lcs.mit.edu/~ajmani/sdsi/">SPKI/SDSI
+code</a> under development.</li>
+
+<li>
+The MIT <a href="http://theory.lcs.mit.edu/~cis/sdsi.html">official SDSI
+page</a> includes code for SPKI/SDSI.</li>
+
+<li>
+The <a href="http://www.e-speak.hp.com/">eSpeak</a> product from HP uses
+SPKI certificates for specifying and delegating access control.</li>
+
+<li>
+Per Harald Myrvang, <a href="http://www.pasta.cs.uit.no/thesis/perm.html">An
+Infrastructure for Authentication, Authorization and Delegation</a>. This
+thesis includes a large body of code.</li>
+
+<li>
+The <a href="http://sourceforge.net/projects/cdsa/">CDSA code at sourceforce</a>.</li>
+
+<li>
+<a href="http://silcnet.org/">SILC</a>, a secured chat project that uses
+SPKI certs alongside X.509 and PGP, but I haven't tried this yet to see
+how they use them.</li>
+</ul>
+
+<hr width="100%">
+<h3>
+<a NAME="SPKI Papers"></a>SPKI/SDSI Papers</h3>
+
+<ul>
+<li>
+Ellison, C. M., <a href="http://www.intel.com/technology/itj/2002/volume06issue04/art04_security/p01_abstract.htm">``Home
+Network Security.''</a>, Intel Technology Journal. <a href="http://developer.intel.com/technology/itj/2002/volume06issue04/">http://developer.intel.com/technology/itj/2002/volume06issue04/</a>
+(November 2002).</li>
+
+<li>
+<a href="http://www.cs.dartmouth.edu/~pki02/Dohrmann/">Dohrmann and Ellison,
+``Public-key Support for Collaborative Groups''</a>, 1st Annual PKI Research
+Workshop, April 2002.</li>
+
+<li>
+The theory behind SPKI certificates has been summarized in a journal paper:&nbsp;
+Ellison, ``The nature of a usable PKI'', Computer Networks 31 (1999) pp.
+823-830, which includes figures that might help in reading RFC2693, although
+the RFC is far more detailed and complete than this paper.</li>
+
+<li>
+M. Burnside, D. Clarke, T. Mills, A. Maywah, S. Devadas, and R. Rivest,
+``Proxy-Based Security Protocols in Networked Mobile Devices'', Proceedings
+SAC 2002. [<a href="http://theory.lcs.mit.edu/~rivest/BurnsideClarkeMillsMaywahDevadasRivest-ProxyBasedSecurityProtocolsInNetworkedMobileDevices.pdf">PDF</a>]
+[<a href="http://theory.lcs.mit.edu/~rivest/BurnsideClarkeMillsMaywahDevadasRivest-ProxyBasedSecurityProtocolsInNetworkedMobileDevices.ps">PS</a>]</li>
+
+<li>
+J.Y. Halpern and R. van der Meyden, <a href="http://www.cse.unsw.edu.au/~meyden/research/spkij.pdf">``A
+logical reconstruction of SPKI''</a>.</li>
+
+<li>
+Jon Howell's <a href="http://www.cs.dartmouth.edu/~jonh/research/">research
+papers</a> include his thesis, other discussions of SPKI and examples of
+its use. These include an extension of SPKI to include the formalization
+of the principal type ``A quoting B''. This is used in implementation of
+authorized gateway functions (where a gateway has to translate data and
+therefore invalidate the digital signature of the data signer).</li>
+
+<li>
+<i>A Trusted Execution Platform for Multiparty Computation</i></li>
+
+<br><a href="http://www.pmg.lcs.mit.edu/~ajmani/index.html">Sameer Ajmani</a>.
+Masters thesis, Massachusetts Institute of Technology, July 2000.
+<br>[ <a href="http://www.pmg.lcs.mit.edu/~ajmani/papers/thesis.ps">PostScript</a>
+| <a href="http://www.pmg.lcs.mit.edu/~ajmani/papers/thesis.pdf">PDF</a>
+]
+<br><i>[CME: This thesis addresses the distributed certificate chain validation
+problem when you don't want to release your pool of certificates to the
+world.]</i>
+<li>
+Per Harald Myrvang, <a href="http://www.pasta.cs.uit.no/thesis/perm.html">An
+Infrastructure for Authentication, Authorization and Delegation</a>.</li>
+
+<li>
+Ninghui Li, <a href="http://cs1.cs.nyu.edu/ninghui/papers/csfw13.ps">Local
+Names in SPKI/SDSI</a>.</li>
+
+<li>
+Juha Paajarvi, <a href="http://search.ietf.org/internet-drafts/draft-paajarvi-xml-spki-cert-00.txt">``XML
+Encoding of SPKI Certificates</a>'', March 2000 [<a href="http://theworld.com/~cme/draft-paajarvi-xml-spki-cert-00.txt">cached
+copy</a>]</li>
+
+<li>
+Dwaine Clarke, <a href="http://theory.lcs.mit.edu/~cis/theses/clarke-masters.pdf">SPKI/SDSI
+HTTP Server / Certificate Chain Discovery in SPKI/SDSI</a>, September 2001.
+(Master's thesis, reporting on his use of SPKI/SDSI for access control
+to web pages.)</li>
+
+<li>
+Tuomas Aura, Carl Ellison, <i><font color="#0000FF">Privacy and Accountability
+in Certificate Systems</font></i>, Research Report A61, Laboratory for
+Theoretical Computer Science, Helsinki University of Technology, Espoo,
+Finland, April 2000. <a href="http://www.tcs.hut.fi/Publications/papers/aura/HUT-TCS-A61.ps">[PS]</a><a href="http://www.tcs.hut.fi/Publications/papers/aura/HUT-TCS-A61.pdf">[PDF]</a><a href="http://www.tcs.hut.fi/Publications/reports/A61abstract.html">[abstract]</a><a href="http://www.tcs.hut.fi/Publications/reports/bib/reportsA.bib">[BibTeX]</a>.</li>
+
+<li>
+Tuomas Aura, Dieter Gollmann, <i><font color="#0000FF">Software license
+management with smart cards</font></i>, in Proc. USENIX Workshop on Smartcard
+Technology, Chicago, May 1999, pp. 75-85, USENIX Association 1999. <a href="http://www.tcs.hut.fi/Publications/papers/aura/aura-gollmann-smartcard99.ps">[PS]</a><a href="http://www.tcs.hut.fi/Publications/papers/aura/aura-gollmann-smartcard99.pdf">[PDF]</a><a href="http://www.tcs.hut.fi/Publications/papers/aura/aura-gollmann-smartcard99.html">[HTML]</a><a href="http://www.tcs.hut.fi/Publications/papers/aura/aura-gollmann-smartcard99-abstract.html">[abstract/BibTeX]</a>.</li>
+
+<li>
+Tuomas Aura, <i><font color="#0000FF">Distributed access-rights management
+with delegation certificates</font></i>, Secure Internet Programming: Security
+Issues for Distributed and Mobile Objects, J. Vitek and C. Jensen (Eds.),
+LNCS 1603, pp. 211-235, Springer 1999. <a href="http://www.tcs.hut.fi/Publications/papers/aura/aura-lncs1603.ps">[PS]</a><a href="http://www.tcs.hut.fi/Publications/papers/aura/aura-lncs1603.pdf">[PDF]</a><a href="http://www.tcs.hut.fi/Publications/papers/aura/aura-lncs1603-abstract.html">[abstract/BibTeX]</a>.
+(Copyright 1999 <a href="http://www.springer.de/comp/lncs/index.html">Springer</a>)</li>
+
+<li>
+Tuomas Aura, <i>Fast access control decisions from delegation certificate
+databases</i>, in proceedings of 3rd Australasian Conference on Information
+Security and Privacy ACISP '98, Brisbane, Australia, July 1998, pp. 284-295,
+Lecture Notes in Computer Science 1438, Springer 1998. <a href="http://www.tcs.hut.fi/Publications/papers/aura/aura-acisp98.ps">[PS]</a><a href="http://www.tcs.hut.fi/Publications/papers/aura/aura-acisp98.pdf">[PDF]</a><a href="http://www.tcs.hut.fi/Publications/papers/aura/aura-acisp98-abstract.html">[abstract/BibTeX]</a>.</li>
+
+<li>
+Tuomas Aura, <i><font color="#0000FF">On the structure of delegation networks</font></i>,
+in proceedings of 11th IEEE Computer Security Foundations Workshop, Rockport,
+Massachusetts, June 1998, pp. 14-26, IEEE Computer Society Press 1998.
+<a href="http://www.tcs.hut.fi/Publications/papers/aura/aura-csfws98.ps">[PS]</a><a href="http://www.tcs.hut.fi/Publications/papers/aura/aura-csfws98.pdf">[PDF]</a><a href="http://www.tcs.hut.fi/Publications/papers/aura/aura-csfws98-abstract.html">[abstract/BibTeX]</a>.</li>
+</ul>
+
+<hr width="100%">
+<h3>
+<a NAME="UPNP"></a>UPnP Papers</h3>
+<ul>
+<li>See the <a href="http://www.upnp.org/standardizeddcps/security.asp">UPnP Security Standards</a> web page.
+<li>The 
+<a href="http://www.upnp.org/download/standardizeddcps/UPnPSecurityCeremonies_1_0secure.pdf">
+Security Ceremonies paper</a> on that page is especially noteworthy. It is the first paper to use the Ceremony construct 
+outlined by me and Jesse Walker for security protocols.
+</ul>
+
+<hr width="100%">
+<h3>
+<a NAME="PKI Papers"></a>PKI in general</h3>
+
+<ul>
+<li>
+<a href="http://citeseer.ist.psu.edu/diffie76new.html">Diffie and Hellman, ``New Directions
+in Cryptography''</a>, IEEE Transactions on Information Theory, 1976.  [The paper
+that started it all.]
+
+<li>
+<a href="http://www.cs.dartmouth.edu/~pki02/Ellison/">Ellison, ``Improvements
+on Conventional PKI Wisdom''</a>, 1st Annual PKI Research Workshop, April
+2002.</li>
+
+<ul>
+<li>
+For a completely different approach to solving the John Wilson problem,
+see <a href="http://discover.npr.org/rundowns/segment.jhtml?wfId=844515">``Wyman
+vs. Wyman''</a>, from All Things Considered, Friday, November 15, 2002.</li>
+
+<li>
+The John Wilson problem isn't limited to computer companies.  See
+<a href="http://www.mirror.co.uk/news/allnews/content_objectid=13622490_method=full_siteid=50143_headline=-BLAIR-NET--HAIRDRESSER-GETS-PM-S-SECRETS-name_page.html">Tony Blair's e-mail to the wrong person</a>.
+</li>
+</ul>
+
+<li>
+Modeling a Public-Key Infrastructure (Ueli Maurer), available at <a href="http://www.inf.ethz.ch/department/TI/um/publications.html">http://www.inf.ethz.ch/department/TI/um/publications.html</a>.</li>
+
+<li>
+Reasoning about Public-Key Certification (Reto Kohlas and Ueli Maurer),
+Confidence Valuation in a Public-Key Infrastructure Based on uncertain
+Evidence (Reto Kohlas and Ueli Maurer), available at <a href="http://www.inf.ethz.ch/personal/kohlas/publications.html">http://www.inf.ethz.ch/personal/kohlas/publications.html</a>.</li>
+
+<li>
+<a NAME="Don Davis"></a><a href="http://theworld.com/~dtd/">Don Davis</a>,
+<a href="http://theworld.com/~dtd/compliance/compliance.ps">``Compliance
+Defects in Public-Key Cryptography''</a>, Proc. 6th USENIX Security Symp,
+(San Jose, CA, 1996), pp. 171-178. (130 Kbytes) (<a href="http://theworld.com/~dtd/compliance/compliance.pdf">PDF</a>,
+134 Kbytes).</li>
+
+<li>
+Carl Ellison and Bruce Schneier, <a href="http://www.counterpane.com/pki-risks.html">``10
+Risks of PKI''</a>, Computer Security Journal, v 16, n 1, 2000, pp. 1-7.</li>
+
+<li>
+Carl Ellison and Bruce Schneier, ``Risks of PKI: Secure E-mail'', Inside
+Risks 115 CACM 43, 1, January 2000, <a href="http://www.csl.sri.com/neumann/insiderisks.html">Inside
+RISKS columns for the CACM</a> or <a href="http://www.counterpane.com/insiderisks4.html">Bruce's
+copy</a>.</li>
+
+<li>
+Carl Ellison and Bruce Schneier, ``Risks of PKI: Electronic Commerce'',
+Inside Risks 116 CACM 43, 2, February 2000, <a href="http://www.csl.sri.com/neumann/insiderisks.html">Inside
+RISKS columns for the CACM</a> or <a href="http://www.counterpane.com/insiderisks5.html">Bruce's
+copy</a>.</li>
+
+<li>
+Carl Ellison, <a href="http://theworld.com/~cme/html/congress1.html">``What
+do you need to know about the person with whom you are doing business?''</a>,
+written testimony for the House Science and Technology Subcommittee Hearing
+of 28 October 1997: Signatures in a Digital Age</li>
+
+<li>
+Carl Ellison, <a href="http://theworld.com/~cme/nist-7-24/">``Certification
+Infrastructure Needs For Electronic Commerce And Personal Use''</a>, submission
+to NIST, 16 July 1997 (with minor modifications 14 August 1997).</li>
+
+<li>
+Carl Ellison, <a href="http://www.cfp2000.org/papers/ellison.pdf">``Naming
+and Certificates''</a>, <a href="http://www.cfp2000.org/">CFP 2000</a>.</li>
+
+<li>
+Wendy Grossman, <a href="http://www.sciam.com/2000/0800issue/0800cyber.html">``Circles
+of Trust''</a>, Scientific American, August 2000.</li>
+
+<li>
+Ben Rothke, <a href="http://www.infosecuritymag.com/articles/october01/columns_logoff.shtml">PKI:
+An Insider's View</a>, Oct 2001, Information Security</li>
+
+<li><a href="http://australianit.news.com.au/articles/0,7204,6313537%5e15306%5e%5enbv%5e,00.html">Gatekeeper goes missing</a>, from
+Australian IT.  Discusses the non-adoption of PKI.  April 22, 2003.</li>
+
+</ul>
+
+<hr width="100%">
+<h3>
+<a NAME="dsig"></a>Digital Signature Risks</h3>
+The idea that digital signatures could enable electronic commerce through
+what has come to be known as <a href="http://theworld.com/~cme/html/spki.html#non-repudiation">non-repudiation</a>
+was first proposed by Diffie and Hellman in their seminal paper, ``New
+Directions in Cryptography''.&nbsp; The idea has since gained much popularity.
+<p>It is generally asserted that one can achieve the desired non-repudiation
+through the combination of strength of cryptography and security of <a href="http://theworld.com/~cme/html/spki.html#CAs">Certificate
+Authorities</a>.&nbsp; However, as <a href="http://theworld.com/~cme/html/spki.html#Don Davis">Don
+Davis</a> and others have pointed out, this puts a burden on the individual
+keyholder that that person may not be equipped to handle.&nbsp; The result,
+when this is applied to normal consumers with home computers, is a potential
+victimization of that consumer.
+<p>One of the problems here is the change in computer cost and therefore
+ubiquity. In 1976, when Diffie and Hellman were writing and proposed non-repudiation
+(under a different term), computers were in guarded glass rooms. Now they're
+in the family room where the neighbor's teenage son has easy, unguarded
+access. A guarded computer might well serve as a check writing machine,
+but an unguarded one is too dangerous to empower that way.
+<ul>
+<li>
+Adrian McCullagh and William Caelli, <a href="http://firstmonday.org/issues/issue5_8/mccullagh/index.html">Non-repudiation
+in the Digital Environment</a>, First Monday, volume 5, number 8, August
+2000.</li>
+
+<li>
+Cem Kaner, <a href="http://www.badsoftware.com/digsig.htm">``The Insecurity
+of the Digital Signature''</a>, September 1997.</li>
+
+<li>
+Jane Winn, <a href="http://www.smu.edu/~jwinn/hedgehogfox.htm">``The Hedgehog
+and the Fox''</a>: Distinguishing Public and Private Sector Approaches
+to Managing Risk for Internet Transactions.</li>
+
+<li>
+The Federal Trade Commission had a <a href="http://www.ftc.gov/bcp/icpw/">workshop
+on Global Electronic Commerce&nbsp;</a> in June 1999.</li>
+
+<ul>
+<li>
+Carl Ellison <a href="http://theworld.com/~cme/19990608-ftc.zip">presentation
+to the workshop [zipped PowerPoint ]</a></li>
+
+<li>
+Winn and Ellison, <a href="http://www.ftc.gov/bcp/icpw/comments/revwin~1.htm">Comment
+P994312 to the Federal Trade Commission</a>, March 1999.</li>
+
+<li>
+Carl Ellison, <a href="http://www.ftc.gov/bcp/icpw/comments/ellison.htm">comment
+about jurisdictional issues</a>, June 1999.</li>
+</ul>
+
+<li>
+Gladman, Ellison and Bohm, <a href="http://jya.com/bg/digsig.pdf">Digital
+Signatures, Certificates and Electronic Commerce</a>, April 1999.</li>
+
+<li>
+<a href="http://www.pfir.org/statements/2000-06-17">PFIR Statement on Electronic
+Signatures and Documents</a> in reaction to the signing of S.761 on June
+30, 2000.</li>
+
+<li>
+Bohm, Brown and Gladman, <a href="http://www.fipr.org/WhoCarriesRiskOfFraud.htm">``Electronic
+Commerce: Who Carries the Risk of Fraud?''</a>, (with a special focus on
+the situation in the UK), July 2000.</li>
+
+<li>
+Carl Ellison and Bruce Schneier, ``Risks of PKI: Electronic Commerce'',
+Inside Risks 116 CACM 43, 2, February 2000, <a href="http://www.csl.sri.com/neumann/insiderisks.html">Inside
+RISKS columns for the CACM</a> or <a href="http://www.counterpane.com/insiderisks5.html">Bruce's
+copy</a>.</li>
+
+<li>
+<a href="http://www.consumerlaw.org/e_sign.html">``E-Sign and UETA: What
+Should States Do Now?''</a> National Consumer Law Center</li>
+
+<li>
+William Allen Simpson, <a href="http://cryptome.org/esigs-suck.htm">Electronic
+Signatures Yield Unpleasant Surprises</a>, June 2000.</li>
+
+<li>
+Michael Froomkin, <a href="http://www.law.miami.edu/~froomkin/articles/trusted.htm">The
+Essential Role of Trusted Third Parties in Electronic Commerce</a>, 1996.</li>
+
+<li>
+<a href="http://www.calpirg.org/reports/index.html">CALPIRG</a>'s report
+<a href="http://www.pirg.org/calpirg/consumer/privacy/idtheft2000/">Identity
+Theft 2000</a>, not about digital signatures, but about sloppy authentication
+in current practice and the legal problems that result.</li>
+
+<li>
+Andy Oram, <a href="http://www.webreview.com/pi/2000/12_29_00.shtml">``Forget
+the Global Marketplace-Trade with Someone You Know''</a>, Dec 2000.&nbsp;
+Andy emphasizes that you don't get trust from technology.&nbsp; It takes
+work.&nbsp; This suggests to me that we may need layers of middlemen not
+for shipping or inventory reasons, but for trust reasons.&nbsp; The Internet
+allows me go directly to the middleman's own suppliers, but I don't have
+the energy or time (or money to lose in inevitable risk) to make so many
+individual relationships.</li>
+
+<br>&nbsp;
+<p>&nbsp;
+<p><i>[IMHO, we could use a law declaring that there is </i><b>non-authenticating
+information</b><i> (namely anything anyone other than the person being
+identified might be able to learn) and that any creditor using non-authenticating
+information to establish a credit account is and remains liable for all
+charges incurred under that account. BTW, such a law might cause all mailed
+credit card offers to dry up -- a good side-effect. Also, it should be
+noted that all information in a credit report is automatically non-authenticating
+under this definition, so that controls on the dissemination of credit
+reports would not be necessary to prevent identity theft (only to preserve
+privacy).]</i>
+<li>
+Don Davis, <a href="http://theworld.com/~dtd/sign_encrypt/sign_encrypt7.html">``Defective
+Sign &amp; Encrypt in S/MIME, PKCS#7, MOSS, PEM, PGP, and XML''</a>, to
+appear in Proc. Usenix Tech. Conf. 2001 (Boston, Mass., June 25-30, 2001).</li>
+
+<br>&nbsp;
+<p>&nbsp;
+<p><i>[Don points out that if you naively sign something that isn't specifically
+anchored to the transaction you intended, then that signed message can
+be replayed in a transaction where you don't intend the result. He notes
+that e-mail cryptography standards encourage this mistake. If you assume
+non-repudiation of signed e-mail, this can have unfortunate results.]</i></ul>
+
+<hr width="100%">
+<h3>
+<a NAME="General"></a>Miscellaneous Papers</h3>
+
+<ul>
+<li>
+Carl Ellison, <a href="http://eprint.iacr.org/2007/399">Ceremony
+Design and Analysis</a>, Cryptology ePrint Archive, Report 2007/399, 2007.</li>
+
+<li>
+<b>The CAP Theorem</b> states that you can design a distributed system
+to achieve any two of the following three characteristics: (1) data Consistency;
+(2) application Availability; (3) tolerance of network Partitions; but
+you can never achieve all three at the same time. This has application
+to revocation in certificate systems. The various revocation mechanisms
+are attempts to achieve data consistency in an application that must be
+available and must tolerate network partitions.</li>
+
+<ul>
+<li>
+<b>Statement:</b> Armando Fox and Eric Brewer,
+<a href="http://swig.stanford.edu/pub/publications/harvest_yield.pdf">Harvest,
+Yield, and Scalable Tolerant Systems</a>, in Proceedings HotOS-VII, 1999.</li>
+
+<li>
+<b>Proof:</b> Seth Gilbert and Nancy Lynch,
+<a href="http://theory.lcs.mit.edu/tds/papers/Gilbert/Brewer6.ps">Brewer's
+conjecture and the feasibility of consistent, available, partition-tolerant
+web services,</a> Sigact News, 33(2), June 2002.</li>
+</ul>
+
+<li>
+M. Abadi, M. Burrows, B. Lampson, and G. Plotkin. <a href="http://research.microsoft.com/lampson/44-CalculusAccessControl/Abstract.html">A
+calculus for access control in distributed systems</a>. ACM Trans. Programming
+Languages and Systems, 15, 4 (Oct. 1993), pp 706-734. This paper first
+appeared in Crypto 91, August 1991.</li>
+
+<li>
+B. Lampson, M. Abadi, M. Burrows, and E. Wobber. <a href="http://research.microsoft.com/lampson/45-AuthenticationTheoryAndPractice/Abstract.html">Authentication
+in distributed systems: Theory and practice</a>. ACM Trans. Computer Systems
+10, 4 (Nov. 1992), pp 265-310. This paper first appeared in the 13th SOSP,
+October 1991.</li>
+
+<li>
+Carl Ellison, <a href="http://theworld.com/~cme/usenix.html">``Establishing
+Identity Without Certification Authorities'',</a> 6th USENIX Security Symposium
+, 1996.</li>
+
+<li>
+Ron Rivest's <a href="http://theory.lcs.mit.edu/~rivest/publications.html">Publications
+page</a>.</li>
+
+<li>
+John Bull, Li Gong, Karen R. Sollins, <a href="http://ana-www.lcs.mit.edu/anaweb/ps-papers/esorics.ps">``Toward
+Security in an Open Systems Federation''</a>, Proc. ESORICS, Toulouse,
+France, 1992.</li>
+
+<li>
+Ellison, Hall, Milbert, Schneier, <a href="http://www.schneier.com/paper-personal-entropy.html">``Protecting
+Secret Keys with Personal Entropy''</a></li>
+
+<ul>
+<li>
+based on Carl Ellison,&nbsp;<a href="http://theworld.com/~cme/html/rump96.html">
+Emergency Key Recovery without Third Parties</a> ,CRYPTO '96 Rump session
+presentation.</li>
+</ul>
+
+<li>
+The <a href="http://www.ietf.org/html.charters/xmldsig-charter.html">IETF
+XML Digital Signature Working Group</a>, core <a href="http://www.ietf.org/internet-drafts/draft-ietf-xmldsig-core-08.txt">draft
+(8)</a> includes the data structure (in KeyInfo) for holding SPKI-encoded
+public keys and/or certificates backing up an XML signature.&nbsp; This
+draft does not intend to address what is done with certificates.&nbsp;
+It is at a much lower level, just specifying the syntax of a raw signature.</li>
+</ul>
+
+<hr width="100%">
+<h3>
+<a NAME="Other certificate formats"></a>Other certificate formats</h3>
+
+<ul>
+<li>
+X.509, PGP and SPKI:&nbsp; <a href="http://theworld.com/~cme/html/web.html">Summary
+comparison table</a></li>
+
+<li>
+X9.59 (also known as AADS) is a mechanism that uses ACLs only, instead
+of certificates.&nbsp; Specifically, the ACL is a bank's account database
+that has had a public-key field added, so that the bank can look up the
+account-holder's public key.&nbsp; This makes the X9.59 ACL an authorization
+instrument, in SPKI terms, similar to the ACL implemented by SSH's file:
+.ssh/authorized_keys.&nbsp; For more information on X9.59, see: <a href="http://www.garlic.com/~lynn">http://www.garlic.com/~lynn</a></li>
+
+<li>
+PGP - an identity certificate format, the first to gain widespread usage
+and the form supporting the well known <a href="http://theworld.com/~cme/html/spki.html#Web of Trust">Web
+of Trust</a></li>
+
+<ul>
+<li>
+<a href="http://www.ietf.org/html.charters/openpgp-charter.html">IETF OPENPGP
+working group</a></li>
+
+<li>
+<a href="http://www.pgp.com/">PGP Inc.</a></li>
+
+<li>
+<a href="http://www.zendit.com/">Zendit</a> from Authora, a UI for OpenPGP.</li>
+
+</ul>
+
+<li>
+X.509 - the identity certificate from the X.500 effort, with an attribute
+certificate added recently (perhaps borrowed from X9)</li>
+
+<ul>
+<li>
+<a href="http://www.ietf.org/html.charters/pkix-charter.html">IETF PKIX
+working group</a></li>
+
+<li>
+ISO documents are available by purchase, not by the web</li>
+</ul>
+
+
+<li>
+Blaze, Feigenbaum and Lacy trust management forms (computing authorization
+with certified code)</li>
+
+<ul>
+<li>
+<a href="ftp://research.att.com/dist/mab/policymaker.ps">PolicyMaker</a></li>
+
+<li>
+<a href="http://www.crypto.com/trustmgt/kn.html">KeyNote</a></li>
+</ul>
+</ul>
+
+<hr>
+<h3>
+<b>Misc. articles and how-to</b></h3>
+This is not intended to be a complete list at all. These are just some
+links as people refer me to articles on PKI.
+<ul>
+<li>
+start of the <a href="http://www.zdnet.com/eweek/stories/general/0,11011,2660226,00.html">eWeek
+series on PKI</a></li>
+</ul>
+
+<hr width="100%">
+<h3>
+<a NAME="Glossary"></a><b>Glossary</b></h3>
+
+<ul>
+<li>
+<b>asymmetric cryptography</b>: defined originally by Diffie and Hellman,
+a cryptographic system using different keys for encipherment and decipherment
+such that one of the keys (private key) can not be derived efficiently
+from the other (public key).</li>
+
+<li>
+<b>certificate</b>: a digitally signed data record communicating some information
+from the signer (issuer) of the certificate to the verifier of the certificate.&nbsp;
+A certificate differs from a general signed message usually in that:</li>
+
+<ol>
+<li>
+the data structure is well defined so that a computer can interpret the
+structure, and</li>
+
+<li>
+the certificate's ``message'' is of the form ``to whom it may concern'',
+rather than addressed to a specific party</li>
+</ol>
+
+<li>
+<a NAME="CAs"></a><b>Certificate Authority</b>: in the X.509 world, a special
+certificate issuing entity, usually part of a hierarchy, responsible for
+issuing all certificates to end entity keyholders.</li>
+
+<li>
+<b>digital signature</b>: a computation with a private key and typically
+the hash of a document or data record such that any entity in possession
+of the matching public key can verify computationally that the computation
+was performed by the associated private key and that the signed document
+has not changed since the signature was computed.</li>
+
+<li>
+<b>hash</b>: a cryptographic computation over a message yielding a fixed
+length quantity (the hash value) such that it is computationally difficult
+to find any two different input messages yielding the same hash value.&nbsp;
+The ``strength of a hash'' is a reference to the difficulty of finding
+such message pairs.</li>
+
+<li>
+<b>keyholder</b>: the holder of the private key.</li>
+
+<li>
+<a NAME="non-repudiation"></a><b><a href="../non-repudiation.htm">non-repudiation</a></b>:
+the notion that the
+keyholder is legally liable for any statement digitally signed by that
+keyholder's signature key.</li>
+
+<li>
+<b>PGP</b>: Pretty Good Privacy -- an early public key application, defining
+the first public key infrastructure to be widely deployed.</li>
+
+<li>
+<b>PKI</b>: Public Key Infrastructure -- a mechanism to permit the distributed
+use of public keys, involving certificates that bind information of interest
+to public keys</li>
+
+<li>
+<b>private key</b>: a key in an asymmetric cryptosystem that is kept secret
+and held by one entity, called the keyholder.</li>
+
+<li>
+<b>public key</b>:&nbsp; a key in an asymmetric cryptosystem that need
+not be kept secret and is often</li>
+
+<li>
+<b>SDSI</b>: Simple Distributed Security Infrastructure</li>
+
+<li>
+<b>secret key</b>: a key in a symmetric cryptosystem.</li>
+
+<li>
+<b>speaks for</b>: the notion that a private digital signature key speaks
+digitally signed statements in cyberspace on behalf of the keyholder</li>
+
+<li>
+<b>SPKI</b>: Simple Public Key Infrastructure</li>
+
+<li>
+<b>symmetric cryptography</b>: the original kind of cryptography, in which
+the same key is used for both encipherment and decipherment.</li>
+
+<li>
+<b><a href="../trust.htm">trust</a></b>: a term so frequently misused that it has become
+almost devoid of meaning.  It means whatever you want it to mean, but vendors keep using it
+because it evokes warm and fuzzy feelings and that helps sales.</li>
+
+<li>
+<a NAME="Web of Trust"></a><b>Web of Trust: </b>a mechanism for <a href="http://theworld.com/~cme/html/web.html">fault
+tolerance of certificate signature</a>, associated with PGP.</li>
+
+<li>
+<b>X.509</b>: a data structure defined as part of the X.500 global directory
+effort, designed to bind an X.500 distinguished name to a public key.&nbsp;
+The presumption in X.509 is that the named entity is the keyholder of the
+associated public key.&nbsp; In some cases, it is assumed that the public
+key speaks for the named entity.</li>
+</ul>
+
+<hr width="100%">
+<br><a href="http://theworld.com/~cme">Carl M. Ellison</a>; <a href="mailto:cme@acm.org?subject=spki.html">mailto:cme@acm.org?subject=spki.html</a>
+</body>
+</html>

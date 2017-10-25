@@ -1,0 +1,162 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://toc.csail.mit.edu/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortlink" href="/node/63" />
+<link rel="canonical" href="/cis" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Cryptography and Information Security (CIS)  | MIT CSAIL Theory of Computation</title>
+  <style type="text/css" media="all">
+@import url("http://toc.csail.mit.edu/modules/system/system.base.css?nnu1e8");
+@import url("http://toc.csail.mit.edu/modules/system/system.menus.css?nnu1e8");
+@import url("http://toc.csail.mit.edu/modules/system/system.messages.css?nnu1e8");
+@import url("http://toc.csail.mit.edu/modules/system/system.theme.css?nnu1e8");
+</style>
+<style type="text/css" media="all">
+@import url("http://toc.csail.mit.edu/modules/aggregator/aggregator.css?nnu1e8");
+@import url("http://toc.csail.mit.edu/modules/book/book.css?nnu1e8");
+@import url("http://toc.csail.mit.edu/sites/all/modules/calendar/css/calendar_multiday.css?nnu1e8");
+@import url("http://toc.csail.mit.edu/modules/comment/comment.css?nnu1e8");
+@import url("http://toc.csail.mit.edu/sites/all/modules/date/date_api/date.css?nnu1e8");
+@import url("http://toc.csail.mit.edu/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?nnu1e8");
+@import url("http://toc.csail.mit.edu/sites/all/modules/date/date_repeat_field/date_repeat_field.css?nnu1e8");
+@import url("http://toc.csail.mit.edu/modules/field/theme/field.css?nnu1e8");
+@import url("http://toc.csail.mit.edu/modules/node/node.css?nnu1e8");
+@import url("http://toc.csail.mit.edu/modules/search/search.css?nnu1e8");
+@import url("http://toc.csail.mit.edu/modules/user/user.css?nnu1e8");
+@import url("http://toc.csail.mit.edu/modules/forum/forum.css?nnu1e8");
+@import url("http://toc.csail.mit.edu/sites/all/modules/views/css/views.css?nnu1e8");
+</style>
+<style type="text/css" media="all">
+@import url("http://toc.csail.mit.edu/sites/all/modules/ctools/css/ctools.css?nnu1e8");
+@import url("http://toc.csail.mit.edu/sites/all/libraries/superfish/css/superfish.css?nnu1e8");
+</style>
+<style type="text/css" media="all">
+@import url("http://toc.csail.mit.edu/sites/all/themes/csailtocgarland/css/reset.css?nnu1e8");
+@import url("http://toc.csail.mit.edu/sites/all/themes/csailtocgarland/style.css?nnu1e8");
+</style>
+
+<!--[if lt IE 7]>
+<link type="text/css" rel="stylesheet" href="http://toc.csail.mit.edu/sites/all/themes/csailtocgarland/fix-ie.css?nnu1e8" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://toc.csail.mit.edu/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://toc.csail.mit.edu/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://toc.csail.mit.edu/misc/drupal.js?nnu1e8"></script>
+<script type="text/javascript" src="http://toc.csail.mit.edu/sites/all/libraries/superfish/jquery.hoverIntent.minified.js?nnu1e8"></script>
+<script type="text/javascript" src="http://toc.csail.mit.edu/sites/all/libraries/superfish/superfish.js?nnu1e8"></script>
+<script type="text/javascript" src="http://toc.csail.mit.edu/sites/all/libraries/superfish/supersubs.js?nnu1e8"></script>
+<script type="text/javascript" src="http://toc.csail.mit.edu/sites/all/modules/superfish/superfish.js?nnu1e8"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"csailtocgarland","theme_token":"0xVzBFF-_J0IgqZbs5_ZkHo8gZU5Q0FB_dj514oBw3I","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/superfish\/superfish.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/book\/book.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/themes\/csailtocgarland\/css\/reset.css":1,"sites\/all\/themes\/csailtocgarland\/style.css":1,"sites\/all\/themes\/csailtocgarland\/print.css":1,"sites\/all\/themes\/csailtocgarland\/fix-ie.css":1}},"superfish":{"1":{"id":"1","sf":{"animation":{"opacity":"show","height":"show"},"speed":"\u0027fast\u0027","autoArrows":false,"dropShadows":true,"disableHI":false},"plugins":{"supposition":false,"bgiframe":false,"supersubs":{"minWidth":"12","maxWidth":"27","extraWidth":1}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-63 node-type-topics" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+      
+ <!-- Layout -->
+ <div id="wrapper">
+    <div id="container" class="clearfix">
+
+      <div id="header">
+        <div id="logo-floater">
+                  <a href="/" title="MIT CSAIL Theory of Computation MIT CSAIL" id="logo"><img src="http://toc.csail.mit.edu/sites/default/files/toc-logo.png" alt="MIT CSAIL Theory of Computation MIT CSAIL" title="MIT CSAIL Theory of Computation MIT CSAIL" id="sitelogo"></a>                          </div><!-- /#logo-floater -->
+
+                   <div class="region region-header-top-right">
+    <div id="block-menu-menu-login-menu" class="block block-menu clearfix">
+
+    
+  <div class="content">
+    <ul class="menu"><li class="first last leaf"><a href="/user" title="">login</a></li>
+</ul>  </div>
+</div>
+  </div>
+<!-- login menu, etc -->
+          
+                    <div id="header_bottom_right" class="header_bottom_right">                     
+               <div class="region region-header-bottom-right">
+    <div id="block-superfish-1" class="block block-superfish clearfix">
+
+    
+  <div class="content">
+    <ul id="superfish-1" class="menu sf-menu sf-main-menu sf-horizontal sf-style-none sf-total-items-7 sf-parent-items-7 sf-single-items-0"><li id="menu-433-1" class="first odd sf-item-1 sf-depth-1 sf-total-children-3 sf-parent-children-0 sf-single-children-3 menuparent"><a href="/index" class="sf-depth-1 menuparent">home</a><ul><li id="menu-633-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/about" class="sf-depth-2">About</a></li><li id="menu-863-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/events" class="sf-depth-2">TOC Calendar</a></li><li id="menu-456-1" class="last odd sf-item-3 sf-depth-2 sf-no-children"><a href="/contact" class="sf-depth-2">Contact</a></li></ul></li><li id="menu-453-1" class="middle even sf-item-2 sf-depth-1 sf-total-children-6 sf-parent-children-0 sf-single-children-6 menuparent"><a href="/people" class="sf-depth-1 menuparent">People</a><ul><li id="menu-636-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/faculty" class="sf-depth-2">Faculty</a></li><li id="menu-913-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/Research_Scientists" class="sf-depth-2">Research Scientists</a></li><li id="menu-638-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/Postdocs" class="sf-depth-2">Postdocs</a></li><li id="menu-637-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/Students" class="sf-depth-2">Students</a></li><li id="menu-639-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/Visitors" class="sf-depth-2">Visitors</a></li><li id="menu-640-1" class="last even sf-item-6 sf-depth-2 sf-no-children"><a href="/SupportStuff" class="sf-depth-2">Support Staff</a></li></ul></li><li id="menu-623-1" class="active-trail middle odd sf-item-3 sf-depth-1 sf-total-children-10 sf-parent-children-2 sf-single-children-8 menuparent"><a href="/research_groups" class="sf-depth-1 menuparent">Research Groups</a><ul><li id="menu-622-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/node/31" class="sf-depth-2">Algorithms</a></li><li id="menu-883-1" class="middle even sf-item-2 sf-depth-2 sf-total-children-1 sf-parent-children-0 sf-single-children-1 menuparent"><a href="/node/62" class="sf-depth-2 menuparent">Complexity Theory</a><ul><li id="menu-1014-1" class="firstandlast odd sf-item-1 sf-depth-3 sf-no-children"><a href="/node/193" class="sf-depth-3">Complexity Theory Courses</a></li></ul></li><li id="menu-881-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/Computation%20Economics" class="sf-depth-2">Computation and Economics</a></li><li id="menu-927-1" class="active-trail middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/cis" title="CIS" class="sf-depth-2 active">Cryptography and Information Security</a></li><li id="menu-889-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/Program%20Correctness%20and%20Educational%20Technology" class="sf-depth-2">Haystack</a></li><li id="menu-625-1" class="middle even sf-item-6 sf-depth-2 sf-no-children"><a href="/node/33" class="sf-depth-2">Distributed Systems</a></li><li id="menu-935-1" class="middle odd sf-item-7 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/node/137" class="sf-depth-2 menuparent">Parallel Computing</a><ul><li id="menu-997-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/node/158" class="sf-depth-3">Applied Computing</a></li><li id="menu-993-1" class="last even sf-item-2 sf-depth-3 sf-no-children"><a href="/node/152" class="sf-depth-3">Supertech Research</a></li></ul></li><li id="menu-882-1" class="middle even sf-item-8 sf-depth-2 sf-no-children"><a href="/Quantum%20Information%20Science" class="sf-depth-2">Quantum Information Science</a></li><li id="menu-624-1" class="middle odd sf-item-9 sf-depth-2 sf-no-children"><a href="/node/32" class="sf-depth-2">Computation &amp; Biology</a></li><li id="menu-996-1" class="last even sf-item-10 sf-depth-2 sf-no-children"><a href="/node/155" class="sf-depth-2">Multicore Algorithmics</a></li></ul></li><li id="menu-520-1" class="middle even sf-item-4 sf-depth-1 sf-total-children-8 sf-parent-children-0 sf-single-children-8 menuparent"><a href="/seminars" class="sf-depth-1 menuparent">Seminars</a><ul><li id="menu-1262-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/node/424" class="sf-depth-2">Theory of Computation Colloquium</a></li><li id="menu-1261-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/node/421" title="http://toc.csail.mit.edu/node/705#overlay-context=" class="sf-depth-2">Algorithms and Complexity Seminars</a></li><li id="menu-1265-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/node/429" class="sf-depth-2">Theory of Distributed Systems (TDS)</a></li><li id="menu-1264-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/node/428" class="sf-depth-2">CRYPTOGRAPHY AND INFORMATION SECURITY (CIS) SEMINARS</a></li><li id="menu-1263-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/node/427" class="sf-depth-2">MSR/MIT Theory Reading Group</a></li><li id="menu-1534-1" class="middle even sf-item-6 sf-depth-2 sf-no-children"><a href="http://toc.csail.mit.edu/node/630#overlay-context=" title="" class="sf-depth-2">New 11 week Series on the Sum of Squares Method</a></li><li id="menu-924-1" class="middle odd sf-item-7 sf-depth-2 sf-no-children"><a href="http://toc.csail.mit.edu/taxonomy/term/13" title="" class="sf-depth-2">Bioinformatics Seminars</a></li><li id="menu-933-1" class="last even sf-item-8 sf-depth-2 sf-no-children"><a href="http://toc.csail.mit.edu/?q=taxonomy/term/17" title="" class="sf-depth-2">TCS+Online Seminar</a></li></ul></li><li id="menu-449-1" class="middle odd sf-item-5 sf-depth-1 sf-total-children-3 sf-parent-children-0 sf-single-children-3 menuparent"><a href="/news" class="sf-depth-1 menuparent">News/Events/Blogs</a><ul><li id="menu-1268-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/node/439" class="sf-depth-2">New Student Blog: Not so Great Ideas in Theoretical Computer Science</a></li><li id="menu-1013-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/node/185" class="sf-depth-2">TOC People in the News: 2009-2012</a></li><li id="menu-611-1" class="last odd sf-item-3 sf-depth-2 sf-no-children"><a href="/awards" class="sf-depth-2">Awards</a></li></ul></li><li id="menu-926-1" class="middle even sf-item-6 sf-depth-1 sf-total-children-3 sf-parent-children-0 sf-single-children-3 menuparent"><a href="/node/118" class="sf-depth-1 menuparent">Courses</a><ul><li id="menu-529-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/courses" title="" class="sf-depth-2">Course Calendar</a></li><li id="menu-865-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="http://student.mit.edu/catalog/m6a.html" title="" class="sf-depth-2">Course Descriptions</a></li><li id="menu-1691-1" class="last odd sf-item-3 sf-depth-2 sf-no-children"><a href="/node/709" class="sf-depth-2">Who is teaching What Spring 2015</a></li></ul></li><li id="menu-1640-1" class="last odd sf-item-7 sf-depth-1 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="http://toc.csail.mit.edu/node/697" title="Fun Photo&#039;s" class="sf-depth-1 menuparent">Fun Photos</a><ul><li id="menu-1078-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/node/232" class="sf-depth-2">Celebrations</a></li><li id="menu-1639-1" class="last even sf-item-2 sf-depth-2 sf-no-children"><a href="/node/697" class="sf-depth-2">Photo&#039;s of TOC People - Past (and some Present)</a></li></ul></li></ul>  </div>
+</div>
+  </div>
+           </div>
+         
+      </div> <!-- /#header -->
+          
+       
+      
+      <div id="center"><div id="squeeze"><div class="right-corner"><div class="left-corner">
+                              <a id="main-content"></a>
+          <div class="clearfix">                                <h1>Cryptography and Information Security (CIS) </h1>            
+                              </div>                                                   <div class="clearfix">
+              <div class="region region-content">
+    <div id="block-system-main" class="block block-system clearfix">
+
+    
+  <div class="content">
+    <div id="node-63" class="node node-topics" about="/cis" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="Cryptography and Information Security (CIS) " class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-frontpage-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/cis" class="active"><img typeof="foaf:Image" src="http://toc.csail.mit.edu/sites/default/files/researchGroup/Keys%20and%20Locks.jpg" width="350" height="300" alt="" /></a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p> </p>
+<p><span style="font-size:16px;"><span style="font-family:times new roman,times,serif;">We seek to develop techniques for securing tomorrow's global information infrastracture by exploring theoretical foundations, near-term practical applications, and long-range speculative research.</span></span></p>
+<p><span style="font-size:16px;"><span style="font-family:times new roman,times,serif;">We are also interested in the relationship of our field to others, such as complexity theory, quantum computing, algorithms, game theory, machine learning, and cryptographic policy debates.</span></span></p>
+<p><span style="font-size:16px;"><span style="font-family:times new roman,times,serif;">The Cryptography and Information Security (CIS) group was founded by <a href="http://people.csail.mit.edu/shafi">Professors Shafi Goldwasser,</a> <a href="http://people.csail.mit.edu/silvio">Silvio Micali</a>, and <a href="http://people.csail.mit.edu/rivest">Ron Rivest</a> in the Fall of 1995.</span></span></p>
+<p><span style="font-size:16px;"><span style="font-family:times new roman,times,serif;"><a href="http://toc.csail.mit.edu/?q=node/46">Please click here for more information on the CIS group</a>.</span></span></p>
+<p> </p>
+<p> </p>
+</div></div></div><div class="field field-name-field-members-reference field-type-user-reference field-label-above"><div class="field-label">Members:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/user/149">Adam Sealfon</a></div><div class="field-item odd"><a href="/user/150">Aikaterini Sotiraki</a></div><div class="field-item even"><a href="/user/198">Akshay Degwekar</a></div><div class="field-item odd"><a href="/user/138">Alon Cohen</a></div><div class="field-item even"><a href="/user/103">Cheng Chen</a></div><div class="field-item odd"><a href="/user/196">Itay Berman</a></div><div class="field-item even"><a href="/user/163">Justin Holmgren</a></div><div class="field-item odd"><a href="/user/200">Tianren Liu</a></div><div class="field-item even"><a href="/user/109">Madars Virza</a></div><div class="field-item odd"><a href="/user/195">Nir Bitansky</a></div><div class="field-item even"><a href="/user/152">Prashant Vasudevan</a></div><div class="field-item odd"><a href="/user/28">Ronald Rivest</a></div><div class="field-item even"><a href="/user/164">Sergey Gorbunov</a></div><div class="field-item odd"><a href="/user/2">Shafi Goldwasser</a></div><div class="field-item even"><a href="/user/27">Silvio Micali</a></div><div class="field-item odd"><a href="/user/146">Sunoo Park</a></div><div class="field-item even"><a href="/user/134">Vinod Vaikuntanathan</a></div></div></div>  </div>
+
+  <div class="clearfix">
+          <div class="links"></div>
+    
+      </div>
+
+</div>
+  </div>
+</div>
+  </div>
+          </div>
+          
+      </div></div></div></div> <!-- /.left-corner, /.right-corner, /#squeeze, /#center -->
+
+            <div  class="clearfix">  <div class="region region-footer">
+    <div id="block-block-2" class="block block-block clearfix">
+
+    
+  <div class="content">
+    <p> </p>
+<hr /><p> </p>
+<div class="logos">
+<div style="float: left; height: 50px;"><a href="http://www.csail.mit.edu" target="_blank"><img alt="CSAIL MIT Logo" id="CSAILMITLogo" src="/sites/default/files/csail_logo_small.png" style="margin: 0; height: 45px;" border="0" /></a></div>
+<div style="float: right; height: 50px;"><a href="http://web.mit.edu/" target="_blank"><img alt="MIT Logo" src="/sites/default/files/mit_logo.png" style="margin: 0; height: 30px;" border="0" /></a></div>
+</div>
+<p> </p>
+  </div>
+</div>
+  </div>
+</div>
+    </div> <!-- /#container -->
+  </div> <!-- /#wrapper -->
+  </body>
+</html>
