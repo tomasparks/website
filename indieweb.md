@@ -6,6 +6,4 @@ title: indieweb status
   * [Webmention](https://indieweb.org/webmentions), Limited outgoing and Limited incomming using [webmention_io](https://github.com/aarongustafson/jekyll-webmention_io)
   
 ### TO DO ###
-  * notes
-  * twitter
-  * like
+  * notes: currently FAILED

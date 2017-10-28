@@ -62,11 +62,15 @@ collections:
    projects:
      output: true
      layout: project_page
-     permalink: /projects/:year:month:day.html
+     permalink: /projects/:year:month:day-:slug.html
+   dtn-ebook:
+     output: true
+     layout: ebook
+     permalink: /projects/alt-dtn/ebook/:slug.html
 #   notes:
 #     output: true
 #     layout: post
-#     permalink: /notes/:year:month:day.html  
+#     permalink: /notes/:year:month:day-:slug.html  
 #  computers:
 #    layout: page
 #    output: true
@@ -221,7 +225,7 @@ name: Tom Sparks website
 image: /about-me/photo.png
 description:
 author: Tom Sparks
-bio: I am a Alternative Technology Researcher.
+bio: I am a Alternative Technology Researcher, with a focus on Digital Communication Networks.
 social:
   name: Tom Sparks
   links:
@@ -232,6 +236,12 @@ social:
 ## WEBMENTIONS.YML
 webmentions:
   username: tomasparks.github.io
+  js: false
+  throttle_lookups:
+    last_week:  daily
+    last_month: daily
+    last_year:  daily
+    older:      daily
   templates:
     count: _includes/webmentions/count.html
     likes: _includes/webmentions/likes.html
@@ -240,7 +250,7 @@ webmentions:
     replies: _includes/webmentions/replies.html
     reposts: _includes/webmentions/reposts.html
     webmentions: _includes/webmentions/webmentions.html
-  js: false
+
 ## EOF WEBMENTIONS.YML
 
 ## PAGINATE.YML

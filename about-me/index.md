@@ -11,7 +11,7 @@ my [CV]({{site.url}}/about-me/cv.html)
 ## Digital Communication Networks (DCN) ##
 ### What are DCNs? ###
 The Internet is the best example as you are using it to access my website  
-My main focus is the [DTN]({{site.url}}/about-me/dtn.html) Networks, but I do keep up to date with Peer-2-Peer Networks
+My main focus is the [DTN]({{site.url}}/projects/alt-dtn.html) Networks, but I do keep up to date with Peer-2-Peer Networks
 
 ## Graphical User Interface ##
 see [my GUI page]({{site.url}}/about-me/gui.html)

@@ -390,8 +390,7 @@ from the net are extremely encouraging.},
   groups       = {portal},
   keywords     = {portal Impostor, texture, indoor},
   review       = {missing pdf},
-  timestamp    = {2017-10-09},
-  url          = {/home/tom/Documents/articles/aliaga1997architectural.pdf},
+  timestamp    = {2017-10-26},
 }
 
 @InProceedings{Aliaga1999,
@@ -468,8 +467,7 @@ render the model independently of the server as long as
 he moves within that  -neighborhood.},
   keywords  = {network, models},
   review    = {missing pdf},
-  timestamp = {2017-10-09},
-  url       = {/home/tom/Documents/articles/cohen1998visibility.pdf},
+  timestamp = {2017-10-26},
 }
 
 @Article{Cohen-Or2003,
@@ -596,8 +594,7 @@ he moves within that  -neighborhood.},
   pages     = {756-761},
   keywords  = {texture},
   review    = {missing pdf},
-  timestamp = {2017-10-09},
-  url       = {/home/tom/Documents/articles/marvie2003remote.pdf},
+  timestamp = {2017-10-26},
 }
 
 @InProceedings{Marvie2004,
@@ -712,8 +709,7 @@ he moves within that  -neighborhood.},
   organization = {IEEE Computer Society Press},
   keywords     = {portal Impostor LDI, indoor},
   review       = {missing pdf},
-  timestamp    = {2017-10-09},
-  url          = {/home/tom/Documents/articles/popescu1998efficient.pdf},
+  timestamp    = {2017-10-26},
 }
 
 @InProceedings{Pouderoux2005,
@@ -737,8 +733,7 @@ he moves within that  -neighborhood.},
   organization = {IEEE},
   keywords     = {portal Impostor, indoor},
   review       = {missing pdf},
-  timestamp    = {2017-10-09},
-  url          = {/home/tom/Documents/articles/rafferty19983d.pdf},
+  timestamp    = {2017-10-26},
 }
 
 @Article{Rafferty1998a,
@@ -849,8 +844,7 @@ he moves within that  -neighborhood.},
   pages     = {151-154},
   keywords  = {web3D, indoor, texture},
   review    = {missing pdf},
-  timestamp = {2017-10-09},
-  url       = {/home/tom/Documents/articles/spini2016web.pdf},
+  timestamp = {2017-10-26},
 }
 
 @Article{Steed1999,
