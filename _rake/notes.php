@@ -11,7 +11,7 @@ function create_notes($data) {
     	$mdfile = fopen($hash.".md", "w");
 
 		fwrite($mdfile, "---\n");
-		fwrite($mdfile, "layout: ".$note['type']."\n");
+		fwrite($mdfile, "layout: notes_".$note['type']."\n");
 		fwrite($mdfile, "type: ".$note['type']."\n");
 		fwrite($mdfile, "date: ".$note['date']."\n");
 		fwrite($mdfile, "url: ".$note['url']."\n");
