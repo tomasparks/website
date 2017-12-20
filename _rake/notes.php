@@ -45,6 +45,25 @@ function create_notes($data) {
     }
 }
 
+
+function csv_parse_file ( $file ) {
+if (($handle = fopen($file, "r")) !== FALSE) {
+    while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
+ 			 $res['type'] = $data['0'];
+ 			 $res['date'] = $data['4'];
+ 			 $res['message'] = $data['2'];
+ 			 $res['tag'] = $data['1'];
+ 			 $res['url'] = $data['3'];
+ 			 $ret[] = $res;
+ 			 print_r($data);
+ 			 print_r($res);
+    }
+    }
+		fclose($handle);
+		return $ret;
+}
+
+
 $path = getcwd();
 
 $notes_path = str_replace("_rake","_notes",$path);
@@ -76,6 +95,8 @@ foreach ($notes_dir as $dir) {
     					break;
 					case strstr($file, "csv"):
     					echo "CSV file\n";
+    					$data = csv_parse_file ( $file );
+    					create_notes($data);
 						break;
 					}
 			}
