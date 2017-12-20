@@ -9,14 +9,25 @@ function create_notes($data) {
     	echo $hash."\n";
     	
     	$mdfile = fopen($hash.".md", "w");
-
-		fwrite($mdfile, "---\n");
-		fwrite($mdfile, "layout: notes_".$note['type']."\n");
-		fwrite($mdfile, "type: ".$note['type']."\n");
-		fwrite($mdfile, "date: ".$note['date']."\n");
-		fwrite($mdfile, "url: ".$note['url']."\n");
-		fwrite($mdfile, "---\n");
-		fwrite($mdfile, $note['message']."\n");
+		switch($note['type']) {
+			case "twitter"
+				fwrite($mdfile, "---\n");
+				fwrite($mdfile, "layout: notes_".$note['type']."\n");
+				fwrite($mdfile, "type: ".$note['type']."\n");
+				fwrite($mdfile, "date: ".$note['date']."\n");
+				//fwrite($mdfile, "ext-url: ".$note['url']."\n");
+				fwrite($mdfile, "---\n");
+				fwrite($mdfile, $note['message']."\n");
+			case "like"
+				fwrite($mdfile, "---\n");
+				fwrite($mdfile, "layout: notes_".$note['type']."\n");
+				fwrite($mdfile, "type: ".$note['type']."\n");
+				fwrite($mdfile, "date: ".$note['date']."\n");
+				fwrite($mdfile, "ext-url: ".$note['url']."\n");
+				fwrite($mdfile, "---\n");
+				//fwrite($mdfile, $note['message']."\n");	
+			}
+			
     	fclose($mdfile);
     }
 }
