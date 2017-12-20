@@ -1,5 +1,7 @@
 #!/usr/bin/env php
 <?php
+require_once './php-mf2/Mf2/Parser.php';
+require_once './htmlpurifier/library/HTMLPurifier.auto.php';
 
 function create_notes($data) {
     foreach ($data as $note) {
@@ -21,6 +23,14 @@ function create_notes($data) {
 				fwrite($mdfile, $note['message']."\n");
 				break;
 			case "like":
+				$html = file_get_contents($note['url']);
+				$config = HTMLPurifier_Config::createDefault();
+				$purifier = new HTMLPurifier($config);
+				$cleanhtml = $purifier->purify($html);
+				$mf = Mf2\parse($cleanhtml, $note['url']);
+				print_r($mf);
+				
+				
 				fwrite($mdfile, "---\n");
 				fwrite($mdfile, "layout: notes_".$note['type']."\n");
 				fwrite($mdfile, "type: ".$note['type']."\n");
