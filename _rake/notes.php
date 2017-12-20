@@ -9,8 +9,9 @@ function create_notes($data) {
     	echo $hash."\n";
     	
     	$mdfile = fopen($hash.".md", "w");
-		switch($note['type']) {
-			case "twitter"
+    	
+		switch ($note['type']) {
+			case "twitter":
 				fwrite($mdfile, "---\n");
 				fwrite($mdfile, "layout: notes_".$note['type']."\n");
 				fwrite($mdfile, "type: ".$note['type']."\n");
@@ -18,14 +19,16 @@ function create_notes($data) {
 				//fwrite($mdfile, "ext-url: ".$note['url']."\n");
 				fwrite($mdfile, "---\n");
 				fwrite($mdfile, $note['message']."\n");
-			case "like"
+				break;
+			case "like":
 				fwrite($mdfile, "---\n");
 				fwrite($mdfile, "layout: notes_".$note['type']."\n");
 				fwrite($mdfile, "type: ".$note['type']."\n");
 				fwrite($mdfile, "date: ".$note['date']."\n");
 				fwrite($mdfile, "ext-url: ".$note['url']."\n");
 				fwrite($mdfile, "---\n");
-				//fwrite($mdfile, $note['message']."\n");	
+				//fwrite($mdfile, $note['message']."\n");
+				break;	
 			}
 			
     	fclose($mdfile);
