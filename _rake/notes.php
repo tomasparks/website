@@ -1,7 +1,12 @@
 #!/usr/bin/env php
 <?php
+// key: qhNU8kMDrqS2Ryk8ExmyA
+//secret: 1tICNtAofpr0Coycb4eacrf4FcFCWSOzW8novjYL8
 require_once './php-mf2/Mf2/Parser.php';
 require_once './htmlpurifier/library/HTMLPurifier.auto.php';
+require_once './goodreads-api/GoodReads.php';
+
+
 
 function create_notes($data) {
     foreach ($data as $note) {
@@ -46,13 +51,28 @@ function create_notes($data) {
 				break;	
 				
 			case "read";
-				    foreach($note['tags'] as $tagkey => $tag_value) {
-				    fwrite($mdfile, "tags-".$tagkey.": ".$tag_value."\n");
-				    }
+					$goodreads_api = new GoodReads('qhNU8kMDrqS2Ryk8ExmyA', '/home/tom/github/blog/website/_rake/tmp/');
+					$tags = $note['tags'];
+					if (array_key_exists("asin",$tags)) {
+					$data = $goodreads_api->getBookByISBN($tags['asin']);
+					}
+					if (array_key_exists("ASIN",$tags)) {
+					$data = $goodreads_api->getBookByISBN($tags['ASIN']);
+					}
+					
+					$book = $data['book'];
+					print_r($book);
+					fwrite($mdfile, "book-title: ".$book['title']."\n");
+					fwrite($mdfile, "book-image_url: ".$book['image_url']."\n");
+					fwrite($mdfile, "book-url: ".$book['url']."\n");					
+					
+				    //foreach($note['tags'] as $tagkey => $tag_value) {
+				    //fwrite($mdfile, "tags-".$tagkey.": ".$tag_value."\n");
+				    //}
 				    
-				    foreach($note['urls'] as $urlkey => $url_value) {
-				    fwrite($mdfile, "urls-".$urlkey.": ".$url_value."\n");
-				    }
+				    //foreach($note['urls'] as $urlkey => $url_value) {
+				    //fwrite($mdfile, "urls-".$urlkey.": ".$url_value."\n");
+				    //}
 				fwrite($mdfile, "---\n");
 				fwrite($mdfile, $note['message']."\n");
 			break;
