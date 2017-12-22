@@ -46,7 +46,10 @@ function create_notes($data) {
 				break;	
 				
 			case "read";
-				//fwrite($mdfile, "ext-url: ".$note['url']."\n");
+				    foreach($note['tags'] as $tagkey => $tag_value) {
+				    fwrite($mdfile, "".$tagkey.": ".$tag_value."\n");
+				    }
+				    fwrite($mdfile, "ext-url: ".$note['url']."\n");
 				fwrite($mdfile, "---\n");
 				fwrite($mdfile, $note['message']."\n");
 			break;
@@ -70,16 +73,20 @@ if (($handle = fopen($file, "r")) !== FALSE) {
  			 $tmpdate = date_create_from_format('d/m/Y', $data['4']);
  			 $res['date'] = date_format($tmpdate, 'Y-m-d');
  			 $res['message'] = $data['2'];
- 			 $res['tag'] = $data['1'];
+// 			 $res['tag'] = $data['1'];
  			 
  //			 $my_string = "key0:value0,key1:value1,key2:value2";
 
-//$convert_to_array = explode(',', $data['1']);
 
-//for($i=0; $i < count($convert_to_array ); $i++){
-//    $key_value = explode(':', $convert_to_array [$i]);
- //   $end_array[$key_value [0]] = $key_value [1];
-//}
+$oldtags_array = explode(',', $data['1']);
+$tags_array = "";
+
+for($i=0; $i < count($oldtags_array ); $i++){
+    $key_value = explode(':', $oldtags_array [$i]);
+   $tags_array[$key_value [0]] = $key_value [1];
+}
+$res['tags'] = $tags_array;
+
  			 $res['url'] = $data['3'];
  			 $ret[] = $res;
  			 print_r($data);
