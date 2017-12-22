@@ -47,11 +47,11 @@ function create_notes($data) {
 				
 			case "read";
 				    foreach($note['tags'] as $tagkey => $tag_value) {
-				    fwrite($mdfile, "".$tagkey.": ".$tag_value."\n");
+				    fwrite($mdfile, "tags-".$tagkey.": ".$tag_value."\n");
 				    }
 				    
 				    foreach($note['urls'] as $urlkey => $url_value) {
-				    fwrite($mdfile, "".$urlkey.": ".$url_value."\n");
+				    fwrite($mdfile, "urls-".$urlkey.": ".$url_value."\n");
 				    }
 				fwrite($mdfile, "---\n");
 				fwrite($mdfile, $note['message']."\n");
