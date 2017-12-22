@@ -10,6 +10,7 @@ function create_notes($data) {
     	$hash = hash ('sha1' , json_encode($note));
     	echo $hash."\n";
     	$date_split = date_parse($note['date']);
+    	print_r($date_split);
     	$isodate = sprintf("%04d-%02d-%02d", $date_split['year'], $date_split['month'], $date_split['day']);
     	$permdate = sprintf("%04d/%02d/%02d", $date_split['year'], $date_split['month'], $date_split['day']);
     	$mdfile = fopen($hash.".md", "w");
@@ -66,9 +67,19 @@ function csv_parse_file ( $file ) {
 if (($handle = fopen($file, "r")) !== FALSE) {
     while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
  			 $res['type'] = $data['0'];
- 			 $res['date'] = $data['4'];
+ 			 $tmpdate = date_create_from_format('d/m/Y', $data['4']);
+ 			 $res['date'] = date_format($tmpdate, 'Y-m-d');
  			 $res['message'] = $data['2'];
  			 $res['tag'] = $data['1'];
+ 			 
+ //			 $my_string = "key0:value0,key1:value1,key2:value2";
+
+//$convert_to_array = explode(',', $data['1']);
+
+//for($i=0; $i < count($convert_to_array ); $i++){
+//    $key_value = explode(':', $convert_to_array [$i]);
+ //   $end_array[$key_value [0]] = $key_value [1];
+//}
  			 $res['url'] = $data['3'];
  			 $ret[] = $res;
  			 print_r($data);
