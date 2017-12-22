@@ -17,9 +17,10 @@ function create_notes($data) {
     	
     			fwrite($mdfile, "---\n");
 				fwrite($mdfile, "layout: notes_".$note['type']."\n");
+				fwrite($mdfile, "date: ".$isodate."\n");	
 				fwrite($mdfile, "type: ".$note['type']."\n");
 				//fwrite($mdfile, "date: ".$isodate."\n");
-				fwrite($mdfile, "date: ".$permdate."\n");				
+			
 				//fwrite($mdfile, "permalink: /notes/".$note['type']."/".$permdate."/".$hash.".html\n");
 				
 		switch ($note['type']) {
