@@ -49,6 +49,7 @@ function create_notes($data) {
 				    foreach($note['tags'] as $tagkey => $tag_value) {
 				    fwrite($mdfile, "".$tagkey.": ".$tag_value."\n");
 				    }
+				    
 				    foreach($note['urls'] as $urlkey => $url_value) {
 				    fwrite($mdfile, "".$urlkey.": ".$url_value."\n");
 				    }
