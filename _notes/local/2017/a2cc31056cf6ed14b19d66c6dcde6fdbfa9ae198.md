@@ -1,6 +1,0 @@
----
-layout: notes_like
-date: 2017-10-22
-type: like
-ext-url: https://www.youtube.com/watch?v=DYnsoA91H4o
----
