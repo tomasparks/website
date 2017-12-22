@@ -18,13 +18,14 @@ function create_notes($data) {
     			fwrite($mdfile, "---\n");
 				fwrite($mdfile, "layout: notes_".$note['type']."\n");
 				fwrite($mdfile, "type: ".$note['type']."\n");
-				fwrite($mdfile, "date: ".$isodate."\n");
-				
+				//fwrite($mdfile, "date: ".$isodate."\n");
+				fwrite($mdfile, "date: ".$note['date']."\n");				
+				//fwrite($mdfile, "permalink: /notes/".$note['type']."/".$permdate."/".$hash.".html\n");
 				
 		switch ($note['type']) {
 		
 			case "twitter":
-				//fwrite($mdfile, "permalink: /notes/".$note['type']."/".$permdate."/".$hash.".html\n");
+
 				//fwrite($mdfile, "ext-url: ".$note['url']."\n");
 				fwrite($mdfile, "---\n");
 				fwrite($mdfile, $note['message']."\n");
@@ -37,14 +38,12 @@ function create_notes($data) {
 				$cleanhtml = $purifier->purify($html);
 				$mf = Mf2\parse($cleanhtml, $note['url']);
 				print_r($mf);
-				//fwrite($mdfile, "permalink: /notes/".$note['type']."/".$permdate."/".$hash.".html\n");
 				fwrite($mdfile, "ext-url: ".$note['url']."\n");
 				fwrite($mdfile, "---\n");
 				//fwrite($mdfile, $note['message']."\n");
 				break;	
 				
 			case "read";
-				//fwrite($mdfile, "permalink: /notes/".$note['type']."/".$permdate."/".$hash.".html\n");
 				//fwrite($mdfile, "ext-url: ".$note['url']."\n");
 				fwrite($mdfile, "---\n");
 				fwrite($mdfile, $note['message']."\n");
