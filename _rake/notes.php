@@ -14,17 +14,22 @@ function create_notes($data) {
     	$permdate = sprintf("%04d/%02d/%02d", $date_split['year'], $date_split['month'], $date_split['day']);
     	$mdfile = fopen($hash.".md", "w");
     	
-		switch ($note['type']) {
-			case "twitter":
-				fwrite($mdfile, "---\n");
+    	
+    			fwrite($mdfile, "---\n");
 				fwrite($mdfile, "layout: notes_".$note['type']."\n");
 				fwrite($mdfile, "type: ".$note['type']."\n");
 				fwrite($mdfile, "date: ".$isodate."\n");
-				fwrite($mdfile, "permalink: /notes/".$note['type']."/".$permdate."/".$hash.".html\n");
+				
+				
+		switch ($note['type']) {
+		
+			case "twitter":
+				//fwrite($mdfile, "permalink: /notes/".$note['type']."/".$permdate."/".$hash.".html\n");
 				//fwrite($mdfile, "ext-url: ".$note['url']."\n");
 				fwrite($mdfile, "---\n");
 				fwrite($mdfile, $note['message']."\n");
 				break;
+				
 			case "like":
 				$html = file_get_contents($note['url']);
 				$config = HTMLPurifier_Config::createDefault();
@@ -32,17 +37,24 @@ function create_notes($data) {
 				$cleanhtml = $purifier->purify($html);
 				$mf = Mf2\parse($cleanhtml, $note['url']);
 				print_r($mf);
-				
-				
-				fwrite($mdfile, "---\n");
-				fwrite($mdfile, "layout: notes_".$note['type']."\n");
-				fwrite($mdfile, "type: ".$note['type']."\n");
-				fwrite($mdfile, "date: ".$isodate."\n");
-				fwrite($mdfile, "permalink: /notes/".$note['type']."/".$permdate."/".$hash.".html\n");
+				//fwrite($mdfile, "permalink: /notes/".$note['type']."/".$permdate."/".$hash.".html\n");
 				fwrite($mdfile, "ext-url: ".$note['url']."\n");
 				fwrite($mdfile, "---\n");
 				//fwrite($mdfile, $note['message']."\n");
 				break;	
+				
+			case "read";
+				//fwrite($mdfile, "permalink: /notes/".$note['type']."/".$permdate."/".$hash.".html\n");
+				//fwrite($mdfile, "ext-url: ".$note['url']."\n");
+				fwrite($mdfile, "---\n");
+				fwrite($mdfile, $note['message']."\n");
+			break;
+			
+			
+			default:
+				fwrite($mdfile, "---\n");
+				fwrite($mdfile, $note['message']."\n");
+				break;
 			}
 			
     	fclose($mdfile);
