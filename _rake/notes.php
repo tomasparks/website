@@ -49,7 +49,9 @@ function create_notes($data) {
 				    foreach($note['tags'] as $tagkey => $tag_value) {
 				    fwrite($mdfile, "".$tagkey.": ".$tag_value."\n");
 				    }
-				    fwrite($mdfile, "ext-url: ".$note['url']."\n");
+				    foreach($note['urls'] as $urlkey => $url_value) {
+				    fwrite($mdfile, "".$urlkey.": ".$url_value."\n");
+				    }
 				fwrite($mdfile, "---\n");
 				fwrite($mdfile, $note['message']."\n");
 			break;
@@ -78,6 +80,7 @@ if (($handle = fopen($file, "r")) !== FALSE) {
  //			 $my_string = "key0:value0,key1:value1,key2:value2";
 
 
+// tags
 $oldtags_array = explode(',', $data['1']);
 $tags_array = "";
 
@@ -87,7 +90,20 @@ for($i=0; $i < count($oldtags_array ); $i++){
 }
 $res['tags'] = $tags_array;
 
- 			 $res['url'] = $data['3'];
+
+// url tags
+if (strpos($data['3'], 'http') !== false) { $res['url'] = $data['3'];
+ 	} else {
+ 	
+		$oldurl_array = explode(',', $data['3']);
+		$url_array = "";
+
+		for($i=0; $i < count($oldurl_array ); $i++){
+    			$key_value = explode(':', $oldurl_array [$i]);
+    			$url_array[$key_value [0]] = $key_value [1];
+		}
+		$res['urls'] = $url_array;
+ 		}
  			 $ret[] = $res;
  			 print_r($data);
  			 print_r($res);
