@@ -10,6 +10,8 @@ function create_notes($data) {
     	$hash = hash ('sha1' , json_encode($note));
     	echo $hash."\n";
     	$date_split = date_parse($note['date']);
+    	$isodate = sprintf("%04d-%02d-%02d", $date_split['year'], $date_split['month'], $date_split['day']);
+    	$permdate = sprintf("%04d/%02d/%02d", $date_split['year'], $date_split['month'], $date_split['day']);
     	$mdfile = fopen($hash.".md", "w");
     	
 		switch ($note['type']) {
@@ -17,8 +19,8 @@ function create_notes($data) {
 				fwrite($mdfile, "---\n");
 				fwrite($mdfile, "layout: notes_".$note['type']."\n");
 				fwrite($mdfile, "type: ".$note['type']."\n");
-				fwrite($mdfile, "date: ".$date_split['year']."-".$date_split['month']."-".$date_split['day']."\n");
-				fwrite($mdfile, "permalink: /notes/".$note['type']."/".$note['date']."/".$hash.".html\n");
+				fwrite($mdfile, "date: ".$isodate."\n");
+				fwrite($mdfile, "permalink: /notes/".$note['type']."/".$permdate."/".$hash.".html\n");
 				//fwrite($mdfile, "ext-url: ".$note['url']."\n");
 				fwrite($mdfile, "---\n");
 				fwrite($mdfile, $note['message']."\n");
@@ -35,8 +37,8 @@ function create_notes($data) {
 				fwrite($mdfile, "---\n");
 				fwrite($mdfile, "layout: notes_".$note['type']."\n");
 				fwrite($mdfile, "type: ".$note['type']."\n");
-				fwrite($mdfile, "date: ".$date_split['year']."-".$date_split['month']."-".$date_split['day']."\n");
-				fwrite($mdfile, "permalink: /notes/".$note['type']."/".$note['date']."/".$hash.".html\n");
+				fwrite($mdfile, "date: ".$isodate."\n");
+				fwrite($mdfile, "permalink: /notes/".$note['type']."/".$permdate."/".$hash.".html\n");
 				fwrite($mdfile, "ext-url: ".$note['url']."\n");
 				fwrite($mdfile, "---\n");
 				//fwrite($mdfile, $note['message']."\n");
