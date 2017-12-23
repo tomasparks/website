@@ -62,9 +62,9 @@ function create_notes($data) {
 					
 					$book = $data['book'];
 					print_r($book);
-					fwrite($mdfile, "book-title: ".$book['title']."\n");
-					fwrite($mdfile, "book-image_url: ".$book['image_url']."\n");
-					fwrite($mdfile, "book-url: ".$book['url']."\n");					
+					fwrite($mdfile, "book-title: |- ".$book['title']."\n");
+					fwrite($mdfile, "book-image_url: |- ".$book['image_url']."\n");
+					fwrite($mdfile, "book-url: |- ".$book['url']."\n");					
 					
 				    //foreach($note['tags'] as $tagkey => $tag_value) {
 				    //fwrite($mdfile, "tags-".$tagkey.": ".$tag_value."\n");
