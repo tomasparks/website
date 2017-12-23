@@ -72,6 +72,7 @@ function create_notes($data) {
 				    //}
 				fwrite($mdfile, "---\n");
 				fwrite($mdfile, $note['message']."\n");
+				//fwrite($mdfile,json_encode($book)."\n");
 			break;
 			
 			
