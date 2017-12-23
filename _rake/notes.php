@@ -15,7 +15,6 @@ function create_notes($data) {
     	$hash = hash ('sha1' , json_encode($note));
     	echo $hash."\n";
     	$date_split = date_parse($note['date']);
-    	print_r($date_split);
     	$isodate = sprintf("%04d-%02d-%02d", $date_split['year'], $date_split['month'], $date_split['day']);
     	$permdate = sprintf("%04d/%02d/%02d", $date_split['year'], $date_split['month'], $date_split['day']);
     	$mdfile = fopen($hash.".md", "w");
@@ -44,7 +43,6 @@ function create_notes($data) {
 				$purifier = new HTMLPurifier($config);
 				$cleanhtml = $purifier->purify($html);
 				$mf = Mf2\parse($cleanhtml, $note['url']);
-				print_r($mf);
 				fwrite($mdfile, "ext-url: ".$note['url']."\n");
 				fwrite($mdfile, "---\n");
 				//fwrite($mdfile, $note['message']."\n");
@@ -61,7 +59,6 @@ function create_notes($data) {
 					}
 					
 					$book = $data['book'];
-					print_r($book);
 					fwrite($mdfile, "book-title: \"".$book['title']."\"\n");
 					fwrite($mdfile, "book-image_url: \"".$book['image_url']."\"\n");
 					fwrite($mdfile, "book-url: \"".$book['url']."\"\n");					
@@ -90,8 +87,11 @@ function create_notes($data) {
 
 
 function csv_parse_file ( $file ) {
+echo "opening ".$file."....";
 if (($handle = fopen($file, "r")) !== FALSE) {
+echo "Done\n";
     while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
+    print_r($data);
  			 $res['type'] = $data['0'];
  			 $tmpdate = date_create_from_format('d/m/Y', $data['4']);
  			 $res['date'] = date_format($tmpdate, 'Y-m-d');
@@ -126,8 +126,6 @@ if (strpos($data['3'], 'http') !== false) { $res['url'] = $data['3'];
 		$res['urls'] = $url_array;
  		}
  			 $ret[] = $res;
- 			 print_r($data);
- 			 print_r($res);
     }
     }
 		fclose($handle);
