@@ -20,7 +20,6 @@ I use a PDA[^1:], when I away from my computers, the PDA has good database softw
 
 
 {% github_sample_ref /tomasparks/website/master/_rake/notes.php %}
-{% highlight php %}
 
 
 [^1] It's as psion 5mx Pro
