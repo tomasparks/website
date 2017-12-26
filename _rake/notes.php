@@ -36,7 +36,17 @@ function create_notes($data) {
 				fwrite($mdfile, "---\n");
 				fwrite($mdfile, $note['message']."\n");
 				break;
-				
+			case 'reply':
+				$html = file_get_contents($note['url']);
+				$config = HTMLPurifier_Config::createDefault();
+				$purifier = new HTMLPurifier($config);
+				$cleanhtml = $purifier->purify($html);
+				$mf = Mf2\parse($cleanhtml, $note['url']);
+				fwrite($mdfile, "ext-url: ".$note['url']."\n");
+				fwrite($mdfile, "---\n");
+				fwrite($mdfile, $note['message']."\n");
+				fwrite($mdfile,json_encode($mf)."\n");
+				break;
 			case "like":
 				$html = file_get_contents($note['url']);
 				$config = HTMLPurifier_Config::createDefault();

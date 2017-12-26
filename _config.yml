@@ -91,7 +91,7 @@ plugins:
  - 'jekyll-webmention_io' # setting in webmentions.yml
  - 'jekyll/scholar' # settings in scholar.yml
 # - 'jekyll/scholar/extras' # settings in scholar.yml
-
+ - jekyll_github_sample
 ## EOF BASE.YML
 
 ## JEKYLL DATADPAGE GEN.YML

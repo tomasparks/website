@@ -17,6 +17,7 @@ gem 'jekyll-responsive_image'
 gem 'jekyll-last-modified-at'
 gem 'rake'
 #gem 'html-proofer'
+gem 'jekyll_github_sample'
 
 #gem 'jekyll-pandoc-multiple-formats'
 #gem 'jekyll-pandoc-multiple-formats', github: 'tomasparks/jekyll-pandoc-multiple-formats'
