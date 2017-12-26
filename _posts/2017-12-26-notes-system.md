@@ -19,7 +19,9 @@ Unimplementated
 I use a PDA[^1:], when I away from my computers, the PDA has good database software witch can export [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) files
 
 
-{% github_sample_ref /tomasparks/website/master/_rake/notes.php %}
 
+{% highlight php %}
+{% github_sample /tomasparks/website/master/_rake/notes.php %}
+{% endhighlight %}
 
 [^1] It's as psion 5mx Pro
