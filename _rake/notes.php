@@ -93,6 +93,12 @@ function create_notes($data) {
 			case "read";
 					$goodreads_api = new GoodReads('qhNU8kMDrqS2Ryk8ExmyA', '/home/tom/github/blog/website/_rake/tmp/');
 					$urls = $note['urls'];
+					$tags = $note['tags'];
+					$page = $tags['page'];
+					if ($page =="finshed") {
+					status ="Finished"
+					} else {status ="Currently"}
+					
 					if (array_key_exists("asin",$urls)) {
 					$data = $goodreads_api->getBookByISBN($urls['asin']);
 					}
@@ -103,8 +109,10 @@ function create_notes($data) {
 					$book = $data['book'];
 					fwrite($mdfile, "book-title: \"".$book['title']."\"\n");
 					fwrite($mdfile, "book-image_url: \"".$book['small_image_url']."\"\n");
-					fwrite($mdfile, "book-url: \"".$book['url']."\"\n");					
-					
+					fwrite($mdfile, "book-url: \"".$book['url']."\"\n");	
+					fwrite($mdfile, "page: ".$page."\n");				
+					fwrite($mdfile, "status: ".$status."\n");				
+
 				    //foreach($note['tags'] as $tagkey => $tag_value) {
 				    //fwrite($mdfile, "tags-".$tagkey.": ".$tag_value."\n");
 				    //}
@@ -136,9 +144,7 @@ function csv_parse_file ( $file ) {
 	if (($handle = fopen($file, "r")) !== FALSE) {
 		echo "Done\n";
     	while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
-    		echo "DATA===============================================\n";
-    		print_r($data);
-    		echo "===============================================\n";
+    		fwrite($logfile,json_encode($data)."\n");
     		/*
     		0: type
     		1: url
@@ -164,7 +170,9 @@ function csv_parse_file ( $file ) {
 					$tags_array[$key_value [0]] = $key_value [1];
 				}
 			echo "tags_array===============================================\n";
+		
     		print_r($tags_array);
+    		fwrite($logfile,json_encode($tags_array)."\n");
     		echo "===============================================\n";
 			$res['tags'] = $tags_array;
 		}
@@ -254,7 +262,7 @@ function csv_parse_file ( $file ) {
 			echo "res===============================================\n";
     		print_r($res);
     		echo "===============================================\n";	
- 		
+ 		fwrite($logfile,json_encode($res)."\n");
  		$ret[] = $res;
  			 
 	}
