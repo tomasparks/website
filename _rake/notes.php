@@ -56,6 +56,7 @@ function create_notes($data) {
 				if (isset($url)) {
 					fwrite($mdfile, " - ".$url."\n");
 				}
+				fwrite($mdfile, "".json_encode($note)."\n");
 				
 		switch ($note['type']) {
 		
@@ -73,9 +74,9 @@ function create_notes($data) {
 				$cleanhtml = $purifier->purify($html);
 				$mf = Mf2\parse($cleanhtml, $note['url']);
 				fwrite($mdfile, "ext-url: ".$note['url']."\n");
+				fwrite($mdfile, "title: Replyed to a page @ ".$url."\n"); 				
 				fwrite($mdfile, "---\n");
 				fwrite($mdfile, $note['message']."\n");
-				fwrite($mdfile,json_encode($mf)."\n");
 				break;
 				
 			case "like":
@@ -85,6 +86,7 @@ function create_notes($data) {
 				$cleanhtml = $purifier->purify($html);
 				$mf = Mf2\parse($cleanhtml, $note['url']);
 				fwrite($mdfile, "ext-url: ".$note['url']."\n");
+				fwrite($mdfile, "title: Liked a page on ".$url."\n");  				
 				fwrite($mdfile, "---\n");
 				//fwrite($mdfile, $note['message']."\n");
 				break;	
@@ -111,7 +113,7 @@ function create_notes($data) {
 				    //foreach($note['urls'] as $urlkey => $url_value) {
 				    //fwrite($mdfile, "urls-".$urlkey.": ".$url_value."\n");
 				    //}
-				    
+				fwrite($mdfile, "title: Read ".$book['title']."\n");    
 				fwrite($mdfile, "---\n");
 				fwrite($mdfile, $note['message']."\n");
 				//fwrite($mdfile,json_encode($book)."\n");
