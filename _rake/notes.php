@@ -6,17 +6,29 @@ require_once './php-mf2/Mf2/Parser.php';
 require_once './htmlpurifier/library/HTMLPurifier.auto.php';
 require_once './goodreads-api/GoodReads.php';
 
-
+// void parse_str ( string $encoded_string [, array &$result ] )
 
 function create_notes($data) {
     foreach ($data as $note) {
     	print_r($note);
-    	echo "\n";
+    	//echo "\n";
     	$hash = hash ('sha1' , json_encode($note));
-    	echo $hash."\n";
+  //  	echo $hash."\n";
+    	
+    	if (isset($note['url'])) {
+    	$url = str_ireplace("www.","",parse_url($note['url'], PHP_URL_HOST));
+    	}
+    	
     	$date_split = date_parse($note['date']);
     	$isodate = sprintf("%04d-%02d-%02d", $date_split['year'], $date_split['month'], $date_split['day']);
     	$permdate = sprintf("%04d/%02d/%02d", $date_split['year'], $date_split['month'], $date_split['day']);
+    	
+    	$months = array (1=>'January',2=>'February',3=>'March',
+    	4=>'April',5=>'May',6=>'June',7=>'July',8=>'August',
+    	9=>'September',10=>'October',11=>'November',12=>'December');
+    	
+    	
+    	
     	$mdfile = fopen($hash.".md", "w");
     	
     	
@@ -25,8 +37,25 @@ function create_notes($data) {
 				fwrite($mdfile, "date: ".$isodate."\n");	
 				fwrite($mdfile, "type: ".$note['type']."\n");
 				//fwrite($mdfile, "date: ".$isodate."\n");
-			
-				fwrite($mdfile, "permalink: /notes/".$note['type']."/".$permdate."/".$hash.".html\n");
+				
+			if (isset($url)) {
+				fwrite($mdfile, "permalink: /notes/".$permdate."/".$url."/".$note['type']."/".$hash.".html\n");
+				} else {
+				fwrite($mdfile, "permalink: /notes/".$permdate."/".$note['type']."/".$hash.".html\n");
+				}				
+				
+				fwrite($mdfile, "categories: \n");
+				fwrite($mdfile, " - ".$note['type']."\n");
+				
+				// dates
+				fwrite($mdfile, " - ".$date_split['year']."\n");
+				fwrite($mdfile, " - ".$months[(int)$date_split['month']]."\n");
+				fwrite($mdfile, " - ".$date_split['day']."\n");				
+				
+				// url
+				if (isset($url)) {
+					fwrite($mdfile, " - ".$url."\n");
+				}
 				
 		switch ($note['type']) {
 		
@@ -36,6 +65,7 @@ function create_notes($data) {
 				fwrite($mdfile, "---\n");
 				fwrite($mdfile, $note['message']."\n");
 				break;
+				
 			case 'reply':
 				$html = file_get_contents($note['url']);
 				$config = HTMLPurifier_Config::createDefault();
@@ -47,6 +77,7 @@ function create_notes($data) {
 				fwrite($mdfile, $note['message']."\n");
 				fwrite($mdfile,json_encode($mf)."\n");
 				break;
+				
 			case "like":
 				$html = file_get_contents($note['url']);
 				$config = HTMLPurifier_Config::createDefault();
@@ -60,12 +91,12 @@ function create_notes($data) {
 				
 			case "read";
 					$goodreads_api = new GoodReads('qhNU8kMDrqS2Ryk8ExmyA', '/home/tom/github/blog/website/_rake/tmp/');
-					$tags = $note['tags'];
-					if (array_key_exists("asin",$tags)) {
-					$data = $goodreads_api->getBookByISBN($tags['asin']);
+					$urls = $note['urls'];
+					if (array_key_exists("asin",$urls)) {
+					$data = $goodreads_api->getBookByISBN($urls['asin']);
 					}
-					if (array_key_exists("ASIN",$tags)) {
-					$data = $goodreads_api->getBookByISBN($tags['ASIN']);
+					if (array_key_exists("ASIN",$urls)) {
+					$data = $goodreads_api->getBookByISBN($urls['ASIN']);
 					}
 					
 					$book = $data['book'];
@@ -80,6 +111,7 @@ function create_notes($data) {
 				    //foreach($note['urls'] as $urlkey => $url_value) {
 				    //fwrite($mdfile, "urls-".$urlkey.": ".$url_value."\n");
 				    //}
+				    
 				fwrite($mdfile, "---\n");
 				fwrite($mdfile, $note['message']."\n");
 				//fwrite($mdfile,json_encode($book)."\n");
@@ -96,49 +128,138 @@ function create_notes($data) {
     }
 }
 
-
+// ================================
 function csv_parse_file ( $file ) {
-echo "opening ".$file."....";
-if (($handle = fopen($file, "r")) !== FALSE) {
-echo "Done\n";
-    while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
-    print_r($data);
- 			 $res['type'] = $data['0'];
- 			 $tmpdate = date_create_from_format('d/m/Y', $data['4']);
- 			 $res['date'] = date_format($tmpdate, 'Y-m-d');
- 			 $res['message'] = $data['2'];
-// 			 $res['tag'] = $data['1'];
- 			 
- //			 $my_string = "key0:value0,key1:value1,key2:value2";
+ 
+	echo "opening ".$file."....";
+	if (($handle = fopen($file, "r")) !== FALSE) {
+		echo "Done\n";
+    	while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
+    		echo "DATA===============================================\n";
+    		print_r($data);
+    		echo "===============================================\n";
+    		/*
+    		0: type
+    		1: url
+    		2: messages
+    		3: tags
+    		4: date 
+    		*/
+    		unset($res);
+ 			$res['type'] = $data['0'];
+ 			$tmpdate = date_create_from_format('d/m/Y', $data['4']);
+ 			$res['date'] = date_format($tmpdate, 'Y-m-d');
+ 			$res['message'] = $data['2'];
 
 
-// tags
-$oldtags_array = explode(',', $data['1']);
-$tags_array = "";
-
-for($i=0; $i < count($oldtags_array ); $i++){
-    $key_value = explode(':', $oldtags_array [$i]);
-   $tags_array[$key_value [0]] = $key_value [1];
-}
-$res['tags'] = $tags_array;
-
-
-// url tags
-if (strpos($data['3'], 'http') !== false) { $res['url'] = $data['3'];
- 	} else {
- 	
-		$oldurl_array = explode(',', $data['3']);
-		$url_array = "";
-
-		for($i=0; $i < count($oldurl_array ); $i++){
-    			$key_value = explode(':', $oldurl_array [$i]);
-    			$url_array[$key_value [0]] = $key_value [1];
+			// tags ===============================================
+			    unset($tags_array);
+			if (!strlen($data['3']) == 0 && !is_null($data['3'])) {
+				$oldtags_array = explode(',', $data['3']);
+				$tags_array = "";
+	
+				for($i=0; $i < count($oldtags_array ); $i++){
+					$key_value = explode(':', $oldtags_array [$i]);
+					$tags_array[$key_value [0]] = $key_value [1];
+				}
+			echo "tags_array===============================================\n";
+    		print_r($tags_array);
+    		echo "===============================================\n";
+			$res['tags'] = $tags_array;
 		}
-		$res['urls'] = $url_array;
+		// ======================================================	
+		
+		// url tags	===========================================
+		unset($url_array);
+		
+		if (!strlen($data['1']) == 0 && !is_null($data['1'])) {
+		    print_r($data['1']);
+		    echo "\n";
+			switch (true) {
+			
+				case stristr($data['1'], 'http'):
+				echo "found http\n";
+					$res['url'] = $data['1'];			
+					echo "url===============================================\n";
+    				print_r($res['url']);
+    				echo "===============================================\n";
+					break;
+					
+				case parse_url($data['1'], PHP_URL_QUERY);
+					echo "found query\n";
+					print_r(parse_url($url, PHP_URL_QUERY));
+					break;
+							
+				case stristr($data['1'], 'ASIN'):
+					echo "found asin\n";	
+				    $key_value = explode(':', $data['1']);
+				    $url_array[$key_value [0]] = $key_value [1];
+				    $res['urls'] = $url_array;
+					echo "url===============================================\n";
+    				print_r($res['urls']);
+    				echo "===============================================\n";
+					break;
+					
+				case stristr($data['1'], 'ISBN'):
+					echo "found isbn\n";	
+				    $key_value = explode(':', $data['1']);
+				    $url_array[$key_value [0]] = $key_value [1];
+				    $res['urls'] = $url_array;
+					echo "url===============================================\n";
+    				print_r($res['urls']);
+    				echo "===============================================\n";
+					break;
+						
+				case stristr($data['1'], 'IMDB'):
+					echo "found IMDB\n";	
+				    $key_value = explode(':', $data['1']);
+				    $url_array[$key_value [0]] = $key_value [1];
+				    $res['urls'] = $url_array;
+					echo "url===============================================\n";
+    				print_r($res['urls']);
+    				echo "===============================================\n";
+					break;
+					
+				case stristr($data['1'], 'TVDB'):
+					echo "found TVDB\n";	
+				    $key_value = explode(':', $data['1']);
+				    $url_array[$key_value [0]] = $key_value [1];
+				    $res['urls'] = $url_array;
+					echo "url===============================================\n";
+    				print_r($res['urls']);
+    				echo "===============================================\n";
+					break;
+							
+/*										
+				case strstr($data['1'], ','):
+					$oldurl_array = explode(',', $data['1']);
+					$url_array = "";
+					for($i=0; $i < count($oldurl_array ); $i++){
+    					$key_value = explode(':', $oldurl_array [$i]);
+    					$url_array[$key_value [0]] = $key_value [1];
+
+					}
+	 				$res['urls'] = $url_array;
+	 				echo "url_array===============================================\n";
+    				print_r($res['urls']);
+    				echo "===============================================\n";
+    				$url_array="";; 
+			    	break;
+			    	*/
+ 			}
+ 			
  		}
- 			 $ret[] = $res;
-    }
-    }
+ 		// ===========================================
+			echo "res===============================================\n";
+    		print_r($res);
+    		echo "===============================================\n";	
+ 		
+ 		$ret[] = $res;
+ 			 
+	}
+}
+
+
 		fclose($handle);
 		return $ret;
 }
