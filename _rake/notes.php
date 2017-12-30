@@ -276,11 +276,13 @@ $notes_dir = scandir($notes_path);
 
 fwrite($logfile,json_encode($notes_dir)."\n");
 foreach ($notes_dir as $dir) {
+	fwrite($logfile,$dir."\n");
 	if ($dir === "." or $dir === ".." ) {continue;}
 	chdir($notes_path."/".$dir);  
 	$year_dir = scandir($notes_path."/".$dir);
 	fwrite($logfile,json_encode($year_dir)."\n");
 	foreach ($year_dir as $ydir) {
+		fwrite($logfile,$ydir."\n");
 		if ($ydir === "." or $ydir === "..") {continue;}
 		chdir($notes_path."/".$dir."/".$ydir);  
 		echo getcwd()."\n";
@@ -291,15 +293,18 @@ foreach ($notes_dir as $dir) {
 			if ($file === "." or $file === "..") {continue;}
 			switch(true) {
 					case strstr($file, "md"):
-    					echo "skipping md file\n";
+    					echo $file." skipping md file\n";
+    					fwrite($logfile,$file." skipping md file\n");
     					continue 2;
 					case strstr($file, "yml"):
-    					echo "yml file\n";
+    					echo $file."yml file\n";
+    					fwrite($logfile,$file." yml file :) \n");
     					$data = yaml_parse_file ( $file );
     					create_notes($data);
     					break;
 					case strstr($file, "csv"):
-    					echo "CSV file\n";
+    					echo $file." CSV file\n";
+    					fwrite($logfile,$file." csv file :) \n");
     					$data = csv_parse_file ( $file );
     					create_notes($data);
 						break;
