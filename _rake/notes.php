@@ -95,9 +95,8 @@ function create_notes($data) {
 					$urls = $note['urls'];
 					$tags = $note['tags'];
 					$page = $tags['page'];
-					if ($page =="finshed") {
-					status ="Finished"
-					} else {status ="Currently"}
+					
+					if ($page =="finshed") {$status ="Finished";} else {$status ="Currently";}
 					
 					if (array_key_exists("asin",$urls)) {
 					$data = $goodreads_api->getBookByISBN($urls['asin']);
