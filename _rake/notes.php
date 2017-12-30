@@ -56,7 +56,6 @@ function create_notes($data) {
 				if (isset($url)) {
 					fwrite($mdfile, " - ".$url."\n");
 				}
-				fwrite($mdfile, "json: '".json_encode($note)."'\n");
 				
 		switch ($note['type']) {
 		
