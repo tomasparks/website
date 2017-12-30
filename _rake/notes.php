@@ -271,18 +271,21 @@ $path = getcwd();
 $notes_path = str_replace("_rake","_notes",$path);
 chdir($notes_path);
 
+$logfile = fopen("log.log", "w");
 $notes_dir = scandir($notes_path);
 
+fwrite($logfile,json_encode($notes_dir)."\n");
 foreach ($notes_dir as $dir) {
 	if ($dir === "." or $dir === ".." ) {continue;}
 	chdir($notes_path."/".$dir);  
 	$year_dir = scandir($notes_path."/".$dir);
-	
+	fwrite($logfile,json_encode($year_dir)."\n");
 	foreach ($year_dir as $ydir) {
 		if ($ydir === "." or $ydir === "..") {continue;}
 		chdir($notes_path."/".$dir."/".$ydir);  
 		echo getcwd()."\n";
 		$filelist = scandir($notes_path."/".$dir."/".$ydir);
+			fwrite($logfile,json_encode($filelist)."\n");
 			
 		foreach ($filelist as $file) {
 			if ($file === "." or $file === "..") {continue;}
@@ -304,4 +307,5 @@ foreach ($notes_dir as $dir) {
 			}
 	}
 }
+    	fclose($logfile);
 ?>
