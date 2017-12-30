@@ -39,9 +39,9 @@ function create_notes($data) {
 				//fwrite($mdfile, "date: ".$isodate."\n");
 				
 			if (isset($url)) {
-				fwrite($mdfile, "permalink: /notes/".$permdate."/".$url."/".$note['type']."/".$hash.".html\n");
+				fwrite($mdfile, "permalink: /notes/".$url."/".$note['type']."/".$permdate."/".$hash.".html\n");
 				} else {
-				fwrite($mdfile, "permalink: /notes/".$permdate."/".$note['type']."/".$hash.".html\n");
+				fwrite($mdfile, "permalink: /notes/".$note['type']."/".$permdate."/".$hash.".html\n");
 				}				
 				
 				fwrite($mdfile, "categories: \n");
