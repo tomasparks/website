@@ -9,13 +9,24 @@ require_once './goodreads-api/GoodReads.php';
 
 function create_notes($data,$logfile) {
     foreach ($data as $note) {
-    	print_r($note);
-    	fwrite($logfile, json_encode($note)."\n");    
-    	//echo "\n";
-    	$hash = hash ('sha1' , json_encode($note));
-    	fwrite($logfile, $hash."\n");
-  //  	echo $hash."\n";
+    	//print_r($note);
     	
+    	if (isset($note['tags']) && !is_array($note['tags'])) {
+    	$temp  = urldecode ( $note['tags'] );
+    	parse_str($temp, $tag_array);
+    	$note['tags'] = $tag_array;
+//fwrite($logfile,$temp."\n");
+
+    	}
+  		//$note['tags'] = tags($note['$tags'],$logfile);
+  		
+    	//echo "\n";
+    	$hash = hash ('sha1' ,json_encode($note));
+    	//fwrite($logfile, $hash."\n");
+  //  	echo $hash."\n";
+    	fwrite($logfile, "\n--------------------\nhash: ".$hash."\njson_encode: ".json_encode($note)."\n--------------------\n");  
+    	    	
+    	    	
     	if (isset($note['url'])) {
     	$url = str_ireplace("www.","",parse_url($note['url'], PHP_URL_HOST));
     	}
@@ -59,7 +70,16 @@ function create_notes($data,$logfile) {
 				}
 				
 		switch ($note['type']) {
-		
+			case "scrobble":
+				fwrite($mdfile, " - ".$tag_array['title']."\n");
+				fwrite($mdfile, " - ".$tag_array['artist']."\n");
+				fwrite($mdfile, " - ".$tag_array['album']."\n");
+				fwrite($mdfile, "music-title: ".$tag_array['title']."\n");
+				fwrite($mdfile, "music-artist: ".$tag_array['artist']."\n");
+				fwrite($mdfile, "music-album: ".$tag_array['album']."\n");
+				fwrite($mdfile, "---\n");
+				break;
+				
 			case "twitter":
 
 				//fwrite($mdfile, "ext-url: ".$note['url']."\n");
@@ -130,7 +150,9 @@ function create_notes($data,$logfile) {
 			
 			default:
 				fwrite($mdfile, "---\n");
+				if (array_key_exists("message",$note)) {
 				fwrite($mdfile, $note['message']."\n");
+				}
 				break;
 			}
 			
@@ -141,9 +163,9 @@ function create_notes($data,$logfile) {
 // ================================
 function csv_parse_file ( $file,$logfile ) {
  
-	echo "opening ".$file."....";
+	//echo "opening ".$file."....";
 	if (($handle = fopen($file, "r")) !== FALSE) {
-		echo "Done\n";
+		//echo "Done\n";
     	while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
     		fwrite($logfile,json_encode($data)."\n");
     		/*
@@ -158,23 +180,31 @@ function csv_parse_file ( $file,$logfile ) {
  			$tmpdate = date_create_from_format('d/m/Y', $data['4']);
  			$res['date'] = date_format($tmpdate, 'Y-m-d');
  			$res['message'] = $data['2'];
-
+			$res['source']="csv";
 
 			// tags ===============================================
 			    unset($tags_array);
+			  //$data['3']  = urldecode ( $data['3'] );
 			if (!strlen($data['3']) == 0 && !is_null($data['3'])) {
+				
+				
+				//parse_str($data['3'], $tags_array);
+				
+				
 				$oldtags_array = explode(',', $data['3']);
 				$tags_array = "";
 	
 				for($i=0; $i < count($oldtags_array ); $i++){
 					$key_value = explode(':', $oldtags_array [$i]);
 					$tags_array[$key_value [0]] = $key_value [1];
+				
 				}
-			echo "tags_array===============================================\n";
 		
-    		print_r($tags_array);
+			//echo "tags_array===============================================\n";
+		
+    		//print_r($tags_array);
     		fwrite($logfile,json_encode($tags_array)."\n");
-    		echo "===============================================\n";
+    		//echo "===============================================\n";
 			$res['tags'] = $tags_array;
 		}
 		// ======================================================	
@@ -183,61 +213,61 @@ function csv_parse_file ( $file,$logfile ) {
 		unset($url_array);
 		
 		if (!strlen($data['1']) == 0 && !is_null($data['1'])) {
-		    print_r($data['1']);
-		    echo "\n";
+		    //print_r($data['1']);
+		    //echo "\n";
 			switch (true) {
 			
 				case stristr($data['1'], 'http'):
-				echo "found http\n";
+				//echo "found http\n";
 					$res['url'] = $data['1'];			
-					echo "url===============================================\n";
-    				print_r($res['url']);
-    				echo "===============================================\n";
+					//echo "url===============================================\n";
+    				//print_r($res['url']);
+    				//echo "===============================================\n";
 					break;
 					
 				case parse_url($data['1'], PHP_URL_QUERY);
-					echo "found query\n";
-					print_r(parse_url($url, PHP_URL_QUERY));
+					//echo "found query\n";
+					//print_r(parse_url($url, PHP_URL_QUERY));
 					break;
 							
 				case stristr($data['1'], 'ASIN'):
-					echo "found asin\n";	
+					//echo "found asin\n";	
 				    $key_value = explode(':', $data['1']);
 				    $url_array[$key_value [0]] = $key_value [1];
 				    $res['urls'] = $url_array;
-					echo "url===============================================\n";
-    				print_r($res['urls']);
-    				echo "===============================================\n";
+					//echo "url===============================================\n";
+    				//print_r($res['urls']);
+    				//echo "===============================================\n";
 					break;
 					
 				case stristr($data['1'], 'ISBN'):
-					echo "found isbn\n";	
+					//echo "found isbn\n";	
 				    $key_value = explode(':', $data['1']);
 				    $url_array[$key_value [0]] = $key_value [1];
 				    $res['urls'] = $url_array;
-					echo "url===============================================\n";
-    				print_r($res['urls']);
-    				echo "===============================================\n";
+					//echo "url===============================================\n";
+    				//print_r($res['urls']);
+    				//echo "===============================================\n";
 					break;
 						
 				case stristr($data['1'], 'IMDB'):
-					echo "found IMDB\n";	
+					//echo "found IMDB\n";	
 				    $key_value = explode(':', $data['1']);
 				    $url_array[$key_value [0]] = $key_value [1];
 				    $res['urls'] = $url_array;
-					echo "url===============================================\n";
-    				print_r($res['urls']);
-    				echo "===============================================\n";
+					//echo "url===============================================\n";
+    				//print_r($res['urls']);
+    				//echo "===============================================\n";
 					break;
 					
 				case stristr($data['1'], 'TVDB'):
-					echo "found TVDB\n";	
+					//echo "found TVDB\n";	
 				    $key_value = explode(':', $data['1']);
 				    $url_array[$key_value [0]] = $key_value [1];
 				    $res['urls'] = $url_array;
-					echo "url===============================================\n";
-    				print_r($res['urls']);
-    				echo "===============================================\n";
+					//echo "url===============================================\n";
+    				//print_r($res['urls']);
+    				//echo "===============================================\n";
 					break;
 							
 /*										
@@ -260,9 +290,9 @@ function csv_parse_file ( $file,$logfile ) {
  			
  		}
  		// ===========================================
-			echo "res===============================================\n";
-    		print_r($res);
-    		echo "===============================================\n";	
+			//echo "res===============================================\n";
+    		//print_r($res);
+    		//echo "===============================================\n";	
  		fwrite($logfile,json_encode($res)."\n");
  		$ret[] = $res;
  			 
@@ -275,13 +305,24 @@ function csv_parse_file ( $file,$logfile ) {
 }
 
 
+function tags($tags,$logfile) {
+$temp  = urldecode ( $tags );
+parse_str($temp, $output);
+fwrite($logfile,json_encode($output)."\n");
+
+return $output; 
+
+}
+
 $path = getcwd();
+
+$logfile = fopen("log.log", "w");
+global $logfile;
 
 $notes_path = str_replace("_rake","_notes",$path);
 chdir($notes_path);
 
-$logfile = fopen("log.log", "w");
-global $logfile;
+
 $notes_dir = scandir($notes_path);
 
 fwrite($logfile,json_encode($notes_dir)."\n");
@@ -302,19 +343,23 @@ foreach ($notes_dir as $dir) {
 		foreach ($filelist as $file) {
 			if ($file === "." or $file === "..") {continue;}
 			switch(true) {
+					case strstr($file, "log"):
+    					//echo $file." skipping log file\n";
+    					fwrite($logfile,$file." skipping log file\n");
+    					continue 2;
 					case strstr($file, "md"):
-    					echo $file." skipping md file\n";
+    					//echo $file." skipping md file\n";
     					fwrite($logfile,$file." skipping md file\n");
     					continue 2;
 					case strstr($file, "yml"):
-    					echo $file."yml file\n";
+    					//echo $file."yml file\n";
     					fwrite($logfile,$file." yml file :) \n");
     					$data = yaml_parse_file ( $file );
-					
+						//fwrite($logfile,"\n-------------------\n".json_encode($data)."\n-------------------\n");
     					create_notes($data, $logfile);
     					break;
 					case strstr($file, "csv"):
-    					echo $file." CSV file\n";
+    					//echo $file." CSV file\n";
     					fwrite($logfile,$file." csv file :) \n");
     					$data = csv_parse_file ( $file, $logfile );
 
