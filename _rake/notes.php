@@ -6,13 +6,14 @@ require_once './php-mf2/Mf2/Parser.php';
 require_once './htmlpurifier/library/HTMLPurifier.auto.php';
 require_once './goodreads-api/GoodReads.php';
 
-// void parse_str ( string $encoded_string [, array &$result ] )
 
-function create_notes($data) {
+function create_notes($data,$logfile) {
     foreach ($data as $note) {
     	print_r($note);
+    	fwrite($logfile, json_encode($note)."\n");    
     	//echo "\n";
     	$hash = hash ('sha1' , json_encode($note));
+    	fwrite($logfile, $hash."\n");
   //  	echo $hash."\n";
     	
     	if (isset($note['url'])) {
@@ -106,6 +107,7 @@ function create_notes($data) {
 					}
 					
 					$book = $data['book'];
+					fwrite($logfile,json_encode($book)."\n");
 					fwrite($mdfile, "book-title: \"".$book['title']."\"\n");
 					fwrite($mdfile, "book-image_url: \"".$book['small_image_url']."\"\n");
 					fwrite($mdfile, "book-url: \"".$book['url']."\"\n");	
@@ -137,7 +139,7 @@ function create_notes($data) {
 }
 
 // ================================
-function csv_parse_file ( $file ) {
+function csv_parse_file ( $file,$logfile ) {
  
 	echo "opening ".$file."....";
 	if (($handle = fopen($file, "r")) !== FALSE) {
@@ -279,6 +281,7 @@ $notes_path = str_replace("_rake","_notes",$path);
 chdir($notes_path);
 
 $logfile = fopen("log.log", "w");
+global $logfile;
 $notes_dir = scandir($notes_path);
 
 fwrite($logfile,json_encode($notes_dir)."\n");
@@ -307,13 +310,15 @@ foreach ($notes_dir as $dir) {
     					echo $file."yml file\n";
     					fwrite($logfile,$file." yml file :) \n");
     					$data = yaml_parse_file ( $file );
-    					create_notes($data);
+					
+    					create_notes($data, $logfile);
     					break;
 					case strstr($file, "csv"):
     					echo $file." CSV file\n";
     					fwrite($logfile,$file." csv file :) \n");
-    					$data = csv_parse_file ( $file );
-    					create_notes($data);
+    					$data = csv_parse_file ( $file, $logfile );
+
+    					create_notes($data, $logfile);
 						break;
 					}
 			}
