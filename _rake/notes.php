@@ -50,12 +50,7 @@ function create_notes($data,$logfile) {
 				fwrite($mdfile, "date: ".$isodate."\n");	
 				fwrite($mdfile, "type: ".$note['type']."\n");
 				//fwrite($mdfile, "date: ".$isodate."\n");
-				
-			if (isset($url)) {
-				fwrite($mdfile, "permalink: /notes/".$url."/".$note['type']."/".$permdate."/".$hash.".html\n");
-				} else {
-				fwrite($mdfile, "permalink: /notes/".$note['type']."/".$permdate."/".$hash.".html\n");
-				}				
+							
 				
 				fwrite($mdfile, "categories: \n");
 				fwrite($mdfile, " - ".$note['type']."\n");
@@ -78,17 +73,19 @@ function create_notes($data,$logfile) {
 				fwrite($mdfile, "music-title: ".$tag_array['title']."\n");
 				fwrite($mdfile, "music-artist: ".$tag_array['artist']."\n");
 				fwrite($mdfile, "music-album: ".$tag_array['album']."\n");
+				fwrite($mdfile, "permalink: /notes/".$note['type']."/".urlencode($tag_array['artist'])."/".urlencode($tag_array['album'])."/".$hash.".html\n");
 				fwrite($mdfile, "---\n");
 				break;
 				
 			case "twitter":
-
+				fwrite($mdfile, "permalink: /notes/".$url."/".$note['type']."/".$permdate."/".$hash.".html\n");
 				//fwrite($mdfile, "ext-url: ".$note['url']."\n");
 				fwrite($mdfile, "---\n");
 				fwrite($mdfile, $note['message']."\n");
 				break;
 				
 			case 'reply':
+				fwrite($mdfile, "permalink: /notes/".$url."/".$note['type']."/".$permdate."/".$hash.".html\n");
 				$html = file_get_contents($note['url']);
 				$config = HTMLPurifier_Config::createDefault();
 				$purifier = new HTMLPurifier($config);
@@ -101,6 +98,7 @@ function create_notes($data,$logfile) {
 				break;
 				
 			case "like":
+				fwrite($mdfile, "permalink: /notes/".$url."/".$note['type']."/".$permdate."/".$hash.".html\n");
 				$html = file_get_contents($note['url']);
 				$config = HTMLPurifier_Config::createDefault();
 				$purifier = new HTMLPurifier($config);
@@ -113,6 +111,7 @@ function create_notes($data,$logfile) {
 				break;	
 				
 			case "read";
+			fwrite($mdfile, "permalink: /notes/".$note['type']."/".$permdate."/".$hash.".html\n");
 					$goodreads_api = new GoodReads('qhNU8kMDrqS2Ryk8ExmyA', '/home/tom/github/blog/website/_rake/tmp/');
 					$urls = $note['urls'];
 					$tags = $note['tags'];
