@@ -54,9 +54,7 @@ function create_notes($data,$logfile) {
 				//fwrite($mdfile, "date: ".$isodate."\n");
 				    	unset($categories_array);			
 				$categories_array[] = $note['type'];
-				$categories_array[] = $date_split['year'];
 				$categories_array[] = $months[(int)$date_split['month']];
-				$categories_array[] = $date_split['day'];
 				
 				//fwrite($mdfile, "categories: \n");
 				//fwrite($mdfile, " - ".$note['type']."\n");
