@@ -11,9 +11,9 @@ I am curently writing a custom indieweb [note](https://indieweb.org/note) system
 
 I use a text editor to add entries to [YAML](https://en.wikipedia.org/wiki/YAML) file
 
-{% github_sample_ref /tomasparks/website/master/_notes/local/2017/10.yml 0 4 %}
+{% github_sample_ref /tomasparks/website/07641044ff952012604941d9fb8f759365ba6280/_notes/local/2017/10.yml 0 4 %}
 {% highlight yaml %}
-{% github_sample /tomasparks/website/master/_notes/local/2017/10.yml 0 4 %}
+{% github_sample /tomasparks/website/07641044ff952012604941d9fb8f759365ba6280/_notes/local/2017/10.yml 0 4 %}
 {% endhighlight %}
 
 ### web Browser / mircopub ###
@@ -24,9 +24,9 @@ Unimplementated because I have not found a browser plugin/addon that support my 
 
 I use a PDA[^1], when I away from my computers, the PDA has good database software witch can export [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) files
 
-{% github_sample_ref /tomasparks/website/master/_notes/pda/2017/12.csv  0 4 %}
+{% github_sample_ref /tomasparks/website/07641044ff952012604941d9fb8f759365ba6280/_notes/pda/2017/12.csv  0 4 %}
 {% highlight csv %}
-{% github_sample /tomasparks/website/master/_notes/pda/2017/12.csv 0 4 %}
+{% github_sample /tomasparks/website/07641044ff952012604941d9fb8f759365ba6280/_notes/pda/2017/12.csv 0 4 %}
 {% endhighlight %}
 
 ### data format ###
@@ -52,9 +52,9 @@ NOTE: data fomrat MUST be human editable
  
 ### Source Code ###
 
-{% github_sample_ref /tomasparks/website/master/_rake/notes.php %}
+{% github_sample_ref /tomasparks/website/07641044ff952012604941d9fb8f759365ba6280/_rake/notes.php %}
 {% highlight php %}
-{% github_sample /tomasparks/website/master/_rake/notes.php %}
+{% github_sample /tomasparks/website/07641044ff952012604941d9fb8f759365ba6280/_rake/notes.php %}
 {% endhighlight %}
 
 [^1]: It's as psion 5mx Pro
