@@ -98,7 +98,7 @@ function create_notes($data,$logfile) {
 				
 // #####################################################################################################################################
 			case 'reply':
-				$md_array['permalink'] ="/notes/".$url."/".$note['type']."/".$permdate."/".$hash.".html";
+				$md_array['permalink'] ="/notes/".$note['type']."/".$url."/".$permdate."/".$hash.".html";
 				$html = file_get_contents($note['url']);
 				$config = HTMLPurifier_Config::createDefault();
 				$purifier = new HTMLPurifier($config);
@@ -110,7 +110,7 @@ function create_notes($data,$logfile) {
 // #####################################################################################################################################
 				
 			case "like":
-				$md_array['permalink'] ="/notes/".$url."/".$note['type']."/".$permdate."/".$hash.".html";
+				$md_array['permalink'] ="/notes/".$note['type']."/".$url."/".$permdate."/".$hash.".html";
 				$html = file_get_contents($note['url']);
 				$config = HTMLPurifier_Config::createDefault();
 				$purifier = new HTMLPurifier($config);
