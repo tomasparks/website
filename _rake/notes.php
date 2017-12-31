@@ -73,6 +73,7 @@ function create_notes($data,$logfile) {
 				fwrite($mdfile, "music-title: ".$tag_array['title']."\n");
 				fwrite($mdfile, "music-artist: ".$tag_array['artist']."\n");
 				fwrite($mdfile, "music-album: ".$tag_array['album']."\n");
+				fwrite($mdfile, "music-play-count: ".$tag_array['play-count']."\n");
 				fwrite($mdfile, "permalink: /notes/".$note['type']."/".urlencode($tag_array['artist'])."/".urlencode($tag_array['album'])."/".$hash.".html\n");
 				fwrite($mdfile, "---\n");
 				break;
