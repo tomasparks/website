@@ -1,6 +1,6 @@
 ---
 layout: notes_read
-date: "2017-12-15"
+date: "2017-12-15T00:00:00+11:00"
 type: read
 permalink: /notes/read/2017/12/15/5b9dbffb2c321ee4de8797e064a4dfbef004fccd.html
 book-title: 'Minitel: Welcome to the Internet (Platform Studies)'
@@ -10,8 +10,6 @@ page: " 213"
 status: Currently
 categories:
 - read
-- 2017
 - December
-- 15
 ---
 

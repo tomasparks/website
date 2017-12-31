@@ -33,7 +33,7 @@ function create_notes($data,$logfile) {
     	}
     	
     	$date_split = date_parse($note['date']);
-    	$isodate = sprintf("%04d-%02d-%02d", $date_split['year'], $date_split['month'], $date_split['day']);
+    	$isodate = date("c", strtotime($note['date']));
     	$permdate = sprintf("%04d/%02d/%02d", $date_split['year'], $date_split['month'], $date_split['day']);
     	
     	$months = array (1=>'January',2=>'February',3=>'March',
