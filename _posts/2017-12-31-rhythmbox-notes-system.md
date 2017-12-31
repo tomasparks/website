@@ -9,9 +9,9 @@ I've just written [Rhythmbox](https://en.wikipedia.org/wiki/Rhythmbox) scrobblin
 
 the php script takes rhythmdb.xml located at /home/tom/.local/share/rhythmbox/ and creates a yml file
 
-{% github_sample_ref /tomasparks/website/master/_notes/local/2017/r12.yml 0 4 %}
+{% github_sample_ref /tomasparks/website/98c350c7f0f100a08637c89f0475b01b8d4c5b3d/_notes/local/2017/r12.yml 0 4 %}
 {% highlight yaml %}
-{% github_sample /tomasparks/website/master/_rake/_notes/local/2017/r12.yml 0 4 %}
+{% github_sample /tomasparks/website/98c350c7f0f100a08637c89f0475b01b8d4c5b3d/_notes/local/2017/r12.yml 0 4 %}
 {% endhighlight %}
 
 ### Source Code ###
@@ -23,8 +23,8 @@ the php script takes rhythmdb.xml located at /home/tom/.local/share/rhythmbox/ a
 
 i've updated and cleaned notes.php
 
-{% github_sample_ref /tomasparks/website/master/_rake/notes.php %}
+{% github_sample_ref /tomasparks/website/98c350c7f0f100a08637c89f0475b01b8d4c5b3d/_rake/notes.php %}
 {% highlight php %}
-{% github_sample /tomasparks/website/master/_rake/notes.php %}
+{% github_sample /tomasparks/website/98c350c7f0f100a08637c89f0475b01b8d4c5b3d/_rake/notes.php %}
 {% endhighlight %}
 
