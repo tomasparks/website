@@ -78,7 +78,7 @@ function create_notes($data,$logfile) {
 				break;
 				
 			case "twitter":
-				fwrite($mdfile, "permalink: /notes/".$url."/".$note['type']."/".$permdate."/".$hash.".html\n");
+				fwrite($mdfile, "permalink: /notes/".$note['type']."/".$permdate."/".$hash.".html\n");
 				//fwrite($mdfile, "ext-url: ".$note['url']."\n");
 				fwrite($mdfile, "---\n");
 				fwrite($mdfile, $note['message']."\n");
