@@ -5,6 +5,7 @@
 require_once './php-mf2/Mf2/Parser.php';
 require_once './htmlpurifier/library/HTMLPurifier.auto.php';
 require_once './goodreads-api/GoodReads.php';
+date_default_timezone_set('	Australia/Brisbane');
 
 
 function create_notes($data,$logfile) {
