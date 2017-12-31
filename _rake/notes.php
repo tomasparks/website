@@ -40,6 +40,7 @@ function create_notes($data,$logfile) {
     	4=>'April',5=>'May',6=>'June',7=>'July',8=>'August',
     	9=>'September',10=>'October',11=>'November',12=>'December');
     	unset($md_array);
+    	
     	$md_array['layout'] = "notes_".$note['type'];
     	$md_array['date'] = $isodate;
     	$md_array['type'] = $note['type'];
@@ -55,7 +56,8 @@ function create_notes($data,$logfile) {
 				    	unset($categories_array);			
 				$categories_array[] = $note['type'];
 				$categories_array[] = $months[(int)$date_split['month']];
-				
+				$categories_array[] = $date_split['year'];
+				$categories_array[] = $date_split['day'];
 				//fwrite($mdfile, "categories: \n");
 				//fwrite($mdfile, " - ".$note['type']."\n");
 				
@@ -71,6 +73,9 @@ function create_notes($data,$logfile) {
 				}
 				
 		switch ($note['type']) {
+// -------------------------------------------------------------------------------------------------------------------------------------
+		
+// #####################################################################################################################################
 			case "scrobble":
 				$categories_array[] = $tag_array['title'];
 				$categories_array[] = $tag_array['artist'];
@@ -83,6 +88,7 @@ function create_notes($data,$logfile) {
 				$md_array['permalink'] ="/notes/".$note['type']."/".urlencode($tag_array['artist'])."/".urlencode($tag_array['album'])."/".$hash.".html";
 				break;
 				
+// #####################################################################################################################################
 			case "twitter":
 				$md_array['permalink'] ="/notes/".$note['type']."/".$permdate."/".$hash.".html";
 				//fwrite($mdfile, "ext-url: ".$note['url']."\n");
@@ -90,6 +96,7 @@ function create_notes($data,$logfile) {
 				//fwrite($mdfile, $note['message']."\n");
 				break;
 				
+// #####################################################################################################################################
 			case 'reply':
 				$md_array['permalink'] ="/notes/".$url."/".$note['type']."/".$permdate."/".$hash.".html";
 				$html = file_get_contents($note['url']);
@@ -99,6 +106,8 @@ function create_notes($data,$logfile) {
 				$mf = Mf2\parse($cleanhtml, $note['url']);
 				$md_array['ext-url'] = $note['url'];
 				break;
+				
+// #####################################################################################################################################
 				
 			case "like":
 				$md_array['permalink'] ="/notes/".$url."/".$note['type']."/".$permdate."/".$hash.".html";
@@ -112,6 +121,7 @@ function create_notes($data,$logfile) {
 				//fwrite($mdfile, $note['message']."\n");
 				break;	
 				
+// #####################################################################################################################################		
 			case "read";
 					$md_array['permalink'] ="/notes/".$note['type']."/".$permdate."/".$hash.".html";
 					$goodreads_api = new GoodReads('qhNU8kMDrqS2Ryk8ExmyA', '/home/tom/github/blog/website/_rake/tmp/');
@@ -137,10 +147,14 @@ function create_notes($data,$logfile) {
 					$md_array['status'] =$status;				
 			break;
 			
-			
+// #####################################################################################################################################
 			default:
+				$md_array['permalink'] ="/notes/".$note['type']."/".$permdate."/".$hash.".html";
 				break;
+				
+// -------------------------------------------------------------------------------------------------------------------------------------
 			}
+
 				$md_array['categories']=$categories_array;
 				$frontmatter = yaml_emit ($md_array);
 				$frontmatter = str_ireplace("...","---",$frontmatter);
