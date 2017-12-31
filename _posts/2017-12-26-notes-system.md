@@ -46,7 +46,7 @@ CREATE TABLE data (
 
  * type is for the [post type](https://indieweb.org/posts#Kinds_of_Posts) excluding articles
  * tags are a csv encoded key:value pairs
- * url are for [Uniform Resource Identifier](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier), I am currently using CSV ecoded key:value pairs, I am looking at using the [Url Query](https://en.wikipedia.org/wiki/Query_string) format in the future
+ * url are for [Uniform Resource Identifier](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier), I am currently using CSV encoded key:value pairs, I am looking at using the [Url Query](https://en.wikipedia.org/wiki/Query_string) format in the future
 
 NOTE: data fomrat MUST be human editable
  * No [url encoding](https://en.wikipedia.org/wiki/Percent-encoding)
