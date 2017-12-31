@@ -1,0 +1,18 @@
+---
+layout: notes_scrobble
+date: "2017-12-29"
+type: scrobble
+music-title: 14. (Misc 1) The Forgotten Online Pioneer, Bill von Meister
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/044f60b1bdaece80fd7f255afda5c2ae0e44fb86.html
+categories:
+- scrobble
+- 2017
+- December
+- 29
+- 14. (Misc 1) The Forgotten Online Pioneer, Bill von Meister
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---

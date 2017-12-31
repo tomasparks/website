@@ -39,80 +39,83 @@ function create_notes($data,$logfile) {
     	$months = array (1=>'January',2=>'February',3=>'March',
     	4=>'April',5=>'May',6=>'June',7=>'July',8=>'August',
     	9=>'September',10=>'October',11=>'November',12=>'December');
+    	unset($md_array);
+    	$md_array['layout'] = "notes_".$note['type'];
+    	$md_array['date'] = $isodate;
+    	$md_array['type'] = $note['type'];
+    	
+    	//$mdfile = fopen($hash.".md", "w");
     	
     	
-    	
-    	$mdfile = fopen($hash.".md", "w");
-    	
-    	
-    			fwrite($mdfile, "---\n");
-				fwrite($mdfile, "layout: notes_".$note['type']."\n");
-				fwrite($mdfile, "date: ".$isodate."\n");	
-				fwrite($mdfile, "type: ".$note['type']."\n");
+    			//fwrite($mdfile, "---\n");
+				//fwrite($mdfile, "layout: notes_".$note['type']."\n");
+				//fwrite($mdfile, "date: ".$isodate."\n");	
+				//fwrite($mdfile, "type: ".$note['type']."\n");
 				//fwrite($mdfile, "date: ".$isodate."\n");
-							
+				    	unset($categories_array);			
+				$categories_array[] = $note['type'];
+				$categories_array[] = $date_split['year'];
+				$categories_array[] = $months[(int)$date_split['month']];
+				$categories_array[] = $date_split['day'];
 				
-				fwrite($mdfile, "categories: \n");
-				fwrite($mdfile, " - ".$note['type']."\n");
+				//fwrite($mdfile, "categories: \n");
+				//fwrite($mdfile, " - ".$note['type']."\n");
 				
 				// dates
-				fwrite($mdfile, " - ".$date_split['year']."\n");
-				fwrite($mdfile, " - ".$months[(int)$date_split['month']]."\n");
-				fwrite($mdfile, " - ".$date_split['day']."\n");				
+				//fwrite($mdfile, " - ".$date_split['year']."\n");
+				//fwrite($mdfile, " - ".$months[(int)$date_split['month']]."\n");
+				//fwrite($mdfile, " - ".$date_split['day']."\n");				
 				
 				// url
 				if (isset($url)) {
-					fwrite($mdfile, " - ".$url."\n");
+				//	fwrite($mdfile, " - ".$url."\n");
+				$categories_array[] = $url;
 				}
 				
 		switch ($note['type']) {
 			case "scrobble":
-				fwrite($mdfile, " - ".$tag_array['title']."\n");
-				fwrite($mdfile, " - ".$tag_array['artist']."\n");
-				fwrite($mdfile, " - ".$tag_array['album']."\n");
-				fwrite($mdfile, "music-title: ".$tag_array['title']."\n");
-				fwrite($mdfile, "music-artist: ".$tag_array['artist']."\n");
-				fwrite($mdfile, "music-album: ".$tag_array['album']."\n");
-				fwrite($mdfile, "music-play-count: ".$tag_array['play-count']."\n");
-				fwrite($mdfile, "permalink: /notes/".$note['type']."/".urlencode($tag_array['artist'])."/".urlencode($tag_array['album'])."/".$hash.".html\n");
-				fwrite($mdfile, "---\n");
+				$categories_array[] = $tag_array['title'];
+				$categories_array[] = $tag_array['artist'];
+				$categories_array[] = $tag_array['album'];
+				
+				$md_array['music-title'] = $tag_array['title'];
+				$md_array['music-artist'] = $tag_array['artist'];
+				$md_array['music-album'] = $tag_array['album'];
+				$md_array['music-play-count'] = $tag_array['play-count'];
+				$md_array['permalink'] ="/notes/".$note['type']."/".urlencode($tag_array['artist'])."/".urlencode($tag_array['album'])."/".$hash.".html";
 				break;
 				
 			case "twitter":
-				fwrite($mdfile, "permalink: /notes/".$note['type']."/".$permdate."/".$hash.".html\n");
+				$md_array['permalink'] ="/notes/".$note['type']."/".$permdate."/".$hash.".html";
 				//fwrite($mdfile, "ext-url: ".$note['url']."\n");
-				fwrite($mdfile, "---\n");
-				fwrite($mdfile, $note['message']."\n");
+				//fwrite($mdfile, "---\n");
+				//fwrite($mdfile, $note['message']."\n");
 				break;
 				
 			case 'reply':
-				fwrite($mdfile, "permalink: /notes/".$url."/".$note['type']."/".$permdate."/".$hash.".html\n");
+				$md_array['permalink'] ="/notes/".$url."/".$note['type']."/".$permdate."/".$hash.".html";
 				$html = file_get_contents($note['url']);
 				$config = HTMLPurifier_Config::createDefault();
 				$purifier = new HTMLPurifier($config);
 				$cleanhtml = $purifier->purify($html);
 				$mf = Mf2\parse($cleanhtml, $note['url']);
-				fwrite($mdfile, "ext-url: ".$note['url']."\n");
-				//fwrite($mdfile, "title: Replyed to a page @ ".$url."\n"); 				
-				fwrite($mdfile, "---\n");
-				fwrite($mdfile, $note['message']."\n");
+				$md_array['ext-url'] = $note['url'];
 				break;
 				
 			case "like":
-				fwrite($mdfile, "permalink: /notes/".$url."/".$note['type']."/".$permdate."/".$hash.".html\n");
+				$md_array['permalink'] ="/notes/".$url."/".$note['type']."/".$permdate."/".$hash.".html";
 				$html = file_get_contents($note['url']);
 				$config = HTMLPurifier_Config::createDefault();
 				$purifier = new HTMLPurifier($config);
 				$cleanhtml = $purifier->purify($html);
 				$mf = Mf2\parse($cleanhtml, $note['url']);
-				fwrite($mdfile, "ext-url: ".$note['url']."\n");
-				fwrite($mdfile, "title: Liked a page on ".$url."\n");  				
-				fwrite($mdfile, "---\n");
+				$md_array['ext-url'] = $note['url'];
+				$md_array['title'] = "Liked a page on ".$url;  				
 				//fwrite($mdfile, $note['message']."\n");
 				break;	
 				
 			case "read";
-			fwrite($mdfile, "permalink: /notes/".$note['type']."/".$permdate."/".$hash.".html\n");
+					$md_array['permalink'] ="/notes/".$note['type']."/".$permdate."/".$hash.".html";
 					$goodreads_api = new GoodReads('qhNU8kMDrqS2Ryk8ExmyA', '/home/tom/github/blog/website/_rake/tmp/');
 					$urls = $note['urls'];
 					$tags = $note['tags'];
@@ -129,35 +132,26 @@ function create_notes($data,$logfile) {
 					
 					$book = $data['book'];
 					fwrite($logfile,json_encode($book)."\n");
-					fwrite($mdfile, "book-title: \"".$book['title']."\"\n");
-					fwrite($mdfile, "book-image_url: \"".$book['small_image_url']."\"\n");
-					fwrite($mdfile, "book-url: \"".$book['url']."\"\n");	
-					fwrite($mdfile, "page: ".$page."\n");				
-					fwrite($mdfile, "status: ".$status."\n");				
-
-				    //foreach($note['tags'] as $tagkey => $tag_value) {
-				    //fwrite($mdfile, "tags-".$tagkey.": ".$tag_value."\n");
-				    //}
-				    
-				    //foreach($note['urls'] as $urlkey => $url_value) {
-				    //fwrite($mdfile, "urls-".$urlkey.": ".$url_value."\n");
-				    //}
-				//fwrite($mdfile, "title: Read ".$book['title']."\n");    
-				fwrite($mdfile, "---\n");
-				fwrite($mdfile, $note['message']."\n");
-				//fwrite($mdfile,json_encode($book)."\n");
+					$md_array['book-title'] =$book['title'];
+					$md_array['book-image_url'] =$book['small_image_url'];
+					$md_array['book-url'] = $book['url'];	
+					$md_array['page'] =$page;				
+					$md_array['status'] =$status;				
 			break;
 			
 			
 			default:
-				fwrite($mdfile, "---\n");
-				if (array_key_exists("message",$note)) {
-				fwrite($mdfile, $note['message']."\n");
-				}
 				break;
 			}
-			
-    	fclose($mdfile);
+				$md_array['categories']=$categories_array;
+				$frontmatter = yaml_emit ($md_array);
+				$frontmatter = str_ireplace("...","---",$frontmatter);
+				$mdfile = fopen($hash.".md", "w");
+				fwrite($mdfile, $frontmatter);
+				if (array_key_exists("message",$note)) {
+					fwrite($mdfile, $note['message']."\n");
+				}
+				fclose($mdfile);
     }
 }
 
