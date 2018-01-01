@@ -62,9 +62,15 @@ unset($res);
 
 
 }
- 		echo yaml_emit($ret)."\n";
- 		  chdir($notes_path."/local/".date("Y"));
- 		yaml_emit_file ("r".date("m").".yml" , $ret);
+ 		//echo yaml_emit($ret)."\n";
+ 		print_r (scandir($notes_path));
+ 		mkdir($notes_path."/local/".date("Y")."/", 0755, true);
+ 		
+
+	
+  			chdir($notes_path."/local/".date("Y").'/');
+ 			yaml_emit_file ("r".date("m").".yml" , $ret);
+	
 } else {
     exit('Failed to open /home/tom/.local/share/rhythmbox/rhythmdb.xml.');
 }
