@@ -244,7 +244,7 @@
     <artist>Marty McGuire</artist>
     <album></album>
     <location>https://martymcgui.re/podcasts/indieweb/feed.rss</location>
-    <last-seen>1514773284</last-seen>
+    <last-seen>1514780492</last-seen>
     <date>0</date>
     <media-type>application/octet-stream</media-type>
     <status>1</status>
@@ -266,7 +266,7 @@ It contains recent and upcoming events, posts from IndieNews, and a summary of w
     <artist>Brian McCullough @brianmcc</artist>
     <album></album>
     <location>http://feeds.feedburner.com/InternetHistoryPodcast</location>
-    <last-seen>1514773287</last-seen>
+    <last-seen>1514780495</last-seen>
     <date>0</date>
     <media-type>application/octet-stream</media-type>
     <status>1</status>
@@ -12666,6 +12666,8 @@ And he recounts all of this in his recently published new book: Takeover! The In
     <mountpoint>http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/izMcR59Sk-k/Ch._5_Int._8_-_Wired_Magazine_Founding_Editor_John_Battelle_johnbattelle.mp3</mountpoint>
     <first-seen>1514380864</first-seen>
     <last-seen>1514465571</last-seen>
+    <play-count>1</play-count>
+    <last-played>1514774556</last-played>
     <bitrate>95</bitrate>
     <date>0</date>
     <media-type>audio/mpeg</media-type>
