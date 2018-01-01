@@ -244,7 +244,7 @@
     <artist>Marty McGuire</artist>
     <album></album>
     <location>https://martymcgui.re/podcasts/indieweb/feed.rss</location>
-    <last-seen>1514733725</last-seen>
+    <last-seen>1514769684</last-seen>
     <date>0</date>
     <media-type>application/octet-stream</media-type>
     <status>1</status>
@@ -266,7 +266,7 @@ It contains recent and upcoming events, posts from IndieNews, and a summary of w
     <artist>Brian McCullough @brianmcc</artist>
     <album></album>
     <location>http://feeds.feedburner.com/InternetHistoryPodcast</location>
-    <last-seen>1514733729</last-seen>
+    <last-seen>1514769687</last-seen>
     <date>0</date>
     <media-type>application/octet-stream</media-type>
     <status>1</status>
@@ -10675,6 +10675,8 @@ Ben Werdm&#xFC;ller&lt;/a&gt; recorded at &lt;a href="https://2017.indieweb.org/
     <mountpoint>http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/wmGWTI52aXU/Ch._5_Int._6_-_Owen_Thomas_of_HotWired_and_Suck.mp3</mountpoint>
     <first-seen>1514380864</first-seen>
     <last-seen>1514465571</last-seen>
+    <play-count>1</play-count>
+    <last-played>1514737129</last-played>
     <bitrate>95</bitrate>
     <date>0</date>
     <media-type>audio/mpeg</media-type>
@@ -10817,6 +10819,8 @@ Ben Werdm&#xFC;ller&lt;/a&gt; recorded at &lt;a href="https://2017.indieweb.org/
     <mountpoint>http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/ImoqnUB2sXk/Analysis_Ep._2_-_Talking_Early_Online_Services_With_Chris_Higgins_chrishiggins.mp3</mountpoint>
     <first-seen>1514380864</first-seen>
     <last-seen>1514465571</last-seen>
+    <play-count>1</play-count>
+    <last-played>1514746553</last-played>
     <bitrate>95</bitrate>
     <date>0</date>
     <media-type>audio/mpeg</media-type>
@@ -12382,6 +12386,8 @@ And he recounts all of this in his recently published new book: Takeover! The In
     <mountpoint>http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/y_5uqW1abXE/Ch._5_Int._7_-_An_Interview_With_Joe_McCambley_About_The_First_Banner_Ads.mp3</mountpoint>
     <first-seen>1514380864</first-seen>
     <last-seen>1514465571</last-seen>
+    <play-count>1</play-count>
+    <last-played>1514739836</last-played>
     <bitrate>95</bitrate>
     <date>0</date>
     <media-type>audio/mpeg</media-type>
