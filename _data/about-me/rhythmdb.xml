@@ -244,7 +244,7 @@
     <artist>Marty McGuire</artist>
     <album></album>
     <location>https://martymcgui.re/podcasts/indieweb/feed.rss</location>
-    <last-seen>1514805692</last-seen>
+    <last-seen>1514866890</last-seen>
     <date>0</date>
     <media-type>application/octet-stream</media-type>
     <status>1</status>
@@ -266,7 +266,7 @@ It contains recent and upcoming events, posts from IndieNews, and a summary of w
     <artist>Brian McCullough @brianmcc</artist>
     <album></album>
     <location>http://feeds.feedburner.com/InternetHistoryPodcast</location>
-    <last-seen>1514805699</last-seen>
+    <last-seen>1514866896</last-seen>
     <date>0</date>
     <media-type>application/octet-stream</media-type>
     <status>1</status>
@@ -276,7 +276,7 @@ It contains recent and upcoming events, posts from IndieNews, and a summary of w
     <lang>en</lang>
     <copyright>Copyright 2014, Amalgamated Internets</copyright>
     <image>http://www.internethistorypodcast.com/wp-content/uploads/2014/01/Internet-History-Podcast-Logo.jpg</image>
-    <post-time>1514648752</post-time>
+    <post-time>1514832860</post-time>
   </entry>
   <entry type="song">
     <title>Milkyway.mp3</title>
@@ -10418,6 +10418,8 @@ Ben Werdm&#xFC;ller&lt;/a&gt; recorded at &lt;a href="https://2017.indieweb.org/
     <mountpoint>http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/-ADJB5Lqeq0/44._The_Brief_Remarkable_Life_of_Danny_Lewin_Co-Founder_of_Akamai_Technologies.mp3</mountpoint>
     <first-seen>1514380864</first-seen>
     <last-seen>1514465571</last-seen>
+    <play-count>1</play-count>
+    <last-played>1514826278</last-played>
     <bitrate>95</bitrate>
     <date>0</date>
     <media-type>audio/mpeg</media-type>
@@ -10796,6 +10798,8 @@ Ben Werdm&#xFC;ller&lt;/a&gt; recorded at &lt;a href="https://2017.indieweb.org/
     <mountpoint>http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/iJ-15KkE7_A/45._Excite.com_Co-Founder_Ryan_McIntyre.mp3</mountpoint>
     <first-seen>1514380864</first-seen>
     <last-seen>1514465571</last-seen>
+    <play-count>1</play-count>
+    <last-played>1514866059</last-played>
     <bitrate>95</bitrate>
     <date>0</date>
     <media-type>audio/mpeg</media-type>
@@ -11473,6 +11477,8 @@ Ben Werdm&#xFC;ller&lt;/a&gt; recorded at &lt;a href="https://2017.indieweb.org/
     <mountpoint>http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/X4_E24ZNl7s/43._Danny_Sullivan_dannysullivan_-_The_History_and_Future_of_Search_Technology.mp3</mountpoint>
     <first-seen>1514380864</first-seen>
     <last-seen>1514465571</last-seen>
+    <play-count>1</play-count>
+    <last-played>1514822485</last-played>
     <bitrate>95</bitrate>
     <date>0</date>
     <media-type>audio/mpeg</media-type>
@@ -13331,6 +13337,8 @@ Buy The Friendly Orange Glow</description>
     <mountpoint>http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/nKJrqwQscnQ/42._Did_Al_Gore_Really_Invent_the_Internet_.mp3</mountpoint>
     <first-seen>1514380864</first-seen>
     <last-seen>1514465571</last-seen>
+    <play-count>1</play-count>
+    <last-played>1514811586</last-played>
     <bitrate>95</bitrate>
     <date>0</date>
     <media-type>audio/mpeg</media-type>
@@ -13917,6 +13925,8 @@ Buy The Friendly Orange Glow</description>
     <mountpoint>http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/wJeOjnHQtEk/Ch._4_Int._7_-_Excite_CEO_George_Bell.mp3</mountpoint>
     <first-seen>1514380864</first-seen>
     <last-seen>1514465571</last-seen>
+    <play-count>1</play-count>
+    <last-played>1514810017</last-played>
     <bitrate>95</bitrate>
     <date>0</date>
     <media-type>audio/mpeg</media-type>
