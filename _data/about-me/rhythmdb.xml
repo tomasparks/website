@@ -244,7 +244,7 @@
     <artist>Marty McGuire</artist>
     <album></album>
     <location>https://martymcgui.re/podcasts/indieweb/feed.rss</location>
-    <last-seen>1514906494</last-seen>
+    <last-seen>1514928090</last-seen>
     <date>0</date>
     <media-type>application/octet-stream</media-type>
     <status>1</status>
@@ -256,7 +256,7 @@ It contains recent and upcoming events, posts from IndieNews, and a summary of w
     <subtitle></subtitle>
     <summary></summary>
     <lang>en-us</lang>
-    <copyright>&#x2117; &amp; &#xA9; 2017 Marty McGuire</copyright>
+    <copyright>&#x2117; &amp; &#xA9; 2018 Marty McGuire</copyright>
     <image>https://media.martymcgui.re/91/59/7d/47/62ab3ee06924355b32f7283ac5ba033cedb679970b8ddbaefd2e2863.png</image>
     <post-time>1514381422</post-time>
   </entry>
@@ -266,7 +266,7 @@ It contains recent and upcoming events, posts from IndieNews, and a summary of w
     <artist>Brian McCullough @brianmcc</artist>
     <album></album>
     <location>http://feeds.feedburner.com/InternetHistoryPodcast</location>
-    <last-seen>1514906499</last-seen>
+    <last-seen>1514928093</last-seen>
     <date>0</date>
     <media-type>application/octet-stream</media-type>
     <status>1</status>
@@ -276,7 +276,7 @@ It contains recent and upcoming events, posts from IndieNews, and a summary of w
     <lang>en</lang>
     <copyright>Copyright 2014, Amalgamated Internets</copyright>
     <image>http://www.internethistorypodcast.com/wp-content/uploads/2014/01/Internet-History-Podcast-Logo.jpg</image>
-    <post-time>1514832860</post-time>
+    <post-time>1514922326</post-time>
   </entry>
   <entry type="song">
     <title>Milkyway.mp3</title>
@@ -12187,6 +12187,8 @@ Ben Werdm&#xFC;ller&lt;/a&gt; recorded at &lt;a href="https://2017.indieweb.org/
     <mountpoint>http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/0V5yewrYnIM/49._Lycos_Founder_and_CEO_Bob_Davis_BobDavisHCP.mp3</mountpoint>
     <first-seen>1514380864</first-seen>
     <last-seen>1514465571</last-seen>
+    <play-count>1</play-count>
+    <last-played>1514910662</last-played>
     <bitrate>95</bitrate>
     <date>0</date>
     <media-type>audio/mpeg</media-type>
