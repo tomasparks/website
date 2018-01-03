@@ -92,7 +92,12 @@ plugins:
  - 'jekyll/scholar' # settings in scholar.yml
 # - 'jekyll/scholar/extras' # settings in scholar.yml
  - jekyll_github_sample
+ - jekyll-mentions
 ## EOF BASE.YML
+
+## jekyll-mentions ##
+jekyll-mentions:
+  base_url: https://twitter.com
 
 ## JEKYLL DATADPAGE GEN.YML
 #page_gen-dirs: true # uncomment, if you prefer to generate named folders
