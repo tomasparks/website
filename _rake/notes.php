@@ -5,21 +5,23 @@
 require_once './php-mf2/Mf2/Parser.php';
 require_once './htmlpurifier/library/HTMLPurifier.auto.php';
 require_once './goodreads-api/GoodReads.php';
-date_default_timezone_set('	Australia/Brisbane');
+date_default_timezone_set('Australia/Brisbane');
 
 
 function create_notes($data,$logfile) {
     foreach ($data as $note) {
     	//print_r($note);
     	
-    	if (isset($note['tags']) && !is_array($note['tags'])) {
-    	$temp  = urldecode ( $note['tags'] );
-    	parse_str($temp, $tag_array);
-    	$note['tags'] = $tag_array;
-//fwrite($logfile,$temp."\n");
+   	if (isset($note['tags']) && !is_array($note['tags'])) {
+ //  			//fwrite($logfile,json_encode($temp)."\n");
+   	  		//$note['tags'] = tag2tags($note['$tags'],$logfile);
+  			$temp  = urldecode ( $note['tags'] );
+ 			parse_str($temp, $tag_array);
+ 			$note['tags'] = $tag_array;
 
-    	}
-  		//$note['tags'] = tags($note['$tags'],$logfile);
+}
+
+
   		
     	//echo "\n";
     	$hash = hash ('sha1' ,json_encode($note));
@@ -53,7 +55,7 @@ function create_notes($data,$logfile) {
 				//fwrite($mdfile, "date: ".$isodate."\n");	
 				//fwrite($mdfile, "type: ".$note['type']."\n");
 				//fwrite($mdfile, "date: ".$isodate."\n");
-				    	unset($categories_array);			
+				unset($categories_array);			
 				$categories_array[] = $note['type'];
 				$categories_array[] = $months[(int)$date_split['month']];
 				$categories_array[] = $date_split['year'];
@@ -72,11 +74,35 @@ function create_notes($data,$logfile) {
 				$categories_array[] = $url;
 				}
 				
+				$md_array['permalink'] ="/notes/".$note['type']."/".$permdate."/".$hash.".html";
+				
+   	//if (isset($note['tags']) && is_array($note['tags'])) {				
+		//		 $tag_array = $note['tags'];
+		//}
+		
+		//$tag_array = $note['tags'];
+		
+	//	if (is_array($note['tags'])) {
+	//			print_r($note['tags']);
+	//			$tag_array = $note['tags'];
+	//			print_r($tag_array['syndication']);
+	//	}
+	//	print_r($note['tags']);
+	//	print_r($tag_array['syndication']);
+		if (isset($note['tags']) && is_array($note['tags'])) {
+						$tag_array = $note['tags'];
+						if (isset($tag_array['syndication'])) {
+								$md_array['syndication'] = $tag_array['syndication'];
+							}
+					}
+				
+				
 		switch ($note['type']) {
 // -------------------------------------------------------------------------------------------------------------------------------------
 		
 // #####################################################################################################################################
 			case "scrobble":
+			
 				$categories_array[] = $tag_array['title'];
 				$categories_array[] = $tag_array['artist'];
 				$categories_array[] = $tag_array['album'];
@@ -126,16 +152,28 @@ function create_notes($data,$logfile) {
 					$md_array['permalink'] ="/notes/".$note['type']."/".$permdate."/".$hash.".html";
 					$goodreads_api = new GoodReads('qhNU8kMDrqS2Ryk8ExmyA', '/home/tom/github/blog/website/_rake/tmp/');
 					$urls = $note['urls'];
-					$tags = $note['tags'];
-					$page = $tags['page'];
+					
+					$page = $tag_array['page'];
 					
 					if ($page =="finshed") {$status ="Finished";} else {$status ="Currently";}
 					
+					fwrite($logfile,json_encode($urls)."\n");
 					if (array_key_exists("asin",$urls)) {
-					$data = $goodreads_api->getBookByISBN($urls['asin']);
+						if (!is_array($urls['asin'])) {
+							$data = $goodreads_api->getBookByISBN($urls['asin']);
+						} else {
+							$temp = $urls['asin'];
+							$data = $goodreads_api->getBookByISBN($temp['name']);
+						}
 					}
-					if (array_key_exists("ASIN",$urls)) {
-					$data = $goodreads_api->getBookByISBN($urls['ASIN']);
+					
+					if (array_key_exists("isbn",$urls)) {
+						if (!is_array($urls['isbn'])) {
+							$data = $goodreads_api->getBookByISBN($urls['asin']);
+						} else {
+							$temp = $urls['isbn'];
+							$data = $goodreads_api->getBookByISBN($temp['name']);
+						}
 					}
 					
 					$book = $data['book'];
@@ -164,8 +202,38 @@ function create_notes($data,$logfile) {
 					fwrite($mdfile, $note['message']."\n");
 				}
 				fclose($mdfile);
+    	fwrite($logfile, "\n".$frontmatter."\n"); 
     }
 }
+
+
+// ================================
+function json_parse_file( $file,$logfile ) {
+$json = file_get_contents($file); 
+$json_array = json_decode($json);
+	foreach ($json_array as $value){	
+	    		unset($res);
+			$json = json_encode($value);
+			$data = json_decode($json,TRUE);
+			if (is_array($data)) {
+					if (array_key_exists("published",$data)) {
+					$pub = $data["published"];
+					$res["date"] = $pub['0'];
+					$content = $data['content'];
+					$res["message"] = $content[0];
+
+					$syndication_array = $data['syndication'];
+					$tags['syndication'] = $syndication_array;
+					$res['tags'] = $tags;
+					$res['type'] ="twitter";
+					}
+			}
+	}
+ 		$ret[] = $res;
+ 		//fwrite($logfile,json_encode($ret)."\n");
+ 		return $ret;
+}
+
 
 // ================================
 function csv_parse_file ( $file,$logfile ) {
@@ -214,6 +282,7 @@ function csv_parse_file ( $file,$logfile ) {
     		//echo "===============================================\n";
 			$res['tags'] = $tags_array;
 		}
+		
 		// ======================================================	
 		
 		// url tags	===========================================
@@ -225,56 +294,74 @@ function csv_parse_file ( $file,$logfile ) {
 			switch (true) {
 			
 				case stristr($data['1'], 'http'):
-				//echo "found http\n";
+			//	echo "found http\n";
 					$res['url'] = $data['1'];			
-					//echo "url===============================================\n";
-    				//print_r($res['url']);
-    				//echo "===============================================\n";
+		//			echo "url===============================================\n";
+    		//		print_r($res['url']);
+    			//	echo "===============================================\n";
 					break;
 					
 				case parse_url($data['1'], PHP_URL_QUERY);
-					//echo "found query\n";
-					//print_r(parse_url($url, PHP_URL_QUERY));
+				//	echo "found query\n";
+					$query = parse_url($data['1'], PHP_URL_QUERY);
+					parse_str($query, $query_array);
+					$key_value = explode(':', $data['1']);
+					$url_array[$key_value [0]] = $query_array;
+				    $res['urls'] = $url_array;
+				 //   echo "url===============================================\n";
+    			//	print_r($res['urls']);
+    			//	echo "===============================================\n";
+			//		echo "\n";
+					
 					break;
 							
 				case stristr($data['1'], 'ASIN'):
 					//echo "found asin\n";	
 				    $key_value = explode(':', $data['1']);
-				    $url_array[$key_value [0]] = $key_value [1];
+				    $url_array['asin'] = $key_value [1];
 				    $res['urls'] = $url_array;
-					//echo "url===============================================\n";
-    				//print_r($res['urls']);
-    				//echo "===============================================\n";
+				//	echo "url===============================================\n";
+    			//	print_r($res['urls']);
+    			//	echo "===============================================\n";
 					break;
 					
 				case stristr($data['1'], 'ISBN'):
 					//echo "found isbn\n";	
 				    $key_value = explode(':', $data['1']);
-				    $url_array[$key_value [0]] = $key_value [1];
+				    $url_array['isbn'] = $key_value [1];
 				    $res['urls'] = $url_array;
-					//echo "url===============================================\n";
-    				//print_r($res['urls']);
-    				//echo "===============================================\n";
-					break;
+				//	echo "url===============================================\n";
+    			//	print_r($res['urls']);
+    			//	echo "===============================================\n";
+				//	break;
 						
 				case stristr($data['1'], 'IMDB'):
 					//echo "found IMDB\n";	
 				    $key_value = explode(':', $data['1']);
-				    $url_array[$key_value [0]] = $key_value [1];
+				    $url_array['imdb'] = $key_value [1];
 				    $res['urls'] = $url_array;
-					//echo "url===============================================\n";
-    				//print_r($res['urls']);
-    				//echo "===============================================\n";
+				//	echo "url===============================================\n";
+    			//	print_r($res['urls']);
+    			//	echo "===============================================\n";
 					break;
 					
 				case stristr($data['1'], 'TVDB'):
 					//echo "found TVDB\n";	
 				    $key_value = explode(':', $data['1']);
-				    $url_array[$key_value [0]] = $key_value [1];
+				    $url_array['tvdb'] = $key_value [1];
 				    $res['urls'] = $url_array;
-					//echo "url===============================================\n";
-    				//print_r($res['urls']);
-    				//echo "===============================================\n";
+				//	echo "url===============================================\n";
+    			//	print_r($res['urls']);
+    			//	echo "===============================================\n";
+					break;
+				case stristr($data['1'], 'MB'):
+					//echo "found MB (metabrainz)\n";	
+				    $key_value = explode(':', $data['1']);
+				    $url_array['mb'] = $key_value [1];
+				    $res['urls'] = $url_array;
+				//	echo "url===============================================\n";
+    			//	print_r($res['urls']);
+    			//	echo "===============================================\n";
 					break;
 							
 /*										
@@ -300,7 +387,7 @@ function csv_parse_file ( $file,$logfile ) {
 			//echo "res===============================================\n";
     		//print_r($res);
     		//echo "===============================================\n";	
- 		fwrite($logfile,json_encode($res)."\n");
+ 		//fwrite($logfile,json_encode($res)."\n");
  		$ret[] = $res;
  			 
 	}
@@ -311,15 +398,6 @@ function csv_parse_file ( $file,$logfile ) {
 		return $ret;
 }
 
-
-function tags($tags,$logfile) {
-$temp  = urldecode ( $tags );
-parse_str($temp, $output);
-fwrite($logfile,json_encode($output)."\n");
-
-return $output; 
-
-}
 
 $path = getcwd();
 
@@ -372,6 +450,14 @@ foreach ($notes_dir as $dir) {
 
     					create_notes($data, $logfile);
 						break;
+						
+					case strstr($file, "json"):
+    					//echo $file." json file\n";
+    					fwrite($logfile,$file." json file :) \n");
+    					$data = json_parse_file ( $file, $logfile );
+
+    					create_notes($data, $logfile);
+						break;						
 					}
 			}
 	}

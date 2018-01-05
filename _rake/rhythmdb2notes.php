@@ -33,6 +33,7 @@ if (file_exists('/home/tom/.local/share/rhythmbox/rhythmdb.xml')) {
 				$date_split = date_parse($date->format('Y-m-d H:i:s'));
 				$res['type'] = "scrobble";
 				$res['tags'] = http_build_query($tags);
+					if (isset($tags['mb-trackid'])) { $res['url']="mb:".$tags['mb-trackid']; }
 				$db[$date_split['year']][$date_split['month']][]=$res;
 				//$ret[] =$res;
 				unset($res);		
@@ -55,7 +56,7 @@ if (file_exists('/home/tom/.local/share/rhythmbox/rhythmdb.xml')) {
 		
 				$res['type'] = "scrobble";
 				$res['tags'] = http_build_query($tags);
-		
+					if (isset($tags['mb-trackid'])) { $res['url']="mb:".$tags['mb-trackid']; }
 				$db[$date_split['year']][$date_split['month']][]=$res;
 				//$ret[] =$res;
 				unset($res);		
