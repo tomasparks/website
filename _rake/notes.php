@@ -218,8 +218,11 @@ $json_array = json_decode($json);
 			if (is_array($data)) {
 					if (array_key_exists("published",$data)) {
 					$pub = $data["published"];
+					
 					$res["date"] = $pub['0'];
+					
 					$content = $data['content'];
+					
 					$res["message"] = $content[0];
 
 					$syndication_array = $data['syndication'];
