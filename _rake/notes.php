@@ -218,16 +218,14 @@ $json_array = json_decode($json);
 			if (is_array($data)) {
 					if (array_key_exists("published",$data)) {
 					$pub = $data["published"];
-					
-					$res["date"] = $pub['0'];
-					
+					if (is_array($pub)) {$res["date"] = $pub['0'];} else {$res["date"] = $pub;} 
 					$content = $data['content'];
-					
-					$res["message"] = $content[0];
-
+					if (is_array($content)) {$res["message"] = $content[0];} else {$res["message"] = $content;} 
+					if (isset($data['syndication'])) {
 					$syndication_array = $data['syndication'];
 					$tags['syndication'] = $syndication_array;
 					$res['tags'] = $tags;
+					}
 					$res['type'] ="twitter";
 					}
 			}
@@ -236,7 +234,6 @@ $json_array = json_decode($json);
  		//fwrite($logfile,json_encode($ret)."\n");
  		return $ret;
 }
-
 
 // ================================
 function csv_parse_file ( $file,$logfile ) {
