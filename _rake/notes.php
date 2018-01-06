@@ -476,7 +476,7 @@ foreach ($notes_dir as $dir) {
     					//echo $file." skipping md file\n";
     					fwrite($logfile,$file." skipping md file\n");
     					continue 2;
-					case strstr($file, "yml"):
+					/*case strstr($file, "yml"):
     					//echo $file."yml file\n";
     					fwrite($logfile,$file." yml file :) \n");
     					$data = yaml_parse_file ( $file );
@@ -490,7 +490,7 @@ foreach ($notes_dir as $dir) {
 
     					create_notes($data, $logfile);
 						break;
-						
+						*/
 					case strstr($file, "json"):
     					//echo $file." json file\n";
     					fwrite($logfile,$file." json file :) \n");
