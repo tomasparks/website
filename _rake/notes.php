@@ -217,21 +217,48 @@ $json_array = json_decode($json);
 			$data = json_decode($json,TRUE);
 			if (is_array($data)) {
 					if (array_key_exists("published",$data)) {
-					$pub = $data["published"];
-					if (is_array($pub)) {$res["date"] = $pub['0'];} else {$res["date"] = $pub;} 
-					$content = $data['content'];
-					if (is_array($content)) {$res["message"] = $content[0];} else {$res["message"] = $content;} 
-					if (isset($data['syndication'])) {
-					$syndication_array = $data['syndication'];
-					$tags['syndication'] = $syndication_array;
-					$res['tags'] = $tags;
-					}
-					$res['type'] ="twitter";
+					
+						$pub = $data["published"];
+						if (is_array($pub)) {$res["date"] = $pub['0'];} else {$res["date"] = $pub;} 
+						$content = $data['content'];
+						if (is_array($content)) {$res["message"] = $content[0];} else {$res["message"] = $content;} 
+						if (isset($data['syndication'])) {
+							$syndication_array = $data['syndication'];
+							$tags['syndication'] = $syndication_array;
+							//$res['tags'] = $tags;
+						}
+						$res['type'] ="twitter";
+								
+						switch (true) {
+								case isset($data['like-of']):
+									$res['type'] ="like";
+									$res['url'] = $data['like-of'];
+									break;
+								case isset($data['photo']):
+									$res['type'] ="photo";
+									$tags['photo'] = $data['photo'];
+									break;
+								case isset($data['in-reply-to']):
+									$res['type'] ="reply";
+										$res['url'] = $data['in-reply-to'];
+									break;
+								case isset($data['bookmark-of']):
+										$res['type'] ="bookmark";
+										$res['url'] = $data['bookmark-of'];
+									break;
+
+								}
+									if (isset($tags)) {$res['tags'] = $tags;}								
 					}
 			}
-	}
- 		$ret[] = $res;
- 		//fwrite($logfile,json_encode($ret)."\n");
+			if (isset($res)) {$ret[] = $res;;}	 
+ 		}
+ 		
+ 		
+ 		print_r(json_encode($ret));
+ 		echo "\n";
+ 		fwrite($logfile,json_encode($ret)."\n");
+ 	
  		return $ret;
 }
 
