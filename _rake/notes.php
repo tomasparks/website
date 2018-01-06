@@ -111,12 +111,14 @@ function create_notes($data,$logfile) {
 				$md_array['music-artist'] = $tag_array['artist'];
 				$md_array['music-album'] = $tag_array['album'];
 				$md_array['music-play-count'] = $tag_array['play-count'];
+				$md_array['title'] = "Played ".$md_array['music-title']." by ".$md_array['music-artist'];  
 				$md_array['permalink'] ="/notes/".$note['type']."/".urlencode($tag_array['artist'])."/".urlencode($tag_array['album'])."/".$hash.".html";
 				break;
 				
 // #####################################################################################################################################
 			case "twitter":
 				$md_array['permalink'] ="/notes/".$note['type']."/".$permdate."/".$hash.".html";
+				$md_array['title'] = "twitted: ".$note['message'];
 				//fwrite($mdfile, "ext-url: ".$note['url']."\n");
 				//fwrite($mdfile, "---\n");
 				//fwrite($mdfile, $note['message']."\n");
@@ -131,6 +133,7 @@ function create_notes($data,$logfile) {
 				$cleanhtml = $purifier->purify($html);
 				$mf = Mf2\parse($cleanhtml, $note['url']);
 				$md_array['ext-url'] = $note['url'];
+				$md_array['title'] = "reply to: ".$note['url'];
 				break;
 				
 // #####################################################################################################################################
@@ -182,11 +185,15 @@ function create_notes($data,$logfile) {
 					$md_array['book-image_url'] =$book['small_image_url'];
 					$md_array['book-url'] = $book['url'];	
 					$md_array['page'] =$page;				
-					$md_array['status'] =$status;				
+					$md_array['status'] =$status;
+					if ($status =="Finished") {$md_array['title'] = "Completed Reading ".$md_array['book-title']." by ".$md_array['book-author'];  } else {$status ="Currently Reading ".$md_array['book-title']." by ".$md_array['book-author'];}
+					$md_array['title'] = " ".$url;  
+									
 			break;
 			
 // #####################################################################################################################################
 			default:
+								$md_array['title'] = .$permdate." ".$note['type'];  
 				$md_array['permalink'] ="/notes/".$note['type']."/".$permdate."/".$hash.".html";
 				break;
 				
