@@ -124,7 +124,7 @@ function create_notes($data,$logfile) {
 // #####################################################################################################################################
 			case "twitter":
 				$md_array['permalink'] ="/notes/".$note['type']."/".$permdate."/".$hash.".html";
-				$md_array['title'] = "twitted: ".$note['message'];
+				$md_array['title'] = "twitted: ".$hash;
 				//fwrite($mdfile, "ext-url: ".$note['url']."\n");
 				//fwrite($mdfile, "---\n");
 				//fwrite($mdfile, $note['message']."\n");
