@@ -244,7 +244,7 @@
     <artist>Marty McGuire</artist>
     <album></album>
     <location>https://martymcgui.re/podcasts/indieweb/feed.rss</location>
-    <last-seen>1515261765</last-seen>
+    <last-seen>1515265366</last-seen>
     <date>0</date>
     <media-type>application/octet-stream</media-type>
     <status>1</status>
@@ -266,7 +266,7 @@ It contains recent and upcoming events, posts from IndieNews, and a summary of w
     <artist>Brian McCullough @brianmcc</artist>
     <album></album>
     <location>http://feeds.feedburner.com/InternetHistoryPodcast</location>
-    <last-seen>1515261774</last-seen>
+    <last-seen>1515265370</last-seen>
     <date>0</date>
     <media-type>application/octet-stream</media-type>
     <status>1</status>
@@ -13481,6 +13481,8 @@ And he recounts all of this in his recently published new book: Takeover! The In
     <mountpoint>http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/c1KZvfk7UcY/66._Ch._7.3_The_Founding_of_eBay.mp3</mountpoint>
     <first-seen>1514380864</first-seen>
     <last-seen>1514465571</last-seen>
+    <play-count>1</play-count>
+    <last-played>1515263574</last-played>
     <bitrate>95</bitrate>
     <date>0</date>
     <media-type>audio/mpeg</media-type>
