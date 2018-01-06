@@ -114,7 +114,13 @@ function create_notes($data,$logfile) {
 				$md_array['title'] = "Played ".$md_array['music-title']." by ".$md_array['music-artist'];  
 				$md_array['permalink'] ="/notes/".$note['type']."/".urlencode($tag_array['artist'])."/".urlencode($tag_array['album'])."/".$hash.".html";
 				break;
-				
+// #####################################################################################################################################
+			case "photo":
+				$md_array['title'] = "photo(s)";
+				$md_array['photo'] = $tag_array['photo'];
+				  
+				//$md_array['permalink'] ="/notes/".$note['type']."/".urlencode($tag_array['artist'])."/".urlencode($tag_array['album'])."/".$hash.".html";
+				break;				
 // #####################################################################################################################################
 			case "twitter":
 				$md_array['permalink'] ="/notes/".$note['type']."/".$permdate."/".$hash.".html";
@@ -193,7 +199,7 @@ function create_notes($data,$logfile) {
 			
 // #####################################################################################################################################
 			default:
-								$md_array['title'] = .$permdate." ".$note['type'];  
+								$md_array['title'] = $permdate." ".$note['type'];  
 				$md_array['permalink'] ="/notes/".$note['type']."/".$permdate."/".$hash.".html";
 				break;
 				

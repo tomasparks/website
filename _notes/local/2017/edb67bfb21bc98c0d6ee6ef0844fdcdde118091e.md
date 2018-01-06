@@ -7,6 +7,7 @@ music-title: Foundation2
 music-artist: William F. Maddock
 music-album: Unknown
 music-play-count: "1"
+title: Played Foundation2 by William F. Maddock
 categories:
 - scrobble
 - December
