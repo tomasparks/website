@@ -3,7 +3,8 @@ layout: post
 title:  "custom indieweb note system"
 date:   2017-12-26
 icons: indieweb, notes, note
-syndication: indieweb
+syndication: 
+- https://news.indieweb.org/en
 ---
 
 I am curently writing a custom indieweb [note](https://indieweb.org/note) system for my webiste, my requirements are different to most/all indieweb implementation as I need three different way of creating notes Text-editor, Browser and Offline

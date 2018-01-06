@@ -3,7 +3,8 @@ layout: post
 title:  "Rhythmbox scrobbling notes system"
 date:   2017-12-31
 icons: indieweb, scrobble, scrobbling, music, notes, note
-syndication: indieweb
+syndication:
+- https://news.indieweb.org/en
 ---
 
 I've just written [Rhythmbox](https://en.wikipedia.org/wiki/Rhythmbox) scrobbling system for my notes
