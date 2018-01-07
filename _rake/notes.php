@@ -476,6 +476,11 @@ foreach ($notes_dir as $dir) {
     					//echo $file." skipping md file\n";
     					fwrite($logfile,$file." skipping md file\n");
     					continue 2;
+    				case strstr($file, "temp"):
+    					//echo $file." skipping md file\n";
+    					fwrite($logfile,$file." skipping md file\n");
+    					continue 2;
+    					
 					/*case strstr($file, "yml"):
     					//echo $file."yml file\n";
     					fwrite($logfile,$file." yml file :) \n");

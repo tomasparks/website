@@ -1,0 +1,11 @@
+{
+  "type": ["h-entry"],
+  "properties": {
+    "content": "",
+"syndication": [
+			"https://www.facebook.com/tom.sparks.106/posts/865763483589296"		
+			],
+		"published":"2017-06-10",
+		"like-of": "https://arstechnica.com/tech-policy/2017/06/right-to-speak-freely-about-engineering-is-subject-of-1st-amendment-lawsuit/"
+  }
+}
