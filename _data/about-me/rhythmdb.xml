@@ -244,7 +244,7 @@
     <artist>Marty McGuire</artist>
     <album></album>
     <location>https://martymcgui.re/podcasts/indieweb/feed.rss</location>
-    <last-seen>1515317182</last-seen>
+    <last-seen>1515320783</last-seen>
     <date>0</date>
     <media-type>application/octet-stream</media-type>
     <status>1</status>
@@ -266,7 +266,7 @@ It contains recent and upcoming events, posts from IndieNews, and a summary of w
     <artist>Brian McCullough @brianmcc</artist>
     <album></album>
     <location>http://feeds.feedburner.com/InternetHistoryPodcast</location>
-    <last-seen>1515317188</last-seen>
+    <last-seen>1515320789</last-seen>
     <date>0</date>
     <media-type>application/octet-stream</media-type>
     <status>1</status>
@@ -12623,6 +12623,8 @@ Buy The Friendly Orange Glow</description>
     <mountpoint>http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/apbzWUOvYpI/67._Journalist_Maggie_Mahar_Discusses_the_Dot-Com_Bubble.mp3</mountpoint>
     <first-seen>1514380864</first-seen>
     <last-seen>1514465571</last-seen>
+    <play-count>1</play-count>
+    <last-played>1515320558</last-played>
     <bitrate>95</bitrate>
     <date>0</date>
     <media-type>audio/mpeg</media-type>
