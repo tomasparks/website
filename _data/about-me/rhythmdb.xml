@@ -244,7 +244,7 @@
     <artist>Marty McGuire</artist>
     <album></album>
     <location>https://martymcgui.re/podcasts/indieweb/feed.rss</location>
-    <last-seen>1515327983</last-seen>
+    <last-seen>1515331605</last-seen>
     <date>0</date>
     <media-type>application/octet-stream</media-type>
     <status>1</status>
@@ -266,7 +266,7 @@ It contains recent and upcoming events, posts from IndieNews, and a summary of w
     <artist>Brian McCullough @brianmcc</artist>
     <album></album>
     <location>http://feeds.feedburner.com/InternetHistoryPodcast</location>
-    <last-seen>1515327990</last-seen>
+    <last-seen>1515331620</last-seen>
     <date>0</date>
     <media-type>application/octet-stream</media-type>
     <status>1</status>
@@ -10995,6 +10995,8 @@ Ben Werdm&#xFC;ller&lt;/a&gt; recorded at &lt;a href="https://2017.indieweb.org/
     <mountpoint>http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/9EVRyqQY6AY/69._Steve_Yelvington_Discusses_Newspapers_and_the_Early_Web.mp3</mountpoint>
     <first-seen>1514380864</first-seen>
     <last-seen>1514465571</last-seen>
+    <play-count>1</play-count>
+    <last-played>1515330698</last-played>
     <bitrate>95</bitrate>
     <date>0</date>
     <media-type>audio/mpeg</media-type>
