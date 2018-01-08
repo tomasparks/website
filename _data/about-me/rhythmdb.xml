@@ -244,7 +244,7 @@
     <artist>Marty McGuire</artist>
     <album></album>
     <location>https://martymcgui.re/podcasts/indieweb/feed.rss</location>
-    <last-seen>1515338820</last-seen>
+    <last-seen>1515392784</last-seen>
     <date>0</date>
     <media-type>application/octet-stream</media-type>
     <status>1</status>
@@ -266,7 +266,7 @@ It contains recent and upcoming events, posts from IndieNews, and a summary of w
     <artist>Brian McCullough @brianmcc</artist>
     <album></album>
     <location>http://feeds.feedburner.com/InternetHistoryPodcast</location>
-    <last-seen>1515338829</last-seen>
+    <last-seen>1515392790</last-seen>
     <date>0</date>
     <media-type>application/octet-stream</media-type>
     <status>1</status>
@@ -276,7 +276,7 @@ It contains recent and upcoming events, posts from IndieNews, and a summary of w
     <lang>en</lang>
     <copyright>Copyright 2014, Amalgamated Internets</copyright>
     <image>http://www.internethistorypodcast.com/wp-content/uploads/2014/01/Internet-History-Podcast-Logo.jpg</image>
-    <post-time>1514922326</post-time>
+    <post-time>1515377953</post-time>
   </entry>
   <entry type="song">
     <title>Milkyway.mp3</title>
@@ -10413,6 +10413,29 @@ Ben Werdm&#xFC;ller&lt;/a&gt; recorded at &lt;a href="https://2017.indieweb.org/
     <post-time>1412000303</post-time>
   </entry>
   <entry type="podcast-post">
+    <title>161. Jeff Bussgang on Open Market and early eCommerce</title>
+    <genre>Podcast</genre>
+    <artist>Brian McCullough @brianmcc</artist>
+    <album>Internet History Podcast</album>
+    <duration>2439</duration>
+    <file-size>29423772</file-size>
+    <location>file:///home/tom/Downloads/podcast/Internet%20History%20Podcast/161._Jeff_Bussgang_on_Open_Market_and_early_eCommerce.mp3</location>
+    <mountpoint>http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/kLNWk4OP4nA/161._Jeff_Bussgang_on_Open_Market_and_early_eCommerce.mp3</mountpoint>
+    <first-seen>1515378394</first-seen>
+    <last-seen>1515378406</last-seen>
+    <bitrate>95</bitrate>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <status>100</status>
+    <description>It gets my goat that these days, the history of ecommerce begins and ends with Amazon. There were so many companies and big ideas that got us where we are today, and one of the most important companies was Open Market. Jeff Bussgang is here to tell us the (today) often overlooked story of the earliest days of trying to sell stuff on the web. Today, Jeff is a General Partner at Flybridge Capital Partners.</description>
+    <subtitle>http://feeds.feedburner.com/InternetHistoryPodcast</subtitle>
+    <summary></summary>
+    <lang></lang>
+    <copyright></copyright>
+    <image></image>
+    <post-time>1515377166</post-time>
+  </entry>
+  <entry type="podcast-post">
     <title>82. (Ch. 7.4) eBay Wins the Auction Wars</title>
     <genre>Podcast</genre>
     <artist>Brian McCullough @brianmcc</artist>
@@ -10661,6 +10684,8 @@ Ben Werdm&#xFC;ller&lt;/a&gt; recorded at &lt;a href="https://2017.indieweb.org/
     <mountpoint>http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/wKMiZy_wp_4/70._The_Forgotten_Story_of_the_Original_iPhone_Released_in_1998.mp3</mountpoint>
     <first-seen>1514380864</first-seen>
     <last-seen>1514465571</last-seen>
+    <play-count>1</play-count>
+    <last-played>1515343590</last-played>
     <bitrate>95</bitrate>
     <date>0</date>
     <media-type>audio/mpeg</media-type>
