@@ -93,7 +93,11 @@ plugins:
 # - 'jekyll/scholar/extras' # settings in scholar.yml
  - jekyll_github_sample
 # - jekyll-mentions
+ - 'jekyll-galleries'
 ## EOF BASE.YML
+
+
+gallery_dir: gallery
 
 ## jekyll-mentions ##
 #jekyll-mentions:
