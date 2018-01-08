@@ -93,7 +93,7 @@ plugins:
 # - 'jekyll/scholar/extras' # settings in scholar.yml
  - jekyll_github_sample
 # - jekyll-mentions
- - 'jekyll-galleries'
+# - 'jekyll-galleries'
 ## EOF BASE.YML
 
 
