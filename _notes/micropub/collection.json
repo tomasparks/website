@@ -1,0 +1,108 @@
+{
+    "items": [
+        {
+            "type": [
+                "h-entry"
+            ],
+            "properties": {
+                "name": [
+                    "The caption for the whole collection. Instagram, \r\n    Twitter and Swarm are currently limited to posting text associated with the \r\n    whole post rather than associated with each individual image."
+                ],
+                "content": [
+                    {
+                        "html": "The caption for the whole collection. Instgram, \r\n    Twitter and Swarm are currently limited to posting text associated with the \r\n    whole post rather than associated with each individual image.",
+                        "value": "The caption for the whole collection. Instgram, \r\n    Twitter and Swarm are currently limited to posting text associated with the \r\n    whole post rather than associated with each individual image."
+                    }
+                ]
+            },
+            "children": [
+                {
+                    "type": [
+                        "h-entry"
+                    ],
+                    "properties": {
+                        "category": [
+                            {
+                                "type": [
+                                    "h-card"
+                                ],
+                                "properties": {
+                                    "name": [
+                                        "Aaron Parecki"
+                                    ],
+                                    "url": [
+                                        "https://aaronparecki.com"
+                                    ]
+                                },
+                                "value": "Aaron Parecki"
+                            },
+                            {
+                                "type": [
+                                    "h-card"
+                                ],
+                                "properties": {
+                                    "name": [
+                                        "Tantek \u00c7elik"
+                                    ],
+                                    "url": [
+                                        "http://tantek.com"
+                                    ]
+                                },
+                                "value": "Tantek \u00c7elik"
+                            }
+                        ],
+                        "photo": [
+                            "/image1.jpg"
+                        ],
+                        "name": [
+                            "Aaron Parecki\r\n    Tantek \u00c7elik"
+                        ]
+                    }
+                },
+                {
+                    "type": [
+                        "h-entry"
+                    ],
+                    "properties": {
+                        "category": [
+                            {
+                                "type": [
+                                    "h-card"
+                                ],
+                                "properties": {
+                                    "name": [
+                                        "Aaron Parecki"
+                                    ],
+                                    "url": [
+                                        "https://aaronparecki.com"
+                                    ]
+                                },
+                                "value": "Aaron Parecki"
+                            },
+                            {
+                                "type": [
+                                    "h-card"
+                                ],
+                                "properties": {
+                                    "name": [
+                                        "Dora"
+                                    ],
+                                    "url": [
+                                        "https://indiewebcat.com"
+                                    ]
+                                },
+                                "value": "Dora"
+                            }
+                        ],
+                        "photo": [
+                            "/image1.jpg"
+                        ],
+                        "name": [
+                            "Aaron Parecki\r\n    Dora"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

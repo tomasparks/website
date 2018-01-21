@@ -94,19 +94,19 @@ plugins:
  - jekyll_github_sample
 # - jekyll-mentions
 # - 'jekyll-galleries'
- - 'jekyll-gallery-generator' # https://github.com/ggreer/jekyll-gallery-generator
+# - 'jekyll-gallery-generator' # https://github.com/ggreer/jekyll-gallery-generator
 ## EOF BASE.YML
 
-gallery:
-  dir: gallery              # Path to the gallery
-  symlink: false            # false: copy images into _site. true: create symbolic links (saves disk space)
-  title: "gallery"           # Title for gallery index page
-  title_prefix: "gallery: "  # Title prefix for gallery pages. Gallery title = title_prefix + gallery_name
-  sort_field: "date_time"   # How to sort galleries on the index page.
+#gallery:
+#  dir: gallery              # Path to the gallery
+#  symlink: false            # false: copy images into _site. true: create symbolic links (saves disk space)
+#  title: "gallery"           # Title for gallery index page
+#  title_prefix: "gallery: "  # Title prefix for gallery pages. Gallery title = title_prefix + gallery_name
+#  sort_field: "date_time"   # How to sort galleries on the index page.
                             # Possible values are: title, date_time, best_image
-  thumbnail_size:
-    x: 400                  # max width of thumbnails (in pixels)
-    y: 400                  # max height of thumbnails (in pixels)
+ # thumbnail_size:
+ #   x: 400                  # max width of thumbnails (in pixels)
+  #  y: 400                  # max height of thumbnails (in pixels)
 
 
 ## jekyll-mentions ##
