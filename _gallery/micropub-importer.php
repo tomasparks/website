@@ -62,8 +62,7 @@ print_r($json_array);
 //print_r($json_array);
 //$values = deepValues($json_array);
 
-$data=$json_array['items'];
-$data = $data[0];
+$data=$json_array;
 
 //echo yaml_emit($data)."\n";
 
@@ -71,6 +70,7 @@ $out_array['type'] = $data['type'][0];
 $properties_array['name'] = $data['properties']['name'][0];
 $properties_array['content'] = $data['properties']['content'][0];
 $out_array['properties'] = $properties_array;
+
 $children = $data['children'];
 //$children_array
 $out_array['children']  = $children;
