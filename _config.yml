@@ -259,6 +259,7 @@ social:
 
 ## WEBMENTIONS.YML
 webmentions:
+  pages: true
   username: tomasparks.github.io
   js: false
   throttle_lookups:
