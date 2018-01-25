@@ -1,7 +1,18 @@
--id:
- fname:
- lname:
- mname:
- fb: 
- twitter:
- url:
+---
+- id: Melinda.Dean
+  name: Melinda Dean
+  facebook_id: ""
+  twitter_id: ""
+- id: Sue.Mayes
+  name: Sue Mayes
+  facebook_id: ""
+  twitter_id: ""
+- id: Aaron.Parecki
+  name: Aaron Parecki
+  facebook_id: ""
+  twitter_id: ""
+- id: Dora
+  name: Dora
+  facebook_id: ""
+  twitter_id: ""
+...
