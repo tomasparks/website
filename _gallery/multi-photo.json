@@ -28,7 +28,52 @@
 				"content": ["Gran's 80th birthday"],
 				"syndication": ["https://www.facebook.com/photo.php?fbid=659174780914835", "https://www.facebook.com/934483560050621/posts/659174780914835"],
 				"published": "Monday, June 27, 2016 6:51pm"
-			}
-		}]
-	}
-}
+                        ]
+                    }
+                },
+                {
+                    "type": [
+                        "h-entry"
+                    ],
+                    "properties": {
+                        "category": [
+                            {
+                                "type": [
+                                    "h-card"
+                                ],
+                                "properties": {
+                                    "name": [
+                                        "Aaron Parecki"
+                                    ],
+                                    "url": [
+                                        "https://aaronparecki.com"
+                                    ]
+                                },
+                                "value": "Aaron Parecki"
+                            },
+                            {
+                                "type": [
+                                    "h-card"
+                                ],
+                                "properties": {
+                                    "name": [
+                                        "Dora"
+                                    ],
+                                    "url": [
+                                        "https://indiewebcat.com"
+                                    ]
+                                },
+                                "value": "Dora"
+                            }
+                        ],
+                        "photo": [
+                            "/image1.jpg"
+                        ],
+                        "name": [
+                            "Aaron Parecki\r\n    Dora"
+                        ]
+                    }
+                }
+            ]
+        }
+

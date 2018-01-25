@@ -226,7 +226,7 @@ $out_array['properties']['children']  = $children;
 }
 	$date_split = date_parse($properties_array['published']);
 
-	$md_array['layout'] = "album";
+	$md_array['layout'] = "photo-album";
 	$md_array['date'] = $properties_array['published'];
 	$md_array['syndication'] = $properties_array['syndication'];
 	
