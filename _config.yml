@@ -62,7 +62,7 @@ collections:
    gallery:
      layout: page
      output: true
-     permalink: /gallery/:slug.html  
+     permalink: /gallery/:slug.html
    projects:
      output: true
      layout: project_page
