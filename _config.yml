@@ -59,6 +59,10 @@ defaults:
       webmention: true
 
 collections:
+   gallery:
+     layout: page
+     output: true
+     permalink: /gallery/:path/:slug.html
    projects:
      output: true
      layout: project_page
@@ -79,10 +83,7 @@ collections:
 #    layout: page
 #    output: true
 #    permalink: /questions/:path/
-  gallery:
-    layout: page
-    output: true
-    permalink: /gallery/:path/:slug.html
+
 
 
 plugins: 
