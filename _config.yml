@@ -79,6 +79,10 @@ collections:
 #    layout: page
 #    output: true
 #    permalink: /questions/:path/
+  gallery:
+    layout: page
+    output: true
+    permalink: /gallery/:path/:slug.html
 
 
 plugins: 

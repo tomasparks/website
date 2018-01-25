@@ -244,10 +244,10 @@
     <artist>Marty McGuire</artist>
     <album></album>
     <location>https://martymcgui.re/podcasts/indieweb/feed.rss</location>
-    <last-seen>1516582871</last-seen>
+    <last-seen>1516780775</last-seen>
     <date>0</date>
     <media-type>application/octet-stream</media-type>
-    <status>1</status>
+    <status>2</status>
     <description>This Week in the IndieWeb Audio Edition is a weekly audio summary of This Week in the IndieWeb,
 a digest of activities of the IndieWeb community.
 
@@ -266,10 +266,10 @@ It contains recent and upcoming events, posts from IndieNews, and a summary of w
     <artist>Brian McCullough @brianmcc</artist>
     <album></album>
     <location>http://feeds.feedburner.com/InternetHistoryPodcast</location>
-    <last-seen>1516582858</last-seen>
+    <last-seen>1516780777</last-seen>
     <date>0</date>
     <media-type>application/octet-stream</media-type>
-    <status>1</status>
+    <status>2</status>
     <description>A History Of The Internet Era From Netscape To The iPad</description>
     <subtitle></subtitle>
     <summary></summary>
@@ -10090,6 +10090,37 @@ Ben Werdm&#xFC;ller&lt;/a&gt; recorded at &lt;a href="https://2017.indieweb.org/
     <copyright></copyright>
     <image></image>
     <post-time>1499533369</post-time>
+  </entry>
+  <entry type="podcast-post">
+    <title>This Week in the IndieWeb Audio Edition &#x2022; January 13th - 19th, 2018</title>
+    <genre>Podcast</genre>
+    <artist>Marty McGuire</artist>
+    <album>This Week in the IndieWeb Audio Edition</album>
+    <duration>609</duration>
+    <file-size>14629437</file-size>
+    <location>file:///home/tom/Downloads/podcast/This%20Week%20in%20the%20IndieWeb%20Audio%20Edition/fae966ba4d97592fead71f9acf9c6e66331909725acc3b5594b79e6d.mp3</location>
+    <mountpoint>https://media.martymcgui.re/4b/3d/a9/de/fae966ba4d97592fead71f9acf9c6e66331909725acc3b5594b79e6d.mp3</mountpoint>
+    <first-seen>1516730369</first-seen>
+    <last-seen>1516730374</last-seen>
+    <bitrate>192</bitrate>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <status>100</status>
+    <description>&lt;p&gt;Find this episode on the web at &lt;a href="https://martymcgui.re/2018/01/23/120410/"&gt;https://martymcgui.re/2018/01/23/120410/&lt;/a&gt;.&lt;/p&gt;
+        &lt;p&gt;Audio edition for &lt;a href="https://indieweb.org/this-week/2018-01-19.html"&gt;This Week in the IndieWeb for January 13th - 19th, 2018&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;You can find all of my audio editions and subscribe with your favorite podcast app here: &lt;a href="https://martymcgui.re/podcasts/indieweb/"&gt;martymcgui.re/podcasts/indieweb/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Music from &lt;a href="https://aaronparecki.com/"&gt;Aaron Parecki&lt;/a&gt;&#x2019;s &lt;a href="https://100.aaronparecki.com/"&gt;100DaysOfMusic project&lt;/a&gt;: &lt;a href="https://aaronparecki.com/2017/03/15/14/day85"&gt;Day 85 - Suit&lt;/a&gt;, &lt;a href="https://aaronparecki.com/2017/02/06/7/day48"&gt;Day 48 - Glitch&lt;/a&gt;, &lt;a href="https://aaronparecki.com/2017/02/07/4/day49"&gt;Day 49 - Floating&lt;/a&gt;, &lt;a href="https://aaronparecki.com/2016/12/29/21/day-9"&gt;Day 9&lt;/a&gt;, and &lt;a href="https://aaronparecki.com/2016/12/31/15/"&gt;Day 11&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Thanks to everyone in the &lt;a href="https://chat.indieweb.org/"&gt;IndieWeb chat&lt;/a&gt; for their feedback and suggestions. Please drop me a note if there are any changes you&#x2019;d like to see for this audio edition!&lt;/p&gt;
+</description>
+    <subtitle>https://martymcgui.re/podcasts/indieweb/feed.rss</subtitle>
+    <summary></summary>
+    <lang></lang>
+    <copyright></copyright>
+    <image></image>
+    <post-time>1516727050</post-time>
   </entry>
   <entry type="podcast-post">
     <title>This Week in the IndieWeb February 10 - 17, 2017</title>
