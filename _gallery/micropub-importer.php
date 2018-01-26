@@ -259,7 +259,7 @@ $out_array['properties']['children']  = $children;
 	}
 	fclose($mdfile);
 
-//echo yaml_emit($out_array)."\n";
+echo yaml_emit($out_array)."\n";
 			
 			
 ?>
