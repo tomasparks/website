@@ -115,7 +115,7 @@
 				"properties": {
 					"photo": ["./538d57001944a384569edcd044957cc3add8964a.jpg"],
 					"content": [""],
-					"syndication": ["https://www.facebook.com/photo.php?fbid=659176314248015"],
+					"syndication": ["https://www.facebook.com/photo.php?fbid=659176314248015","https://www.facebook.com/934483560050621/posts/659176314248015"],
 					"published": "Monday, June 27, 2016 6:51pm",
 					"category": [{
 						"type": ["h-card"],
@@ -135,15 +135,22 @@
 				"properties": {
 					"photo": ["./71efea26b88e45d8c66ae056810084472288a670.jpg"],
 					"content": [""],
-					"syndication": ["https://www.facebook.com/photo.php?fbid=659177007581279"],
+					"syndication": ["https://www.facebook.com/photo.php?fbid=659177007581279","https://www.facebook.com/934483560050621/posts/659177007581279"],
 					"published": "Monday, June 27, 2016 6:51pm",
 					"category": [{
 						"type": ["h-card"],
 						"properties": {
-							"name": ["Sue Mayes"],
-							"url": ["https://www.facebook.com/sue.maynes"]
+							"name": ["Amber Mayes"],
+							"url": ["https://www.facebook.com/amber.maynes.9"]
 						},
-						"value": "Sue Mayes"
+						"value": "Amber Mayes"
+					},{
+						"type": ["h-card"],
+						"properties": {
+							"name": ["gran"],
+							"url": [""]
+						},
+						"value": "Gran"
 					}]
 
 				}
