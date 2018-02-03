@@ -17,17 +17,11 @@
 							"type": ["h-card"],
 							"properties": {
 								"name": ["Melinda Dean"],
-								"url": ["https://www.facebook.com/profile.php?id=100008119265829"]
-							},
-							"value": "Melinda Dean"
 						},
 						{
 							"type": ["h-card"],
 							"properties": {
 								"name": ["Sue Mayes"],
-								"url": ["https://www.facebook.com/sue.maynes"]
-							},
-							"value": "Sue Mayes"
 						}
 
 					]

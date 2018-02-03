@@ -34,5 +34,5 @@ gem 'jekyll-asciinema'
 #gem 'rtex'
 
 group :jekyll_plugins do
-  gem 'jekyll-webmention_io'
+  gem 'jekyll-webmention_io', github: 'aarongustafson/jekyll-webmention_io'
 end
