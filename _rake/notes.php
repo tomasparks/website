@@ -451,7 +451,7 @@ $webmention_path = str_replace("_rake",".jekyll-cache",$path);
 
 	if (file_exists($webmention_path."/webmention_io_received.yml")) {
 		$WM_recv = yaml_parse_file($webmention_path."/webmention_io_received.yml");
-		echo "\n"; 
+		echo yaml_emit($WM_recv)."\n"; 
 	} else { mkdir($webmention_path."/", 0755, true); }
 	
 	
