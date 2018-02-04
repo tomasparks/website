@@ -60,12 +60,13 @@ function hcard($data)
 {
 	echo "entering hcard(\n".yaml_emit($data)."\n)\n";
 	$persondbfile ="../_data/personDB.yml";
+	$indb = false;
 
 	$out_array['type'] = $data['type'][0];
 	#$out_array['properties']['name'] = $data['properties']['name'][0];
 	#$out_array['properties']['url'] =$data['properties']['url'][0];
 
-	$out_array['properties']['name'] = str_ireplace(" ",".",ucwords($data['properties']['name'][0]));
+	$out_array['properties']['name'] = str_ireplace(" ",".",ucwords($data['properties']['name']));
 
 	if (file_exists($persondbfile)) {
 		$persondb = yaml_parse_file($persondbfile); 
@@ -74,6 +75,7 @@ function hcard($data)
 		echo "\n".yaml_emit($chcard)."\n";
 
 		if ($chcard['id'] == $out_array['properties']['name']) {
+			echo $chcard['id']." == ".$out_array['properties']['name']."\n";
 			echo "found match :)\n";
 			$hcard = $chcard;
 			$indb = true;
@@ -81,18 +83,19 @@ function hcard($data)
 	}
 
 	if (!isset($hcard)) {
-		$hcard['id'] = str_ireplace(" ",".",ucwords($data['properties']['name'][0]));
-		$hcard['name'] = $data['properties']['name'][0];
+		$hcard['id'] = str_ireplace(" ",".",ucwords($data['properties']['name']));
+		$hcard['name'] = $data['properties']['name'];
 		$hcard['facebook_id'] ="";
 		$hcard['twitter_id'] ="";
+		$hcard['url']="";
 
 	}
 
-	$urlhost = strtolower(parse_url($data['properties']['url'][0],PHP_URL_HOST));
+	$urlhost = strtolower(parse_url($data['properties']['url'],PHP_URL_HOST));
 
 	if (!$urlhost == "facebook.com") {
-		echo $urlhost." NOT = facebook.com\n";
-		$hcard['url'] = $data['properties']['url'][0];
+		//echo $urlhost." NOT = facebook.com\n";
+		$hcard['url'] = $data['properties']['url'];
 	}
 
 	if (is_array($persondb)) {
@@ -108,10 +111,8 @@ function hcard($data)
 	yaml_emit_file($persondbfile,$persondb);
 
 	if ($indb) {
-		$out_array['properties']['id'] = $hcard['id'];
-		$out_array['properties']['name'] = $hcard['name'];
-		$out_array['properties']['facebook_id'] = $hcard['facebook_id'];
-		$out_array['properties']['twitter_id'] = $hcard['twitter_id'];
+		$out_array['properties'] = $hcard;
+
 	}
 
 	echo "exiting hcard(\n".yaml_emit($out_array)."\n)\n";
@@ -207,7 +208,7 @@ print_r($json_array);
 
 $data=$json_array;
 
-echo yaml_emit($data)."\n";
+//echo yaml_emit($data)."\n";
 
 $out_array['type'] = $data['type'][0];
 #$properties_array['name'] = $data['properties']['name'][0];
@@ -231,22 +232,28 @@ $out_array['properties']['children']  = $children;
 	$md_array['syndication'] = $properties_array['syndication'];
 	
 	if (isset($out_array['properties']['children'])) {
-			echo yaml_emit($out_array['properties']['children'])."\n";
+			//echo yaml_emit($out_array['properties']['children'])."\n";
 		foreach($out_array['properties']['children'] as $child) {
+		echo "child loop\n";
 			echo yaml_emit($child)."\n";
+			$ptag_array="";
 			$photo_array['filename'] = $child['properties']['photo'];
 			$photo_array['content'] = $child['properties']['content'];
 			$photo_array['link'] = $child['properties']['photo_hash'].".html";
+			
 			foreach($child['properties']['category'] as $cat) {
+					echo "cat loop\n";
+			echo yaml_emit($cat)."\n";
 				if ($cat['type'] == "h-card") {
 					$ptag_array[]  = $cat['properties'];
 				}
-		
+				echo "cat loop\n";
 		}
 	//$children_array
 	$photo_array['ptag'] = $ptag_array;
 	$md_array['photos'][]  = $photo_array;
 	}
+					echo "child loop\n";
 	}
 	#$md_array['photo'] = $properties_array['photo'];
 
@@ -259,7 +266,8 @@ $out_array['properties']['children']  = $children;
 	}
 	fclose($mdfile);
 
+echo "completed with:\n";
 echo yaml_emit($out_array)."\n";
-			
+echo "Ended\n"			
 			
 ?>
