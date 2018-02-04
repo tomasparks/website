@@ -1,11 +1,11 @@
 {
   "type": ["h-entry"],
   "properties": {
-    "content": "-16 hours ago",
+    "content": "",
 		"published": "2018-01-21 4:38pm",
-		 "like-of": "https://xkcd.com/1944/"
+		 "like-of": "https://xkcd.com/1944/",
 		 "syndication": [
 			"https://www.facebook.com/tom.sparks.106/posts/937357829763194"
-		],
+		]
   }
 }

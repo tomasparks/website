@@ -8,7 +8,7 @@ require_once './goodreads-api/GoodReads.php';
 date_default_timezone_set('Australia/Brisbane');
 
 
-function create_notes($data,$logfile) {
+function create_notes($data,$logfile, $WM_recv) {
     foreach ($data as $note) {
     	//print_r($note);
     	
@@ -215,8 +215,10 @@ function create_notes($data,$logfile) {
 					fwrite($mdfile, $note['message']."\n");
 				}
 				fclose($mdfile);
+				$WM_recv[] = $md_array['permalink'];
     	fwrite($logfile, "\n".$frontmatter."\n"); 
     }
+    return $WM_recv;
 }
 
 
@@ -445,6 +447,13 @@ $logfile = fopen("log.log", "w");
 global $logfile;
 
 $notes_path = str_replace("_rake","_notes",$path);
+$webmention_path = str_replace("_rake",".jekyll-cache",$path);
+
+	if (file_exists($webmention_path."/webmention_io_received.yml")) {
+		$WM_recv = yaml_parse_file($webmention_path."/webmention_io_received.yml"); 
+	} else { mkdir($webmention_path."/", 0755, true); }
+	
+	
 chdir($notes_path);
 
 
@@ -501,11 +510,12 @@ foreach ($notes_dir as $dir) {
     					fwrite($logfile,$file." json file :) \n");
     					$data = json_parse_file ( $file, $logfile );
 
-    					create_notes($data, $logfile);
+    					$WM_recv = create_notes($data, $logfile,$WM_recv);
 						break;						
 					}
 			}
 	}
 }
+	yaml_emit_file($webmention_path."/webmention_io_received.yml",$WM_recv);
     	fclose($logfile);
 ?>
