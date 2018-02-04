@@ -215,7 +215,8 @@ function create_notes($data,$logfile, $WM_recv) {
 					fwrite($mdfile, $note['message']."\n");
 				}
 				fclose($mdfile);
-				$WM_recv_array[$md_array['permalink']] = "";
+				$WM_array[]="";
+				$WM_recv_array[$md_array['permalink']]=$WM_array;
     	fwrite($logfile, "\n".$frontmatter."\n"); 
     }
     return $WM_recv_array;
@@ -448,11 +449,8 @@ global $logfile;
 
 $notes_path = str_replace("_rake","_notes",$path);
 $webmention_path = str_replace("_rake",".jekyll-cache",$path);
-
-	if (file_exists($webmention_path."/webmention_io_received.yml")) {
-		$WM_recv = yaml_parse_file($webmention_path."/webmention_io_received.yml");
-		echo yaml_emit($WM_recv)."\n"; 
-	} else { mkdir($webmention_path."/", 0755, true); }
+$wb_recv_file = $webmention_path."/webmention_io_received.yml"; 
+$WM_recv="";
 	
 	
 chdir($notes_path);
@@ -517,6 +515,7 @@ foreach ($notes_dir as $dir) {
 			}
 	}
 }
-	//yaml_emit_file($webmention_path."/webmention_io_received.yml",$WM_recv);
+mkdir($webmention_path."/", 0755, true);
+	yaml_emit_file($webmention_path."/webmention_io_received.yml",$WM_recv);
     	fclose($logfile);
 ?>
