@@ -515,7 +515,7 @@ foreach ($notes_dir as $dir) {
 			}
 	}
 }
-mkdir($webmention_path."/", 0755, true);
-	yaml_emit_file($webmention_path."/webmention_io_received.yml",$WM_recv);
+#mkdir($webmention_path."/", 0755, true);
+#	yaml_emit_file($webmention_path."/webmention_io_received.yml",$WM_recv);
     	fclose($logfile);
 ?>
