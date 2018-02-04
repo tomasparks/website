@@ -216,7 +216,7 @@ function create_notes($data,$logfile, $WM_recv) {
 				}
 				fclose($mdfile);
 				$WM_array[]="";
-				$WM_recv_array[$md_array['permalink']]=$WM_array;
+				$WM_recv_array['"'.$md_array['permalink'].'"']=$WM_array;
     	fwrite($logfile, "\n".$frontmatter."\n"); 
     }
     return $WM_recv_array;
