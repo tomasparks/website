@@ -21,7 +21,7 @@ november-29-photo.temp skipping md file
 [".","..","may-4-photo.temp"]
 may-4-photo.temp skipping md file
 2016
-[".","..","december-16-like.temp","december-25-like.temp","december-25-like.tempa","december-25a-like.temp","december-26-like.temp","december-26-like.tempa","december-28-like.temp","december-28-like.tempa","december-29-544am-like.json","f22df25c2c45dfe6e8d56715eb20904735581bcc.md","june-27-photo-rip.tofix","november-03.temp"]
+[".","..","december-16-like.temp","december-25-like.temp","december-25-like.tempa","december-25a-like.temp","december-26-like.temp","december-26-like.tempa","december-28-like.temp","december-28-like.tempa","december-29-544am-like.json","june-27-photo-rip.tofix","november-03.temp"]
 december-16-like.temp skipping md file
 december-25-like.temp skipping md file
 december-25-like.tempa skipping md file
@@ -55,11 +55,9 @@ categories:
 - techdirt.com
 ---
 
-f22df25c2c45dfe6e8d56715eb20904735581bcc.md skipping md file
 november-03.temp skipping md file
 2017
-[".","..","233fac81f0ae57090c5800475e64aa348477c9b7.md","Jan-21_4-26pm-like.json","afbe5d27155251f31e8066a1b25b387c1d05645d.md","april-01-like.temp","april-01a-like.temp","april-23-like.temp","august-15-like.temp","august-16-like.temp","august-31-like.temp","january-07-like.temp","january-10-like.temp","january-13-like.temp","january-19.temp","january-24.temp","july-08-like.temp","july-13-like.temp","july-22-like.temp","june-02-like.temp","june-02a-like.temp","june-08-like.temp","june-10-like.temp","june-14-like.temp","june-30-like.temp","march-06-like.temp","march-17-like.temp","march-28-like.temp","march-31-like.temp","may-02-like.temp","may-14-like.temp","may-25-like.temp","may-27-like.temp","october-06-like.temp","october-09-like.temp","october-12-like.temp","october-19.json","september-16-like.temp","september-19-like.temp","september-23.temp","temp.temp"]
-233fac81f0ae57090c5800475e64aa348477c9b7.md skipping md file
+[".","..","Jan-21_4-26pm-like.json","april-01-like.temp","april-01a-like.temp","april-23-like.temp","august-15-like.temp","august-16-like.temp","august-31-like.temp","january-07-like.temp","january-10-like.temp","january-13-like.temp","january-19.temp","january-24.temp","july-08-like.temp","july-13-like.temp","july-22-like.temp","june-02-like.temp","june-02a-like.temp","june-08-like.temp","june-10-like.temp","june-14-like.temp","june-30-like.temp","march-06-like.temp","march-17-like.temp","march-28-like.temp","march-31-like.temp","may-02-like.temp","may-14-like.temp","may-25-like.temp","may-27-like.temp","october-06-like.temp","october-09-like.temp","october-12-like.temp","october-19.json","september-16-like.temp","september-19-like.temp","september-23.temp","temp.temp"]
 Jan-21_4-26pm-like.json json file :) 
 [{"date":"2017-01-21 4:26pm","message":"","type":"like","url":"https:\/\/arstechnica.com\/tech-policy\/2017\/01\/op-ed-how-i-turned-a-traffic-ticket-into-the-constitutional-trial-of-the-century\/","tags":{"syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/793391387493173"]}}]
 
@@ -85,7 +83,6 @@ categories:
 - arstechnica.com
 ---
 
-afbe5d27155251f31e8066a1b25b387c1d05645d.md skipping md file
 april-01-like.temp skipping md file
 april-01a-like.temp skipping md file
 april-23-like.temp skipping md file
@@ -145,7 +142,7 @@ september-19-like.temp skipping md file
 september-23.temp skipping md file
 temp.temp skipping md file
 2018
-[".","..","01-06-like.temp","01-06a-like.temp","01-16_3-07pm-like.json","01-21_4-38pm-like.json","1c880f35561cf78bab26d27ee3fc10ac4577b125.md"]
+[".","..","01-06-like.temp","01-06a-like.temp","01-16_3-07pm-like.json","01-21_4-38pm-like.json"]
 01-06-like.temp skipping md file
 01-06a-like.temp skipping md file
 01-16_3-07pm-like.json json file :) 
@@ -174,18 +171,18 @@ categories:
 ---
 
 01-21_4-38pm-like.json json file :) 
-[{"date":"2018-01-21 4:38pm","message":"-16 hours ago","type":"like","url":"https:\/\/xkcd.com\/1944\/","tags":{"syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/937357829763194"]}}]
+[{"date":"2018-01-21 4:38pm","message":"","type":"like","url":"https:\/\/xkcd.com\/1944\/","tags":{"syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/937357829763194"]}}]
 
 --------------------
-hash: dee12b6c17ecdafd97d35cb023206b4471a5271c
-json_encode: {"date":"2018-01-21 4:38pm","message":"-16 hours ago","type":"like","url":"https:\/\/xkcd.com\/1944\/","tags":{"syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/937357829763194"]}}
+hash: 29fc1f4d3d6d80e35d93d77f89f9974b1b03ed3f
+json_encode: {"date":"2018-01-21 4:38pm","message":"","type":"like","url":"https:\/\/xkcd.com\/1944\/","tags":{"syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/937357829763194"]}}
 --------------------
 
 ---
 layout: notes_like
 date: "2018-01-21T16:38:00+10:00"
 type: like
-permalink: /notes/like/xkcd.com/2018/01/21/dee12b6c17ecdafd97d35cb023206b4471a5271c.html
+permalink: /notes/like/xkcd.com/2018/01/21/29fc1f4d3d6d80e35d93d77f89f9974b1b03ed3f.html
 syndication:
 - https://www.facebook.com/tom.sparks.106/posts/937357829763194
 ext-url: https://xkcd.com/1944/
@@ -198,7 +195,6 @@ categories:
 - xkcd.com
 ---
 
-1c880f35561cf78bab26d27ee3fc10ac4577b125.md skipping md file
 pda
 [".","..","2017","2018"]
 .
