@@ -1,13 +1,10 @@
 ---
 title: Mindmap
-categories: top
+categories: "null"
 permalink: /mindmap/
 parent: "null"
 layout: mindmap_index
 pagination:
-  collection: mindmap
-  category: top
   enabled: "true"
-  extension: html
-  indexpage: index
+  collection: top
 ---

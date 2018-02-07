@@ -73,16 +73,12 @@ function array2tree($treedb,$gobaldb,$rootpath) {
 	chdir($rootpath);
 	$frontmatter = array (
 		'title'=>'Mindmap',
-		'categories'=>'top',
+		'categories'=>'null',
 		'permalink'=>'/mindmap/',
 		'parent'=>'null',
 		'layout'=>'mindmap_index',
-		'pagination'=> array(
-							'collection'=>'mindmap',
-							'category'=>'top',
-							'enabled'=>'true',
-							'extension'=>'html',
-							'indexpage'=>'index')
+		'pagination'=> array('enabled'=>'true',
+  'collection'=>'top')
 						 );
 	$contents = "";
 	$filename = $rootpath."/index.md";
