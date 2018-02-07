@@ -1,0 +1,90 @@
+---
+name: TV series & Movies
+id: tv_movies
+background_image: .jpg
+copyright_notices:
+  text:
+    tvdb: text is from https://www.thetvdb.com used under Creative Commons Attribution-NonCommercial
+      4.0 International License.
+    wikipedia: text is from wikipedia Text is used under the Creative Commons Attribution-ShareAlike
+      License.
+    TMDb: text is from The Movie Database
+  images:
+    tvdb: Images are from https://www.thetvdb.com used under Creative Commons Attribution-NonCommercial
+      4.0 International License.
+    wikipedia: images are from wikipedia
+    TMDb: images are from The Movie Database
+genre:
+- name: Science fiction
+  id: sci-fi
+  background_image: .jpg
+  shows:
+  - name: Babylon 5
+    id: B5
+    tvdb: "70726"
+    fanart: .jpg
+    logo: .png
+    review: I watched it for it's early CGI
+  - name: Stargate SG-1
+    id: SG-SG1
+    tvdb: "72449"
+    fanart: .jpg
+    logo: .png
+    review: bla bla bla
+  - name: Stargate Atlantis
+    id: SGA
+    tvdb: "70851"
+    fanart: .jpg
+    logo: .png
+    review: bla bla bla
+  - name: Stargate Universe
+    id: SGU
+    tvdb: "83237"
+    fanart: .jpg
+    logo: .png
+    review: bla bla bla
+  - name: Stargate Origins
+    id: SGO
+    tvdb: "339552"
+    fanart: .jpg
+    logo: .png
+    review: bla bla bla
+  - name: Farscape
+    id: farscape
+    tvdb: "70522"
+    fanart: .jpg
+    logo: .png
+    review: i've been meaning to rewatch this
+  - name: 'Star Trek: TOS'
+    id: ST-TOS
+    tvdb: ""
+    fanart: .jpg
+    logo: .png
+    review: i've been meaning to watch this
+- name: Comedy
+  id: comedy
+  background_image: .jpg
+  shows:
+  - name: The Big Bang Theory
+    id: TBBT
+    tvdb: "80379"
+    fanart: .jpg
+    logo: .png
+    review: bla bla bla
+  - name: Robot Chicken
+    id: robot-chicken
+    tvdb: "75734"
+    fanart: .jpg
+    logo: .png
+    review: bla bla bla
+- name: Documentary
+  id: documentary
+  background_image: .jpg
+  shows:
+  - name: The Grand Tour (2016)
+    id: grand-tour
+    tvdb: "314087"
+    fanart: .jpg
+    logo: The_Grand_Tour_Logo.png
+    review: I dont like car shows, but i like watching the adventures they get up to
+...

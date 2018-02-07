@@ -1,0 +1,30 @@
+---
+name: Music
+id: music
+background_image: .jpg
+copyright_notices:
+  text:
+    musicbrainz: text is from musicbrainz used under CC0 Public Domain and/or Creative Commons Attribution-NonCommercial-ShareAlike 3.0.
+    wikipedia: text is from wikipedia Text is used under the Creative Commons Attribution-ShareAlike
+      License.
+  images:
+    coverartarchive: All images are uploaded from users' computers directly to Internet Archive servers. All images are copyrighted by their respective copyright owners.
+      4.0 International License.
+    wikipedia: images are from wikipedia
+genre:
+- name: video game music
+  id: VG
+  background_image: .jpg
+  artists:
+  - name: chris Hülsbeck
+    id: chris_huelsbeck
+    musicbrainz: "6a4ee4c8-eaed-48ef-84c2-34ee655e2312"
+    website: http://www.huelsbeck.com/
+    photo: .jpg
+      albums:
+        - name: Turrican Soundtrack Anthology
+          id: TSA
+          musicbrainz: "031a1df1-4bf1-4c1c-9ba7-fab06631c03e"
+          coverart: .png
+          background_image: .jpg
+...

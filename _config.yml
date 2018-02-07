@@ -75,6 +75,8 @@ collections:
      output: true
      layout: post
      permalink: /notes/:year:month:day-:slug.html  
+   mindmap:
+     output: true
 #  computers:
 #    layout: page
 #    output: true
