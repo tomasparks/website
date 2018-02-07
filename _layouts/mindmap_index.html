@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: null
 pagination:
   enabled: true
   pagination:
@@ -8,7 +8,7 @@ pagination:
 ---
 
 <ul>
-	<li><a href="..">{{post.parent}}</a>
+	<li><a href="..">{{page.parent}}</a>
 
 	<ul>
 	{% for post in paginator.posts %}
