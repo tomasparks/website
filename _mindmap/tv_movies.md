@@ -1,6 +1,6 @@
 ---
 title: TV series & Movies
-permalink: ./tv_movies/
+permalink: /mindmap/tv_movies/
 categories: top
 parent: top
 layout: mindmap_index

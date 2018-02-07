@@ -46,7 +46,7 @@ function tv_movies_levels($treedb,$gobaldb) {
 		$tmp_lvl2['name'] = $genre['name'];
 		$tmp_lvl2['id'] = $genre['id'];
 		foreach ($genre['shows'] as $shows) {
-				$tmp_lvl3['url']="./".$database['id']."/".$genre['id']."/".$shows['id'].'.html';
+				$tmp_lvl3['url']="/mindmap/".$database['id']."/".$genre['id']."/".$shows['id'].'.html';
 				$tmp_lvl3['name'] = $shows['name'];
 				$tmp_lvl3['id'] = $shows['id'];
 				$arr[] = $tmp_lvl3;
@@ -58,7 +58,7 @@ function tv_movies_levels($treedb,$gobaldb) {
 		}
 
 
-	$tmp_lvl1 = array ("name"=>$database['name'],"id"=>$database['id'],"url"=>"./".$database['id']."/", "level2" => $tp_lvl1  );
+	$tmp_lvl1 = array ("name"=>$database['name'],"id"=>$database['id'],"url"=>"/mindmap/".$database['id']."/", "level2" => $tp_lvl1  );
 	
 	$treedb['level1'][] = $tmp_lvl1;
 	$gobaldb['level1'][] = $database;
