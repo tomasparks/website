@@ -1,6 +1,7 @@
 ---
 title: Mindmap
 categories: top
+permalink: /mindmap/
 parent: "null"
 layout: mindmap_index
 pagination:

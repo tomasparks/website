@@ -1,6 +1,6 @@
 ---
 title: Documentary
-permalink: ./tv_movies/documentary/
+permalink: /mindmap/tv_movies/documentary/
 categories: tv_movies
 parent: tv_movies
 layout: mindmap_page

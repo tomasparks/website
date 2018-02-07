@@ -1,6 +1,6 @@
 ---
 title: Comedy
-permalink: ./tv_movies/comedy/
+permalink: /mindmap/tv_movies/comedy/
 categories: tv_movies
 parent: tv_movies
 layout: mindmap_page

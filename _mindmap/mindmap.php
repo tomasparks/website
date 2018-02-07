@@ -42,7 +42,7 @@ function tv_movies_levels($treedb,$gobaldb) {
 
 	
 	foreach ($database['genre'] as $genre) {
-		$tmp_lvl2['url'] = "./".$database['id']."/".$genre['id']."/";
+		$tmp_lvl2['url'] = "/mindmap/".$database['id']."/".$genre['id']."/";
 		$tmp_lvl2['name'] = $genre['name'];
 		$tmp_lvl2['id'] = $genre['id'];
 		foreach ($genre['shows'] as $shows) {
@@ -74,6 +74,7 @@ function array2tree($treedb,$gobaldb,$rootpath) {
 	$frontmatter = array (
 		'title'=>'Mindmap',
 		'categories'=>'top',
+		'permalink'=>'/mindmap/',
 		'parent'=>'null',
 		'layout'=>'mindmap_index',
 		'pagination'=> array(

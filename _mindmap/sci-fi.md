@@ -1,6 +1,6 @@
 ---
 title: Science fiction
-permalink: ./tv_movies/sci-fi/
+permalink: /mindmap/tv_movies/sci-fi/
 categories: tv_movies
 parent: tv_movies
 layout: mindmap_page
