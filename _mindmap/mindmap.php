@@ -119,7 +119,7 @@ function array2tree($treedb,$gobaldb,$rootpath) {
 		'permalink'=>$value['url'],
 		'categories'=>$parent,
 		'parent'=>$parent,
-		'layout'=>'mindmap_page',
+		'layout'=>'mindmap_index',
 				'pagination'=> array(
 							'collection'=>'mindmap',
 							'category'=>$value['id'],

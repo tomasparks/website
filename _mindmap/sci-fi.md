@@ -3,7 +3,7 @@ title: Science fiction
 permalink: /mindmap/tv_movies/sci-fi/
 categories: tv_movies
 parent: tv_movies
-layout: mindmap_page
+layout: mindmap_index
 pagination:
   collection: mindmap
   category: sci-fi
