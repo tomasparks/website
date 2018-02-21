@@ -1,0 +1,14 @@
+{
+  "type": ["h-entry"],
+  "properties": {
+    "content": "",
+"syndication": [
+			"https://www.facebook.com/tom.sparks.106/posts/831155353716776"	
+			],
+		"published":"2017-03-31",
+		"like-of": "https://arstechnica.com/tech-policy/2017/03/public-records-activist-violated-copyright-by-publishing-georgia-legal-code-online/"
+  }
+}
+
+
+

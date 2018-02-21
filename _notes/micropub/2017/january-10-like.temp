@@ -1,0 +1,14 @@
+{
+  "type": ["h-entry"],
+  "properties": {
+    "content": "",
+"syndication": [
+			"https://www.facebook.com/tom.sparks.106/posts/787379894760989"	
+			],
+		"published":"2017-01-10",
+		"like-of": "https://www.techdirt.com/articles/20170103/05344436390/tanzanian-farmers-face-12-years-prison-selling-seeds-as-theyve-done-generations.shtml"
+  }
+}
+
+
+

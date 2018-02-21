@@ -1,0 +1,941 @@
+[".","..","local","micropub","pda"]
+.
+..
+local
+[".","..","2017","2018"]
+.
+..
+2017
+[".","..","10.yml","r10.yml","r12.yml"]
+2018
+[".","..","01.yml","r1.yml"]
+micropub
+[".","..","2014","2015","2016","2017","2018"]
+.
+..
+2014
+[".","..","07-08-photo.temp","november-29-photo.temp"]
+07-08-photo.temp skipping temp file
+november-29-photo.temp skipping temp file
+2015
+[".","..","may-4-photo.temp"]
+may-4-photo.temp skipping temp file
+2016
+[".","..","June 27.json","december-16-like.temp","december-25-like.temp","december-25-like.tempa","december-25a-like.temp","december-26-like.temp","december-26-like.tempa","december-28-like.temp","december-28-like.tempa","december-29-544am-like.json","june-27-photo-rip.tofix","november-03.temp"]
+June 27.json json file :) 
+{
+    "date": "Monday, June 27, 2016 6:51pm",
+    "message": "photos with Gran RIP",
+    "syndication": [
+        "https:\/\/www.facebook.com\/tom.sparks.106\/posts\/659177124247934"
+    ],
+    "type": "twitter"
+}
+
+--------------------
+hash: 8852bcdc24768e6a6848d5d496e7f5fdf202f1a8
+json_encode: {"date":"Monday, June 27, 2016 6:51pm","message":"photos with Gran RIP","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/659177124247934"],"type":"twitter"}
+--------------------
+
+---
+layout: notes_twitter
+date: "2016-06-27T18:51:00+10:00"
+type: twitter
+permalink: /notes/twitter/2016/06/27/8852bcdc24768e6a6848d5d496e7f5fdf202f1a8.html
+title: 'twitted: 8852bcdc24768e6a6848d5d496e7f5fdf202f1a8'
+categories:
+- twitter
+- June
+- 2016
+- 27
+---
+
+
+--------------------
+hash: 8852bcdc24768e6a6848d5d496e7f5fdf202f1a8
+json_encode: {"date":"Monday, June 27, 2016 6:51pm","message":"photos with Gran RIP","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/659177124247934"],"type":"twitter"}
+--------------------
+
+---
+layout: notes_twitter
+date: "2016-06-27T18:51:00+10:00"
+type: twitter
+permalink: /notes/twitter/2016/06/27/8852bcdc24768e6a6848d5d496e7f5fdf202f1a8.html
+title: 'twitted: 8852bcdc24768e6a6848d5d496e7f5fdf202f1a8'
+categories:
+- twitter
+- June
+- 2016
+- 27
+---
+
+
+--------------------
+hash: 8852bcdc24768e6a6848d5d496e7f5fdf202f1a8
+json_encode: {"date":"Monday, June 27, 2016 6:51pm","message":"photos with Gran RIP","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/659177124247934"],"type":"twitter"}
+--------------------
+
+---
+layout: notes_twitter
+date: "2016-06-27T18:51:00+10:00"
+type: twitter
+permalink: /notes/twitter/2016/06/27/8852bcdc24768e6a6848d5d496e7f5fdf202f1a8.html
+title: 'twitted: 8852bcdc24768e6a6848d5d496e7f5fdf202f1a8'
+categories:
+- twitter
+- June
+- 2016
+- 27
+---
+
+
+--------------------
+hash: 8852bcdc24768e6a6848d5d496e7f5fdf202f1a8
+json_encode: {"date":"Monday, June 27, 2016 6:51pm","message":"photos with Gran RIP","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/659177124247934"],"type":"twitter"}
+--------------------
+
+---
+layout: notes_twitter
+date: "2016-06-27T18:51:00+10:00"
+type: twitter
+permalink: /notes/twitter/2016/06/27/8852bcdc24768e6a6848d5d496e7f5fdf202f1a8.html
+title: 'twitted: 8852bcdc24768e6a6848d5d496e7f5fdf202f1a8'
+categories:
+- twitter
+- June
+- 2016
+- 27
+---
+
+december-16-like.temp skipping temp file
+december-25-like.temp skipping temp file
+december-25-like.tempa skipping temp file
+december-25a-like.temp skipping temp file
+december-26-like.temp skipping temp file
+december-26-like.tempa skipping temp file
+december-28-like.temp skipping temp file
+december-28-like.tempa skipping temp file
+december-29-544am-like.json json file :) 
+{
+    "date": "Thursday, December 29, 2016 at 5:44am",
+    "message": "",
+    "syndication": [
+        "https:\/\/www.facebook.com\/tom.sparks.106\/posts\/780738528758459"
+    ],
+    "type": "like",
+    "url": "https:\/\/www.techdirt.com\/articles\/20161225\/22534736346\/i-thought-piracy-was-killing-entertainment-new-record-scripted-shows-2016.shtml"
+}
+
+--------------------
+hash: 2541d5e47e582d574d0e316c6be3623393e01740
+json_encode: {"date":"Thursday, December 29, 2016 at 5:44am","message":"","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/780738528758459"],"type":"like","url":"https:\/\/www.techdirt.com\/articles\/20161225\/22534736346\/i-thought-piracy-was-killing-entertainment-new-record-scripted-shows-2016.shtml"}
+--------------------
+
+---
+layout: notes_like
+date: "1970-01-01T10:00:00+10:00"
+type: like
+permalink: /notes/like/techdirt.com/2016/12/29/2541d5e47e582d574d0e316c6be3623393e01740.html
+ext-url: https://www.techdirt.com/articles/20161225/22534736346/i-thought-piracy-was-killing-entertainment-new-record-scripted-shows-2016.shtml
+title: Liked a page on techdirt.com
+categories:
+- like
+- December
+- 2016
+- 29
+- techdirt.com
+---
+
+
+--------------------
+hash: 2541d5e47e582d574d0e316c6be3623393e01740
+json_encode: {"date":"Thursday, December 29, 2016 at 5:44am","message":"","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/780738528758459"],"type":"like","url":"https:\/\/www.techdirt.com\/articles\/20161225\/22534736346\/i-thought-piracy-was-killing-entertainment-new-record-scripted-shows-2016.shtml"}
+--------------------
+
+---
+layout: notes_like
+date: "1970-01-01T10:00:00+10:00"
+type: like
+permalink: /notes/like/techdirt.com/2016/12/29/2541d5e47e582d574d0e316c6be3623393e01740.html
+ext-url: https://www.techdirt.com/articles/20161225/22534736346/i-thought-piracy-was-killing-entertainment-new-record-scripted-shows-2016.shtml
+title: Liked a page on techdirt.com
+categories:
+- like
+- December
+- 2016
+- 29
+- techdirt.com
+---
+
+
+--------------------
+hash: 2541d5e47e582d574d0e316c6be3623393e01740
+json_encode: {"date":"Thursday, December 29, 2016 at 5:44am","message":"","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/780738528758459"],"type":"like","url":"https:\/\/www.techdirt.com\/articles\/20161225\/22534736346\/i-thought-piracy-was-killing-entertainment-new-record-scripted-shows-2016.shtml"}
+--------------------
+
+---
+layout: notes_like
+date: "1970-01-01T10:00:00+10:00"
+type: like
+permalink: /notes/like/techdirt.com/2016/12/29/2541d5e47e582d574d0e316c6be3623393e01740.html
+ext-url: https://www.techdirt.com/articles/20161225/22534736346/i-thought-piracy-was-killing-entertainment-new-record-scripted-shows-2016.shtml
+title: Liked a page on techdirt.com
+categories:
+- like
+- December
+- 2016
+- 29
+- techdirt.com
+---
+
+
+--------------------
+hash: 2541d5e47e582d574d0e316c6be3623393e01740
+json_encode: {"date":"Thursday, December 29, 2016 at 5:44am","message":"","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/780738528758459"],"type":"like","url":"https:\/\/www.techdirt.com\/articles\/20161225\/22534736346\/i-thought-piracy-was-killing-entertainment-new-record-scripted-shows-2016.shtml"}
+--------------------
+
+---
+layout: notes_like
+date: "1970-01-01T10:00:00+10:00"
+type: like
+permalink: /notes/like/techdirt.com/2016/12/29/2541d5e47e582d574d0e316c6be3623393e01740.html
+ext-url: https://www.techdirt.com/articles/20161225/22534736346/i-thought-piracy-was-killing-entertainment-new-record-scripted-shows-2016.shtml
+title: Liked a page on techdirt.com
+categories:
+- like
+- December
+- 2016
+- 29
+- techdirt.com
+---
+
+
+--------------------
+hash: 2541d5e47e582d574d0e316c6be3623393e01740
+json_encode: {"date":"Thursday, December 29, 2016 at 5:44am","message":"","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/780738528758459"],"type":"like","url":"https:\/\/www.techdirt.com\/articles\/20161225\/22534736346\/i-thought-piracy-was-killing-entertainment-new-record-scripted-shows-2016.shtml"}
+--------------------
+
+---
+layout: notes_like
+date: "1970-01-01T10:00:00+10:00"
+type: like
+permalink: /notes/like/techdirt.com/2016/12/29/2541d5e47e582d574d0e316c6be3623393e01740.html
+ext-url: https://www.techdirt.com/articles/20161225/22534736346/i-thought-piracy-was-killing-entertainment-new-record-scripted-shows-2016.shtml
+title: Liked a page on techdirt.com
+categories:
+- like
+- December
+- 2016
+- 29
+- techdirt.com
+---
+
+november-03.temp skipping temp file
+2017
+[".","..","Jan-21_4-26pm-like.json","april-01-like.temp","april-01a-like.temp","april-23-like.temp","august-15-like.temp","august-16-like.temp","august-31-like.temp","january-07-like.temp","january-10-like.temp","january-13-like.temp","january-19.temp","january-24.temp","july-08-like.temp","july-13-like.temp","july-22-like.temp","june-02-like.temp","june-02a-like.temp","june-08-like.temp","june-10-like.temp","june-14-like.temp","june-30-like.temp","march-06-like.temp","march-17-like.temp","march-28-like.temp","march-31-like.temp","may-02-like.temp","may-14-like.temp","may-25-like.temp","may-27-like.temp","october-06-like.temp","october-09-like.temp","october-12-like.temp","october-19.json","september-16-like.temp","september-19-like.temp","september-23.temp","temp.temp"]
+Jan-21_4-26pm-like.json json file :) 
+{
+    "date": "2017-01-21 4:26pm",
+    "message": "",
+    "syndication": [
+        "https:\/\/www.facebook.com\/tom.sparks.106\/posts\/793391387493173"
+    ],
+    "type": "like",
+    "url": "https:\/\/arstechnica.com\/tech-policy\/2017\/01\/op-ed-how-i-turned-a-traffic-ticket-into-the-constitutional-trial-of-the-century\/"
+}
+
+--------------------
+hash: 697d07607ce934d87e04f1b78903e2cc321cf334
+json_encode: {"date":"2017-01-21 4:26pm","message":"","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/793391387493173"],"type":"like","url":"https:\/\/arstechnica.com\/tech-policy\/2017\/01\/op-ed-how-i-turned-a-traffic-ticket-into-the-constitutional-trial-of-the-century\/"}
+--------------------
+
+---
+layout: notes_like
+date: "2017-01-21T16:26:00+10:00"
+type: like
+permalink: /notes/like/arstechnica.com/2017/01/21/697d07607ce934d87e04f1b78903e2cc321cf334.html
+ext-url: https://arstechnica.com/tech-policy/2017/01/op-ed-how-i-turned-a-traffic-ticket-into-the-constitutional-trial-of-the-century/
+title: Liked a page on arstechnica.com
+categories:
+- like
+- January
+- 2017
+- 21
+- arstechnica.com
+---
+
+
+--------------------
+hash: 697d07607ce934d87e04f1b78903e2cc321cf334
+json_encode: {"date":"2017-01-21 4:26pm","message":"","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/793391387493173"],"type":"like","url":"https:\/\/arstechnica.com\/tech-policy\/2017\/01\/op-ed-how-i-turned-a-traffic-ticket-into-the-constitutional-trial-of-the-century\/"}
+--------------------
+
+---
+layout: notes_like
+date: "2017-01-21T16:26:00+10:00"
+type: like
+permalink: /notes/like/arstechnica.com/2017/01/21/697d07607ce934d87e04f1b78903e2cc321cf334.html
+ext-url: https://arstechnica.com/tech-policy/2017/01/op-ed-how-i-turned-a-traffic-ticket-into-the-constitutional-trial-of-the-century/
+title: Liked a page on arstechnica.com
+categories:
+- like
+- January
+- 2017
+- 21
+- arstechnica.com
+---
+
+
+--------------------
+hash: 697d07607ce934d87e04f1b78903e2cc321cf334
+json_encode: {"date":"2017-01-21 4:26pm","message":"","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/793391387493173"],"type":"like","url":"https:\/\/arstechnica.com\/tech-policy\/2017\/01\/op-ed-how-i-turned-a-traffic-ticket-into-the-constitutional-trial-of-the-century\/"}
+--------------------
+
+---
+layout: notes_like
+date: "2017-01-21T16:26:00+10:00"
+type: like
+permalink: /notes/like/arstechnica.com/2017/01/21/697d07607ce934d87e04f1b78903e2cc321cf334.html
+ext-url: https://arstechnica.com/tech-policy/2017/01/op-ed-how-i-turned-a-traffic-ticket-into-the-constitutional-trial-of-the-century/
+title: Liked a page on arstechnica.com
+categories:
+- like
+- January
+- 2017
+- 21
+- arstechnica.com
+---
+
+
+--------------------
+hash: 697d07607ce934d87e04f1b78903e2cc321cf334
+json_encode: {"date":"2017-01-21 4:26pm","message":"","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/793391387493173"],"type":"like","url":"https:\/\/arstechnica.com\/tech-policy\/2017\/01\/op-ed-how-i-turned-a-traffic-ticket-into-the-constitutional-trial-of-the-century\/"}
+--------------------
+
+---
+layout: notes_like
+date: "2017-01-21T16:26:00+10:00"
+type: like
+permalink: /notes/like/arstechnica.com/2017/01/21/697d07607ce934d87e04f1b78903e2cc321cf334.html
+ext-url: https://arstechnica.com/tech-policy/2017/01/op-ed-how-i-turned-a-traffic-ticket-into-the-constitutional-trial-of-the-century/
+title: Liked a page on arstechnica.com
+categories:
+- like
+- January
+- 2017
+- 21
+- arstechnica.com
+---
+
+
+--------------------
+hash: 697d07607ce934d87e04f1b78903e2cc321cf334
+json_encode: {"date":"2017-01-21 4:26pm","message":"","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/793391387493173"],"type":"like","url":"https:\/\/arstechnica.com\/tech-policy\/2017\/01\/op-ed-how-i-turned-a-traffic-ticket-into-the-constitutional-trial-of-the-century\/"}
+--------------------
+
+---
+layout: notes_like
+date: "2017-01-21T16:26:00+10:00"
+type: like
+permalink: /notes/like/arstechnica.com/2017/01/21/697d07607ce934d87e04f1b78903e2cc321cf334.html
+ext-url: https://arstechnica.com/tech-policy/2017/01/op-ed-how-i-turned-a-traffic-ticket-into-the-constitutional-trial-of-the-century/
+title: Liked a page on arstechnica.com
+categories:
+- like
+- January
+- 2017
+- 21
+- arstechnica.com
+---
+
+april-01-like.temp skipping temp file
+april-01a-like.temp skipping temp file
+april-23-like.temp skipping temp file
+august-15-like.temp skipping temp file
+august-16-like.temp skipping temp file
+august-31-like.temp skipping temp file
+january-07-like.temp skipping temp file
+january-10-like.temp skipping temp file
+january-13-like.temp skipping temp file
+january-19.temp skipping temp file
+january-24.temp skipping temp file
+july-08-like.temp skipping temp file
+july-13-like.temp skipping temp file
+july-22-like.temp skipping temp file
+june-02-like.temp skipping temp file
+june-02a-like.temp skipping temp file
+june-08-like.temp skipping temp file
+june-10-like.temp skipping temp file
+june-14-like.temp skipping temp file
+june-30-like.temp skipping temp file
+march-06-like.temp skipping temp file
+march-17-like.temp skipping temp file
+march-28-like.temp skipping temp file
+march-31-like.temp skipping temp file
+may-02-like.temp skipping temp file
+may-14-like.temp skipping temp file
+may-25-like.temp skipping temp file
+may-27-like.temp skipping temp file
+october-06-like.temp skipping temp file
+october-09-like.temp skipping temp file
+october-12-like.temp skipping temp file
+october-19.json json file :) 
+{
+    "date": "2017-10-19",
+    "message": "\"You're here because you know something. What you know you can't explain, but you feel it. You've felt it your entire life, that there's something wrong with the world [wide web].\" \u2014 Morpheus, The MatrixI am in the process of quitting all social media silo https:\/\/indieweb.org\/why",
+    "syndication": [
+        "https:\/\/www.facebook.com\/tom.sparks.106\/posts\/937357829763194"
+    ],
+    "type": "twitter"
+}
+
+--------------------
+hash: b4bb77eb94b84ecf6a7bf4a0d498204ede77baba
+json_encode: {"date":"2017-10-19","message":"\"You're here because you know something. What you know you can't explain, but you feel it. You've felt it your entire life, that there's something wrong with the world [wide web].\" \u2014 Morpheus, The MatrixI am in the process of quitting all social media silo https:\/\/indieweb.org\/why","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/937357829763194"],"type":"twitter"}
+--------------------
+
+---
+layout: notes_twitter
+date: "2017-10-19T00:00:00+10:00"
+type: twitter
+permalink: /notes/twitter/2017/10/19/b4bb77eb94b84ecf6a7bf4a0d498204ede77baba.html
+title: 'twitted: b4bb77eb94b84ecf6a7bf4a0d498204ede77baba'
+categories:
+- twitter
+- October
+- 2017
+- 19
+---
+
+
+--------------------
+hash: b4bb77eb94b84ecf6a7bf4a0d498204ede77baba
+json_encode: {"date":"2017-10-19","message":"\"You're here because you know something. What you know you can't explain, but you feel it. You've felt it your entire life, that there's something wrong with the world [wide web].\" \u2014 Morpheus, The MatrixI am in the process of quitting all social media silo https:\/\/indieweb.org\/why","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/937357829763194"],"type":"twitter"}
+--------------------
+
+---
+layout: notes_twitter
+date: "2017-10-19T00:00:00+10:00"
+type: twitter
+permalink: /notes/twitter/2017/10/19/b4bb77eb94b84ecf6a7bf4a0d498204ede77baba.html
+title: 'twitted: b4bb77eb94b84ecf6a7bf4a0d498204ede77baba'
+categories:
+- twitter
+- October
+- 2017
+- 19
+---
+
+
+--------------------
+hash: b4bb77eb94b84ecf6a7bf4a0d498204ede77baba
+json_encode: {"date":"2017-10-19","message":"\"You're here because you know something. What you know you can't explain, but you feel it. You've felt it your entire life, that there's something wrong with the world [wide web].\" \u2014 Morpheus, The MatrixI am in the process of quitting all social media silo https:\/\/indieweb.org\/why","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/937357829763194"],"type":"twitter"}
+--------------------
+
+---
+layout: notes_twitter
+date: "2017-10-19T00:00:00+10:00"
+type: twitter
+permalink: /notes/twitter/2017/10/19/b4bb77eb94b84ecf6a7bf4a0d498204ede77baba.html
+title: 'twitted: b4bb77eb94b84ecf6a7bf4a0d498204ede77baba'
+categories:
+- twitter
+- October
+- 2017
+- 19
+---
+
+
+--------------------
+hash: b4bb77eb94b84ecf6a7bf4a0d498204ede77baba
+json_encode: {"date":"2017-10-19","message":"\"You're here because you know something. What you know you can't explain, but you feel it. You've felt it your entire life, that there's something wrong with the world [wide web].\" \u2014 Morpheus, The MatrixI am in the process of quitting all social media silo https:\/\/indieweb.org\/why","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/937357829763194"],"type":"twitter"}
+--------------------
+
+---
+layout: notes_twitter
+date: "2017-10-19T00:00:00+10:00"
+type: twitter
+permalink: /notes/twitter/2017/10/19/b4bb77eb94b84ecf6a7bf4a0d498204ede77baba.html
+title: 'twitted: b4bb77eb94b84ecf6a7bf4a0d498204ede77baba'
+categories:
+- twitter
+- October
+- 2017
+- 19
+---
+
+september-16-like.temp skipping temp file
+september-19-like.temp skipping temp file
+september-23.temp skipping temp file
+temp.temp skipping temp file
+2018
+[".","..","01-06-like.temp","01-06a-like.temp","01-16_3-07pm-like.json","01-21_4-38pm-like.json","2018-02-12_01-19-22.json","facebook.1518824753.json","tomasparks_lb-2018-02-09.temp"]
+01-06-like.temp skipping temp file
+01-06a-like.temp skipping temp file
+01-16_3-07pm-like.json json file :) 
+{
+    "date": "2018-01-16 3:07pm",
+    "message": "note: i have silo quited",
+    "syndication": [
+        "https:\/\/www.facebook.com\/tom.sparks.106\/posts\/982322775266699"
+    ],
+    "type": "like",
+    "url": "https:\/\/www.youtube.com\/watch?v=QDwN41Px_sY"
+}
+
+--------------------
+hash: 53caab3d40a79e880bed90d2cfca3f5cadb21e96
+json_encode: {"date":"2018-01-16 3:07pm","message":"note: i have silo quited","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/982322775266699"],"type":"like","url":"https:\/\/www.youtube.com\/watch?v=QDwN41Px_sY"}
+--------------------
+
+---
+layout: notes_like
+date: "2018-01-16T15:07:00+10:00"
+type: like
+permalink: /notes/like/youtube.com/2018/01/16/53caab3d40a79e880bed90d2cfca3f5cadb21e96.html
+ext-url: https://www.youtube.com/watch?v=QDwN41Px_sY
+title: Liked a page on youtube.com
+categories:
+- like
+- January
+- 2018
+- 16
+- youtube.com
+---
+
+
+--------------------
+hash: 53caab3d40a79e880bed90d2cfca3f5cadb21e96
+json_encode: {"date":"2018-01-16 3:07pm","message":"note: i have silo quited","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/982322775266699"],"type":"like","url":"https:\/\/www.youtube.com\/watch?v=QDwN41Px_sY"}
+--------------------
+
+---
+layout: notes_like
+date: "2018-01-16T15:07:00+10:00"
+type: like
+permalink: /notes/like/youtube.com/2018/01/16/53caab3d40a79e880bed90d2cfca3f5cadb21e96.html
+ext-url: https://www.youtube.com/watch?v=QDwN41Px_sY
+title: Liked a page on youtube.com
+categories:
+- like
+- January
+- 2018
+- 16
+- youtube.com
+---
+
+
+--------------------
+hash: 53caab3d40a79e880bed90d2cfca3f5cadb21e96
+json_encode: {"date":"2018-01-16 3:07pm","message":"note: i have silo quited","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/982322775266699"],"type":"like","url":"https:\/\/www.youtube.com\/watch?v=QDwN41Px_sY"}
+--------------------
+
+---
+layout: notes_like
+date: "2018-01-16T15:07:00+10:00"
+type: like
+permalink: /notes/like/youtube.com/2018/01/16/53caab3d40a79e880bed90d2cfca3f5cadb21e96.html
+ext-url: https://www.youtube.com/watch?v=QDwN41Px_sY
+title: Liked a page on youtube.com
+categories:
+- like
+- January
+- 2018
+- 16
+- youtube.com
+---
+
+
+--------------------
+hash: 53caab3d40a79e880bed90d2cfca3f5cadb21e96
+json_encode: {"date":"2018-01-16 3:07pm","message":"note: i have silo quited","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/982322775266699"],"type":"like","url":"https:\/\/www.youtube.com\/watch?v=QDwN41Px_sY"}
+--------------------
+
+---
+layout: notes_like
+date: "2018-01-16T15:07:00+10:00"
+type: like
+permalink: /notes/like/youtube.com/2018/01/16/53caab3d40a79e880bed90d2cfca3f5cadb21e96.html
+ext-url: https://www.youtube.com/watch?v=QDwN41Px_sY
+title: Liked a page on youtube.com
+categories:
+- like
+- January
+- 2018
+- 16
+- youtube.com
+---
+
+
+--------------------
+hash: 53caab3d40a79e880bed90d2cfca3f5cadb21e96
+json_encode: {"date":"2018-01-16 3:07pm","message":"note: i have silo quited","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/982322775266699"],"type":"like","url":"https:\/\/www.youtube.com\/watch?v=QDwN41Px_sY"}
+--------------------
+
+---
+layout: notes_like
+date: "2018-01-16T15:07:00+10:00"
+type: like
+permalink: /notes/like/youtube.com/2018/01/16/53caab3d40a79e880bed90d2cfca3f5cadb21e96.html
+ext-url: https://www.youtube.com/watch?v=QDwN41Px_sY
+title: Liked a page on youtube.com
+categories:
+- like
+- January
+- 2018
+- 16
+- youtube.com
+---
+
+01-21_4-38pm-like.json json file :) 
+{
+    "date": "2018-01-21 4:38pm",
+    "message": "",
+    "syndication": [
+        "https:\/\/www.facebook.com\/tom.sparks.106\/posts\/937357829763194"
+    ],
+    "type": "like",
+    "url": "https:\/\/xkcd.com\/1944\/"
+}
+
+--------------------
+hash: 289c642db1b70dbad9f554cc6f4545ba3a268390
+json_encode: {"date":"2018-01-21 4:38pm","message":"","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/937357829763194"],"type":"like","url":"https:\/\/xkcd.com\/1944\/"}
+--------------------
+
+---
+layout: notes_like
+date: "2018-01-21T16:38:00+10:00"
+type: like
+permalink: /notes/like/xkcd.com/2018/01/21/289c642db1b70dbad9f554cc6f4545ba3a268390.html
+ext-url: https://xkcd.com/1944/
+title: Liked a page on xkcd.com
+categories:
+- like
+- January
+- 2018
+- 21
+- xkcd.com
+---
+
+
+--------------------
+hash: 289c642db1b70dbad9f554cc6f4545ba3a268390
+json_encode: {"date":"2018-01-21 4:38pm","message":"","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/937357829763194"],"type":"like","url":"https:\/\/xkcd.com\/1944\/"}
+--------------------
+
+---
+layout: notes_like
+date: "2018-01-21T16:38:00+10:00"
+type: like
+permalink: /notes/like/xkcd.com/2018/01/21/289c642db1b70dbad9f554cc6f4545ba3a268390.html
+ext-url: https://xkcd.com/1944/
+title: Liked a page on xkcd.com
+categories:
+- like
+- January
+- 2018
+- 21
+- xkcd.com
+---
+
+
+--------------------
+hash: 289c642db1b70dbad9f554cc6f4545ba3a268390
+json_encode: {"date":"2018-01-21 4:38pm","message":"","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/937357829763194"],"type":"like","url":"https:\/\/xkcd.com\/1944\/"}
+--------------------
+
+---
+layout: notes_like
+date: "2018-01-21T16:38:00+10:00"
+type: like
+permalink: /notes/like/xkcd.com/2018/01/21/289c642db1b70dbad9f554cc6f4545ba3a268390.html
+ext-url: https://xkcd.com/1944/
+title: Liked a page on xkcd.com
+categories:
+- like
+- January
+- 2018
+- 21
+- xkcd.com
+---
+
+
+--------------------
+hash: 289c642db1b70dbad9f554cc6f4545ba3a268390
+json_encode: {"date":"2018-01-21 4:38pm","message":"","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/937357829763194"],"type":"like","url":"https:\/\/xkcd.com\/1944\/"}
+--------------------
+
+---
+layout: notes_like
+date: "2018-01-21T16:38:00+10:00"
+type: like
+permalink: /notes/like/xkcd.com/2018/01/21/289c642db1b70dbad9f554cc6f4545ba3a268390.html
+ext-url: https://xkcd.com/1944/
+title: Liked a page on xkcd.com
+categories:
+- like
+- January
+- 2018
+- 21
+- xkcd.com
+---
+
+
+--------------------
+hash: 289c642db1b70dbad9f554cc6f4545ba3a268390
+json_encode: {"date":"2018-01-21 4:38pm","message":"","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/937357829763194"],"type":"like","url":"https:\/\/xkcd.com\/1944\/"}
+--------------------
+
+---
+layout: notes_like
+date: "2018-01-21T16:38:00+10:00"
+type: like
+permalink: /notes/like/xkcd.com/2018/01/21/289c642db1b70dbad9f554cc6f4545ba3a268390.html
+ext-url: https://xkcd.com/1944/
+title: Liked a page on xkcd.com
+categories:
+- like
+- January
+- 2018
+- 21
+- xkcd.com
+---
+
+2018-02-12_01-19-22.json json file :) 
+{
+    "date": "2018-02-12T01:19:22+01:00",
+    "message": "finally the EU says DST is not worth it",
+    "syndication": null,
+    "type": "reply",
+    "url": "https:\/\/arstechnica.com\/tech-policy\/2018\/02\/daylight-saving-time-isnt-worth-it-european-parliament-ministers-say\/"
+}
+
+--------------------
+hash: 428ad098c979b68bcbf234541a41e201a164d3f8
+json_encode: {"date":"2018-02-12T01:19:22+01:00","message":"finally the EU says DST is not worth it","syndication":null,"type":"reply","url":"https:\/\/arstechnica.com\/tech-policy\/2018\/02\/daylight-saving-time-isnt-worth-it-european-parliament-ministers-say\/"}
+--------------------
+
+---
+layout: notes_reply
+date: "2018-02-12T10:19:22+10:00"
+type: reply
+permalink: /notes/reply/arstechnica.com/2018/02/12/428ad098c979b68bcbf234541a41e201a164d3f8.html
+ext-url: https://arstechnica.com/tech-policy/2018/02/daylight-saving-time-isnt-worth-it-european-parliament-ministers-say/
+title: 'reply to: https://arstechnica.com/tech-policy/2018/02/daylight-saving-time-isnt-worth-it-european-parliament-ministers-say/'
+categories:
+- reply
+- February
+- 2018
+- 12
+- arstechnica.com
+---
+
+
+--------------------
+hash: 428ad098c979b68bcbf234541a41e201a164d3f8
+json_encode: {"date":"2018-02-12T01:19:22+01:00","message":"finally the EU says DST is not worth it","syndication":null,"type":"reply","url":"https:\/\/arstechnica.com\/tech-policy\/2018\/02\/daylight-saving-time-isnt-worth-it-european-parliament-ministers-say\/"}
+--------------------
+
+---
+layout: notes_reply
+date: "2018-02-12T10:19:22+10:00"
+type: reply
+permalink: /notes/reply/arstechnica.com/2018/02/12/428ad098c979b68bcbf234541a41e201a164d3f8.html
+ext-url: https://arstechnica.com/tech-policy/2018/02/daylight-saving-time-isnt-worth-it-european-parliament-ministers-say/
+title: 'reply to: https://arstechnica.com/tech-policy/2018/02/daylight-saving-time-isnt-worth-it-european-parliament-ministers-say/'
+categories:
+- reply
+- February
+- 2018
+- 12
+- arstechnica.com
+---
+
+
+--------------------
+hash: 428ad098c979b68bcbf234541a41e201a164d3f8
+json_encode: {"date":"2018-02-12T01:19:22+01:00","message":"finally the EU says DST is not worth it","syndication":null,"type":"reply","url":"https:\/\/arstechnica.com\/tech-policy\/2018\/02\/daylight-saving-time-isnt-worth-it-european-parliament-ministers-say\/"}
+--------------------
+
+---
+layout: notes_reply
+date: "2018-02-12T10:19:22+10:00"
+type: reply
+permalink: /notes/reply/arstechnica.com/2018/02/12/428ad098c979b68bcbf234541a41e201a164d3f8.html
+ext-url: https://arstechnica.com/tech-policy/2018/02/daylight-saving-time-isnt-worth-it-european-parliament-ministers-say/
+title: 'reply to: https://arstechnica.com/tech-policy/2018/02/daylight-saving-time-isnt-worth-it-european-parliament-ministers-say/'
+categories:
+- reply
+- February
+- 2018
+- 12
+- arstechnica.com
+---
+
+
+--------------------
+hash: 428ad098c979b68bcbf234541a41e201a164d3f8
+json_encode: {"date":"2018-02-12T01:19:22+01:00","message":"finally the EU says DST is not worth it","syndication":null,"type":"reply","url":"https:\/\/arstechnica.com\/tech-policy\/2018\/02\/daylight-saving-time-isnt-worth-it-european-parliament-ministers-say\/"}
+--------------------
+
+---
+layout: notes_reply
+date: "2018-02-12T10:19:22+10:00"
+type: reply
+permalink: /notes/reply/arstechnica.com/2018/02/12/428ad098c979b68bcbf234541a41e201a164d3f8.html
+ext-url: https://arstechnica.com/tech-policy/2018/02/daylight-saving-time-isnt-worth-it-european-parliament-ministers-say/
+title: 'reply to: https://arstechnica.com/tech-policy/2018/02/daylight-saving-time-isnt-worth-it-european-parliament-ministers-say/'
+categories:
+- reply
+- February
+- 2018
+- 12
+- arstechnica.com
+---
+
+
+--------------------
+hash: 428ad098c979b68bcbf234541a41e201a164d3f8
+json_encode: {"date":"2018-02-12T01:19:22+01:00","message":"finally the EU says DST is not worth it","syndication":null,"type":"reply","url":"https:\/\/arstechnica.com\/tech-policy\/2018\/02\/daylight-saving-time-isnt-worth-it-european-parliament-ministers-say\/"}
+--------------------
+
+---
+layout: notes_reply
+date: "2018-02-12T10:19:22+10:00"
+type: reply
+permalink: /notes/reply/arstechnica.com/2018/02/12/428ad098c979b68bcbf234541a41e201a164d3f8.html
+ext-url: https://arstechnica.com/tech-policy/2018/02/daylight-saving-time-isnt-worth-it-european-parliament-ministers-say/
+title: 'reply to: https://arstechnica.com/tech-policy/2018/02/daylight-saving-time-isnt-worth-it-european-parliament-ministers-say/'
+categories:
+- reply
+- February
+- 2018
+- 12
+- arstechnica.com
+---
+
+facebook.1518824753.json json file :) 
+{
+    "date": "2018-02-16T23:45:53+0000",
+    "message": "",
+    "syndication": [
+        "https:\/\/www.facebook.com\/tom.sparks.106\/posts\/1001125966719713"
+    ],
+    "type": "like",
+    "url": "https:\/\/boingboing.net\/2018\/02\/16\/watch-this-artist-create-photo.html"
+}
+
+--------------------
+hash: cfec0c01797ca50b68b2505593b0180869e205fb
+json_encode: {"date":"2018-02-16T23:45:53+0000","message":"","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/1001125966719713"],"type":"like","url":"https:\/\/boingboing.net\/2018\/02\/16\/watch-this-artist-create-photo.html"}
+--------------------
+
+---
+layout: notes_like
+date: "2018-02-17T09:45:53+10:00"
+type: like
+permalink: /notes/like/boingboing.net/2018/02/16/cfec0c01797ca50b68b2505593b0180869e205fb.html
+ext-url: https://boingboing.net/2018/02/16/watch-this-artist-create-photo.html
+title: Liked a page on boingboing.net
+categories:
+- like
+- February
+- 2018
+- 16
+- boingboing.net
+---
+
+
+--------------------
+hash: cfec0c01797ca50b68b2505593b0180869e205fb
+json_encode: {"date":"2018-02-16T23:45:53+0000","message":"","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/1001125966719713"],"type":"like","url":"https:\/\/boingboing.net\/2018\/02\/16\/watch-this-artist-create-photo.html"}
+--------------------
+
+---
+layout: notes_like
+date: "2018-02-17T09:45:53+10:00"
+type: like
+permalink: /notes/like/boingboing.net/2018/02/16/cfec0c01797ca50b68b2505593b0180869e205fb.html
+ext-url: https://boingboing.net/2018/02/16/watch-this-artist-create-photo.html
+title: Liked a page on boingboing.net
+categories:
+- like
+- February
+- 2018
+- 16
+- boingboing.net
+---
+
+
+--------------------
+hash: cfec0c01797ca50b68b2505593b0180869e205fb
+json_encode: {"date":"2018-02-16T23:45:53+0000","message":"","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/1001125966719713"],"type":"like","url":"https:\/\/boingboing.net\/2018\/02\/16\/watch-this-artist-create-photo.html"}
+--------------------
+
+---
+layout: notes_like
+date: "2018-02-17T09:45:53+10:00"
+type: like
+permalink: /notes/like/boingboing.net/2018/02/16/cfec0c01797ca50b68b2505593b0180869e205fb.html
+ext-url: https://boingboing.net/2018/02/16/watch-this-artist-create-photo.html
+title: Liked a page on boingboing.net
+categories:
+- like
+- February
+- 2018
+- 16
+- boingboing.net
+---
+
+
+--------------------
+hash: cfec0c01797ca50b68b2505593b0180869e205fb
+json_encode: {"date":"2018-02-16T23:45:53+0000","message":"","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/1001125966719713"],"type":"like","url":"https:\/\/boingboing.net\/2018\/02\/16\/watch-this-artist-create-photo.html"}
+--------------------
+
+---
+layout: notes_like
+date: "2018-02-17T09:45:53+10:00"
+type: like
+permalink: /notes/like/boingboing.net/2018/02/16/cfec0c01797ca50b68b2505593b0180869e205fb.html
+ext-url: https://boingboing.net/2018/02/16/watch-this-artist-create-photo.html
+title: Liked a page on boingboing.net
+categories:
+- like
+- February
+- 2018
+- 16
+- boingboing.net
+---
+
+
+--------------------
+hash: cfec0c01797ca50b68b2505593b0180869e205fb
+json_encode: {"date":"2018-02-16T23:45:53+0000","message":"","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/1001125966719713"],"type":"like","url":"https:\/\/boingboing.net\/2018\/02\/16\/watch-this-artist-create-photo.html"}
+--------------------
+
+---
+layout: notes_like
+date: "2018-02-17T09:45:53+10:00"
+type: like
+permalink: /notes/like/boingboing.net/2018/02/16/cfec0c01797ca50b68b2505593b0180869e205fb.html
+ext-url: https://boingboing.net/2018/02/16/watch-this-artist-create-photo.html
+title: Liked a page on boingboing.net
+categories:
+- like
+- February
+- 2018
+- 16
+- boingboing.net
+---
+
+tomasparks_lb-2018-02-09.temp skipping temp file
+pda
+[".","..","2017","2018"]
+.
+..
+2017
+[".","..","12","12.csv"]
+2018
+[".","..","01","01.csv"]

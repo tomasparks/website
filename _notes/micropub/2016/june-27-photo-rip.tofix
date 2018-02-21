@@ -1,0 +1,20 @@
+{
+  "type": ["h-entry"],
+  "properties": {
+    "content": "photos with Gran RIP",
+"syndication": [
+			"https://www.facebook.com/tom.sparks.106/posts/659177124247934"	
+			],
+		"published":"2014-06-27",
+		"photo": [
+		"/art/photos/tomasparks/659174780914835.jpg",
+		"/art/photos/tomasparks/659176190914694.jpg",
+		"/art/photos/tomasparks/659176210914692.jpg",
+		"/art/photos/tomasparks/659176314248015.jpg",
+		"/art/photos/tomasparks/659176324248014.jpg",
+		"/art/photos/tomasparks/659177007581279.jpg"
+		
+		]
+  }
+}
+

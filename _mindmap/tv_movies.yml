@@ -1,0 +1,92 @@
+---
+name: TV series & Movies
+id: tv_movies
+background_image: .jpg
+copyright_notices:
+  text:
+    tvdb: text is from [thetvdb](http://wwww.thetvdb.com) used under [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+    wikipedia: text is from [wikipedia](http://www.wikipedia.org/), Text is used under the [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/3.0/).
+      License.
+    TMDb: text is from [The Movie Database](http://www.themdb.com)
+  images:
+    tvdb: Images are from https://www.thetvdb.com used under [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/)
+    wikipedia: images are from [wikipedia](http://www.wikipedia.org/)
+    TMDb: images are from [The Movie Database](http://www.themdb.com)
+genre:
+- name: Science fiction
+  id: sci-fi
+  background_image: .jpg
+  shows:
+  - name: Andromeda
+    id: andromeda
+    tvdb: "77544"
+    fanart: https://www.thetvdb.com/banners/fanart/original/77544-2.jpg
+    logo: .png
+  - name: Babylon 5
+    id: B5
+    tvdb: "70726"
+    fanart: https://www.thetvdb.com/banners/fanart/original/70726-15.jpg
+    logo: .png
+    review: I watched it for it's early CGI
+  - name: Stargate SG-1
+    id: SG-SG1
+    tvdb: "72449"
+    fanart: https://www.thetvdb.com/banners/fanart/original/72449-67.jpg
+    logo: .png
+  - name: Stargate Atlantis
+    id: SGA
+    tvdb: "70851"
+    fanart: https://www.thetvdb.com/banners/fanart/original/70851-19.jpg
+    logo: .png
+    review: bla bla bla
+  - name: Stargate Universe
+    id: SGU
+    tvdb: "83237"
+    fanart: https://www.thetvdb.com/banners/fanart/original/83237-34.jpg
+    logo: .png
+    review: bla bla bla
+  - name: Stargate Origins
+    id: SGO
+    tvdb: "339552"
+    fanart: https://www.thetvdb.com/banners/fanart/original/339552-1.jpg
+    logo: .png
+    review: bla bla bla
+  - name: Farscape
+    id: farscape
+    tvdb: "70522"
+    fanart: https://www.thetvdb.com/banners/fanart/original/70522-1.jpg
+    logo: .png
+    review: i've been meaning to rewatch this
+  - name: 'Star Trek: TOS'
+    id: ST-TOS
+    tvdb: "77526"
+    fanart: https://www.thetvdb.com/banners/fanart/original/77526-7.jpg
+    logo: .png
+    review: i've been meaning to watch this
+- name: Comedy
+  id: comedy
+  background_image: .jpg
+  shows:
+  - name: The Big Bang Theory
+    id: TBBT
+    tvdb: "80379"
+    fanart: https://www.thetvdb.com/banners/fanart/original/80379-38.jpg
+    logo: .png
+    review: bla bla bla
+  - name: Robot Chicken
+    id: robot-chicken
+    tvdb: "75734"
+    fanart: https://www.thetvdb.com/banners/fanart/original/75734-8.jpg
+    logo: .png
+    review: bla bla bla
+- name: Documentary
+  id: documentary
+  background_image: .jpg
+  shows:
+  - name: The Grand Tour (2016)
+    id: grand-tour
+    tvdb: "314087"
+    fanart: https://www.thetvdb.com/banners/fanart/original/314087-4.jpg
+    logo: The_Grand_Tour_Logo.png
+    review: I dont like car shows, but i like watching the adventures they get up to
+...

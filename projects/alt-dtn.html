@@ -1,0 +1,21 @@
+---
+layout: page
+permalink: /projects
+pagination:
+  collection: projects
+  category: alt-dtn
+  permalink: 'alt-dtn-:num'
+  enabled: true
+  extension: html
+  indexpage: 'alt-dtn-index'
+---
+
+{
+  "pages": [{% for post in paginator.posts %}
+    {% if forloop.first != true %},{% endif %}
+    {
+      "title": "{{ post.title }}",
+      "link": "{{ post.url }}"
+    }{% endfor %}
+  ]
+}

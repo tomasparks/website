@@ -1,0 +1,2518 @@
+<!DOCTYPE HTML PUBLIC "-//W3O//DTD W3 HTML 2.0//EN">
+<!- Converted with LaTeX2HTML 0.6.4 (Tues Aug 30 1994) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds ->
+<P>
+<HEAD>
+<TITLE>SDSI - A Simple Distributed Security Infrastructure</TITLE>
+<meta name="description" value="SDSI - A Simple Distributed Security Infrastructure">
+<meta name="keywords" value="paper4latex2html">
+<meta name="resource-type" value="document">
+<meta name="distribution" value="global">
+</HEAD>
+<BODY><P>
+<P>
+<H1>SDSI - A Simple Distributed Security Infrastructure</H1>
+<P><STRONG>Ronald L. Rivest<BR>
+Laboratory for Computer Science<BR>
+Massachusetts Institute of Technology<BR>
+Cambridge, MA 02139<BR>
+<tt>rivest@theory.lcs.mit.edu</tt><BR><BR>
+Butler Lampson<BR>
+Microsoft Corporation<BR>
+<tt>blampson@microsoft.com</tt><BR>
+</STRONG><P>
+<P><STRONG>This paper defines SDSI version 1.0.  Check for later versions.
+</STRONG><P>
+<STRONG>Sun Sep 15 17:15:57 EDT 1996
+</STRONG><P>
+<P>
+<H3>Abstract:</H3>
+<EM>We propose a new distributed security infrastructure, called SDSI
+(pronounced ``Sudsy'').  SDSI combines a simple public-key
+infrastructure design with a means of defining groups and issuing
+group-membership certificates. SDSI's groups provides simple, clear
+terminology for defining access-control lists and security policies.
+SDSI's design emphasizes linked local name spaces rather than a
+hierarchical global name space.
+</EM><P>
+<P>
+<H1><A NAME=SECTION00010000000000000000> Introduction</A></H1>
+<A NAME=secintroduction>&#160;</A>
+<P>
+This paper was motivated by the perception that the existing proposals
+for a public-key infrastructure (such as X.509-based schemes
+that require global certificate hierarchies <A HREF="sdsi10.html#Kent93">[4]</A>)
+are both excessively complex and incomplete.  Their complexity arises
+from a dependence on global name spaces and an attempt to formalize
+too many things.  Their incompleteness can be immediately perceived if
+one tries to define a security policy (e.g. write a ACL) based on the
+scheme.
+<P>
+We were also motivated by similar corresponding design efforts, such
+as that of the IETF ``SPKI'' (Simple Public-Key Infrastructure)
+working group (in particular, Carl Ellison's work), the work of Blaze,
+Feigenbaum, and Lacy  <A HREF="sdsi10.html#BlazeFeLa96">[1]</A>, and work within the
+World-Wide Web Consortium's security group.  Our proposal borrows
+freely from these sources, and has benefitted greatly from them.
+<P>
+Our goal is to provide ideas and techniques that facilitate the
+construction of secure systems.  Issues regarding the liabilities
+and/or the legal interpretation of certificates are not addressed
+here. Because we feel security is enhanced by simple clear data
+structures, we emphasize clarity and readability at the expense of
+economical encodings, although SDSI includes means for efficiently
+representing its data structures.
+<P>
+<H1><A NAME=SECTION00020000000000000000> Overview</A></H1>
+<P>
+We first give an ``executive summary'' of our proposal here, and then
+flesh it out in the following sections.  A detailed specification suitable
+for as an implementation guide will appear in a companion paper.
+<P>
+<P><b>Principals are public keys.</b>
+Our system is ``key-centric'': SDSI principals <em>are</em> public
+digital signature verification keys.  These public keys are central;
+everything is based around them.  The notion of an ``individual''
+(e.g. person, corporation, process, or machine) is not required.  Of
+course, such individuals will actually control the associated private
+keys, so that the public/private keys can be viewed as ``proxies'' for
+those individuals.  In this paper, one should think of a ``principal''
+as a public key, and concurrently as ``one who speaks'' (by signing
+statements that can be verified with that public key).  Each principal
+is represented by a data structure that can be passed around, 
+such as:
+<PRE>
+    ( Principal: 
+      ( Public-Key: 
+        ( Algorithm: RSA-with-SHA1 ) 
+        ( N: =Gt802Tbz9HKm067= )
+        ( E: #11 ) ) )
+</PRE>
+(other optional fields not shown) so a principal can also be the
+``value'' of some name.  Each principal may also have an associated
+name-space, servers, database, etc., as we shall see.
+<P>
+<P><b>Egalitarian design-no global hierarchy necessary.</b>
+Our proposal is egalitarian: each principal can make (signed)
+statements and requests on the same basis as any other principal.  No
+hierarchical global infrastructure is required.  Of course, in
+practice some principals would be more important than others, and SDSI
+allows for some principals to have special status as ``special
+roots,'' allowing SDSI to accomodate ``global names.''  But that is
+for convenience rather than necessity.
+<P>
+<P><b>Each principal is a ``certification authority.''</b>
+In SDSI, certificates can be created and signed by anyone: everyone
+can be a ``CA.''  Which policies and procedures (if any) a principal
+follows when issuing certificates is up to that principal to choose:
+he may declare that he is following some industry-standard procedure,
+or he may issue certificates arbitrarily or capriciously.
+<P>
+<P><b>Local name spaces.</b>
+Each principal can create his own local names with which he can refer
+to other principals.  These local names arbitrarily chosen;
+they may be derived from nicknames, email addresses, account numbers, etc.:
+<PRE>
+        jim 
+        &quot;Bob Jones, Jr.&quot;
+        account-314568901387
+        WebCo-Vice-President-John-Smith
+        joe@penguin.lcs.mit.edu
+        ( Accounting Bob-Smith )
+</PRE>
+There is no fixed ``global'' name space giving a unique name for
+principals.  The principal you call <tt>alice-smith</tt> may be different
+from the principal I call <tt>alice-smith</tt>.  An exception is made for
+a small set of ``special root'' principals, whom everyone calls by
+the same name.
+<P>
+<P><b>Simple data structures.</b>
+SDSI objects are represented by ``S-expressions'' (octet-strings and
+lists of simpler S-expressions) having a clean human-readable ASCII
+representation.  ``Presentation hints,'' based on MIME content-types,
+enable octet-strings to be presented in italics, or as Unicode
+characters, or as photos, etc.  There are also ways to transmit
+S-expressions efficiently.
+<P>
+<P><b>Flexible signatures.</b>
+SDSI signatures are exceptionally flexible: signatures may be appended
+to the objects being signed, or they may be detached from the signed
+objects.  Objects may be co-signed by several signers.  Signers may
+sign on behalf of someone else.  Signatures may contain collections of
+relevant certificates.  Signatures may have expiration dates, and may
+also require periodic re-confirmation.
+<P>
+<P><b>Identity certificates have human-readable content.</b>
+The term ``certificate'' is often used to denote a digitally signed
+statement.  The best-known type of certificate is the ``identity
+certificate'' that attempts to assert a binding between an individual
+and his public key.
+<P>
+Identity certificates are often problematic, because it can be
+difficult to specify a name or other attributes that uniquely identify
+the desired individual.  We feel that because of this difficulty, identity
+certificates must typically in the end be examined by people, to see
+if the name and other attributes given are consistent with the
+attributes known to the human reader.  As a typical example, consider
+the problem of a security administrator who is trying to decide if a
+given certificate should be trusted as establishing the desired
+binding between some public key and some individual.  We feel that
+human judgement is a necessary component in this process, and thus we
+feel that the function of an identity certificate can best be served
+by having the individual described by some free-form text
+(accompanied perhaps by a photo, and perhaps including some
+descriptive text describing how the given information was verified).
+For this reason, SDSI identity certificates may contain as little
+as a public key and some free-form text about the individual.
+<P>
+<P><b>Manual process for creating identity certificates.</b>
+We feel that the process of accepting another individual's public key(s)
+and associating it with a local name is very important, and that it
+must therefore be a <em>manual</em> process.  Judgement is required to
+evaluate the proposed evidence for the public-key's owner, and to
+choose a meaningful local name.  A typical user will not have to
+perform this operation very often (perhaps 5-20 times), as we shall
+see, because of the way name spaces can be linked.
+<P>
+<P><b>Certificates also give name/value bindings and assert membership.</b>
+SDSI certificates can also be used to bind a (local) name to a value
+(typically a principal), and to assert that a given principal belongs
+to some group.  The three certificate types (identity certificate,
+name/value certicate, and membership certificate) have similar syntax
+and procedures; indeed, sometimes a single SDSI certificate can
+perform more than one function.  SDSI certificates are also
+``extensible;'' additional application-dependent data can be
+included in a certificate.
+<P>
+<P><b>On-line Internet orientation.</b>
+We assume that principals who issue certificates can provide on-line
+Internet service, or can arrange to provide such via a designated
+server.  A SDSI principal may sign certificates off-line, and have a
+server distribute them upon request.  Having such on-line capability
+permits considerable simplifications-for example, we eliminate
+``certificate revocation lists'' in favor of on-line ``reconfirmation.''
+<P>
+<P><b>Linked local name spaces.</b>
+SDSI does not utilize a global name space, but rather provides means
+for conveniently linking local name spaces.  Each principal can
+``export'' his name/value bindings to others, by issuing name/value
+certificates.  Thus, if my local name <tt>bob</tt> refers to some
+principal, then I can refer to the principal that <tt>bob</tt> calls <tt>alice</tt> as
+<PRE>
+        ( ref: bob alice ) .
+</PRE>
+We suggest that the user interface supply a bit of syntactic sugar to
+represent this as
+<PRE>
+        bob's alice
+</PRE>
+Bob exports his binding by issuing a signed name/value certificate
+binding his local name <tt>alice</tt> to that particular principal.
+Bob's server can distribute this certificate on demand.
+<P>
+It is not necessary to have a symbolic reference as the first argument
+to <tt>ref:</tt>; one can have an expression such as
+<PRE>
+        ( ref: &lt;principal&gt; alice )
+</PRE>
+where <tt>&lt;principal&gt;</tt> is an explicit principal (i.e., a public key, etc.).
+The syntactically sugared version of the above would be:
+<PRE>
+        &lt;principal&gt;'s alice .
+</PRE>
+However, we generally prefer the symbolic form, for clarity.
+<P>
+One can also have longer references, such as 
+<PRE>
+        bob's alice's mother ,
+</PRE>
+which is the syntactically sugared version of
+<PRE>
+        ( ref: bob alice mother ) .
+</PRE>
+This reference is well-defined (for me) if I have bound <tt>bob</tt> to
+some principal, who in turn has bound <tt>alice</tt> to some second
+principal, who in turn has bound <tt>mother</tt> to some third principal.
+Other examples of extended references (with syntactic sugar) are:
+<PRE>
+        Visa's account-314568901387
+        mit's lcs's rivest
+        cmu's eecs-dept's search-committee's chairman
+        GE's lighting-division's vp-of-marketing's secretary's assistant
+</PRE>
+<P>
+As a detail, we note that <tt>( ref: bob )</tt> is equivalent to <tt>bob</tt>,
+since the first argument to <tt>ref</tt> is always interpreted in the
+current name-space.
+<P>
+One can also give ``symbolic definitions.'' For example, my local name
+<tt>tim</tt> might denote <tt>mit's Tim-Black</tt>.  This means that my
+<tt>tim</tt> is defined to be the same principal as the one <tt>mit</tt> refers to as <tt>Tim-Black</tt>.  If MIT changes the
+principal it calls <tt>Tim-Black</tt> then the principal I call <tt>tim</tt>
+changes as well.  The pragmatics of how this works are described
+below.
+<P>
+To ensure that the object referenced is the intended one, one can
+wrap the <tt>ref:</tt> in an <tt>Assert-Hash:</tt> 
+<PRE>
+      ( Assert-Hash: ( ref: Microsoft employee-list )
+                     ( SHA1 =hP+73N2Zr50/89jpio== ) )
+</PRE>
+This is equivalent to <tt>ref:</tt>, except that the retrieved value is
+hashed and compared to the given hash.  An error occurs if they are
+not equal.
+<P>
+<P><b>Accomodation for ``standard roots'' and global name spaces:</b>
+We recognize that there are likely to be a set of standard
+``special root'' principals that are ``universally'' recognized.
+These principals have SDSI reserved names ending with double
+exclamation marks (<tt>!!</tt>):
+<PRE>
+        VeriSign!!
+        IAPR!!
+        USPS!!
+        DNS!!
+</PRE>
+There will be very few of these special roots, and <em>their
+names are bound to the same principal in every name space</em>.  This is
+arranged with suitable procedures (appropriate publicity, manual
+installation, cross-checking, etc.); we do not try to describe this in
+more detail.  This gives SDSI access to ``standard'' name spaces:
+<PRE>
+        VeriSign!!'s MicroSoft's Encarta-Division's Susan-Smith
+        DNS!!'s edu's mit's lcs's theory's Silvio-Micali
+        USPS!!'s USA's DOD's DCI
+        IAPR!!'s PCA-commerce's DEC's SRC's abadi
+        VeriSign!!'s Visa's account-234156742
+</PRE>
+Each of these should be viewed as <em>global</em> names that evaluates to the <em>same</em> principal in every name space, since the first name (e.g.  <tt>VeriSign!!</tt>) always evaluates to the same principal, and all of the
+subsequent names are relative.
+<P>
+Although SDSI provides for special roots within a set of linked
+name spaces, this does not imply that each principal has a <em>unique</em> ``global name.''  A principal will have multiple global names if
+there are multiple paths from special roots to that principal.
+Thus, 
+<PRE>
+        VeriSign!!'s MicroSoft's CEO
+        DNS!!'s com's microsoft's &quot;Bill Gates&quot;
+</PRE>
+may refer to the same principal.  (Of course, one can check whether these
+two names evaluate to give the same public key, if one wishes.)
+<P>
+<P><b>DNS names have a special status.</b>
+By special dispensation from its designers, SDSI includes custom
+treatment for DNS (Internet email) names, so that 
+<PRE>
+        Bob.Smith@penguin.microsoft.com
+</PRE>
+is equivalent to:
+<PRE>
+        DNS!!'s com's microsoft's penguin's Bob.Smith
+</PRE>
+-that is, to:
+<PRE>
+        ( ref: DNS!! com microsoft penguin Bob.Smith ) .
+</PRE>
+How this works is described later on.
+<P>
+<P><b>Groups.</b>
+A SDSI <em>group</em> is typically a set of principals.  (The full notion
+is more general, and easily extends to sets of programs or web pages
+or other things.)  Each group has a name and a set of members.  The
+name is local to some principal, who is the ``owner'' of the group.
+The owner is the only one who may change the group definition.  The
+definition may explicitly list the group's members, or may define the
+group in terms of other groups (which may even belong to someone
+else).
+<P>
+There are good reasons why ``groups'' are a fundamental SDSI notion.
+For describing who is authorized to access certain data or to perform
+certain operations, it is usually simplest to define the group of
+authorized principals in one step, and then to place the group name on
+the appropriate access-control list(s) as a second step.  This
+provides efficiency and reliability when the same group of principals
+is authorized on many different ACL's.  The group definition can be
+updated with a single modification without having to update many
+ACL's.  Also, the group can be given a meaningful name, so that
+auditing group definitions and ACL's becomes simpler.  For writing
+clear security implementations, it is extremely useful to refer to an
+authorized group of principals by an appropriate group name.  Each
+principal can define his own groups, and export his definitions to
+others.  Access-control lists for some resources might contain the
+following group names, for example.
+<PRE>
+        friends 
+        mit's biology-department's faculty
+        Massachusetts's DMV's drivers-96
+        john's search-committee-members
+        USA's over-18
+</PRE>
+<P>
+One can define a groups by listing its members:
+<PRE>
+      ( Group: Tom Sam &quot;Bill Gates&quot; )
+</PRE>
+or by giving an algebraic
+expression in terms of the other groups or principals: 
+<PRE>
+      ( Group: ( OR: faculty staff Bob-Smith ) )
+</PRE>
+We feel that the auditability of ACL's specified in terms of simple
+group names, and the auditability of the group definitions, is very
+important when trying to implement an appropriate security policy.
+<P>
+Group membership assertions can play the roles of credentials,
+licenses, or ordinary paper certificates.
+<UL><LI> 
+An organization such as ACM can create a group <tt>members</tt> that I
+might refer to as <tt>acm's members</tt>.  A statement signed by <tt>acm</tt> might say that a given principal (i.e. a particular public key,
+not a name for that key) is a member of the group <tt>members</tt>.  The
+``meaning'' of this statement is entirely up to ACM, since it is ACM's
+prerogative to define its groups any way it pleases.  The definition
+of the group <tt>members</tt>, and the assertion that some principal is a
+member of it, are things that ACM may export.
+<LI> 
+The Department of Motor Vehicles may issue certificates
+asserting that (the individual controlling) a specified public-key is
+over 18 and has a valid Massachusetts driver's license for 1996 by
+issuing a signed statement that the principal is a member of DMV's
+group called <tt>adult-drivers-1996</tt>.
+</UL>
+Each such certificate also has an expiration date and other information.
+Membership certificates are very useful for dealing with large groups,
+where it is not reasonable to export the entire group definition.
+<P>
+<P><b>Clean support for ``roles''.</b>
+Access control is often conveniently organized around
+``roles'' (see Sandhu et al. <A HREF="sdsi10.html#SandhuCoFeYo96">[7]</A>).
+SDSI supports roles in two different ways.
+<P>
+In the first method, an individual creates a public-key for
+each role he plays.  Bob may create new principals (public
+keys) and give them appropriate names:
+<PRE>
+        faculty-role 
+        bob-jones-travel-key
+        &quot;FudgeCo President&quot;
+        &quot;Biology Department Search Committee Chair&quot;
+</PRE>
+Bob can sign statements as the principal I call <tt>bob</tt>, or he can
+sign statements as the principal I would call <tt>bob's
+faculty-role</tt>, and so on.  I can distinguish these cases, and
+recognize when Bob is acting in his faculty role, as opposed to acting
+as Bob.
+<P>
+A second method by which SDSI can support roles is by having a group
+created for each role.  The owner of the group is the principal who
+decides who should occupy that role. 
+For example, a hospital
+administrator create a group for each role.  
+The principal who is currently acting
+in that role can be made a member of that group.  A hospital
+administrator can implement the role of <tt>head-nurse</tt> by creating a
+group with that name, and defining its (sole) member to be the
+principal of the head nurse.
+<P>
+These two methods differ according to who controls who is acting in
+the role.  Also, there is no public-key for a group, so that the second
+method has the slight disadvantage that the principal playing that role
+signs with his full authority, rather than with the authority restricted
+to the permissions of his role.
+<P>
+<P><b>Delegation Certificates.</b>
+SDSI includes the ability to delegate authority in two ways: by using
+groups, and by using ``delegation certificates''.  A delegation
+certificate gives the delegee the authority to sign statements of
+certain types on behalf of the delegator.  For example, a server might
+have a delegation certificate allowing him to sign membership
+certificates on behalf of the delegator.
+<P>
+This concludes our brief overview of SDSI.
+<P>
+<P><b>Outline of the rest of the paper.</b>
+The following sections give some suggested details.
+<UL><LI> 
+Section <A HREF="sdsi10.html#secsyntax">3</A> describes the common underlying data
+structures and syntax for SDSI, including the S-expression data
+structure and their representation as ASCII strings, hash values of an
+S-expression, dates, numbers, compression techniques, and 
+the representation of object and message types.
+<P>
+<LI> 
+Section <A HREF="sdsi10.html#secstandardtypes">4</A> describes some standard SDSI data
+types:
+cryptographic keys,
+principals (made from a public signature verification key and an internet address),
+encrypted objects,
+and
+signed objects (in three formats)
+<P>
+<LI>
+Section <A HREF="sdsi10.html#secnames">5</A> explains how each principal establishes his
+own local name space and
+how he can use certificates to export name/value bindings to other
+parties.
+<P>
+<LI>
+Section <A HREF="sdsi10.html#secprotocols">6</A> discusses protocols, gives the
+basic ``query'' protocol, gives the ``reconfirmation'' protocol, and
+discusses autocertificates (which can be viewed as the reply to
+a cryptographic ``finger'' operation).
+<P>
+<LI>
+Section <A HREF="sdsi10.html#secgroups">7</A> explains the notion of a ``group,'' and shows
+how to use groups to specify authorization, how to define a group, how
+to determine whether a given principal is a member of some group,
+using the group definition and any available credentials, how to query
+a server to find out if a principal is a member of some
+remotely-defined group, and how to write ACLs in a simple manner.
+<P>
+<LI>
+Section <A HREF="sdsi10.html#secscenarios">8</A> gives examples of some typical application
+scenarios.
+<P>
+</UL>
+<P>
+A companion paper will give precise specifications. This paper
+contains many suggestive details, but a fully worked-out proposal
+would be much lengthier.  Although the first ``S'' in SDSI stands for
+``simple,'' this proposal may appear complex.  However, given the
+rather ambitious scope of its aims, we feel that it is remarkably
+simple.
+<P>
+<H1><A NAME=SECTION00030000000000000000> Data structures and Syntax</A></H1>
+<P>
+<A NAME=secsyntax>&#160;</A>
+<P>
+<H2><A NAME=SECTION00031000000000000000> S-expressions</A></H2>
+<P>
+This section presents a general syntax for representing octet-strings
+and lists, the data structures used by SDSI.
+<P>
+Our data structures are ``S-expressions,'' which may be:
+<UL><LI> An <em>octet-string</em>: a sequence of zero or more 8-bit bytes.
+      Each octet string may be preceded by an associated ``presentation hint,''
+      which is also a sequence of 8-bit bytes.  Examples of
+      octet strings are: <tt>&quot;Digital Soup Kitchen&quot;</tt>, <tt>Tom-Hanks</tt>.
+      An example of a presentation hint is <tt>[image/gif]</tt>. 
+<LI> A <em>list</em> of one or more simpler S-expressions. An example of a list
+      is 
+<PRE>
+      ( Algorithm: RSA-with-SHA1 ) .
+</PRE>
+</UL>
+<P>
+<H3><A NAME=SECTION00031100000000000000> ASCII (``external'') representations</A></H3>
+<P>
+This section describes how SDSI data structures can be represented in
+US-ASCII for transmission or storage purposes.
+<P>
+Each S-expression has ASCII ``external'' representations for
+transmission or storage.  Their readability may help diagnosis and
+auditing.  These representations are not unique; one can choose
+maximum economy or maximum legibility.  For high efficiency, there
+is a ``verbatim'' representation of octet strings, and short forms
+for common symbols (see Section <A HREF="sdsi10.html#seccompression">3.3</A>).
+<P>
+SDSI representations use the US-ASCII character set;
+they may use alphanumeric characters, ``special'' printing characters:
+<PRE>
+      ~ ` ! @ # $ % ^ &amp; * - _ + = { } ; : ' &quot; &lt; &gt; [ ] , . / ? \ |
+</PRE>
+and whitespace (non-printing) characters (blanks, tabs, newlines,
+carriage-returns, etc).  SDSI is case-sensitive.  In general, the
+amount of whitespace between portions of the representation, and their
+arrangement on different lines, is immaterial.  We show nicely
+indented structures for readability only; the indentation is not
+significant, and parentheses are used for grouping.
+<P>
+<P><b>Octet-strings.</b>
+There are five external representations for variable-length octet-strings.
+There is no limit on the length of an octet string.
+<UL><LI> <em>Hexadecimal</em> (e.g. <tt>#45facd57 </tt>); this is
+a sharp sign (<tt>#</tt>) followed by an <em>even</em> number of hex digits;
+each consecutive pair of hex digits represents one octet.
+<P>
+<LI> <em>Base-64</em> (e.g. <tt>=Ac0+Thj390==</tt>); this is an equals
+sign (<tt>=</tt>) followed by the base-64 encoding as defined in
+RFC-1521. This techniques encodes each triple of octets with a block
+of four characters from the 64-character set <tt>A-Z a-z 0-9 + /</tt>.
+Octet-strings whose length is not a multiple of three have a
+representation whose last four-character block contains two or three
+base-64 characters and two or one equals signs as padding.  The length
+of a base-64 encoding is thus always a multiple of four.
+<P>
+<LI> 
+A <em>token</em> (e.g. <tt>athena-server</tt>) is a sequence of printable
+(non-whitespace) characters other than parentheses, single or double
+quotes, square brackets, or hash marks, and which does
+not end with a minus sign.  Decimal numbers (e.g. <tt>45</tt>) are a subset of the tokens.
+A token that begins with a special
+character is called a ``special token;'' SDSI gives special treatment
+to some special tokens; they may not represent octet-strings at all,
+or may represent a different octet-string.  (An example of such a
+case is the base-64 encodings, which start with an equals sign.)
+<P>
+<LI> <em>Quoted strings</em> (e.g. <tt>&quot;Mary P. O'Connor&quot;</tt>)
+represent octet strings containing blanks and printable characters
+other than double-quotes.  On input, a consecutive sequence of
+whitespace characters within the quotes is converted to a single
+blank.  On output, a single blank may be converted to an arbitrary
+sequence of whitespace characters (e.g. carriage returns may be freely
+added at word breaks-these are ``word-wrap strings'').
+<P>
+<LI> <em>Verbatim octet-strings</em>, 
+preceded by a hexadecimal length and a colon (e.g. <code>#03:^%-</code> ),
+are used as an escape mechanism for transmitting large octet-strings
+most efficiently, at the cost of abandoning ASCII and human
+readability.  The length is always given in the most compact form
+possible (no unnecessary leading zero octets).
+<P>
+</UL>
+<P>
+An octet-string may be written as a sequence of ``fragments'' by
+following each fragment but the last with a minus sign.  Thus <tt>#0123- &quot;b&quot;- #01:c- d- #0876</tt> is the same as <tt>#01236263640876</tt>.
+(Note that ASCII <tt>&quot;b&quot;</tt> is hexadecimal <tt>#62</tt>.)  A long octet
+string can thus be fragmented for robust email transmission.
+<P>
+The various ways of expressing an octet-string are fully equivalent, 
+as in the following example:
+<PRE>
+      abc  &quot;abc&quot;  #616263  =YWJj  #03:abc a- b- &quot;c&quot;
+</PRE>
+<P>
+Octet-strings are used for a variety of purposes:
+<UL><LI> Object type names, such as <tt>Cert:</tt> .
+<LI> Attribute names, such as <tt>Date:</tt> .
+<LI> Dates, such as <code>1996-02-14T11:46:05.046-0500</code>.
+<LI> Context-specific flags, such as <tt>optional</tt>.
+<LI> Names (such as <tt>Mary-Jones</tt> or <tt>&quot;Bob Smith&quot;</tt>) 
+      that may denote principals, groups, or other SDSI objects).  
+      A name need not be an octet-string; it may be an S-expression, such
+      as <tt>( ( Digital ) ( Accounting ) ( Robert Smith ) ) </tt>.
+<LI> Big numbers.
+</UL>
+<P>
+A <em>presentation hint</em> (discussed further below) is represented as
+an octet string surrounded by square brackets. An example is <tt>[image/gif]</tt>.  A presentation hint is a modifier or tag for the
+following octet string; it does not itself represent an octet string,
+but rather describes how the following octet string might best be
+presented to the user.
+<P>
+Special tokens do not (necessarily) represent octet strings, but have
+special functions.  At present, the only use SDSI makes of special
+tokens is for macros:
+<UL><LI> 
+Special tokens may represent macros, such as <tt>*S</tt> . Macros always
+start with a star <tt>*</tt> .  A macro expands to an ordinary token.
+Note that <tt>&quot;*S&quot;</tt> is not a macro, and thus isn't expanded; a macro
+must be represented as a special token and not as some other form of
+an octet string.
+</UL>
+<P>
+<P><b>S-expressions.</b>
+An S-expression list can be represented in ASCII as a left
+parenthesis, an optional blank, the representations of the list
+elements separated by blanks, an optional final blank, and a right
+parenthesis.  Blanks between list elements are optional if at least
+one element is itself a list-no blanks are needed between
+parentheses.  On input, any sequence of white-space or non-printable
+characters not inside a verbatim octet-string is equivalent to a
+single blank.  As an example of an S-expression:
+<PRE>
+    ( Get.Query:
+       ( Template: ( Auto-Cert: ) )
+       ( Signed:
+         ( Object-Hash: ( SHA1 #345678 ) )
+         ( Date: 1996-02-14T11:46:05.046-0500 )
+         ( Signature: #8dff4123 ) ) )
+</PRE>
+<P>
+One can choose the representation of an S-expression according
+to the purpose being served:
+<UL><LI> For maximum legibility, optional blanks are always used,
+and octet-strings are printed in the first manner that works of:
+token, quoted string, or hexadecimal, and appropriate indentation is used.
+<LI> For maximum efficiency, optional blanks are never used, and the
+shortest possible representation of each octet string is chosen. 
+<LI> 
+For bullet-proof email transmission, fragmented base-64 encodings can
+be used, with line lengths limited to 76 characters.
+<LI> 
+The ``canonical'' ASCII encoding of a SDSI object represents all
+octet-strings (including those within presentation hints) in verbatim
+mode.  If an octet string has an associated presentation hint then 
+the presentation hint
+precedes the octet-string and is separated from it by a single blank.
+Lists are represented with exactly one blank before and after each
+list item.
+</UL>
+<P>
+<P><b>Presentation Hints.</b>
+SDSI data structures may be sometimes be shown to people.  In some
+cases, the rules above (such as those for ``maximum legibility'') may
+be inappropriate or inadequate.  For example, some data may be text in
+Unicode, or may represent a photo.  SDSI provides ``presentation
+hints'' for handling such cases.
+<P>
+These hints apply to the following S-expression, which must be an
+octet-string.  (Each octet string may be preceded by at most one such
+presentation hint.)  Presentation hints are octet-strings surrounded
+by square brackets, as in:
+<PRE>
+        [charset=unicode-1-1] #34518976aabcde
+</PRE>
+specifies that the hexadecimal string <tt>#345...</tt> represents
+Unicode text (see RFC 1641).  In general, we propose that one can use
+simple MIME Content-Types, such as
+<PRE>
+        [text/richtext]
+        [image/gif]
+        [audio/basic]
+        [application/postscript]
+        [text/plain;charset=unicode-1-1]
+</PRE>
+The SDSI specification will say which presentation hints must be
+supported.  Multipart MIME types are not supported.  Other
+security-related types may be supported, such as
+<PRE>
+        [application/X.509v3]
+</PRE>
+for including X.509v3 certificates within SDSI data structures.
+(Note that this is just a presentation hint for an octet string; SDSI
+does not parse or give any meaning to such a certificate, and such a
+certificate could be included as an octet string without any such
+presentation hint.)
+<P>
+Presentation hints are only hints.  A presentation program may ignore
+the hint, and present the data in some default mode.  If used, the
+hint itself should be suppressed in the presentation; if ignored, the
+hint should be displayed.
+<P>
+A hint may be placed before any octet string.  For other purposes they
+are effectively invisible or ignored.  They should be considered as a
+``tag'' for the following octet string, and carried around with that
+string.  However, they do participate in hash computations.
+<P>
+<H2><A NAME=SECTION00032000000000000000> Numbers, Hash Values, and Dates</A></H2>
+<P>
+<A NAME=sechashvalues>&#160;</A>
+<P>
+This section describes how (big) numbers, hash-values, and dates are
+represented as octet-strings.
+<P>
+<P><b>Numbers.</b>
+Integers are represented as an octet-string in two's complement
+notation with the most-significant byte first.  A number may be of
+any length.
+<P>
+<P><b>Hash Values.</b>
+The hash value <i>H(S)</i> of an S-expression <i>S</i> is obtained by applying a
+cryptographic hash algorithm, such as MD5 <A HREF="sdsi10.html#Rivest92c">[6]</A> or
+SHA1 <A HREF="sdsi10.html#Standards93">[5]</A>, to <i>S</i>'s canonical ASCII representation.
+SDSI's default hash algorithm is SHA1.  A hash value is represented as
+a list containing the hash algorithm name and the hash value.
+<PRE>
+    ( SHA1 =67adhNPs8Y+/Uy34NhWp77CvULm= )
+</PRE>
+<P>
+<P><b>Dates and Time.</b>
+Dates/times are represented as UTC time to the millisecond, with a time-zone
+designation, as an octet-string in the following format:
+<PRE>
+    yyyy-mm-ddThh.mm.ss.mmm-xxzz
+    1996-02-14T11:46:05.046-0500
+</PRE>
+for February 14th, 1996 at 11:46:05 AM in Eastern Standard Time.  Here
+<tt>yyyy</tt> is the year, <tt>mm</tt> is the month, <tt>dd</tt> is the day,
+<tt>hh</tt> is the hour, <tt>mm</tt> is the minutes, <tt>ss</tt> is the
+seconds, <tt>mmm</tt> is milliseconds, and <tt>xxzz</tt> is the time zone
+expressed as a difference (either <tt>+</tt> or <tt>-</tt>) of local time to
+UTC time in hours (<tt>xx</tt>) and minutes (<tt>zz</tt>).  This format
+follows the ISO 8601:1988 conventions.  (However, the described format
+is required, with none of the variations possible within that
+standard, except that the last <i>n</i> fields (<i>n &lt; 6</i>) and their
+preceding separators, may be omitted with the understanding that the
+omitted items are understood to have a zero value.  Nonetheless, the
+full format is recommended, and signers should try to give a distinct
+time to each message signed.)
+<P>
+<H2><A NAME=SECTION00033000000000000000> Compression</A></H2>
+<P>
+<A NAME=seccompression>&#160;</A>
+<P>
+This section (which should be skipped at first reading) describes 
+compression techniques for sending SDSI data structures efficiently.
+<P>
+SDSI has a fairly expansive, human-readable syntax.  For greater
+economy in transmission, SDSI has a simple ``macro''
+capability, as well as ``verbatim'' encodings for octet-strings.
+<P>
+<P><b>Quote macro</b>
+<P>
+The form <tt>'&lt;S&gt;</tt>, for any S-expression <tt>&lt;S&gt;</tt>, is equivalent to
+the form <tt>( Quote: &lt;S&gt; )</tt>.
+<P>
+<P><b>Star macros.</b>
+If a special token begins with a star,
+then it is looked up in a fixed published standard table of
+substitutions.  Each such special token can have some token as its
+defined value. For example,
+<PRE>
+    *C  ==&gt; Cert:
+    *G  ==&gt; Get.Query:
+    *P  ==&gt; Principal:
+    *Sg ==&gt; Signature:
+    ...
+</PRE>
+All common SDSI tokens have such a ``short form.''
+<P>
+Within a protocol message, the reserved macros <tt>*SENDER </tt> and
+<tt>*RECEIVER</tt> refer to the principal for the sender and the
+principal for the receiver.  Thus, <tt>( ref: *SENDER bob )</tt> refers to
+the sender's <tt>bob</tt>, while <tt>( ref: *RECEIVER bob )</tt> refers to
+receiver's <tt>bob</tt>.
+<P>
+Star macros are only used for transmission.  They are used to compress a
+message before transmission, and to decompress upon receipt.  They
+only exist ``on the wire''; they are not used for storage or
+presentation, and are never present when a hash computation is
+performed.
+<P>
+<H2><A NAME=SECTION00034000000000000000> Object and message types</A></H2>
+<P>
+<A NAME=secobjecttypes>&#160;</A>
+<P>
+This section describes how lists are used to represent SDSI objects, and
+a particularly important kind of object: messages.
+<P>
+Lists are used to represent most SDSI objects.  the first element (the
+<em>head</em>) of each list indicates the type of that object.  The form
+of the rest of the list (its <em>body</em>), is determined by the
+object's type.
+<P>
+SDSI has a simple type system.  Basic types are indicated by a simple
+token.  (SDSI normally ends these tokens with a colon, as in <tt>Date:</tt>).  A (super-)type can also be defined as the union of other
+types: the type HASH-ALGORITHM might be defined as the union of
+types <tt>SHA1:</tt>, <tt>MD5</tt>, and <tt>RIPEMD-160</tt>, for example.
+Super-types are not used explicitly in SDSI, but help define its
+syntax.  Some standard super-types are OCTET-STRING, TOKEN,
+ANY, PUBLIC-KEY-ALGORITHM.
+<P>
+The form of the body is one of three types, depending on the object
+type.  The allowed forms are:
+<UL><LI> 
+An <em>attribute/value pair</em>.  An object of this type has length
+exactly two.  The head (the object type) can be thought of as the
+``attribute,'' and the body contains just one element, which is the
+associate ``value.'' Here is are some examples:
+<PRE>
+      ( Date: 1996-02-14T11:46 )
+      ( Ciphertext: #3487FFAB3C1022 )
+      ( Period: P1M )
+      ( SDSI-version: 1.0 )
+</PRE>
+Many SDSI objects will contain this last attribute/value pair; we
+don't show this in our examples.  This paper describes SDSI version 1.0.
+<LI>
+A <em>sequence</em> has as a body a variable-length sequence of one or
+more elements, all of the same type (or super-type). Changing the
+order of the elements in the sequence may change
+the meaning of the object.
+Here are some examples:
+<PRE>
+      ( ref: tom bill mother )
+      ( OR: faculty staff students )
+      ( ACL: Ian.Fleming Q 007 Moneypenny )
+</PRE>
+<LI>
+A <em>set</em> has as a body of variable number of lists representing
+objects of distinct basic types.  That is, there may be at most one
+subobject of any given type, with the exception of the subobject type
+<tt>Signed:</tt> which may appear multiple times.  The order of the
+subobjects within the object does not affect the meaning of the
+object.  (However, re-ordering the subobjects will affect how its hash
+is computed.)  Certificates are set-type objects:
+<PRE>
+      ( Cert:
+        ( Signed: 
+          ( Object-Hash: ( SHA1: =78gBVKl8+94D/1QA ) )
+          ( Date: 1996-05-06T12:00:00 )
+          ( Signature: #FB47AC89001DA57798 ) )
+        ( Local-Name: grumpy )
+        ( Value: [image/gif] =3fGtHy781QhuNiVC ) )
+</PRE>
+Here the <tt>Cert:</tt> contains an subobject of type <tt>Signed:</tt>, which is
+also a set-type object.  The other object types illustrate (<tt>Object-Hash:</tt>,
+<tt>Date:</tt>, <tt>Signature:</tt>, <tt>Local-Name:</tt>, and <tt>Value:</tt>) are all
+attribute/value object types.
+</UL>
+In general, the subobject types that may (or must) appear in the body
+of an object are constrained by the type of the object itself.
+SDSI programs should check that syntactic validity of the objects
+they are dealing with.
+<P>
+<em>Messages</em> are set-type objects; the type is representable
+as a token of the form
+<PRE>
+    protocol-name.message-type:
+</PRE>
+that identifies the type of the message transmitted during some
+two-party protocol.  Each protocol has a unique name, such as <tt>Get</tt> or <tt>Electronic-Payment</tt>.  Each protocol consists of a
+back-forth exchange of messages, and each message has its own name within
+the protocol, such as <tt>Query</tt>, <tt>Reply</tt>, or <tt>Receipt</tt>.
+Thus, a message type may be representable by a token such as:
+<PRE>
+    Get.Reply:
+    Electronic-Payment.Receipt:
+</PRE>
+<P>
+A commonly used attribute in a message might be the hash of the last
+message received from the other party:
+<PRE>
+       ( Your-Last-Message-Hash: ( SHA1 =YnK82Ab+Om0i/uBx+9ikHjdF9NV= ) )
+</PRE>
+<P>
+All SDSI object-type names are ``global.''  Users who wish to coin new
+SDSI object types are encouraged to use URL's as unique names, to avoid
+conflicting with names used by other users.  The resource named may specify
+information about the object type.
+<P>
+<H1><A NAME=SECTION00040000000000000000> Standard SDSI Object Types</A></H1>
+<P>
+<A NAME=secstandardtypes>&#160;</A>
+<P>
+This section describes four standard SDSI object types: cryptographic
+keys, principals, encrypted objects, and signed objects.
+<P>
+<H2><A NAME=SECTION00041000000000000000> Keys and encryption parameters</A></H2>
+<P>
+<A NAME=seckeys>&#160;</A>
+<P>
+Cryptographic keys are represented by an attribute/value object that
+gives the key type (one of <tt>Public-Key:</tt>, <tt>Private-Key:</tt> or
+<tt>Shared-Secret-Key:</tt>) with a sub set-type object whose type is the
+algorithm specified, and whose parts give associated parameters.
+<P>
+<PRE>
+    ( Public-Key:
+       ( RSA-with-SHA1:
+         ( N: =Hi7KugV013Tv978d00vCpQ== )
+         ( E: #11 ) ) )
+    ( Private-Key:
+       ( RSA-with-SHA1:
+         ( N: =Hi7KugV013Tv978d00vCpQ== )
+         ( D: #43 ) ) )
+    ( Shared-Secret-Key: 
+       ( RC5-32/12/16-CBC:
+         ( K: &quot;ossifrage&quot; ) ) )
+</PRE>
+<P>
+Public keys are for signature verification and/or encryption
+(depending on the algorithm), while private keys are for the
+corresponding operations of signing and/or decryption.  A public-key
+algorithm used for signing or signature verification must specify a
+hash algorithm.
+<P>
+Shared secret keys can be used for encryption, decryption, or for
+computing MAC's (message authentication codes).  A shared secret
+key could be a shared password, for example.  A shared secret key
+might also be a time-varying password (as obtained, say, from a
+Security Dynamics SecurID card).
+<P>
+<H2><A NAME=SECTION00042000000000000000> Principals as public keys, and their servers</A></H2>
+<P>
+<A NAME=secprincipals>&#160;</A>
+<P>
+This section describe the fundamental notion of a ``principal,'' defined
+in terms of a public signature verification key, and talks about simple
+interactions with a principal.
+<P>
+A SDSI principal is defined as a public signature verification key,
+one or more optional global names, and one or more optional internet
+addresses.  The most important thing about a principal is its ability
+to verify signed statements; that is why a principal is defined in
+terms of its public key.  We say that the principal ``makes'' the
+signed statements, even if its key is only verifying signatures made
+by the corresponding private key.
+<P>
+<PRE>
+    ( Principal:
+      ( Public-Key: ... )
+      ( Global-Name: ( ref: VeriSign!! WebMaster Bob-Jones ) )
+      ( Principal-At: &quot;http://abc.webmaster.com/cgi-bin/sdsi-server/&quot; )
+      ( Server-At: &quot;http://xyz.webmaster.com/cgi-bin/sdsi-server/&quot; )
+      )
+</PRE>
+<P>
+The optional <tt>Global-Name:</tt> field (a sequence) suggests one or
+more ``global names'' for the principal, each starting from a SDSI
+special root.  These names are merely suggestions as to how one
+might obtain the relevant certificates if one wants to verify that the
+global names are indeed correct.
+<P>
+The optional <tt>Principal-At:</tt> field (attribute/value) specifies an
+Internet address (typically as a partial URL) for the principal.
+Queries to the principal can be addressed there, although the
+principal's servers (if any) should normally be tried first.
+<P>
+The optional <tt>Server-At:</tt> field (a sequence) specifies the
+Internet addresses of one or more ``servers'' who can distribute
+certificates and other signed statements on behalf of the principal.
+If more than one server is specified, it is understood that the
+servers are equivalent, and that a query could be addressed to any one
+of them.  The servers should have high reliability and high on-line
+availability, whereas the principal may be frequently or even
+permanently off-line.
+<P>
+A server also distributes the principal's ``auto-certificate,'' an
+object signed by the principal that gives additional information about
+that principal. Auto-cert service is similar to the standard
+``finger'' service, except that the reply is a SDSI auto-certificate.
+We also imagine that there could be standard services similar to Alta
+Vista that might also be able locate an auto-cert given the public
+key.
+<P>
+Information in the principal other than the public key is considered
+as merely ``advisory''; two principals are taken as being ``the same''
+if and only if they have the same public key.
+<P>
+There are two reasons for keeping the object of type <tt>Principal:</tt>
+as short as possible by pushing as much information as possible into the
+auto-certificate:
+<UL><LI> 
+Information that may change should not be included in
+the <tt>Principal:</tt>, since a change would require
+re-issuing any certificates about that principal.  Putting such
+information in the auto-cert enables it to be modified without changing
+any certificates other than the auto-cert itself.
+<LI> 
+The <tt>Principal:</tt> object normally appears in every object signed by
+that principal, and so it is desirable to economize.  Including a
+large GIF photo of oneself is reasonable in an auto-cert, but not in
+every message one signs.
+</UL>
+<P>
+Individuals who expect to utilize their <tt>Principal:</tt> object for a
+long time should choose their servers carefully, since reliability and
+longevity are critical.  One needn't specify one's own machine as
+one's server; indeed, this may be a poor choice.  Organizations may
+provide servers for their members, or commercial services may provide
+servers for a fee.  For short-term principals, such as many ``roles'',
+using one's own machine may be satisfactory.
+<P>
+<H2><A NAME=SECTION00043000000000000000> Encrypted objects</A></H2>
+<P>
+<A NAME=secencryptedobjects>&#160;</A>
+<P>
+This section describes how to represent an encrypted object within
+SDSI, as a list containing both a key indicator and the ciphertext.
+<P>
+The encryption of an object <i>X</i> is a set-type object whose 
+parts indicate the encryption key (either a public key or a
+shared-secret key) used to encrypt the object and give the ciphertext
+resulting from encrypting an ASCII representation of <i>X</i>.
+<P>
+The ciphertext may be an arbitrary sequence of S-expressions; some
+encryption algorithms may find this convenient.  For example, the IV
+and ciphertext can be represented as separate octet-strings.
+<P>
+The object type for an encrypted object is <tt>Encrypted:</tt>.
+An <tt>Encrypted:</tt> object should only be decrypted ``as necessary''
+during other processing.
+<P>
+The encryption key is indicated by 
+<UL><LI> Giving it explicitly in a <tt>Key:</tt> (attribute/value) field:
+<PRE>
+    ( Encrypted:
+      ( Key: ( Shared-Secret-Key: ... ) )
+      ( Ciphertext: =Yh87oKlqpBv8iY55+n== ... ) )
+</PRE>
+<LI> Giving its hash in a <tt>Key-Hash:</tt> (attribute/value) field:
+<PRE>
+    ( Encrypted:
+      ( Key-Hash: ( SHA1 #241dc... ) )
+      ( Ciphertext: =Yh87oKlqpBv8iY55+n== ... ) )
+</PRE>
+<LI> 
+Representing it explicitly as an encrypted object itself:
+<PRE>
+    ( Encrypted:
+      ( Key: ( Encrypted:
+                ( Key-Hash: ( SHA1 #548... ) )
+                ( Ciphertext:  #765... ) ) )
+      ( Ciphertext: #345... ) )
+</PRE>
+Here <tt>#765...</tt> denotes the encryption of the message
+key by an encryption key (public or shared-secret) with hash <tt>#548...</tt>, and <tt>#345...</tt> is the encryption of the message object
+with the message key.
+<LI> Giving a <tt>( ref: ... )</tt> expression that evaluates to the key.
+<PRE>
+    ( Encrypted:
+      ( Key: ( ref: *SENDER key-49 ) )
+      ( Ciphertext: ... ) )
+</PRE>
+Here the <tt>*SENDER</tt> macro is used.
+</UL>
+<P>
+In the last example, one way that the receiver might know what value
+the sender has for <tt>key49</tt> is that the sender might previously
+have sent him an <tt>Encrypted:</tt> certificate including the
+definition:
+<PRE>
+    ( Cert: 
+       ( Local-Name: key-49 )
+       ( Value: ( Shared-Secret-Key: RC5 ... ) )
+       ( Signed: ... ) )
+</PRE>
+<P>
+<H2><A NAME=SECTION00044000000000000000> Signed objects</A></H2>
+<P>
+<A NAME=secsignedobjects>&#160;</A>
+<P>
+This section describes how to represent signed objects with three
+signature formats (wrapped-hash, wrapped-object, and signature
+appendix), and shows how to transform between these formats without
+performing cryptographic operations.  It also shows objects can be
+``co-signed;'' with either parallel co-signatures or cascaded
+co-signatures.
+<P>
+A signed object can be signed in either ``wrapped'' mode (where the
+signed-object contains the object being signed or its hash) or in
+``appendix'' mode (where the signature is typically appended to the end of the
+signed object).  One can creat cascaded co-signatures (in either mode)
+and parallel co-signatures (in appendix mode only).
+<P>
+In any case a signature is represented by a set-type object of type <tt>Signed:</tt>.  An example of a minimal object of type <tt>Signed:</tt> is
+shown below:
+<PRE>
+    ( Signed:
+      ( Object-Hash: ( SHA1: =7Yhd0mNcGFE071QTzXsap+q/uhb= ) )
+      ( Date: 1996-02-14T11:46:05.046-0500 )
+      ( Signature: #3421197655f0021cdd8acb21866b ) )
+</PRE>
+Such an object, by itself, is said to be a signature in ``wrapped-hash''
+format.
+<P>
+The mandatory <tt>Object-Hash:</tt> (attribute/value) 
+field specifies the hash of the object being
+signed.  An arbitrary set-type object may be signed, although this paper
+only talks about signed certificates or messages.
+<P>
+The mandatory <tt>Date:</tt> (attribute/value) field gives the
+(effective) date of signing.  There is of course nothing to prevent a
+signer from pre-dating or post-dating his signatures.
+<P>
+The mandatory <tt>Signature:</tt> field (a sequence) gives the output
+produced by the signature algorithm, which can be an arbitrary
+sequence of S-expressions, obtained by hashing the entire <tt>Signed</tt>
+object, except for any subobjects of type <tt>Signature:</tt>
+or <tt>Object:</tt>, and then applying the signature algorithm to the
+result.
+<P>
+We now describe the optional fields for a <tt>Signed:</tt> object.
+<P>
+<PRE>
+      ( Object: ... )
+</PRE>
+Th optional <tt>Object:</tt> (attribute/value) field explicitly gives the
+object being signed, whose hash is given in the <tt>Object-Hash:</tt>
+field.  (The signature verification procedure must check this.)  When
+this field is included, the <tt>Signed:</tt> object is said to be in
+``wrapped-object'' format.  This field is not hashed by the signature
+algorithm, since its hash is already given in the (mandatory) <tt>Object-Hash:</tt> field, which <em>is</em> hashed by the signature algorithm.
+This convention also enables transforming between different signature
+formats, as described below, because the <tt>Object:</tt> field can be
+removed while leaving the signature valid.
+<P>
+<PRE>
+      ( Expiration-Date: 2000-01-01-00:00:00.000-0500 )
+</PRE>
+The optional <tt>Expiration-Date:</tt> (attribute/value) field gives the
+date after which the signature is no longer valid (even if reconfirmed
+by a server).
+<P>
+<PRE>
+      ( Signer: ( Principal: ... ) )
+</PRE>
+This optional <tt>Signer:</tt> (attribute/value) field specifies the
+signing principal.  This field must be included whenever the signed
+object might later be used in a context where it is not obvious who
+the signer is, or if the signature requires periodic reconfirmation.
+This field should be in the first signed message sent by each party in
+a protocol, and may be omitted thereafter except for messages (such as
+membership certificates) that will be kept around after the protocol.
+<P>
+<PRE>
+      ( Signing-Key-Hash: ( SHA1: #7613445... ) )
+</PRE>
+The optional <tt>Signing-Key-Hash:</tt> (attribute/value) field is used
+when the signature (here a MAC) is created with a shared secret
+authentication key; it specifies the hash of the shared secret key.
+<P>
+<PRE>
+      ( Credentials: ... )
+</PRE>
+The optional <tt>Credentials:</tt> field (a sequence) lists various
+``credentials'' of the signer.  These take the form of certificates
+that may help to establish that the signer has the appropriate
+authorizations, such as what might be needed to access data that is
+restricted by an access-control list.
+<P>
+<PRE>
+      ( Signing-For: ( Principal: ... ) )
+</PRE>
+The optional <tt>Signing-For:</tt> (attribute/value) field is used when
+the signer is signing on behalf of someone else.  The most common
+situation occurs when a server is signing something (such as a
+membership certificate) on behalf of a principal.  When this field is
+present there must also be a <tt>Credentials:</tt> field present that
+demonstrates that the signer indeed has the authorization necessary to
+sign for the other party.
+<P>
+<PRE>
+      ( Re-confirm: 
+          ( Period: P1M ) 
+          ( Principal: ... ) )
+</PRE>
+The optional <tt>Re-confirm:</tt> (set-type) field specifies that
+reconfirmation is required, and gives details.  In this example, this
+field says that one must periodically ``re-confirm'' the signature
+every month.  The period is specified according to ISO 8601:1988
+format for periods without start or end.  This begins with a <tt>P</tt>,
+followed by an optional time-period indicated as so many years (Y),
+months (M), weeks (W), days (D), optionally followed by a <tt>T</tt>,
+followed by so many hours (H), minutes (M), and/or seconds (S).  Thus,
+<tt>PT8H</tt> says that reconfirmation is required every 8 hours, and
+<tt>P6WT4H3M</tt> says that reconfirmation is required after 6 weeks, 4
+hours, and 3 minutes.  A signature needs to be reconfirmed if its date
+(or the date of its last reconfirmation) is more than re-confirmation
+period old.
+<P>
+The next optional value within the <tt>Re-confirm:</tt> field is the
+``reconfirmation principal,'' given if different than the signing
+principal.  (It might typically be a server.)
+Section <A HREF="sdsi10.html#secreconfirm">6.2</A> describes reconfirmation procedures.
+<P>
+<P><b>Wrapped-hash, wrapped-object, and appendix signature formats.</b>
+<P>
+An object of type <tt>Signed:</tt> by itself is a ``wrapped'' form of the
+signed object.  It may or may not explicitly contain the object <i>X</i>
+being signed.  In either case the hash of <i>X</i> is given.  If <i>X</i> is
+also explicitly given, we say that the signature is in ``wrapped-object''
+form.  If only the hash of <i>X</i> is given, we say that it is in
+``wrapped-hash'' form.
+<P>
+A signature in wrapped-object form can be ``unwrapped'' and converted
+into two objects: the object <i>X</i> itself and a <tt>Signed:</tt> object in
+wrapped-hash form that contains only the hash of <i>X</i>.  Because the
+signature algorithm produces the same result whether or not the <tt>Object:</tt> field is present, this unwrapping operation does not require
+any cryptographic operations.
+<P>
+An object of type <tt>Signed:</tt> can be therefore be detached and
+managed separately (in wrapped-hash form) from the object itself.
+Many applications require this capability.
+<P>
+An S-expression that is a <em>set-type object</em> admits another
+signature format, which we call an <em>appendix-mode</em> signature.  To
+create such a format the <tt>Signed:</tt> object in wrapped-hash form is
+added as an appendix to the end of the set-type object being signed, as
+in:
+<PRE>
+    ( Get.Query:
+       ( Template: ( Auto-Cert: ) )
+       ( Signed:
+         ( Object-Hash: ( SHA1: #345678 ) )
+         ( Date: 1996-02-14T11:46:05.046-0500 )
+         ( Signature: #8dff4123 ) ) )
+</PRE>
+Verifying the signature thus requires first removing the <tt>Signed:</tt>
+field in order to compute the hash of the original list.  (We note
+that the signature need not actually be at the end, because a set-type
+object can have its subobjects in arbitrary order.)
+<P>
+Appendix mode is the ``standard'' signature mode for SDSI objects and
+messages because it is the only mode that also allows co-signatures.
+However, there there is no appendix format for signing octet-strings,
+so wrapped mode is mandatory for applications that must sign
+octet-strings representing word-processing documents, executable
+binary files, etc.
+<P>
+Because of the way the signature algorithm is defined, one can also
+transform easily between a wrapped-object form of a signed set-type object
+<i>X</i> and the appendix form of the signed object <i>X</i>.  This requires only
+simple re-arrangement; no cryptographic operations are required. Thus
+<PRE>
+    ( Signed:
+      ( Object-Hash: ( SHA1: #345678 ) )
+      ( Object: ( Get.Query: ( Template: ( Auto-Cert: ) ) ) )
+      ( Date: 1996-02-14T11:46:05.046-0500 )
+      ( Signature: #8dff4123 ) )
+</PRE>
+is equivalent to the previous example.
+<P>
+<P><b>Co-signatures: Parallel and cascaded.</b>
+<P>
+A set-type object can have more than one signature appendix; these are
+``parallel co-signatures'' that sign everything except the other
+signature(s).  Parallel co-signatures are the result of two or more
+signers independently signing an object, and appending their
+independent signatures to the end of the object.
+<PRE>
+    ( Get.Query:
+       ( Template: ( Auto-Cert: ) )
+       ( Signed: 
+         ( Object-Hash: ( SHA1: #345678 ) ) 
+         ( Date: 1996-02-14T11:46:05.046-0500 )
+         ( Signer: ( Principal: ( Global-Name: VeriSign!!'s &quot;Bob&quot; ) ... ) )
+         ( Signature: #8dff4123 ) )
+       ( Signed: 
+         ( Object-Hash: ( SHA1: #345678 ) ) 
+         ( Date: 1996-03-19T07:00:11.341-0500 )
+         ( Signer: ( Principal: ( Global-Name: VeriSign!!'s &quot;Alice&quot; ) ... ) )
+         ( Signature: #a78300b3 ) ) )
+</PRE>
+<P>
+Another form of multiple signature is the ``cascaded co-signature''
+obtained by adding a signature to the end of a <tt>Signed:</tt> object.
+Cascaded co-signatures are cumulative; they effectively sign all previous
+material.  A cascaded co-signature is what you get if you sign the
+<tt>Signed:</tt> object at the end of a previously signed list.
+<PRE>
+    ( Get.Query:
+       ( Template: ( Auto-Cert: ) )
+       ( Signed: 
+         ( Object-Hash: ( SHA1: #345678 ) ) 
+         ( Date: 1996-02-14T11:46:05.046-0500 )
+         ( Signer: ( Principal: ( Global-Name: VeriSign!!'s &quot;Bob&quot; ) ... ) )
+         ( Signature: #8dff4123 )
+         ( Signed: 
+           ( Object-Hash: ( SHA1: #86731b ) ) 
+           ( Date: 1996-03-19T07:00:11.341-0500 )
+           ( Signer: ( Principal: ( Global-Name: VeriSign!!'s &quot;Alice&quot; ) ... ) )
+           ( Signature: #7830ca12 ) ) )
+</PRE>
+Because the second <tt>Signed:</tt> object contains the hash <tt>( SHA1
+#86731b )</tt> of the first <tt>Signed:</tt> object, and the first <tt>Signed:</tt> object contains the hash <tt>( SHA1: #345678 )</tt> of the
+enclosing S-expression, Alice's second signature effectively signs both
+the original S-expression <tt>( Get.Query: ... )</tt> and Bob's first
+signature.  One can have cascaded co-signatures in either wrapped or
+appendix mode.
+<P>
+An application of cascaded co-signatures is digital time-stamping, where
+the second signature provides evidence that the first signature had
+already been created at the time the second signature was applied.
+<P>
+Another use would be where an application program running on behalf of
+a principal signs the signature created by the principal, so that the
+server knows that the request not only came from an authorized
+principal, but from an authorized principal running the correct
+program.
+<P>
+<H1><A NAME=SECTION00050000000000000000> Local Names, Certificates, and Name/Value Bindings</A></H1>
+<P>
+<A NAME=secnames>&#160;</A>
+<P>
+This section describes how each principal may define his own local
+name space, and how he may issue certificates to export his local
+name/value bindings.
+<P>
+<H2><A NAME=SECTION00051000000000000000> Names</A></H2>
+<P>
+Each principal has its own local name-space.
+<P>
+A name may be represented in one of two ways:
+<UL><LI> As an octet string that does not begin with any
+      special character.
+      Examples: <tt>&quot;abc&quot;</tt>, <tt>mary-sue</tt>, <tt>tom@nsf.gov</tt>, <tt>#61</tt> .
+<LI> 
+As an arbitrary S-expression <tt>n</tt>, enclosed in the form <tt>( Local-Name: n )</tt>.  Example:
+<PRE>
+      ( Local-Name: ( Accounting ( Bob Smith ) ) )
+</PRE>
+</UL>
+<P>
+An octet-string name <tt>n</tt> can be thought of as equivalent to the
+form <tt>( Local-Name: n )</tt>; they evaluate to the same thing.  We
+expect that most names will be represented as octet-strings written as
+tokens.
+<P>
+S-expressions of the forms:
+<PRE>
+      ( Principal: ... )
+      ( Group: ... )
+      ( Quote: ... )
+</PRE>
+may not be used as local names; these expressions are always treated
+as constants (they evaluate to themselves).
+<P>
+Although SDSI allows arbitary S-expressions as names, we suspect this
+feature will not be used much.  However, one reason we have included
+this capability in SDSI is that its flexibility provides a path for
+attempting to accommodate X.509 distinguished names within SDSI.
+<P>
+The principal can choose names arbitrarily.  He may also partition his
+name space with multi-part tokens (<tt>group:joggers</tt>), hierarchical
+tokens (<tt>fs:/sys/bin/foo.exe</tt>), or lists.
+<P>
+We call names in SDSI ``local-names'' to emphasize the fact that they
+are in a name space local to some principal, rather than in some
+global name space.
+<P>
+<H2><A NAME=SECTION00052000000000000000> Name/Value Bindings</A></H2>
+<P>
+A local name can be undefined, or it can be bound to some value (i.e.,
+some object).  The principal may assign a value to a local name by
+issuing a corresponding certificate.  If the local name already has a
+valid name/value certificate, the new certificate augments the old
+one, in the sense that a SDSI application is deemed to act correctly
+if it uses the name/value binding given in either certificate.
+<P>
+The binding can be ``symbolic''; <tt>bob</tt> can bind his local
+name <tt>lawyer</tt> to <tt>ted's lawyer</tt>.
+<P>
+Recall that DNS names are treated in a special manner.  The mapping
+from DNS names to <tt>ref:</tt> expressions works as follows, when
+attempting to interpret any octet-string:
+<UL><LI> If the octet-string has locally defined value, then that value is taken
+      as the desired value.  A principal can, for example, define
+      ``<tt>bob@fudgeco.com</tt>'' to have the desired value directly.
+<LI> Otherwise, if the octet string is of the form 
+<tt>name@ak...a2.a1</tt> for some <i>k &gt;= 1</i>, then the string is interpreted as equivalent to the 
+first form of the following list
+that has its first component defined in the local name space:
+<PRE>
+        ( ref: ak...a2.a1.DNS!! name )
+        ( ref: a(k-1)...a2.a1.DNS!! ak name )
+        ( ref: a(k-2)...a2.a1.DNS!! a(k-1) ak name )
+        ...
+        ( ref: a1.DNS!! a2 ... ak name )
+        ( ref: DNS!! a1 a2 ... ak name )
+</PRE>
+</UL>
+This mechanism allows one to write ordinary email addresses in an ACL,
+and get the correct interpretation, leveraging off the DNS security
+hierarchy (which is soon to appear, we presume; see Eastlake and
+Kaufman<A HREF="sdsi10.html#EastlakeKa96">[3]</A> for details).  The name <tt>DNS!!</tt> is a
+SDSI ``special root,'' and may not be re-defined.  The other
+names ending in ``<tt>.DNS!!</tt>'' may be redefined by the user to
+eliminate dependence on the DNS servers, as a security enhancement.
+(For example, Microsoft users can have <tt>microsoft.com.DNS!!</tt>
+defined locally, to ensure that addresses ending in <tt>microsoft.com</tt> are always resolved correctly, even if the DNS servers
+are corrupted.
+<P>
+<P><b>Details of <tt>ref:</tt></b>
+<P>
+Here is some detail about how <tt>ref:</tt> works:
+<PRE>
+      ( ref: n1 n2 ... nk ) means REF(current principal,n1,n2,...,nk)
+where
+      REF(P,n1,n2,...,nk) =
+          Q = P
+          for i = 1 to k do Q = REF2(Q, (Local-Name: ni) )
+          return Q
+where:
+      REF2(P,n) =
+          if P is not of form ( Principal: ... ) ERROR
+          if n = ( Principal: ... ) return n
+          if n = ( Group: ... ) return n
+          if n = ( Quote: y ) return n
+          if n = ( Local-Name: y ) return REF2(P,lookup-value(P,y)) 
+          if n = ( ref: n1 n2 ... nk ) return REF(P,n1,n2,...,nk)
+          if n = ( Encrypt: ... ) return REF2(P,decrypt(n))
+          if n = ( Assert-Hash: s h )
+             then let t = REF2(P,s)
+                  if hash(t) = h then return t else ERROR
+          if n has the form name@a1.a2.....ak
+             then return value of appropriate ( ref: ... ) form
+                  according to special DNS name-handling rules
+                  (This returns ERROR if P is not a local name-space.)
+          else ERROR
+where:
+      lookup-value(P,y) = current value of y in P's name space.
+</PRE>
+<P>
+<H2><A NAME=SECTION00053000000000000000> Certificates</A></H2>
+<P>
+<A NAME=seccertificates>&#160;</A>
+<P>
+Certificates (certs) are signed (set-type) objects.  Signed messages are
+a special case of certificates.
+<P>
+Most certificates contain a <tt>Local-Name:</tt> (attribute/value) field
+giving a local name.  The certificate is ``about'' that local name.
+The name may be an arbitrary S-expression.
+<P>
+(As a minor point, we note that if a certificate is signed with a
+cascaded co-signature (as you can get with a re-confirmation) then the
+definition is understood to be only for the primary signer's name
+space, not for the secondary principal.  On the other hand, if the
+certificate has parallel co-signatures, then the certificate is
+effective for each signer, since all but any one of the co-signatures
+can be removed, still leaving a validly signed certificate.)
+<P>
+The certificate may contain a <tt>Value:</tt> (attribute/value) field.
+If so, then this certificate serves to bind the given local name to
+that value; it is a ``name/value certificate.''  The value can be any
+SDSI object; typically it is a principal or a group definition.  The
+value should be one of the following:
+<UL><LI> a <tt>Principal:</tt> object,
+<LI> a <tt>Group:</tt> object,
+<LI> a <tt>Quote:</tt> object.
+<LI> a <tt>ref:</tt> object,
+<LI> an <tt>Encrypted:</tt> object, that, when decrypted, gives one of
+      the allowed types in this list,
+<LI> an <tt>Assert-Hash:</tt> object whose first field is an object of one
+      of the allowed types in this list.
+</UL>
+Fetching the value of the <tt>Value:</tt> field basically just takes the
+value as stored, except that encrypted objects are decrypted and
+<tt>Assert-Hash:</tt> wrappers are removed, until an object of one of the first
+three types is obtained.  It is an error if an <tt>Encrypted:</tt> object
+can not be decrypted.  <tt>Assert-Hash:</tt> checks are performed as the
+recursion unwinds, and it is an error if an <tt>Assert-Hash:</tt> check
+fails.  It is an error if an object is obtained that is not one of the
+above types.  (Fetching the value of other fields is similar in that
+<tt>Encrypted:</tt> and <tt>Assert-Hash:</tt> wrappers are removed whenever
+possible; these wrappers are stored with the certificate, but removed
+when these values are accessed.)
+<P>
+The certificate may also contain a <tt>Description:</tt>
+(attribute/value) field intended for human consumption.  If so, then
+this certificate can also be viewed as an ``identity certificate.''
+Understanding the <tt>Description:</tt> field is not required for
+accepting a local name/value binding, but this field should be read
+and understood if the certificate is used for any other purpose.
+<P>
+The intended typical use of the description item is to describe the
+entity controlling the specified principal, and to give any additional
+information or policies used in verifying his identity, so that a
+human can decide whether or not to place the principal into his
+data-base under some local name (possibly a different name than that in the
+certificate).
+<P>
+The certificate may contain arbitrarily many other subobjects.
+<P>
+Here is a certificate defining the local name ``<tt>Q</tt>'' as a
+principal, and also acting as an identity certificate, since it
+has both a <tt>Value:</tt> field and a <tt>Description:</tt> field.
+<PRE>
+    ( Cert:
+       ( Local-Name: Q )
+       ( Value: ( Principal: ... ) )
+       ( Description:
+         [text/richtext]
+         &quot;Bob Q. Smith has worked at &lt;bold&gt;WebMaster International&lt;/bold&gt;
+         as a link repairman since 3/4/95.  Bob has blond hair, is 
+         25 years old, and has &lt;italic&gt;green&lt;/italic&gt; eyes.&quot; )  
+       ( Phone: 617-665-0923 )
+       ( Signed: ... ) )
+</PRE>
+<P>
+Here is a group definition for ``<tt>FudgeCo-employees</tt>'':
+<PRE>
+ 
+    ( Cert:
+       ( Local-Name: FudgeCo-employees )
+       ( Value: ( Group: &quot;Bill Sweet&quot; &quot;Candy Tooth&quot; &quot;Ima Nut&quot; ) )
+       ( Description: 
+                &quot;All current hourly and exempt employees including
+                 those on medical or parental leave.&quot; )
+       ( ACL: ( read: FudgeCo-management ) )
+       ( Signed: ... ) )
+</PRE>
+<P>
+Here is a symbolic definition of ``<tt>head-nurse</tt>''.
+(Note that it presents the <tt>Value:</tt> field with a bit of syntactic
+sugar...)
+<PRE>
+ 
+    ( Cert:
+      ( Local-Name: head-nurse )
+      ( Value: Mass-General's head-nurse )
+      ( Description: &quot;The current head nurse at Mass General Hospital.&quot; )
+      ( Signed: ... ) )
+</PRE>
+<P>
+The ``type'' of a certificate need not be <tt>Cert:</tt>; it is possible
+to have various types of certificates.
+<P>
+Note that one can issue a certificate with no expiration date but with
+monthly reconfirmation required.  A new certificate for the same local
+name can be issued to replace it, and the reconfirmation procedure can
+cause appropriate queries to be made to get everyone up to date within
+one confirmation period.
+<P>
+It is intended that there would typically be only one valid
+certificate by a signer about a particular local name at a time.
+However, if there is more than one valid certificate in existence,
+then it is perfectly valid for a server to use <em>any</em> one of the
+available valid certificates.  In particular, it is expected that
+servers may have a policy of consistently using the most recent one
+available (i.e., the one with the most recent signing date), wherever
+possible.  Thus a credential submitted by a client may be disregarded
+in favor of a more recent certificate known to the server.  This holds
+as well for ``computed'' certificates such as member certificates.
+(In this case, the certificate is ``about'' the principal and the
+group collectively, so it can only be replaced by another more recent
+certificate about the same principal and group.)  By having his
+servers implement such policies, and by having efficient distribution
+mechanisms to his servers, a principal can be reasonably effective
+about revising the binding given to a local name, even before the
+actual expiration date of the earlier definition.  This is a pragmatic
+point of view; technically the older certificates are still valid
+until they expire.
+<P>
+<H1><A NAME=SECTION00060000000000000000> Protocols</A></H1>
+<P>
+<A NAME=secprotocols>&#160;</A>
+<P>
+This section describes the SDSI framework for two-pary communication
+protocols.  It discusses the standard ``Get'' protocol for obtaining
+information from a server, the protocol for reconfirming a signature,
+and the protocol for obtaining an auto-certificate. It also discusses
+delegation certificates and transport mechanisms.
+<P>
+Communication in SDSI takes place as a sequence of <em>protocols</em>
+between two parties.  Typically one party is called the ``client'' or
+``requestor,'' and the other party is called the ``server.''
+<P>
+In a protocol the client typically initiates the protocol by sending a
+first message to the server, and then the server and client
+alternately send messages to each other until the protocol is
+finished.  However, a party may send two or more messages in a row to
+the other party without waiting for a reply, and the parties may even
+send messages to each other simultaneously, if the protocol allows it.
+<P>
+We make no assumptions about how the messages in a protocol are
+transported, nor about the confidentiality, authenticity, integrity,
+or reliability of the transport mechanism.  Some discussion of
+transport mechanisms is given in Section <A HREF="sdsi10.html#sectransport">6.5</A>.
+<P>
+Each protocol defines standard message types and patterns of
+interaction.  A typical protocol might be a query/response protocol
+wherein the client asks a server for some information.  Although we
+only define a few protocols in this paper, a SDSI design goal is to
+provide a convenient framework for incorporating other protocols.
+<P>
+When a message is transmitted, it may be sent in compressed form,
+using the compression techniques of Section <A HREF="sdsi10.html#seccompression">3.3</A>.
+When it is received, it is immediately decompressed before further
+processing.
+<P>
+After decompression, the recipient decrypts the message if it is of
+type <tt>Encrypted:</tt>.  (Encrypted sub-objects are not decrypted until
+necessary.)
+<P>
+Many messages are signed.  If a signature fails to verify, the recipient
+sends back an error message.
+<P>
+<H2><A NAME=SECTION00061000000000000000> Queries with the ``Get'' protocol</A></H2>
+<P>
+<A NAME=secqueries>&#160;</A>
+<P>
+A server holds a database of certificates, and can be queried to
+return collections of certificates that satisfy some criteria.  The
+SDSI protocol for this is called <tt>Get</tt>.
+<P>
+The <tt>Get</tt> query always contains a <tt>To:</tt> (attribute/value)
+field specifying a principal.  The certs returned must have that
+principal as a primary signer.
+<P>
+A query specifies a ``template'' for the desired certificates, giving
+the object type of the desired certificates
+(such as <tt>Cert:</tt> or <tt>Auto-Cert:</tt> or ...), and
+a set of subobject templates.
+For example, the search criteria
+<PRE>
+    ( Template: ( Cert: ( Local-Name: bob ) ) )
+</PRE>
+is a request for all objects of type <tt>Cert:</tt> that contain an
+attribute/value pair that is equal to <tt>( Local-Name: bob )</tt>.  (In
+testing for equality, no evaluation of names is done, so that one is
+comparing to see if the local name is literally the octet-string <tt>bob</tt>.)  A search criteria of the form:
+<PRE>
+    ( Template: ( Cert: ( Value: '#23 ) ( Color: Red ) ) )
+</PRE>
+asks for all certs with the given <tt>Value:</tt> and <tt>Color:</tt> fields.
+<P>
+More generally, the <tt>( Template: &lt;form&gt;)</tt> field may have an
+arbitrary S-expression <tt>&lt;form&gt;</tt> as its value.  That is, the
+<tt>&lt;form&gt;</tt> is a template; a matching object must contain components
+matching with each component of the specified template.  More
+precisely: the form matches an object if and only if:
+<UL><LI> the form and the object are equal octet-strings, or
+<LI> the form and the object are both nonempty lists, and 
+<UL><LI> 
+the first element of the form matches the first element of the object, and
+<LI> 
+each element of the form other than the first matches some element of
+the object other than the first.
+</UL>
+</UL>
+<P>
+The server replies with a list of certs satisfying the query
+or with an error message.
+<P>
+Here are some sample queries.  
+The first asks for the current certificate about <tt>jim</tt>:
+<PRE>
+    ( Get.Query:
+      ( To: ( Principal: ... ) )
+      ( Template: ( Cert: ( Local-Name: jim ) ) )
+      ( Signed: ... ) )
+</PRE>
+The second asks for all certificates that have a specified principal
+as the given value.
+<PRE>
+    ( Get.Query:
+      ( To: ( Principal: ... ) )
+      ( Template: ( Cert: ( Value: ( Principal: ... ) ) ) )
+      ( Signed: ... ) )
+</PRE>
+<P>
+The query may also contain the optional 
+<PRE>
+      ( Encrypt-Reply: 
+          ( Strength: &lt;flag&gt; ) 
+          ( Key: &lt;key-indicator&gt; ) )
+</PRE>
+set-type object
+if the reply may have to be encrypted.  The <tt>&lt;flag&gt;</tt> is either
+<tt>mandatory</tt> or <tt>optional</tt>.  If <tt>mandatory</tt>, the client
+insists that the reply be encrypted with that key.  If <tt>optional</tt>,
+the reply need only be encrypted if the server finds it necessary (say
+if the reply includes material whose distribution is restricted by an
+ACL).  If the <tt>Encrypt-Reply:</tt> field is absent, the server may
+return an error, or use an encryption key from the <em>client</em>'s
+auto-certificate. After the flag comes the encryption <tt>&lt;key-indicator&gt;</tt>,
+which may be a public encryption key, or the hash of a public encryption
+key, or an encrypted key.
+<P>
+Similarly, the query may contain an optional <tt>Sign-Reply:</tt> field 
+indicating whether or not the reply should be signed:
+<PRE>
+      ( Sign-Reply: &lt;flag&gt; )
+</PRE>
+The <tt>&lt;flag&gt;</tt> field can be <tt>mandatory</tt> or <tt>optional</tt>.  A
+missing <tt>Sign-Reply:</tt> field is equivalent to a <tt>mandatory </tt>
+flag.  Some protocols may dictate that the reply be signed, in which
+case the server has no choice but to sign.  In other protocols, the
+reply is only optionally signed, and the server can be forced to sign
+his reply by having a <tt>Sign-Reply:</tt> with <tt>mandatory</tt> flag in
+the query.  The server generally signs error replies, but need not
+sign replies with content that is already signed (e.g. a certificate),
+unless the client demands it.  The server may refuse to honor a
+request for a signature if it is too busy, but in this case the
+server's auto-certificate must state that it might do so.  If the
+server gives a signature, it will typically include a <tt>Credentials:</tt> field in its reply, giving the <tt>Delegation-Cert:</tt>
+authorizing it to act as a server for the principal.
+<P>
+The reply to a <tt>Get.Query:</tt> has the following format:
+<PRE>
+    ( Get.Reply:
+      ( Your-Last-Message-Hash: ( SHA1: =tGbi0+dc...= )
+      ( Reply: 
+         ( Cert: ... )
+         ( Cert: ... )
+         ... )
+      ( Signed: ... ) )
+</PRE>
+<P>
+The <tt>Your-Last-Message-Hash:</tt> (attribute/value) field gives the
+hash of the query being responded to (including all of its
+signatures).  This should uniquely identify the query, assuming that
+no two queries are identical (due to their having different signing
+times, for example).
+<P>
+The <tt>Reply:</tt> (a sequence) may contain more than one cert.  The
+reply message may be signed to prevent an adversary from deleting some
+of the certs.  Various error messages can be generated, such as might
+happen if the reply exceeds some pre-specified size.
+<P>
+A reply or error message does not need to repeat the addressee or the
+query, since it is included implicitly in the <tt>Your-Last-Message-Hash:</tt> field.
+<P>
+<PRE>
+    ( Get.Error:
+      ( Your-Last-Message-Hash: ( SHA1: =tGbi0+dc...= )
+      ( Error: ... )   
+      ( Signed: ... ) )
+</PRE>
+The error message may be signed by the principal's server, instead of by the
+principal queried.
+<P>
+<H2><A NAME=SECTION00062000000000000000> Reconfirmation Queries</A></H2>
+<P>
+<A NAME=secreconfirm>&#160;</A>
+<P>
+SDSI does not have ``certificate-revocation lists'' as a means of
+revoking the signature on a previously signed object.
+Instead, signatures may be designated as needing periodic reconfirmation.
+The signer can specify the reconfirmation period that is appropriate
+for that signature; some signatures might only need to be re-confirmed
+yearly, while others might need reconfirmation hourly.
+<P>
+A signature with reconfirmation specified is considered valid if it
+has been reconfirmed by either the original signer or the
+reconfirmation principal within the most recent reconfirmation period,
+and the reconfirmation signature has not expired.
+<P>
+A reconfirmation query takes the form:
+<PRE>
+    ( Reconfirm.Query:
+      ( To: ( Principal: ... ) )
+      ( Signed-Object: 
+         ( Signed: 
+            ( Object-Hash: ( SHA1: #5128 ) ) 
+            ( Date: 1999-12-25-08:00.000-0500 )
+            ( Signature: #333111 ) ) )
+</PRE>
+The <tt>Signed-Object:</tt> field gives the wrapped-hash form of the signed
+object whose signature is to be reconfirmed.
+<P>
+A successful reconfirmation is either:
+<UL><LI> A new wrapped-hash signature of the original object by the
+original signer,
+or
+<LI> 
+A new wrapped-hash signature that is a cascaded signature for the
+wrapped-hash signature of the original object, signed by the
+reconfirmation principal.  (The added signature does not itself
+contain any <tt>Reconfirm:</tt> field, although it may contain an
+expiration date.)
+</UL>
+<PRE>
+    ( Reconfirm.Reply:
+      ( Your-Last-Message-Hash: ( SHA1: =Ac8wE1...= ) )
+      ( Signed-Object: 
+         ( Signed: 
+            ( Object-Hash: ( SHA1: #5128 ) ) 
+            ( Date: 1999-12-25-08:00.000-0500 )
+            ( Signature: #333111 ) 
+            ( Signed: 
+               ( Object-Hash: ( SHA1: #a783b0 ) ) 
+               ( Date: 2000-01-25-12:10.000-0500 )
+               ( Signature: #86723 ) ) )
+</PRE>
+The <tt>Your-Last-Message-Hash:</tt> field gives the hash of the
+reconfirmation query (including all of its signatures).  
+No signature is necessary on the message itself, since the object
+itself has been effectively (re-)signed.
+<P>
+If the signed object is a certificate, and that certificate is still
+valid, but has been superseded by another certificate with the same
+name, then the <em>new</em> certificate is returned with a signature.
+<P>
+A failure of reconfirmation takes the form
+<PRE>
+    ( Reconfirm.Reply:
+      ( Your-Last-Message-Hash: ( SHA1: =Ac8wE1... ) )
+      ( Failure: &lt;reason&gt; ) 
+      ( Signed: ... ) )
+</PRE>
+The failure reply is signed by either the reconfirmation principal or
+the original signing principal.
+<P>
+<H2><A NAME=SECTION00063000000000000000> Auto-Certs</A></H2>
+<P>
+<A NAME=secautocerts>&#160;</A>
+<P>
+An auto-certificate is a special kind of certificate.  It is
+distinguished by having been signed by the principal whom it is
+about, and by having the object type <tt>Auto-Cert:</tt>.
+<P>
+Each principal must have an auto-certificate.  The auto-cert may give
+additional information not given in the <tt>Principal:</tt> object.  This
+auto-certificate is signed by the principal itself.  This information
+may expire or be changed without changing the <tt>Principal:</tt> object.
+The <tt>Principal:</tt> object specifies one or more auto-cert servers
+that can respond to a query with the auto-cert.
+<P>
+Since this information is signed by the principal itself, it has no
+third party vouching for it, and should not be trusted without
+suitable corroboration.
+<P>
+<PRE>
+    ( Auto-Cert:
+      ( Public-Key: ... )
+      ( Principal-At: ... )
+      ( Server: ... )
+      ( Local-Name: ... )
+      ( Global-Name: VeriSign!!'s Wonderland's &quot;Alice McNamee&quot;)
+      ( Name: [charset=unicode-1-1] #764511fcc... )
+      ( Description: ... )
+      ( Encryption-Key: ( Public-Key: ... ) )
+      ( Postal-Address: ... )
+      ( Phone: ... )
+      ( Fax: ... )
+      ( Photo: [image/gif] =Yu7gj9D+zX2C... )
+      ( VeriSign-Cert: [application/X.509v3] =GvC492Sq... )
+      ( Email-address: AliceMcNamee@wonderland.com )
+      ( Signed: ... ) )
+</PRE>
+<P>
+The <tt>Public-Key:</tt>, <tt>Principal-At:</tt>, and <tt>Global-Name:</tt> fields duplicate the corresponding fields (or define the
+latter fields if they are missing) in the <tt>Principal:</tt> whom this
+auto-certificate is about.
+<P>
+None of the fields, except the <tt>Public-Key:</tt> and <tt>Signed:</tt>
+field, are required.  The only fields that are intended to be
+machine-readable are the <tt>Principal-At:</tt>, <tt>Server:</tt>, <tt>Email:</tt>, <tt>Global-Name:</tt>, and <tt>Signed:</tt> fields.  The other
+fields are there primarily for human consumption, and can be added at
+one's discretion, following whatever standard coding conventions
+exist.
+<P>
+A <tt>Server:</tt> field (a sequence) must be supplied if the principal
+wishes to export any bindings, or group information.  A <tt>Server:</tt>
+field specifies one or more ``servers'' for the principal: an entity
+that can respond to arbitrary queries on behalf of that principal.  A
+server for a principal can be viewed primarily as an agent with a
+database of statements signed by that principal.  The server will
+produce these statements upon request, assuming that the client has
+adequate permission.  A principal may specify itself as a server.  The
+principal may designate more than one server; they are equivalent, and
+a client may address a query to any one of them.
+<P>
+The separation of the functions of ``principal'' and ``server'' affords
+flexible design permitting high availability of signed statements
+while offering the opportunity of keeping the principal's private keys
+off the server machines.
+<P>
+In many cases, a server is merely distributing statements previously
+signed by the principal.  However, error messages will always be
+signed by the server.
+<P>
+The <tt>Local-Name:</tt> (attribute/value) field gives the principal's
+favorite nickname for himself.  One can consider using this nickname
+in one's own space for this principal, but it is not required.
+<P>
+The <tt>Description:</tt> (attribute/value) field gives arbitrary
+free-form text by the entity controlling the key about himself.
+<P>
+The optional <tt>Email-Name:</tt> field (a sequence) gives a list of one
+or more names by which this principal can be called, starting from one
+of the SDSI special roots. (In the example shown, the implicit
+root is <tt>DNS!!</tt>, by the special rules for handling such names.)
+This address can also be used for sending email to the principal.
+<P>
+The standard <tt>Get</tt> protocol can be used to request
+auto-certificates:
+<PRE>
+    ( Get.Query:
+      ( To: ( Principal: ... ) )
+      ( Template: ( Auto-Cert: ) )
+      ( Signed: ... ) )
+</PRE>
+<P>
+<H2><A NAME=SECTION00064000000000000000> Delegation Certificates</A></H2>
+<P>
+The <tt>Delegation-Cert:</tt> is used to authorize a group (of servers)
+to be able to sign on behalf of the signing principal.  <tt>Delegation-Cert:</tt>'s may be used as credentials by the server, to show
+that their signatures are authorized by the principal.
+<PRE>
+    ( Delegation-Cert:
+      ( Template: &lt;form&gt; )
+      ( Group: &lt;group&gt; )
+      ( Signed: ... ) )
+</PRE>
+This certificate authorizes every member of <tt>&lt;group&gt;</tt> to be able to
+sign objects matching <tt>&lt;form&gt;</tt> on behalf of the signing principal.
+For example, the following certificate:
+<PRE>
+    ( Delegation-Cert:
+      ( Template: ( Membership.Cert: ( Group: fudge-lovers ) ) )
+      ( Group: ( Principal: ... (A) ... ) )
+      ( Signed: ... ) )
+</PRE>
+authorizes the specified principal <tt>(A)</tt> to be able to sign
+membership certificates for the group <tt>fudge-lovers</tt>.
+<P>
+The matching routine is the same as for the <tt>Template:</tt> field in a
+<tt>Get.Query:</tt> object.
+<P>
+Although <tt>Delegation-Certs:</tt> are intended primarily for principals
+to delegate signature authority to their servers for specific
+purposes, it is easy to imagine other possible uses for them, as well.
+<P>
+<H2><A NAME=SECTION00065000000000000000> Transport mechanisms</A></H2>
+<P>
+<A NAME=sectransport>&#160;</A>
+<P>
+We envision that a separate SDSI transport protocol can be designed on
+top of TCP/IP.  Ultimately, this would be the preferred solution.
+<P>
+In the meantime, SDSI can also take advantage of other protocols, such
+as email, http, or gopher, for transport.  For example, a <tt>Get.Query:</tt> object can be given as the content of an email message
+addressed to a SDSI server.  Or, one could have an http URL of the
+form:
+<PRE>
+    http://server.address.edu/cgi-bin/sdsi-server?GQ
+</PRE>
+where <tt>GQ</tt> is an ASCII representation of the <tt>Get-Query:</tt>
+object (with appropriate re-encodings of special characters, as
+usual).  The replies can be given in a corresponding manner.
+<P>
+We omit further suggested details here.
+<P>
+<H1><A NAME=SECTION00070000000000000000> Groups and ACLs</A></H1>
+<P>
+<A NAME=secgroups>&#160;</A>
+<P>
+This section describes SDSI groups, shows how groups can be defined,
+how membership in groups can be determined, how one can query a server
+to get a membership certificate, and how one can create ACL's that
+give permissions to members of various groups.
+<P>
+Intuitively, one can think of a group as just a set of principals.  It
+is worthwhile defining groups for many security purposes, since
+this gives a convenient local name for the set of principals allowed
+to access some data or to perform some other action.
+<P>
+A group does not have an associated public key; there is no way for
+the group to make statements as such.  No principal is authorized to
+speak for the group, although the owner of the group can change its
+definition.  A member of the group can, however, offer his group
+membership certificate as a credential when he makes a query or
+request.
+<P>
+The simplest group is just the singleton set containing just one
+principal.  An object of type <tt>Principal</tt>, or a local name evaluating
+to such an object, suffices to denote such a group.
+<P>
+Another simple group is the group containing everyone.  This group is
+denoted by the reserved word <tt>ALL! </tt>.  (This local name
+always has the definition <tt>( AND: ) </tt>, which is always satisfied.)
+<P>
+Groups can be defined by listing their members in a sequence-type
+object of type <tt>Group:</tt>.  For example:
+<PRE>
+    ( Group: tom mary bill george ( Principal: ... ) )
+</PRE>
+defines a group of five members, four given indirectly (by their local
+names), and one directly (as a principal).
+<P>
+Groups can also be defined recursively in terms of other groups,
+using standard set-theoretic operations:  
+<PRE>
+    ( Group: ( AND: friends over-18 jocks ) )  -- intersection
+    ( Group: ( OR:  faculty staff friends ) )  -- union
+    ( Group: ( NOT: staff ) )                  -- ALL! - group
+    ( Group: ( MINUS: staff friends )          -- staff that are not friends
+    ( Group: ( ANY: 2 wizards honchos bigwigs ) )   -- threshold of &gt;= 2 
+    ( Group: ( OR:   
+               &quot;Mary Smith&quot;
+               friends
+               mit's faculty
+               ( ref: #32 )
+               ( Principal: ... ) ) ) )
+    ( Group: ( OR: alpha ( AND: beta gamma ) ( NOT: delta ) ) )
+</PRE>
+Groups can be defined with nested expressions, as in the last example.
+To be a member of this group, one must be a member of <tt>alpha</tt>,
+or be a simultaneous member of <tt>beta</tt> and <tt>gamma</tt>, 
+or not be a member of <tt>delta</tt> .
+<P>
+Note that the notation 
+<PRE>
+    ( Group: a b c d )
+</PRE>
+has exactly the same meaning as:
+<PRE>
+    ( Group: ( OR: a b c d ) ) .
+</PRE>
+<P>
+The use of <tt>NOT:</tt> can cause confusion, as can <tt>MINUS:</tt>.  First,
+we note that <tt>( MINUS: A B )</tt> is treated as being fully
+equivalent to <tt>( AND: A ( NOT: B ) )</tt>.  Second, we note that to
+establish a negative (such as <tt>( NOT: B )</tt>, which means that a principal
+is not a member of group <tt>B</tt>), it does not suffice merely to
+fail to find a certificate asserting that the principal is in group <tt>B</tt>.
+Rather, the owner of the group definition must have provided a certificate
+saying that the principal is NOT in group <tt>B</tt>.
+<P>
+We note that groups aren't actually restricted to being sets of principals,
+but can in fact be sets of arbitrary S-expressions.  For example, a bank
+can have a group called <tt>expired-accounts</tt> whose members are objects
+representing the expired accounts:
+<PRE>
+      ( Group: '( Account: 3451-223-5624 )
+               '( Account: 7621-004-6722 )
+               '( Account: 9821-868-4110 ) )
+</PRE>
+(The quoting is necessary.)  As another example, a company might have
+a set of approved software programs, the group <tt>approved-software</tt>
+might contain the hashes of the approved programs.  The notation and
+procedures for dealing with sets of principals generalize smoothly to
+handle these extensions.
+<P>
+<H2><A NAME=SECTION00071000000000000000> An algorithm for determining group membership</A></H2>
+<P>
+<A NAME=secgroupalgorithm>&#160;</A>
+<P>
+This section describes how it can be determined whether some
+individual <i>x</i> is a member of some group <i>g</i>.
+<P>
+A server maintaining a group definition may need to determine whether
+a given principal <i>x</i> is, or is not, a member of some group <i>g</i>.  This
+may happen, for example, because <i>x</i> has requested information from
+the server, and it is necessary to determine if <i>x</i> is authorized.
+Or, the server may be responding to a membership query from <i>x</i> himself.
+This section describes how the server can determine whether or not
+<i>x</i> is a member of <i>g</i>.
+<P>
+The server will make this determination with whatever local
+information it has (e.g. the group definition) and with whatever
+credentials <i>x</i> has supplied (e.g. other membership certificates).
+The server does <em>not</em> make inquiries of other servers in order to
+make the determination; it may simply ``fail'' if there is inadequate
+information available locally.  The server is like a busy bureaucrat
+who says to <i>x</i>, ``I can't tell if you are authorized or not, and I'm
+not going to do the research myself to make this determination.  You
+may try again later; it may help if you can demonstrate membership in
+my group <tt>mit's faculty</tt>.''  Note that a ``fail'' response
+may give <i>x</i> some information as to what sort of credentials are
+needed.  If <i>x</i> wishes to try again it is up to him to obtain
+additional credentials, and then to repeat his request including the
+credentials  (e.g. a certificate from the server's principal <tt>mit</tt>
+stating that the client is a member of its <tt>faculty</tt> group).
+<P>
+We now describe a procedure for determining whether or not a
+given S-expression <i>x</i> is a member of some group <i>g</i>, by recursively tracing
+out the group definition.
+<P>
+<P>MEMBER<i>(x,g)</i>
+<UL><LI> 
+If this call is a recursive invocation of an earlier, still-active
+call with the same arguments <i>x</i> and <i>g</i>, then return FAIL.
+<LI> 
+If <i>g</i> is of the form
+<tt>( Principal: ... )</tt>, 
+then return TRUE if <i>x=g</i>; otherwise return FALSE.
+(For comparing principals, only compare the <tt>Public-Key:</tt> fields.)
+<LI> 
+If <i>g</i> is of the form <tt>( Quote: y )</tt>,
+return TRUE if <i>x=g</i>.  Otherwise return FALSE.
+<LI>
+If <i>g</i> is of the form
+<tt>( Group: S1 S2 ... Sk )</tt>,
+then return MEMBER<i>(x,</i><tt>( OR: S1 S2 ... Sk )</tt><i>)</i>.
+(If <i>k=1</i>, this is equivalent to returning
+MEMBER<i>(x,</i><tt>S1</tt><i>)</i>.)
+<LI> If <i>g</i> is of the form 
+<tt>( OR: S1 S2 ... Sk )</tt>,
+evaluate MEMBER<i>(x,Si)</i> for <i>i=1,2,...,k</i>.  If any call
+returns TRUE, then return TRUE.  If 
+<i>k=0</i> or all calls return FALSE,
+then return FALSE.  Otherwise return FAIL.
+<LI> If <i>g</i> is of the form
+<tt>( AND: S1 S2 ... Sk )</tt>, evaluate MEMBER<i>(x,Si)</i> for
+<i>i=1,2,...,k</i>.  If any calls return FALSE, then return FALSE.  If <i>k=0</i> or all calls return TRUE, then return TRUE.  Otherwise return FAIL.
+<LI> If <i>g</i> is of the form
+<tt>( NOT: S )</tt>, 
+return FAIL if <i>x</i> contains more than one element.
+(The combination of negation with multiply-signed requests was just too
+confusing, so we have decided to ban this combination.)
+Otherwise evaluate MEMBER<i>(x,S)</i>.  If this call returns TRUE, return
+FALSE.  If this call returns FALSE, return TRUE.
+Otherwise return FAIL.
+<LI> If <i>g</i> is of the form
+<tt>( ANY: d S1 S2 ... Sk )</tt>,
+evaluate MEMBER<i>(x,Si)</i> for <i>i=1,2,...,k</i>.  If at least <i>d</i>
+calls return TRUE, then return TRUE.  If at least <i>k-d+1</i>
+calls return FALSE then return FALSE.  Otherwise return
+FAIL. Here <tt>d</tt> is a token giving the decimal representation of the
+desired threshold.
+<LI> 
+If the client has supplied a set of valid credentials sufficient for
+establishing membership (resp. non-membership) in <i>g</i>, return TRUE (resp. FALSE).
+<LI> If <i>g</i> is of the form <tt>( ref: ... )</tt>,
+then determine the value <i>V</i> of the form <i>g</i>, and then
+return MEMBER<i>(x,V)</i>.
+(This process may utilize credentials given by the client.) Return
+FAIL if <i>V</i> can not be determined.
+<LI> If <i>g</i> is an octet string, or a list of the
+form <tt>( Local-Name: y )</tt>, then attempt to determine <tt>( ref: <i>g</i> )</tt>.
+(Note that this process may utilize credentials supplied by the
+client.)  If this fails, return FAIL.  If this returns a value
+<i>V</i>, then return MEMBER<i>(x,V)</i>.
+<LI>
+Otherwise return FAIL.
+</UL>
+<P>
+This algorithm thus detects circular definitions
+to prevent infinite looping.  If <tt>friends</tt> is defined as
+<PRE>
+    ( Group: associates terry )
+</PRE>
+and <tt>associates</tt> is defined as
+<PRE>
+    ( Group: friends pat ) ,
+</PRE>
+then <tt>pat</tt> is successfully determined to be a member of <tt>friends</tt>, 
+without looping.
+<P>
+A principal is a member of the group defined by the threshold definition
+<PRE>
+    ( ANY: '2 doctors lawyers bankers )
+</PRE>
+if it is a member of two or more of the groups
+<tt>doctors</tt>, <tt>lawyers</tt>, <tt>bankers</tt>.
+<P>
+<P><b>Multiply-signed requests.</b>
+<P>
+In some applications, a request will be signed by two or more clients.
+(Here we do not distinguish between cascaded and parallel
+co-signatures.)  In this case, the same algorithm can be applied,
+where it is understood that a test succeeds anywhere during the
+evaluation process if any one of the signers passes the test.  A
+request signed by <tt>bob</tt> and <tt>alice</tt> will pass the test of
+membership for the group
+<PRE>
+    ( AND: doctors lawyers )
+</PRE>
+if <tt>bob</tt> is a laywer and <tt>alice</tt> is a doctor, for example.
+There are other ways in which they could pass this test; for example,
+Bob might be both a doctor and a lawyer, and Alice might be neither.
+<P>
+With a multiply-signed request, the effect is that the signing
+principals have merged, and their respective group memberships are
+combined, so that they can act with more power joined together than
+they can individually.
+<P>
+<H2><A NAME=SECTION00072000000000000000> Membership queries</A></H2>
+<P>
+<A NAME=secmemqueries>&#160;</A>
+<P>
+Membership queries are used to obtain membership certificates; an
+individual can query a server to ask whether he is a member of a
+particular group; the server can respond with a membership
+certificate.
+<P>
+For very large groups, it may be too expensive to return the entire
+group definition to a client.  In such cases, group definitions can be
+queried with the <tt>Membership</tt> protocol, which the client
+initiates with a <tt>Membership.Query:</tt>
+<PRE>
+    ( Membership.Query:
+      ( To: ( Principal: ... A ...) ) 
+      ( Member: ( Principal: ... B ... ) ... ) 
+      ( Group: fudge-lovers )
+      ( Credentials: ... )
+      ( Signed: ... ) )
+</PRE>
+The <tt>Member:</tt> list specifies the principals or objects about which
+membership is to be determined.  It typically gives just one
+principal, although it may contain more.  (If so, the interpretation
+is as for the ``multi-signer'' interpretation given earlier.)
+<P>
+The <tt>Member:</tt> list may contain arbitrary S-expressions instead of just
+principals, since groups may contain arbitrary S-expressions as
+members.  These expressions are normally quoted:
+<PRE>
+      ( Member: '( Account: 3451-223-5624 ) )
+</PRE>
+<P>
+A successful reply has the form of a membership certificate:
+<PRE>
+ 
+    ( Membership.Cert:
+      ( Member: ( Principal: ... B ...) ... ) 
+      ( Group: fudge-lovers )
+      ( Reply: &lt;answer&gt; )
+      ( Hint: &lt;hint&gt; )
+      ( Signed: ... ) )
+</PRE>
+Here the principal(s) about whom the query was for are repeated in the
+reply, so that this reply can be passed around as a ``membership
+certificate.''  The <tt>Reply:</tt> field gives the <tt>&lt;answer&gt;</tt>: one of <tt>true</tt>, <tt>false</tt>, or <tt>fail</tt>. An optional <tt>Hint:</tt> may be given
+in the last (<tt>fail</tt>) case explaining to the client how he can supply
+additional credentials that would eliminate the failure.
+<P>
+The hint is given only when the server could not completely evaluate
+the group definition, and so could not completely determine whether
+the correct answer was <tt>true</tt> or <tt>false</tt>.  The hint is a
+``partially evaluated'' group definition.  That is, it is is a simplified
+definition of the group that is equivalent to the original definition,
+given what the server already knew and what credentials it had to work
+with.  For example, it may be just an edited or simplified top-level
+definition of the group, with all individual principals deleted,
+non-failing group names or sub-forms removed, and thresholds decreased
+by the number of successful top-level forms contained in the original
+threshold form before editing.  For example, if the original group
+definition was
+<PRE>
+    ( ANY: '3 A B C D E F )
+</PRE>
+and the client presents credentials showing he is a member of <tt>A</tt> and <tt>C</tt>, and not a member of <tt>D</tt>, 
+and the server fails to otherwise determine whether he is a member
+of groups <tt>B</tt>, <tt>E</tt>, or <tt>F</tt>, then the returned <tt>&lt;hint&gt;</tt>
+could be:
+<PRE>
+    ( ANY: '1 B E F )
+</PRE>
+Similarly, if the group definition is
+<PRE>
+    ( OR: ( AND: A B ) ( AND: C D ) ( AND: E F ) )
+</PRE>
+under the same conditions, the returned hint could be
+<PRE>
+    ( OR: B ( AND: E F ) )
+</PRE>
+Given such a hint, the client can attempt to obtain sufficient
+certificates to make the hint evaluate to <tt>true</tt>, which would
+suffice to make him a member of the group.  Of course, the client
+should understand that all local names in the hint are in the server's
+name space, not his own.  To convert the definition to one that is
+useful to him, he would replace <tt>B</tt> by something like <tt>X's B</tt>,
+and so on, where the server is acting on behalf of principal <tt>X</tt>.
+To find out more about the meaning of this hint, it may be necessary
+to query the server for definitions of the various names it contains.
+<P>
+If the group definition is protected by an ACL, then the server tries
+to determine whether the client satisfies the ACL condition, and
+whether a encrypt-reply is available to encrypt the reply with.  If so,
+the server can return a hint.  If not, then no hint is given.
+<P>
+<H2><A NAME=SECTION00073000000000000000> Access-Control Lists</A></H2>
+<P>
+<A NAME=secACLs>&#160;</A>
+<P>
+The design of SDSI was motivated in part by the desire to make sure
+that ACL's can be written in a clear and easily auditable manner,
+using names for principals or groups.  This section describes how that
+can be done.
+<P>
+Any set-type object may contain an ACL.  For example, a group
+definition have an ACL so that only certain principals may read the
+definition.  The ACL must be a top-level element of the object.  If an
+ACL is present, then that list can only be accessed by principals that
+satisfy the ACL.  SDSI ACLs can also be associated with other objects
+(e.g. web pages) for access control.
+<P>
+An ACL is a sequence of the form <tt>( ACL: ( type1 def1 ) ( type2
+def2 ) ... )</tt> where each <tt>type</tt> determines the set of
+operations being controlled (e.g. <tt>read</tt>) and where <tt>def</tt> is
+either the local name of a group, or an explicit group definition
+(such as a list of principals, or an algebraic definition).
+<P>
+As an example, the certificate for <tt>group-23 </tt> can only be read by
+its members:
+<PRE>
+    ( Cert:
+      ( Local-Name: group-23 )   
+      ( Value: ( Group: friends colleagues ) )
+      ( ACL: ( read: group-23 ) )
+      ( Signed: ... ) )
+</PRE>
+<P>
+Including the ACL in the list may seem to imply that having
+read-access to a restricted object implies read-access to its ACL, but
+this can be changing the ACL to refer to a different group:
+<PRE>
+       ( ACL: ( read: group-23-readers ) )
+</PRE>
+where <tt>group-23-readers</tt> has a definition as a group, where the
+definition is itself protected by a different ACL:
+<PRE>
+    ( Cert: 
+       ( Name: group-23-readers )
+       ( Value: ( Group: group-23 ) )
+       ( ACL: ( read: group-23-honcho sam ) )
+       ( Signed: ... ) )
+</PRE>
+Here only <tt>sam</tt> and <tt>group-23-honcho</tt> can access the definition
+of <tt>group-23-readers</tt>.
+Presumably, if <tt>mary</tt>, a member of <tt>group-23</tt>, requests access
+to <tt>group-23</tt>, then <tt>mary</tt> can access its definition, but not its ACL
+(i.e. not the definition of of <tt>group-23-readers</tt>).
+<P>
+ACLs are relevant for <tt>Get</tt> and <tt>Membership</tt> replies.
+<P>
+<P><b>ACLs for Get replies.</b>
+The default ACL for an object (in a <tt>Get</tt> reply) is <tt>(
+ACL: )</tt>, which allows no access. Each object must have a non-trivial
+ACL specified if it is to be exported outside of the local domain.  An
+ACL of the form <tt>( ACL: ( read: ALL! ) )</tt> makes the object
+exportable to anyone who asks.
+<P>
+<P><b>ACLs for Member replies.</b>
+The default ACL for a <tt>Membership.Cert</tt> is <tt>( ACL: ( member: ALL! ) )</tt>, so that a membership query is typically
+answered, even if the group definition is not accessible to the
+client(s).
+<P>
+If an object has a non-trivial ACL, then the client
+must have supplied a encrypt-reply (or have a suitable key supplied
+in his auto-cert) so that the object can be returned in encrypted form.
+<P>
+<H1><A NAME=SECTION00080000000000000000> Application Scenarios</A></H1>
+<P>
+<A NAME=secscenarios>&#160;</A>
+<P>
+This section sketches various possible applications of SDSI.  Many
+details are omitted, but the kernel idea for each application is
+given.
+<P>
+<H2><A NAME=SECTION00081000000000000000> Mail Reader</A></H2>
+<P>
+When a mail reader receives a SDSI-signed object, it can display to
+the user a local nick-name for the signer, if one exists in the local
+data-base.  This nick-name can be displayed in a ``secure'' pop-up
+window that can't be spoofed by an applet or other program.
+<P>
+If there is no local name for the signer, then one of the signer's
+global names (from his auto-certificate or principal) might be
+displayed.  Such a global name should of course be checked before
+displaying, and the signer might include appropriate credentials to
+allow such a name to be verified.  Another option would be just to
+display the hash of the principal in such cases.
+<P>
+<H2><A NAME=SECTION00082000000000000000> World-Wide Web</A></H2>
+<P>
+An HTML document can be extended to include an ACL, and the http
+protocol extended to handle a ``get'' with a dialogue that mimics
+the SDSI <tt>Get</tt> protocol.  (Basically, you are doing a lookup on
+the URL rather than on the SDSI name.)  For example, a document might
+include in its header:
+<PRE>
+    &lt;META NAME=&quot;SDSI-ACL&quot; CONTENT=&quot;( ACL: ( read: mit's employees ) )&quot;&gt;
+</PRE>
+using the standard <tt>META</tt> format for including information in the
+header of an HTML document.
+<P>
+<H2><A NAME=SECTION00083000000000000000> Kerberos-like tickets</A></H2>
+<P>
+A short-lived certificate stating that <i>x</i> is a member of a group <i>g</i> 
+can be used as a Kerberos-like ticket; it denotes authorization to use
+some resource that has an ACL containing <i>g</i>.
+<P>
+<H2><A NAME=SECTION00084000000000000000> Distributing signed code</A></H2>
+<P>
+Code can be signed using the two-part detached wrapped-hash form. This
+means that the executable code itself is not modified in any way.
+<P>
+<H2><A NAME=SECTION00085000000000000000> Corporate database access</A></H2>
+<P>
+Each record in the corporate database can be tagged with the name of
+the group of principals allowed to access it.  In some cases, a
+co-signature may be needed by the application program itself.
+(Following the discussion of Clark and Wilson <A HREF="sdsi10.html#ClarkWi87">[2]</A>.)
+<P>
+<H2><A NAME=SECTION00086000000000000000> Access to medical records</A></H2>
+<P>
+Similar to the corporate database example, except that here the hospital
+has the records, but the individual should perhaps be the one to authorize
+access.  One might authorize access for a group of the form:
+<PRE>
+    ( OR: Dr.-Ruben St-Marys-physicians emergency-access )
+</PRE>
+where <tt>emergency-access</tt> is a group that is held by a trusted party,
+who can add a new member to it in an emergency.
+<P>
+<H2><A NAME=SECTION00087000000000000000> Shared-secret key establishment</A></H2>
+<P>
+The techniques of this paper can be modified to handle other
+cryptographic protocols, such as shared-secret key establishment.  This is
+relatively straightforward.
+<P>
+<H2><A NAME=SECTION00088000000000000000> Multi-Cast</A></H2>
+<P>
+If I want to broadcast a confidential message to my group <tt>banana-lovers</tt>,
+I can proceed as follows.  I can post a message to the 
+<tt>banana-lovers</tt> Usenet news-group (or otherwise distribute it to all
+members) of the form:
+<PRE>
+    ( Encrypted:
+       ( Key: ( ref: &lt;server&gt;'s banana-recipe-241 )
+       ( Ciphertext: ... ) )
+</PRE>
+so that all members obtain the raw ciphertext and know to ask my
+server for the key under the name <tt>banana-recipe-241</tt>.  I give my
+server a cert:
+<PRE>
+    ( Cert:
+       ( Local-Name: banana-recipe-241 )
+       ( Value: ( Shared-Secret-Key: ( Algorithm: RC5-32/12/16-CBC ) ... ) )
+       ( ACL: ( read: banana-lovers ) )
+       ( Signed: ... ) )
+</PRE>
+so that members of my group <tt>banana-lovers</tt> can obtain the RC5 
+decryption key, and thus read the posted multi-cast announcement.
+<P>
+Other more complicated protocols could be devised for this.  For
+example, I could published the encrypted key with the document itself,
+so that a group member would have to ask the server to decrypt the key
+for him (rather than doing a name lookup).
+<P>
+<H2><A NAME=SECTION00089000000000000000> Key Compromise</A></H2>
+<P>
+Although SDSI does not support CRL's, there is nothing to prevent
+someone from offering a service supporting ``hot-lists'' of principals
+whose keys have been reported as ``compromised.''  When a user
+believes that his private key has been compromised, he can so inform
+the service.  (His own servers can also offer this service.)  His
+message to the service can be authenticated by a statement signed by
+the compromised key.  The service maintains a group (called, say, <tt>compromised-principals</tt>) giving all such principals.
+<P>
+<H1><A NAME=SECTION00090000000000000000> Conclusions</A></H1>
+<P>
+We have presented a simple yet powerful framework for managing security
+in a distributed environment, and hope that the perspectives and style
+shown here may assist others in building more secure systems.
+<P>
+<P><b>Acknowledgments</b>
+<P>
+We thank Carl Ellison and Wei Dai for many thoughtful comments on
+earlier versions of this paper.
+<P>
+<P><H2>References</H2><P>
+<DL COMPACT>
+<DT><A NAME=BlazeFeLa96><STRONG>1</STRONG></A><DD>
+Matt Blaze, Joan Feigenbaum, and Jack Lacy.
+Decentralized trust management.
+In <em>Proceedings 1996 IEEE Symposium on Security and Privacy</em>,
+  page (to appear), May 1996.
+<P>
+<DT><A NAME=ClarkWi87><STRONG>2</STRONG></A><DD>
+D. Clark and D. Wilson.
+A comparison of commercial and military computer security policies.
+In <em>IEEE Security Privacy</em>, 1987.
+<P>
+<DT><A NAME=EastlakeKa96><STRONG>3</STRONG></A><DD>
+3rd Donald E. Eastlake and Charles W. Kaufman.
+<em>Domain Name System Security Extensions</em>.
+Internet DNS Security Working Group, January 30, 1996.
+(Available at:<tt>ftp://ftp.isi.edu/draft-ietf-dnssec-secext-09.txt</tt>).
+<P>
+<DT><A NAME=Kent93><STRONG>4</STRONG></A><DD>
+Stephen T. Kent.
+Internet privacy enhanced mail.
+<em>Communications of the ACM</em>, 36(8):48-60, August 1993.
+<P>
+<DT><A NAME=Standards93><STRONG>5</STRONG></A><DD>
+National Bureau of Standards.
+Secure hash standard.
+Technical Report FIPS Publication 180, National Bureau of Standards,
+  1993.
+<P>
+<DT><A NAME=Rivest92c><STRONG>6</STRONG></A><DD>
+Ronald L. Rivest.
+The MD5 message-digest algorithm.
+Internet Request for Comments, April 1992.
+RFC 1321.
+<P>
+<DT><A NAME=SandhuCoFeYo96><STRONG>7</STRONG></A><DD>
+Ravi S. Sandhu, Edward J. Coyne, Hal L. Feinstein, and Charles E. Youman.
+Role-based access control models.
+<em>IEEE Computer</em>, 29(2):38-47, February 1996.
+</DL>
+<P>
+<H1><A NAME=SECTION000110000000000000000>  <em>About this document ...</em> </A></H1>
+<P>
+ <STRONG>SDSI - A Simple Distributed Security Infrastructure</STRONG><P>
+This document was generated using the <A HREF="http://cbl.leeds.ac.uk/nikos/tex2html/doc/latex2html/latex2html.html"><STRONG>LaTeX</STRONG>2<tt>HTML</tt></A> translator Version 0.6.4 (Tues Aug 30 1994) Copyright &#169; 1993, 1994,  <A HREF="http://cbl.leeds.ac.uk/nikos/personal.html">Nikos Drakos</A>, Computer Based Learning Unit, University of Leeds. <P> The translation was initiated by  Ron Rivest on Sun Sep 15 17:15:21 EDT 1996<BR> <HR>
+<P><ADDRESS>
+<I> Ron Rivest <BR>
+Sun Sep 15 17:15:21 EDT 1996</I>
+</ADDRESS>
+</BODY>
+

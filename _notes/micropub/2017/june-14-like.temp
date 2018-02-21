@@ -1,0 +1,11 @@
+{
+  "type": ["h-entry"],
+  "properties": {
+    "content": "",
+"syndication": [
+			"https://www.facebook.com/tom.sparks.106/posts/872107646288213"		
+			],
+		"published":"2017-06-14",
+		"like-of": "https://arstechnica.com/science/2017/06/they-didnt-invent-the-chicken-sandwich-theyre-just-sending-one-to-space/"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": ["h-entry"],
+  "properties": {
+    "content": "",
+"syndication": [
+			"https://www.facebook.com/tom.sparks.106/posts/907634462735531"
+			],
+		"published":"2017-08-31",
+		"like-of": "https://arstechnica.com/science/2017/08/our-postindustrial-lifestyles-are-hard-on-our-knees-but-we-dont-know-why/"
+  }
+}
+
+
+

@@ -1,0 +1,80 @@
+<html>
+<head>
+<TITLE>SEXP (S-expressions)</TITLE> 
+</head>
+<body bgcolor="#ffffff">
+
+<h1>SEXP---(S-expressions)</h1>
+<br>
+
+S-expressions are a data structure for representing complex data.
+They are a variation on LISP S-expressions. (Lisp was invented by John
+McCarthy).
+<p>
+
+We have adapted S-expressions for use in <a
+href="http://theory.lcs.mit.edu/~cis/sdsi.html">SDSI</a> and <a
+href="http://world.std.com/~cme/html/spki.html">SPKI</a>.  The work
+reported here is, however, application-independent.  (That is, we will
+use S-expressions in the SPKI/SDSI work, but have developed it and
+presented it in an application-independent manner, so that others may
+most easily consider adopting it for other applications.)
+<p>
+
+SDSI has been developed by Professors 
+<a href="index.html">Ronald L. Rivest</a>
+and 
+Butler Lampson of
+MIT's
+<a href="http://www.lcs.mit.edu">Laboratory for Computer Science</a>,
+members of LCS's
+<a href="http://theory.lcs.mit.edu/~cis">Cryptography and Information Security</a> research group.
+<p>
+SDSI research is supported by DARPA contract DABT63-96-C-0018, "Security
+for Distributed Computer Systems".
+<p>
+SPKI has been developed by 
+<a href="http://www.clark.net/pub/cme/home.html">Carl Ellison</a> and others
+in the IETF SPKI working group.<p>
+We are currently merging the designs to form SPKI/SDSI 2.0.  This design will
+use S-expressions as the basic data structure.<p> 
+
+<h2>References and Documentation</h2>
+<p>
+
+<a href="Sexp.txt">SEXP 1.0 guide(text)</a><p>
+
+C code<p>
+
+The following code reads and parses S-expressions.  It also prints out
+the S-expressions in a variety of formats.  (Note that most applications
+will not need anything but the simple canonical and transport formats;
+the code here is considerably more complex because it also supports the
+advanced format, both for input and for output.)  The "sexp-main" program
+also contains some documentation on running the program.  (Or just type
+"sexp -h" to get the help print-out.)
+
+The code is available under the "MIT License" (open source).
+
+<ul>
+<li><a href="sexp.h">sexp.h</a><br>
+<li><a href="sexp-basic.c">sexp-basic.c</a><br>
+<li><a href="sexp-input.c">sexp-input.c</a><br>
+<li><a href="sexp-output.c">sexp-output.c</a><br>
+<li><a href="sexp-main.c">sexp-main.c</a><br>
+</ul><p>
+
+Here are some sample inputs and outputs (warning: while these look like
+SDSI/SPKI files, they are only approximations).
+<ul>
+<li><a href="sexp-sample-c">canonical</a><br>
+<li><a href="sexp-sample-b">transport</a><br>
+<li><a href="sexp-sample-a">advanced</a><br>
+</ul>
+
+<p>
+<em>Last updated 5/4/1997</em>
+by <a href="index.html">Ronald L. Rivest</a>
+
+
+
