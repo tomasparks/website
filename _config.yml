@@ -1,7 +1,7 @@
 ## BASE.YML
 # Blog settings
 permalink: '/archive/:year/:month/:slug.html'
-url: https://tomasparks.github.io/
+url: https://tomasparks.github.io
 
 repository: "tomasparks/website"
 
@@ -271,6 +271,8 @@ webmentions:
     last_month: daily
     last_year:  daily
     older:      daily
+  legacy_domains:
+    https://tomasparks.github.io/
   templates:
     count: _includes/webmentions/count.html
     likes: _includes/webmentions/likes.html
