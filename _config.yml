@@ -262,6 +262,7 @@ social:
 
 ## WEBMENTIONS.YML
 webmentions:
+  debug: true
   pages: true
   username: tomasparks.github.io
   js: false
