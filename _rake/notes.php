@@ -2,40 +2,43 @@
 <?php
 // key: qhNU8kMDrqS2Ryk8ExmyA
 //secret: 1tICNtAofpr0Coycb4eacrf4FcFCWSOzW8novjYL8
-require_once './php-mf2/Mf2/Parser.php';
-require_once './htmlpurifier/library/HTMLPurifier.auto.php';
+require './vendor/autoload.php';
+
 require_once './goodreads-api/GoodReads.php';
 date_default_timezone_set('Australia/Brisbane');
-
+use Ramonztro\SimpleScraper\SimpleScraper;
+	
+	
 
 function create_notes($data,$logfile, $WM_recv) {
-    foreach ($data as $note) {
-    	//print_r($note);
+
+   foreach ($data as $note) {
+    	json_encode($data);
     	
-   	if (isset($note['tags']) && !is_array($note['tags'])) {
- //  			//fwrite($logfile,json_encode($temp)."\n");
+   	if (isset($data['tags']) && !is_array($data['tags'])) {
+   			//fwrite($logfile,json_encode($temp)."\n");
    	  		//$note['tags'] = tag2tags($note['$tags'],$logfile);
-  			$temp  = urldecode ( $note['tags'] );
+  			$temp  = urldecode ( $data['tags'] );
  			parse_str($temp, $tag_array);
- 			$note['tags'] = $tag_array;
+ 			$data['tags'] = $tag_array;
 
 }
 
 
   		
     	//echo "\n";
-    	$hash = hash ('sha1' ,json_encode($note));
+    	$hash = hash ('sha1' ,json_encode($data));
     	//fwrite($logfile, $hash."\n");
   //  	echo $hash."\n";
-    	fwrite($logfile, "\n--------------------\nhash: ".$hash."\njson_encode: ".json_encode($note)."\n--------------------\n");  
+    	fwrite($logfile, "\n--------------------\nhash: ".$hash."\njson_encode: ".json_encode($data)."\n--------------------\n");  
     	    	
     	    	
-    	if (isset($note['url'])) {
-    	$url = str_ireplace("www.","",parse_url($note['url'], PHP_URL_HOST));
+    	if (isset($data['url'])) {
+    	$url = str_ireplace("www.","",parse_url($data['url'], PHP_URL_HOST));
     	}
     	
-    	$date_split = date_parse($note['date']);
-    	$isodate = date("c", strtotime($note['date']));
+    	$date_split = date_parse($data['date']);
+    	$isodate = date("c", strtotime($data['date']));
     	$permdate = sprintf("%04d/%02d/%02d", $date_split['year'], $date_split['month'], $date_split['day']);
     	
     	$months = array (1=>'January',2=>'February',3=>'March',
@@ -43,9 +46,9 @@ function create_notes($data,$logfile, $WM_recv) {
     	9=>'September',10=>'October',11=>'November',12=>'December');
     	unset($md_array);
     	
-    	$md_array['layout'] = "notes_".$note['type'];
+    	$md_array['layout'] = "notes_".$data['type'];
     	$md_array['date'] = $isodate;
-    	$md_array['type'] = $note['type'];
+    	$md_array['type'] = $data['type'];
     	
     	//$mdfile = fopen($hash.".md", "w");
     	
@@ -56,7 +59,7 @@ function create_notes($data,$logfile, $WM_recv) {
 				//fwrite($mdfile, "type: ".$note['type']."\n");
 				//fwrite($mdfile, "date: ".$isodate."\n");
 				unset($categories_array);			
-				$categories_array[] = $note['type'];
+				$categories_array[] = $data['type'];
 				$categories_array[] = $months[(int)$date_split['month']];
 				$categories_array[] = $date_split['year'];
 				$categories_array[] = $date_split['day'];
@@ -74,7 +77,7 @@ function create_notes($data,$logfile, $WM_recv) {
 				$categories_array[] = $url;
 				}
 				
-				$md_array['permalink'] ="/notes/".$note['type']."/".$permdate."/".$hash.".html";
+				$md_array['permalink'] ="/notes/".$data['type']."/".$permdate."/".$hash.".html";
 				
    	//if (isset($note['tags']) && is_array($note['tags'])) {				
 		//		 $tag_array = $note['tags'];
@@ -89,15 +92,18 @@ function create_notes($data,$logfile, $WM_recv) {
 	//	}
 	//	print_r($note['tags']);
 	//	print_r($tag_array['syndication']);
-		if (isset($note['tags']) && is_array($note['tags'])) {
-						$tag_array = $note['tags'];
+		if (isset($data['tags']) && is_array($data['tags'])) {
+						$tag_array = $data['tags'];
 						if (isset($tag_array['syndication'])) {
 								$md_array['syndication'] = $tag_array['syndication'];
 							}
 					}
+										
+										if (isset($data['syndication'])) {
+												$md_array['syndication'] = $data['syndication'];
+										}
 				
-				
-		switch ($note['type']) {
+		switch ($data['type']) {
 // -------------------------------------------------------------------------------------------------------------------------------------
 		
 // #####################################################################################################################################
@@ -123,7 +129,7 @@ function create_notes($data,$logfile, $WM_recv) {
 				break;				
 // #####################################################################################################################################
 			case "twitter":
-				$md_array['permalink'] ="/notes/".$note['type']."/".$permdate."/".$hash.".html";
+				$md_array['permalink'] ="/notes/".$data['type']."/".$permdate."/".$hash.".html";
 				$md_array['title'] = "twitted: ".$hash;
 				//fwrite($mdfile, "ext-url: ".$note['url']."\n");
 				//fwrite($mdfile, "---\n");
@@ -132,26 +138,39 @@ function create_notes($data,$logfile, $WM_recv) {
 				
 // #####################################################################################################################################
 			case 'reply':
-				$md_array['permalink'] ="/notes/".$note['type']."/".$url."/".$permdate."/".$hash.".html";
-				$html = file_get_contents($note['url']);
+				$md_array['permalink'] ="/notes/".$data['type']."/".$url."/".$permdate."/".$hash.".html";
+				$html = file_get_contents($data['url']);
 				$config = HTMLPurifier_Config::createDefault();
 				$purifier = new HTMLPurifier($config);
 				$cleanhtml = $purifier->purify($html);
-				$mf = Mf2\parse($cleanhtml, $note['url']);
-				$md_array['ext-url'] = $note['url'];
-				$md_array['title'] = "reply to: ".$note['url'];
+				$mf = Mf2\parse($cleanhtml, $data['url']);
+				$md_array['ext-url'] = $data['url'];
+				$md_array['title'] = "reply to: ".$data['url'];
 				break;
 				
 // #####################################################################################################################################
 				
 			case "like":
-				$md_array['permalink'] ="/notes/".$note['type']."/".$url."/".$permdate."/".$hash.".html";
-				$html = file_get_contents($note['url']);
+				$md_array['permalink'] ="/notes/".$data['type']."/".$url."/".$permdate."/".$hash.".html";
+				$html = file_get_contents($data['url']);
 				$config = HTMLPurifier_Config::createDefault();
 				$purifier = new HTMLPurifier($config);
 				$cleanhtml = $purifier->purify($html);
-				$mf = Mf2\parse($cleanhtml, $note['url']);
-				$md_array['ext-url'] = $note['url'];
+				$mf = Mf2\parse($cleanhtml, $data['url']);
+				$md_array['mf'] = $mf;
+				$scraper = new SimpleScraper($data['url']);
+				$ogp = $scraper->getOgp();
+				//$md_array['ogp'] = $ogp;
+				$twitCard = $scraper->getTwitter();
+				//$md_array['twitCard'] = $twitCard;
+				
+				$md_array['ext']['url'] = $data['url'];
+				$md_array['ext']['title'] =  $ogp['title'];
+				$md_array['ext']['description'] = $ogp['description'];
+				$md_array['ext']['image_url'] = $ogp['image'];
+				$md_array['ext']['image_width'] = $ogp['image:width'];
+				$md_array['ext']['image_height'] = $ogp['image:height'];				
+				
 				$md_array['title'] = "Liked a page on ".$url;  				
 				//fwrite($mdfile, $note['message']."\n");
 				break;	
@@ -160,7 +179,7 @@ function create_notes($data,$logfile, $WM_recv) {
 			case "read";
 					$md_array['permalink'] ="/notes/".$note['type']."/".$permdate."/".$hash.".html";
 					$goodreads_api = new GoodReads('qhNU8kMDrqS2Ryk8ExmyA', '/home/tom/github/blog/website/_rake/tmp/');
-					$urls = $note['urls'];
+					$urls = $data['urls'];
 					
 					$page = $tag_array['page'];
 					
@@ -199,8 +218,8 @@ function create_notes($data,$logfile, $WM_recv) {
 			
 // #####################################################################################################################################
 			default:
-								$md_array['title'] = $permdate." ".$note['type'];  
-				$md_array['permalink'] ="/notes/".$note['type']."/".$permdate."/".$hash.".html";
+								$md_array['title'] = $permdate." ".$data['type'];  
+				$md_array['permalink'] ="/notes/".$data['type']."/".$permdate."/".$hash.".html";
 				break;
 				
 // -------------------------------------------------------------------------------------------------------------------------------------
@@ -211,8 +230,8 @@ function create_notes($data,$logfile, $WM_recv) {
 				$frontmatter = str_ireplace("...","---",$frontmatter);
 				$mdfile = fopen($hash.".md", "w");
 				fwrite($mdfile, $frontmatter);
-				if (array_key_exists("message",$note)) {
-					fwrite($mdfile, $note['message']."\n");
+				if (array_key_exists("message",$data)) {
+					fwrite($mdfile, $data['message']."\n");
 				}
 				fclose($mdfile);
 				$WM_array[]="";
@@ -220,11 +239,56 @@ function create_notes($data,$logfile, $WM_recv) {
     	fwrite($logfile, "\n".$frontmatter."\n"); 
     }
     return $WM_recv_array;
-}
-
+    }
 
 // ================================
 function json_parse_file( $file,$logfile ) {
+
+ 
+	// Read the input as a string to handle both form-encoded and JSON requests
+	$xray = new p3k\XRay();
+ 
+	// Read the input as a string to handle both form-encoded and JSON requests
+	$input = file_get_contents($file);
+
+ 
+	// Output as an Mf2 array
+	//$item = $request->toMf2();
+ 
+	// Turn it into an Mf2 page
+	//$mf2 = ['items' => [$item]];
+ 
+	// Process via XRay
+	//$parsed = $xray->process(false, $mf2);
+	$parsed = $xray->parse('', $input);
+	print_r($parsed);
+
+	$ret["date"] = $parsed['data']['published'];
+	if (isset($parsed['data']['content']['text'])) {
+		$ret["message"] = $parsed['data']['content']['text'];
+	} else {$ret["message"]="";}
+
+	$ret["syndication"] = $parsed['data']['syndication'];
+
+
+						$ret['type'] ="twitter";
+						switch (true) {
+								case isset($parsed['data']['like-of']):
+									$ret['type'] ="like";
+									$ret['url'] = $parsed['data']['like-of'][0];
+									break;
+								case isset($parsed['data']['in-reply-to']):
+									$ret['type'] ="reply";
+										$ret['url'] = $parsed['data']['in-reply-to'][0];
+									break;
+								case isset($parsed['data']['bookmark-of']):
+										$ret['type'] ="bookmark";
+										$ret['url'] = $parsed['data']['bookmark-of'][0];
+									break;
+
+								}
+ 
+/*
 $json = file_get_contents($file); 
 $json_array = json_decode($json);
 	foreach ($json_array as $value){	
@@ -235,9 +299,16 @@ $json_array = json_decode($json);
 					if (array_key_exists("published",$data)) {
 					
 						$pub = $data["published"];
-						if (is_array($pub)) {$res["date"] = $pub['0'];} else {$res["date"] = $pub;} 
+						if (is_array($pub)) {
+							$res["date"] = $pub['0'];
+							} else {$
+								$res["date"] = $pub;} 
 						$content = $data['content'];
-						if (is_array($content)) {$res["message"] = $content[0];} else {$res["message"] = $content;} 
+						if (is_array($content)) {
+							$res["message"] = $content[0];
+								} else {
+									$res["message"] = $content;
+								} 
 						if (isset($data['syndication'])) {
 							$syndication_array = $data['syndication'];
 							$tags['syndication'] = $syndication_array;
@@ -270,10 +341,10 @@ $json_array = json_decode($json);
 			if (isset($res)) {$ret[] = $res;;}	 
  		}
  		
- 		
- 		print_r(json_encode($ret));
+ 		*/
+ 		print_r(json_encode($ret,JSON_PRETTY_PRINT));
  		echo "\n";
- 		fwrite($logfile,json_encode($ret)."\n");
+ 		fwrite($logfile,json_encode($ret,JSON_PRETTY_PRINT)."\n");
  	
  		return $ret;
 }
@@ -486,7 +557,7 @@ foreach ($notes_dir as $dir) {
     					continue 2;
     				case strstr($file, "temp"):
     					//echo $file." skipping md file\n";
-    					fwrite($logfile,$file." skipping md file\n");
+    					fwrite($logfile,$file." skipping temp file\n");
     					continue 2;
     					
 					/*case strstr($file, "yml"):

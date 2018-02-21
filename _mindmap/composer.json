@@ -1,0 +1,9 @@
+{
+    "require": {
+        "guzzle/guzzle": "^3.9",
+        "guzzlehttp/guzzle": "^6.3",
+        "mikealmond/musicbrainz": "^0.2.2",
+        "moinax/tvdb": "^1.0",
+        "php-tmdb/api": "^2.1"
+    }
+}

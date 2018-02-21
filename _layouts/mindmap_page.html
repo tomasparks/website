@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{page.title}}</title>
+  <link rel="stylesheet" href="http://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <link rel="stylesheet" href="/resources/demos/style.css">
+  
+  <link rel="profile" href="http://microformats.org/profile/hcard">
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <style>
+</style>
+  <script>
+  $( function() {
+    $( "#albums_accordion" ).accordion({
+      heightStyle: "content",
+      collapsible: true
+    });
+  } );
+  </script>
+    <script>
+  $( function() {
+    $( "#accordion" ).accordion({
+      heightStyle: "content",
+      collapsible: true
+    });
+  } );
+  </script>
+  <script>
+  $( function() {
+    $( "#tabs" ).tabs({
+      beforeLoad: function( event, ui ) {
+        ui.jqXHR.fail(function() {
+          ui.panel.html(
+            "Couldn't load this tab. We'll try to fix this as soon as possible. " );
+        });
+      }
+    });
+  } );
+  </script>
+</head>
+<body background="{{page.background.image_url}}">
+<article class="h-entry">
+<div id="accordion">
+	<h3 class="p-name">{{page.title}}</h3>
+	<div>
+	<div>{% for breadcrumb in page.breadcrumbs %}<a href="{{breadcrumb.url}}">{{breadcrumb.title}}</a> > {% endfor %}{{page.title}} </div>
+	<div class="e-content" id="tabs">
+		<ul>
+			<li><a href="#tabs-1">About {{page.type}}</a></li>
+			<li><a href="#tabs-2">Albums/Songs</a></li>
+			<li><a href="./copyright.html">Copyright Notice</a></li>
+		</ul>
+	<div id="tabs-1">
+	
+		{% if page.type == 'Artist' %}
+		<div css="align: left" class="vcard h-card">
+			<img class="photo u-photo" src="{{page.artist.photo}}" alt="[img] {{page.title}}" />
+			<div>Bio:<br />
+				<ul>
+					<li class="fn p-name">{{page.title}}</li>
+					<li>Sex: <span class="p-sex sex">{{page.artist.bio.gender}}</span></li>
+					<li>country: {{page.artist.bio.country}}</li>
+					<li>Born: <time class="bday dt-bday">{{page.artist.bio.life-span.begin}}</time></li>
+					{% if page.page.artist.bio.life-span.ended %}
+					<li>Died: {{page.artist.bio.life-span.end}}</li>
+					{% endif %}
+				</ul>
+			</div>
+		</div>
+		{% endif %}
+		<p>{{page.content}}</p>
+	</div>
+  	<div id="tabs-2">
+		<div id="albums_accordion">
+		{% for level4 in post.level4 %}
+			<h3>{{level4.title}}</h3>
+			<div>
+				<a href="https://www.youtube.com/watch?v=O17f3lB7BFY">youtube</a><br />
+				<a href="https://www.youtube.com/watch?v=10u0VZHDiq0">english cover</a><br />
+			</div>
+			{% endfor %}
+		</div>
+	</div>  
+</div>
+</div>
+</div>
+<div>background image from {{page.background.source_url}}</div>
+</article>
+</body>
+</html>

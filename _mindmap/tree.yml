@@ -1,0 +1,854 @@
+---
+id: Me
+name: Tom Sparks
+level1:
+- name: Music
+  id: music
+  url: /mindmap/music/index.html
+  background:
+    image_url: https://wallpapercave.com/wp/w0Gu6Nm.jpg
+    source_url: https://wallpapercave.com/music-wallpapers-for-desktop
+  copyright_notices:
+    text:
+      musicbrainz: text is from [musicbrainz](http://musicbrainz.org) used under [CC0
+        Public Domain](https://creativecommons.org/publicdomain/zero/1.0/) and/or
+        [Creative Commons Attribution-NonCommercial-ShareAlike 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/).
+      wikipedia: text is from [wikipedia](http://www.wikipedia.org/), Text is used
+        under the [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/3.0/).
+    images:
+      coverartarchive: All images are uploaded from users' computers directly to Internet
+        Archive servers. All images are copyrighted by their respective copyright
+        owners.
+      wikipedia: images are from [wikipedia](http://www.wikipedia.org/)
+  level2:
+  - url: /mindmap/music/steampunk/index.html
+    name: Steampunk
+    id: steampunk
+    type: music_genre
+    background:
+      image_url: steampunk-2663369-1920x1080.jpg
+      source_url: http://simplywallpapers.com/wallpaper/steampunk/37866/
+    level3:
+    - url: /mindmap/music/steampunk/blamedfornothing.html
+      name: The Men That Will Not Be Blamed for Nothing
+      id: blamedfornothing
+      type: music_artist
+      bio:
+        gender: ~
+        type: Group
+        country: GB
+        life-span:
+          end: ~
+          ended: false
+          begin: "2008"
+      level4:
+      - url: /mindmap/music/steampunk/blamedfornothing/steampunkvol1.html
+        name: Now That's What I Call Steampunk! Volume 1
+        id: steampunkvol1
+        type: music_albums
+        musicbrainz: 3dd03335-3d5f-4e92-8a76-cfddf6ec4ac9
+        coverart:
+          status: "Server error: `GET http://www.coverartarchive.org/release/3dd03335-3d5f-4e92-8a76-cfddf6ec4ac9`
+            resulted in a `503 Service Temporarily Unavailable` response:\n<html>\r\n<head><title>503
+            Service Temporarily Unavailable</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>503
+            Service (truncated...)\n"
+        level5:
+        - number: "1"
+          title: Etiquette
+          length: "12:04:53"
+        - number: "2"
+          title: Steph(v)enson
+          length: "16:10:26"
+        - number: "3"
+          title: Bedlam
+          length: 00:52:53
+        - number: "4"
+          title: Goggles
+          length: "17:40:53"
+        - number: "5"
+          title: Sewer (live)
+          length: "13:34:40"
+        - number: "6"
+          title: Boilerplate Daniel
+          length: "11:57:06"
+        - number: "7"
+          title: Moon
+          length: "18:39:06"
+        - number: "8"
+          title: A Traditional Victorian Gentlemens Boasting Song
+          length: "13:08:53"
+        - number: "9"
+          title: Victorian Grindcore
+          length: 03:59:46
+        - number: "10"
+          title: Blood Red
+          length: "23:20:53"
+        - number: "11"
+          title: Charlie
+          length: 01:25:33
+    - url: /mindmap/music/steampunk/decemberists.html
+      name: The Decemberists
+      id: decemberists
+      type: music_artist
+      bio:
+        gender: ~
+        type: Group
+        country: ~
+        life-span:
+          end: ~
+          begin: "2000"
+          ended: false
+      level4:
+      - url: /mindmap/music/steampunk/decemberists/picaresque.html
+        name: Picaresque
+        id: picaresque
+        type: music_albums
+        musicbrainz: 552e1453-99a4-35ad-bc47-5e8fc2397040
+        coverart:
+          status: "Server error: `GET http://www.coverartarchive.org/release/552e1453-99a4-35ad-bc47-5e8fc2397040`
+            resulted in a `503 Service Temporarily Unavailable` response:\n<html>\r\n<head><title>503
+            Service Temporarily Unavailable</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>503
+            Service (truncated...)\n"
+        level5:
+        - number: "1"
+          title: The Infanta
+          length: "13:31:46"
+        - number: "2"
+          title: We Both Go Down Together
+          length: 03:11:20
+        - number: "3"
+          title: Eli, the Barrow Boy
+          length: 05:10:13
+        - number: "4"
+          title: The Sporting Life
+          length: 05:21:33
+        - number: "5"
+          title: The Bagman's Gambit
+          length: "21:20:53"
+        - number: "6"
+          title: From My Own True Love (Lost at Sea)
+          length: "13:42:53"
+        - number: "7"
+          title: 16 Military Wives
+          length: 09:06:40
+        - number: "8"
+          title: The Engine Driver
+          length: "22:53:20"
+        - number: "9"
+          title: On the Bus Mall
+          length: 05:13:33
+        - number: "10"
+          title: The Mariner's Revenge Song
+          length: 02:05:33
+        - number: "11"
+          title: Of Angels and Angles
+          length: "17:00:26"
+  - url: /mindmap/music/CC/index.html
+    name: Creative Commons music
+    id: CC
+    type: music_genre
+    background:
+      image_url: ~
+      source_url: ~
+    level3:
+    - url: /mindmap/music/CC/JoCo.html
+      name: Jonathan Coulton
+      id: JoCo
+      type: music_artist
+      bio:
+        gender: Male
+        type: Person
+        country: US
+        life-span:
+          begin: "1970-12-01"
+          end: ~
+          ended: false
+      level4:
+      - url: /mindmap/music/CC/JoCo/wtmt.html
+        name: Where Tradition Meets Tomorrow
+        id: wtmt
+        type: music_albums
+        musicbrainz: 039462e5-34ad-468c-b085-14c4555d0c3f
+        coverart:
+          status: "Server error: `GET http://www.coverartarchive.org/release/039462e5-34ad-468c-b085-14c4555d0c3f`
+            resulted in a `503 Service Temporarily Unavailable` response:\n<html>\r\n<head><title>503
+            Service Temporarily Unavailable</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>503
+            Service (truncated...)\n"
+        level5:
+        - number: "1"
+          title: The Future Soon
+          length: "15:36:40"
+        - number: "2"
+          title: Skullcrusher Mountain
+          length: "23:13:06"
+        - number: "3"
+          title: I Crush Everything
+          length: 06:36:40
+        - number: "4"
+          title: Betty and Me
+          length: 03:34:00
+        - number: "5"
+          title: Mandelbrot Set
+          length: 00:46:40
+  - url: /mindmap/music/singing_synth/index.html
+    name: Singing Synthesizer
+    id: singing_synth
+    type: music_genre
+    background:
+      image_url: ~
+      source_url: ~
+    level3:
+    - url: /mindmap/music/singing_synth/dandy704.html
+      name: Dandy 704 (chipspeech)
+      id: dandy704
+      type: music_artist
+      level4:
+      - name: "Dandy 704 \u300C\u30DE\u30A4\u30F3\u30C9\u30D6\u30E9\u30F3\u30C9\u300DCover"
+        type: music_songs
+        id: dandy704_cover
+    - url: /mindmap/music/singing_synth/otto_mozer.html
+      name: Otto Mozer (chipspeech)
+      id: otto_mozer
+      type: music_artist
+      level4:
+      - name: '1975: The first speech synthesizer IC was born.'
+        type: music_songs
+        id: otto_mozer_1975
+    - url: /mindmap/music/singing_synth/lady_parsec.html
+      name: Lady Parsec (chipspeech)
+      id: lady_parsec
+      type: music_artist
+      level4:
+      - name: Give Me Patience - Wisdom Of The Rain
+        type: music_songs
+        id: Wisdom_Of_The_Rain
+    - url: /mindmap/music/singing_synth/bert_gotrax.html
+      name: Bert Gotrax (chipspeech)
+      id: bert_gotrax
+      type: music_artist
+      level4:
+      - name: DANDY - chipANnimal
+        type: music_songs
+        id: chipannimal
+    - url: /mindmap/music/singing_synth/dee_klatt.html
+      name: Dee Klatt (chipspeech)
+      id: dee_klatt
+      type: music_artist
+      level4:
+      - name: Solitaire
+        type: music_songs
+        id: solitaire
+    - url: /mindmap/music/singing_synth/terminal99.html
+      name: Terminal 99 (chipspeech)
+      id: terminal99
+      type: music_artist
+      level4:
+      - name: GOTO80 - Crossword Puzzle
+        type: music_songs
+        id: goto80
+    - url: /mindmap/music/singing_synth/HM.html
+      name: Hatsune Miku
+      id: HM
+      type: music_artist
+      bio:
+        gender: Female
+        type: Character
+        country: JP
+        life-span:
+          end: ~
+          begin: "2007-08-31"
+          ended: false
+      photo: Hatsune_Miku_cover.png
+      background:
+        image_url: Hatsune_Miku_concert.jpg
+        source_url: https://www.pinterest.es/pin/224898575117584447/
+      level4:
+      - name: The World is Mine
+        type: music_songs
+        id: world_is_mine
+  - url: /mindmap/music/VG/index.html
+    name: video game music
+    id: VG
+    type: music_genre
+    background:
+      image_url: ~
+      source_url: ~
+    level3:
+    - url: /mindmap/music/VG/chris_huelsbeck.html
+      name: "chris H\xFClsbeck"
+      id: chris_huelsbeck
+      type: music_artist
+      bio:
+        gender: Male
+        type: Person
+        country: DE
+        life-span:
+          begin: "1968-03-02"
+          end: ~
+          ended: false
+      photo: chris_huelsbeck.jpg
+      level4:
+      - url: /mindmap/music/VG/chris_huelsbeck/TSAvol1.html
+        name: Turrican Soundtrack Anthology, Volume 1
+        id: TSAvol1
+        type: music_albums
+        musicbrainz: ce02621b-4947-4a64-9862-68067f8f2aca
+        coverart:
+          status: "Server error: `GET http://www.coverartarchive.org/release/ce02621b-4947-4a64-9862-68067f8f2aca`
+            resulted in a `503 Service Temporarily Unavailable` response:\n<html>\r\n<head><title>503
+            Service Temporarily Unavailable</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>503
+            Service (truncated...)\n"
+        level5:
+        - number: "1"
+          title: Shoot or Die
+          length: "16:23:07"
+        - number: "2"
+          title: Mountain Madness
+          length: "21:09:07"
+        - number: "3"
+          title: Thunder Plains
+          length: 00:05:47
+        - number: "4"
+          title: Fistful of Steel
+          length: 00:29:34
+        - number: "5"
+          title: Outpost
+          length: "11:01:07"
+        - number: "6"
+          title: Enemy Mine
+          length: "19:08:14"
+        - number: "7"
+          title: Piranhas & Shredders
+          length: 05:57:07
+        - number: "8"
+          title: Techno Dungeon
+          length: "19:48:27"
+        - number: "9"
+          title: Jet Pack Attack
+          length: 09:04:14
+        - number: "10"
+          title: Base Invader
+          length: "14:20:00"
+        - number: "11"
+          title: Flightmare
+          length: 02:42:14
+        - number: "12"
+          title: Pathfinder
+          length: "19:53:47"
+        - number: "13"
+          title: Tower of Morgul
+          length: 08:48:00
+        - number: "14"
+          title: Faces of Terror
+          length: "14:20:00"
+        - number: "15"
+          title: Victory
+          length: "22:14:40"
+        - number: "16"
+          title: Transformers Medley 2013
+          length: "22:06:54"
+      - url: /mindmap/music/VG/chris_huelsbeck/TSAvol2.html
+        name: Turrican Soundtrack Anthology, Volume 2
+        id: TSAvol2
+        type: music_albums
+        musicbrainz: 06a2d1ee-efcc-4aff-8f92-b219682e9210
+        coverart:
+          status: "Server error: `GET http://www.coverartarchive.org/release/06a2d1ee-efcc-4aff-8f92-b219682e9210`
+            resulted in a `503 Service Temporarily Unavailable` response:\n<html>\r\n<head><title>503
+            Service Temporarily Unavailable</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>503
+            Service (truncated...)\n"
+        level5:
+        - number: "1"
+          title: The Final Fight
+          length: 02:10:14
+        - number: "2"
+          title: The Desert Rocks
+          length: "18:02:14"
+        - number: "3"
+          title: GI Joe Meets Space Patrol
+          length: "17:55:47"
+        - number: "4"
+          title: Traps
+          length: 08:51:34
+        - number: "5"
+          title: Warhead
+          length: "20:58:27"
+        - number: "6"
+          title: Exploring Secret Dungeons
+          length: "11:12:27"
+        - number: "7"
+          title: The Great Bath
+          length: "17:38:00"
+        - number: "8"
+          title: Rock 'n' Roll Balance
+          length: "18:59:34"
+        - number: "9"
+          title: Metal Stars
+          length: "15:03:34"
+        - number: "10"
+          title: Check the Gripper
+          length: 08:50:14
+        - number: "11"
+          title: Concerto for Lasers and Enemies
+          length: 04:03:20
+        - number: "12"
+          title: Go for the Gunhed
+          length: "21:12:40"
+        - number: "13"
+          title: Unidirectional Fight
+          length: "20:25:34"
+        - number: "14"
+          title: Powerslide Into Hypercycle Drive
+          length: "21:53:07"
+        - number: "15"
+          title: The Wall
+          length: "17:27:20"
+        - number: "16"
+          title: Dragonfight
+          length: 04:39:47
+        - number: "17"
+          title: Mr. Walker and His Factory
+          length: 03:36:54
+        - number: "18"
+          title: Danger Ahead
+          length: 09:05:20
+        - number: "19"
+          title: The Final Challenge
+          length: "14:19:47"
+        - number: "20"
+          title: Go for the Nuke!
+          length: "15:37:07"
+        - number: "21"
+          title: The Hero
+          length: "17:00:14"
+        - number: "22"
+          title: Freedom
+          length: 09:27:47
+        - number: "23"
+          title: The Final Fight (Machinae Supremacy version)
+          length: "11:38:54"
+      - url: /mindmap/music/VG/chris_huelsbeck/TSAvol3.html
+        name: Turrican Soundtrack Anthology, Volume 3
+        id: TSAvol3
+        type: music_albums
+        musicbrainz: 54ecbe53-7343-430a-a3c6-ad65c2801f70
+        coverart:
+          status: "Server error: `GET http://www.coverartarchive.org/release/54ecbe53-7343-430a-a3c6-ad65c2801f70`
+            resulted in a `503 Service Temporarily Unavailable` response:\n<html>\r\n<head><title>503
+            Service Temporarily Unavailable</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>503
+            Service (truncated...)\n"
+        level5:
+        - number: "1"
+          title: Payment Day
+          length: "20:34:00"
+        - number: "2"
+          title: Factory Action
+          length: "18:49:34"
+        - number: "3"
+          title: The Elevator
+          length: "16:36:54"
+        - number: "4"
+          title: Second Floor
+          length: 09:55:07
+        - number: "5"
+          title: Meat Beast Boss
+          length: "21:50:00"
+        - number: "6"
+          title: Platform Action
+          length: "12:17:47"
+        - number: "7"
+          title: Wet Dungeon
+          length: "10:05:20"
+        - number: "8"
+          title: Do the Bath Man
+          length: 08:06:14
+        - number: "9"
+          title: Swim or Die
+          length: 06:33:07
+        - number: "10"
+          title: Sea Monster Boss
+          length: "13:47:47"
+        - number: "11"
+          title: Air Combat
+          length: "17:47:47"
+        - number: "12"
+          title: Scrap Yard I
+          length: "13:26:40"
+        - number: "13"
+          title: Scrap Yard II
+          length: 01:59:47
+        - number: "14"
+          title: Crane Boss
+          length: "15:52:14"
+        - number: "15"
+          title: Alien Disaster
+          length: 07:49:07
+        - number: "16"
+          title: Climb to Survive
+          length: 03:19:07
+        - number: "17"
+          title: Penultimate
+          length: "22:16:40"
+        - number: "18"
+          title: Screw Nut Hall
+          length: "22:56:54"
+        - number: "19"
+          title: The Machine
+          length: "19:36:40"
+        - number: "20"
+          title: Hall of Heroes
+          length: 05:00:40
+        - number: "21"
+          title: Credits
+          length: 08:43:20
+        - number: "22"
+          title: Payment Day (Allister Brimble version)
+          length: 07:49:20
+      - url: /mindmap/music/VG/chris_huelsbeck/TSAvol4.html
+        name: Turrican Soundtrack Anthology, Volume 4
+        id: TSAvol4
+        type: music_albums
+        musicbrainz: 2ab4f2f1-384a-4ab2-a3e1-1d5d6b5717ba
+        coverart:
+          status: "Server error: `GET http://www.coverartarchive.org/release/2ab4f2f1-384a-4ab2-a3e1-1d5d6b5717ba`
+            resulted in a `503 Service Temporarily Unavailable` response:\n<html>\r\n<head><title>503
+            Service Temporarily Unavailable</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>503
+            Service (truncated...)\n"
+        level5:
+        - number: "1"
+          title: Turrican II - Anthology Suite
+          length: "21:08:40"
+        - number: "2"
+          title: Opening
+          length: "23:59:07"
+        - number: "3"
+          title: Steam and Pressure
+          length: 07:37:34
+        - number: "4"
+          title: Xenomorph
+          length: 00:01:34
+        - number: "5"
+          title: Final Frontier
+          length: 03:17:20
+        - number: "6"
+          title: Desert Storm
+          length: "21:11:34"
+        - number: "7"
+          title: Buggy Panic
+          length: 01:29:47
+        - number: "8"
+          title: Wormland
+          length: 02:07:47
+        - number: "9"
+          title: Space Chaos
+          length: "22:46:54"
+        - number: "10"
+          title: Born to Be Wild
+          length: 05:18:00
+        - number: "11"
+          title: Braindead
+          length: 09:03:34
+        - number: "12"
+          title: Even Wilder
+          length: "14:16:40"
+        - number: "13"
+          title: Arachnophobia
+          length: "16:22:40"
+        - number: "14"
+          title: Pirate Station
+          length: 05:12:14
+        - number: "15"
+          title: Submerged
+          length: 09:28:40
+        - number: "16"
+          title: Face the Sunset
+          length: "10:52:27"
+        - number: "17"
+          title: Machine's Gallery
+          length: "15:32:00"
+        - number: "18"
+          title: Boss-A-Nova
+          length: "11:33:20"
+        - number: "19"
+          title: Farewell
+          length: "23:18:54"
+      - url: /mindmap/music/VG/chris_huelsbeck/Turrican_OVGS.html
+        name: Turrican (Original Video Game Soundtrack)
+        id: Turrican_OVGS
+        type: music_albums
+        musicbrainz: 8205e8c1-decc-40fc-905c-ab0e8169f5ff
+        coverart:
+          status: "Server error: `GET http://www.coverartarchive.org/release/8205e8c1-decc-40fc-905c-ab0e8169f5ff`
+            resulted in a `503 Service Temporarily Unavailable` response:\n<html>\r\n<head><title>503
+            Service Temporarily Unavailable</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>503
+            Service (truncated...)\n"
+        level5:
+        - number: "1"
+          title: Opening
+          length: "23:05:06"
+        - number: "2"
+          title: Prologue
+          length: 08:44:53
+        - number: "3"
+          title: Main Title
+          length: 08:04:26
+        - number: "4"
+          title: Techno Dungeon
+          length: 09:08:26
+        - number: "5"
+          title: The Desert Rocks
+          length: "19:01:06"
+        - number: "6"
+          title: The Great Bath
+          length: 01:54:53
+        - number: "7"
+          title: Walker Factory
+          length: "16:07:20"
+        - number: "8"
+          title: The Hero
+          length: "12:21:33"
+        - number: "9"
+          title: Bionic Action
+          length: 01:21:06
+        - number: "10"
+          title: Air Combat
+          length: "17:54:00"
+        - number: "11"
+          title: Climb to Survive
+          length: "20:44:26"
+        - number: "12"
+          title: Transfer to the Battlefield
+          length: "14:40:26"
+        - number: "13"
+          title: The Machine
+          length: 00:10:00
+        - number: "14"
+          title: Countdown
+          length: "21:38:53"
+        - number: "15"
+          title: Freedom
+          length: "15:37:20"
+        - number: "16"
+          title: Turrican Medley (mix)
+          length: "20:32:40"
+      - url: /mindmap/music/VG/chris_huelsbeck/TFFTSAM.html
+        name: The Final Fight - TSA Maxi
+        id: TFFTSAM
+        type: music_albums
+        musicbrainz: 2342e63b-7e58-4f46-a162-5754c3e5d75a
+        coverart:
+          status: "Server error: `GET http://www.coverartarchive.org/release/2342e63b-7e58-4f46-a162-5754c3e5d75a`
+            resulted in a `503 Service Temporarily Unavailable` response:\n<html>\r\n<head><title>503
+            Service Temporarily Unavailable</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>503
+            Service (truncated...)\n"
+        level5:
+        - number: "1"
+          title: THE FINAL FIGHT (YUZO KOSHIRO RETRO REMIX)
+          length: 08:43:20
+        - number: "2"
+          title: THE FINAL FIGHT (YUZO KOSHIRO CHIPTUNE ARRANGE)
+          length: 03:20:00
+        - number: "3"
+          title: DISK IN
+          length: 01:40:00
+        - number: "4"
+          title: THE FINAL FIGHT (AMIGA ORIGINAL SOUND VERSION)
+          length: 00:50:00
+        - number: "5"
+          title: T2 LOADER
+          length: "12:46:40"
+        - number: "6"
+          title: THE DESERT ROCKS (AMIGA BONUS)
+          length: "11:43:20"
+- name: TV series & Movies
+  id: tv_movies
+  url: /mindmap/tv_movies/index.html
+  background:
+    image_url: ~
+    source_url: ~
+  copyright_notices:
+    text:
+      tvdb: text is from [thetvdb](http://wwww.thetvdb.com) used under [Creative Commons
+        Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+      wikipedia: text is from [wikipedia](http://www.wikipedia.org/), Text is used
+        under the [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/3.0/).
+        License.
+      TMDb: text is from [The Movie Database](http://www.themdb.com)
+    images:
+      tvdb: Images are from https://www.thetvdb.com used under [Creative Commons Attribution-NonCommercial
+        4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/)
+      wikipedia: images are from [wikipedia](http://www.wikipedia.org/)
+      TMDb: images are from [The Movie Database](http://www.themdb.com)
+  level2:
+  - url: /mindmap/tv_movies/sci-fi/index.html
+    name: Science fiction
+    id: sci-fi
+    level3:
+    - url: /mindmap/tv_movies/sci-fi/andromeda.html
+      name: Andromeda
+      id: andromeda
+      background:
+        image_url: https://www.thetvdb.com/banners/fanart/original/77544-2.jpg
+      logo: .png
+      type: TV_Series
+      overview: 'The Commonwealth spanned three galaxies and a myriad of cultures.
+        Dylan Hunt, captain of the star ship Andromeda, was frozen in time and awoke
+        three centuries later to find the Commonwealth had fallen. To fight back the
+        chaos among the stars, Hunt must use the Andromeda to restore the Commonwealth
+        and bring unity to the galaxy once again. He recruits a mercenary, Tyr Anasazi,
+        and the crew of the Eureka Maru: Captain Beka Valentine, Engineer Seamus Harper,
+        Physicist Rev Bem, and Medical Officer Trance Gemini. After discovering the
+        Spirit of the Abyss and its powerful weapon, the Magog Worldship, the need
+        for the Commonwealth is greater than ever. 50 member worlds are finally recruited,
+        and the reconstruction of the Commonwealth is finally truly underway. More
+        and more worlds sign on, contributing their fleets to protect each other.
+        In the third season, Dylan and the crew travel from world to world as instructed
+        by the Triumvirate, the leaders of the Commonwealth. But everything is building
+        to the moment from one of his crew will betray him. The fourth year deals
+        with the corruption of the Commonwealth after the recent betrayal. Things
+        become more intense as the Andromeda is expelled from the Commonwealth, Trance
+        reveals her true form, Harper holds a weapon capable of destroying the Commonwealth,
+        Beka becomes possessed by the Spirit of the Abyss, and a new crew member joins.
+        But the Magog Worldship is nearing, and the final confrontation is to protect
+        a Utopian society from it.'
+    - url: /mindmap/tv_movies/sci-fi/B5.html
+      name: Babylon 5
+      id: B5
+      background:
+        image_url: https://www.thetvdb.com/banners/fanart/original/70726-15.jpg
+      logo: .png
+      type: TV_Series
+      overview: 'Babylon 5 is a five-mile long space station located in neutral space.
+        Built by the Earth Alliance in the 2250s, its goal is to maintain peace among
+        the various alien races by providing a sanctuary where grievances and negotiations
+        can be worked out among duly appointed ambassadors. A council made up of representatives
+        from the five major space-faring civilizations - the Earth Alliance, Minbari
+        Federation, Centauri Republic, Narn Regime, and Vorlon Empire - work with
+        the League of Non-Aligned Worlds to keep interstellar relations under control.
+        Aside from its diplomatic function, Babylon 5 also serves as a military post
+        for Earth and a port of call for travelers, traders, businessmen, criminals,
+        and Rangers. '
+    - url: /mindmap/tv_movies/sci-fi/SG-SG1.html
+      name: Stargate SG-1
+      id: SG-SG1
+      background:
+        image_url: https://www.thetvdb.com/banners/fanart/original/72449-67.jpg
+      logo: .png
+      type: TV_Series
+      overview: This sequel to the 1994 movie Stargate chronicles the further adventures
+        of SGC (Stargate Command). It turned out that the Goa'uld Ra was only one
+        of many alien System Lords who used the Stargates to conquer much of the universe.
+        When Earth uncovers a working cartouche to decipher the coding system of their
+        own Stargate, they find they can now travel anywhere. Earth's military sends
+        out SG teams to explore new planets, find technology, and oppose the Goa'uld.
+        Jack O'Neill and Daniel Jackson from the original movie are part of SG-1.
+        They are joined by Sam Carter, a scientist, and Teal'c, a Jaffa who is convinced
+        the Goa'uld are not gods.
+    - url: /mindmap/tv_movies/sci-fi/SGA.html
+      name: Stargate Atlantis
+      id: SGA
+      background:
+        image_url: https://www.thetvdb.com/banners/fanart/original/70851-19.jpg
+      logo: .png
+      type: TV_Series
+      overview: The story of Stargate Atlantis follows the cliffhanger episode on
+        Stargate SG-1's seventh season finale "Lost City", where SG-1 found an outpost
+        made by the race known as the Ancients in Antarctica. After the events of
+        Stargate SG-1 season eight premiere "New Order", the Stargate Command sends
+        an international team to investigate the outpost. Soon, Dr. Daniel Jackson
+        discovers the location of the greatest city created by the Ancients, Atlantis.
+        The story unfolds when the members of the expedition encounter the Wraith,
+        the race that defeated the Ancients ten thousand years ago.
+    - url: /mindmap/tv_movies/sci-fi/SGU.html
+      name: Stargate Universe
+      id: SGU
+      background:
+        image_url: https://www.thetvdb.com/banners/fanart/original/83237-34.jpg
+      logo: .png
+      type: TV_Series
+      overview: The previously unknown purpose of the ninth chevron is revealed and
+        takes a group of refugees on a one-way trip to a millions of years old Ancient-built
+        ship. Led by Dr. Nicolas Rush and Colonel Everett Young, the refugees are
+        trapped on the ship, unable to change its programmed mission.
+    - url: /mindmap/tv_movies/sci-fi/SGO.html
+      name: Stargate Origins
+      id: SGO
+      background:
+        image_url: https://www.thetvdb.com/banners/fanart/original/339552-1.jpg
+      logo: .png
+      type: TV_Series
+      overview: Young Catherine Langford embarks on an unexpected adventure to unlock
+        the mystery of what lies beyond the Stargate in order to save the Earth from
+        darkness.
+    - url: /mindmap/tv_movies/sci-fi/farscape.html
+      name: Farscape
+      id: farscape
+      background:
+        image_url: https://www.thetvdb.com/banners/fanart/original/70522-1.jpg
+      logo: .png
+      type: TV_Series
+      overview: Astronaut John Crichton attempts to use the Earth's atmosphere to
+        propel his ship, Farscape 1, at great speeds across the solar system. He went
+        much further though and was sucked down a wormhole to a distant part of the
+        galaxy and into the middle of a battle. He is rescued by a group of escaping
+        prisoners and taken aboard their living ship. As the years went by, Crichton
+        has made enemies, powerful and dangerous enemies. On his journey to find a
+        way back home, he freed other captives who became part of the crew on Moya.
+    - url: /mindmap/tv_movies/sci-fi/ST-TOS.html
+      name: Star Trek
+      id: ST-TOS
+      background:
+        image_url: https://www.thetvdb.com/banners/fanart/original/77526-7.jpg
+      logo: .png
+      type: TV_Series
+      overview: 'Space. The Final Frontier. The U.S.S. Enterprise embarks on a five
+        year mission to explore the galaxy. The Enterprise is under the command of
+        Captain James T. Kirk, who is assisted by First Officer Mr. Spock, from the
+        planet Vulcan, and Chief Medical Officer Dr. Leonard ''Bones'' McCoy. With
+        a determined crew, the Enterprise encounters Klingons, Romulans, time paradoxes,
+        tribbles and genetic supermen led by Khan Noonien Singh.  Their mission: to
+        explore strange new worlds, to seek new life and new civilizations, to boldly
+        go where no man has gone before. '
+  - url: /mindmap/tv_movies/comedy/index.html
+    name: Comedy
+    id: comedy
+    level3:
+    - url: /mindmap/tv_movies/comedy/TBBT.html
+      name: The Big Bang Theory
+      id: TBBT
+      background:
+        image_url: https://www.thetvdb.com/banners/fanart/original/80379-38.jpg
+      logo: .png
+      type: TV_Series
+      overview: What happens when hyperintelligent roommates Sheldon and Leonard meet
+        Penny, a free-spirited beauty moving in next door, and realize they know next
+        to nothing about life outside of the lab. Rounding out the crew are the smarmy
+        Wolowitz, who thinks he's as sexy as he is brainy, and Koothrappali, who suffers
+        from an inability to speak in the presence of a woman.
+    - url: /mindmap/tv_movies/comedy/robot-chicken.html
+      name: Robot Chicken
+      id: robot-chicken
+      background:
+        image_url: https://www.thetvdb.com/banners/fanart/original/75734-8.jpg
+      logo: .png
+      type: TV_Series
+      overview: Old-school stop-motion animation and fast-paced satire are the hallmarks
+        of this eclectic show created by Seth Green and Matt Senreich. Action figures
+        find new life as players in frenetic sketch-comedy vignettes that skewer TV,
+        movies, music, and celebrities.
+  - url: /mindmap/tv_movies/documentary/index.html
+    name: Documentary
+    id: documentary
+    level3:
+    - url: /mindmap/tv_movies/documentary/grand-tour.html
+      name: The Grand Tour (2016)
+      id: grand-tour
+      background:
+        image_url: https://www.thetvdb.com/banners/fanart/original/314087-4.jpg
+      logo: The_Grand_Tour_Logo.png
+      type: TV_Series
+      overview: A show about adventure, excitement and friendship... as long as you
+        accept that the people you call friends are also the ones you find extremely
+        annoying. Sometimes it's even a show about cars. Follow Jeremy Clarkson, Richard
+        Hammond and James May on their global adventure.
+...

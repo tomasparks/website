@@ -1,13 +1,17 @@
 ---
 title: Documentary
-permalink: /mindmap/tv_movies/documentary/
-categories: tv_movies
-parent: tv_movies
+permalink: /mindmap/tv_movies/documentary/index.html
 layout: mindmap_index
-pagination:
-  collection: mindmap
-  category: documentary
-  enabled: "true"
-  extension: html
-  indexpage: index
+function: array2tree_lvl2
+links:
+- title: The Grand Tour (2016)
+  id: grand-tour
+  url: /mindmap/tv_movies/documentary/grand-tour.html
+breadcrumbs:
+- title: website
+  url: /
+- title: mindmap
+  url: /mindmap/
+- title: TV series & Movies
+  url: /mindmap/tv_movies/index.html
 ---

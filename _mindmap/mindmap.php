@@ -1,6 +1,14 @@
 #!/usr/bin/env php
 <?php
+// https://en.wikipedia.org/w/api.php?action=query&prop=revisions&rvprop=content&format=json&titles=Chris_Huelsbeck&rvsection=0
+// infobox
 
+// https://en.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro=&explaintext=&titles=Chris_Huelsbeck
+// summary
+
+include './music_functions.php';
+include './tv_movies_functions.php';
+include './output.php';
 $treedb = array ("id"=>"Me","name"=>"Tom Sparks");
 $gobaldb = array ("id"=>"Me","name"=>"Tom Sparks");
 
@@ -8,9 +16,16 @@ $gobaldb = array ("id"=>"Me","name"=>"Tom Sparks");
 
 $path = getcwd();
 
-//$notes_path = str_replace("_rake","_notes",$path);
+//$md_path = str_replace("_rake","_notes",$path);
+//$media_path = str_replace("_mindmap","mindmap",$path);
 
 chdir($path);
+//$path = getcwd();
+//$path = str_replace("_","",$path);
+//mkdir($path);
+echo $path."\n";
+//$treedb = array2tree($treedb,$gobaldb,$path);
+//print_r($treedb);
 
 
 $filelist = scandir($path);
@@ -18,165 +33,33 @@ foreach ($filelist as $file) {
 	if ($file === "." or $file === "..") {continue;}
 		switch(true) {
 			case strstr($file, "log"):
-    			echo $file." skipping log file\n";
+    			echo "\n".$file." skipping log file\n";
     			continue 2;
-			case strstr($file, "md"):
-    			echo $file." skipping md file\n";
+			case strstr($file, "html"):
+    			echo "\n".$file." skipping html file\n";
     			continue 2;
     		case strstr($file, "temp"):
-    			echo $file." skipping md file\n";
+    			echo "\n".$file." skipping md file\n";
     			continue 2;
     					
 			case strstr($file, "tv_movies.yml"):
     			echo "found tv_movies.yml :)\n";
     			$arr = tv_movies_levels($treedb,$gobaldb);
 				$treedb = $arr['treedb'];
+				yaml_emit_file("tree.yml",$treedb);
 				$gobaldb = $arr['gobaldb'];
-    			break;						
+    			break;	
+    		case strstr($file, "music.yml"):
+    			echo "found music.yml :)\n";
+    			$arr = music_levels($treedb,$gobaldb);
+				$treedb = $arr['treedb'];
+				yaml_emit_file("tree.yml",$treedb);
+				$gobaldb = $arr['gobaldb'];	
+    			break;				
 					}
 	}
-
-// tv_movies -------------------------------------------------------------------------------
-function tv_movies_levels($treedb,$gobaldb) {
-	$database = yaml_parse_file ( "tv_movies.yml" );
-
-	
-	foreach ($database['genre'] as $genre) {
-		$tmp_lvl2['url'] = "/mindmap/".$database['id']."/".$genre['id']."/";
-		$tmp_lvl2['name'] = $genre['name'];
-		$tmp_lvl2['id'] = $genre['id'];
-		foreach ($genre['shows'] as $shows) {
-				$tmp_lvl3['url']="/mindmap/".$database['id']."/".$genre['id']."/".$shows['id'].'.html';
-				$tmp_lvl3['name'] = $shows['name'];
-				$tmp_lvl3['id'] = $shows['id'];
-				$arr[] = $tmp_lvl3;
-				}
-	
-		$tmp_lvl2['level3'] =$arr;
-		unset ($arr);
-		$tp_lvl1[] =  $tmp_lvl2; 
-		}
-
-
-	$tmp_lvl1 = array ("name"=>$database['name'],"id"=>$database['id'],"url"=>"/mindmap/".$database['id']."/", "level2" => $tp_lvl1  );
-	
-	$treedb['level1'][] = $tmp_lvl1;
-	$gobaldb['level1'][] = $database;
-	
-	$ret = ["treedb"=>$treedb,"gobaldb"=>$gobaldb];
-	return $ret;
-}
-// -----------------------------------------------------------------------------------------
-// -----------------------------------------------------------------------------------------
-function array2tree($treedb,$gobaldb,$rootpath) {
-
-	chdir($rootpath);
-	$frontmatter = array (
-		'title'=>'Mindmap',
-		'categories'=>'null',
-		'permalink'=>'/mindmap/',
-		'parent'=>'null',
-		'layout'=>'mindmap_index',
-		'pagination'=> array('enabled'=>'true',
-  'collection'=>'top')
-						 );
-	$contents = "";
-	$filename = $rootpath."/index.md";
-	$result = makepage($frontmatter,$filename,$contents);
-	$treedb['result'] = $result;
-
-
-	foreach ($treedb['level1'] as $value) {
-	echo "level 1 loop\n";//$parent = $pparent;	
-		echo yaml_emit($value);
-			$frontmatter = array (
-		'title'=>$value['name'],
-		'permalink'=>$value['url'],
-		'categories'=> 'top',
-		'parent'=>'top',
-		'layout'=>'mindmap_index',
-		'pagination'=> array(
-							'collection'=>'mindmap',
-							'category'=>$value['id'],
-							'enabled'=>'true',
-							'extension'=>'html',
-							'indexpage'=>'index')
-						 );
-		$filename =$rootpath."/".$value['id'].".md";
-		$contents ="";
-		$result = makepage($frontmatter,$filename,$contents);
-		$pparent = $value['id'];
-		foreach ($value['level2'] as $value) {
-			$parent = $pparent;
-			echo "level 2 loop\n";
-			echo yaml_emit($value);
-			$frontmatter = array (
-		'title'=>$value['name'],
-		'permalink'=>$value['url'],
-		'categories'=>$parent,
-		'parent'=>$parent,
-		'layout'=>'mindmap_index',
-				'pagination'=> array(
-							'collection'=>'mindmap',
-							'category'=>$value['id'],
-							'enabled'=>'true',
-							'extension'=>'html',
-							'indexpage'=>'index')
-						 );
-			$filename =$rootpath."/".$value['id'].".md";
-			$contents ="";
-			$result = makepage($frontmatter,$filename,$contents);
-					$parent = $value['id'];
-			foreach ($value['level3'] as $value) {
-				echo "level 3 loop\n";
-				echo yaml_emit($value);
-$frontmatter = array (
-		'title'=>$value['name'],
-		'permalink'=>$value['url'],
-		'categories'=>$parent,
-		'parent'=>$parent,
-		'layout'=>'mindmap_page');
-				$filename =$rootpath."/".$value['id'].".md";
-				$contents ="";
-				$result = makepage($frontmatter,$filename,$contents);
-
-			}
-		}
-	}
-
-
-
-
-
-	return $treedb;
-}
-// -----------------------------------------------------------------------------------------
-// -----------------------------------------------------------------------------------------
-function makepage($frontmatter,$filename,$contents) {
-echo "entering makepage(\n";
-echo yaml_emit($frontmatter);
-echo "filename:".$filename."\n";
-echo "contents:".$contents."\n";
-echo "\n)...\n";
-				$frontmatter = yaml_emit ($frontmatter);
-				$frontmatter = str_ireplace("...","---",$frontmatter);
-				$mdfile = fopen($filename, "w");
-				fwrite($mdfile, $frontmatter);
-				fwrite($mdfile, $contents);
-				fclose($mdfile);
-				echo "leaving makepage()\n";
-	return 0;
-}
-// -----------------------------------------------------------------------------------------
-// -----------------------------------------------------------------------------------------
-$path = getcwd();
-echo $path."\n";
-$arr = tv_movies_levels($treedb,$gobaldb);
-$treedb = $arr['treedb'];
-$gobaldb = $arr['gobaldb'];
-
-$treedb = array2tree($treedb,$gobaldb,$path);
-//print_r($treedb);
-//echo yaml_emit($treedb);
+	array2tree($treedb,$gobaldb,$path);
+yaml_emit_file("tree.yml",$treedb);
 //echo yaml_emit($gobaldb);
+
 ?>

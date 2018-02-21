@@ -1,14 +1,18 @@
 {
+	"items": [{
   "type": ["h-entry"],
   "properties": {
-    "content": "",
+			"content": [{
+				"html": "",
+				"value": ""
+			}],
 "syndication": [
 			"https://www.facebook.com/tom.sparks.106/posts/780738528758459"	
 			],
-		"published":"Thursday, December 29, 2016 at 5:44am",
-		"like-of": "https://www.techdirt.com/articles/20161225/22534736346/i-thought-piracy-was-killing-entertainment-new-record-scripted-shows-2016.shtml"
+		"published":["Thursday, December 29, 2016 at 5:44am"],
+		"like-of": ["https://www.techdirt.com/articles/20161225/22534736346/i-thought-piracy-was-killing-entertainment-new-record-scripted-shows-2016.shtml"]
   }
-}
 
+}]}
 
 

@@ -1,10 +1,18 @@
 ---
-title: Mindmap
-categories: "null"
-permalink: /mindmap/
-parent: "null"
+title: Tom Sparks
+permalink: /mindmap/index.html
 layout: mindmap_index
-pagination:
-  enabled: "true"
-  collection: top
+links:
+- title: Music
+  id: music
+  url: /mindmap/music/index.html
+- title: TV series & Movies
+  id: tv_movies
+  url: /mindmap/tv_movies/index.html
+breadcrumbs:
+- title: website
+  url: /
+- title: mindmap
+  url: /mindmap/
+function: array2tree
 ---

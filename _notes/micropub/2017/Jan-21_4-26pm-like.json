@@ -1,12 +1,16 @@
 {
-  "type": ["h-entry"],
-  "properties": {
-    "content": "",
-"syndication": [
-			"https://www.facebook.com/tom.sparks.106/posts/793391387493173"	
+	"items": [{
+		"type": ["h-entry"],
+		"properties": {
+			"content": [{
+				"html": "",
+				"value": ""
+			}],
+			"syndication": [
+				"https://www.facebook.com/tom.sparks.106/posts/793391387493173"
 			],
-		"published":"2017-01-21 4:26pm",
-		"like-of": "https://arstechnica.com/tech-policy/2017/01/op-ed-how-i-turned-a-traffic-ticket-into-the-constitutional-trial-of-the-century/"
-  }
+			"published": ["2017-01-21 4:26pm"],
+			"like-of": ["https://arstechnica.com/tech-policy/2017/01/op-ed-how-i-turned-a-traffic-ticket-into-the-constitutional-trial-of-the-century/"]
+		}
+	}]
 }
-
