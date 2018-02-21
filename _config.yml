@@ -272,7 +272,7 @@ webmentions:
     last_year:  daily
     older:      daily
   legacy_domains:
-    https://tomasparks.github.io/
+    - https://tomasparks.github.io/
   templates:
     count: _includes/webmentions/count.html
     likes: _includes/webmentions/likes.html
