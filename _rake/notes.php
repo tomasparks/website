@@ -78,7 +78,7 @@ function create_notes($data,$logfile, $WM_recv) {
 				}
 				
 				$md_array['permalink'] ="/notes/".$data['type']."/".$permdate."/".$hash.".html";
-				$md_array['redirect_from'][] = "/sl/n/".$hash.".html";
+				$md_array['redirect_from'][] = "/sl/n/".date("YmdHisu", strtotime($data['date'])).".html";
 				
    	//if (isset($note['tags']) && is_array($note['tags'])) {				
 		//		 $tag_array = $note['tags'];
