@@ -8,7 +8,12 @@ require_once './goodreads-api/GoodReads.php';
 date_default_timezone_set('Australia/Brisbane');
 use Ramonztro\SimpleScraper\SimpleScraper;
 	
-	
+function cleanstring($string) {
+   $string = str_replace(' ', '-', $string); // Replaces all spaces with hyphens.
+   $string = preg_replace('/[^A-Za-z0-9\-]/', '', $string); // Removes special chars.
+
+   return preg_replace('/-+/', '-', $string); // Replaces multiple hyphens with single one.
+}	
 
 function create_notes($data,$logfile, $WM_recv) {
 
@@ -121,7 +126,7 @@ function create_notes($data,$logfile, $WM_recv) {
 				$md_array['music-album'] = $tag_array['album'];
 				$md_array['music-play-count'] = $tag_array['play-count'];
 				$md_array['title'] = "🎧 Listened to ".$md_array['music-title']."(".$md_array['music-album'].") By ".$md_array['music-artist'];  
-				$md_array['permalink'] ="/notes/".$note['type']."/".urlencode($tag_array['artist'])."/".urlencode($tag_array['album'])."/".$hash.".html";
+				$md_array['permalink'] ="/notes/".$note['type']."/".cleanstring($tag_array['artist'])."/".cleanstring($tag_array['album'])."/".$hash.".html";
 				break;
 // #####################################################################################################################################
 			case "photo":
