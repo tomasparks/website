@@ -81,7 +81,7 @@ include 'cassis.php';
 				$md_array['permalink'] ="/notes/".$note['type']."/".$permdate."/".$hash.".html";
 				$md_array['redirect_from'][] = "/sl/n/".$note['type'][0]."/d".date("YmdHis", strtotime($note['date'])).".html";
 				$md_array['redirect_from'][] = "/sl/n/".$note['type'][0]."/h".$hash.".html";
-				$md_array['redirect_from'][] = "/sl/n/".$note['type'][0]."/".num_to_sxg(date("YmdHis", strtotime($note['date']))).".html"
+				$md_array['redirect_from'][] = "/sl/n/".$note['type'][0]."/".num_to_sxg(date("YmdHis", strtotime($note['date']))).".html";
 				
    	//if (isset($note['tags']) && is_array($note['tags'])) {				
 		//		 $tag_array = $note['tags'];
