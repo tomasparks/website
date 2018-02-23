@@ -22,6 +22,7 @@ class ComposerStaticInit6cf65a63cfb5d1123c64bebe7349e0e7
         '75114ff88d0fe0413bbfd961d51cb0e3' => __DIR__ . '/..' . '/barnabywalters/mf-cleaner/src/BarnabyWalters/Mf2/Functions.php',
         '7cfc14352f9ec19b570c834b9432e17b' => __DIR__ . '/..' . '/p3k/xray/lib/helpers.php',
         'e21c794fce41555f3f3cce0c7b13e48e' => __DIR__ . '/..' . '/p3k/xray/lib/XRay.php',
+        'c7225ffa6a359476227689dd2f988d0a' => __DIR__ . '/..' . '/tantek/cassis/cassis.php',
     );
 
     public static $prefixLengthsPsr4 = array (

@@ -2185,6 +2185,31 @@
         "homepage": "https://symfony.com"
     },
     {
+        "name": "tantek/cassis",
+        "version": "v0.2.16895",
+        "version_normalized": "0.2.16895.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/tantek/cassis.git",
+            "reference": "357e30ad12017b4d67cac5f4400e8f371cd2f504"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/tantek/cassis/zipball/357e30ad12017b4d67cac5f4400e8f371cd2f504",
+            "reference": "357e30ad12017b4d67cac5f4400e8f371cd2f504",
+            "shasum": ""
+        },
+        "time": "2016-04-04T15:31:04+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "files": [
+                "cassis.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/"
+    },
+    {
         "name": "zendframework/zendxml",
         "version": "1.0.2",
         "version_normalized": "1.0.2.0",

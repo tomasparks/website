@@ -78,8 +78,8 @@ function create_notes($data,$logfile, $WM_recv) {
 				}
 				
 				$md_array['permalink'] ="/notes/".$data['type']."/".$permdate."/".$hash.".html";
-				$md_array['redirect_from'][] = "/sl/n/d.".date("Y.m.d.H.i.s", strtotime($data['date'])).".html";
-				$md_array['redirect_from'][] = "/sl/n/h.".$hash.".html";
+				$md_array['redirect_from'][] = "/sl/n/".$data['type'][0]."/d".date("YmdHis", strtotime($data['date'])).".html";
+				$md_array['redirect_from'][] = "/sl/n/".$data['type'][0]."/h.".$hash.".html";
 				
    	//if (isset($note['tags']) && is_array($note['tags'])) {				
 		//		 $tag_array = $note['tags'];
