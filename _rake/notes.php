@@ -221,7 +221,7 @@ function create_notes($data,$logfile, $WM_recv) {
 			
 // #####################################################################################################################################
 			default:
-								$md_array['title'] = $permdate." ".$note['type'];  
+				$md_array['title'] = $permdate." ".$note['type'];  
 				$md_array['permalink'] ="/notes/".$note['type']."/".$permdate."/".$hash.".html";
 				break;
 				
@@ -578,13 +578,15 @@ foreach ($notes_dir as $dir) {
     					create_notes($data, $logfile);
 						break;
 						*/
-					case strstr($file, "json"):
+						
+					/*case strstr($file, "json"):
     					//echo $file." json file\n";
     					fwrite($logfile,$file." json file :) \n");
     					$data = json_parse_file ( $file, $logfile );
 
     					$WM_recv[] = create_notes($data, $logfile,$WM_recv);
-						break;						
+						break;
+						*/						
 					}
 			}
 	}
