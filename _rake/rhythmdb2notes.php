@@ -10,6 +10,36 @@ if (file_exists('/home/tom/.local/share/rhythmbox/rhythmdb.xml')) {
 		chdir($notes_path);
 
 
+for ($year = 2000; $year <= 2020; $year++) {
+	chdir($notes_path."/local/".$year."/");
+	for ($moth = 1; $month <= 12; $month++) {
+		$db[$year][$moth] =	yaml_parse_file ( "r".$month.".yml"; );
+                  		}
+				} 
+
+
+
+	foreach ($db as $ykey => $year){
+    	if(is_array($year))	{
+    		echo "year == is_array true\n";
+    		print_r($ykey);
+    		echo "\n";
+  			foreach ( $year as $mkey => $month)	{
+           		 if(is_array($month)){
+                	echo "month == is_array true\n";
+    		print_r($month);
+    		echo "\n";
+                    echo yaml_emit($month)."\n";
+                  		mkdir($notes_path."/local/".$ykey."/", 0755, true);
+                  		chdir($notes_path."/local/".$ykey."/");
+                  		yaml_emit_file ("r".$mkey.".yml" , $month);   
+            }
+           
+       }
+}
+}
+
+
 	foreach ($xml as $value){
 		echo "-----\n";
 		$json = json_encode($value);
