@@ -56,7 +56,7 @@ collections:
      permalink: /projects/alt-dtn/ebook/:slug.html
    notes:
      output: true
-     permalink: /notes/:path/
+     permalink: /notes/
    mindmap:
      output: true
 #    permalink: /mindmap/:path/
