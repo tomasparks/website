@@ -114,7 +114,7 @@ function create_notes($data,$logfile, $WM_recv) {
 				$categories_array[] = $tag_array['title'];
 				$categories_array[] = $tag_array['artist'];
 				$categories_array[] = $tag_array['album'];
-				
+				$md_array['hidden'] = "true";
 				$md_array['music-title'] = $tag_array['title'];
 				$md_array['music-artist'] = $tag_array['artist'];
 				$md_array['music-album'] = $tag_array['album'];
@@ -562,14 +562,14 @@ foreach ($notes_dir as $dir) {
     					fwrite($logfile,$file." skipping temp file\n");
     					continue 2;
     					
-					/*case strstr($file, "yml"):
+					case strstr($file, "yml"):
     					//echo $file."yml file\n";
     					fwrite($logfile,$file." yml file :) \n");
     					$data = yaml_parse_file ( $file );
 						//fwrite($logfile,"\n-------------------\n".json_encode($data)."\n-------------------\n");
     					create_notes($data, $logfile);
     					break;
-					case strstr($file, "csv"):
+					/*case strstr($file, "csv"):
     					//echo $file." CSV file\n";
     					fwrite($logfile,$file." csv file :) \n");
     					$data = csv_parse_file ( $file, $logfile );
