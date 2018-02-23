@@ -13,7 +13,7 @@ if (file_exists('/home/tom/.local/share/rhythmbox/rhythmdb.xml')) {
 for ($year = 2000; $year <= 2020; $year++) {
 	chdir($notes_path."/local/".$year."/");
 	for ($moth = 1; $month <= 12; $month++) {
-		$db[$year][$moth] =	yaml_parse_file ( "r".$month.".yml"; );
+		$db[$year][$moth] =	yaml_parse_file ("r".$month.".yml");
                   		}
 				} 
 
