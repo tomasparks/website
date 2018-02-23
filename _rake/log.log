@@ -6,9 +6,4257 @@ local
 .
 ..
 2017
-[".","..","10.yml","r10.yml","r12.yml"]
+[".","..","0195072f691bf4981cb4ac35c256515df82ea0f2.md","044f60b1bdaece80fd7f255afda5c2ae0e44fb86.md","0c969032a3c18541b4f93bfff9d35af8af899abd.md","0d986e407948f32802be70c84933e2a6372b0b6e.md","0ecce6911d22a734c84f2a5b5ddd28432e3baaa9.md","10.yml","153aa1babd2af567427b0b8b0bbaecaf11697ee5.md","15ae65f22cfa91eca3d10bb2aaeee889c5198b67.md","15b4257b04c59034491e6290fa8e5b21dcfe63b4.md","191a2462c02acf36b2fb300fb024c1cbc86e3a1e.md","1d69dae1d3aa09e867df7cfa57b524e38e928a47.md","1eeff7f60b5dc5b92e410572693221d01efdca4e.md","201a0ffeac449bd33e380b973eb87bf58c8d59fe.md","2023b46aea7c1e5a949c6320af05b76cbccc2600.md","248d02ebb45d00abcfe6bcfad2f54260361ef161.md","31eb323ec659c8b2271516acfee393adc2c02087.md","3244e848c269ee0a1430c1ea2e9af7ad2f18b12e.md","39175e5343ae0762e99f7fdddf23d93f8cbd8f07.md","3b9891fe73e31fa83e2b9635543ff00d64dece24.md","3e2c862d0448360d781503fb1a6d5a433852c5f3.md","40c0460188b4cb7a5bd2b3bddf3e7b4dfb0903b1.md","4196040fe1751563f1362a227455650363e1d778.md","4608fb47197984e1b68f4d8a928c92cbeab87eaf.md","4639e3060c548d1edc95e6f1b58d6336d3805cfc.md","490d178e3ced6af422737f249065c03abb520d04.md","4a07507696734e97c68b316089ec7821971cc003.md","4c209c056c02aa5ac255a6b577ba55967bf8afa3.md","4cb079b6b22fa479a5d874d0bc88b7dd24f4a986.md","4d685f533d548318f9fe819e85677e304571f62f.md","4d7d439997a62816e8fe88bf1294e5814d8bd8e1.md","540e827cb8efa03051f4cbd421034cb031f9422e.md","5753bf88be8ea853963ad422f384eb66222bd66c.md","59877a033a01afab989cd397a5a48e669ee7eaa7.md","5a0e202adcf75d790e216b3dbeb14653da206424.md","5d4117e3f3cac3fc4abc5b6ac9f72156fc70f23b.md","5d4dc6e95ebb27b07ce251979bbc030138378588.md","63b3d802a6ee6de8073bac0c4b62046d6213604e.md","66c3bef4cfab58261c7f111a92a5e9c22a6e61a4.md","68a83ca7bf2d21be20e7a44b6e97e7aad3bae399.md","6ad48391ed49941eba76bd630e37af2fdd141627.md","6b874c2d661ea78b9d96708deebd016468333457.md","6bf3cba8ec44194b8842cbe51809fc38d609bbc3.md","6c2470ab2d76793c29a983c9a4f4d8d7b4513e3d.md","6f7483089375de3dceda1bd486af4bf3713262b8.md","702fb57bff58cf9b2e3091ebb0080ae86710280c.md","70d8bf3e87cf5094f1a63f6a52a24a0e006ba01d.md","72783b21a100daade68822cb26a153b93d0d772d.md","731fc41172cd790e0b277b326341620cd91f56b2.md","73a035f49c65ffeadcb4d1c91d4a542859a1290a.md","7580ecc6d364baca443aec229eb2898e388d9e72.md","797ddcf4f20223f6f408ee915ce4a218ede0aa89.md","7baeca8f04857ce31468c779e36b198d6ad59f19.md","800bd9f832024f36ecf3173b7f86d0a8d9a9ef48.md","85917a1f1c55c432529771871ef49c3d046e9de2.md","860531522f57599c53c2ff1697be6931b955a4c4.md","88e42532cf5207558e32779ae0e09338f9673d44.md","8b89844e60319c4463d70c7b877a24ea82be7d41.md","8bc093502a3deadb353e8a11aac90d7c3696ca34.md","8fc8f7384c4c25fa44b52d01de21a8fd51df1afc.md","96abc06e797df7c2977d73c1598cd0b4e7361b7b.md","98a6184ff0b1acf8d8966299b4990b9eb74c54ca.md","98e7157b498eda676ffe59a8a8f47597c2e088e5.md","9937067c609f61fe450a253996387684a5f0d665.md","9fc44d50408617d7ab174c8818811739a39b402d.md","a11540bb6a025fc46b6e07e3514f9b208a5e043e.md","a2cc31056cf6ed14b19d66c6dcde6fdbfa9ae198.md","a5a5890b16e3d651989dbe2298fb586e360fc8f2.md","a661e6733acad6c61241db9786db90e4678df7bb.md","a72e83d64aaeeb546146c1e3c0971583325d7a3a.md","aab792bc89c264dc568eec94afa15f572bc2963b.md","ad1ab12df30c5a8bcf3389670d92354a7d217d68.md","b0169e733fe05962ae5a05e56af902cd7a2a5699.md","b466698adaf68a93624b93dc31760d11918dd88f.md","b85ed8465c1c447ed715afe0850a825bde205e4c.md","bcc79f71f865aa4e4cddced88210b5d834da0f29.md","be8d4fc634a3a64d92878eadf455d4231539f499.md","c08d14043ec933f4892fe01a3b45d1d9ed30d409.md","c0b085fde140f17d446c363c528c6a57e40f961d.md","c2f02119b6f7cb49a3afa1dba4dd6e8bc075a759.md","c3ee43cc082ed9840ae6130b54a14ebeef37a349.md","c4c8f3b776ef3442c68af20e1d82b7340c8fafb7.md","c5de847890bab513615354c39ef4f968e12f4386.md","cc293059f56fd4864643be33fc0d6be73582fd03.md","cd1e2fd6a48dd6c87975b95131c1825f171e5078.md","cf994438277ce4c12314cd35562a5f31b202f4de.md","d67dcf849358451ecb615c6a38dcb40ccc954c2d.md","e1adce6534bc1f23470f6b823992911928376af3.md","e2c03a5d98e8cfcc4d7a8b996a64a4bb0ef5c6cd.md","e2cbfb403910b00610d03ec7f9629a7b64932d16.md","e360ee00c2c3a8cb51b3b2ea0203da61c8fe9222.md","e4b9f1eecd911391e678afe8e9a8fd071c718e27.md","e648304f024581952c570abced2801f85e6c7656.md","e65b26e49605eecc3743b117e0d070fe1c711a12.md","e9b494c949d9263163a46b2ca57f53946ce9abc0.md","ec18fbd0ad13324da5e595351eef53a50e08b9fb.md","edb67bfb21bc98c0d6ee6ef0844fdcdde118091e.md","f0208a69131bca7ccc448cf7226312348748c4dc.md","f45409707c447fb2976af5a79420152d75cd45b5.md","f4eabdeeddce7170272138871cc9bce2c0898711.md","f94f9c0b4569fba75c970d09dc4fce5b7112d651.md","r10.yml","r12.yml"]
+0195072f691bf4981cb4ac35c256515df82ea0f2.md skipping md file
+044f60b1bdaece80fd7f255afda5c2ae0e44fb86.md skipping md file
+0c969032a3c18541b4f93bfff9d35af8af899abd.md skipping md file
+0d986e407948f32802be70c84933e2a6372b0b6e.md skipping md file
+0ecce6911d22a734c84f2a5b5ddd28432e3baaa9.md skipping md file
+Found 10.ymlyml file :) 
+
+-----S-CONTENTS-------------
+---
+- date: "2017-10-19"
+  type: twitter
+  message: 'I''ve been watching Donald Trump and ''little rocket man'' Kim Jong-un
+    and it reminds me of [Team America: World Police](https://en.wikipedia.org/wiki/Team_America:_World_Police)'
+- date: "2017-10-19"
+  type: like
+  url: https://www.youtube.com/watch?v=avJ_DfAQtMY
+- date: "2017-10-19"
+  type: like
+  url: https://www.youtube.com/watch?v=KusOw4bSZwc
+- date: "2017-10-19"
+  type: like
+  url: https://www.youtube.com/watch?v=_u4fcaXXhUc
+- date: "2017-10-19"
+  type: like
+  url: https://www.youtube.com/watch?v=nICWXlssFQ8
+- date: "2017-10-19"
+  type: like
+  url: https://www.youtube.com/watch?v=D4ZDrO3fV8A
+- date: "2017-10-19"
+  type: like
+  url: https://www.youtube.com/watch?v=FA_8lAK9Wc4
+- date: "2017-10-19"
+  type: like
+  url: https://www.youtube.com/watch?v=qO7dslkMbF0
+- date: "2017-10-20"
+  type: like
+  url: https://www.youtube.com/watch?v=njw8VLTCvkM
+- date: "2017-10-20"
+  type: like
+  url: https://www.youtube.com/watch?v=JO1_pW666cY
+- date: "2017-10-20"
+  type: like
+  url: https://www.youtube.com/watch?v=_LhAt0nWbSw
+- date: "2017-10-20"
+  type: like
+  url: https://www.backblaze.com/blog/400-petabytes-cloud-storage/
+- date: "2017-10-20"
+  type: like
+  url: https://www.youtube.com/watch?v=bS9hiSwL1KY
+- date: "2017-10-20"
+  type: like
+  url: https://www.youtube.com/playlist?list=PLbBZM9aUMsjEVZPCDMl-lXOx50rSBNFQC
+- date: "2017-10-22"
+  type: like
+  url: https://www.youtube.com/watch?v=P9VCh15v778
+- date: "2017-10-25"
+  type: twitter
+  message: shit, It been a year since the [Thunder River Rapids Ride](https://en.wikipedia.org/wiki/Thunder_River_Rapids_Ride#2016_incident_and_closure),
+    time flys
+- date: "2017-10-22"
+  type: like
+  url: https://www.youtube.com/watch?v=DYnsoA91H4o
+- date: "2017-10-22"
+  type: like
+  url: https://www.youtube.com/watch?v=yq2_twmccxk
+- date: "2017-10-22"
+  type: like
+  url: https://www.youtube.com/watch?v=SAVGHWyeEYA
+- date: "2017-10-22"
+  type: like
+  url: https://www.youtube.com/watch?v=CpOswwPLb2c
+- date: "2017-10-22"
+  type: like
+  url: https://www.youtube.com/watch?v=kDBYUdAmXQk
+- date: "2017-10-23"
+  type: like
+  url: https://www.youtube.com/watch?v=aSRDWcEm1GA
+...
+
+-----E-CONTENTS-------------
+
+--------------------
+hash: 5d4dc6e95ebb27b07ce251979bbc030138378588
+json_encode: {"date":"2017-10-19","type":"twitter","message":"I've been watching Donald Trump and 'little rocket man' Kim Jong-un and it reminds me of [Team America: World Police](https:\/\/en.wikipedia.org\/wiki\/Team_America:_World_Police)"}
+--------------------
+
+---
+layout: notes_twitter
+date: "2017-10-19T00:00:00+10:00"
+type: twitter
+permalink: /notes/twitter/2017/10/19/5d4dc6e95ebb27b07ce251979bbc030138378588.html
+redirect_from:
+- /sl/n/t/d20171019000000.html
+- /sl/n/t/h.5d4dc6e95ebb27b07ce251979bbc030138378588.html
+title: 'twitted: 5d4dc6e95ebb27b07ce251979bbc030138378588'
+categories:
+- twitter
+- October
+- 2017
+- 19
+---
+
+
+--------------------
+hash: 4196040fe1751563f1362a227455650363e1d778
+json_encode: {"date":"2017-10-19","type":"like","url":"https:\/\/www.youtube.com\/watch?v=avJ_DfAQtMY"}
+--------------------
+
+---
+layout: notes_like
+date: "2017-10-19T00:00:00+10:00"
+type: like
+permalink: /notes/like/youtube.com/2017/10/19/4196040fe1751563f1362a227455650363e1d778.html
+redirect_from:
+- /sl/n/l/d20171019000000.html
+- /sl/n/l/h.4196040fe1751563f1362a227455650363e1d778.html
+mf:
+  items: []
+  rels: []
+ext:
+  url: https://www.youtube.com/watch?v=avJ_DfAQtMY
+  title: Adam Ruins Everything - The True Story of The War of the Worlds | truTV
+  description: The story of the radio program that panicked the nation has been told
+    for decades, but there is little evidence it even happened. SUBSCRIBE to get the
+    latest---
+  image_url: https://i.ytimg.com/vi/avJ_DfAQtMY/maxresdefault.jpg
+  image_width: ~
+  image_height: ~
+title: Liked a page on youtube.com
+categories:
+- like
+- October
+- 2017
+- 19
+- youtube.com
+---
+
+
+--------------------
+hash: 6c2470ab2d76793c29a983c9a4f4d8d7b4513e3d
+json_encode: {"date":"2017-10-19","type":"like","url":"https:\/\/www.youtube.com\/watch?v=KusOw4bSZwc"}
+--------------------
+
+---
+layout: notes_like
+date: "2017-10-19T00:00:00+10:00"
+type: like
+permalink: /notes/like/youtube.com/2017/10/19/6c2470ab2d76793c29a983c9a4f4d8d7b4513e3d.html
+redirect_from:
+- /sl/n/l/d20171019000000.html
+- /sl/n/l/h.6c2470ab2d76793c29a983c9a4f4d8d7b4513e3d.html
+mf:
+  items: []
+  rels: []
+ext:
+  url: https://www.youtube.com/watch?v=KusOw4bSZwc
+  title: 'Defunctland: The History of Back to the Future: The Ride'
+  description: 'Donate on Patreon: https://www.patreon.com/Defunctland Join the Defunctland
+    Subreddit: https://www.reddit.com/r/Defunctland/ Go here for more info: https://d---'
+  image_url: https://i.ytimg.com/vi/KusOw4bSZwc/maxresdefault.jpg
+  image_width: ~
+  image_height: ~
+title: Liked a page on youtube.com
+categories:
+- like
+- October
+- 2017
+- 19
+- youtube.com
+---
+
+
+--------------------
+hash: a5a5890b16e3d651989dbe2298fb586e360fc8f2
+json_encode: {"date":"2017-10-19","type":"like","url":"https:\/\/www.youtube.com\/watch?v=_u4fcaXXhUc"}
+--------------------
+
+---
+layout: notes_like
+date: "2017-10-19T00:00:00+10:00"
+type: like
+permalink: /notes/like/youtube.com/2017/10/19/a5a5890b16e3d651989dbe2298fb586e360fc8f2.html
+redirect_from:
+- /sl/n/l/d20171019000000.html
+- /sl/n/l/h.a5a5890b16e3d651989dbe2298fb586e360fc8f2.html
+mf:
+  items: []
+  rels: []
+ext:
+  url: https://www.youtube.com/watch?v=_u4fcaXXhUc
+  title: 'Defunctland: The History of Earthquake: The Big One and Disaster!'
+  description: 'Twitter: twitter.com/kevinperjurer Donate on Patreon: patreon.com/defunctland
+    Facebook Group: https://www.facebook.com/Defunctland-1142494142561537/ In this
+    ---'
+  image_url: https://i.ytimg.com/vi/_u4fcaXXhUc/maxresdefault.jpg
+  image_width: ~
+  image_height: ~
+title: Liked a page on youtube.com
+categories:
+- like
+- October
+- 2017
+- 19
+- youtube.com
+---
+
+
+--------------------
+hash: 85917a1f1c55c432529771871ef49c3d046e9de2
+json_encode: {"date":"2017-10-19","type":"like","url":"https:\/\/www.youtube.com\/watch?v=nICWXlssFQ8"}
+--------------------
+
+---
+layout: notes_like
+date: "2017-10-19T00:00:00+10:00"
+type: like
+permalink: /notes/like/youtube.com/2017/10/19/85917a1f1c55c432529771871ef49c3d046e9de2.html
+redirect_from:
+- /sl/n/l/d20171019000000.html
+- /sl/n/l/h.85917a1f1c55c432529771871ef49c3d046e9de2.html
+mf:
+  items: []
+  rels: []
+ext:
+  url: https://www.youtube.com/watch?v=nICWXlssFQ8
+  title: 'Defunctland: The History of 20,000 Leagues Under the Sea: Submarine Voyage
+    (Part 1 of 2)'
+  description: 'DONATE ON PATREON: https://www.patreon.com/Defunctland Go here for
+    more info: https://defunctland.com/2017/07/13/defunctland-20000-leagues-under-the-sea-subm---'
+  image_url: https://i.ytimg.com/vi/nICWXlssFQ8/maxresdefault.jpg
+  image_width: ~
+  image_height: ~
+title: Liked a page on youtube.com
+categories:
+- like
+- October
+- 2017
+- 19
+- youtube.com
+---
+
+
+--------------------
+hash: 66c3bef4cfab58261c7f111a92a5e9c22a6e61a4
+json_encode: {"date":"2017-10-19","type":"like","url":"https:\/\/www.youtube.com\/watch?v=D4ZDrO3fV8A"}
+--------------------
+
+---
+layout: notes_like
+date: "2017-10-19T00:00:00+10:00"
+type: like
+permalink: /notes/like/youtube.com/2017/10/19/66c3bef4cfab58261c7f111a92a5e9c22a6e61a4.html
+redirect_from:
+- /sl/n/l/d20171019000000.html
+- /sl/n/l/h.66c3bef4cfab58261c7f111a92a5e9c22a6e61a4.html
+mf:
+  items: []
+  rels: []
+ext:
+  url: https://www.youtube.com/watch?v=D4ZDrO3fV8A
+  title: 'Defunctland: The History of 20,000 Leagues Under the Sea: Submarine Voyage
+    (Part 2 of 2)'
+  description: 'DONATE ON PATREON: https://www.patreon.com/Defunctland Join the Defunctland
+    Facebook Group: https://www.facebook.com/Defunctland-1142494142561537/ Go here
+    fo---'
+  image_url: https://i.ytimg.com/vi/D4ZDrO3fV8A/maxresdefault.jpg
+  image_width: ~
+  image_height: ~
+title: Liked a page on youtube.com
+categories:
+- like
+- October
+- 2017
+- 19
+- youtube.com
+---
+
+
+--------------------
+hash: 70d8bf3e87cf5094f1a63f6a52a24a0e006ba01d
+json_encode: {"date":"2017-10-19","type":"like","url":"https:\/\/www.youtube.com\/watch?v=FA_8lAK9Wc4"}
+--------------------
+
+---
+layout: notes_like
+date: "2017-10-19T00:00:00+10:00"
+type: like
+permalink: /notes/like/youtube.com/2017/10/19/70d8bf3e87cf5094f1a63f6a52a24a0e006ba01d.html
+redirect_from:
+- /sl/n/l/d20171019000000.html
+- /sl/n/l/h.70d8bf3e87cf5094f1a63f6a52a24a0e006ba01d.html
+mf:
+  items: []
+  rels: []
+ext:
+  url: https://www.youtube.com/watch?v=FA_8lAK9Wc4
+  title: 5 Broken and Abandoned Disney Park Attraction Effects
+  description: 'SUPPORT!: https://www.patreon.com/Yester_World SHOP!: https://www.shop.spreadshirt.com/YesterworldEntertainment
+    TWITTER: @Yester_World INSTAGRAM: yester_worl---'
+  image_url: https://i.ytimg.com/vi/FA_8lAK9Wc4/maxresdefault.jpg
+  image_width: ~
+  image_height: ~
+title: Liked a page on youtube.com
+categories:
+- like
+- October
+- 2017
+- 19
+- youtube.com
+---
+
+
+--------------------
+hash: c5de847890bab513615354c39ef4f968e12f4386
+json_encode: {"date":"2017-10-19","type":"like","url":"https:\/\/www.youtube.com\/watch?v=qO7dslkMbF0"}
+--------------------
+
+---
+layout: notes_like
+date: "2017-10-19T00:00:00+10:00"
+type: like
+permalink: /notes/like/youtube.com/2017/10/19/c5de847890bab513615354c39ef4f968e12f4386.html
+redirect_from:
+- /sl/n/l/d20171019000000.html
+- /sl/n/l/h.c5de847890bab513615354c39ef4f968e12f4386.html
+mf:
+  items: []
+  rels: []
+ext:
+  url: https://www.youtube.com/watch?v=qO7dslkMbF0
+  title: 'Defunctland: The History of Jaws: The Ride'
+  description: 'Donate on Patreon: https://www.patreon.com/Defunctland Visit the Defunctland
+    Subreddit: https://www.reddit.com/r/Defunctland/ For more info go here: https://---'
+  image_url: https://i.ytimg.com/vi/qO7dslkMbF0/maxresdefault.jpg
+  image_width: ~
+  image_height: ~
+title: Liked a page on youtube.com
+categories:
+- like
+- October
+- 2017
+- 19
+- youtube.com
+---
+
+
+--------------------
+hash: 3b9891fe73e31fa83e2b9635543ff00d64dece24
+json_encode: {"date":"2017-10-20","type":"like","url":"https:\/\/www.youtube.com\/watch?v=njw8VLTCvkM"}
+--------------------
+
+---
+layout: notes_like
+date: "2017-10-20T00:00:00+10:00"
+type: like
+permalink: /notes/like/youtube.com/2017/10/20/3b9891fe73e31fa83e2b9635543ff00d64dece24.html
+redirect_from:
+- /sl/n/l/d20171020000000.html
+- /sl/n/l/h.3b9891fe73e31fa83e2b9635543ff00d64dece24.html
+mf:
+  items: []
+  rels: []
+ext:
+  url: https://www.youtube.com/watch?v=njw8VLTCvkM
+  title: "Top 10 Stupidest Ways Criminals Got Themselves Caught \xE2\x80\x94 TopTenzNet"
+  description: "\xE2\x86\x92Subscribe for new videos every day! http://bit.ly/toptenzsubscribe
+    \xE2\x86\x9210 Reasons Bruce Lee was a Superhuman: http://bit.ly/1Hl4mVu Entertaining
+    and educationa---"
+  image_url: https://i.ytimg.com/vi/njw8VLTCvkM/maxresdefault.jpg
+  image_width: ~
+  image_height: ~
+title: Liked a page on youtube.com
+categories:
+- like
+- October
+- 2017
+- 20
+- youtube.com
+---
+
+
+--------------------
+hash: 0195072f691bf4981cb4ac35c256515df82ea0f2
+json_encode: {"date":"2017-10-20","type":"like","url":"https:\/\/www.youtube.com\/watch?v=JO1_pW666cY"}
+--------------------
+
+---
+layout: notes_like
+date: "2017-10-20T00:00:00+10:00"
+type: like
+permalink: /notes/like/youtube.com/2017/10/20/0195072f691bf4981cb4ac35c256515df82ea0f2.html
+redirect_from:
+- /sl/n/l/d20171020000000.html
+- /sl/n/l/h.0195072f691bf4981cb4ac35c256515df82ea0f2.html
+mf:
+  items: []
+  rels: []
+ext:
+  url: https://www.youtube.com/watch?v=JO1_pW666cY
+  title: "Things AMERICANS Who\xE2\x80\x99ve Never Traveled Don\xE2\x80\x99t Know
+    About the World---"
+  description: "Polling shows 50% of Americans have never, ever been abroad. And while
+    that\xE2\x80\x99s easily done in a yuuuge country like the United States, it also
+    means half of a---"
+  image_url: https://i.ytimg.com/vi/JO1_pW666cY/maxresdefault.jpg
+  image_width: ~
+  image_height: ~
+title: Liked a page on youtube.com
+categories:
+- like
+- October
+- 2017
+- 20
+- youtube.com
+---
+
+
+--------------------
+hash: 153aa1babd2af567427b0b8b0bbaecaf11697ee5
+json_encode: {"date":"2017-10-20","type":"like","url":"https:\/\/www.youtube.com\/watch?v=_LhAt0nWbSw"}
+--------------------
+
+---
+layout: notes_like
+date: "2017-10-20T00:00:00+10:00"
+type: like
+permalink: /notes/like/youtube.com/2017/10/20/153aa1babd2af567427b0b8b0bbaecaf11697ee5.html
+redirect_from:
+- /sl/n/l/d20171020000000.html
+- /sl/n/l/h.153aa1babd2af567427b0b8b0bbaecaf11697ee5.html
+mf:
+  items: []
+  rels: []
+ext:
+  url: https://www.youtube.com/watch?v=_LhAt0nWbSw
+  title: Top 10 FAMOUS People Who DIDN'T EXIST
+  description: Thanks to urban legends, pranks, and the use of pseudonyms, there have
+    been a number of people who managed to get famous without having to go through
+    the has---
+  image_url: https://i.ytimg.com/vi/_LhAt0nWbSw/maxresdefault.jpg
+  image_width: ~
+  image_height: ~
+title: Liked a page on youtube.com
+categories:
+- like
+- October
+- 2017
+- 20
+- youtube.com
+---
+
+
+--------------------
+hash: 5a0e202adcf75d790e216b3dbeb14653da206424
+json_encode: {"date":"2017-10-20","type":"like","url":"https:\/\/www.backblaze.com\/blog\/400-petabytes-cloud-storage\/"}
+--------------------
+
+---
+layout: notes_like
+date: "2017-10-20T00:00:00+10:00"
+type: like
+permalink: /notes/like/backblaze.com/2017/10/20/5a0e202adcf75d790e216b3dbeb14653da206424.html
+redirect_from:
+- /sl/n/l/d20171020000000.html
+- /sl/n/l/h.5a0e202adcf75d790e216b3dbeb14653da206424.html
+mf:
+  items:
+  - type:
+    - h-feed
+    properties: []
+  rels: []
+ext:
+  url: https://www.backblaze.com/blog/400-petabytes-cloud-storage/
+  title: 'The Growth in Cloud Storage Continues: 400 Petabytes of Storage'
+  description: Cloud storage continues to grow everyday. Backblaze recently passed
+    400 Petabytes of data stored in the cloud.
+  image_url: https://www.backblaze.com/blog/wp-content/uploads/2017/10/blog-header-10pb-vault-je.jpg
+  image_width: "1440"
+  image_height: "810"
+title: Liked a page on backblaze.com
+categories:
+- like
+- October
+- 2017
+- 20
+- backblaze.com
+---
+
+
+--------------------
+hash: 6b874c2d661ea78b9d96708deebd016468333457
+json_encode: {"date":"2017-10-20","type":"like","url":"https:\/\/www.youtube.com\/watch?v=bS9hiSwL1KY"}
+--------------------
+
+---
+layout: notes_like
+date: "2017-10-20T00:00:00+10:00"
+type: like
+permalink: /notes/like/youtube.com/2017/10/20/6b874c2d661ea78b9d96708deebd016468333457.html
+redirect_from:
+- /sl/n/l/d20171020000000.html
+- /sl/n/l/h.6b874c2d661ea78b9d96708deebd016468333457.html
+mf:
+  items: []
+  rels: []
+ext:
+  url: https://www.youtube.com/watch?v=bS9hiSwL1KY
+  title: LGR - Installing MS-DOS on a 2017 Gaming PC!
+  description: There is no reason to do this. That is why I did this. When you have
+    a computer running an AMD Ryzen 5 1600X CPU, the ideal operating system is MS-DOS
+    6.22! ---
+  image_url: https://i.ytimg.com/vi/bS9hiSwL1KY/maxresdefault.jpg
+  image_width: ~
+  image_height: ~
+title: Liked a page on youtube.com
+categories:
+- like
+- October
+- 2017
+- 20
+- youtube.com
+---
+
+
+--------------------
+hash: e2c03a5d98e8cfcc4d7a8b996a64a4bb0ef5c6cd
+json_encode: {"date":"2017-10-20","type":"like","url":"https:\/\/www.youtube.com\/playlist?list=PLbBZM9aUMsjEVZPCDMl-lXOx50rSBNFQC"}
+--------------------
+
+---
+layout: notes_like
+date: "2017-10-20T00:00:00+10:00"
+type: like
+permalink: /notes/like/youtube.com/2017/10/20/e2c03a5d98e8cfcc4d7a8b996a64a4bb0ef5c6cd.html
+redirect_from:
+- /sl/n/l/d20171020000000.html
+- /sl/n/l/h.e2c03a5d98e8cfcc4d7a8b996a64a4bb0ef5c6cd.html
+mf:
+  items: []
+  rels: []
+ext:
+  url: https://www.youtube.com/playlist?list=PLbBZM9aUMsjEVZPCDMl-lXOx50rSBNFQC
+  title: LGR Tech Tales - YouTube
+  description: ""
+  image_url: https://i.ytimg.com/vi/gB1vrRFJI1Q/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBfgrp-LjOroHaDcHKQsLZ8perxrA
+  image_width: ~
+  image_height: ~
+title: Liked a page on youtube.com
+categories:
+- like
+- October
+- 2017
+- 20
+- youtube.com
+---
+
+
+--------------------
+hash: e65b26e49605eecc3743b117e0d070fe1c711a12
+json_encode: {"date":"2017-10-22","type":"like","url":"https:\/\/www.youtube.com\/watch?v=P9VCh15v778"}
+--------------------
+
+---
+layout: notes_like
+date: "2017-10-22T00:00:00+10:00"
+type: like
+permalink: /notes/like/youtube.com/2017/10/22/e65b26e49605eecc3743b117e0d070fe1c711a12.html
+redirect_from:
+- /sl/n/l/d20171022000000.html
+- /sl/n/l/h.e65b26e49605eecc3743b117e0d070fe1c711a12.html
+mf:
+  items: []
+  rels: []
+ext:
+  url: https://www.youtube.com/watch?v=P9VCh15v778
+  title: 12 WORST Video Game Console Ripoffs Ever!
+  description: 'Subscribe Here: http://bit.ly/SubscribeToGamerBrain Twitter: https://twitter.com/GamerBrainYT
+    Instagram: https://www.instagram.com/gamerbraintyler/ As long a---'
+  image_url: https://i.ytimg.com/vi/P9VCh15v778/maxresdefault.jpg
+  image_width: ~
+  image_height: ~
+title: Liked a page on youtube.com
+categories:
+- like
+- October
+- 2017
+- 22
+- youtube.com
+---
+
+
+--------------------
+hash: c2f02119b6f7cb49a3afa1dba4dd6e8bc075a759
+json_encode: {"date":"2017-10-25","type":"twitter","message":"shit, It been a year since the [Thunder River Rapids Ride](https:\/\/en.wikipedia.org\/wiki\/Thunder_River_Rapids_Ride#2016_incident_and_closure), time flys"}
+--------------------
+
+---
+layout: notes_twitter
+date: "2017-10-25T00:00:00+10:00"
+type: twitter
+permalink: /notes/twitter/2017/10/25/c2f02119b6f7cb49a3afa1dba4dd6e8bc075a759.html
+redirect_from:
+- /sl/n/t/d20171025000000.html
+- /sl/n/t/h.c2f02119b6f7cb49a3afa1dba4dd6e8bc075a759.html
+title: 'twitted: c2f02119b6f7cb49a3afa1dba4dd6e8bc075a759'
+categories:
+- twitter
+- October
+- 2017
+- 25
+- youtube.com
+---
+
+
+--------------------
+hash: a2cc31056cf6ed14b19d66c6dcde6fdbfa9ae198
+json_encode: {"date":"2017-10-22","type":"like","url":"https:\/\/www.youtube.com\/watch?v=DYnsoA91H4o"}
+--------------------
+
+---
+layout: notes_like
+date: "2017-10-22T00:00:00+10:00"
+type: like
+permalink: /notes/like/youtube.com/2017/10/22/a2cc31056cf6ed14b19d66c6dcde6fdbfa9ae198.html
+redirect_from:
+- /sl/n/l/d20171022000000.html
+- /sl/n/l/h.a2cc31056cf6ed14b19d66c6dcde6fdbfa9ae198.html
+mf:
+  items: []
+  rels: []
+ext:
+  url: https://www.youtube.com/watch?v=DYnsoA91H4o
+  title: "Top 10 Horribly Outdated Technologies That Are Still Used Today \xE2\x80\x94
+    TopTenzNet"
+  description: "Top 10 Horrible Outdated Technologies That Are Still Used Today \xE2\x86\x92Subscribe
+    for new videos every day! http://bit.ly/toptenzsubscribe \xE2\x86\x9210 Reasons
+    Bruce Lee was---"
+  image_url: https://i.ytimg.com/vi/DYnsoA91H4o/maxresdefault.jpg
+  image_width: ~
+  image_height: ~
+title: Liked a page on youtube.com
+categories:
+- like
+- October
+- 2017
+- 22
+- youtube.com
+---
+
+
+--------------------
+hash: 248d02ebb45d00abcfe6bcfad2f54260361ef161
+json_encode: {"date":"2017-10-22","type":"like","url":"https:\/\/www.youtube.com\/watch?v=yq2_twmccxk"}
+--------------------
+
+---
+layout: notes_like
+date: "2017-10-22T00:00:00+10:00"
+type: like
+permalink: /notes/like/youtube.com/2017/10/22/248d02ebb45d00abcfe6bcfad2f54260361ef161.html
+redirect_from:
+- /sl/n/l/d20171022000000.html
+- /sl/n/l/h.248d02ebb45d00abcfe6bcfad2f54260361ef161.html
+mf:
+  items: []
+  rels: []
+ext:
+  url: https://www.youtube.com/watch?v=yq2_twmccxk
+  title: "Top 10 Things On The Internet That Are Surprisingly Old \xE2\x80\x94 TopTenzNet"
+  description: "Top 10 Things On The Internet That Are Surprisingly Old \xE2\x86\x92Subscribe
+    for new videos every day! http://bit.ly/toptenzsubscribe \xE2\x86\x9210 Reasons
+    Bruce Lee was a Super---"
+  image_url: https://i.ytimg.com/vi/yq2_twmccxk/maxresdefault.jpg
+  image_width: ~
+  image_height: ~
+title: Liked a page on youtube.com
+categories:
+- like
+- October
+- 2017
+- 22
+- youtube.com
+---
+
+
+--------------------
+hash: 73a035f49c65ffeadcb4d1c91d4a542859a1290a
+json_encode: {"date":"2017-10-22","type":"like","url":"https:\/\/www.youtube.com\/watch?v=SAVGHWyeEYA"}
+--------------------
+
+---
+layout: notes_like
+date: "2017-10-22T00:00:00+10:00"
+type: like
+permalink: /notes/like/youtube.com/2017/10/22/73a035f49c65ffeadcb4d1c91d4a542859a1290a.html
+redirect_from:
+- /sl/n/l/d20171022000000.html
+- /sl/n/l/h.73a035f49c65ffeadcb4d1c91d4a542859a1290a.html
+mf:
+  items: []
+  rels: []
+ext:
+  url: https://www.youtube.com/watch?v=SAVGHWyeEYA
+  title: 8 WORST Gaming Consoles That Completely Failed (Video Game Console Hardware
+    and Sales Review)
+  description: "Subscribe Here: http://bit.ly/SubscribeToGamerBrain Hey everyone,
+    you\xE2\x80\x99re watching GamerBrain and let\xE2\x80\x99s look at 8 Failed Gaming
+    Consoles Laughed Off the Marke---"
+  image_url: https://i.ytimg.com/vi/SAVGHWyeEYA/maxresdefault.jpg
+  image_width: ~
+  image_height: ~
+title: Liked a page on youtube.com
+categories:
+- like
+- October
+- 2017
+- 22
+- youtube.com
+---
+
+
+--------------------
+hash: f45409707c447fb2976af5a79420152d75cd45b5
+json_encode: {"date":"2017-10-22","type":"like","url":"https:\/\/www.youtube.com\/watch?v=CpOswwPLb2c"}
+--------------------
+
+---
+layout: notes_like
+date: "2017-10-22T00:00:00+10:00"
+type: like
+permalink: /notes/like/youtube.com/2017/10/22/f45409707c447fb2976af5a79420152d75cd45b5.html
+redirect_from:
+- /sl/n/l/d20171022000000.html
+- /sl/n/l/h.f45409707c447fb2976af5a79420152d75cd45b5.html
+mf:
+  items: []
+  rels: []
+ext:
+  url: https://www.youtube.com/watch?v=CpOswwPLb2c
+  title: 11 Video Games That Started A Genre
+  description: "Subscribe Here: http://bit.ly/SubscribeToGamerBrain Hey everyone,
+    you\xE2\x80\x99re watching GamerBrain and let\xE2\x80\x99s look at 11 Video Games
+    That Started A Genre If you don---"
+  image_url: https://i.ytimg.com/vi/CpOswwPLb2c/maxresdefault.jpg
+  image_width: ~
+  image_height: ~
+title: Liked a page on youtube.com
+categories:
+- like
+- October
+- 2017
+- 22
+- youtube.com
+---
+
+
+--------------------
+hash: 4cb079b6b22fa479a5d874d0bc88b7dd24f4a986
+json_encode: {"date":"2017-10-22","type":"like","url":"https:\/\/www.youtube.com\/watch?v=kDBYUdAmXQk"}
+--------------------
+
+---
+layout: notes_like
+date: "2017-10-22T00:00:00+10:00"
+type: like
+permalink: /notes/like/youtube.com/2017/10/22/4cb079b6b22fa479a5d874d0bc88b7dd24f4a986.html
+redirect_from:
+- /sl/n/l/d20171022000000.html
+- /sl/n/l/h.4cb079b6b22fa479a5d874d0bc88b7dd24f4a986.html
+mf:
+  items: []
+  rels: []
+ext:
+  url: https://www.youtube.com/watch?v=kDBYUdAmXQk
+  title: 10 Billion Dollar Companies That Are Secretly Going Bankrupt
+  description: Could Uber be about to take its last ride? Is Twitter about to stop
+    Tweeting? Alltime 10s looks at 10 companies that are seriously struggling in the
+    modern e---
+  image_url: https://i.ytimg.com/vi/kDBYUdAmXQk/maxresdefault.jpg
+  image_width: ~
+  image_height: ~
+title: Liked a page on youtube.com
+categories:
+- like
+- October
+- 2017
+- 22
+- youtube.com
+---
+
+
+--------------------
+hash: e648304f024581952c570abced2801f85e6c7656
+json_encode: {"date":"2017-10-23","type":"like","url":"https:\/\/www.youtube.com\/watch?v=aSRDWcEm1GA"}
+--------------------
+
+---
+layout: notes_like
+date: "2017-10-23T00:00:00+10:00"
+type: like
+permalink: /notes/like/youtube.com/2017/10/23/e648304f024581952c570abced2801f85e6c7656.html
+redirect_from:
+- /sl/n/l/d20171023000000.html
+- /sl/n/l/h.e648304f024581952c570abced2801f85e6c7656.html
+mf:
+  items: []
+  rels: []
+ext:
+  url: https://www.youtube.com/watch?v=aSRDWcEm1GA
+  title: "Top 10 Times Miscommunication Had Awful Consequences \xE2\x80\x94 TopTenzNet"
+  description: "Top 10 Times Miscommunication Had Awful Consequences \xE2\x86\x92Subscribe
+    for new videos every day! http://bit.ly/toptenzsubscribe \xE2\x86\x9210 Reasons
+    Bruce Lee was a Superhum---"
+  image_url: https://i.ytimg.com/vi/aSRDWcEm1GA/maxresdefault.jpg
+  image_width: ~
+  image_height: ~
+title: Liked a page on youtube.com
+categories:
+- like
+- October
+- 2017
+- 23
+- youtube.com
+---
+
+153aa1babd2af567427b0b8b0bbaecaf11697ee5.md skipping md file
+15ae65f22cfa91eca3d10bb2aaeee889c5198b67.md skipping md file
+15b4257b04c59034491e6290fa8e5b21dcfe63b4.md skipping md file
+191a2462c02acf36b2fb300fb024c1cbc86e3a1e.md skipping md file
+1d69dae1d3aa09e867df7cfa57b524e38e928a47.md skipping md file
+1eeff7f60b5dc5b92e410572693221d01efdca4e.md skipping md file
+201a0ffeac449bd33e380b973eb87bf58c8d59fe.md skipping md file
+2023b46aea7c1e5a949c6320af05b76cbccc2600.md skipping md file
+248d02ebb45d00abcfe6bcfad2f54260361ef161.md skipping md file
+31eb323ec659c8b2271516acfee393adc2c02087.md skipping md file
+3244e848c269ee0a1430c1ea2e9af7ad2f18b12e.md skipping md file
+39175e5343ae0762e99f7fdddf23d93f8cbd8f07.md skipping md file
+3b9891fe73e31fa83e2b9635543ff00d64dece24.md skipping md file
+3e2c862d0448360d781503fb1a6d5a433852c5f3.md skipping md file
+40c0460188b4cb7a5bd2b3bddf3e7b4dfb0903b1.md skipping md file
+4196040fe1751563f1362a227455650363e1d778.md skipping md file
+4608fb47197984e1b68f4d8a928c92cbeab87eaf.md skipping md file
+4639e3060c548d1edc95e6f1b58d6336d3805cfc.md skipping md file
+490d178e3ced6af422737f249065c03abb520d04.md skipping md file
+4a07507696734e97c68b316089ec7821971cc003.md skipping md file
+4c209c056c02aa5ac255a6b577ba55967bf8afa3.md skipping md file
+4cb079b6b22fa479a5d874d0bc88b7dd24f4a986.md skipping md file
+4d685f533d548318f9fe819e85677e304571f62f.md skipping md file
+4d7d439997a62816e8fe88bf1294e5814d8bd8e1.md skipping md file
+540e827cb8efa03051f4cbd421034cb031f9422e.md skipping md file
+5753bf88be8ea853963ad422f384eb66222bd66c.md skipping md file
+59877a033a01afab989cd397a5a48e669ee7eaa7.md skipping md file
+5a0e202adcf75d790e216b3dbeb14653da206424.md skipping md file
+5d4117e3f3cac3fc4abc5b6ac9f72156fc70f23b.md skipping md file
+5d4dc6e95ebb27b07ce251979bbc030138378588.md skipping md file
+63b3d802a6ee6de8073bac0c4b62046d6213604e.md skipping md file
+66c3bef4cfab58261c7f111a92a5e9c22a6e61a4.md skipping md file
+68a83ca7bf2d21be20e7a44b6e97e7aad3bae399.md skipping md file
+6ad48391ed49941eba76bd630e37af2fdd141627.md skipping md file
+6b874c2d661ea78b9d96708deebd016468333457.md skipping md file
+6bf3cba8ec44194b8842cbe51809fc38d609bbc3.md skipping md file
+6c2470ab2d76793c29a983c9a4f4d8d7b4513e3d.md skipping md file
+6f7483089375de3dceda1bd486af4bf3713262b8.md skipping md file
+702fb57bff58cf9b2e3091ebb0080ae86710280c.md skipping md file
+70d8bf3e87cf5094f1a63f6a52a24a0e006ba01d.md skipping md file
+72783b21a100daade68822cb26a153b93d0d772d.md skipping md file
+731fc41172cd790e0b277b326341620cd91f56b2.md skipping md file
+73a035f49c65ffeadcb4d1c91d4a542859a1290a.md skipping md file
+7580ecc6d364baca443aec229eb2898e388d9e72.md skipping md file
+797ddcf4f20223f6f408ee915ce4a218ede0aa89.md skipping md file
+7baeca8f04857ce31468c779e36b198d6ad59f19.md skipping md file
+800bd9f832024f36ecf3173b7f86d0a8d9a9ef48.md skipping md file
+85917a1f1c55c432529771871ef49c3d046e9de2.md skipping md file
+860531522f57599c53c2ff1697be6931b955a4c4.md skipping md file
+88e42532cf5207558e32779ae0e09338f9673d44.md skipping md file
+8b89844e60319c4463d70c7b877a24ea82be7d41.md skipping md file
+8bc093502a3deadb353e8a11aac90d7c3696ca34.md skipping md file
+8fc8f7384c4c25fa44b52d01de21a8fd51df1afc.md skipping md file
+96abc06e797df7c2977d73c1598cd0b4e7361b7b.md skipping md file
+98a6184ff0b1acf8d8966299b4990b9eb74c54ca.md skipping md file
+98e7157b498eda676ffe59a8a8f47597c2e088e5.md skipping md file
+9937067c609f61fe450a253996387684a5f0d665.md skipping md file
+9fc44d50408617d7ab174c8818811739a39b402d.md skipping md file
+a11540bb6a025fc46b6e07e3514f9b208a5e043e.md skipping md file
+a2cc31056cf6ed14b19d66c6dcde6fdbfa9ae198.md skipping md file
+a5a5890b16e3d651989dbe2298fb586e360fc8f2.md skipping md file
+a661e6733acad6c61241db9786db90e4678df7bb.md skipping md file
+a72e83d64aaeeb546146c1e3c0971583325d7a3a.md skipping md file
+aab792bc89c264dc568eec94afa15f572bc2963b.md skipping md file
+ad1ab12df30c5a8bcf3389670d92354a7d217d68.md skipping md file
+b0169e733fe05962ae5a05e56af902cd7a2a5699.md skipping md file
+b466698adaf68a93624b93dc31760d11918dd88f.md skipping md file
+b85ed8465c1c447ed715afe0850a825bde205e4c.md skipping md file
+bcc79f71f865aa4e4cddced88210b5d834da0f29.md skipping md file
+be8d4fc634a3a64d92878eadf455d4231539f499.md skipping md file
+c08d14043ec933f4892fe01a3b45d1d9ed30d409.md skipping md file
+c0b085fde140f17d446c363c528c6a57e40f961d.md skipping md file
+c2f02119b6f7cb49a3afa1dba4dd6e8bc075a759.md skipping md file
+c3ee43cc082ed9840ae6130b54a14ebeef37a349.md skipping md file
+c4c8f3b776ef3442c68af20e1d82b7340c8fafb7.md skipping md file
+c5de847890bab513615354c39ef4f968e12f4386.md skipping md file
+cc293059f56fd4864643be33fc0d6be73582fd03.md skipping md file
+cd1e2fd6a48dd6c87975b95131c1825f171e5078.md skipping md file
+cf994438277ce4c12314cd35562a5f31b202f4de.md skipping md file
+d67dcf849358451ecb615c6a38dcb40ccc954c2d.md skipping md file
+e1adce6534bc1f23470f6b823992911928376af3.md skipping md file
+e2c03a5d98e8cfcc4d7a8b996a64a4bb0ef5c6cd.md skipping md file
+e2cbfb403910b00610d03ec7f9629a7b64932d16.md skipping md file
+e360ee00c2c3a8cb51b3b2ea0203da61c8fe9222.md skipping md file
+e4b9f1eecd911391e678afe8e9a8fd071c718e27.md skipping md file
+e648304f024581952c570abced2801f85e6c7656.md skipping md file
+e65b26e49605eecc3743b117e0d070fe1c711a12.md skipping md file
+e9b494c949d9263163a46b2ca57f53946ce9abc0.md skipping md file
+ec18fbd0ad13324da5e595351eef53a50e08b9fb.md skipping md file
+edb67bfb21bc98c0d6ee6ef0844fdcdde118091e.md skipping md file
+f0208a69131bca7ccc448cf7226312348748c4dc.md skipping md file
+f45409707c447fb2976af5a79420152d75cd45b5.md skipping md file
+f4eabdeeddce7170272138871cc9bce2c0898711.md skipping md file
+f94f9c0b4569fba75c970d09dc4fce5b7112d651.md skipping md file
+Found r10.ymlyml file :) 
+
+-----S-CONTENTS-------------
+---
+- date: "2017-10-16 06:21:22"
+  type: scrobble
+  tags: title=netic+jazzin+it+up&artist=netic&album=Unknown&play-count=1
+- date: "2017-10-25 16:37:29"
+  type: scrobble
+  tags: title=Dream+Machine&artist=O.C.Nilsen&album=Unknown&play-count=1
+- date: "2017-10-15 05:32:19"
+  type: scrobble
+  tags: title=Bonus&artist=Supermatse&album=Sharks%21+CD32+Edition&play-count=1
+- date: "2017-10-25 15:00:25"
+  type: scrobble
+  tags: title=Game+Over&artist=Supermatse&album=Sharks%21+CD32+Edition&play-count=1
+- date: "2017-10-15 02:02:16"
+  type: scrobble
+  tags: title=Ingame&artist=Supermatse&album=Sharks%21+CD32+Edition&play-count=1
+- date: "2017-10-15 01:30:58"
+  type: scrobble
+  tags: title=Title&artist=Supermatse&album=Sharks%21+CD32+Edition&play-count=1
+- date: "2017-10-25 16:54:13"
+  type: scrobble
+  tags: title=Devastating+Terror&artist=Entombed+Demigods&album=Unknown&play-count=1
+- date: "2017-10-25 13:46:42"
+  type: scrobble
+  tags: title=Eldorado+County&artist=John+Vincent+%26+Larry+McGahey&album=2ND+SKIN&play-count=2
+- date: "2017-10-25 16:22:54"
+  type: scrobble
+  tags: title=Trance+Atlantic+Trip&artist=Dazzy+of+Soundforce&album=www.soundforce.org.uk&play-count=1
+- date: "2017-10-14 04:20:30"
+  type: scrobble
+  tags: title=IsItToStrongOrDoYouHaveASpoon&artist=tarmslyng%40loonies.dk+%28LNS-Rec%29&album=Apricot+Ep+2+%28Loonies+Records%29&play-count=1
+- date: "2017-10-25 13:40:33"
+  type: scrobble
+  tags: title=ROSWELL&artist=DEFRAQ&album=%2F%2F%2F%2F%2F%2F&play-count=2
+- date: "2017-10-14 04:38:37"
+  type: scrobble
+  tags: title=All+about+cloroform+%28ClorEp+1%29&artist=tarmslyng%40loonies.dk+%28LNS-Rec%29&album=Cloroform+Ep+part+1&play-count=1
+- date: "2017-10-25 16:16:57"
+  type: scrobble
+  tags: title=Cybernoid+ZX+Spectrum&artist=Pavel+Pok%2C+2003&album=cybersite%40c-box.cz&play-count=1
+- date: "2017-10-15 01:40:00"
+  type: scrobble
+  tags: title=Nuclear+Reflections&artist=Cageman+%28Mikael+Burman%29&album=Electronic+Touch+of+Metal&play-count=1
+- date: "2017-10-15 07:21:01"
+  type: scrobble
+  tags: title=8+drunk+gods&artist=Salty&album=Unknown&play-count=1
+- date: "2017-10-25 15:12:49"
+  type: scrobble
+  tags: title=Amiga-Anthem.mpg&artist=Unknown&album=Unknown&play-count=1
+- date: "2017-10-15 22:29:40"
+  type: scrobble
+  tags: title=32bc_fruit.mpg&artist=Unknown&album=Unknown&play-count=1
+- date: "2017-10-15 22:04:40"
+  type: scrobble
+  tags: title=32bc_electroc.mpg&artist=Unknown&album=Unknown&play-count=1
+- date: "2017-10-16 06:14:07"
+  type: scrobble
+  tags: title=32bc_lsD.mpg&artist=Unknown&album=Unknown&play-count=1
+- date: "2017-10-25 15:21:58"
+  type: scrobble
+  tags: title=Amiga_Back4FutureRMX.mp3&artist=Unknown&album=Unknown&play-count=1
+- date: "2017-10-25 16:42:22"
+  type: scrobble
+  tags: title=DrugsofDelta.mpg&artist=Unknown&album=Unknown&play-count=1
+- date: "2017-10-25 15:35:35"
+  type: scrobble
+  tags: title=AstralTraveler.mpg&artist=Unknown&album=Unknown&play-count=1
+- date: "2017-10-16 07:21:47"
+  type: scrobble
+  tags: title=32bc_phat_elv.mpg&artist=Unknown&album=Unknown&play-count=1
+- date: "2017-10-25 16:09:50"
+  type: scrobble
+  tags: title=Copa2010.mp3&artist=Unknown&album=Unknown&play-count=1
+- date: "2017-10-25 15:18:09"
+  type: scrobble
+  tags: title=AmigaRuFFlez.mp3&artist=Unknown&album=Unknown&play-count=1
+- date: "2017-10-16 07:25:30"
+  type: scrobble
+  tags: title=32bc_procras1.mpg&artist=Unknown&album=Unknown&play-count=1
+- date: "2017-10-25 15:13:49"
+  type: scrobble
+  tags: title=Amiga+4+Everyone&artist=Dieziseven&album=Rocky%C2%B4s+Mountains&play-count=1
+- date: "2017-10-25 15:26:58"
+  type: scrobble
+  tags: title=Amiga+Roolez&artist=Dieziseven&album=DFC&play-count=1
+- date: "2017-10-25 16:13:16"
+  type: scrobble
+  tags: title=Crazy+Comets+-&artist=Rob+Hubbard+%2F+Jeroen+Breebaart&album=Unknown&play-count=1
+- date: "2017-10-25 16:56:19"
+  type: scrobble
+  tags: title=Fairlight+-+1986+The+Edge+-&artist=Mike+Alsop%28arr++Eric+Pochesci%29&album=Unknown&play-count=1
+- date: "2017-10-14 04:26:43"
+  type: scrobble
+  tags: title=Vampire+Bride&artist=Zadoc...and+the+Nightmare&album=Beyond+Our+Eyes&play-count=1
+...
+
+-----E-CONTENTS-------------
+
+--------------------
+hash: 4608fb47197984e1b68f4d8a928c92cbeab87eaf
+json_encode: {"date":"2017-10-16 06:21:22","type":"scrobble","tags":{"title":"netic jazzin it up","artist":"netic","album":"Unknown","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-10-16T06:21:22+10:00"
+type: scrobble
+permalink: /notes/scrobble/netic/Unknown/4608fb47197984e1b68f4d8a928c92cbeab87eaf.html
+redirect_from:
+- /sl/n/s/d20171016062122.html
+- /sl/n/s/h.4608fb47197984e1b68f4d8a928c92cbeab87eaf.html
+hidden: "true"
+music-title: netic jazzin it up
+music-artist: netic
+music-album: Unknown
+music-play-count: "1"
+title: Played netic jazzin it up by netic
+categories:
+- scrobble
+- October
+- 2017
+- 16
+- netic jazzin it up
+- netic
+- Unknown
+---
+
+
+--------------------
+hash: 96abc06e797df7c2977d73c1598cd0b4e7361b7b
+json_encode: {"date":"2017-10-25 16:37:29","type":"scrobble","tags":{"title":"Dream Machine","artist":"O.C.Nilsen","album":"Unknown","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-10-25T16:37:29+10:00"
+type: scrobble
+permalink: /notes/scrobble/O.C.Nilsen/Unknown/96abc06e797df7c2977d73c1598cd0b4e7361b7b.html
+redirect_from:
+- /sl/n/s/d20171025163729.html
+- /sl/n/s/h.96abc06e797df7c2977d73c1598cd0b4e7361b7b.html
+hidden: "true"
+music-title: Dream Machine
+music-artist: O.C.Nilsen
+music-album: Unknown
+music-play-count: "1"
+title: Played Dream Machine by O.C.Nilsen
+categories:
+- scrobble
+- October
+- 2017
+- 25
+- Dream Machine
+- O.C.Nilsen
+- Unknown
+---
+
+
+--------------------
+hash: 8fc8f7384c4c25fa44b52d01de21a8fd51df1afc
+json_encode: {"date":"2017-10-15 05:32:19","type":"scrobble","tags":{"title":"Bonus","artist":"Supermatse","album":"Sharks! CD32 Edition","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-10-15T05:32:19+10:00"
+type: scrobble
+permalink: /notes/scrobble/Supermatse/Sharks%21+CD32+Edition/8fc8f7384c4c25fa44b52d01de21a8fd51df1afc.html
+redirect_from:
+- /sl/n/s/d20171015053219.html
+- /sl/n/s/h.8fc8f7384c4c25fa44b52d01de21a8fd51df1afc.html
+hidden: "true"
+music-title: Bonus
+music-artist: Supermatse
+music-album: Sharks! CD32 Edition
+music-play-count: "1"
+title: Played Bonus by Supermatse
+categories:
+- scrobble
+- October
+- 2017
+- 15
+- Bonus
+- Supermatse
+- Sharks! CD32 Edition
+---
+
+
+--------------------
+hash: c3ee43cc082ed9840ae6130b54a14ebeef37a349
+json_encode: {"date":"2017-10-25 15:00:25","type":"scrobble","tags":{"title":"Game Over","artist":"Supermatse","album":"Sharks! CD32 Edition","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-10-25T15:00:25+10:00"
+type: scrobble
+permalink: /notes/scrobble/Supermatse/Sharks%21+CD32+Edition/c3ee43cc082ed9840ae6130b54a14ebeef37a349.html
+redirect_from:
+- /sl/n/s/d20171025150025.html
+- /sl/n/s/h.c3ee43cc082ed9840ae6130b54a14ebeef37a349.html
+hidden: "true"
+music-title: Game Over
+music-artist: Supermatse
+music-album: Sharks! CD32 Edition
+music-play-count: "1"
+title: Played Game Over by Supermatse
+categories:
+- scrobble
+- October
+- 2017
+- 25
+- Game Over
+- Supermatse
+- Sharks! CD32 Edition
+---
+
+
+--------------------
+hash: f94f9c0b4569fba75c970d09dc4fce5b7112d651
+json_encode: {"date":"2017-10-15 02:02:16","type":"scrobble","tags":{"title":"Ingame","artist":"Supermatse","album":"Sharks! CD32 Edition","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-10-15T02:02:16+10:00"
+type: scrobble
+permalink: /notes/scrobble/Supermatse/Sharks%21+CD32+Edition/f94f9c0b4569fba75c970d09dc4fce5b7112d651.html
+redirect_from:
+- /sl/n/s/d20171015020216.html
+- /sl/n/s/h.f94f9c0b4569fba75c970d09dc4fce5b7112d651.html
+hidden: "true"
+music-title: Ingame
+music-artist: Supermatse
+music-album: Sharks! CD32 Edition
+music-play-count: "1"
+title: Played Ingame by Supermatse
+categories:
+- scrobble
+- October
+- 2017
+- 15
+- Ingame
+- Supermatse
+- Sharks! CD32 Edition
+---
+
+
+--------------------
+hash: 68a83ca7bf2d21be20e7a44b6e97e7aad3bae399
+json_encode: {"date":"2017-10-15 01:30:58","type":"scrobble","tags":{"title":"Title","artist":"Supermatse","album":"Sharks! CD32 Edition","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-10-15T01:30:58+10:00"
+type: scrobble
+permalink: /notes/scrobble/Supermatse/Sharks%21+CD32+Edition/68a83ca7bf2d21be20e7a44b6e97e7aad3bae399.html
+redirect_from:
+- /sl/n/s/d20171015013058.html
+- /sl/n/s/h.68a83ca7bf2d21be20e7a44b6e97e7aad3bae399.html
+hidden: "true"
+music-title: Title
+music-artist: Supermatse
+music-album: Sharks! CD32 Edition
+music-play-count: "1"
+title: Played Title by Supermatse
+categories:
+- scrobble
+- October
+- 2017
+- 15
+- Title
+- Supermatse
+- Sharks! CD32 Edition
+---
+
+
+--------------------
+hash: 59877a033a01afab989cd397a5a48e669ee7eaa7
+json_encode: {"date":"2017-10-25 16:54:13","type":"scrobble","tags":{"title":"Devastating Terror","artist":"Entombed Demigods","album":"Unknown","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-10-25T16:54:13+10:00"
+type: scrobble
+permalink: /notes/scrobble/Entombed+Demigods/Unknown/59877a033a01afab989cd397a5a48e669ee7eaa7.html
+redirect_from:
+- /sl/n/s/d20171025165413.html
+- /sl/n/s/h.59877a033a01afab989cd397a5a48e669ee7eaa7.html
+hidden: "true"
+music-title: Devastating Terror
+music-artist: Entombed Demigods
+music-album: Unknown
+music-play-count: "1"
+title: Played Devastating Terror by Entombed Demigods
+categories:
+- scrobble
+- October
+- 2017
+- 25
+- Devastating Terror
+- Entombed Demigods
+- Unknown
+---
+
+
+--------------------
+hash: 9937067c609f61fe450a253996387684a5f0d665
+json_encode: {"date":"2017-10-25 13:46:42","type":"scrobble","tags":{"title":"Eldorado County","artist":"John Vincent ","Larry_McGahey":"","album":"2ND SKIN","play-count":"2"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-10-25T13:46:42+10:00"
+type: scrobble
+permalink: /notes/scrobble/John+Vincent+/2ND+SKIN/9937067c609f61fe450a253996387684a5f0d665.html
+redirect_from:
+- /sl/n/s/d20171025134642.html
+- /sl/n/s/h.9937067c609f61fe450a253996387684a5f0d665.html
+hidden: "true"
+music-title: Eldorado County
+music-artist: 'John Vincent '
+music-album: 2ND SKIN
+music-play-count: "2"
+title: 'Played Eldorado County by John Vincent '
+categories:
+- scrobble
+- October
+- 2017
+- 25
+- Eldorado County
+- 'John Vincent '
+- 2ND SKIN
+---
+
+
+--------------------
+hash: 201a0ffeac449bd33e380b973eb87bf58c8d59fe
+json_encode: {"date":"2017-10-25 16:22:54","type":"scrobble","tags":{"title":"Trance Atlantic Trip","artist":"Dazzy of Soundforce","album":"www.soundforce.org.uk","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-10-25T16:22:54+10:00"
+type: scrobble
+permalink: /notes/scrobble/Dazzy+of+Soundforce/www.soundforce.org.uk/201a0ffeac449bd33e380b973eb87bf58c8d59fe.html
+redirect_from:
+- /sl/n/s/d20171025162254.html
+- /sl/n/s/h.201a0ffeac449bd33e380b973eb87bf58c8d59fe.html
+hidden: "true"
+music-title: Trance Atlantic Trip
+music-artist: Dazzy of Soundforce
+music-album: www.soundforce.org.uk
+music-play-count: "1"
+title: Played Trance Atlantic Trip by Dazzy of Soundforce
+categories:
+- scrobble
+- October
+- 2017
+- 25
+- Trance Atlantic Trip
+- Dazzy of Soundforce
+- www.soundforce.org.uk
+---
+
+
+--------------------
+hash: cd1e2fd6a48dd6c87975b95131c1825f171e5078
+json_encode: {"date":"2017-10-14 04:20:30","type":"scrobble","tags":{"title":"IsItToStrongOrDoYouHaveASpoon","artist":"tarmslyng@loonies.dk (LNS-Rec)","album":"Apricot Ep 2 (Loonies Records)","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-10-14T04:20:30+10:00"
+type: scrobble
+permalink: /notes/scrobble/tarmslyng%40loonies.dk+%28LNS-Rec%29/Apricot+Ep+2+%28Loonies+Records%29/cd1e2fd6a48dd6c87975b95131c1825f171e5078.html
+redirect_from:
+- /sl/n/s/d20171014042030.html
+- /sl/n/s/h.cd1e2fd6a48dd6c87975b95131c1825f171e5078.html
+hidden: "true"
+music-title: IsItToStrongOrDoYouHaveASpoon
+music-artist: tarmslyng@loonies.dk (LNS-Rec)
+music-album: Apricot Ep 2 (Loonies Records)
+music-play-count: "1"
+title: Played IsItToStrongOrDoYouHaveASpoon by tarmslyng@loonies.dk (LNS-Rec)
+categories:
+- scrobble
+- October
+- 2017
+- 14
+- IsItToStrongOrDoYouHaveASpoon
+- tarmslyng@loonies.dk (LNS-Rec)
+- Apricot Ep 2 (Loonies Records)
+---
+
+
+--------------------
+hash: 797ddcf4f20223f6f408ee915ce4a218ede0aa89
+json_encode: {"date":"2017-10-25 13:40:33","type":"scrobble","tags":{"title":"ROSWELL","artist":"DEFRAQ","album":"\/\/\/\/\/\/","play-count":"2"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-10-25T13:40:33+10:00"
+type: scrobble
+permalink: /notes/scrobble/DEFRAQ/%2F%2F%2F%2F%2F%2F/797ddcf4f20223f6f408ee915ce4a218ede0aa89.html
+redirect_from:
+- /sl/n/s/d20171025134033.html
+- /sl/n/s/h.797ddcf4f20223f6f408ee915ce4a218ede0aa89.html
+hidden: "true"
+music-title: ROSWELL
+music-artist: DEFRAQ
+music-album: //////
+music-play-count: "2"
+title: Played ROSWELL by DEFRAQ
+categories:
+- scrobble
+- October
+- 2017
+- 25
+- ROSWELL
+- DEFRAQ
+- //////
+---
+
+
+--------------------
+hash: 0c969032a3c18541b4f93bfff9d35af8af899abd
+json_encode: {"date":"2017-10-14 04:38:37","type":"scrobble","tags":{"title":"All about cloroform (ClorEp 1)","artist":"tarmslyng@loonies.dk (LNS-Rec)","album":"Cloroform Ep part 1","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-10-14T04:38:37+10:00"
+type: scrobble
+permalink: /notes/scrobble/tarmslyng%40loonies.dk+%28LNS-Rec%29/Cloroform+Ep+part+1/0c969032a3c18541b4f93bfff9d35af8af899abd.html
+redirect_from:
+- /sl/n/s/d20171014043837.html
+- /sl/n/s/h.0c969032a3c18541b4f93bfff9d35af8af899abd.html
+hidden: "true"
+music-title: All about cloroform (ClorEp 1)
+music-artist: tarmslyng@loonies.dk (LNS-Rec)
+music-album: Cloroform Ep part 1
+music-play-count: "1"
+title: Played All about cloroform (ClorEp 1) by tarmslyng@loonies.dk (LNS-Rec)
+categories:
+- scrobble
+- October
+- 2017
+- 14
+- All about cloroform (ClorEp 1)
+- tarmslyng@loonies.dk (LNS-Rec)
+- Cloroform Ep part 1
+---
+
+
+--------------------
+hash: 7baeca8f04857ce31468c779e36b198d6ad59f19
+json_encode: {"date":"2017-10-25 16:16:57","type":"scrobble","tags":{"title":"Cybernoid ZX Spectrum","artist":"Pavel Pok, 2003","album":"cybersite@c-box.cz","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-10-25T16:16:57+10:00"
+type: scrobble
+permalink: /notes/scrobble/Pavel+Pok%2C+2003/cybersite%40c-box.cz/7baeca8f04857ce31468c779e36b198d6ad59f19.html
+redirect_from:
+- /sl/n/s/d20171025161657.html
+- /sl/n/s/h.7baeca8f04857ce31468c779e36b198d6ad59f19.html
+hidden: "true"
+music-title: Cybernoid ZX Spectrum
+music-artist: Pavel Pok, 2003
+music-album: cybersite@c-box.cz
+music-play-count: "1"
+title: Played Cybernoid ZX Spectrum by Pavel Pok, 2003
+categories:
+- scrobble
+- October
+- 2017
+- 25
+- Cybernoid ZX Spectrum
+- Pavel Pok, 2003
+- cybersite@c-box.cz
+---
+
+
+--------------------
+hash: e4b9f1eecd911391e678afe8e9a8fd071c718e27
+json_encode: {"date":"2017-10-15 01:40:00","type":"scrobble","tags":{"title":"Nuclear Reflections","artist":"Cageman (Mikael Burman)","album":"Electronic Touch of Metal","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-10-15T01:40:00+10:00"
+type: scrobble
+permalink: /notes/scrobble/Cageman+%28Mikael+Burman%29/Electronic+Touch+of+Metal/e4b9f1eecd911391e678afe8e9a8fd071c718e27.html
+redirect_from:
+- /sl/n/s/d20171015014000.html
+- /sl/n/s/h.e4b9f1eecd911391e678afe8e9a8fd071c718e27.html
+hidden: "true"
+music-title: Nuclear Reflections
+music-artist: Cageman (Mikael Burman)
+music-album: Electronic Touch of Metal
+music-play-count: "1"
+title: Played Nuclear Reflections by Cageman (Mikael Burman)
+categories:
+- scrobble
+- October
+- 2017
+- 15
+- Nuclear Reflections
+- Cageman (Mikael Burman)
+- Electronic Touch of Metal
+---
+
+
+--------------------
+hash: 860531522f57599c53c2ff1697be6931b955a4c4
+json_encode: {"date":"2017-10-15 07:21:01","type":"scrobble","tags":{"title":"8 drunk gods","artist":"Salty","album":"Unknown","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-10-15T07:21:01+10:00"
+type: scrobble
+permalink: /notes/scrobble/Salty/Unknown/860531522f57599c53c2ff1697be6931b955a4c4.html
+redirect_from:
+- /sl/n/s/d20171015072101.html
+- /sl/n/s/h.860531522f57599c53c2ff1697be6931b955a4c4.html
+hidden: "true"
+music-title: 8 drunk gods
+music-artist: Salty
+music-album: Unknown
+music-play-count: "1"
+title: Played 8 drunk gods by Salty
+categories:
+- scrobble
+- October
+- 2017
+- 15
+- 8 drunk gods
+- Salty
+- Unknown
+---
+
+
+--------------------
+hash: 731fc41172cd790e0b277b326341620cd91f56b2
+json_encode: {"date":"2017-10-25 15:12:49","type":"scrobble","tags":{"title":"Amiga-Anthem.mpg","artist":"Unknown","album":"Unknown","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-10-25T15:12:49+10:00"
+type: scrobble
+permalink: /notes/scrobble/Unknown/Unknown/731fc41172cd790e0b277b326341620cd91f56b2.html
+redirect_from:
+- /sl/n/s/d20171025151249.html
+- /sl/n/s/h.731fc41172cd790e0b277b326341620cd91f56b2.html
+hidden: "true"
+music-title: Amiga-Anthem.mpg
+music-artist: Unknown
+music-album: Unknown
+music-play-count: "1"
+title: Played Amiga-Anthem.mpg by Unknown
+categories:
+- scrobble
+- October
+- 2017
+- 25
+- Amiga-Anthem.mpg
+- Unknown
+- Unknown
+---
+
+
+--------------------
+hash: 540e827cb8efa03051f4cbd421034cb031f9422e
+json_encode: {"date":"2017-10-15 22:29:40","type":"scrobble","tags":{"title":"32bc_fruit.mpg","artist":"Unknown","album":"Unknown","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-10-15T22:29:40+10:00"
+type: scrobble
+permalink: /notes/scrobble/Unknown/Unknown/540e827cb8efa03051f4cbd421034cb031f9422e.html
+redirect_from:
+- /sl/n/s/d20171015222940.html
+- /sl/n/s/h.540e827cb8efa03051f4cbd421034cb031f9422e.html
+hidden: "true"
+music-title: 32bc_fruit.mpg
+music-artist: Unknown
+music-album: Unknown
+music-play-count: "1"
+title: Played 32bc_fruit.mpg by Unknown
+categories:
+- scrobble
+- October
+- 2017
+- 15
+- 32bc_fruit.mpg
+- Unknown
+- Unknown
+---
+
+
+--------------------
+hash: e1adce6534bc1f23470f6b823992911928376af3
+json_encode: {"date":"2017-10-15 22:04:40","type":"scrobble","tags":{"title":"32bc_electroc.mpg","artist":"Unknown","album":"Unknown","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-10-15T22:04:40+10:00"
+type: scrobble
+permalink: /notes/scrobble/Unknown/Unknown/e1adce6534bc1f23470f6b823992911928376af3.html
+redirect_from:
+- /sl/n/s/d20171015220440.html
+- /sl/n/s/h.e1adce6534bc1f23470f6b823992911928376af3.html
+hidden: "true"
+music-title: 32bc_electroc.mpg
+music-artist: Unknown
+music-album: Unknown
+music-play-count: "1"
+title: Played 32bc_electroc.mpg by Unknown
+categories:
+- scrobble
+- October
+- 2017
+- 15
+- 32bc_electroc.mpg
+- Unknown
+- Unknown
+---
+
+
+--------------------
+hash: 191a2462c02acf36b2fb300fb024c1cbc86e3a1e
+json_encode: {"date":"2017-10-16 06:14:07","type":"scrobble","tags":{"title":"32bc_lsD.mpg","artist":"Unknown","album":"Unknown","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-10-16T06:14:07+10:00"
+type: scrobble
+permalink: /notes/scrobble/Unknown/Unknown/191a2462c02acf36b2fb300fb024c1cbc86e3a1e.html
+redirect_from:
+- /sl/n/s/d20171016061407.html
+- /sl/n/s/h.191a2462c02acf36b2fb300fb024c1cbc86e3a1e.html
+hidden: "true"
+music-title: 32bc_lsD.mpg
+music-artist: Unknown
+music-album: Unknown
+music-play-count: "1"
+title: Played 32bc_lsD.mpg by Unknown
+categories:
+- scrobble
+- October
+- 2017
+- 16
+- 32bc_lsD.mpg
+- Unknown
+- Unknown
+---
+
+
+--------------------
+hash: 4c209c056c02aa5ac255a6b577ba55967bf8afa3
+json_encode: {"date":"2017-10-25 15:21:58","type":"scrobble","tags":{"title":"Amiga_Back4FutureRMX.mp3","artist":"Unknown","album":"Unknown","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-10-25T15:21:58+10:00"
+type: scrobble
+permalink: /notes/scrobble/Unknown/Unknown/4c209c056c02aa5ac255a6b577ba55967bf8afa3.html
+redirect_from:
+- /sl/n/s/d20171025152158.html
+- /sl/n/s/h.4c209c056c02aa5ac255a6b577ba55967bf8afa3.html
+hidden: "true"
+music-title: Amiga_Back4FutureRMX.mp3
+music-artist: Unknown
+music-album: Unknown
+music-play-count: "1"
+title: Played Amiga_Back4FutureRMX.mp3 by Unknown
+categories:
+- scrobble
+- October
+- 2017
+- 25
+- Amiga_Back4FutureRMX.mp3
+- Unknown
+- Unknown
+---
+
+
+--------------------
+hash: 490d178e3ced6af422737f249065c03abb520d04
+json_encode: {"date":"2017-10-25 16:42:22","type":"scrobble","tags":{"title":"DrugsofDelta.mpg","artist":"Unknown","album":"Unknown","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-10-25T16:42:22+10:00"
+type: scrobble
+permalink: /notes/scrobble/Unknown/Unknown/490d178e3ced6af422737f249065c03abb520d04.html
+redirect_from:
+- /sl/n/s/d20171025164222.html
+- /sl/n/s/h.490d178e3ced6af422737f249065c03abb520d04.html
+hidden: "true"
+music-title: DrugsofDelta.mpg
+music-artist: Unknown
+music-album: Unknown
+music-play-count: "1"
+title: Played DrugsofDelta.mpg by Unknown
+categories:
+- scrobble
+- October
+- 2017
+- 25
+- DrugsofDelta.mpg
+- Unknown
+- Unknown
+---
+
+
+--------------------
+hash: 5753bf88be8ea853963ad422f384eb66222bd66c
+json_encode: {"date":"2017-10-25 15:35:35","type":"scrobble","tags":{"title":"AstralTraveler.mpg","artist":"Unknown","album":"Unknown","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-10-25T15:35:35+10:00"
+type: scrobble
+permalink: /notes/scrobble/Unknown/Unknown/5753bf88be8ea853963ad422f384eb66222bd66c.html
+redirect_from:
+- /sl/n/s/d20171025153535.html
+- /sl/n/s/h.5753bf88be8ea853963ad422f384eb66222bd66c.html
+hidden: "true"
+music-title: AstralTraveler.mpg
+music-artist: Unknown
+music-album: Unknown
+music-play-count: "1"
+title: Played AstralTraveler.mpg by Unknown
+categories:
+- scrobble
+- October
+- 2017
+- 25
+- AstralTraveler.mpg
+- Unknown
+- Unknown
+---
+
+
+--------------------
+hash: e9b494c949d9263163a46b2ca57f53946ce9abc0
+json_encode: {"date":"2017-10-16 07:21:47","type":"scrobble","tags":{"title":"32bc_phat_elv.mpg","artist":"Unknown","album":"Unknown","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-10-16T07:21:47+10:00"
+type: scrobble
+permalink: /notes/scrobble/Unknown/Unknown/e9b494c949d9263163a46b2ca57f53946ce9abc0.html
+redirect_from:
+- /sl/n/s/d20171016072147.html
+- /sl/n/s/h.e9b494c949d9263163a46b2ca57f53946ce9abc0.html
+hidden: "true"
+music-title: 32bc_phat_elv.mpg
+music-artist: Unknown
+music-album: Unknown
+music-play-count: "1"
+title: Played 32bc_phat_elv.mpg by Unknown
+categories:
+- scrobble
+- October
+- 2017
+- 16
+- 32bc_phat_elv.mpg
+- Unknown
+- Unknown
+---
+
+
+--------------------
+hash: ad1ab12df30c5a8bcf3389670d92354a7d217d68
+json_encode: {"date":"2017-10-25 16:09:50","type":"scrobble","tags":{"title":"Copa2010.mp3","artist":"Unknown","album":"Unknown","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-10-25T16:09:50+10:00"
+type: scrobble
+permalink: /notes/scrobble/Unknown/Unknown/ad1ab12df30c5a8bcf3389670d92354a7d217d68.html
+redirect_from:
+- /sl/n/s/d20171025160950.html
+- /sl/n/s/h.ad1ab12df30c5a8bcf3389670d92354a7d217d68.html
+hidden: "true"
+music-title: Copa2010.mp3
+music-artist: Unknown
+music-album: Unknown
+music-play-count: "1"
+title: Played Copa2010.mp3 by Unknown
+categories:
+- scrobble
+- October
+- 2017
+- 25
+- Copa2010.mp3
+- Unknown
+- Unknown
+---
+
+
+--------------------
+hash: c0b085fde140f17d446c363c528c6a57e40f961d
+json_encode: {"date":"2017-10-25 15:18:09","type":"scrobble","tags":{"title":"AmigaRuFFlez.mp3","artist":"Unknown","album":"Unknown","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-10-25T15:18:09+10:00"
+type: scrobble
+permalink: /notes/scrobble/Unknown/Unknown/c0b085fde140f17d446c363c528c6a57e40f961d.html
+redirect_from:
+- /sl/n/s/d20171025151809.html
+- /sl/n/s/h.c0b085fde140f17d446c363c528c6a57e40f961d.html
+hidden: "true"
+music-title: AmigaRuFFlez.mp3
+music-artist: Unknown
+music-album: Unknown
+music-play-count: "1"
+title: Played AmigaRuFFlez.mp3 by Unknown
+categories:
+- scrobble
+- October
+- 2017
+- 25
+- AmigaRuFFlez.mp3
+- Unknown
+- Unknown
+---
+
+
+--------------------
+hash: 0d986e407948f32802be70c84933e2a6372b0b6e
+json_encode: {"date":"2017-10-16 07:25:30","type":"scrobble","tags":{"title":"32bc_procras1.mpg","artist":"Unknown","album":"Unknown","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-10-16T07:25:30+10:00"
+type: scrobble
+permalink: /notes/scrobble/Unknown/Unknown/0d986e407948f32802be70c84933e2a6372b0b6e.html
+redirect_from:
+- /sl/n/s/d20171016072530.html
+- /sl/n/s/h.0d986e407948f32802be70c84933e2a6372b0b6e.html
+hidden: "true"
+music-title: 32bc_procras1.mpg
+music-artist: Unknown
+music-album: Unknown
+music-play-count: "1"
+title: Played 32bc_procras1.mpg by Unknown
+categories:
+- scrobble
+- October
+- 2017
+- 16
+- 32bc_procras1.mpg
+- Unknown
+- Unknown
+---
+
+
+--------------------
+hash: c4c8f3b776ef3442c68af20e1d82b7340c8fafb7
+json_encode: {"date":"2017-10-25 15:13:49","type":"scrobble","tags":{"title":"Amiga 4 Everyone","artist":"Dieziseven","album":"Rocky\u00b4s Mountains","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-10-25T15:13:49+10:00"
+type: scrobble
+permalink: /notes/scrobble/Dieziseven/Rocky%C2%B4s+Mountains/c4c8f3b776ef3442c68af20e1d82b7340c8fafb7.html
+redirect_from:
+- /sl/n/s/d20171025151349.html
+- /sl/n/s/h.c4c8f3b776ef3442c68af20e1d82b7340c8fafb7.html
+hidden: "true"
+music-title: Amiga 4 Everyone
+music-artist: Dieziseven
+music-album: "Rocky\xB4s Mountains"
+music-play-count: "1"
+title: Played Amiga 4 Everyone by Dieziseven
+categories:
+- scrobble
+- October
+- 2017
+- 25
+- Amiga 4 Everyone
+- Dieziseven
+- "Rocky\xB4s Mountains"
+---
+
+
+--------------------
+hash: aab792bc89c264dc568eec94afa15f572bc2963b
+json_encode: {"date":"2017-10-25 15:26:58","type":"scrobble","tags":{"title":"Amiga Roolez","artist":"Dieziseven","album":"DFC","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-10-25T15:26:58+10:00"
+type: scrobble
+permalink: /notes/scrobble/Dieziseven/DFC/aab792bc89c264dc568eec94afa15f572bc2963b.html
+redirect_from:
+- /sl/n/s/d20171025152658.html
+- /sl/n/s/h.aab792bc89c264dc568eec94afa15f572bc2963b.html
+hidden: "true"
+music-title: Amiga Roolez
+music-artist: Dieziseven
+music-album: DFC
+music-play-count: "1"
+title: Played Amiga Roolez by Dieziseven
+categories:
+- scrobble
+- October
+- 2017
+- 25
+- Amiga Roolez
+- Dieziseven
+- DFC
+---
+
+
+--------------------
+hash: 31eb323ec659c8b2271516acfee393adc2c02087
+json_encode: {"date":"2017-10-25 16:13:16","type":"scrobble","tags":{"title":"Crazy Comets -","artist":"Rob Hubbard \/ Jeroen Breebaart","album":"Unknown","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-10-25T16:13:16+10:00"
+type: scrobble
+permalink: /notes/scrobble/Rob+Hubbard+%2F+Jeroen+Breebaart/Unknown/31eb323ec659c8b2271516acfee393adc2c02087.html
+redirect_from:
+- /sl/n/s/d20171025161316.html
+- /sl/n/s/h.31eb323ec659c8b2271516acfee393adc2c02087.html
+hidden: "true"
+music-title: Crazy Comets -
+music-artist: Rob Hubbard / Jeroen Breebaart
+music-album: Unknown
+music-play-count: "1"
+title: Played Crazy Comets - by Rob Hubbard / Jeroen Breebaart
+categories:
+- scrobble
+- October
+- 2017
+- 25
+- Crazy Comets -
+- Rob Hubbard / Jeroen Breebaart
+- Unknown
+---
+
+
+--------------------
+hash: cf994438277ce4c12314cd35562a5f31b202f4de
+json_encode: {"date":"2017-10-25 16:56:19","type":"scrobble","tags":{"title":"Fairlight - 1986 The Edge -","artist":"Mike Alsop(arr  Eric Pochesci)","album":"Unknown","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-10-25T16:56:19+10:00"
+type: scrobble
+permalink: /notes/scrobble/Mike+Alsop%28arr++Eric+Pochesci%29/Unknown/cf994438277ce4c12314cd35562a5f31b202f4de.html
+redirect_from:
+- /sl/n/s/d20171025165619.html
+- /sl/n/s/h.cf994438277ce4c12314cd35562a5f31b202f4de.html
+hidden: "true"
+music-title: Fairlight - 1986 The Edge -
+music-artist: Mike Alsop(arr  Eric Pochesci)
+music-album: Unknown
+music-play-count: "1"
+title: Played Fairlight - 1986 The Edge - by Mike Alsop(arr  Eric Pochesci)
+categories:
+- scrobble
+- October
+- 2017
+- 25
+- Fairlight - 1986 The Edge -
+- Mike Alsop(arr  Eric Pochesci)
+- Unknown
+---
+
+
+--------------------
+hash: d67dcf849358451ecb615c6a38dcb40ccc954c2d
+json_encode: {"date":"2017-10-14 04:26:43","type":"scrobble","tags":{"title":"Vampire Bride","artist":"Zadoc...and the Nightmare","album":"Beyond Our Eyes","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-10-14T04:26:43+10:00"
+type: scrobble
+permalink: /notes/scrobble/Zadoc---and+the+Nightmare/Beyond+Our+Eyes/d67dcf849358451ecb615c6a38dcb40ccc954c2d.html
+redirect_from:
+- /sl/n/s/d20171014042643.html
+- /sl/n/s/h.d67dcf849358451ecb615c6a38dcb40ccc954c2d.html
+hidden: "true"
+music-title: Vampire Bride
+music-artist: Zadoc---and the Nightmare
+music-album: Beyond Our Eyes
+music-play-count: "1"
+title: Played Vampire Bride by Zadoc---and the Nightmare
+categories:
+- scrobble
+- October
+- 2017
+- 14
+- Vampire Bride
+- Zadoc---and the Nightmare
+- Beyond Our Eyes
+---
+
+Found r12.ymlyml file :) 
+
+-----S-CONTENTS-------------
+---
+- date: "2017-12-27 12:58:30"
+  type: scrobble
+  tags: title=Flying+Low&artist=Manolis+S.+Pappas&album=Infinity2000&play-count=1
+- date: "2017-12-27 13:15:22"
+  type: scrobble
+  tags: title=Foundation1&artist=William+F.+Maddock&album=Unknown&play-count=1
+- date: "2017-12-27 13:20:41"
+  type: scrobble
+  tags: title=Foundation2&artist=William+F.+Maddock&album=Unknown&play-count=1
+- date: "2017-12-27 12:52:19"
+  type: scrobble
+  tags: title=Fear&artist=Planet+G&album=Unknown&play-count=1
+- date: "2017-12-27 13:04:52"
+  type: scrobble
+  tags: title=ForbidenDesert.mpg&artist=Unknown&album=Unknown&play-count=1
+- date: "2017-12-27 12:44:57"
+  type: scrobble
+  tags: title=Intermenco%28Commando+HighScore%29&artist=Haludza&album=Unknown&play-count=2
+- date: "2017-12-27 12:55:24"
+  type: scrobble
+  tags: title=Fiesta&artist=Dieziseven&album=Rocky%C2%B4s+Mountains&play-count=1
+- date: "2017-12-30 15:27:41"
+  type: scrobble
+  tags: title=25.+Pathfinder+Editorial+Executive+Craig+Bromberg&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-27 15:31:44"
+  type: scrobble
+  tags: title=3.+%28Ch+1.3%29+Netscape%27s+IPO+As+The+Big+Bang&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-29 15:13:10"
+  type: scrobble
+  tags: title=15.+%28Ch+4.1%29+The+Early+Search+Engines+And+Yahoo&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-31 07:44:50"
+  type: scrobble
+  tags: title=30.+%28Misc+2%29+The+NSA+And+The+1990s+Debate+Over+the+Clipper+Chip&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-27 14:59:56"
+  type: scrobble
+  tags: title=2.+%28Ch+1.2%29+The+Creation+of+Netscape&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-29 02:25:04"
+  type: scrobble
+  tags: title=8.+Aleks+Totic%2C+of+Mosaic+and+Netscape&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-30 06:58:03"
+  type: scrobble
+  tags: title=21.+Yahoo+Employee+%233%2C+Tim+Brady&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-30 12:05:13"
+  type: scrobble
+  tags: title=23.+Co-Founder+of+FocaLink%2C+Dave+Zinman&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-31 02:56:04"
+  type: scrobble
+  tags: title=28.+Pathfinder+Executive+Oliver+Knowlton&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-31 14:30:41"
+  type: scrobble
+  tags: title=32.+%28Ch+5.2%29+Wired%2C+CNET%2C+Slate%2C+Salon+and+Suck&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-31 15:25:35"
+  type: scrobble
+  tags: title=33.+HotWired+CEO+Andrew+Anker&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-28 12:18:40"
+  type: scrobble
+  tags: title=5.+Netscape+and+Mosaic+Founding+Engineer%2C+Lou+Montulli&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-29 14:39:47"
+  type: scrobble
+  tags: title=14.+%28Misc+1%29+The+Forgotten+Online+Pioneer%2C+Bill+von+Meister&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-31 10:34:02"
+  type: scrobble
+  tags: title=31.+Real+Networks+Founder+and+CEO+Rob+Glaser&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-29 11:38:26"
+  type: scrobble
+  tags: title=11.+%28Ch+3.1%29+CompuServe%2C+Prodigy%2C+AOL+and+the+Early+Online+Services&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-29 12:17:59"
+  type: scrobble
+  tags: title=12.+%28Ch+3.2%29+The+Rise+of+AOL&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-29 16:54:06"
+  type: scrobble
+  tags: title=18.+The+True+Story+Behind+Halt+And+Catch+Fire+-+An+Interview+With+Rod+Canion&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-31 02:26:08"
+  type: scrobble
+  tags: title=27.+She+Gave+The+World+A+Billion+AOL+CDs+-+An+Interview+With+Marketing+Legend+Jan+Brandt&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-29 11:08:37"
+  type: scrobble
+  tags: title=10.+Rob+McCool%2C+Founding+Engineer%2C+Mosaic+and+Netscape&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-29 16:06:49"
+  type: scrobble
+  tags: title=17.+Co-Creator+of+the+First+Remote+Ad+Server%2C+Jason+Strober&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-29 03:19:09"
+  type: scrobble
+  tags: title=9.++Jon+Mittelhauser%2C+Founding+Engineer%2C+Mosaic+and+Netscape&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-31 05:14:56"
+  type: scrobble
+  tags: title=29.+Analysis+Episode+1+With+Chris+Higgins+%40chrishiggins&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-31 17:03:56"
+  type: scrobble
+  tags: title=35.+Joe+McCambley+Discusses+Advertising+and+the+First+Banner+Ads&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-30 14:17:44"
+  type: scrobble
+  tags: title=24.+%28Ch+5.1%29+Mercury+Center+and+Pathfinder+-+Big+Media%27s+Big+Web+Adventure&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-29 15:39:09"
+  type: scrobble
+  tags: title=16.+Internet+Explorer+Team+Member%2C+Hadi+Partovi+%40hadip&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-30 16:55:32"
+  type: scrobble
+  tags: title=26.+Head+of+Time+New+Media+Executive+Linda+McCutcheon&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-30 05:52:13"
+  type: scrobble
+  tags: title=20.+%28Ch+4.2%29+How+Yahoo+Became+The+Web%27s+First+Great+Company&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-31 18:55:53"
+  type: scrobble
+  tags: title=36.+Talking+Early+Online+Services+With+Chris+Higgins+%40chrishiggins&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-27 14:00:59"
+  type: scrobble
+  tags: title=1.+%28Ch+1.1%29+Mosaic+-+The+%22First%22+Web+Browser&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-28 16:31:55"
+  type: scrobble
+  tags: title=7.+%28Ch+2.2%29+Bill+Gates+%22Gets%22+The+Internet&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-29 17:45:16"
+  type: scrobble
+  tags: title=19.+Co-Founder+of+Netgravity%2C+John+Danner&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-27 16:28:56"
+  type: scrobble
+  tags: title=4.+%28Ch+2.1%29+Microsoft+At+The+Dawn+Of+The+Internet+Era&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-28 13:39:18"
+  type: scrobble
+  tags: title=6.+Mosaic+and+Internet+Explorer+Engineer%2C+Chris+Wilson&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-30 07:49:20"
+  type: scrobble
+  tags: title=22.+Co-Founder+of+DoubleClick%2C+Kevin+O%27Connor&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-29 13:50:48"
+  type: scrobble
+  tags: title=13.+Co-Designer+of+the+First+Banner+Ad%2C+Co-Founder+of+Razorfish%2C+Craig+Kanarick&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-31 16:18:49"
+  type: scrobble
+  tags: title=34.+Owen+Thomas+of+HotWired+and+Suck&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+...
+
+-----E-CONTENTS-------------
+
+--------------------
+hash: 40c0460188b4cb7a5bd2b3bddf3e7b4dfb0903b1
+json_encode: {"date":"2017-12-27 12:58:30","type":"scrobble","tags":{"title":"Flying Low","artist":"Manolis S. Pappas","album":"Infinity2000","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-12-27T12:58:30+10:00"
+type: scrobble
+permalink: /notes/scrobble/Manolis+S.+Pappas/Infinity2000/40c0460188b4cb7a5bd2b3bddf3e7b4dfb0903b1.html
+redirect_from:
+- /sl/n/s/d20171227125830.html
+- /sl/n/s/h.40c0460188b4cb7a5bd2b3bddf3e7b4dfb0903b1.html
+hidden: "true"
+music-title: Flying Low
+music-artist: Manolis S. Pappas
+music-album: Infinity2000
+music-play-count: "1"
+title: Played Flying Low by Manolis S. Pappas
+categories:
+- scrobble
+- December
+- 2017
+- 27
+- Flying Low
+- Manolis S. Pappas
+- Infinity2000
+---
+
+
+--------------------
+hash: 1d69dae1d3aa09e867df7cfa57b524e38e928a47
+json_encode: {"date":"2017-12-27 13:15:22","type":"scrobble","tags":{"title":"Foundation1","artist":"William F. Maddock","album":"Unknown","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-12-27T13:15:22+10:00"
+type: scrobble
+permalink: /notes/scrobble/William+F.+Maddock/Unknown/1d69dae1d3aa09e867df7cfa57b524e38e928a47.html
+redirect_from:
+- /sl/n/s/d20171227131522.html
+- /sl/n/s/h.1d69dae1d3aa09e867df7cfa57b524e38e928a47.html
+hidden: "true"
+music-title: Foundation1
+music-artist: William F. Maddock
+music-album: Unknown
+music-play-count: "1"
+title: Played Foundation1 by William F. Maddock
+categories:
+- scrobble
+- December
+- 2017
+- 27
+- Foundation1
+- William F. Maddock
+- Unknown
+---
+
+
+--------------------
+hash: edb67bfb21bc98c0d6ee6ef0844fdcdde118091e
+json_encode: {"date":"2017-12-27 13:20:41","type":"scrobble","tags":{"title":"Foundation2","artist":"William F. Maddock","album":"Unknown","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-12-27T13:20:41+10:00"
+type: scrobble
+permalink: /notes/scrobble/William+F.+Maddock/Unknown/edb67bfb21bc98c0d6ee6ef0844fdcdde118091e.html
+redirect_from:
+- /sl/n/s/d20171227132041.html
+- /sl/n/s/h.edb67bfb21bc98c0d6ee6ef0844fdcdde118091e.html
+hidden: "true"
+music-title: Foundation2
+music-artist: William F. Maddock
+music-album: Unknown
+music-play-count: "1"
+title: Played Foundation2 by William F. Maddock
+categories:
+- scrobble
+- December
+- 2017
+- 27
+- Foundation2
+- William F. Maddock
+- Unknown
+---
+
+
+--------------------
+hash: f0208a69131bca7ccc448cf7226312348748c4dc
+json_encode: {"date":"2017-12-27 12:52:19","type":"scrobble","tags":{"title":"Fear","artist":"Planet G","album":"Unknown","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-12-27T12:52:19+10:00"
+type: scrobble
+permalink: /notes/scrobble/Planet+G/Unknown/f0208a69131bca7ccc448cf7226312348748c4dc.html
+redirect_from:
+- /sl/n/s/d20171227125219.html
+- /sl/n/s/h.f0208a69131bca7ccc448cf7226312348748c4dc.html
+hidden: "true"
+music-title: Fear
+music-artist: Planet G
+music-album: Unknown
+music-play-count: "1"
+title: Played Fear by Planet G
+categories:
+- scrobble
+- December
+- 2017
+- 27
+- Fear
+- Planet G
+- Unknown
+---
+
+
+--------------------
+hash: 7580ecc6d364baca443aec229eb2898e388d9e72
+json_encode: {"date":"2017-12-27 13:04:52","type":"scrobble","tags":{"title":"ForbidenDesert.mpg","artist":"Unknown","album":"Unknown","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-12-27T13:04:52+10:00"
+type: scrobble
+permalink: /notes/scrobble/Unknown/Unknown/7580ecc6d364baca443aec229eb2898e388d9e72.html
+redirect_from:
+- /sl/n/s/d20171227130452.html
+- /sl/n/s/h.7580ecc6d364baca443aec229eb2898e388d9e72.html
+hidden: "true"
+music-title: ForbidenDesert.mpg
+music-artist: Unknown
+music-album: Unknown
+music-play-count: "1"
+title: Played ForbidenDesert.mpg by Unknown
+categories:
+- scrobble
+- December
+- 2017
+- 27
+- ForbidenDesert.mpg
+- Unknown
+- Unknown
+---
+
+
+--------------------
+hash: a72e83d64aaeeb546146c1e3c0971583325d7a3a
+json_encode: {"date":"2017-12-27 12:44:57","type":"scrobble","tags":{"title":"Intermenco(Commando HighScore)","artist":"Haludza","album":"Unknown","play-count":"2"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-12-27T12:44:57+10:00"
+type: scrobble
+permalink: /notes/scrobble/Haludza/Unknown/a72e83d64aaeeb546146c1e3c0971583325d7a3a.html
+redirect_from:
+- /sl/n/s/d20171227124457.html
+- /sl/n/s/h.a72e83d64aaeeb546146c1e3c0971583325d7a3a.html
+hidden: "true"
+music-title: Intermenco(Commando HighScore)
+music-artist: Haludza
+music-album: Unknown
+music-play-count: "2"
+title: Played Intermenco(Commando HighScore) by Haludza
+categories:
+- scrobble
+- December
+- 2017
+- 27
+- Intermenco(Commando HighScore)
+- Haludza
+- Unknown
+---
+
+
+--------------------
+hash: bcc79f71f865aa4e4cddced88210b5d834da0f29
+json_encode: {"date":"2017-12-27 12:55:24","type":"scrobble","tags":{"title":"Fiesta","artist":"Dieziseven","album":"Rocky\u00b4s Mountains","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-12-27T12:55:24+10:00"
+type: scrobble
+permalink: /notes/scrobble/Dieziseven/Rocky%C2%B4s+Mountains/bcc79f71f865aa4e4cddced88210b5d834da0f29.html
+redirect_from:
+- /sl/n/s/d20171227125524.html
+- /sl/n/s/h.bcc79f71f865aa4e4cddced88210b5d834da0f29.html
+hidden: "true"
+music-title: Fiesta
+music-artist: Dieziseven
+music-album: "Rocky\xB4s Mountains"
+music-play-count: "1"
+title: Played Fiesta by Dieziseven
+categories:
+- scrobble
+- December
+- 2017
+- 27
+- Fiesta
+- Dieziseven
+- "Rocky\xB4s Mountains"
+---
+
+
+--------------------
+hash: 9fc44d50408617d7ab174c8818811739a39b402d
+json_encode: {"date":"2017-12-30 15:27:41","type":"scrobble","tags":{"title":"25. Pathfinder Editorial Executive Craig Bromberg","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-12-30T15:27:41+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/9fc44d50408617d7ab174c8818811739a39b402d.html
+redirect_from:
+- /sl/n/s/d20171230152741.html
+- /sl/n/s/h.9fc44d50408617d7ab174c8818811739a39b402d.html
+hidden: "true"
+music-title: 25. Pathfinder Editorial Executive Craig Bromberg
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 25. Pathfinder Editorial Executive Craig Bromberg by Brian McCullough
+  @brianmcc
+categories:
+- scrobble
+- December
+- 2017
+- 30
+- 25. Pathfinder Editorial Executive Craig Bromberg
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: 88e42532cf5207558e32779ae0e09338f9673d44
+json_encode: {"date":"2017-12-27 15:31:44","type":"scrobble","tags":{"title":"3. (Ch 1.3) Netscape's IPO As The Big Bang","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-12-27T15:31:44+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/88e42532cf5207558e32779ae0e09338f9673d44.html
+redirect_from:
+- /sl/n/s/d20171227153144.html
+- /sl/n/s/h.88e42532cf5207558e32779ae0e09338f9673d44.html
+hidden: "true"
+music-title: 3. (Ch 1.3) Netscape's IPO As The Big Bang
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 3. (Ch 1.3) Netscape's IPO As The Big Bang by Brian McCullough @brianmcc
+categories:
+- scrobble
+- December
+- 2017
+- 27
+- 3. (Ch 1.3) Netscape's IPO As The Big Bang
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: 702fb57bff58cf9b2e3091ebb0080ae86710280c
+json_encode: {"date":"2017-12-29 15:13:10","type":"scrobble","tags":{"title":"15. (Ch 4.1) The Early Search Engines And Yahoo","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-12-29T15:13:10+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/702fb57bff58cf9b2e3091ebb0080ae86710280c.html
+redirect_from:
+- /sl/n/s/d20171229151310.html
+- /sl/n/s/h.702fb57bff58cf9b2e3091ebb0080ae86710280c.html
+hidden: "true"
+music-title: 15. (Ch 4.1) The Early Search Engines And Yahoo
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 15. (Ch 4.1) The Early Search Engines And Yahoo by Brian McCullough
+  @brianmcc
+categories:
+- scrobble
+- December
+- 2017
+- 29
+- 15. (Ch 4.1) The Early Search Engines And Yahoo
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: 3e2c862d0448360d781503fb1a6d5a433852c5f3
+json_encode: {"date":"2017-12-31 07:44:50","type":"scrobble","tags":{"title":"30. (Misc 2) The NSA And The 1990s Debate Over the Clipper Chip","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-12-31T07:44:50+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/3e2c862d0448360d781503fb1a6d5a433852c5f3.html
+redirect_from:
+- /sl/n/s/d20171231074450.html
+- /sl/n/s/h.3e2c862d0448360d781503fb1a6d5a433852c5f3.html
+hidden: "true"
+music-title: 30. (Misc 2) The NSA And The 1990s Debate Over the Clipper Chip
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 30. (Misc 2) The NSA And The 1990s Debate Over the Clipper Chip by Brian
+  McCullough @brianmcc
+categories:
+- scrobble
+- December
+- 2017
+- 31
+- 30. (Misc 2) The NSA And The 1990s Debate Over the Clipper Chip
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: 6bf3cba8ec44194b8842cbe51809fc38d609bbc3
+json_encode: {"date":"2017-12-27 14:59:56","type":"scrobble","tags":{"title":"2. (Ch 1.2) The Creation of Netscape","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-12-27T14:59:56+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/6bf3cba8ec44194b8842cbe51809fc38d609bbc3.html
+redirect_from:
+- /sl/n/s/d20171227145956.html
+- /sl/n/s/h.6bf3cba8ec44194b8842cbe51809fc38d609bbc3.html
+hidden: "true"
+music-title: 2. (Ch 1.2) The Creation of Netscape
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 2. (Ch 1.2) The Creation of Netscape by Brian McCullough @brianmcc
+categories:
+- scrobble
+- December
+- 2017
+- 27
+- 2. (Ch 1.2) The Creation of Netscape
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: 15ae65f22cfa91eca3d10bb2aaeee889c5198b67
+json_encode: {"date":"2017-12-29 02:25:04","type":"scrobble","tags":{"title":"8. Aleks Totic, of Mosaic and Netscape","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-12-29T02:25:04+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/15ae65f22cfa91eca3d10bb2aaeee889c5198b67.html
+redirect_from:
+- /sl/n/s/d20171229022504.html
+- /sl/n/s/h.15ae65f22cfa91eca3d10bb2aaeee889c5198b67.html
+hidden: "true"
+music-title: 8. Aleks Totic, of Mosaic and Netscape
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 8. Aleks Totic, of Mosaic and Netscape by Brian McCullough @brianmcc
+categories:
+- scrobble
+- December
+- 2017
+- 29
+- 8. Aleks Totic, of Mosaic and Netscape
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: 4d685f533d548318f9fe819e85677e304571f62f
+json_encode: {"date":"2017-12-30 06:58:03","type":"scrobble","tags":{"title":"21. Yahoo Employee #3, Tim Brady","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-12-30T06:58:03+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/4d685f533d548318f9fe819e85677e304571f62f.html
+redirect_from:
+- /sl/n/s/d20171230065803.html
+- /sl/n/s/h.4d685f533d548318f9fe819e85677e304571f62f.html
+hidden: "true"
+music-title: '21. Yahoo Employee #3, Tim Brady'
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: 'Played 21. Yahoo Employee #3, Tim Brady by Brian McCullough @brianmcc'
+categories:
+- scrobble
+- December
+- 2017
+- 30
+- '21. Yahoo Employee #3, Tim Brady'
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: 5d4117e3f3cac3fc4abc5b6ac9f72156fc70f23b
+json_encode: {"date":"2017-12-30 12:05:13","type":"scrobble","tags":{"title":"23. Co-Founder of FocaLink, Dave Zinman","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-12-30T12:05:13+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/5d4117e3f3cac3fc4abc5b6ac9f72156fc70f23b.html
+redirect_from:
+- /sl/n/s/d20171230120513.html
+- /sl/n/s/h.5d4117e3f3cac3fc4abc5b6ac9f72156fc70f23b.html
+hidden: "true"
+music-title: 23. Co-Founder of FocaLink, Dave Zinman
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 23. Co-Founder of FocaLink, Dave Zinman by Brian McCullough @brianmcc
+categories:
+- scrobble
+- December
+- 2017
+- 30
+- 23. Co-Founder of FocaLink, Dave Zinman
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: a661e6733acad6c61241db9786db90e4678df7bb
+json_encode: {"date":"2017-12-31 02:56:04","type":"scrobble","tags":{"title":"28. Pathfinder Executive Oliver Knowlton","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-12-31T02:56:04+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/a661e6733acad6c61241db9786db90e4678df7bb.html
+redirect_from:
+- /sl/n/s/d20171231025604.html
+- /sl/n/s/h.a661e6733acad6c61241db9786db90e4678df7bb.html
+hidden: "true"
+music-title: 28. Pathfinder Executive Oliver Knowlton
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 28. Pathfinder Executive Oliver Knowlton by Brian McCullough @brianmcc
+categories:
+- scrobble
+- December
+- 2017
+- 31
+- 28. Pathfinder Executive Oliver Knowlton
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: 6ad48391ed49941eba76bd630e37af2fdd141627
+json_encode: {"date":"2017-12-31 14:30:41","type":"scrobble","tags":{"title":"32. (Ch 5.2) Wired, CNET, Slate, Salon and Suck","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-12-31T14:30:41+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/6ad48391ed49941eba76bd630e37af2fdd141627.html
+redirect_from:
+- /sl/n/s/d20171231143041.html
+- /sl/n/s/h.6ad48391ed49941eba76bd630e37af2fdd141627.html
+hidden: "true"
+music-title: 32. (Ch 5.2) Wired, CNET, Slate, Salon and Suck
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 32. (Ch 5.2) Wired, CNET, Slate, Salon and Suck by Brian McCullough
+  @brianmcc
+categories:
+- scrobble
+- December
+- 2017
+- 31
+- 32. (Ch 5.2) Wired, CNET, Slate, Salon and Suck
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: 2023b46aea7c1e5a949c6320af05b76cbccc2600
+json_encode: {"date":"2017-12-31 15:25:35","type":"scrobble","tags":{"title":"33. HotWired CEO Andrew Anker","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-12-31T15:25:35+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/2023b46aea7c1e5a949c6320af05b76cbccc2600.html
+redirect_from:
+- /sl/n/s/d20171231152535.html
+- /sl/n/s/h.2023b46aea7c1e5a949c6320af05b76cbccc2600.html
+hidden: "true"
+music-title: 33. HotWired CEO Andrew Anker
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 33. HotWired CEO Andrew Anker by Brian McCullough @brianmcc
+categories:
+- scrobble
+- December
+- 2017
+- 31
+- 33. HotWired CEO Andrew Anker
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: 72783b21a100daade68822cb26a153b93d0d772d
+json_encode: {"date":"2017-12-28 12:18:40","type":"scrobble","tags":{"title":"5. Netscape and Mosaic Founding Engineer, Lou Montulli","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-12-28T12:18:40+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/72783b21a100daade68822cb26a153b93d0d772d.html
+redirect_from:
+- /sl/n/s/d20171228121840.html
+- /sl/n/s/h.72783b21a100daade68822cb26a153b93d0d772d.html
+hidden: "true"
+music-title: 5. Netscape and Mosaic Founding Engineer, Lou Montulli
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 5. Netscape and Mosaic Founding Engineer, Lou Montulli by Brian McCullough
+  @brianmcc
+categories:
+- scrobble
+- December
+- 2017
+- 28
+- 5. Netscape and Mosaic Founding Engineer, Lou Montulli
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: 044f60b1bdaece80fd7f255afda5c2ae0e44fb86
+json_encode: {"date":"2017-12-29 14:39:47","type":"scrobble","tags":{"title":"14. (Misc 1) The Forgotten Online Pioneer, Bill von Meister","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-12-29T14:39:47+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/044f60b1bdaece80fd7f255afda5c2ae0e44fb86.html
+redirect_from:
+- /sl/n/s/d20171229143947.html
+- /sl/n/s/h.044f60b1bdaece80fd7f255afda5c2ae0e44fb86.html
+hidden: "true"
+music-title: 14. (Misc 1) The Forgotten Online Pioneer, Bill von Meister
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 14. (Misc 1) The Forgotten Online Pioneer, Bill von Meister by Brian
+  McCullough @brianmcc
+categories:
+- scrobble
+- December
+- 2017
+- 29
+- 14. (Misc 1) The Forgotten Online Pioneer, Bill von Meister
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: a11540bb6a025fc46b6e07e3514f9b208a5e043e
+json_encode: {"date":"2017-12-31 10:34:02","type":"scrobble","tags":{"title":"31. Real Networks Founder and CEO Rob Glaser","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-12-31T10:34:02+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/a11540bb6a025fc46b6e07e3514f9b208a5e043e.html
+redirect_from:
+- /sl/n/s/d20171231103402.html
+- /sl/n/s/h.a11540bb6a025fc46b6e07e3514f9b208a5e043e.html
+hidden: "true"
+music-title: 31. Real Networks Founder and CEO Rob Glaser
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 31. Real Networks Founder and CEO Rob Glaser by Brian McCullough @brianmcc
+categories:
+- scrobble
+- December
+- 2017
+- 31
+- 31. Real Networks Founder and CEO Rob Glaser
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: cc293059f56fd4864643be33fc0d6be73582fd03
+json_encode: {"date":"2017-12-29 11:38:26","type":"scrobble","tags":{"title":"11. (Ch 3.1) CompuServe, Prodigy, AOL and the Early Online Services","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-12-29T11:38:26+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/cc293059f56fd4864643be33fc0d6be73582fd03.html
+redirect_from:
+- /sl/n/s/d20171229113826.html
+- /sl/n/s/h.cc293059f56fd4864643be33fc0d6be73582fd03.html
+hidden: "true"
+music-title: 11. (Ch 3.1) CompuServe, Prodigy, AOL and the Early Online Services
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 11. (Ch 3.1) CompuServe, Prodigy, AOL and the Early Online Services
+  by Brian McCullough @brianmcc
+categories:
+- scrobble
+- December
+- 2017
+- 29
+- 11. (Ch 3.1) CompuServe, Prodigy, AOL and the Early Online Services
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: e2cbfb403910b00610d03ec7f9629a7b64932d16
+json_encode: {"date":"2017-12-29 12:17:59","type":"scrobble","tags":{"title":"12. (Ch 3.2) The Rise of AOL","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-12-29T12:17:59+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/e2cbfb403910b00610d03ec7f9629a7b64932d16.html
+redirect_from:
+- /sl/n/s/d20171229121759.html
+- /sl/n/s/h.e2cbfb403910b00610d03ec7f9629a7b64932d16.html
+hidden: "true"
+music-title: 12. (Ch 3.2) The Rise of AOL
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 12. (Ch 3.2) The Rise of AOL by Brian McCullough @brianmcc
+categories:
+- scrobble
+- December
+- 2017
+- 29
+- 12. (Ch 3.2) The Rise of AOL
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: c08d14043ec933f4892fe01a3b45d1d9ed30d409
+json_encode: {"date":"2017-12-29 16:54:06","type":"scrobble","tags":{"title":"18. The True Story Behind Halt And Catch Fire - An Interview With Rod Canion","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-12-29T16:54:06+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/c08d14043ec933f4892fe01a3b45d1d9ed30d409.html
+redirect_from:
+- /sl/n/s/d20171229165406.html
+- /sl/n/s/h.c08d14043ec933f4892fe01a3b45d1d9ed30d409.html
+hidden: "true"
+music-title: 18. The True Story Behind Halt And Catch Fire - An Interview With Rod
+  Canion
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 18. The True Story Behind Halt And Catch Fire - An Interview With Rod
+  Canion by Brian McCullough @brianmcc
+categories:
+- scrobble
+- December
+- 2017
+- 29
+- 18. The True Story Behind Halt And Catch Fire - An Interview With Rod Canion
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: 39175e5343ae0762e99f7fdddf23d93f8cbd8f07
+json_encode: {"date":"2017-12-31 02:26:08","type":"scrobble","tags":{"title":"27. She Gave The World A Billion AOL CDs - An Interview With Marketing Legend Jan Brandt","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-12-31T02:26:08+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/39175e5343ae0762e99f7fdddf23d93f8cbd8f07.html
+redirect_from:
+- /sl/n/s/d20171231022608.html
+- /sl/n/s/h.39175e5343ae0762e99f7fdddf23d93f8cbd8f07.html
+hidden: "true"
+music-title: 27. She Gave The World A Billion AOL CDs - An Interview With Marketing
+  Legend Jan Brandt
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 27. She Gave The World A Billion AOL CDs - An Interview With Marketing
+  Legend Jan Brandt by Brian McCullough @brianmcc
+categories:
+- scrobble
+- December
+- 2017
+- 31
+- 27. She Gave The World A Billion AOL CDs - An Interview With Marketing Legend Jan
+  Brandt
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: b466698adaf68a93624b93dc31760d11918dd88f
+json_encode: {"date":"2017-12-29 11:08:37","type":"scrobble","tags":{"title":"10. Rob McCool, Founding Engineer, Mosaic and Netscape","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-12-29T11:08:37+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/b466698adaf68a93624b93dc31760d11918dd88f.html
+redirect_from:
+- /sl/n/s/d20171229110837.html
+- /sl/n/s/h.b466698adaf68a93624b93dc31760d11918dd88f.html
+hidden: "true"
+music-title: 10. Rob McCool, Founding Engineer, Mosaic and Netscape
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 10. Rob McCool, Founding Engineer, Mosaic and Netscape by Brian McCullough
+  @brianmcc
+categories:
+- scrobble
+- December
+- 2017
+- 29
+- 10. Rob McCool, Founding Engineer, Mosaic and Netscape
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: be8d4fc634a3a64d92878eadf455d4231539f499
+json_encode: {"date":"2017-12-29 16:06:49","type":"scrobble","tags":{"title":"17. Co-Creator of the First Remote Ad Server, Jason Strober","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-12-29T16:06:49+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/be8d4fc634a3a64d92878eadf455d4231539f499.html
+redirect_from:
+- /sl/n/s/d20171229160649.html
+- /sl/n/s/h.be8d4fc634a3a64d92878eadf455d4231539f499.html
+hidden: "true"
+music-title: 17. Co-Creator of the First Remote Ad Server, Jason Strober
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 17. Co-Creator of the First Remote Ad Server, Jason Strober by Brian
+  McCullough @brianmcc
+categories:
+- scrobble
+- December
+- 2017
+- 29
+- 17. Co-Creator of the First Remote Ad Server, Jason Strober
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: e360ee00c2c3a8cb51b3b2ea0203da61c8fe9222
+json_encode: {"date":"2017-12-29 03:19:09","type":"scrobble","tags":{"title":"9.  Jon Mittelhauser, Founding Engineer, Mosaic and Netscape","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-12-29T03:19:09+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/e360ee00c2c3a8cb51b3b2ea0203da61c8fe9222.html
+redirect_from:
+- /sl/n/s/d20171229031909.html
+- /sl/n/s/h.e360ee00c2c3a8cb51b3b2ea0203da61c8fe9222.html
+hidden: "true"
+music-title: 9.  Jon Mittelhauser, Founding Engineer, Mosaic and Netscape
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 9.  Jon Mittelhauser, Founding Engineer, Mosaic and Netscape by Brian
+  McCullough @brianmcc
+categories:
+- scrobble
+- December
+- 2017
+- 29
+- 9.  Jon Mittelhauser, Founding Engineer, Mosaic and Netscape
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: 800bd9f832024f36ecf3173b7f86d0a8d9a9ef48
+json_encode: {"date":"2017-12-31 05:14:56","type":"scrobble","tags":{"title":"29. Analysis Episode 1 With Chris Higgins @chrishiggins","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-12-31T05:14:56+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/800bd9f832024f36ecf3173b7f86d0a8d9a9ef48.html
+redirect_from:
+- /sl/n/s/d20171231051456.html
+- /sl/n/s/h.800bd9f832024f36ecf3173b7f86d0a8d9a9ef48.html
+hidden: "true"
+music-title: 29. Analysis Episode 1 With Chris Higgins @chrishiggins
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 29. Analysis Episode 1 With Chris Higgins @chrishiggins by Brian McCullough
+  @brianmcc
+categories:
+- scrobble
+- December
+- 2017
+- 31
+- 29. Analysis Episode 1 With Chris Higgins @chrishiggins
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: 4a07507696734e97c68b316089ec7821971cc003
+json_encode: {"date":"2017-12-31 17:03:56","type":"scrobble","tags":{"title":"35. Joe McCambley Discusses Advertising and the First Banner Ads","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-12-31T17:03:56+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/4a07507696734e97c68b316089ec7821971cc003.html
+redirect_from:
+- /sl/n/s/d20171231170356.html
+- /sl/n/s/h.4a07507696734e97c68b316089ec7821971cc003.html
+hidden: "true"
+music-title: 35. Joe McCambley Discusses Advertising and the First Banner Ads
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 35. Joe McCambley Discusses Advertising and the First Banner Ads by
+  Brian McCullough @brianmcc
+categories:
+- scrobble
+- December
+- 2017
+- 31
+- 35. Joe McCambley Discusses Advertising and the First Banner Ads
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: f4eabdeeddce7170272138871cc9bce2c0898711
+json_encode: {"date":"2017-12-30 14:17:44","type":"scrobble","tags":{"title":"24. (Ch 5.1) Mercury Center and Pathfinder - Big Media's Big Web Adventure","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-12-30T14:17:44+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/f4eabdeeddce7170272138871cc9bce2c0898711.html
+redirect_from:
+- /sl/n/s/d20171230141744.html
+- /sl/n/s/h.f4eabdeeddce7170272138871cc9bce2c0898711.html
+hidden: "true"
+music-title: 24. (Ch 5.1) Mercury Center and Pathfinder - Big Media's Big Web Adventure
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 24. (Ch 5.1) Mercury Center and Pathfinder - Big Media's Big Web Adventure
+  by Brian McCullough @brianmcc
+categories:
+- scrobble
+- December
+- 2017
+- 30
+- 24. (Ch 5.1) Mercury Center and Pathfinder - Big Media's Big Web Adventure
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: b85ed8465c1c447ed715afe0850a825bde205e4c
+json_encode: {"date":"2017-12-29 15:39:09","type":"scrobble","tags":{"title":"16. Internet Explorer Team Member, Hadi Partovi @hadip","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-12-29T15:39:09+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/b85ed8465c1c447ed715afe0850a825bde205e4c.html
+redirect_from:
+- /sl/n/s/d20171229153909.html
+- /sl/n/s/h.b85ed8465c1c447ed715afe0850a825bde205e4c.html
+hidden: "true"
+music-title: 16. Internet Explorer Team Member, Hadi Partovi @hadip
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 16. Internet Explorer Team Member, Hadi Partovi @hadip by Brian McCullough
+  @brianmcc
+categories:
+- scrobble
+- December
+- 2017
+- 29
+- 16. Internet Explorer Team Member, Hadi Partovi @hadip
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: 98a6184ff0b1acf8d8966299b4990b9eb74c54ca
+json_encode: {"date":"2017-12-30 16:55:32","type":"scrobble","tags":{"title":"26. Head of Time New Media Executive Linda McCutcheon","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-12-30T16:55:32+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/98a6184ff0b1acf8d8966299b4990b9eb74c54ca.html
+redirect_from:
+- /sl/n/s/d20171230165532.html
+- /sl/n/s/h.98a6184ff0b1acf8d8966299b4990b9eb74c54ca.html
+hidden: "true"
+music-title: 26. Head of Time New Media Executive Linda McCutcheon
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 26. Head of Time New Media Executive Linda McCutcheon by Brian McCullough
+  @brianmcc
+categories:
+- scrobble
+- December
+- 2017
+- 30
+- 26. Head of Time New Media Executive Linda McCutcheon
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: 3244e848c269ee0a1430c1ea2e9af7ad2f18b12e
+json_encode: {"date":"2017-12-30 05:52:13","type":"scrobble","tags":{"title":"20. (Ch 4.2) How Yahoo Became The Web's First Great Company","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-12-30T05:52:13+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/3244e848c269ee0a1430c1ea2e9af7ad2f18b12e.html
+redirect_from:
+- /sl/n/s/d20171230055213.html
+- /sl/n/s/h.3244e848c269ee0a1430c1ea2e9af7ad2f18b12e.html
+hidden: "true"
+music-title: 20. (Ch 4.2) How Yahoo Became The Web's First Great Company
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 20. (Ch 4.2) How Yahoo Became The Web's First Great Company by Brian
+  McCullough @brianmcc
+categories:
+- scrobble
+- December
+- 2017
+- 30
+- 20. (Ch 4.2) How Yahoo Became The Web's First Great Company
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: 98e7157b498eda676ffe59a8a8f47597c2e088e5
+json_encode: {"date":"2017-12-31 18:55:53","type":"scrobble","tags":{"title":"36. Talking Early Online Services With Chris Higgins @chrishiggins","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-12-31T18:55:53+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/98e7157b498eda676ffe59a8a8f47597c2e088e5.html
+redirect_from:
+- /sl/n/s/d20171231185553.html
+- /sl/n/s/h.98e7157b498eda676ffe59a8a8f47597c2e088e5.html
+hidden: "true"
+music-title: 36. Talking Early Online Services With Chris Higgins @chrishiggins
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 36. Talking Early Online Services With Chris Higgins @chrishiggins by
+  Brian McCullough @brianmcc
+categories:
+- scrobble
+- December
+- 2017
+- 31
+- 36. Talking Early Online Services With Chris Higgins @chrishiggins
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: 15b4257b04c59034491e6290fa8e5b21dcfe63b4
+json_encode: {"date":"2017-12-27 14:00:59","type":"scrobble","tags":{"title":"1. (Ch 1.1) Mosaic - The \"First\" Web Browser","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-12-27T14:00:59+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/15b4257b04c59034491e6290fa8e5b21dcfe63b4.html
+redirect_from:
+- /sl/n/s/d20171227140059.html
+- /sl/n/s/h.15b4257b04c59034491e6290fa8e5b21dcfe63b4.html
+hidden: "true"
+music-title: 1. (Ch 1.1) Mosaic - The "First" Web Browser
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 1. (Ch 1.1) Mosaic - The "First" Web Browser by Brian McCullough @brianmcc
+categories:
+- scrobble
+- December
+- 2017
+- 27
+- 1. (Ch 1.1) Mosaic - The "First" Web Browser
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: ec18fbd0ad13324da5e595351eef53a50e08b9fb
+json_encode: {"date":"2017-12-28 16:31:55","type":"scrobble","tags":{"title":"7. (Ch 2.2) Bill Gates \"Gets\" The Internet","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-12-28T16:31:55+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/ec18fbd0ad13324da5e595351eef53a50e08b9fb.html
+redirect_from:
+- /sl/n/s/d20171228163155.html
+- /sl/n/s/h.ec18fbd0ad13324da5e595351eef53a50e08b9fb.html
+hidden: "true"
+music-title: 7. (Ch 2.2) Bill Gates "Gets" The Internet
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 7. (Ch 2.2) Bill Gates "Gets" The Internet by Brian McCullough @brianmcc
+categories:
+- scrobble
+- December
+- 2017
+- 28
+- 7. (Ch 2.2) Bill Gates "Gets" The Internet
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: 0ecce6911d22a734c84f2a5b5ddd28432e3baaa9
+json_encode: {"date":"2017-12-29 17:45:16","type":"scrobble","tags":{"title":"19. Co-Founder of Netgravity, John Danner","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-12-29T17:45:16+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/0ecce6911d22a734c84f2a5b5ddd28432e3baaa9.html
+redirect_from:
+- /sl/n/s/d20171229174516.html
+- /sl/n/s/h.0ecce6911d22a734c84f2a5b5ddd28432e3baaa9.html
+hidden: "true"
+music-title: 19. Co-Founder of Netgravity, John Danner
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 19. Co-Founder of Netgravity, John Danner by Brian McCullough @brianmcc
+categories:
+- scrobble
+- December
+- 2017
+- 29
+- 19. Co-Founder of Netgravity, John Danner
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: 6f7483089375de3dceda1bd486af4bf3713262b8
+json_encode: {"date":"2017-12-27 16:28:56","type":"scrobble","tags":{"title":"4. (Ch 2.1) Microsoft At The Dawn Of The Internet Era","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-12-27T16:28:56+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/6f7483089375de3dceda1bd486af4bf3713262b8.html
+redirect_from:
+- /sl/n/s/d20171227162856.html
+- /sl/n/s/h.6f7483089375de3dceda1bd486af4bf3713262b8.html
+hidden: "true"
+music-title: 4. (Ch 2.1) Microsoft At The Dawn Of The Internet Era
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 4. (Ch 2.1) Microsoft At The Dawn Of The Internet Era by Brian McCullough
+  @brianmcc
+categories:
+- scrobble
+- December
+- 2017
+- 27
+- 4. (Ch 2.1) Microsoft At The Dawn Of The Internet Era
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: 1eeff7f60b5dc5b92e410572693221d01efdca4e
+json_encode: {"date":"2017-12-28 13:39:18","type":"scrobble","tags":{"title":"6. Mosaic and Internet Explorer Engineer, Chris Wilson","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-12-28T13:39:18+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/1eeff7f60b5dc5b92e410572693221d01efdca4e.html
+redirect_from:
+- /sl/n/s/d20171228133918.html
+- /sl/n/s/h.1eeff7f60b5dc5b92e410572693221d01efdca4e.html
+hidden: "true"
+music-title: 6. Mosaic and Internet Explorer Engineer, Chris Wilson
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 6. Mosaic and Internet Explorer Engineer, Chris Wilson by Brian McCullough
+  @brianmcc
+categories:
+- scrobble
+- December
+- 2017
+- 28
+- 6. Mosaic and Internet Explorer Engineer, Chris Wilson
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: 4639e3060c548d1edc95e6f1b58d6336d3805cfc
+json_encode: {"date":"2017-12-30 07:49:20","type":"scrobble","tags":{"title":"22. Co-Founder of DoubleClick, Kevin O'Connor","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-12-30T07:49:20+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/4639e3060c548d1edc95e6f1b58d6336d3805cfc.html
+redirect_from:
+- /sl/n/s/d20171230074920.html
+- /sl/n/s/h.4639e3060c548d1edc95e6f1b58d6336d3805cfc.html
+hidden: "true"
+music-title: 22. Co-Founder of DoubleClick, Kevin O'Connor
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 22. Co-Founder of DoubleClick, Kevin O'Connor by Brian McCullough @brianmcc
+categories:
+- scrobble
+- December
+- 2017
+- 30
+- 22. Co-Founder of DoubleClick, Kevin O'Connor
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: 8b89844e60319c4463d70c7b877a24ea82be7d41
+json_encode: {"date":"2017-12-29 13:50:48","type":"scrobble","tags":{"title":"13. Co-Designer of the First Banner Ad, Co-Founder of Razorfish, Craig Kanarick","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-12-29T13:50:48+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/8b89844e60319c4463d70c7b877a24ea82be7d41.html
+redirect_from:
+- /sl/n/s/d20171229135048.html
+- /sl/n/s/h.8b89844e60319c4463d70c7b877a24ea82be7d41.html
+hidden: "true"
+music-title: 13. Co-Designer of the First Banner Ad, Co-Founder of Razorfish, Craig
+  Kanarick
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 13. Co-Designer of the First Banner Ad, Co-Founder of Razorfish, Craig
+  Kanarick by Brian McCullough @brianmcc
+categories:
+- scrobble
+- December
+- 2017
+- 29
+- 13. Co-Designer of the First Banner Ad, Co-Founder of Razorfish, Craig Kanarick
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: 4d7d439997a62816e8fe88bf1294e5814d8bd8e1
+json_encode: {"date":"2017-12-31 16:18:49","type":"scrobble","tags":{"title":"34. Owen Thomas of HotWired and Suck","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2017-12-31T16:18:49+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/4d7d439997a62816e8fe88bf1294e5814d8bd8e1.html
+redirect_from:
+- /sl/n/s/d20171231161849.html
+- /sl/n/s/h.4d7d439997a62816e8fe88bf1294e5814d8bd8e1.html
+hidden: "true"
+music-title: 34. Owen Thomas of HotWired and Suck
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 34. Owen Thomas of HotWired and Suck by Brian McCullough @brianmcc
+categories:
+- scrobble
+- December
+- 2017
+- 31
+- 34. Owen Thomas of HotWired and Suck
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
 2018
-[".","..","01.yml","r1.yml"]
+[".","..","01.yml","10d30d270ae1e130766c74c03741f87d7fc30d8e.md","129a398d21db61fd6848a1bacc75a6023fb5ad7c.md","1d84b39fce51ef8eca3467f2acc0863cd788e8d2.md","2bf7e7385ce9ccf6cc57153b7412bf6c3b4f2dc8.md","2d6211864f53c8f55d0ef0abcf81b98c642e87aa.md","56a4759b55de2755281a6bcc465b4e9a9f3583cf.md","5b3bfdc7bccfd3a41c702afa380babe679883832.md","67a7f9e6f5231683ce8988ef8e3428fdd73fee73.md","6b4b512a26ab9ebff21dbb9e78440c640adea6a2.md","76013784d18a0265d7531b79c4aee7797eab038f.md","826f657dd4c68486f77a27791ceb52261d868e57.md","8d60613888d0d38431e119ce7513e80a9e315af0.md","97abd287598655587c182137f13b3ced98bf7604.md","ac0e60612d39e8524ee50502bffb6a3a25c4d41b.md","af91b55595f06d5e45d61cfce85499ec0ff337e6.md","b526402f4bef84983e76aedd0fc894d6379dac87.md","bb71b0868cc1fa6f290f009bde1947e4307ef958.md","c73d0e596f72a0a53d558c2622d18202a498fc8f.md","c9807f687cc41522e2907ee85c3a052ebea01f50.md","d518f55f33c60df269fe194cfe93ef3626eb967e.md","d6522fa16713f91fd225c3bb9f5f14e33c9df4a0.md","daf19ccc8a0ba772fd246e57193b30825f497ae2.md","e1dbbc04c885f8a3a077dd9dfafaf148ab00c745.md","e70f7650746b66974788d70733acd98badf66a2c.md","faa3e7fd537808d90f209622b0644a82749176ac.md","ff49d09dad16631de6665242e6ac49f6b70188ee.md","r1.yml"]
+Found 01.ymlyml file :) 
+
+-----S-CONTENTS-------------
+---
+- date: "2018-01-08"
+  type: like
+  message: When well enough be enough
+  url: https://torrentfreak.com/no-level-of-copyright-enforcement-will-ever-be-enough-for-big-media-180107/
+- date: "2018-01-08"
+  type: reply
+  message: they only give read-only access to goodreads api
+  url: https://gregorlove.com/2017/12/do-you-mean-to-have/
+- date: 2018-01-8
+  type: twitter
+  message: I tried to reactivate my suspended twitter acc and got big get lost, so
+    fuck twitter
+...
+
+-----E-CONTENTS-------------
+
+--------------------
+hash: daf19ccc8a0ba772fd246e57193b30825f497ae2
+json_encode: {"date":"2018-01-08","type":"like","message":"When well enough be enough","url":"https:\/\/torrentfreak.com\/no-level-of-copyright-enforcement-will-ever-be-enough-for-big-media-180107\/"}
+--------------------
+
+---
+layout: notes_like
+date: "2018-01-08T00:00:00+10:00"
+type: like
+permalink: /notes/like/torrentfreak.com/2018/01/08/daf19ccc8a0ba772fd246e57193b30825f497ae2.html
+redirect_from:
+- /sl/n/l/d20180108000000.html
+- /sl/n/l/h.daf19ccc8a0ba772fd246e57193b30825f497ae2.html
+mf:
+  items:
+  - type:
+    - h-card
+    properties:
+      name:
+      - Andy
+  rels: []
+ext:
+  url: https://torrentfreak.com/no-level-of-copyright-enforcement-will-ever-be-enough-for-big-media-180107/
+  title: No Level of Copyright Enforcement Will Ever Be Enough For Big Media - TorrentFreak
+  description: On an almost continual basis rightsholders are calling for tougher
+    anti-piracy measures on top of more restrictive and punitive copyright law. It's
+    undoubtedly a threat to current Internet freedoms as we know them. But really,
+    is anyone truly surprised that entertainment companies still hate their content
+    being shared for free?
+  image_url: https://torrentfreak.com/images/piratebay2-featured.jpg
+  image_width: "1200"
+  image_height: "250"
+title: Liked a page on torrentfreak.com
+categories:
+- like
+- January
+- 2018
+- 8
+- torrentfreak.com
+---
+
+
+--------------------
+hash: 76013784d18a0265d7531b79c4aee7797eab038f
+json_encode: {"date":"2018-01-08","type":"reply","message":"they only give read-only access to goodreads api","url":"https:\/\/gregorlove.com\/2017\/12\/do-you-mean-to-have\/"}
+--------------------
+
+---
+layout: notes_reply
+date: "2018-01-08T00:00:00+10:00"
+type: reply
+permalink: /notes/reply/gregorlove.com/2018/01/08/76013784d18a0265d7531b79c4aee7797eab038f.html
+redirect_from:
+- /sl/n/r/d20180108000000.html
+- /sl/n/r/h.76013784d18a0265d7531b79c4aee7797eab038f.html
+ext-url: https://gregorlove.com/2017/12/do-you-mean-to-have/
+title: 'reply to: https://gregorlove.com/2017/12/do-you-mean-to-have/'
+categories:
+- reply
+- January
+- 2018
+- 8
+- gregorlove.com
+---
+
+
+--------------------
+hash: e1dbbc04c885f8a3a077dd9dfafaf148ab00c745
+json_encode: {"date":"2018-01-8","type":"twitter","message":"I tried to reactivate my suspended twitter acc and got big get lost, so fuck twitter"}
+--------------------
+
+---
+layout: notes_twitter
+date: "2018-01-08T00:00:00+10:00"
+type: twitter
+permalink: /notes/twitter/2018/01/08/e1dbbc04c885f8a3a077dd9dfafaf148ab00c745.html
+redirect_from:
+- /sl/n/t/d20180108000000.html
+- /sl/n/t/h.e1dbbc04c885f8a3a077dd9dfafaf148ab00c745.html
+title: 'twitted: e1dbbc04c885f8a3a077dd9dfafaf148ab00c745'
+categories:
+- twitter
+- January
+- 2018
+- 8
+- gregorlove.com
+---
+
+10d30d270ae1e130766c74c03741f87d7fc30d8e.md skipping md file
+129a398d21db61fd6848a1bacc75a6023fb5ad7c.md skipping md file
+1d84b39fce51ef8eca3467f2acc0863cd788e8d2.md skipping md file
+2bf7e7385ce9ccf6cc57153b7412bf6c3b4f2dc8.md skipping md file
+2d6211864f53c8f55d0ef0abcf81b98c642e87aa.md skipping md file
+56a4759b55de2755281a6bcc465b4e9a9f3583cf.md skipping md file
+5b3bfdc7bccfd3a41c702afa380babe679883832.md skipping md file
+67a7f9e6f5231683ce8988ef8e3428fdd73fee73.md skipping md file
+6b4b512a26ab9ebff21dbb9e78440c640adea6a2.md skipping md file
+76013784d18a0265d7531b79c4aee7797eab038f.md skipping md file
+826f657dd4c68486f77a27791ceb52261d868e57.md skipping md file
+8d60613888d0d38431e119ce7513e80a9e315af0.md skipping md file
+97abd287598655587c182137f13b3ced98bf7604.md skipping md file
+ac0e60612d39e8524ee50502bffb6a3a25c4d41b.md skipping md file
+af91b55595f06d5e45d61cfce85499ec0ff337e6.md skipping md file
+b526402f4bef84983e76aedd0fc894d6379dac87.md skipping md file
+bb71b0868cc1fa6f290f009bde1947e4307ef958.md skipping md file
+c73d0e596f72a0a53d558c2622d18202a498fc8f.md skipping md file
+c9807f687cc41522e2907ee85c3a052ebea01f50.md skipping md file
+d518f55f33c60df269fe194cfe93ef3626eb967e.md skipping md file
+d6522fa16713f91fd225c3bb9f5f14e33c9df4a0.md skipping md file
+daf19ccc8a0ba772fd246e57193b30825f497ae2.md skipping md file
+e1dbbc04c885f8a3a077dd9dfafaf148ab00c745.md skipping md file
+e70f7650746b66974788d70733acd98badf66a2c.md skipping md file
+faa3e7fd537808d90f209622b0644a82749176ac.md skipping md file
+ff49d09dad16631de6665242e6ac49f6b70188ee.md skipping md file
+Found r1.ymlyml file :) 
+
+-----S-CONTENTS-------------
+---
+- date: "2018-01-01 10:05:56"
+  type: scrobble
+  tags: title=39.+CNET+Founder+Halsey+Minor&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2018-01-02 04:07:39"
+  type: scrobble
+  tags: title=45.+Excite+Co-Founder+Ryan+McIntyre&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2018-01-05 07:48:28"
+  type: scrobble
+  tags: title=56.+Infoseek+Founder+%28and+Inventor+of+the+Optical+Mouse%29+Steve+Kirsch&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2018-01-01 16:01:25"
+  type: scrobble
+  tags: title=43.+Danny+Sullivan+%40dannysullivan+on+the+History+and+Future+of+Search&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2018-01-01 02:42:36"
+  type: scrobble
+  tags: title=37.+Wired+Magazine+Founding+Editor+John+Battelle+%40johnbattelle&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2018-01-01 17:04:38"
+  type: scrobble
+  tags: title=44.+The+Brief%2C+Remarkable+Life+of+Danny+Lewin%2C+Co-Founder+of+Akamai+Technologies&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2018-01-02 13:37:47"
+  type: scrobble
+  tags: title=47.+Analysis+Episode+with+Christina+Warren+of+Mashable.com+%40film_girl&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2018-01-02 05:20:00"
+  type: scrobble
+  tags: title=46.+%28Ch+6%29+A+History+of+Internet+Porn&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2018-01-04 17:18:55"
+  type: scrobble
+  tags: title=55.+The+Watershed+Year+of+1995+with+W.+Joseph+Campbell&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2018-01-02 22:31:04"
+  type: scrobble
+  tags: title=50.+Amazon%27s+Technical+Co-Founder+and+Employee+%231%2C+Shel+Kaphan&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2018-01-04 11:07:34"
+  type: scrobble
+  tags: title=54.+CDNow+CEO+Michael+Krupit&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2018-01-02 16:01:22"
+  type: scrobble
+  tags: title=48.+Amazon+Director%2C+Customer+Service+Strategy%2C+Jane+Slade&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2018-01-02 16:31:02"
+  type: scrobble
+  tags: title=49.+Lycos+Founder+and+CEO+Bob+Davis+%40BobDavisHCP&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2018-01-05 08:01:58"
+  type: scrobble
+  tags: title=57.+%28I+Lied%29+The+Special+Requests+Episode&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2018-01-01 12:59:46"
+  type: scrobble
+  tags: title=42.+%28Misc+3%29+Did+Al+Gore+Really+Invent+the+Internet%3F&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2018-01-03 13:53:33"
+  type: scrobble
+  tags: title=51.+Glenn+Fleishman+%40GlennF+Discusses+Early+Amazon&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2018-01-01 12:33:37"
+  type: scrobble
+  tags: title=41.+Excite.com+CEO+George+Bell&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2018-01-03 16:17:56"
+  type: scrobble
+  tags: title=53.+Match.com+and+Sex.com+Founder+Gary+Kremen&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2018-01-01 05:28:46"
+  type: scrobble
+  tags: title=38.+An+Oral+History+Of+The+Web%27s+First+Banner+Ads&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2018-01-03 14:50:24"
+  type: scrobble
+  tags: title=52.+%28Ch+7.1%29+The+Birth+of+Amazon.com&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2018-01-01 11:29:55"
+  type: scrobble
+  tags: title=40.+Microsoft+and+Internet+Explorer+Executive%2C+Ben+Slivka&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+...
+
+-----E-CONTENTS-------------
+
+--------------------
+hash: 129a398d21db61fd6848a1bacc75a6023fb5ad7c
+json_encode: {"date":"2018-01-01 10:05:56","type":"scrobble","tags":{"title":"39. CNET Founder Halsey Minor","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2018-01-01T10:05:56+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/129a398d21db61fd6848a1bacc75a6023fb5ad7c.html
+redirect_from:
+- /sl/n/s/d20180101100556.html
+- /sl/n/s/h.129a398d21db61fd6848a1bacc75a6023fb5ad7c.html
+hidden: "true"
+music-title: 39. CNET Founder Halsey Minor
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 39. CNET Founder Halsey Minor by Brian McCullough @brianmcc
+categories:
+- scrobble
+- January
+- 2018
+- 1
+- 39. CNET Founder Halsey Minor
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: 10d30d270ae1e130766c74c03741f87d7fc30d8e
+json_encode: {"date":"2018-01-02 04:07:39","type":"scrobble","tags":{"title":"45. Excite Co-Founder Ryan McIntyre","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2018-01-02T04:07:39+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/10d30d270ae1e130766c74c03741f87d7fc30d8e.html
+redirect_from:
+- /sl/n/s/d20180102040739.html
+- /sl/n/s/h.10d30d270ae1e130766c74c03741f87d7fc30d8e.html
+hidden: "true"
+music-title: 45. Excite Co-Founder Ryan McIntyre
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 45. Excite Co-Founder Ryan McIntyre by Brian McCullough @brianmcc
+categories:
+- scrobble
+- January
+- 2018
+- 2
+- 45. Excite Co-Founder Ryan McIntyre
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: ac0e60612d39e8524ee50502bffb6a3a25c4d41b
+json_encode: {"date":"2018-01-05 07:48:28","type":"scrobble","tags":{"title":"56. Infoseek Founder (and Inventor of the Optical Mouse) Steve Kirsch","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2018-01-05T07:48:28+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/ac0e60612d39e8524ee50502bffb6a3a25c4d41b.html
+redirect_from:
+- /sl/n/s/d20180105074828.html
+- /sl/n/s/h.ac0e60612d39e8524ee50502bffb6a3a25c4d41b.html
+hidden: "true"
+music-title: 56. Infoseek Founder (and Inventor of the Optical Mouse) Steve Kirsch
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 56. Infoseek Founder (and Inventor of the Optical Mouse) Steve Kirsch
+  by Brian McCullough @brianmcc
+categories:
+- scrobble
+- January
+- 2018
+- 5
+- 56. Infoseek Founder (and Inventor of the Optical Mouse) Steve Kirsch
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: c73d0e596f72a0a53d558c2622d18202a498fc8f
+json_encode: {"date":"2018-01-01 16:01:25","type":"scrobble","tags":{"title":"43. Danny Sullivan @dannysullivan on the History and Future of Search","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2018-01-01T16:01:25+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/c73d0e596f72a0a53d558c2622d18202a498fc8f.html
+redirect_from:
+- /sl/n/s/d20180101160125.html
+- /sl/n/s/h.c73d0e596f72a0a53d558c2622d18202a498fc8f.html
+hidden: "true"
+music-title: 43. Danny Sullivan @dannysullivan on the History and Future of Search
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 43. Danny Sullivan @dannysullivan on the History and Future of Search
+  by Brian McCullough @brianmcc
+categories:
+- scrobble
+- January
+- 2018
+- 1
+- 43. Danny Sullivan @dannysullivan on the History and Future of Search
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: 1d84b39fce51ef8eca3467f2acc0863cd788e8d2
+json_encode: {"date":"2018-01-01 02:42:36","type":"scrobble","tags":{"title":"37. Wired Magazine Founding Editor John Battelle @johnbattelle","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2018-01-01T02:42:36+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/1d84b39fce51ef8eca3467f2acc0863cd788e8d2.html
+redirect_from:
+- /sl/n/s/d20180101024236.html
+- /sl/n/s/h.1d84b39fce51ef8eca3467f2acc0863cd788e8d2.html
+hidden: "true"
+music-title: 37. Wired Magazine Founding Editor John Battelle @johnbattelle
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 37. Wired Magazine Founding Editor John Battelle @johnbattelle by Brian
+  McCullough @brianmcc
+categories:
+- scrobble
+- January
+- 2018
+- 1
+- 37. Wired Magazine Founding Editor John Battelle @johnbattelle
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: 2bf7e7385ce9ccf6cc57153b7412bf6c3b4f2dc8
+json_encode: {"date":"2018-01-01 17:04:38","type":"scrobble","tags":{"title":"44. The Brief, Remarkable Life of Danny Lewin, Co-Founder of Akamai Technologies","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2018-01-01T17:04:38+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/2bf7e7385ce9ccf6cc57153b7412bf6c3b4f2dc8.html
+redirect_from:
+- /sl/n/s/d20180101170438.html
+- /sl/n/s/h.2bf7e7385ce9ccf6cc57153b7412bf6c3b4f2dc8.html
+hidden: "true"
+music-title: 44. The Brief, Remarkable Life of Danny Lewin, Co-Founder of Akamai Technologies
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 44. The Brief, Remarkable Life of Danny Lewin, Co-Founder of Akamai
+  Technologies by Brian McCullough @brianmcc
+categories:
+- scrobble
+- January
+- 2018
+- 1
+- 44. The Brief, Remarkable Life of Danny Lewin, Co-Founder of Akamai Technologies
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: bb71b0868cc1fa6f290f009bde1947e4307ef958
+json_encode: {"date":"2018-01-02 13:37:47","type":"scrobble","tags":{"title":"47. Analysis Episode with Christina Warren of Mashable.com @film_girl","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2018-01-02T13:37:47+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/bb71b0868cc1fa6f290f009bde1947e4307ef958.html
+redirect_from:
+- /sl/n/s/d20180102133747.html
+- /sl/n/s/h.bb71b0868cc1fa6f290f009bde1947e4307ef958.html
+hidden: "true"
+music-title: 47. Analysis Episode with Christina Warren of Mashable.com @film_girl
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 47. Analysis Episode with Christina Warren of Mashable.com @film_girl
+  by Brian McCullough @brianmcc
+categories:
+- scrobble
+- January
+- 2018
+- 2
+- 47. Analysis Episode with Christina Warren of Mashable.com @film_girl
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: c9807f687cc41522e2907ee85c3a052ebea01f50
+json_encode: {"date":"2018-01-02 05:20:00","type":"scrobble","tags":{"title":"46. (Ch 6) A History of Internet Porn","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2018-01-02T05:20:00+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/c9807f687cc41522e2907ee85c3a052ebea01f50.html
+redirect_from:
+- /sl/n/s/d20180102052000.html
+- /sl/n/s/h.c9807f687cc41522e2907ee85c3a052ebea01f50.html
+hidden: "true"
+music-title: 46. (Ch 6) A History of Internet Porn
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 46. (Ch 6) A History of Internet Porn by Brian McCullough @brianmcc
+categories:
+- scrobble
+- January
+- 2018
+- 2
+- 46. (Ch 6) A History of Internet Porn
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: b526402f4bef84983e76aedd0fc894d6379dac87
+json_encode: {"date":"2018-01-04 17:18:55","type":"scrobble","tags":{"title":"55. The Watershed Year of 1995 with W. Joseph Campbell","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2018-01-04T17:18:55+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/b526402f4bef84983e76aedd0fc894d6379dac87.html
+redirect_from:
+- /sl/n/s/d20180104171855.html
+- /sl/n/s/h.b526402f4bef84983e76aedd0fc894d6379dac87.html
+hidden: "true"
+music-title: 55. The Watershed Year of 1995 with W. Joseph Campbell
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 55. The Watershed Year of 1995 with W. Joseph Campbell by Brian McCullough
+  @brianmcc
+categories:
+- scrobble
+- January
+- 2018
+- 4
+- 55. The Watershed Year of 1995 with W. Joseph Campbell
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: 2d6211864f53c8f55d0ef0abcf81b98c642e87aa
+json_encode: {"date":"2018-01-02 22:31:04","type":"scrobble","tags":{"title":"50. Amazon's Technical Co-Founder and Employee #1, Shel Kaphan","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2018-01-02T22:31:04+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/2d6211864f53c8f55d0ef0abcf81b98c642e87aa.html
+redirect_from:
+- /sl/n/s/d20180102223104.html
+- /sl/n/s/h.2d6211864f53c8f55d0ef0abcf81b98c642e87aa.html
+hidden: "true"
+music-title: '50. Amazon''s Technical Co-Founder and Employee #1, Shel Kaphan'
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: 'Played 50. Amazon''s Technical Co-Founder and Employee #1, Shel Kaphan by
+  Brian McCullough @brianmcc'
+categories:
+- scrobble
+- January
+- 2018
+- 2
+- '50. Amazon''s Technical Co-Founder and Employee #1, Shel Kaphan'
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: 8d60613888d0d38431e119ce7513e80a9e315af0
+json_encode: {"date":"2018-01-04 11:07:34","type":"scrobble","tags":{"title":"54. CDNow CEO Michael Krupit","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2018-01-04T11:07:34+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/8d60613888d0d38431e119ce7513e80a9e315af0.html
+redirect_from:
+- /sl/n/s/d20180104110734.html
+- /sl/n/s/h.8d60613888d0d38431e119ce7513e80a9e315af0.html
+hidden: "true"
+music-title: 54. CDNow CEO Michael Krupit
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 54. CDNow CEO Michael Krupit by Brian McCullough @brianmcc
+categories:
+- scrobble
+- January
+- 2018
+- 4
+- 54. CDNow CEO Michael Krupit
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: e70f7650746b66974788d70733acd98badf66a2c
+json_encode: {"date":"2018-01-02 16:01:22","type":"scrobble","tags":{"title":"48. Amazon Director, Customer Service Strategy, Jane Slade","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2018-01-02T16:01:22+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/e70f7650746b66974788d70733acd98badf66a2c.html
+redirect_from:
+- /sl/n/s/d20180102160122.html
+- /sl/n/s/h.e70f7650746b66974788d70733acd98badf66a2c.html
+hidden: "true"
+music-title: 48. Amazon Director, Customer Service Strategy, Jane Slade
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 48. Amazon Director, Customer Service Strategy, Jane Slade by Brian
+  McCullough @brianmcc
+categories:
+- scrobble
+- January
+- 2018
+- 2
+- 48. Amazon Director, Customer Service Strategy, Jane Slade
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: 5b3bfdc7bccfd3a41c702afa380babe679883832
+json_encode: {"date":"2018-01-02 16:31:02","type":"scrobble","tags":{"title":"49. Lycos Founder and CEO Bob Davis @BobDavisHCP","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2018-01-02T16:31:02+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/5b3bfdc7bccfd3a41c702afa380babe679883832.html
+redirect_from:
+- /sl/n/s/d20180102163102.html
+- /sl/n/s/h.5b3bfdc7bccfd3a41c702afa380babe679883832.html
+hidden: "true"
+music-title: 49. Lycos Founder and CEO Bob Davis @BobDavisHCP
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 49. Lycos Founder and CEO Bob Davis @BobDavisHCP by Brian McCullough
+  @brianmcc
+categories:
+- scrobble
+- January
+- 2018
+- 2
+- 49. Lycos Founder and CEO Bob Davis @BobDavisHCP
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: 56a4759b55de2755281a6bcc465b4e9a9f3583cf
+json_encode: {"date":"2018-01-05 08:01:58","type":"scrobble","tags":{"title":"57. (I Lied) The Special Requests Episode","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2018-01-05T08:01:58+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/56a4759b55de2755281a6bcc465b4e9a9f3583cf.html
+redirect_from:
+- /sl/n/s/d20180105080158.html
+- /sl/n/s/h.56a4759b55de2755281a6bcc465b4e9a9f3583cf.html
+hidden: "true"
+music-title: 57. (I Lied) The Special Requests Episode
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 57. (I Lied) The Special Requests Episode by Brian McCullough @brianmcc
+categories:
+- scrobble
+- January
+- 2018
+- 5
+- 57. (I Lied) The Special Requests Episode
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: af91b55595f06d5e45d61cfce85499ec0ff337e6
+json_encode: {"date":"2018-01-01 12:59:46","type":"scrobble","tags":{"title":"42. (Misc 3) Did Al Gore Really Invent the Internet?","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2018-01-01T12:59:46+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/af91b55595f06d5e45d61cfce85499ec0ff337e6.html
+redirect_from:
+- /sl/n/s/d20180101125946.html
+- /sl/n/s/h.af91b55595f06d5e45d61cfce85499ec0ff337e6.html
+hidden: "true"
+music-title: 42. (Misc 3) Did Al Gore Really Invent the Internet?
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 42. (Misc 3) Did Al Gore Really Invent the Internet? by Brian McCullough
+  @brianmcc
+categories:
+- scrobble
+- January
+- 2018
+- 1
+- 42. (Misc 3) Did Al Gore Really Invent the Internet?
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: 67a7f9e6f5231683ce8988ef8e3428fdd73fee73
+json_encode: {"date":"2018-01-03 13:53:33","type":"scrobble","tags":{"title":"51. Glenn Fleishman @GlennF Discusses Early Amazon","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2018-01-03T13:53:33+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/67a7f9e6f5231683ce8988ef8e3428fdd73fee73.html
+redirect_from:
+- /sl/n/s/d20180103135333.html
+- /sl/n/s/h.67a7f9e6f5231683ce8988ef8e3428fdd73fee73.html
+hidden: "true"
+music-title: 51. Glenn Fleishman @GlennF Discusses Early Amazon
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 51. Glenn Fleishman @GlennF Discusses Early Amazon by Brian McCullough
+  @brianmcc
+categories:
+- scrobble
+- January
+- 2018
+- 3
+- 51. Glenn Fleishman @GlennF Discusses Early Amazon
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: faa3e7fd537808d90f209622b0644a82749176ac
+json_encode: {"date":"2018-01-01 12:33:37","type":"scrobble","tags":{"title":"41. Excite.com CEO George Bell","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2018-01-01T12:33:37+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/faa3e7fd537808d90f209622b0644a82749176ac.html
+redirect_from:
+- /sl/n/s/d20180101123337.html
+- /sl/n/s/h.faa3e7fd537808d90f209622b0644a82749176ac.html
+hidden: "true"
+music-title: 41. Excite.com CEO George Bell
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 41. Excite.com CEO George Bell by Brian McCullough @brianmcc
+categories:
+- scrobble
+- January
+- 2018
+- 1
+- 41. Excite.com CEO George Bell
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: d518f55f33c60df269fe194cfe93ef3626eb967e
+json_encode: {"date":"2018-01-03 16:17:56","type":"scrobble","tags":{"title":"53. Match.com and Sex.com Founder Gary Kremen","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2018-01-03T16:17:56+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/d518f55f33c60df269fe194cfe93ef3626eb967e.html
+redirect_from:
+- /sl/n/s/d20180103161756.html
+- /sl/n/s/h.d518f55f33c60df269fe194cfe93ef3626eb967e.html
+hidden: "true"
+music-title: 53. Match.com and Sex.com Founder Gary Kremen
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 53. Match.com and Sex.com Founder Gary Kremen by Brian McCullough @brianmcc
+categories:
+- scrobble
+- January
+- 2018
+- 3
+- 53. Match.com and Sex.com Founder Gary Kremen
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: 97abd287598655587c182137f13b3ced98bf7604
+json_encode: {"date":"2018-01-01 05:28:46","type":"scrobble","tags":{"title":"38. An Oral History Of The Web's First Banner Ads","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2018-01-01T05:28:46+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/97abd287598655587c182137f13b3ced98bf7604.html
+redirect_from:
+- /sl/n/s/d20180101052846.html
+- /sl/n/s/h.97abd287598655587c182137f13b3ced98bf7604.html
+hidden: "true"
+music-title: 38. An Oral History Of The Web's First Banner Ads
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 38. An Oral History Of The Web's First Banner Ads by Brian McCullough
+  @brianmcc
+categories:
+- scrobble
+- January
+- 2018
+- 1
+- 38. An Oral History Of The Web's First Banner Ads
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: 826f657dd4c68486f77a27791ceb52261d868e57
+json_encode: {"date":"2018-01-03 14:50:24","type":"scrobble","tags":{"title":"52. (Ch 7.1) The Birth of Amazon.com","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2018-01-03T14:50:24+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/826f657dd4c68486f77a27791ceb52261d868e57.html
+redirect_from:
+- /sl/n/s/d20180103145024.html
+- /sl/n/s/h.826f657dd4c68486f77a27791ceb52261d868e57.html
+hidden: "true"
+music-title: 52. (Ch 7.1) The Birth of Amazon.com
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 52. (Ch 7.1) The Birth of Amazon.com by Brian McCullough @brianmcc
+categories:
+- scrobble
+- January
+- 2018
+- 3
+- 52. (Ch 7.1) The Birth of Amazon.com
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
+
+--------------------
+hash: d6522fa16713f91fd225c3bb9f5f14e33c9df4a0
+json_encode: {"date":"2018-01-01 11:29:55","type":"scrobble","tags":{"title":"40. Microsoft and Internet Explorer Executive, Ben Slivka","artist":"Brian McCullough @brianmcc","album":"Internet History Podcast","play-count":"1"}}
+--------------------
+
+---
+layout: notes_scrobble
+date: "2018-01-01T11:29:55+10:00"
+type: scrobble
+permalink: /notes/scrobble/Brian+McCullough+%40brianmcc/Internet+History+Podcast/d6522fa16713f91fd225c3bb9f5f14e33c9df4a0.html
+redirect_from:
+- /sl/n/s/d20180101112955.html
+- /sl/n/s/h.d6522fa16713f91fd225c3bb9f5f14e33c9df4a0.html
+hidden: "true"
+music-title: 40. Microsoft and Internet Explorer Executive, Ben Slivka
+music-artist: Brian McCullough @brianmcc
+music-album: Internet History Podcast
+music-play-count: "1"
+title: Played 40. Microsoft and Internet Explorer Executive, Ben Slivka by Brian McCullough
+  @brianmcc
+categories:
+- scrobble
+- January
+- 2018
+- 1
+- 40. Microsoft and Internet Explorer Executive, Ben Slivka
+- Brian McCullough @brianmcc
+- Internet History Podcast
+---
+
 micropub
 [".","..","2014","2015","2016","2017","2018"]
 .
@@ -21,7 +4269,15 @@ november-29-photo.temp skipping temp file
 [".","..","may-4-photo.temp"]
 may-4-photo.temp skipping temp file
 2016
-[".","..","June 27.json","december-16-like.temp","december-25-like.temp","december-25-like.tempa","december-25a-like.temp","december-26-like.temp","december-26-like.tempa","december-28-like.temp","december-28-like.tempa","december-29-544am-like.json","june-27-photo-rip.tofix","november-03.temp"]
+[".","..","2541d5e47e582d574d0e316c6be3623393e01740.md","42e499a432c5f99fc5a3a7ea38e4da1eaa72edb4.md","4394ef77870bd937802e75416328809498ddef3e.md","51b8e688d4f398266c46c88d06f046e9390cbdbd.md","69612a09fcff7cf14575b88208e22da807fe8159.md","772d484ae246c3de0515c247cbd9a3adc88f404d.md","7a4895d9a5e8e6e967293c2dad7d93357598cacc.md","8852bcdc24768e6a6848d5d496e7f5fdf202f1a8.md","June 27.json","bc4e96144a6348ce2a17b8d4b4d6197c59c7ba2e.md","dd29ecf524b030a65261e3059c48ab9e1ecb2585.md","december-16-like.temp","december-25-like.temp","december-25-like.tempa","december-25a-like.temp","december-26-like.temp","december-26-like.tempa","december-28-like.temp","december-28-like.tempa","december-29-544am-like.json","fad2306ff268065d9ac545dbda720e8068f029bb.md","june-27-photo-rip.tofix","november-03.temp"]
+2541d5e47e582d574d0e316c6be3623393e01740.md skipping md file
+42e499a432c5f99fc5a3a7ea38e4da1eaa72edb4.md skipping md file
+4394ef77870bd937802e75416328809498ddef3e.md skipping md file
+51b8e688d4f398266c46c88d06f046e9390cbdbd.md skipping md file
+69612a09fcff7cf14575b88208e22da807fe8159.md skipping md file
+772d484ae246c3de0515c247cbd9a3adc88f404d.md skipping md file
+7a4895d9a5e8e6e967293c2dad7d93357598cacc.md skipping md file
+8852bcdc24768e6a6848d5d496e7f5fdf202f1a8.md skipping md file
 June 27.json json file :) 
 {
     "date": "Monday, June 27, 2016 6:51pm",
@@ -42,6 +4298,11 @@ layout: notes_twitter
 date: "2016-06-27T18:51:00+10:00"
 type: twitter
 permalink: /notes/twitter/2016/06/27/8852bcdc24768e6a6848d5d496e7f5fdf202f1a8.html
+redirect_from:
+- /sl/n/t/d20160627185100.html
+- /sl/n/t/h.8852bcdc24768e6a6848d5d496e7f5fdf202f1a8.html
+syndication:
+- https://www.facebook.com/tom.sparks.106/posts/659177124247934
 title: 'twitted: 8852bcdc24768e6a6848d5d496e7f5fdf202f1a8'
 categories:
 - twitter
@@ -50,63 +4311,8 @@ categories:
 - 27
 ---
 
-
---------------------
-hash: 8852bcdc24768e6a6848d5d496e7f5fdf202f1a8
-json_encode: {"date":"Monday, June 27, 2016 6:51pm","message":"photos with Gran RIP","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/659177124247934"],"type":"twitter"}
---------------------
-
----
-layout: notes_twitter
-date: "2016-06-27T18:51:00+10:00"
-type: twitter
-permalink: /notes/twitter/2016/06/27/8852bcdc24768e6a6848d5d496e7f5fdf202f1a8.html
-title: 'twitted: 8852bcdc24768e6a6848d5d496e7f5fdf202f1a8'
-categories:
-- twitter
-- June
-- 2016
-- 27
----
-
-
---------------------
-hash: 8852bcdc24768e6a6848d5d496e7f5fdf202f1a8
-json_encode: {"date":"Monday, June 27, 2016 6:51pm","message":"photos with Gran RIP","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/659177124247934"],"type":"twitter"}
---------------------
-
----
-layout: notes_twitter
-date: "2016-06-27T18:51:00+10:00"
-type: twitter
-permalink: /notes/twitter/2016/06/27/8852bcdc24768e6a6848d5d496e7f5fdf202f1a8.html
-title: 'twitted: 8852bcdc24768e6a6848d5d496e7f5fdf202f1a8'
-categories:
-- twitter
-- June
-- 2016
-- 27
----
-
-
---------------------
-hash: 8852bcdc24768e6a6848d5d496e7f5fdf202f1a8
-json_encode: {"date":"Monday, June 27, 2016 6:51pm","message":"photos with Gran RIP","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/659177124247934"],"type":"twitter"}
---------------------
-
----
-layout: notes_twitter
-date: "2016-06-27T18:51:00+10:00"
-type: twitter
-permalink: /notes/twitter/2016/06/27/8852bcdc24768e6a6848d5d496e7f5fdf202f1a8.html
-title: 'twitted: 8852bcdc24768e6a6848d5d496e7f5fdf202f1a8'
-categories:
-- twitter
-- June
-- 2016
-- 27
----
-
+bc4e96144a6348ce2a17b8d4b4d6197c59c7ba2e.md skipping md file
+dd29ecf524b030a65261e3059c48ab9e1ecb2585.md skipping md file
 december-16-like.temp skipping temp file
 december-25-like.temp skipping temp file
 december-25-like.tempa skipping temp file
@@ -136,7 +4342,25 @@ layout: notes_like
 date: "1970-01-01T10:00:00+10:00"
 type: like
 permalink: /notes/like/techdirt.com/2016/12/29/2541d5e47e582d574d0e316c6be3623393e01740.html
-ext-url: https://www.techdirt.com/articles/20161225/22534736346/i-thought-piracy-was-killing-entertainment-new-record-scripted-shows-2016.shtml
+redirect_from:
+- /sl/n/l/d19700101100000.html
+- /sl/n/l/h.2541d5e47e582d574d0e316c6be3623393e01740.html
+syndication:
+- https://www.facebook.com/tom.sparks.106/posts/780738528758459
+mf:
+  items: []
+  rels: []
+ext:
+  url: https://www.techdirt.com/articles/20161225/22534736346/i-thought-piracy-was-killing-entertainment-new-record-scripted-shows-2016.shtml
+  title: I Thought Piracy Was Killing Entertainment? New Record In Scripted Shows
+    In 2016
+  description: Remember how piracy was supposed to be killing the entertainment industry
+    and no one would make anything any more? Of course, almost exactly five years
+    ago, we showed this wasn't true at all, and the actual output of creative content
+    was way, way---
+  image_url: https://ii.techdirt.com/s/t/i/td_icon_300.png
+  image_width: ~
+  image_height: ~
 title: Liked a page on techdirt.com
 categories:
 - like
@@ -146,93 +4370,17 @@ categories:
 - techdirt.com
 ---
 
-
---------------------
-hash: 2541d5e47e582d574d0e316c6be3623393e01740
-json_encode: {"date":"Thursday, December 29, 2016 at 5:44am","message":"","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/780738528758459"],"type":"like","url":"https:\/\/www.techdirt.com\/articles\/20161225\/22534736346\/i-thought-piracy-was-killing-entertainment-new-record-scripted-shows-2016.shtml"}
---------------------
-
----
-layout: notes_like
-date: "1970-01-01T10:00:00+10:00"
-type: like
-permalink: /notes/like/techdirt.com/2016/12/29/2541d5e47e582d574d0e316c6be3623393e01740.html
-ext-url: https://www.techdirt.com/articles/20161225/22534736346/i-thought-piracy-was-killing-entertainment-new-record-scripted-shows-2016.shtml
-title: Liked a page on techdirt.com
-categories:
-- like
-- December
-- 2016
-- 29
-- techdirt.com
----
-
-
---------------------
-hash: 2541d5e47e582d574d0e316c6be3623393e01740
-json_encode: {"date":"Thursday, December 29, 2016 at 5:44am","message":"","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/780738528758459"],"type":"like","url":"https:\/\/www.techdirt.com\/articles\/20161225\/22534736346\/i-thought-piracy-was-killing-entertainment-new-record-scripted-shows-2016.shtml"}
---------------------
-
----
-layout: notes_like
-date: "1970-01-01T10:00:00+10:00"
-type: like
-permalink: /notes/like/techdirt.com/2016/12/29/2541d5e47e582d574d0e316c6be3623393e01740.html
-ext-url: https://www.techdirt.com/articles/20161225/22534736346/i-thought-piracy-was-killing-entertainment-new-record-scripted-shows-2016.shtml
-title: Liked a page on techdirt.com
-categories:
-- like
-- December
-- 2016
-- 29
-- techdirt.com
----
-
-
---------------------
-hash: 2541d5e47e582d574d0e316c6be3623393e01740
-json_encode: {"date":"Thursday, December 29, 2016 at 5:44am","message":"","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/780738528758459"],"type":"like","url":"https:\/\/www.techdirt.com\/articles\/20161225\/22534736346\/i-thought-piracy-was-killing-entertainment-new-record-scripted-shows-2016.shtml"}
---------------------
-
----
-layout: notes_like
-date: "1970-01-01T10:00:00+10:00"
-type: like
-permalink: /notes/like/techdirt.com/2016/12/29/2541d5e47e582d574d0e316c6be3623393e01740.html
-ext-url: https://www.techdirt.com/articles/20161225/22534736346/i-thought-piracy-was-killing-entertainment-new-record-scripted-shows-2016.shtml
-title: Liked a page on techdirt.com
-categories:
-- like
-- December
-- 2016
-- 29
-- techdirt.com
----
-
-
---------------------
-hash: 2541d5e47e582d574d0e316c6be3623393e01740
-json_encode: {"date":"Thursday, December 29, 2016 at 5:44am","message":"","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/780738528758459"],"type":"like","url":"https:\/\/www.techdirt.com\/articles\/20161225\/22534736346\/i-thought-piracy-was-killing-entertainment-new-record-scripted-shows-2016.shtml"}
---------------------
-
----
-layout: notes_like
-date: "1970-01-01T10:00:00+10:00"
-type: like
-permalink: /notes/like/techdirt.com/2016/12/29/2541d5e47e582d574d0e316c6be3623393e01740.html
-ext-url: https://www.techdirt.com/articles/20161225/22534736346/i-thought-piracy-was-killing-entertainment-new-record-scripted-shows-2016.shtml
-title: Liked a page on techdirt.com
-categories:
-- like
-- December
-- 2016
-- 29
-- techdirt.com
----
-
+fad2306ff268065d9ac545dbda720e8068f029bb.md skipping md file
 november-03.temp skipping temp file
 2017
-[".","..","Jan-21_4-26pm-like.json","april-01-like.temp","april-01a-like.temp","april-23-like.temp","august-15-like.temp","august-16-like.temp","august-31-like.temp","january-07-like.temp","january-10-like.temp","january-13-like.temp","january-19.temp","january-24.temp","july-08-like.temp","july-13-like.temp","july-22-like.temp","june-02-like.temp","june-02a-like.temp","june-08-like.temp","june-10-like.temp","june-14-like.temp","june-30-like.temp","march-06-like.temp","march-17-like.temp","march-28-like.temp","march-31-like.temp","may-02-like.temp","may-14-like.temp","may-25-like.temp","may-27-like.temp","october-06-like.temp","october-09-like.temp","october-12-like.temp","october-19.json","september-16-like.temp","september-19-like.temp","september-23.temp","temp.temp"]
+[".","..","19b5055c2a3b4a64c2d3eba682f98aa4f2d239e8.md","1f577f52bf0420724486fb981d268ce2b0e13b84.md","39bbde6a450508bdacdddd4bf15edb311429dc01.md","42e499a432c5f99fc5a3a7ea38e4da1eaa72edb4.md","697d07607ce934d87e04f1b78903e2cc321cf334.md","752fd1cde788ccdf69eddccd2e9aa586386105c3.md","7a4895d9a5e8e6e967293c2dad7d93357598cacc.md","Jan-21_4-26pm-like.json","april-01-like.temp","april-01a-like.temp","april-23-like.temp","august-15-like.temp","august-16-like.temp","august-31-like.temp","b4bb77eb94b84ecf6a7bf4a0d498204ede77baba.md","d32f2607e0519577f584b63f731577e9c185f666.md","da87ad3fb53eca9079d112b1f0471cb571e184a2.md","dd29ecf524b030a65261e3059c48ab9e1ecb2585.md","january-07-like.temp","january-10-like.temp","january-13-like.temp","january-19.temp","january-24.temp","july-08-like.temp","july-13-like.temp","july-22-like.temp","june-02-like.temp","june-02a-like.temp","june-08-like.temp","june-10-like.temp","june-14-like.temp","june-30-like.temp","march-06-like.temp","march-17-like.temp","march-28-like.temp","march-31-like.temp","may-02-like.temp","may-14-like.temp","may-25-like.temp","may-27-like.temp","october-06-like.temp","october-09-like.temp","october-12-like.temp","october-19.json","september-16-like.temp","september-19-like.temp","september-23.temp","temp.temp"]
+19b5055c2a3b4a64c2d3eba682f98aa4f2d239e8.md skipping md file
+1f577f52bf0420724486fb981d268ce2b0e13b84.md skipping md file
+39bbde6a450508bdacdddd4bf15edb311429dc01.md skipping md file
+42e499a432c5f99fc5a3a7ea38e4da1eaa72edb4.md skipping md file
+697d07607ce934d87e04f1b78903e2cc321cf334.md skipping md file
+752fd1cde788ccdf69eddccd2e9aa586386105c3.md skipping md file
+7a4895d9a5e8e6e967293c2dad7d93357598cacc.md skipping md file
 Jan-21_4-26pm-like.json json file :) 
 {
     "date": "2017-01-21 4:26pm",
@@ -254,91 +4402,22 @@ layout: notes_like
 date: "2017-01-21T16:26:00+10:00"
 type: like
 permalink: /notes/like/arstechnica.com/2017/01/21/697d07607ce934d87e04f1b78903e2cc321cf334.html
-ext-url: https://arstechnica.com/tech-policy/2017/01/op-ed-how-i-turned-a-traffic-ticket-into-the-constitutional-trial-of-the-century/
-title: Liked a page on arstechnica.com
-categories:
-- like
-- January
-- 2017
-- 21
-- arstechnica.com
----
-
-
---------------------
-hash: 697d07607ce934d87e04f1b78903e2cc321cf334
-json_encode: {"date":"2017-01-21 4:26pm","message":"","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/793391387493173"],"type":"like","url":"https:\/\/arstechnica.com\/tech-policy\/2017\/01\/op-ed-how-i-turned-a-traffic-ticket-into-the-constitutional-trial-of-the-century\/"}
---------------------
-
----
-layout: notes_like
-date: "2017-01-21T16:26:00+10:00"
-type: like
-permalink: /notes/like/arstechnica.com/2017/01/21/697d07607ce934d87e04f1b78903e2cc321cf334.html
-ext-url: https://arstechnica.com/tech-policy/2017/01/op-ed-how-i-turned-a-traffic-ticket-into-the-constitutional-trial-of-the-century/
-title: Liked a page on arstechnica.com
-categories:
-- like
-- January
-- 2017
-- 21
-- arstechnica.com
----
-
-
---------------------
-hash: 697d07607ce934d87e04f1b78903e2cc321cf334
-json_encode: {"date":"2017-01-21 4:26pm","message":"","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/793391387493173"],"type":"like","url":"https:\/\/arstechnica.com\/tech-policy\/2017\/01\/op-ed-how-i-turned-a-traffic-ticket-into-the-constitutional-trial-of-the-century\/"}
---------------------
-
----
-layout: notes_like
-date: "2017-01-21T16:26:00+10:00"
-type: like
-permalink: /notes/like/arstechnica.com/2017/01/21/697d07607ce934d87e04f1b78903e2cc321cf334.html
-ext-url: https://arstechnica.com/tech-policy/2017/01/op-ed-how-i-turned-a-traffic-ticket-into-the-constitutional-trial-of-the-century/
-title: Liked a page on arstechnica.com
-categories:
-- like
-- January
-- 2017
-- 21
-- arstechnica.com
----
-
-
---------------------
-hash: 697d07607ce934d87e04f1b78903e2cc321cf334
-json_encode: {"date":"2017-01-21 4:26pm","message":"","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/793391387493173"],"type":"like","url":"https:\/\/arstechnica.com\/tech-policy\/2017\/01\/op-ed-how-i-turned-a-traffic-ticket-into-the-constitutional-trial-of-the-century\/"}
---------------------
-
----
-layout: notes_like
-date: "2017-01-21T16:26:00+10:00"
-type: like
-permalink: /notes/like/arstechnica.com/2017/01/21/697d07607ce934d87e04f1b78903e2cc321cf334.html
-ext-url: https://arstechnica.com/tech-policy/2017/01/op-ed-how-i-turned-a-traffic-ticket-into-the-constitutional-trial-of-the-century/
-title: Liked a page on arstechnica.com
-categories:
-- like
-- January
-- 2017
-- 21
-- arstechnica.com
----
-
-
---------------------
-hash: 697d07607ce934d87e04f1b78903e2cc321cf334
-json_encode: {"date":"2017-01-21 4:26pm","message":"","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/793391387493173"],"type":"like","url":"https:\/\/arstechnica.com\/tech-policy\/2017\/01\/op-ed-how-i-turned-a-traffic-ticket-into-the-constitutional-trial-of-the-century\/"}
---------------------
-
----
-layout: notes_like
-date: "2017-01-21T16:26:00+10:00"
-type: like
-permalink: /notes/like/arstechnica.com/2017/01/21/697d07607ce934d87e04f1b78903e2cc321cf334.html
-ext-url: https://arstechnica.com/tech-policy/2017/01/op-ed-how-i-turned-a-traffic-ticket-into-the-constitutional-trial-of-the-century/
+redirect_from:
+- /sl/n/l/d20170121162600.html
+- /sl/n/l/h.697d07607ce934d87e04f1b78903e2cc321cf334.html
+syndication:
+- https://www.facebook.com/tom.sparks.106/posts/793391387493173
+mf:
+  items: []
+  rels: []
+ext:
+  url: https://arstechnica.com/tech-policy/2017/01/op-ed-how-i-turned-a-traffic-ticket-into-the-constitutional-trial-of-the-century/
+  title: How I turned a traffic ticket into the constitutional trial of the century
+  description: Or, how I got a cop to admit that he perjured himself in Alabama traffic
+    court.
+  image_url: https://cdn.arstechnica.net/wp-content/uploads/2017/01/6314437543_3d8d01ba22_b-760x360.jpg
+  image_width: ~
+  image_height: ~
 title: Liked a page on arstechnica.com
 categories:
 - like
@@ -354,6 +4433,10 @@ april-23-like.temp skipping temp file
 august-15-like.temp skipping temp file
 august-16-like.temp skipping temp file
 august-31-like.temp skipping temp file
+b4bb77eb94b84ecf6a7bf4a0d498204ede77baba.md skipping md file
+d32f2607e0519577f584b63f731577e9c185f666.md skipping md file
+da87ad3fb53eca9079d112b1f0471cb571e184a2.md skipping md file
+dd29ecf524b030a65261e3059c48ab9e1ecb2585.md skipping md file
 january-07-like.temp skipping temp file
 january-10-like.temp skipping temp file
 january-13-like.temp skipping temp file
@@ -399,63 +4482,11 @@ layout: notes_twitter
 date: "2017-10-19T00:00:00+10:00"
 type: twitter
 permalink: /notes/twitter/2017/10/19/b4bb77eb94b84ecf6a7bf4a0d498204ede77baba.html
-title: 'twitted: b4bb77eb94b84ecf6a7bf4a0d498204ede77baba'
-categories:
-- twitter
-- October
-- 2017
-- 19
----
-
-
---------------------
-hash: b4bb77eb94b84ecf6a7bf4a0d498204ede77baba
-json_encode: {"date":"2017-10-19","message":"\"You're here because you know something. What you know you can't explain, but you feel it. You've felt it your entire life, that there's something wrong with the world [wide web].\" \u2014 Morpheus, The MatrixI am in the process of quitting all social media silo https:\/\/indieweb.org\/why","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/937357829763194"],"type":"twitter"}
---------------------
-
----
-layout: notes_twitter
-date: "2017-10-19T00:00:00+10:00"
-type: twitter
-permalink: /notes/twitter/2017/10/19/b4bb77eb94b84ecf6a7bf4a0d498204ede77baba.html
-title: 'twitted: b4bb77eb94b84ecf6a7bf4a0d498204ede77baba'
-categories:
-- twitter
-- October
-- 2017
-- 19
----
-
-
---------------------
-hash: b4bb77eb94b84ecf6a7bf4a0d498204ede77baba
-json_encode: {"date":"2017-10-19","message":"\"You're here because you know something. What you know you can't explain, but you feel it. You've felt it your entire life, that there's something wrong with the world [wide web].\" \u2014 Morpheus, The MatrixI am in the process of quitting all social media silo https:\/\/indieweb.org\/why","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/937357829763194"],"type":"twitter"}
---------------------
-
----
-layout: notes_twitter
-date: "2017-10-19T00:00:00+10:00"
-type: twitter
-permalink: /notes/twitter/2017/10/19/b4bb77eb94b84ecf6a7bf4a0d498204ede77baba.html
-title: 'twitted: b4bb77eb94b84ecf6a7bf4a0d498204ede77baba'
-categories:
-- twitter
-- October
-- 2017
-- 19
----
-
-
---------------------
-hash: b4bb77eb94b84ecf6a7bf4a0d498204ede77baba
-json_encode: {"date":"2017-10-19","message":"\"You're here because you know something. What you know you can't explain, but you feel it. You've felt it your entire life, that there's something wrong with the world [wide web].\" \u2014 Morpheus, The MatrixI am in the process of quitting all social media silo https:\/\/indieweb.org\/why","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/937357829763194"],"type":"twitter"}
---------------------
-
----
-layout: notes_twitter
-date: "2017-10-19T00:00:00+10:00"
-type: twitter
-permalink: /notes/twitter/2017/10/19/b4bb77eb94b84ecf6a7bf4a0d498204ede77baba.html
+redirect_from:
+- /sl/n/t/d20171019000000.html
+- /sl/n/t/h.b4bb77eb94b84ecf6a7bf4a0d498204ede77baba.html
+syndication:
+- https://www.facebook.com/tom.sparks.106/posts/937357829763194
 title: 'twitted: b4bb77eb94b84ecf6a7bf4a0d498204ede77baba'
 categories:
 - twitter
@@ -469,7 +4500,7 @@ september-19-like.temp skipping temp file
 september-23.temp skipping temp file
 temp.temp skipping temp file
 2018
-[".","..","01-06-like.temp","01-06a-like.temp","01-16_3-07pm-like.json","01-21_4-38pm-like.json","2018-02-12_01-19-22.json","facebook.1518824753.json","tomasparks_lb-2018-02-09.temp"]
+[".","..","01-06-like.temp","01-06a-like.temp","01-16_3-07pm-like.json","01-21_4-38pm-like.json","0c430e8fb10d1b5991726fb8faa1152f33b4d308.md","2018-02-12_01-19-22.json","289c642db1b70dbad9f554cc6f4545ba3a268390.md","2be88ca4242c76e8253ac62474851065032d6833.md","3655cbe8bdd2c67905405d98a6f046fd174161d0.md","428ad098c979b68bcbf234541a41e201a164d3f8.md","42e499a432c5f99fc5a3a7ea38e4da1eaa72edb4.md","4a5e06fb7ec85286e568fab583330aa4f934f155.md","4d524c3410124cbac6ef83b0d9d2b6164a4978c6.md","53caab3d40a79e880bed90d2cfca3f5cadb21e96.md","5a0c3e7f1a4f86796810a35b34b918c06117e8ef.md","692ba2240f10b0112a924b9d25047be661ce3dcd.md","7837b051daf975b1764bcbc3adeb99ac62fb4908.md","7ea5e41d04cb86e49cda99900ac080baf8c26585.md","8942c63d4bb07b420fa4742d02895af489306db1.md","ad73e3eee8e8b0e72ee81226dba61e46c7ff2925.md","b2f6ee6c13e2e0baf3a9e0a69bd2f0686c874c5f.md","cfec0c01797ca50b68b2505593b0180869e205fb.md","da87ad3fb53eca9079d112b1f0471cb571e184a2.md","dd29ecf524b030a65261e3059c48ab9e1ecb2585.md","e5874f0442676b21605d5e8085d1d26d5bf3fa0f.md","f14a616ea28e24c429b1ee02b12ef199ced07171.md","facebook.1518824753.json","tomasparks_lb-2018-02-09.temp"]
 01-06-like.temp skipping temp file
 01-06a-like.temp skipping temp file
 01-16_3-07pm-like.json json file :) 
@@ -493,91 +4524,23 @@ layout: notes_like
 date: "2018-01-16T15:07:00+10:00"
 type: like
 permalink: /notes/like/youtube.com/2018/01/16/53caab3d40a79e880bed90d2cfca3f5cadb21e96.html
-ext-url: https://www.youtube.com/watch?v=QDwN41Px_sY
-title: Liked a page on youtube.com
-categories:
-- like
-- January
-- 2018
-- 16
-- youtube.com
----
-
-
---------------------
-hash: 53caab3d40a79e880bed90d2cfca3f5cadb21e96
-json_encode: {"date":"2018-01-16 3:07pm","message":"note: i have silo quited","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/982322775266699"],"type":"like","url":"https:\/\/www.youtube.com\/watch?v=QDwN41Px_sY"}
---------------------
-
----
-layout: notes_like
-date: "2018-01-16T15:07:00+10:00"
-type: like
-permalink: /notes/like/youtube.com/2018/01/16/53caab3d40a79e880bed90d2cfca3f5cadb21e96.html
-ext-url: https://www.youtube.com/watch?v=QDwN41Px_sY
-title: Liked a page on youtube.com
-categories:
-- like
-- January
-- 2018
-- 16
-- youtube.com
----
-
-
---------------------
-hash: 53caab3d40a79e880bed90d2cfca3f5cadb21e96
-json_encode: {"date":"2018-01-16 3:07pm","message":"note: i have silo quited","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/982322775266699"],"type":"like","url":"https:\/\/www.youtube.com\/watch?v=QDwN41Px_sY"}
---------------------
-
----
-layout: notes_like
-date: "2018-01-16T15:07:00+10:00"
-type: like
-permalink: /notes/like/youtube.com/2018/01/16/53caab3d40a79e880bed90d2cfca3f5cadb21e96.html
-ext-url: https://www.youtube.com/watch?v=QDwN41Px_sY
-title: Liked a page on youtube.com
-categories:
-- like
-- January
-- 2018
-- 16
-- youtube.com
----
-
-
---------------------
-hash: 53caab3d40a79e880bed90d2cfca3f5cadb21e96
-json_encode: {"date":"2018-01-16 3:07pm","message":"note: i have silo quited","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/982322775266699"],"type":"like","url":"https:\/\/www.youtube.com\/watch?v=QDwN41Px_sY"}
---------------------
-
----
-layout: notes_like
-date: "2018-01-16T15:07:00+10:00"
-type: like
-permalink: /notes/like/youtube.com/2018/01/16/53caab3d40a79e880bed90d2cfca3f5cadb21e96.html
-ext-url: https://www.youtube.com/watch?v=QDwN41Px_sY
-title: Liked a page on youtube.com
-categories:
-- like
-- January
-- 2018
-- 16
-- youtube.com
----
-
-
---------------------
-hash: 53caab3d40a79e880bed90d2cfca3f5cadb21e96
-json_encode: {"date":"2018-01-16 3:07pm","message":"note: i have silo quited","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/982322775266699"],"type":"like","url":"https:\/\/www.youtube.com\/watch?v=QDwN41Px_sY"}
---------------------
-
----
-layout: notes_like
-date: "2018-01-16T15:07:00+10:00"
-type: like
-permalink: /notes/like/youtube.com/2018/01/16/53caab3d40a79e880bed90d2cfca3f5cadb21e96.html
-ext-url: https://www.youtube.com/watch?v=QDwN41Px_sY
+redirect_from:
+- /sl/n/l/d20180116150700.html
+- /sl/n/l/h.53caab3d40a79e880bed90d2cfca3f5cadb21e96.html
+syndication:
+- https://www.facebook.com/tom.sparks.106/posts/982322775266699
+mf:
+  items: []
+  rels: []
+ext:
+  url: https://www.youtube.com/watch?v=QDwN41Px_sY
+  title: "The Most Expensive Way to Steal Music \xF0\x9F\x8E\xB6\xF0\x9F\x98\x82"
+  description: "Today, we're finding out if you can cast a playable record out of
+    resin! Subscribe & \xE2\x80\x9CRing the Bell\xE2\x80\x9D: https://goo.gl/618xWm
+    Slow-Cure Resin: http://amzn.to/2---"
+  image_url: https://i.ytimg.com/vi/QDwN41Px_sY/maxresdefault.jpg
+  image_width: ~
+  image_height: ~
 title: Liked a page on youtube.com
 categories:
 - like
@@ -608,7 +4571,21 @@ layout: notes_like
 date: "2018-01-21T16:38:00+10:00"
 type: like
 permalink: /notes/like/xkcd.com/2018/01/21/289c642db1b70dbad9f554cc6f4545ba3a268390.html
-ext-url: https://xkcd.com/1944/
+redirect_from:
+- /sl/n/l/d20180121163800.html
+- /sl/n/l/h.289c642db1b70dbad9f554cc6f4545ba3a268390.html
+syndication:
+- https://www.facebook.com/tom.sparks.106/posts/937357829763194
+mf:
+  items: []
+  rels: []
+ext:
+  url: https://xkcd.com/1944/
+  title: ~
+  description: ~
+  image_url: ~
+  image_width: ~
+  image_height: ~
 title: Liked a page on xkcd.com
 categories:
 - like
@@ -618,90 +4595,7 @@ categories:
 - xkcd.com
 ---
 
-
---------------------
-hash: 289c642db1b70dbad9f554cc6f4545ba3a268390
-json_encode: {"date":"2018-01-21 4:38pm","message":"","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/937357829763194"],"type":"like","url":"https:\/\/xkcd.com\/1944\/"}
---------------------
-
----
-layout: notes_like
-date: "2018-01-21T16:38:00+10:00"
-type: like
-permalink: /notes/like/xkcd.com/2018/01/21/289c642db1b70dbad9f554cc6f4545ba3a268390.html
-ext-url: https://xkcd.com/1944/
-title: Liked a page on xkcd.com
-categories:
-- like
-- January
-- 2018
-- 21
-- xkcd.com
----
-
-
---------------------
-hash: 289c642db1b70dbad9f554cc6f4545ba3a268390
-json_encode: {"date":"2018-01-21 4:38pm","message":"","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/937357829763194"],"type":"like","url":"https:\/\/xkcd.com\/1944\/"}
---------------------
-
----
-layout: notes_like
-date: "2018-01-21T16:38:00+10:00"
-type: like
-permalink: /notes/like/xkcd.com/2018/01/21/289c642db1b70dbad9f554cc6f4545ba3a268390.html
-ext-url: https://xkcd.com/1944/
-title: Liked a page on xkcd.com
-categories:
-- like
-- January
-- 2018
-- 21
-- xkcd.com
----
-
-
---------------------
-hash: 289c642db1b70dbad9f554cc6f4545ba3a268390
-json_encode: {"date":"2018-01-21 4:38pm","message":"","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/937357829763194"],"type":"like","url":"https:\/\/xkcd.com\/1944\/"}
---------------------
-
----
-layout: notes_like
-date: "2018-01-21T16:38:00+10:00"
-type: like
-permalink: /notes/like/xkcd.com/2018/01/21/289c642db1b70dbad9f554cc6f4545ba3a268390.html
-ext-url: https://xkcd.com/1944/
-title: Liked a page on xkcd.com
-categories:
-- like
-- January
-- 2018
-- 21
-- xkcd.com
----
-
-
---------------------
-hash: 289c642db1b70dbad9f554cc6f4545ba3a268390
-json_encode: {"date":"2018-01-21 4:38pm","message":"","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/937357829763194"],"type":"like","url":"https:\/\/xkcd.com\/1944\/"}
---------------------
-
----
-layout: notes_like
-date: "2018-01-21T16:38:00+10:00"
-type: like
-permalink: /notes/like/xkcd.com/2018/01/21/289c642db1b70dbad9f554cc6f4545ba3a268390.html
-ext-url: https://xkcd.com/1944/
-title: Liked a page on xkcd.com
-categories:
-- like
-- January
-- 2018
-- 21
-- xkcd.com
----
-
+0c430e8fb10d1b5991726fb8faa1152f33b4d308.md skipping md file
 2018-02-12_01-19-22.json json file :) 
 {
     "date": "2018-02-12T01:19:22+01:00",
@@ -721,6 +4615,9 @@ layout: notes_reply
 date: "2018-02-12T10:19:22+10:00"
 type: reply
 permalink: /notes/reply/arstechnica.com/2018/02/12/428ad098c979b68bcbf234541a41e201a164d3f8.html
+redirect_from:
+- /sl/n/r/d20180212101922.html
+- /sl/n/r/h.428ad098c979b68bcbf234541a41e201a164d3f8.html
 ext-url: https://arstechnica.com/tech-policy/2018/02/daylight-saving-time-isnt-worth-it-european-parliament-ministers-say/
 title: 'reply to: https://arstechnica.com/tech-policy/2018/02/daylight-saving-time-isnt-worth-it-european-parliament-ministers-say/'
 categories:
@@ -731,90 +4628,26 @@ categories:
 - arstechnica.com
 ---
 
-
---------------------
-hash: 428ad098c979b68bcbf234541a41e201a164d3f8
-json_encode: {"date":"2018-02-12T01:19:22+01:00","message":"finally the EU says DST is not worth it","syndication":null,"type":"reply","url":"https:\/\/arstechnica.com\/tech-policy\/2018\/02\/daylight-saving-time-isnt-worth-it-european-parliament-ministers-say\/"}
---------------------
-
----
-layout: notes_reply
-date: "2018-02-12T10:19:22+10:00"
-type: reply
-permalink: /notes/reply/arstechnica.com/2018/02/12/428ad098c979b68bcbf234541a41e201a164d3f8.html
-ext-url: https://arstechnica.com/tech-policy/2018/02/daylight-saving-time-isnt-worth-it-european-parliament-ministers-say/
-title: 'reply to: https://arstechnica.com/tech-policy/2018/02/daylight-saving-time-isnt-worth-it-european-parliament-ministers-say/'
-categories:
-- reply
-- February
-- 2018
-- 12
-- arstechnica.com
----
-
-
---------------------
-hash: 428ad098c979b68bcbf234541a41e201a164d3f8
-json_encode: {"date":"2018-02-12T01:19:22+01:00","message":"finally the EU says DST is not worth it","syndication":null,"type":"reply","url":"https:\/\/arstechnica.com\/tech-policy\/2018\/02\/daylight-saving-time-isnt-worth-it-european-parliament-ministers-say\/"}
---------------------
-
----
-layout: notes_reply
-date: "2018-02-12T10:19:22+10:00"
-type: reply
-permalink: /notes/reply/arstechnica.com/2018/02/12/428ad098c979b68bcbf234541a41e201a164d3f8.html
-ext-url: https://arstechnica.com/tech-policy/2018/02/daylight-saving-time-isnt-worth-it-european-parliament-ministers-say/
-title: 'reply to: https://arstechnica.com/tech-policy/2018/02/daylight-saving-time-isnt-worth-it-european-parliament-ministers-say/'
-categories:
-- reply
-- February
-- 2018
-- 12
-- arstechnica.com
----
-
-
---------------------
-hash: 428ad098c979b68bcbf234541a41e201a164d3f8
-json_encode: {"date":"2018-02-12T01:19:22+01:00","message":"finally the EU says DST is not worth it","syndication":null,"type":"reply","url":"https:\/\/arstechnica.com\/tech-policy\/2018\/02\/daylight-saving-time-isnt-worth-it-european-parliament-ministers-say\/"}
---------------------
-
----
-layout: notes_reply
-date: "2018-02-12T10:19:22+10:00"
-type: reply
-permalink: /notes/reply/arstechnica.com/2018/02/12/428ad098c979b68bcbf234541a41e201a164d3f8.html
-ext-url: https://arstechnica.com/tech-policy/2018/02/daylight-saving-time-isnt-worth-it-european-parliament-ministers-say/
-title: 'reply to: https://arstechnica.com/tech-policy/2018/02/daylight-saving-time-isnt-worth-it-european-parliament-ministers-say/'
-categories:
-- reply
-- February
-- 2018
-- 12
-- arstechnica.com
----
-
-
---------------------
-hash: 428ad098c979b68bcbf234541a41e201a164d3f8
-json_encode: {"date":"2018-02-12T01:19:22+01:00","message":"finally the EU says DST is not worth it","syndication":null,"type":"reply","url":"https:\/\/arstechnica.com\/tech-policy\/2018\/02\/daylight-saving-time-isnt-worth-it-european-parliament-ministers-say\/"}
---------------------
-
----
-layout: notes_reply
-date: "2018-02-12T10:19:22+10:00"
-type: reply
-permalink: /notes/reply/arstechnica.com/2018/02/12/428ad098c979b68bcbf234541a41e201a164d3f8.html
-ext-url: https://arstechnica.com/tech-policy/2018/02/daylight-saving-time-isnt-worth-it-european-parliament-ministers-say/
-title: 'reply to: https://arstechnica.com/tech-policy/2018/02/daylight-saving-time-isnt-worth-it-european-parliament-ministers-say/'
-categories:
-- reply
-- February
-- 2018
-- 12
-- arstechnica.com
----
-
+289c642db1b70dbad9f554cc6f4545ba3a268390.md skipping md file
+2be88ca4242c76e8253ac62474851065032d6833.md skipping md file
+3655cbe8bdd2c67905405d98a6f046fd174161d0.md skipping md file
+428ad098c979b68bcbf234541a41e201a164d3f8.md skipping md file
+42e499a432c5f99fc5a3a7ea38e4da1eaa72edb4.md skipping md file
+4a5e06fb7ec85286e568fab583330aa4f934f155.md skipping md file
+4d524c3410124cbac6ef83b0d9d2b6164a4978c6.md skipping md file
+53caab3d40a79e880bed90d2cfca3f5cadb21e96.md skipping md file
+5a0c3e7f1a4f86796810a35b34b918c06117e8ef.md skipping md file
+692ba2240f10b0112a924b9d25047be661ce3dcd.md skipping md file
+7837b051daf975b1764bcbc3adeb99ac62fb4908.md skipping md file
+7ea5e41d04cb86e49cda99900ac080baf8c26585.md skipping md file
+8942c63d4bb07b420fa4742d02895af489306db1.md skipping md file
+ad73e3eee8e8b0e72ee81226dba61e46c7ff2925.md skipping md file
+b2f6ee6c13e2e0baf3a9e0a69bd2f0686c874c5f.md skipping md file
+cfec0c01797ca50b68b2505593b0180869e205fb.md skipping md file
+da87ad3fb53eca9079d112b1f0471cb571e184a2.md skipping md file
+dd29ecf524b030a65261e3059c48ab9e1ecb2585.md skipping md file
+e5874f0442676b21605d5e8085d1d26d5bf3fa0f.md skipping md file
+f14a616ea28e24c429b1ee02b12ef199ced07171.md skipping md file
 facebook.1518824753.json json file :) 
 {
     "date": "2018-02-16T23:45:53+0000",
@@ -836,91 +4669,22 @@ layout: notes_like
 date: "2018-02-17T09:45:53+10:00"
 type: like
 permalink: /notes/like/boingboing.net/2018/02/16/cfec0c01797ca50b68b2505593b0180869e205fb.html
-ext-url: https://boingboing.net/2018/02/16/watch-this-artist-create-photo.html
-title: Liked a page on boingboing.net
-categories:
-- like
-- February
-- 2018
-- 16
-- boingboing.net
----
-
-
---------------------
-hash: cfec0c01797ca50b68b2505593b0180869e205fb
-json_encode: {"date":"2018-02-16T23:45:53+0000","message":"","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/1001125966719713"],"type":"like","url":"https:\/\/boingboing.net\/2018\/02\/16\/watch-this-artist-create-photo.html"}
---------------------
-
----
-layout: notes_like
-date: "2018-02-17T09:45:53+10:00"
-type: like
-permalink: /notes/like/boingboing.net/2018/02/16/cfec0c01797ca50b68b2505593b0180869e205fb.html
-ext-url: https://boingboing.net/2018/02/16/watch-this-artist-create-photo.html
-title: Liked a page on boingboing.net
-categories:
-- like
-- February
-- 2018
-- 16
-- boingboing.net
----
-
-
---------------------
-hash: cfec0c01797ca50b68b2505593b0180869e205fb
-json_encode: {"date":"2018-02-16T23:45:53+0000","message":"","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/1001125966719713"],"type":"like","url":"https:\/\/boingboing.net\/2018\/02\/16\/watch-this-artist-create-photo.html"}
---------------------
-
----
-layout: notes_like
-date: "2018-02-17T09:45:53+10:00"
-type: like
-permalink: /notes/like/boingboing.net/2018/02/16/cfec0c01797ca50b68b2505593b0180869e205fb.html
-ext-url: https://boingboing.net/2018/02/16/watch-this-artist-create-photo.html
-title: Liked a page on boingboing.net
-categories:
-- like
-- February
-- 2018
-- 16
-- boingboing.net
----
-
-
---------------------
-hash: cfec0c01797ca50b68b2505593b0180869e205fb
-json_encode: {"date":"2018-02-16T23:45:53+0000","message":"","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/1001125966719713"],"type":"like","url":"https:\/\/boingboing.net\/2018\/02\/16\/watch-this-artist-create-photo.html"}
---------------------
-
----
-layout: notes_like
-date: "2018-02-17T09:45:53+10:00"
-type: like
-permalink: /notes/like/boingboing.net/2018/02/16/cfec0c01797ca50b68b2505593b0180869e205fb.html
-ext-url: https://boingboing.net/2018/02/16/watch-this-artist-create-photo.html
-title: Liked a page on boingboing.net
-categories:
-- like
-- February
-- 2018
-- 16
-- boingboing.net
----
-
-
---------------------
-hash: cfec0c01797ca50b68b2505593b0180869e205fb
-json_encode: {"date":"2018-02-16T23:45:53+0000","message":"","syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/1001125966719713"],"type":"like","url":"https:\/\/boingboing.net\/2018\/02\/16\/watch-this-artist-create-photo.html"}
---------------------
-
----
-layout: notes_like
-date: "2018-02-17T09:45:53+10:00"
-type: like
-permalink: /notes/like/boingboing.net/2018/02/16/cfec0c01797ca50b68b2505593b0180869e205fb.html
-ext-url: https://boingboing.net/2018/02/16/watch-this-artist-create-photo.html
+redirect_from:
+- /sl/n/l/d20180217094553.html
+- /sl/n/l/h.cfec0c01797ca50b68b2505593b0180869e205fb.html
+syndication:
+- https://www.facebook.com/tom.sparks.106/posts/1001125966719713
+mf:
+  items: []
+  rels: []
+ext:
+  url: https://boingboing.net/2018/02/16/watch-this-artist-create-photo.html
+  title: Watch this artist create photorealistic embroidery portraits
+  description: Verso is a lovely documentary about embroidery artist Cayce Zavaglia
+    (previously), who creates beautiful portraits via embroidery.
+  image_url: https://i2.wp.com/media.boingboing.net/wp-content/uploads/2018/02/cayce-zavaglia-01.jpg?fit=799%2C531&ssl=1
+  image_width: "799"
+  image_height: "531"
 title: Liked a page on boingboing.net
 categories:
 - like
