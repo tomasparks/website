@@ -1,5 +1,17 @@
 #!/usr/bin/env php
 <?php
+/*
+if (file_exists('./tomasparks_lb-2018-02-09.json')) {
+	$str = file_get_contents('./tomasparks_lb-2018-02-09.json');
+	$json = json_decode($str, true);
+	//echo "\n".yaml_emit($json)."\n";
+		foreach ($json as $value){
+		print_r($value);
+		}
+	
+}*/
+
+
 if (file_exists('/home/tom/.local/share/rhythmbox/rhythmdb.xml')) {
 		$xml = simplexml_load_file('/home/tom/.local/share/rhythmbox/rhythmdb.xml');
 		//$json = json_encode($xml);
@@ -20,7 +32,7 @@ for ($year = 2000; $year <= 2020; $year++) {
 
 
 	foreach ($xml as $value){
-		echo "-----\n";
+		//echo "-----\n";
 		$json = json_encode($value);
 		$data = json_decode($json,TRUE);
 		//print_r($data);
@@ -47,7 +59,7 @@ for ($year = 2000; $year <= 2020; $year++) {
 				//$ret[] =$res;
 				unset($res);		
 			}
-			echo "--\n";
+			//echo "--\n";
 		}
 	
 	
@@ -70,7 +82,7 @@ for ($year = 2000; $year <= 2020; $year++) {
 				//$ret[] =$res;
 				unset($res);		
 			}
-			echo "--\n";
+			//echo "--\n";
 		}
 
 
@@ -79,15 +91,15 @@ for ($year = 2000; $year <= 2020; $year++) {
 	//print_r($db);
 	foreach ($db as $ykey => $year){
     	if(is_array($year))	{
-    		echo "year == is_array true\n";
-    		print_r($ykey);
-    		echo "\n";
+    		//echo "year == is_array true\n";
+    		//print_r($ykey);
+    		//echo "\n";
   			foreach ( $year as $mkey => $month)	{
            		 if(is_array($month)){
-                	echo "month == is_array true\n";
-    		print_r($month);
-    		echo "\n";
-                    echo yaml_emit($month)."\n";
+                	//echo "month == is_array true\n";
+    		//print_r($month);
+    		//echo "\n";
+                    //echo yaml_emit($month)."\n";
                   		mkdir($notes_path."/local/".$ykey."/", 0755, true);
                   		chdir($notes_path."/local/".$ykey."/");
                   		yaml_emit_file ("r".$mkey.".yml" , $month);   

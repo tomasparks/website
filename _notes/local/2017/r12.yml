@@ -8,9 +8,6 @@
 - date: "2017-12-27 13:20:41"
   type: scrobble
   tags: title=Foundation2&artist=William+F.+Maddock&album=Unknown&play-count=1
-- date: "2017-12-27 12:52:19"
-  type: scrobble
-  tags: title=Fear&artist=Planet+G&album=Unknown&play-count=1
 - date: "2017-12-27 13:04:52"
   type: scrobble
   tags: title=ForbidenDesert.mpg&artist=Unknown&album=Unknown&play-count=1
@@ -20,112 +17,115 @@
 - date: "2017-12-27 12:55:24"
   type: scrobble
   tags: title=Fiesta&artist=Dieziseven&album=Rocky%C2%B4s+Mountains&play-count=1
-- date: "2017-12-30 15:27:41"
+- date: "2017-12-27 12:52:19"
   type: scrobble
-  tags: title=25.+Pathfinder+Editorial+Executive+Craig+Bromberg&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
-- date: "2017-12-27 15:31:44"
+  tags: title=Fear&artist=Planet+G&album=Unknown&play-count=1
+- date: "2017-12-31 16:18:49"
   type: scrobble
-  tags: title=3.+%28Ch+1.3%29+Netscape%27s+IPO+As+The+Big+Bang&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
-- date: "2017-12-29 15:13:10"
+  tags: title=34.+Owen+Thomas+of+HotWired+and+Suck&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-28 13:39:18"
   type: scrobble
-  tags: title=15.+%28Ch+4.1%29+The+Early+Search+Engines+And+Yahoo&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
-- date: "2017-12-31 07:44:50"
-  type: scrobble
-  tags: title=30.+%28Misc+2%29+The+NSA+And+The+1990s+Debate+Over+the+Clipper+Chip&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
-- date: "2017-12-27 14:59:56"
-  type: scrobble
-  tags: title=2.+%28Ch+1.2%29+The+Creation+of+Netscape&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
-- date: "2017-12-29 02:25:04"
-  type: scrobble
-  tags: title=8.+Aleks+Totic%2C+of+Mosaic+and+Netscape&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+  tags: title=6.+Mosaic+and+Internet+Explorer+Engineer%2C+Chris+Wilson&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
 - date: "2017-12-30 06:58:03"
   type: scrobble
   tags: title=21.+Yahoo+Employee+%233%2C+Tim+Brady&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
-- date: "2017-12-30 12:05:13"
-  type: scrobble
-  tags: title=23.+Co-Founder+of+FocaLink%2C+Dave+Zinman&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
-- date: "2017-12-31 02:56:04"
-  type: scrobble
-  tags: title=28.+Pathfinder+Executive+Oliver+Knowlton&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
-- date: "2017-12-31 14:30:41"
-  type: scrobble
-  tags: title=32.+%28Ch+5.2%29+Wired%2C+CNET%2C+Slate%2C+Salon+and+Suck&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
-- date: "2017-12-31 15:25:35"
-  type: scrobble
-  tags: title=33.+HotWired+CEO+Andrew+Anker&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
-- date: "2017-12-28 12:18:40"
-  type: scrobble
-  tags: title=5.+Netscape+and+Mosaic+Founding+Engineer%2C+Lou+Montulli&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
-- date: "2017-12-29 14:39:47"
-  type: scrobble
-  tags: title=14.+%28Misc+1%29+The+Forgotten+Online+Pioneer%2C+Bill+von+Meister&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
-- date: "2017-12-31 10:34:02"
-  type: scrobble
-  tags: title=31.+Real+Networks+Founder+and+CEO+Rob+Glaser&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
 - date: "2017-12-29 11:38:26"
   type: scrobble
   tags: title=11.+%28Ch+3.1%29+CompuServe%2C+Prodigy%2C+AOL+and+the+Early+Online+Services&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
-- date: "2017-12-29 12:17:59"
-  type: scrobble
-  tags: title=12.+%28Ch+3.2%29+The+Rise+of+AOL&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
-- date: "2017-12-29 16:54:06"
-  type: scrobble
-  tags: title=18.+The+True+Story+Behind+Halt+And+Catch+Fire+-+An+Interview+With+Rod+Canion&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
-- date: "2017-12-31 02:26:08"
-  type: scrobble
-  tags: title=27.+She+Gave+The+World+A+Billion+AOL+CDs+-+An+Interview+With+Marketing+Legend+Jan+Brandt&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
-- date: "2017-12-29 11:08:37"
-  type: scrobble
-  tags: title=10.+Rob+McCool%2C+Founding+Engineer%2C+Mosaic+and+Netscape&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
-- date: "2017-12-29 16:06:49"
-  type: scrobble
-  tags: title=17.+Co-Creator+of+the+First+Remote+Ad+Server%2C+Jason+Strober&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
-- date: "2017-12-29 03:19:09"
-  type: scrobble
-  tags: title=9.++Jon+Mittelhauser%2C+Founding+Engineer%2C+Mosaic+and+Netscape&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
 - date: "2017-12-31 05:14:56"
   type: scrobble
   tags: title=29.+Analysis+Episode+1+With+Chris+Higgins+%40chrishiggins&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
 - date: "2017-12-31 17:03:56"
   type: scrobble
   tags: title=35.+Joe+McCambley+Discusses+Advertising+and+the+First+Banner+Ads&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-31 10:34:02"
+  type: scrobble
+  tags: title=31.+Real+Networks+Founder+and+CEO+Rob+Glaser&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-29 02:25:04"
+  type: scrobble
+  tags: title=8.+Aleks+Totic%2C+of+Mosaic+and+Netscape&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-30 12:05:13"
+  type: scrobble
+  tags: title=23.+Co-Founder+of+FocaLink%2C+Dave+Zinman&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-27 14:59:56"
+  type: scrobble
+  tags: title=2.+%28Ch+1.2%29+The+Creation+of+Netscape&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-29 03:19:09"
+  type: scrobble
+  tags: title=9.++Jon+Mittelhauser%2C+Founding+Engineer%2C+Mosaic+and+Netscape&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-30 05:52:13"
+  type: scrobble
+  tags: title=20.+%28Ch+4.2%29+How+Yahoo+Became+The+Web%27s+First+Great+Company&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-29 15:13:10"
+  type: scrobble
+  tags: title=15.+%28Ch+4.1%29+The+Early+Search+Engines+And+Yahoo&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-31 02:26:08"
+  type: scrobble
+  tags: title=27.+She+Gave+The+World+A+Billion+AOL+CDs+-+An+Interview+With+Marketing+Legend+Jan+Brandt&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-27 16:28:56"
+  type: scrobble
+  tags: title=4.+%28Ch+2.1%29+Microsoft+At+The+Dawn+Of+The+Internet+Era&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-31 07:44:50"
+  type: scrobble
+  tags: title=30.+%28Misc+2%29+The+NSA+And+The+1990s+Debate+Over+the+Clipper+Chip&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-29 16:54:06"
+  type: scrobble
+  tags: title=18.+The+True+Story+Behind+Halt+And+Catch+Fire+-+An+Interview+With+Rod+Canion&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-28 12:18:40"
+  type: scrobble
+  tags: title=5.+Netscape+and+Mosaic+Founding+Engineer%2C+Lou+Montulli&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-31 14:30:41"
+  type: scrobble
+  tags: title=32.+%28Ch+5.2%29+Wired%2C+CNET%2C+Slate%2C+Salon+and+Suck&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-29 14:39:47"
+  type: scrobble
+  tags: title=14.+%28Misc+1%29+The+Forgotten+Online+Pioneer%2C+Bill+von+Meister&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-30 07:49:20"
+  type: scrobble
+  tags: title=22.+Co-Founder+of+DoubleClick%2C+Kevin+O%27Connor&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-27 15:31:44"
+  type: scrobble
+  tags: title=3.+%28Ch+1.3%29+Netscape%27s+IPO+As+The+Big+Bang&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-30 15:27:41"
+  type: scrobble
+  tags: title=25.+Pathfinder+Editorial+Executive+Craig+Bromberg&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-29 11:08:37"
+  type: scrobble
+  tags: title=10.+Rob+McCool%2C+Founding+Engineer%2C+Mosaic+and+Netscape&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-31 15:25:35"
+  type: scrobble
+  tags: title=33.+HotWired+CEO+Andrew+Anker&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-29 12:17:59"
+  type: scrobble
+  tags: title=12.+%28Ch+3.2%29+The+Rise+of+AOL&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-31 18:55:53"
+  type: scrobble
+  tags: title=36.+Talking+Early+Online+Services+With+Chris+Higgins+%40chrishiggins&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
 - date: "2017-12-30 14:17:44"
   type: scrobble
   tags: title=24.+%28Ch+5.1%29+Mercury+Center+and+Pathfinder+-+Big+Media%27s+Big+Web+Adventure&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
 - date: "2017-12-29 15:39:09"
   type: scrobble
   tags: title=16.+Internet+Explorer+Team+Member%2C+Hadi+Partovi+%40hadip&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
-- date: "2017-12-30 16:55:32"
+- date: "2017-12-31 02:56:04"
   type: scrobble
-  tags: title=26.+Head+of+Time+New+Media+Executive+Linda+McCutcheon&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
-- date: "2017-12-30 05:52:13"
+  tags: title=28.+Pathfinder+Executive+Oliver+Knowlton&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-29 13:50:48"
   type: scrobble
-  tags: title=20.+%28Ch+4.2%29+How+Yahoo+Became+The+Web%27s+First+Great+Company&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
-- date: "2017-12-31 18:55:53"
-  type: scrobble
-  tags: title=36.+Talking+Early+Online+Services+With+Chris+Higgins+%40chrishiggins&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
-- date: "2017-12-27 14:00:59"
-  type: scrobble
-  tags: title=1.+%28Ch+1.1%29+Mosaic+-+The+%22First%22+Web+Browser&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+  tags: title=13.+Co-Designer+of+the+First+Banner+Ad%2C+Co-Founder+of+Razorfish%2C+Craig+Kanarick&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
 - date: "2017-12-28 16:31:55"
   type: scrobble
   tags: title=7.+%28Ch+2.2%29+Bill+Gates+%22Gets%22+The+Internet&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
 - date: "2017-12-29 17:45:16"
   type: scrobble
   tags: title=19.+Co-Founder+of+Netgravity%2C+John+Danner&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
-- date: "2017-12-27 16:28:56"
+- date: "2017-12-30 16:55:32"
   type: scrobble
-  tags: title=4.+%28Ch+2.1%29+Microsoft+At+The+Dawn+Of+The+Internet+Era&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
-- date: "2017-12-28 13:39:18"
+  tags: title=26.+Head+of+Time+New+Media+Executive+Linda+McCutcheon&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-27 14:00:59"
   type: scrobble
-  tags: title=6.+Mosaic+and+Internet+Explorer+Engineer%2C+Chris+Wilson&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
-- date: "2017-12-30 07:49:20"
+  tags: title=1.+%28Ch+1.1%29+Mosaic+-+The+%22First%22+Web+Browser&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+- date: "2017-12-29 16:06:49"
   type: scrobble
-  tags: title=22.+Co-Founder+of+DoubleClick%2C+Kevin+O%27Connor&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
-- date: "2017-12-29 13:50:48"
-  type: scrobble
-  tags: title=13.+Co-Designer+of+the+First+Banner+Ad%2C+Co-Founder+of+Razorfish%2C+Craig+Kanarick&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
-- date: "2017-12-31 16:18:49"
-  type: scrobble
-  tags: title=34.+Owen+Thomas+of+HotWired+and+Suck&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
+  tags: title=17.+Co-Creator+of+the+First+Remote+Ad+Server%2C+Jason+Strober&artist=Brian+McCullough+%40brianmcc&album=Internet+History+Podcast&play-count=1
 ...
