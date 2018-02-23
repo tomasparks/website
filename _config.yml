@@ -73,8 +73,7 @@ collections:
      permalink: /projects/alt-dtn/ebook/:slug.html
    notes:
      output: true
-     layout: post
-     permalink: /notes/:year:month:day-:slug.html  
+     permalink: /notes/  
    mindmap:
      output: true
 #    permalink: /mindmap/:path/
