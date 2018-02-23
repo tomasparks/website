@@ -120,7 +120,7 @@ function create_notes($data,$logfile, $WM_recv) {
 				$md_array['music-artist'] = $tag_array['artist'];
 				$md_array['music-album'] = $tag_array['album'];
 				$md_array['music-play-count'] = $tag_array['play-count'];
-				$md_array['title'] = "Played ".$md_array['music-title']." by ".$md_array['music-artist'];  
+				$md_array['title'] = "🎧 Listened to ".$md_array['music-title']."(".$md_array['music-album'].") By ".$md_array['music-artist'];  
 				$md_array['permalink'] ="/notes/".$note['type']."/".urlencode($tag_array['artist'])."/".urlencode($tag_array['album'])."/".$hash.".html";
 				break;
 // #####################################################################################################################################
