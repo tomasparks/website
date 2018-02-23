@@ -11,7 +11,7 @@ use Ramonztro\SimpleScraper\SimpleScraper;
 	
 
 function create_notes($data,$logfile, $WM_recv) {
-include 'cassis.php';
+include './vendor/tantek/cassis/cassis.php';
 
    foreach ($data as $note) {
 //    	json_encode($data);
