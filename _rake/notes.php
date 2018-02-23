@@ -115,7 +115,7 @@ function create_notes($data,$logfile, $WM_recv) {
 				$categories_array[] = $tag_array['title'];
 				$categories_array[] = $tag_array['artist'];
 				$categories_array[] = $tag_array['album'];
-				$md_array['hidden'] = "true";
+				//$md_array['hidden'] = "true";
 				$md_array['music-title'] = $tag_array['title'];
 				$md_array['music-artist'] = $tag_array['artist'];
 				$md_array['music-album'] = $tag_array['album'];
@@ -228,7 +228,7 @@ function create_notes($data,$logfile, $WM_recv) {
 // -------------------------------------------------------------------------------------------------------------------------------------
 			}
 
-				#$md_array['categories']=$categories_array;
+				$md_array['categories']=$categories_array;
 				$frontmatter = yaml_emit ($md_array);
 				$frontmatter = str_ireplace("...","---",$frontmatter);
 				$mdfile = fopen($hash.".md", "w");
