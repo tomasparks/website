@@ -228,7 +228,7 @@ function create_notes($data,$logfile, $WM_recv) {
 // -------------------------------------------------------------------------------------------------------------------------------------
 			}
 
-				$md_array['categories']=$categories_array;
+				#$md_array['categories']=$categories_array;
 				$frontmatter = yaml_emit ($md_array);
 				$frontmatter = str_ireplace("...","---",$frontmatter);
 				$mdfile = fopen($hash.".md", "w");
