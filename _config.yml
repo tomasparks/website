@@ -246,6 +246,7 @@ social:
 webmentions:
   debug: true
   pages: true
+  collections: true
   username: tomasparks.github.io
   js: false
   throttle_lookups:
