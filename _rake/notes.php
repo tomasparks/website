@@ -573,13 +573,14 @@ foreach ($notes_dir as $dir) {
     					fwrite($logfile,$file." skipping temp file\n");
     					continue 2;
     					
-					case strstr($file, "yml"):
+					/*case strstr($file, "yml"):
     					echo "Found ".$file."yml file\n";
     					fwrite($logfile,"Found ".$file."yml file :) \n");
     					$data = yaml_parse_file ( $file );
 						fwrite($logfile,"\n-----S-CONTENTS-------------\n".yaml_emit($data)."\n-----E-CONTENTS-------------\n");
     					$WM_recv[] = create_notes($data, $logfile,$WM_recv);
     					break;
+    					*/
 					/*case strstr($file, "csv"):
     					//echo $file." CSV file\n";
     					fwrite($logfile,$file." csv file :) \n");
@@ -589,14 +590,14 @@ foreach ($notes_dir as $dir) {
 						break;
 						*/
 						
-					/*case strstr($file, "json"):
+					case strstr($file, "json"):
     					//echo $file." json file\n";
     					fwrite($logfile,$file." json file :) \n");
     					$data = json_parse_file ( $file, $logfile );
 
     					$WM_recv[] = create_notes($data, $logfile,$WM_recv);
 						break;
-						*/						
+												
 					}
 			}
 	}
