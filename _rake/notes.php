@@ -1,5 +1,10 @@
 #!/usr/bin/env php
 <?php
+
+
+// https://granary.io/twitter/%40me/@self/@app/?format=mf2-json&access_token_key=965564724560609280-akzIBxc445Wof45B1JPZ8kjXopGpDWA&access_token_secret=ls65zMjMa49xbGjG15IhaVqLcgAJh5bmixStjq3VtKlJ6
+
+
 // key: qhNU8kMDrqS2Ryk8ExmyA
 //secret: 1tICNtAofpr0Coycb4eacrf4FcFCWSOzW8novjYL8
 require './vendor/autoload.php';
