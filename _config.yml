@@ -12,15 +12,11 @@ exclude: ["README.md", "LICENSE","build.sh","Gemfile.lock","Gemfile","*.yml"]
 strict_front_matter: true
 
 # Markdown
-markdown: Pandoc
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
 highlighter: rouge
-
-
-pandoc:
-  extensions:
-    - normalize
-    - smart
-    - mathjax
 
 defaults:
   
@@ -53,7 +49,7 @@ collections:
    projects:
      output: true
      layout: project_page
-     permalink: /projects/:path/
+     permalink: /projects/:year:month:day-:slug.html
    dtn-ebook:
      output: true
      layout: ebook
@@ -76,7 +72,6 @@ collections:
 
 
 plugins: 
-  - jekyll-pandoc
 # - 'jekyll-lunr-js-search' [UNSUPPORTED] 
  - 'jekyll-seo-tag' # setting in seo.yml
  - 'jekyll/responsive_image' # settings in responsive_image.yml
