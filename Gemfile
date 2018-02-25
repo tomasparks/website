@@ -25,8 +25,8 @@ gem 'jekyll-gallery-generator'
 #gem 'jekyll-pandoc-multiple-formats'
 #gem 'jekyll-pandoc-multiple-formats', github: 'tomasparks/jekyll-pandoc-multiple-formats'
 #gem 'jekyll-pandoc-multiple-formats', :path => '~/src/jekyll-pandoc-multiple-formats/'
-gem 'jekyll-pandoc'
-gem 'pandoc-ruby'
+#gem 'jekyll-pandoc'
+#gem 'pandoc-ruby'
 
 gem 'jekyll-asciinema'
 
