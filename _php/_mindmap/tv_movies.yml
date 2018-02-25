@@ -17,6 +17,12 @@ genre:
   id: sci-fi
   background_image: .jpg
   shows:
+  - name: seaQuest DSV
+    id: seaquest
+    tvdb: "76022"
+    fanart: https://www.thetvdb.com/banners/fanart/original/76022-3.jpg
+    logo: .png
+    review: I remeber watch parts of it when it aired in australia, I rewatched it for it's early CGI and for con-world ideas, I tryed watching the third season,  but i had trouble geting the espoides 
   - name: Andromeda
     id: andromeda
     tvdb: "77544"
@@ -72,7 +78,7 @@ genre:
     tvdb: "80379"
     fanart: https://www.thetvdb.com/banners/fanart/original/80379-38.jpg
     logo: .png
-    review: bla bla bla
+    review:
   - name: Robot Chicken
     id: robot-chicken
     tvdb: "75734"
@@ -89,4 +95,14 @@ genre:
     fanart: https://www.thetvdb.com/banners/fanart/original/314087-4.jpg
     logo: The_Grand_Tour_Logo.png
     review: I dont like car shows, but i like watching the adventures they get up to
+- name: Drama
+  id: drama
+  background_image: .jpg
+  shows:
+  - name: Halt and Catch Fire
+    id: HCF
+    tvdb: "271910"
+    fanart: https://www.thetvdb.com/banners/fanart/original/271910-16.jpg
+    logo: The_Grand_Tour_Logo.png
+    review: I like the semi-fictional retelling of early person computer history, but the last season has a bit of a downer
 ...
