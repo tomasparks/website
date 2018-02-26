@@ -22,12 +22,15 @@
             - id: tv_movies-seaquest
             - id alt-networking-dtn
     - RPG
+       - see-also:
+           - id: con-worlding
     - Electronics
        - Amateur radio 
     - Computer programming
        - Gaming
        - Arts
-          - 3D printing
+          -3D modelling
+             - 3D printing
           - Fractal
           - Pen plotter
           - dot-martix

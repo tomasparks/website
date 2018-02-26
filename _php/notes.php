@@ -20,7 +20,7 @@ function cleanstring($string) {
    return preg_replace('/-+/', '-', $string); // Replaces multiple hyphens with single one.
 }	
 
-function create_notes($data,$logfile, $WM_recv) {
+function create_notes($data,$logfile, $WM_recv,$out_path) {
 
    foreach ($data as $note) {
 //    	json_encode($data);
@@ -241,7 +241,7 @@ function create_notes($data,$logfile, $WM_recv) {
 				$md_array['categories']=$categories_array;
 				$frontmatter = yaml_emit ($md_array);
 				$frontmatter = str_ireplace("...","---",$frontmatter);
-				$mdfile = fopen($hash.".md", "w");
+				$mdfile = fopen($out_path."/".$hash.".md", "w");
 				fwrite($mdfile, $frontmatter);
 				if (array_key_exists("message",$data)) {
 					fwrite($mdfile, $note['message']."\n");
@@ -531,7 +531,8 @@ $path = getcwd();
 $logfile = fopen("log.log", "w");
 global $logfile;
 
-$notes_path = str_replace("_rake","_notes",$path);
+$notes_path = str_replace("_php","_incomming",$path);
+$out_path = str_replace("_php","_notes",$path);
 $webmention_path = str_replace("_rake",".jekyll-cache",$path);
 $wb_recv_file = $webmention_path."/webmention_io_received.yml"; 
 $WM_recv="";
@@ -578,7 +579,7 @@ foreach ($notes_dir as $dir) {
     					fwrite($logfile,"Found ".$file."yml file :) \n");
     					$data = yaml_parse_file ( $file );
 						fwrite($logfile,"\n-----S-CONTENTS-------------\n".yaml_emit($data)."\n-----E-CONTENTS-------------\n");
-    					$WM_recv[] = create_notes($data, $logfile,$WM_recv);
+    					$WM_recv[] = create_notes($data, $logfile,$WM_recv,$out_path);
     					break;
     					
 					/*case strstr($file, "csv"):
@@ -595,7 +596,7 @@ foreach ($notes_dir as $dir) {
     					fwrite($logfile,$file." json file :) \n");
     					$data = json_parse_file ( $file, $logfile );
 
-    					$WM_recv[] = create_notes($data, $logfile,$WM_recv);
+    					$WM_recv[] = create_notes($data, $logfile,$WM_recv,$out_path);
 						break;
 												
 					}
