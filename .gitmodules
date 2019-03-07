@@ -1,9 +1,4 @@
 [submodule "_theme"]
-	path = _theme
-	url = git@github.com:tomasparks/Dynix-theme-jekyll.git
-[submodule "projects/Articles"]
-	path = projects/Articles
+[submodule "Articles"]
+	path = Articles
 	url = git@github.com:tomasparks/Articles.git
-[submodule "assets/ext/tablesorter"]
-	path = assets/ext/tablesorter
-	url = git@github.com:christianbach/tablesorter.git
