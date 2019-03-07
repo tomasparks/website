@@ -1,0 +1,28 @@
+---
+layout: build-log-page
+title: build log
+permalink: build-log/index.html
+style: devlog
+---
+<div class="h-feed" >
+<h1 class="p-name">{{page.title}}</h1>
+ <canvas id="gitGraph"></canvas>
+<script>var gitgraph = new GitGraph({author: ""});
+var master = gitgraph.branch("build-log");</script>
+
+
+{% assign build-log = site.build-log | sort: "date" %}
+<!-- {{ build-log | jsonify }} -->
+
+<script>
+{% for build-log in build-log %}var {{build-log.category | slugify | remove: '-' }} = master.branch("{{build-log.category | slugify }}");{% endfor %}
+</script>
+
+{% for build-log in build-log %}
+<div id="detail-{{build-log.slug}}" class="gitgraph-detail h-entry">
+  <h2 class="p-name"><a class="u-url" href="{{site.baseurl}}{{build-log.url}}">{{build-log.title}}</a></h2>
+  <p class="p-summary"></p>
+<script>{{build-log.category | slugify | remove: '-' }}.commit({ message: "{{build-log.title}}", detailId: "detail-{{build-log.slug}}" });</script>
+</div>
+  {% endfor %}
+</div>

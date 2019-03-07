@@ -1,0 +1,20 @@
+---
+---    
+<td>{{ entry.year }}</td>
+    <td>
+    {% if entry.url %}
+    <a href="{{ entry.url }}">{{ entry.title }}</a>
+    {% else%}
+    {{ entry.title }}
+    {% endif %}
+    </td> 
+    <td>{{ entry.author }}</td> 
+    <td>{{ entry.abstract }}
+        {% if links.pdf %}
+    <a href="{{links.pdf}}"><i class="fa fa-file-pdf-o"></i></a>
+     {% endif %}
+     {% if links.slides.pdf %}
+    <a href="{{links.sides.pdf}}"><i class="fa fa-file-pdf-o"></i></a>
+    {% endif %}</td>
+    <td>{{ entry.review }}</td>
+

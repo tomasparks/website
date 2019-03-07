@@ -1,0 +1,37 @@
+strict_front_matter: true
+
+# Markdown
+markdown: kramdown
+kramdown:
+  auto_ids:       true
+  entity_output:  as_char
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  input:          GFM
+  hard_wrap:      false
+  footnote_nr:    1
+highlighter: rouge
+## EOF _CONFIG.YML
+
+## SEO.YML
+# Jekyll SEO tag
+# https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
+title: Tom Sparks website
+name: Tom Sparks website
+image: /about-me/photo.png
+description:
+author: Tom Sparks
+bio: I am a Alternative Technology Researcher, with a focus on Digital Communication Networks.
+categories:
+  - fidonet
+  - fsxnet
+  - indieweb
+  - archivist
+  - kopimi
+  - aspie
+social:
+  name: Tom Sparks
+  links:
+    - https://github.com/tomasparks
+    - https://www.facebook.com/tom.sparks.106
+## EOF SEO.YML

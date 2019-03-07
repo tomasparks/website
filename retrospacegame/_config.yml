@@ -1,0 +1,195 @@
+# Jekyll source / destination
+source:               .
+destination:          ./_site/retrospacegame
+url: https://tomasparks.name
+baseurl: /retrospacegame
+
+
+plugins:
+ - 'jekyll-seo-tag' # setting in seo.yml
+ - 'jekyll/responsive_image'
+ - jekyll-paginate-v2
+ - 'jekyll/scholar' # settings in scholar.yml
+ # - 'jekyll/scholar/extras' # settings in scholar.yml
+ - jekyll_github_sample
+ 
+# Amazon plugin
+#amazon_access_key_id: 'your access key id'
+#amazon_secret_key:    'your secret key'
+#amazon_associate_tag: 'your associate'
+#amazon_cache:         true # or true
+#amazon_cache_dir:     '.amazon-cache'      # default '.amazon-cache'
+#amazon_country:       'jp'                 # default 'us'
+#amazon_locale:        'ja'                 # default 'en'
+  
+## SCHOLAR.YML
+# jekyll-scholar
+# https://github.com/inukshuk/jekyll-scholar
+scholar:
+   style: _includes/ieee-with-url.csl
+   locale: en
+   source: ./_bibliography
+   bibliography: other.bib
+   repository: ./Articles
+   use_raw_bibtex_entry: true
+   sort_by: none
+   order: ascending
+   group_by: none
+   group_order: ascending
+   bibliography_list_tag: tbody
+   bibliography_item_tag: tr
+## EOF SCHOLAR.YML
+ 
+responsive_image:
+  template: _includes/srcset-resized-fallback.html
+    # [Optional, Default: 85]
+  # Quality to use when resizing images.
+  default_quality: 90
+
+  # [Optional, Default: []]
+  # An array of resize configuration objects. Each object must contain at least
+  # a `width` value.
+  sizes:
+    - width: 160  # [Required] How wide the resized image will be.
+  #    quality: 80 # [Optional] Overrides default_quality for this size.
+    - width: 320
+    - width: 640
+    - width: 720
+    - width: 800
+    - width: 1024
+    - width: 1080
+    - width: 1920
+    - width: 1440
+    - width: 2160
+    - width: 2880
+    - width: 4320
+    - width: 8640
+
+
+  base_path: /\assets/images/
+  output_path_format: assets/images/resized/%{width}/%{basename}
+  save_to_source: true
+  extra_images:
+     - assets/images/*.*
+
+permalink: 'notebook/:year/:month/:slug.html'
+
+strict_front_matter: true
+
+# Markdown
+markdown: kramdown
+kramdown:
+  auto_ids:       true
+  entity_output:  as_char
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  input:          GFM
+  hard_wrap:      false
+  footnote_nr:    1
+highlighter: rouge
+## EOF _CONFIG.YML
+
+
+collections:
+  build-log:
+    output: true
+    permalink: /:collection/:categories/:year/:month/:day/:slug:output_ext
+    style: devlog
+    
+defaults:
+  # all posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      style: notebook
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+  # all _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+
+pagination:
+  enabled: true
+  debug: true
+  collection: 'posts'
+  per_page: 10
+  #permalink: '/page/:num/' # Pages are index.html inside this folder (default)
+  #permalink: '/page/:num.html' # Pages are simple html files 
+  #permalink: '/config/:num/' # Pages are html files, linked jekyll extensionless permalink style.
+  permalink: ':num.html'
+  title: ':title - page :num'
+  #limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+  category: 'posts'
+  #tag: ''
+  #locale: ''  
+  #trail: 
+  #  before: 2
+  #  after: 2
+
+#  extension: html
+#  indexpage: 'defualt'
+
+
+autopages:
+ 
+  enabled: true
+  debug: true 
+  categories: 
+    enabled: true
+    layouts: 
+      - 'autopage_cat.html'
+    title: 'Posts in category :cat'
+    permalink: '/notebook/category/:cat/:num/'
+
+  # Collection pages, omit to disable
+  collections:
+    enabled: false
+    # layouts: 
+    #  - 'autopage_collection.html'
+    # title: 'Posts in collection :coll' # :coll is replaced by the collection name
+    # permalink: '/collection/:coll/'
+  
+  # Tag pages, omit to disable
+  tags:
+    enabled: true
+    layouts: 
+      - 'autopage_tags.html'
+    title: 'Posts tagged with :tag' # :tag is replaced by the tag name
+    permalink: '/notebook/tags/:tag/:num/'
+  
+
+## SEO.YML
+# Jekyll SEO tag
+# https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
+title: Tom Sparks's miniatures section
+name: Tom Sparks's miniatures section
+image: /about-me/photo.png
+description:
+author: Tom Sparks
+bio: I am a Alternative Technology Researcher, with a focus on Digital Communication Networks.
+categories:
+  - fidonet
+  - fsxnet
+  - indieweb
+  - archivist
+  - kopimi
+  - aspie
+social:
+  name: Tom Sparks
+  links:
+    - https://github.com/tomasparks
+    - https://www.facebook.com/tom.sparks.106
+## EOF SEO.YML
