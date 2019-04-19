@@ -1,0 +1,48 @@
+---
+- type: entry
+  published: "2019-03-27T06:48:47+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_14.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_14.mp3
+      name: Kingmaker Session 14
+      author: Hal
+      content: "Episode 14 \u2013 a short episode in which Kaylen deals with an outbreak
+        of divorce, and plans for trolls."
+  content:
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 14 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+- type: entry
+  published: "2019-03-27T07:51:10+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/596367939-techdirt-the-surveillance-state-with-marcy-wheeler.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/596367939-techdirt-the-surveillance-state-with-marcy-wheeler.mp3
+      name: The Surveillance State, With Marcy Wheeler
+      author: Techdirt
+      content: "We've been covering surveillance and the intelligence community for
+        a long time here at Techdirt, but if you had to limit yourself to just one
+        source on the subject, even we'd probably recommend you choose Marcy Wheeler.
+        Following the recent news that the NSA has apparently shut down its bulk records
+        collection program \u2014 the first exposed by Edward Snowden \u2014 Marcy
+        joins us on this week's episode to discuss the surveillance state and why
+        it might abandon Section 215."
+  content:
+    text: ' \ud83c\udfa7 Listened to The Surveillance State, With Marcy Wheeler by
+      Techdirt From Techdirt'
+...

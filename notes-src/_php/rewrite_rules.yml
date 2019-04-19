@@ -1,0 +1,357 @@
+---
+BucketName:
+  album:
+    RPGMP3 Actual Play Podcast: RPGMP3_Actual_Play_Podcast
+    "Indieweb Podcast \u2013 David Shanske": Indieweb_Podcast
+    David Shanske: Indieweb_Podcast
+    STEAL THIS SHOW: STEAL_THIS_SHOW-Podcast
+    Acquired - Technology Acquisitions & IPOs: Acquired-Podcast
+    Acquired: Acquired-Podcast
+    Acquired - Tech Acquisitions & IPOs: Acquired-Podcast
+    Jeena's Excellent Encounters: Jeenas_Excellent_Encounters-Poodcast
+    5 live Science Podcast: 5_live_Science_Podcast
+    Percolator: Percolator-Podcast
+    Troll Play: Troll_Play-Podcast
+    The Web Ahead: The_Web_Ahead
+    snarfed on Huffduffer: snarfed_on_Huffduffer
+    BitJam Podcast: BitJam_Podcast
+    indieweb on Huffduffer: indieweb_on_Huffduffer
+    web design on Huffduffer: web_design_on_Huffduffer
+    clevercast: clevercast
+    'Planetary Radio: Space Exploration, Astronomy and Science': Planetary_Radio_Space_Exploration_Astronomy_and_Science-Podcast
+    Jason Scott Talks His Way Out of It: Jason_Scott_Talks_His_Way_Out_of_It-Podcast
+    Relative Paths | Web Development and stuff like that: Relative_Paths_Web_Development_and_stuff_like_that-Podcast
+    "Podcast \u2013 Cory Doctorow's craphound.com": Cory_Doctorows-Podcast
+    Reply All: Reply_All-Podcast
+    "Emoji Wrap \u2014 The Emoji Podcast from Emojipedia": Emoji_Wrap_The_Emoji_Podcast
+    Great Moments In Science - with Dr Karl Kruszelnicki: Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast
+    Stephen Fry's Great Leap Years: Stephen_Frys_Great_Leap_Years-Podcast
+    Dr Karl on triplej: Dr_Karl_on_triplej-Podcast
+    Techdirt: Techdirt-Podcast
+    Not Another D&D Podcast: Not_Another_DD_Podcast
+    Automators: Automators-Podcast
+    IRL - Online Life Is Real Life: IRL_Online_Life_Is_Real_Life-Podcast
+    CheapShow: CheapShow-Podcast
+    Internet History Podcast: Internet_History_Podcast
+    TED Radio Hour: TED_Radio_Hour-Podcast
+    Hamish & Andy: Hamish_Andy-Podcast
+    DatCastA[: DatCast-Podcast
+    Adam Ruins Everything: Adam_Ruins_Everything-Podcast
+  author:
+    Hal: Hal
+    https://wordpress.org/?v=4.9.8: David_Shanske_and_Chris_Aldrich
+    STEAL THIS SHOW: STEAL_THIS_SHOW
+    Ben Gilbert & David Rosenthal: Ben_Gilbert_and_David_Rosenthal
+    Jeena: Jeena
+    BBC Radio 5 live: BBC_Radio_5_live
+    Aaron Parecki: Aaron_Parecki
+    ABC Radio Comedy: ABC_Radio_Comedy
+    Jen Simmons: Jen_Simmons
+    The Planetary Society: The_Planetary_Society
+    Jason Scott: Jason_Scott
+    Mark Phoenix and Ben Hutchings: Mark_Phoenix_and_Ben_Hutchings
+    Cory Doctorow: Cory_Doctorow
+    Gimlet: Gimlet
+    Emojipedia: Emojipedia
+    ABC Radio National: ABC_Radio_National
+    Stephen Fry | SamFry Ltd: Stephen_Fry
+    ABC Science: ABC_Science
+    Techdirt: Techdirt
+    https://wordpress.org/?v=5.0.2: David_Shanske_and_Chris_Aldrich
+    HeadGum: HeadGum
+    Jonathan LaCour: Jonathan_LaCour
+    David Sparks and Rose Orchard: David_Sparks_and_Rose_Orchard
+    Ben Gilbert and David Rosenthal: Ben_Gilbert_and_David_Rosenthal
+    Mozilla: Mozilla
+    CheapShow Pod: CheapShow_Pod
+    Brian McCullough @brianmcc: Brian_McCullough
+    NPR: NPR
+    Hamish & Andy: Hamish_Andy
+    https://wordpress.org/?v=4.9.5: David_Shanske_and_Chris_Aldrich
+    https://wordpress.org/?v=4.9.6: David_Shanske_and_Chris_Aldrich
+    https://wordpress.org/?v=4.9.7: David_Shanske_and_Chris_Aldrich
+    Bret Comnes and Jim Pick: Bret_Comnes_and_Jim_Pick
+    Brian McCullough: Brian_McCullough
+    Adam Ruins Everything: Adam_Ruins_Everything
+    internethistorypodcast@gmail.com (Brian McCullough @brianmcc): Brian_McCullough
+twitter:
+  author:
+    Hal: '@rpgmp3'
+    https://wordpress.org/?v=4.9.8: '@dshanske & @chrisaldrich'
+    STEAL THIS SHOW: '@steal_this_show'
+    Ben Gilbert & David Rosenthal: '@gilbert & @djrosent'
+    Jeena: Jeena
+    BBC Radio 5 live: '@bbc5live'
+    Aaron Parecki: '@aaronpk'
+    ABC Radio Comedy: ABC Radio Comedy
+    Jen Simmons: Jen Simmons
+    The Planetary Society: '@exploreplanets'
+    Jason Scott: '@textfiles'
+    Mark Phoenix and Ben Hutchings: Mark Phoenix and Ben Hutchings
+    Cory Doctorow: Cory Doctorow
+    Gimlet: Gimlet
+    Emojipedia: Emojipedia
+    ABC Radio National: ABC Radio National
+    Stephen Fry | SamFry Ltd: Stephen Fry | SamFry Ltd
+    ABC Science: ABC Science
+    Techdirt: Techdirt
+    https://wordpress.org/?v=5.0.2: https://wordpress.org/?v=5.0.2
+    HeadGum: HeadGum
+    Jonathan LaCour: Jonathan LaCour
+    David Sparks and Rose Orchard: David Sparks and Rose Orchard
+    Ben Gilbert and David Rosenthal: Ben Gilbert and David Rosenthal
+    Mozilla: Mozilla
+    CheapShow Pod: CheapShow Pod
+    Brian McCullough @brianmcc: Brian McCullough @brianmcc
+    NPR: NPR
+    Hamish & Andy: Hamish & Andy
+    https://wordpress.org/?v=4.9.5: https://wordpress.org/?v=4.9.5
+    https://wordpress.org/?v=4.9.6: https://wordpress.org/?v=4.9.6
+    https://wordpress.org/?v=4.9.7: https://wordpress.org/?v=4.9.7
+    Bret Comnes and Jim Pick: Bret Comnes and Jim Pick
+    Brian McCullough: Brian McCullough
+    Adam Ruins Everything: Adam Ruins Everything
+    internethistorypodcast@gmail.com (Brian McCullough @brianmcc): internethistorypodcast@gmail.com
+      (Brian McCullough @brianmcc)
+  album:
+    RPGMP3 Actual Play Podcast: '#RPGMP3ActualPlayPodcast'
+    "Indieweb Podcast \u2013 David Shanske": '#IndiewebPodcast'
+    David Shanske: '#IndiewebPodcast'
+    STEAL THIS SHOW: '@steal_this_show'
+    Acquired - Technology Acquisitions & IPOs: '@AcquiredFM'
+    Acquired: '@AcquiredFM'
+    Acquired - Tech Acquisitions & IPOs: '@AcquiredFM'
+    Jeena's Excellent Encounters: Jeena's Excellent Encounters
+    5 live Science Podcast: 5 live Science Podcast
+    Percolator: Percolator
+    Troll Play: Troll Play
+    The Web Ahead: The Web Ahead
+    snarfed on Huffduffer: snarfed on Huffduffer
+    BitJam Podcast: BitJamPodcast
+    indieweb on Huffduffer: indieweb on Huffduffer
+    web design on Huffduffer: web design on Huffduffer
+    clevercast: clevercast
+    Jason Scott Talks His Way Out of It: '#JasonScottTalksHisWayOutofIt'
+    'Planetary Radio: Space Exploration, Astronomy and Science': 'Planetary Radio:
+      Space Exploration, Astronomy and Science'
+    Relative Paths | Web Development and stuff like that: Relative Paths | Web Development
+      and stuff like that
+    "Podcast \u2013 Cory Doctorow's craphound.com": "Podcast \u2013 Cory Doctorow's
+      craphound.com"
+    Reply All: Reply All
+    "Emoji Wrap \u2014 The Emoji Podcast from Emojipedia": "Emoji Wrap \u2014 The
+      Emoji Podcast from Emojipedia"
+    Great Moments In Science - with Dr Karl Kruszelnicki: Great Moments In Science
+      - with Dr Karl Kruszelnicki
+    Stephen Fry's Great Leap Years: Stephen Fry's Great Leap Years
+    Dr Karl on triplej: Dr Karl on triplej
+    Techdirt: Techdirt
+    Not Another D&D Podcast: Not Another D&D Podcast
+    Automators: Automators
+    IRL - Online Life Is Real Life: IRL - Online Life Is Real Life
+    CheapShow: CheapShow
+    Internet History Podcast: Internet History Podcast
+    TED Radio Hour: TED Radio Hour
+    Hamish & Andy: Hamish & Andy
+    DatCastA[: DatCastA[
+    Adam Ruins Everything: Adam Ruins Everything
+HowToRewrite:
+  media.blubrry.com:
+    BucketName:
+      author: rewrite
+      album: rewrite
+    fielname: false
+    url: false
+  david.shanske.com:
+    BucketName:
+      author: rewrite
+      album: rewrite
+    fielname: false
+    url: false
+  traffic.libsyn.com:
+    BucketName:
+      author: rewrite
+      album: rewrite
+    fielname: true
+    url: false
+  jeena.net:
+    BucketName:
+      author: rewrite
+      album: rewrite
+    fielname: false
+    url: false
+  open.live.bbc.co.uk:
+    BucketName:
+      author: rewrite
+      album: rewrite
+    fielname: false
+    url: false
+  percolator.today:
+    BucketName:
+      author: rewrite
+      album: rewrite
+    fielname: true
+    url: false
+  mpegmedia.abc.net.au:
+    BucketName:
+      author: rewrite
+      album: rewrite
+    fielname: true
+    url: false
+  director.5by5.tv:
+    BucketName:
+      author: rewrite
+      album: rewrite
+    fielname: false
+    url: false
+  huffduff-video.s3-us-west-2.amazonaws.com:
+    BucketName:
+      author: rewrite
+      album: rewrite
+    fielname: false
+    url: false
+  files.exotica.org.uk:
+    BucketName:
+      author: rewrite
+      album: rewrite
+    fielname: false
+    url: false
+  audio.coreint.org:
+    BucketName:
+      author: rewrite
+      album: rewrite
+    fielname: false
+    url: false
+  dts.podtrac.com:
+    BucketName:
+      author: rewrite
+      album: rewrite
+    fielname: false
+    url: false
+  tracking.feedpress.it:
+    BucketName:
+      author: rewrite
+      album: rewrite
+    fielname: false
+    url: false
+  rss.art19.com:
+    BucketName:
+      author: rewrite
+      album: rewrite
+    fielname: false
+    url: false
+  www.podtrac.com:
+    BucketName:
+      author: rewrite
+      album: rewrite
+    fielname: false
+    url: false
+  30andcounting.me:
+    BucketName:
+      author: rewrite
+      album: rewrite
+    fielname: false
+    url: false
+  myurlis.com:
+    BucketName:
+      author: rewrite
+      album: rewrite
+    fielname: false
+    url: false
+  monday.micro.blog:
+    BucketName:
+      author: rewrite
+      album: rewrite
+    fielname: false
+    url: false
+  cleverca.st:
+    BucketName:
+      author: rewrite
+      album: rewrite
+    fielname: false
+    url: false
+  traffic.megaphone.fm:
+    BucketName:
+      author: rewrite
+      album: rewrite
+    fielname: true
+    url: false
+  archive.org:
+    BucketName:
+      author: rewrite
+      album: rewrite
+    fielname: false
+    url: false
+  ia801508.us.archive.org:
+    BucketName:
+      author: rewrite
+      album: rewrite
+    fielname: false
+    url: false
+  audio.simplecast.com:
+    BucketName:
+      author: rewrite
+      album: rewrite
+    fielname: true
+    url: false
+  media.acast.com:
+    BucketName:
+      author: rewrite
+      album: rewrite
+    fielname: true
+    url: false
+  warp.gumballcdn.com:
+    BucketName:
+      author: rewrite
+      album: rewrite
+    url: false
+    fielname: false
+  static1.squarespace.com:
+    BucketName:
+      author: rewrite
+      album: rewrite
+    url: false
+    fielname: true
+  feeds.soundcloud.com:
+    BucketName:
+      author: rewrite
+      album: rewrite
+    url: false
+    fielname: false
+  feedproxy.google.com:
+    BucketName:
+      author: rewrite
+      album: rewrite
+    url: false
+    fielname: true
+  play.podtrac.com:
+    BucketName:
+      author: rewrite
+      album: rewrite
+    url: false
+    fielname: false
+  aw-au.noxsolutions.com:
+    BucketName:
+      author: rewrite
+      album: rewrite
+    url: false
+    fielname: false
+  storage.weneca.com:
+    BucketName:
+      author: rewrite
+      album: rewrite
+    url: false
+    fielname: false
+  dat-cast.hashbase.io:
+    BucketName:
+      author: rewrite
+      album: rewrite
+    url: false
+    fielname: false
+  media.adknit.com:
+    BucketName:
+      author: rewrite
+      album: rewrite
+    url: false
+    fielname: true
+...

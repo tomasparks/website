@@ -1,0 +1,180 @@
+---
+27:
+- type: entry
+  published: "2018-02-27T19:52:28+00:00"
+  url: https://twitter.com/tomasparksts/status/968574576148955136
+  category:
+  - https://twitter.com/benjedwards
+  - https://twitter.com/textfiles
+  in-reply-to:
+  - https://twitter.com/benjedwards/status/968240996759883777
+  content:
+    text: '@textfiles you may somebody would could take this'
+    html: <a href="https://twitter.com/textfiles">@textfiles</a> you may somebody
+      would could take this
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://tomasparks.github.io/
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/benjedwards:
+      type: card
+      name: Benj Edwards
+      url: https://twitter.com/benjedwards
+      photo: ~
+    https://twitter.com/textfiles:
+      type: card
+      name: Jason Scott
+      url: https://twitter.com/textfiles
+      photo: ~
+24:
+- type: entry
+  published: "2018-02-24T16:55:43+00:00"
+  url: https://twitter.com/tomasparksts/status/967442931547328512
+  category:
+  - https://twitter.com/brianmcc
+  content:
+    text: "\U0001F3A7 Listened to 133. Gary Flake on Overture, Yahoo and the History
+      of Search (Internet History Podcast) By Brian McCullough @brianmcc (tomasparks.github.io/sl/n/s/ZNTqeFF\u2026)"
+    html: "\U0001F3A7 Listened to 133. Gary Flake on Overture, Yahoo and the History
+      of Search (Internet History Podcast) By Brian McCullough <a href=\"https://twitter.com/brianmcc\">@brianmcc</a>
+      (<a href=\"https://tomasparks.github.io/sl/n/s/ZNTqeFF2nU7.html\">tomasparks.github.io/sl/n/s/ZNTqeFF\u2026</a>)"
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://tomasparks.github.io/
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/brianmcc:
+      type: card
+      name: Brian McCullough
+      url: https://twitter.com/brianmcc
+      photo: ~
+23:
+- type: entry
+  published: "2018-02-23T19:31:39+00:00"
+  url: https://twitter.com/tomasparksts/status/967119783857741825
+  category:
+  - https://twitter.com/brianmcc
+  content:
+    text: "\U0001F3A7 Listened to 131. Elizabeth Osder on the NYTimes.com, Yahoo and
+      More (Internet History Podcast) By Brian McCullough @brianmcc (tomasparks.github.io/sl/n/s/ZNTqHA5\u2026)"
+    html: "\U0001F3A7 Listened to 131. Elizabeth Osder on the <a href=\"http://NYTimes.com\">NYTimes.com</a>,
+      Yahoo and More (Internet History Podcast) By Brian McCullough <a href=\"https://twitter.com/brianmcc\">@brianmcc</a>
+      (<a href=\"https://tomasparks.github.io/sl/n/s/ZNTqHA5ZL07.html\">tomasparks.github.io/sl/n/s/ZNTqHA5\u2026</a>)"
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://tomasparks.github.io/
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/brianmcc:
+      type: card
+      name: Brian McCullough
+      url: https://twitter.com/brianmcc
+      photo: ~
+- type: entry
+  published: "2018-02-23T18:26:32+00:00"
+  url: https://twitter.com/tomasparksts/status/967103395432665088
+  category:
+  - https://twitter.com/brianmcc
+  content:
+    text: "\U0001F3A7 Listened to 130. AOL, AIM, Chat Rooms, The Time Warner Merger---
+      AOL's History with Joe Schober (Internet History Podcast) By Brian McCullough
+      @brianmcc"
+    html: "\U0001F3A7 Listened to 130. AOL, AIM, Chat Rooms, The Time Warner Merger---
+      AOL's History with Joe Schober (Internet History Podcast) By Brian McCullough
+      <a href=\"https://twitter.com/brianmcc\">@brianmcc</a>"
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://tomasparks.github.io/
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/brianmcc:
+      type: card
+      name: Brian McCullough
+      url: https://twitter.com/brianmcc
+      photo: ~
+- type: entry
+  published: "2018-02-23T17:37:31+00:00"
+  url: https://twitter.com/tomasparksts/status/967091060101935104
+  category:
+  - https://twitter.com/brianmcc
+  content:
+    text: "\U0001F3A7 Listened to 129. Michael March on the Indie ISP Industry, and
+      the Birth of Online Spam (Internet History Podcast) By Brian McCullough @brianmcc"
+    html: "\U0001F3A7 Listened to 129. Michael March on the Indie ISP Industry, and
+      the Birth of Online Spam (Internet History Podcast) By Brian McCullough <a href=\"https://twitter.com/brianmcc\">@brianmcc</a>"
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://tomasparks.github.io/
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/brianmcc:
+      type: card
+      name: Brian McCullough
+      url: https://twitter.com/brianmcc
+      photo: ~
+- type: entry
+  published: "2018-02-23T16:28:29+00:00"
+  url: https://twitter.com/tomasparksts/status/967073690771795968
+  category:
+  - https://twitter.com/PeterTattam
+  - https://twitter.com/brianmcc
+  - https://twitter.com/NetHistoryPod
+  content:
+    text: '@PeterTattam I would like to hear on @brianmcc ''s @NetHistoryPod'
+    html: <a href="https://twitter.com/PeterTattam">@PeterTattam</a> I would like
+      to hear on <a href="https://twitter.com/brianmcc">@brianmcc</a> 's <a href="https://twitter.com/NetHistoryPod">@NetHistoryPod</a>
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://tomasparks.github.io/
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/PeterTattam:
+      type: card
+      name: Peter Tattam
+      url: https://twitter.com/PeterTattam
+      photo: ~
+    https://twitter.com/brianmcc:
+      type: card
+      name: Brian McCullough
+      url: https://twitter.com/brianmcc
+      photo: ~
+    https://twitter.com/NetHistoryPod:
+      type: card
+      name: InternetHistoryPod
+      url: https://twitter.com/NetHistoryPod
+      photo: ~
+22:
+- type: entry
+  published: "2018-02-22T07:21:53+00:00"
+  url: https://twitter.com/tomasparksts/status/966573743567851520
+  category:
+  - https://twitter.com/PushinUpRoses
+  - https://twitter.com/LOOKMUMNOCMPUTR
+  in-reply-to:
+  - https://twitter.com/PushinUpRoses/status/966545828222554114
+  content:
+    text: WTF did I watch
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://tomasparks.github.io/
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/PushinUpRoses:
+      type: card
+      name: "PushingUpRoses \U0001F480"
+      url: https://twitter.com/PushinUpRoses
+      photo: ~
+    https://twitter.com/LOOKMUMNOCMPUTR:
+      type: card
+      name: LOOK MUM NO COMPUTER
+      url: https://twitter.com/LOOKMUMNOCMPUTR
+      photo: ~
+...

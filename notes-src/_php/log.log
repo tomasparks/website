@@ -1,0 +1,94 @@
+[".","..","local.zip","media","micropub","pda.zip"]
+.
+..
+local.zip
+false
+media
+[".","..","audio","images","video"]
+.
+..
+audio
+[".","..","completed","outgoing"]
+images
+[".","..","completed","outgoing"]
+video
+[".","..","completed","outgoing"]
+micropub
+[".","..","2014.zip","2015.zip","2016.zip","2018"]
+.
+..
+2014.zip
+false
+2015.zip
+false
+2016.zip
+false
+2018
+[".","..","2017.zip","added2bridgy.zip","facebook.1508402027.json","third-party.zip"]
+facebook.1508402027.json json file :) 
+[
+    {
+        "date": "2017-10-19T08:33:47+0000",
+        "message": "\"You're here because you know something. What you know you can't explain, but you feel it. You've felt it your entire life, that there's something wrong with the world [wide web].\" \u2014 Morpheus, The Matrix\n\nI am in the process of quitting all social media silo\n\n",
+        "type": "like",
+        "url": "https:\/\/indieweb.org\/why",
+        "tags": {
+            "syndication": [
+                "https:\/\/www.facebook.com\/tom.sparks.106\/posts\/937357829763194"
+            ]
+        }
+    }
+]
+
+--------------------
+hash: 032dd0434d3cc4de357f0c73c1208a4dc820af1c
+json_encode: {"date":"2017-10-19T08:33:47+0000","message":"\"You're here because you know something. What you know you can't explain, but you feel it. You've felt it your entire life, that there's something wrong with the world [wide web].\" \u2014 Morpheus, The Matrix\n\nI am in the process of quitting all social media silo\n\n","type":"like","url":"https:\/\/indieweb.org\/why","tags":{"syndication":["https:\/\/www.facebook.com\/tom.sparks.106\/posts\/937357829763194"]}}
+--------------------
+
+---
+layout: notes_like
+date: "2017-10-19T18:33:47+10:00"
+type: like
+permalink: /notes/032dd0434d3cc4de357f0c73c1208a4dc820af1c.html
+redirect_from:
+- /notes/like/2017/10/19/032dd0434d3cc4de357f0c73c1208a4dc820af1c.html
+- /sl/n/l/ZMZ2QmQAuw7.html
+- /notes/like/indieweb.org/2017/10/19/032dd0434d3cc4de357f0c73c1208a4dc820af1c.html
+syndication:
+- https://www.facebook.com/tom.sparks.106/posts/937357829763194
+mf:
+  items:
+  - type:
+    - h-entry
+    properties:
+      name:
+      - why
+      summary:
+      - "\"You're here because you know something. What you know you can't explain,
+        but you feel it. You've felt it your entire life, that there's something wrong
+        with the world [wide web].\" \u2014 Morpheus, The Matrix \nWhatever the reason,
+        you're done with sharecropping your content, your identity, and your self.\n
+        Our online content and identities are becoming more important and sometimes
+        even critical to our lives. Neither are secure in the hands of random ephemeral
+        startups or big silos. We should be the holders of our online presence."
+      url:
+      - https://indieweb.org/why
+  rels: []
+ext:
+  url: https://indieweb.org/why
+  title: ~
+  description: ~
+  image_url: ~
+  image_width: ~
+  image_height: ~
+title: Liked a page on indieweb.org
+categories:
+- like
+- October
+- 2017
+- 19
+- indieweb.org
+---
+
+pda.zip
+false

@@ -1,0 +1,58 @@
+---
+0:
+  type: entry
+  published: "2018-12-01T02:06:36+00:00"
+  url: https://twitter.com/tomasparksts/status/1068687777418473473
+  category:
+  - https://twitter.com/MetalJesusRocks
+  - https://twitter.com/lazygamereviews
+  in-reply-to:
+  - https://twitter.com/MetalJesusRocks/status/1068510787243655168
+  content:
+    text: 'CC: @lazygamereviews'
+    html: 'CC: <a href="https://twitter.com/lazygamereviews">@lazygamereviews</a>'
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/MetalJesusRocks:
+      type: card
+      name: Metal Jesus Rocks
+      url: https://twitter.com/MetalJesusRocks
+      photo: ~
+    https://twitter.com/lazygamereviews:
+      type: card
+      name: LGR
+      url: https://twitter.com/lazygamereviews
+      photo: ~
+2:
+  type: entry
+  published: "2018-12-01T02:06:17+00:00"
+  url: https://twitter.com/tomasparksts/status/1068687701065388032
+  category:
+  - https://twitter.com/MetalJesusRocks
+  - https://twitter.com/textfiles
+  in-reply-to:
+  - https://twitter.com/MetalJesusRocks/status/1068510787243655168
+  content:
+    text: 'cc: @textfiles'
+    html: 'cc: <a href="https://twitter.com/textfiles">@textfiles</a>'
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/MetalJesusRocks:
+      type: card
+      name: Metal Jesus Rocks
+      url: https://twitter.com/MetalJesusRocks
+      photo: ~
+    https://twitter.com/textfiles:
+      type: card
+      name: Jason Scott
+      url: https://twitter.com/textfiles
+      photo: ~
+...

@@ -1,0 +1,83 @@
+---
+- type: entry
+  published: "2019-03-31T11:15:15+00:00"
+  url: https://twitter.com/tomasparksts/status/1112312393562906624
+  category:
+  - https://twitter.com/oddpodretro
+  - https://twitter.com/Bill_Thorpe_LNR
+  - https://twitter.com/lazygamereviews
+  in-reply-to:
+  - https://twitter.com/oddpodretro/status/1112308499340496897
+  content:
+    text: 'cc: @lazygamereviews'
+    html: 'cc: <a href="https://twitter.com/lazygamereviews">@lazygamereviews</a>'
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/oddpodretro:
+      type: card
+      name: Odd Pod
+      url: https://twitter.com/oddpodretro
+      photo: ~
+    https://twitter.com/Bill_Thorpe_LNR:
+      type: card
+      name: BILL THORPE
+      url: https://twitter.com/Bill_Thorpe_LNR
+      photo: ~
+    https://twitter.com/lazygamereviews:
+      type: card
+      name: LGR
+      url: https://twitter.com/lazygamereviews
+      photo: ~
+- type: entry
+  published: "2019-03-30T08:20:12+00:00"
+  url: https://twitter.com/tomasparksts/status/1111905955455762433
+  category:
+  - https://twitter.com/Octav1usKitten
+  in-reply-to:
+  - https://twitter.com/Octav1usKitten/status/1111616569015259137
+  content:
+    text: "thomas the tank [engine] was my nicknane \u263A"
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/Octav1usKitten:
+      type: card
+      name: Queen Octav1us
+      url: https://twitter.com/Octav1usKitten
+      photo: ~
+- type: entry
+  published: "2019-03-28T11:05:28+00:00"
+  url: https://twitter.com/tomasparksts/status/1111222771101503489
+  category:
+  - https://twitter.com/sgamecollect
+  - https://twitter.com/Senficon
+  in-reply-to:
+  - https://twitter.com/sgamecollect/status/1110981655945248770
+  content:
+    text: 'cc: @Senficon  #Article13 #Article17 #Article11'
+    html: 'cc: <a href="https://twitter.com/Senficon">@Senficon</a>  <a href="https://twitter.com/search?q=%23Article13">#Article13</a>
+      <a href="https://twitter.com/search?q=%23Article17">#Article17</a> <a href="https://twitter.com/search?q=%23Article11">#Article11</a>'
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/sgamecollect:
+      type: card
+      name: Sarahsgamecollection
+      url: https://twitter.com/sgamecollect
+      photo: ~
+    https://twitter.com/Senficon:
+      type: card
+      name: Julia Reda
+      url: https://twitter.com/Senficon
+      photo: ~
+...

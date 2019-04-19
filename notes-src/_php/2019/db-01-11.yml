@@ -1,0 +1,50 @@
+---
+- type: entry
+  published: "2019-01-11T12:40:41+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://rpgmp3.com/v5/feed/podcast/
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/All_For_One_Musketeers_Session_03.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/All_For_One_Musketeers_Session_03.mp3
+      name: All For One Session 03
+      author: Hal
+      content: "Episode 3 \u2013 in which the Musketeers endeavour to use their renowned
+        diplomatic skills. When this inevitably fails, it\u2019s time for burglary
+        and late-night romps in the library."
+  content:
+    text: ' \ud83c\udfa7 Listened to All For One Session 03 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+- type: entry
+  published: "2019-01-11T00:53:43+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/473014887-techdirt-how-private-agreements-recreated-sopa.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/473014887-techdirt-how-private-agreements-recreated-sopa.mp3
+      name: How Private Agreements Recreated SOPA
+      author: Techdirt
+      content: One of the most dangerous aspects of SOPA and other copyright proposals
+        is the idea of moving enforcement and liability further down the stack of
+        technology that powers the internet, even all the way to the DNS system. Although
+        SOPA's DNS-blocking proposals were heavily criticized and the bill ultimately
+        defeated, the idea of deep-level copyright enforcement has lived on and been
+        implemented without changes to the law. This week our returning guest, law
+        professor Annemarie Bridy, discusses how private agreements have quietly recreated
+        some of the worst aspects of SOPA.
+  content:
+    text: ' \ud83c\udfa7 Listened to How Private Agreements Recreated SOPA by Techdirt
+      From Techdirt'
+...

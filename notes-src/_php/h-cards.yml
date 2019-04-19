@@ -1,0 +1,631 @@
+---
+items:
+- type:
+  - h-entry
+  properties:
+    category:
+    - type:
+      - h-card
+      properties:
+        url:
+        - https://twitter.com/Vordio
+        uid:
+        - tag:twitter.com:Vordio
+        name:
+        - Vordio
+    - type:
+      - h-card
+      properties:
+        url:
+        - https://twitter.com/mmasnick
+        uid:
+        - tag:twitter.com:mmasnick
+        name:
+        - Mike Masnick
+    - type:
+      - h-card
+      properties:
+        url:
+        - https://twitter.com/om
+        uid:
+        - tag:twitter.com:om
+        name:
+        - OM
+    uid:
+    - tag:twitter.com:1089443831383154693
+    author:
+    - type:
+      - h-card
+      properties:
+        uid:
+        - tag:twitter.com:tomasparksts
+        url:
+        - https://twitter.com/tomasparksts
+        - https://tomasparks.name/
+        photo:
+        - https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+        numeric-id:
+        - "965564724560609280"
+        location:
+        - type:
+          - h-card
+          - p-location
+          properties:
+            name:
+            - Sunshine Coast, Queensland
+        published:
+        - "2018-02-19T12:32:24+00:00"
+        nickname:
+        - tomasparksts
+        name:
+        - Tom Sparks
+    url:
+    - https://twitter.com/tomasparksts/status/1089443831383154693
+    published:
+    - "2019-01-27T08:43:44+00:00"
+    content:
+    - html: tcp/ip WAS/IS build for peer 2 peer networks, but because of the cost
+        of computer in 1970s the timesharing model was used for access. the  broadcast
+        (one to many) model is at fault.
+      value: tcp/ip WAS/IS build for peer 2 peer networks, but because of the cost
+        of computer in 1970s the timesharing model was used for access. the  broadcast
+        (one to many) model is at fault.
+    in-reply-to:
+    - https://twitter.com/Vordio/status/1088960877984968704
+- type:
+  - h-entry
+  properties:
+    category:
+    - type:
+      - h-card
+      properties:
+        url:
+        - https://twitter.com/mmasnick
+        uid:
+        - tag:twitter.com:mmasnick
+        name:
+        - Mike Masnick
+    - type:
+      - h-card
+      properties:
+        url:
+        - https://twitter.com/Vordio
+        uid:
+        - tag:twitter.com:Vordio
+        name:
+        - Vordio
+    - type:
+      - h-card
+      properties:
+        url:
+        - https://twitter.com/om
+        uid:
+        - tag:twitter.com:om
+        name:
+        - OM
+    uid:
+    - tag:twitter.com:1089439400600064002
+    author:
+    - type:
+      - h-card
+      properties:
+        uid:
+        - tag:twitter.com:tomasparksts
+        url:
+        - https://twitter.com/tomasparksts
+        - https://tomasparks.name/
+        photo:
+        - https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+        numeric-id:
+        - "965564724560609280"
+        location:
+        - type:
+          - h-card
+          - p-location
+          properties:
+            name:
+            - Sunshine Coast, Queensland
+        published:
+        - "2018-02-19T12:32:24+00:00"
+        nickname:
+        - tomasparksts
+        name:
+        - Tom Sparks
+    url:
+    - https://twitter.com/tomasparksts/status/1089439400600064002
+    published:
+    - "2019-01-27T08:26:08+00:00"
+    content:
+    - html: there was minitel <a href="https://en.wikipedia.org/wiki/Minitel">en.wikipedia.org/wiki/Minitel</a>
+      value: there was minitel en.wikipedia.org/wiki/Minitel
+    in-reply-to:
+    - https://twitter.com/mmasnick/status/1088957916550316033
+- type:
+  - h-entry
+  properties:
+    category:
+    - type:
+      - h-card
+      properties:
+        url:
+        - https://twitter.com/GraveSoftworks
+        uid:
+        - tag:twitter.com:GraveSoftworks
+        name:
+        - Joshua Taylor
+    uid:
+    - tag:twitter.com:1089293472509521920
+    author:
+    - type:
+      - h-card
+      properties:
+        uid:
+        - tag:twitter.com:tomasparksts
+        url:
+        - https://twitter.com/tomasparksts
+        - https://tomasparks.name/
+        photo:
+        - https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+        numeric-id:
+        - "965564724560609280"
+        location:
+        - type:
+          - h-card
+          - p-location
+          properties:
+            name:
+            - Sunshine Coast, Queensland
+        published:
+        - "2018-02-19T12:32:24+00:00"
+        nickname:
+        - tomasparksts
+        name:
+        - Tom Sparks
+    url:
+    - https://twitter.com/tomasparksts/status/1089293472509521920
+    published:
+    - "2019-01-26T22:46:16+00:00"
+    content:
+    - html: I remember CD-ROM games that flash a CD icon when paging in data
+      value: I remember CD-ROM games that flash a CD icon when paging in data
+    in-reply-to:
+    - https://twitter.com/GraveSoftworks/status/1089028722177515520
+- type:
+  - h-entry
+  properties:
+    category:
+    - type:
+      - h-card
+      properties:
+        url:
+        - https://twitter.com/pierrotlegeek
+        uid:
+        - tag:twitter.com:pierrotlegeek
+        name:
+        - Pierre
+    - type:
+      - h-card
+      properties:
+        url:
+        - https://twitter.com/GraveSoftworks
+        uid:
+        - tag:twitter.com:GraveSoftworks
+        name:
+        - Joshua Taylor
+    uid:
+    - tag:twitter.com:1089292622026297346
+    author:
+    - type:
+      - h-card
+      properties:
+        uid:
+        - tag:twitter.com:tomasparksts
+        url:
+        - https://twitter.com/tomasparksts
+        - https://tomasparks.name/
+        photo:
+        - https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+        numeric-id:
+        - "965564724560609280"
+        location:
+        - type:
+          - h-card
+          - p-location
+          properties:
+            name:
+            - Sunshine Coast, Queensland
+        published:
+        - "2018-02-19T12:32:24+00:00"
+        nickname:
+        - tomasparksts
+        name:
+        - Tom Sparks
+    url:
+    - https://twitter.com/tomasparksts/status/1089292622026297346
+    published:
+    - "2019-01-26T22:42:53+00:00"
+    content:
+    - html: |-
+        it means paginging in data<br />
+        see <a href="https://en.wikipedia.org/wiki/Paging">en.wikipedia.org/wiki/Paging</a>
+      value: |-
+        it means paginging in data
+        see en.wikipedia.org/wiki/Paging
+    in-reply-to:
+    - https://twitter.com/pierrotlegeek/status/1089277042703691783
+- type:
+  - h-entry
+  properties:
+    category:
+    - type:
+      - h-card
+      properties:
+        url:
+        - https://twitter.com/Senficon
+        uid:
+        - tag:twitter.com:Senficon
+        name:
+        - Julia Reda
+    - type:
+      - h-card
+      properties:
+        url:
+        - https://twitter.com/EU_Commission
+        uid:
+        - tag:twitter.com:EU_Commission
+        name:
+        - "European Commission \U0001F1EA\U0001F1FA"
+    - type:
+      - h-card
+      properties:
+        url:
+        - https://twitter.com/techdirt
+        uid:
+        - tag:twitter.com:techdirt
+        name:
+        - techdirt
+    - type:
+      - h-card
+      properties:
+        url:
+        - https://twitter.com/torrentfreak
+        uid:
+        - tag:twitter.com:torrentfreak
+        name:
+        - TF
+    uid:
+    - tag:twitter.com:1087664878280568833
+    author:
+    - type:
+      - h-card
+      properties:
+        uid:
+        - tag:twitter.com:tomasparksts
+        url:
+        - https://twitter.com/tomasparksts
+        - https://tomasparks.name/
+        photo:
+        - https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+        numeric-id:
+        - "965564724560609280"
+        location:
+        - type:
+          - h-card
+          - p-location
+          properties:
+            name:
+            - Sunshine Coast, Queensland
+        published:
+        - "2018-02-19T12:32:24+00:00"
+        nickname:
+        - tomasparksts
+        name:
+        - Tom Sparks
+    url:
+    - https://twitter.com/tomasparksts/status/1087664878280568833
+    published:
+    - "2019-01-22T10:54:49+00:00"
+    content:
+    - html: cc <a href="https://twitter.com/techdirt">@techdirt</a>  <a href="https://twitter.com/torrentfreak">@torrentfreak</a>
+      value: cc @techdirt  @torrentfreak
+    in-reply-to:
+    - https://twitter.com/Senficon/status/1087392294469337089
+- type:
+  - h-entry
+  properties:
+    category:
+    - type:
+      - h-card
+      properties:
+        url:
+        - https://twitter.com/lazygamereviews
+        uid:
+        - tag:twitter.com:lazygamereviews
+        name:
+        - LGR
+    - type:
+      - h-card
+      properties:
+        url:
+        - https://twitter.com/PushinUpRoses
+        uid:
+        - tag:twitter.com:PushinUpRoses
+        name:
+        - "PushingUpRoses \U0001F987"
+    - type:
+      - h-card
+      properties:
+        url:
+        - https://twitter.com/nostalnerd
+        uid:
+        - tag:twitter.com:nostalnerd
+        name:
+        - Nostalgia Nerd
+    - type:
+      - h-card
+      properties:
+        url:
+        - https://twitter.com/Octav1usKitten
+        uid:
+        - tag:twitter.com:Octav1usKitten
+        name:
+        - "Foul Queen Octav1us \u2764"
+    uid:
+    - tag:twitter.com:1087420828738703360
+    author:
+    - type:
+      - h-card
+      properties:
+        uid:
+        - tag:twitter.com:tomasparksts
+        url:
+        - https://twitter.com/tomasparksts
+        - https://tomasparks.name/
+        photo:
+        - https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+        numeric-id:
+        - "965564724560609280"
+        location:
+        - type:
+          - h-card
+          - p-location
+          properties:
+            name:
+            - Sunshine Coast, Queensland
+        published:
+        - "2018-02-19T12:32:24+00:00"
+        nickname:
+        - tomasparksts
+        name:
+        - Tom Sparks
+    url:
+    - https://twitter.com/tomasparksts/status/1087420828738703360
+    content:
+    - html: USA vs UK live stream <a href="https://twitter.com/lazygamereviews">@lazygamereviews</a>
+        &amp; <a href="https://twitter.com/PushinUpRoses">@PushinUpRoses</a> vs <a
+        href="https://twitter.com/nostalnerd">@nostalnerd</a> &amp; <a href="https://twitter.com/Octav1usKitten">@Octav1usKitten</a>
+      value: USA vs UK live stream @lazygamereviews & @PushinUpRoses vs @nostalnerd
+        & @Octav1usKitten
+    published:
+    - "2019-01-21T18:45:03+00:00"
+- type:
+  - h-entry
+  properties:
+    category:
+    - type:
+      - h-card
+      properties:
+        url:
+        - https://twitter.com/Octav1usKitten
+        uid:
+        - tag:twitter.com:Octav1usKitten
+        name:
+        - "Foul Queen Octav1us \u2764"
+    uid:
+    - tag:twitter.com:1087418084611092480
+    author:
+    - type:
+      - h-card
+      properties:
+        uid:
+        - tag:twitter.com:tomasparksts
+        url:
+        - https://twitter.com/tomasparksts
+        - https://tomasparks.name/
+        photo:
+        - https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+        numeric-id:
+        - "965564724560609280"
+        location:
+        - type:
+          - h-card
+          - p-location
+          properties:
+            name:
+            - Sunshine Coast, Queensland
+        published:
+        - "2018-02-19T12:32:24+00:00"
+        nickname:
+        - tomasparksts
+        name:
+        - Tom Sparks
+    url:
+    - https://twitter.com/tomasparksts/status/1087418084611092480
+    published:
+    - "2019-01-21T18:34:09+00:00"
+    content:
+    - html: I hate timezone differences (GMT +10 )
+      value: I hate timezone differences (GMT +10 )
+    in-reply-to:
+    - https://twitter.com/Octav1usKitten/status/1087362128670089217
+- type:
+  - h-entry
+  properties:
+    category:
+    - type:
+      - h-card
+      properties:
+        url:
+        - https://twitter.com/MetalJesusRocks
+        uid:
+        - tag:twitter.com:MetalJesusRocks
+        name:
+        - Metal Jesus Rocks
+    - type:
+      - h-card
+      properties:
+        url:
+        - https://twitter.com/lazygamereviews
+        uid:
+        - tag:twitter.com:lazygamereviews
+        name:
+        - LGR
+    uid:
+    - tag:twitter.com:1068687777418473473
+    author:
+    - type:
+      - h-card
+      properties:
+        uid:
+        - tag:twitter.com:tomasparksts
+        url:
+        - https://twitter.com/tomasparksts
+        - https://tomasparks.name/
+        photo:
+        - https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+        numeric-id:
+        - "965564724560609280"
+        location:
+        - type:
+          - h-card
+          - p-location
+          properties:
+            name:
+            - Sunshine Coast, Queensland
+        published:
+        - "2018-02-19T12:32:24+00:00"
+        nickname:
+        - tomasparksts
+        name:
+        - Tom Sparks
+    url:
+    - https://twitter.com/tomasparksts/status/1068687777418473473
+    published:
+    - "2018-12-01T02:06:36+00:00"
+    content:
+    - html: 'CC: <a href="https://twitter.com/lazygamereviews">@lazygamereviews</a>'
+      value: 'CC: @lazygamereviews'
+    in-reply-to:
+    - https://twitter.com/MetalJesusRocks/status/1068510787243655168
+- type:
+  - h-entry
+  properties:
+    category:
+    - type:
+      - h-card
+      properties:
+        url:
+        - https://twitter.com/MetalJesusRocks
+        uid:
+        - tag:twitter.com:MetalJesusRocks
+        name:
+        - Metal Jesus Rocks
+    - type:
+      - h-card
+      properties:
+        url:
+        - https://twitter.com/textfiles
+        uid:
+        - tag:twitter.com:textfiles
+        name:
+        - Jason Scott
+    uid:
+    - tag:twitter.com:1068687701065388032
+    author:
+    - type:
+      - h-card
+      properties:
+        uid:
+        - tag:twitter.com:tomasparksts
+        url:
+        - https://twitter.com/tomasparksts
+        - https://tomasparks.name/
+        photo:
+        - https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+        numeric-id:
+        - "965564724560609280"
+        location:
+        - type:
+          - h-card
+          - p-location
+          properties:
+            name:
+            - Sunshine Coast, Queensland
+        published:
+        - "2018-02-19T12:32:24+00:00"
+        nickname:
+        - tomasparksts
+        name:
+        - Tom Sparks
+    url:
+    - https://twitter.com/tomasparksts/status/1068687701065388032
+    published:
+    - "2018-12-01T02:06:17+00:00"
+    content:
+    - html: 'cc: <a href="https://twitter.com/textfiles">@textfiles</a>'
+      value: 'cc: @textfiles'
+    in-reply-to:
+    - https://twitter.com/MetalJesusRocks/status/1068510787243655168
+- type:
+  - h-entry
+  properties:
+    category:
+    - type:
+      - h-card
+      properties:
+        url:
+        - https://twitter.com/testedcom
+        uid:
+        - tag:twitter.com:testedcom
+        name:
+        - Tested
+    uid:
+    - tag:twitter.com:1048480068685578240
+    author:
+    - type:
+      - h-card
+      properties:
+        uid:
+        - tag:twitter.com:tomasparksts
+        url:
+        - https://twitter.com/tomasparksts
+        - https://tomasparks.name/
+        photo:
+        - https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+        numeric-id:
+        - "965564724560609280"
+        location:
+        - type:
+          - h-card
+          - p-location
+          properties:
+            name:
+            - Sunshine Coast, Queensland
+        published:
+        - "2018-02-19T12:32:24+00:00"
+        nickname:
+        - tomasparksts
+        name:
+        - Tom Sparks
+    url:
+    - https://twitter.com/tomasparksts/status/1048480068685578240
+    content:
+    - html: <a href="https://twitter.com/testedcom">@testedcom</a> I would like to
+        see <a href="https://twitter.com/search?q=%23filming">#filming</a> / <a href="https://twitter.com/search?q=%23photographing">#photographing</a>
+        a <a href="https://twitter.com/search?q=%23diorama">#diorama</a> with a <a
+        href="https://twitter.com/search?q=%23endoscope">#endoscope</a>
+      value: '@testedcom I would like to see #filming / #photographing a #diorama
+        with a #endoscope'
+    published:
+    - "2018-10-06T07:48:22+00:00"
+...

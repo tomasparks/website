@@ -1,0 +1,46 @@
+---
+- type: entry
+  published: "2018-03-20T15:34:59+00:00"
+  category:
+  - scrobble
+  - audio
+  - STEAL THIS SHOW
+  - STEAL THIS SHOW
+  listen-of:
+    h-cite:
+      url: http://stealthisshow.com/feed/podcast
+      photo: ""
+      audio:
+      - http://media.blubrry.com/stealthisshow/content.blubrry.com/stealthisshow/S03E14_The_Tao_of_the_DAO_with_Chris_Beams.mp3
+      - http://archive.org/download/STEAL_THIS_SHOW-Podcast-by-STEAL_THIS_SHOW/S03E14_The_Tao_of_the_DAO_with_Chris_Beams.mp3
+      name: The Tao Of The DAO, with Chris Beams of Bisq
+      author: STEAL THIS SHOW
+      content: In this episode we meet Chris Beams, founder of the decentralised cryptocurrency
+        exchange Bisq. We discuss the concept of DAOs (Decentralised Autonomous Organisations),
+        and whether The Pirate Bay was an early example; how the start...
+  content:
+    text: ' \ud83c\udfa7 Listened to The Tao Of The DAO, with Chris Beams of Bisq
+      by @steal_this_show From @steal_this_show'
+- type: entry
+  published: "2018-03-20T16:22:12+00:00"
+  category:
+  - scrobble
+  - audio
+  - STEAL THIS SHOW
+  - STEAL THIS SHOW
+  listen-of:
+    h-cite:
+      url: http://stealthisshow.com/feed/podcast
+      photo: ""
+      audio:
+      - http://media.blubrry.com/stealthisshow/content.blubrry.com/stealthisshow/S03_E012_Propaganda_Bots_with_Sam_Woolley.mp3
+      - http://archive.org/download/STEAL_THIS_SHOW-Podcast-by-STEAL_THIS_SHOW/S03_E012_Propaganda_Bots_with_Sam_Woolley.mp3
+      name: Attack Of The Propaganda Bots, with Sam Woolley
+      author: STEAL THIS SHOW
+      content: In this episode we meet Sam Woolley, director of the Digital Intelligence
+        Lab at the Institute for the Future, to dig deeper into the topic of troll
+        farms, political disinformation and the use of social...
+  content:
+    text: ' \ud83c\udfa7 Listened to Attack Of The Propaganda Bots, with Sam Woolley
+      by @steal_this_show From @steal_this_show'
+...

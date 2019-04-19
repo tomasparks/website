@@ -1,0 +1,150 @@
+---
+- type: entry
+  published: "2019-02-03T12:35:14+00:00"
+  category:
+  - scrobble
+  - audio
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
+  listen-of:
+    h-cite:
+      url: http://textfiles.libsyn.com/rss
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_54.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Postal_Zine_Episode.mp3
+      name: The Postal Zine Episode
+      author: Jason Scott
+      content: 'The Postal Zine Episode: National Lampoon, Adult Comics, Fooled Them,
+        Forbidden Mail, Forbidden Subjects, Catalogs, Books, Power and Revenge, Factsheet
+        Five, Gunderloy, Anarchy, Factsheet Five''s Big Party, Internet, Zines, PDFs.
+        Also: The Tax Treadmill. An episode about my relationship (and others) to
+        postal-based forbidden things, including access to the Factsheet Five magazine,
+        one of the best printed things on earth at the time. The Internet Archive
+        Zine collection is massive and growing: https://archive.org/details/zines
+        Factsheet Five has a few issues up on the archive, but we need a large and
+        high-quality scanning of this thing. https://archive.org/search.php?query=factsheet%20five
+        We even have a pretty zesty Loompanics catalog: https://archive.org/details/Loompanics_Catalog_2003'
+  content:
+    text: ' \ud83c\udfa7 Listened to The Postal Zine Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
+- type: entry
+  published: "2019-02-03T12:49:39+00:00"
+  category:
+  - scrobble
+  - audio
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
+  listen-of:
+    h-cite:
+      url: http://textfiles.libsyn.com/rss
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_55.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Time_Episode.mp3
+      name: The Time Episode
+      author: Jason Scott
+      content: The Time Episode. Was it all worth it?
+  content:
+    text: ' \ud83c\udfa7 Listened to The Time Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
+- type: entry
+  published: "2019-02-03T10:34:00+00:00"
+  category:
+  - scrobble
+  - audio
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
+  listen-of:
+    h-cite:
+      url: http://textfiles.libsyn.com/rss
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_52.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_EsnesnoN_Episode.mp3
+      name: The EsnesnoN Episode
+      author: Jason Scott
+      content: "The EsnesnoN Episode: High School Reboot, Humor Magazines, Nonsense,
+        A Fun and Saturated Publication Landscape, John, 30 Mile Commute, Humor Column,
+        Ripoff Photo, EsnesnoN, Janitor, Ed Barlow, Printing With a 3 Day Delay, 3
+        Issues, Beyond Highschool, 10th Anniversary, Collaboration's Shadow.\r\n\r\nThe
+        first issue of EsnesnoN is here: https://archive.org/details/1987-esnesnon\r\n\r\nYou'd
+        think I'd have all the issues up, but I never got around to it! When I get
+        my hands on them, they'll all go up."
+  content:
+    text: ' \ud83c\udfa7 Listened to The EsnesnoN Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
+- type: entry
+  published: "2019-02-03T11:44:25+00:00"
+  category:
+  - scrobble
+  - audio
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
+  listen-of:
+    h-cite:
+      url: http://textfiles.libsyn.com/rss
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_53.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Robert_Hoquim_Extra_Episode.mp3
+      name: The Robert Hoquim Extra Episode
+      author: Jason Scott
+      content: 'The Robert Hoquim Extra Episode: A Small Homework Assignment, A Fascinating
+        Story, The Man in the FBI Hat, What Stories Change in Us, The Story I Won''t
+        Tell, A Book Yet Unwritten I Want to Read. This episode is a little different
+        in that it has a homework assignment: I ask folks to go listen to Episode
+        30 of Reply All, which I appear in and which is based on a story I brought
+        to them. A link to the episode is here:  https://www.gimletmedia.com/reply-all/30-the-man-in-the-fbi-hat
+        Here is a link to the archive of information I built up over years about John
+        Aleshe:  http://www.bbsdocumentary.com/library/CONTROVERSY/PERSONALITIES/ALESHE/
+        And here''s the illustrated speech on Hoquim/Aleshe (and charlatans in general):
+        https://www.youtube.com/watch?v=UTzQmhmgLC0'
+  content:
+    text: ' \ud83c\udfa7 Listened to The Robert Hoquim Extra Episode by @textfiles
+      From #JasonScottTalksHisWayOutofIt'
+- type: entry
+  published: "2019-02-03T12:15:55+00:00"
+  category:
+  - scrobble
+  - audio
+  - Reply All
+  - Gimlet
+  listen-of:
+    h-cite:
+      url: http://feeds.gimletmedia.com/hearreplyall
+      photo: ""
+      audio:
+      - http://traffic.megaphone.fm/GLT5773876684.mp3
+      - http://archive.org/download/Reply_All-Podcast-by-Gimlet/30_The_Man_In_The_FBI_Hat.mp3
+      name: '#30 The Man In The FBI Hat'
+      author: Gimlet
+      content: "When successful internet entrepreneur Robert Hoquim died, the people
+        who knew him found out they actually didn't know him at all.For more about
+        John Aleshe, go here:http://www.bbsdocumentary.com/library/CONTROVERSY/PERSONALITIES/ALESHE/For
+        tickets to Cast Party, go to www.castparty.orgCheck out Death, Sex &amp; Money
+        at www.deathsexmoney.orgSponsors:The Outlook app for iOS and AndroidMailchimp
+        (www.mailchimp.com/replyall)Harry's Razors (www.harrys.com/reply)\r\n      "
+  content:
+    text: ' \ud83c\udfa7 Listened to #30 The Man In The FBI Hat by Gimlet From Reply
+      All'
+- type: entry
+  published: "2019-02-03T10:06:13+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/563091471-techdirt-the-ces-2019-post-mortem.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/563091471-techdirt-the-ces-2019-post-mortem.mp3
+      name: The CES 2019 Post-Mortem
+      author: Techdirt
+      content: It's that time again! Mike spent the week before last at this year's
+        Consumer Electronics Show, checking out all the latest technology that companies
+        are most eager to show off, and now once again he's joined on the podcast
+        by CES veteran Rob Pegoraro for the CES 2019 Post-Mortem.
+  content:
+    text: ' \ud83c\udfa7 Listened to The CES 2019 Post-Mortem by Techdirt From Techdirt'
+...

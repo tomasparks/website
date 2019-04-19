@@ -1,0 +1,12 @@
+{
+    "require": {
+        "mf2/mf2": "~0.3",
+        "barnabywalters/mf-cleaner": "^0.1.4",
+        "ezyang/htmlpurifier": "^4.9",
+        "socialiteproviders/goodreads": "^3.0",
+        "p3k/xray": "^1.4",
+        "p3k/micropub": "^0.0.2",
+        "ramonztro/simple-scraper": "^1.0",
+        "tantek/cassis": "^0.2.16895"
+    }
+}

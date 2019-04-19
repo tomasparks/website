@@ -1,0 +1,77 @@
+---
+- type: entry
+  published: "2018-05-09T04:01:25+00:00"
+  category:
+  - scrobble
+  - audio
+  - Acquired
+  - Ben Gilbert & David Rosenthal
+  listen-of:
+    h-cite:
+      url: http://www.acquired.fm/episodes?format=RSS
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/acquired/Acquired_-_PowerPoint_edit2.mp3
+      - http://archive.org/download/Acquired-Podcast-by-Ben_Gilbert_and_David_Rosenthal/Season_2_Episode_7PowerPoint.mp3
+      name: "Season 2, Episode 7:\_PowerPoint"
+      author: Ben Gilbert & David Rosenthal
+      content: "Acquired returns with a classic, delving into Microsoft\u2019s first
+        acquisition ever: Forethought Inc, the makers of PowerPoint. Hate it or love
+        it, you can\u2019t deny the combined companies\u2019 impact: by the early
+        90\u2019s PowerPoint had transformed the way businesses, educators and governments
+        communicate, ensuring job security for pointy-haired Dilbert bosses everywhere."
+  content:
+    text: " \\ud83c\\udfa7 Listened to Season 2, Episode 7:\_PowerPoint by @gilbert
+      & @djrosent From @AcquiredFM"
+- type: entry
+  published: "2018-05-09T13:02:52+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/441254685-techdirt-how-the-courts-created-the-surveillance-state.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/441254685-techdirt-how-the-courts-created-the-surveillance-state.mp3
+      name: How The Courts Created The Surveillance State
+      author: Techdirt
+      content: "The US has been something of a surveillance state since long before
+        the Snowden revelations that showed the full extent of some of the NSA's activities.
+        A lot of this is made possible \u2014 often unintentionally \u2014 by decades-old
+        court decisions regarding technology. It's a problem. This week, reporter
+        Cyrus Farivar \u2014 whose new book Habeas Data digs into this judicial history
+        \u2014 joins us to discuss how courts created the surveillance state.\r\n\r\nHabeas
+        Data - https://www.mhpbooks.com/books/habeas-data/"
+  content:
+    text: ' \ud83c\udfa7 Listened to How The Courts Created The Surveillance State
+      by Techdirt From Techdirt'
+- type: entry
+  published: "2018-05-09T10:53:49+00:00"
+  category:
+  - scrobble
+  - audio
+  - David Shanske
+  - https://wordpress.org/?v=4.9.5
+  listen-of:
+    h-cite:
+      url: https://david.shanske.com/feed/
+      photo: ""
+      audio:
+      - https://david.shanske.com/wp-content/uploads/2018/05/Indieweb4.mp3
+      - http://archive.org/download/Indieweb_Podcast-by-David_Shanske_and_Chris_Aldrich/Indieweb4.mp3
+      name: "An Indieweb Podcast: Episode 4 \u2013 Webmentions and Privacy"
+      author: https://wordpress.org/?v=4.9.5
+      content: "This week, Chris Aldrich and I got together a bit late&#8230;so I
+        was a bit more quiet than normal. With the GDPR regulations coming into effect
+        in Europe May 25th, privacy seems to be on everyone\u2019s mind. This week,
+        we tackle what webmentions are, using them for backfeed, and the privacy implications.
+        The Indieweb Privacy &#8230; Continue reading \"An Indieweb Podcast: Episode
+        4 &#8211; Webmentions and Privacy\""
+  content:
+    text: " \\ud83c\\udfa7 Listened to An Indieweb Podcast: Episode 4 \u2013 Webmentions
+      and Privacy by https://wordpress.org/?v=4.9.5 From #IndiewebPodcast"
+...

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data>
+  <Series>
+    <id>80379</id>
+    <Actors>|Jim Parsons|Johnny Galeckii|Kaley Cuoco|Simon Helberg|Kunal Nayyar|Melissa Rauch|Mayim Bialik|Kevin Sussman|Carol Ann Susi|John Ross Bowie|Sara Gilbert|Laura Spencer|</Actors>
+    <Airs_DayOfWeek>Thursday</Airs_DayOfWeek>
+    <Airs_Time>8:00 PM</Airs_Time>
+    <ContentRating>TV-14</ContentRating>
+    <FirstAired>2007-09-24</FirstAired>
+    <Genre>|Comedy|</Genre>
+    <IMDB_ID>tt0898266</IMDB_ID>
+    <Language>en</Language>
+    <Network>CBS</Network>
+    <NetworkID></NetworkID>
+    <Overview>What happens when hyperintelligent roommates Sheldon and Leonard meet Penny, a free-spirited beauty moving in next door, and realize they know next to nothing about life outside of the lab. Rounding out the crew are the smarmy Wolowitz, who thinks he's as sexy as he is brainy, and Koothrappali, who suffers from an inability to speak in the presence of a woman.</Overview>
+    <Rating>8.8</Rating>
+    <RatingCount>1445</RatingCount>
+    <Runtime>25</Runtime>
+    <SeriesID>58056</SeriesID>
+    <SeriesName>The Big Bang Theory</SeriesName>
+    <Status>Continuing</Status>
+    <added></added>
+    <addedBy></addedBy>
+    <banner>graphical/80379-g28.jpg</banner>
+    <fanart>fanart/original/80379-38.jpg</fanart>
+    <finale_aired>2018-03-29</finale_aired>
+    <lastupdated>1518956957</lastupdated>
+    <poster>posters/80379-48.jpg</poster>
+    <slug>the-big-bang-theory</slug>
+    <tms_wanted_old>1</tms_wanted_old>
+    <zap2it_id>EP00931182</zap2it_id>
+  </Series>
+</Data>

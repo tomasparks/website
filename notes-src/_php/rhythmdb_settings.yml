@@ -1,0 +1,7 @@
+---
+skip:
+  type:
+    postcast: false
+    audio: false
+debug: 0
+...

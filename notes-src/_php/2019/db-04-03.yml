@@ -1,0 +1,50 @@
+---
+- type: entry
+  published: "2019-04-03T16:02:32+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_22.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_22.mp3
+      name: Kingmaker Session 22
+      author: Hal
+      content: "Episode 22 \u2013 in which Kaylen travels to Varnhold for the wedding
+        of Varn Thorne and Jamandi Rull."
+  content:
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 22 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+- type: entry
+  published: "2019-04-03T03:08:43+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/599957955-techdirt-charter-cities-innovative-governance.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/599957955-techdirt-charter-cities-innovative-governance.mp3
+      name: Charter Cities & Innovative Governance
+      author: Techdirt
+      content: "We're pretty optimistic about innovation here at Techdirt, but it
+        isn't an automatic good thing all by itself: implementation and intention
+        matters, and that means political entanglements and complicated questions
+        about governance, and that calls for big, new ideas. This week, we're joined
+        by Tamara Winter from the Center for Innovative Governance Research to discuss
+        new experiments in government like charter cities and special autonomous zones.\r\n\r\nAlso,
+        learn more about:\r\n\r\nShenzhen - https://openknowledge.worldbank.org/bitstream/handle/10986/2501/564470PUB0buil10Box349496B01PUBLIC1.pdf?sequen\r\n\r\nVal
+        D'Europe - https://www.economist.com/europe/2017/08/03/disney-has-built-a-pseudo-paris-near-paris\r\n\r\nThe
+        original vision for Disney World -https://www.youtube.com/watch?v=sLCHg9mUBag&t=920s"
+  content:
+    text: ' \ud83c\udfa7 Listened to Charter Cities & Innovative Governance by Techdirt
+      From Techdirt'
+...

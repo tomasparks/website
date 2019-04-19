@@ -1,0 +1,48 @@
+---
+- type: entry
+  published: "2019-01-16T13:13:30+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://rpgmp3.com/v5/feed/podcast/
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/All_For_One_Musketeers_Session_05.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/All_For_One_Musketeers_Session_05.mp3
+      name: All For One Session 05
+      author: Hal
+      content: "Episode 5 \u2013 in which the Musketeers confront the terror that
+        has haunted Paris\u2019 nights."
+  content:
+    text: ' \ud83c\udfa7 Listened to All For One Session 05 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+- type: entry
+  published: "2019-01-16T14:14:25+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/559576152-techdirt-the-eu-endangers-free-speech-online-again.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/559576152-techdirt-the-eu-endangers-free-speech-online-again.mp3
+      name: The EU Endangers Free Speech Online... Again
+      author: Techdirt
+      content: "The latest in the EU's string of internet regulatory efforts has a
+        new target: terrorist propaganda. Just as with past regulations, the proposed
+        rules seem onerous and insane, creating huge liability for internet platforms
+        that fail to do the impossible. This week, we're joined by returning guests
+        Daphne Keller from Stanford's Center For Internet And Society and Emma Llans\xF3
+        from the Center for Democracy and Technology to discuss this most recent danger
+        to online free speech in the EU."
+  content:
+    text: ' \ud83c\udfa7 Listened to The EU Endangers Free Speech Online... Again
+      by Techdirt From Techdirt'
+...

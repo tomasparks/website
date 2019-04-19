@@ -1,0 +1,91 @@
+---
+- type: entry
+  published: "2018-06-19T10:07:38+00:00"
+  category:
+  - scrobble
+  - audio
+  - "Emoji Wrap \u2014 The Emoji Podcast from Emojipedia"
+  - Emojipedia
+  listen-of:
+    h-cite:
+      url: https://rss.simplecast.com/podcasts/2218/rss
+      photo: ""
+      audio:
+      - https://audio.simplecast.com/2ac4c327.mp3
+      - http://archive.org/download/Emoji_Wrap_The_Emoji_Podcast-by-Emojipedia/0_Welcome_.mp3
+      name: "0: Welcome! \U0001F44B"
+      author: Emojipedia
+      content: |
+        Emoji Wrap is coming soon. Thanks for subscribing!
+  content:
+    text: " \\ud83c\\udfa7 Listened to 0: Welcome! \U0001F44B by Emojipedia From Emoji
+      Wrap \u2014 The Emoji Podcast from Emojipedia"
+- type: entry
+  published: "2018-06-19T10:46:35+00:00"
+  category:
+  - scrobble
+  - audio
+  - "Emoji Wrap \u2014 The Emoji Podcast from Emojipedia"
+  - Emojipedia
+  listen-of:
+    h-cite:
+      url: https://rss.simplecast.com/podcasts/2218/rss
+      photo: ""
+      audio:
+      - https://audio.simplecast.com/a931efaa.mp3
+      - http://archive.org/download/Emoji_Wrap_The_Emoji_Podcast-by-Emojipedia/11_Well_see_what_Tony_Hawk_thinks_with_Bryan_Haggerty.mp3
+      name: "11: We\u2019ll see what Tony Hawk thinks \U0001F914 with Bryan Haggerty"
+      author: Emojipedia
+      content: "Twemoji is now all over your \U0001F4F2 Android phone, and Twitter
+        Design Lead Bryan Haggerty talks Twemoji Easter Eggs, why the new shoe is
+        red, and (scoop! \U0001F5DE ) \u2728 when the new emojis are coming to Twitter.\n"
+  content:
+    text: " \\ud83c\\udfa7 Listened to 11: We\u2019ll see what Tony Hawk thinks \U0001F914
+      with Bryan Haggerty by Emojipedia From Emoji Wrap \u2014 The Emoji Podcast from
+      Emojipedia"
+- type: entry
+  published: "2018-06-19T18:32:25+00:00"
+  category:
+  - scrobble
+  - audio
+  - Acquired - Technology Acquisitions & IPOs
+  - Ben Gilbert and David Rosenthal
+  listen-of:
+    h-cite:
+      url: http://www.acquired.fm/episodes?format=RSS
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/acquired/Waze.mp3
+      - http://archive.org/download/Acquired-Podcast-by-Ben_Gilbert_and_David_Rosenthal/Episode_17_Waze.mp3
+      name: 'Episode 17: Waze'
+      author: Ben Gilbert and David Rosenthal
+      content: "Ben and David navigate the mobile platform wars of 2012-13, avoiding
+        speed traps en route to Waze\u2019s destination as a $1B+ acquisition by Google."
+  content:
+    text: ' \ud83c\udfa7 Listened to Episode 17: Waze by Ben Gilbert and David Rosenthal
+      From @AcquiredFM'
+- type: entry
+  published: "2018-06-19T10:06:36+00:00"
+  category:
+  - scrobble
+  - audio
+  - David Shanske
+  - https://wordpress.org/?v=4.9.6
+  listen-of:
+    h-cite:
+      url: https://david.shanske.com/feed/
+      photo: ""
+      audio:
+      - https://david.shanske.com/wp-content/uploads/2018/06/Indieweb7.mp3
+      - http://archive.org/download/Indieweb_Podcast-by-David_Shanske_and_Chris_Aldrich/Indieweb7.mp3
+      name: 'An Indieweb Podcast: Episode 7: The Reverse Salmention'
+      author: https://wordpress.org/?v=4.9.6
+      content: In this last episode before Chris Aldrich and I head to the Indieweb
+        Summit in Portland, Oregon, he and I discuss my continual messing up of people&#8217;s
+        Indieweb experience, little things I&#8217;ve hidden in plugins, web-signin
+        vs IndieAuth, etc. We&#8217;re both looking forward to seeing those of you
+        who can join us in Portland.
+  content:
+    text: ' \ud83c\udfa7 Listened to An Indieweb Podcast: Episode 7: The Reverse Salmention
+      by https://wordpress.org/?v=4.9.6 From #IndiewebPodcast'
+...

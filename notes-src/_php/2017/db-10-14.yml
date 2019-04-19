@@ -1,0 +1,54 @@
+---
+- type: entry
+  published: "2017-10-14T04:20:30+00:00"
+  category:
+  - scrobble
+  - audio
+  - Apricot Ep 2 (Loonies Records)
+  - tarmslyng@loonies.dk (LNS-Rec)
+  listen-of:
+    h-cite:
+      url: ""
+      photo: ""
+      audio:
+      - http://archive.org/download/Apricot Ep 2 (Loonies Records)-by-tarmslyng@loonies.dk
+        (LNS-Rec)/
+      name: IsItToStrongOrDoYouHaveASpoon
+  content:
+    text: ' \ud83c\udfa7 Listened to IsItToStrongOrDoYouHaveASpoon by tarmslyng@loonies.dk
+      (LNS-Rec) From Apricot Ep 2 (Loonies Records)'
+- type: entry
+  published: "2017-10-14T04:38:37+00:00"
+  category:
+  - scrobble
+  - audio
+  - Cloroform Ep part 1
+  - tarmslyng@loonies.dk (LNS-Rec)
+  listen-of:
+    h-cite:
+      url: ""
+      photo: ""
+      audio:
+      - http://archive.org/download/Cloroform Ep part 1-by-tarmslyng@loonies.dk (LNS-Rec)/
+      name: All about cloroform (ClorEp 1)
+  content:
+    text: ' \ud83c\udfa7 Listened to All about cloroform (ClorEp 1) by tarmslyng@loonies.dk
+      (LNS-Rec) From Cloroform Ep part 1'
+- type: entry
+  published: "2017-10-14T04:26:43+00:00"
+  category:
+  - scrobble
+  - audio
+  - Beyond Our Eyes
+  - Zadoc...and the Nightmare
+  listen-of:
+    h-cite:
+      url: ""
+      photo: ""
+      audio:
+      - http://archive.org/download/Beyond Our Eyes-by-Zadoc...and the Nightmare/
+      name: Vampire Bride
+  content:
+    text: ' \ud83c\udfa7 Listened to Vampire Bride by Zadoc...and the Nightmare From
+      Beyond Our Eyes'
+...

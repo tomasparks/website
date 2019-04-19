@@ -1,0 +1,23 @@
+---
+- type: entry
+  published: "2018-11-12T14:42:14+00:00"
+  category:
+  - scrobble
+  - audio
+  - Hamish & Andy
+  - Hamish & Andy
+  listen-of:
+    h-cite:
+      url: http://handa.hamishandandy.libsynpro.com/rss
+      photo: ""
+      audio:
+      - https://aw-au.noxsolutions.com/launchpod/au/hamish-and-andy/HamishAndy-Primer-StartsMarch1_100500567.mp3?awCollectionId=8055&awEpisodeId=100500567
+      - http://archive.org/download/Hamish_Andy-Podcast-by-Hamish_Andy/HamishAndy-Primer-StartsMarch1_100500567.mp3
+      name: Hamish & Andy Return March 1
+      author: Hamish & Andy
+      content: Hamish & Andy return March 1 with their weekly podcast. Catch it first
+        on the PodcastOne App or PodcastOne.com.au
+  content:
+    text: ' \ud83c\udfa7 Listened to Hamish & Andy Return March 1 by Hamish & Andy
+      From Hamish & Andy'
+...

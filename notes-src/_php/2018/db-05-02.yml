@@ -1,0 +1,23 @@
+---
+- type: entry
+  published: "2018-05-02T09:47:40+00:00"
+  category:
+  - scrobble
+  - audio
+  - Adam Ruins Everything
+  - Adam Ruins Everything
+  listen-of:
+    h-cite:
+      url: http://maximumfun.org/feeds/are.xml
+      photo: ""
+      audio:
+      - http://media.adknit.com/a/f/90/adam-ruins-everything/w7ejba.1-1.mp3
+      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_6_The_Malleability_of_Memory_with_Elizabeth_Loftus.mp3
+      name: 'Ep 6: The Malleability of Memory with Elizabeth Loftus'
+      author: Adam Ruins Everything
+      content: Professor Elizabeth Loftus joins Adam to discuss collective memory,
+        repressed memory, and even some of Adam's own memories.
+  content:
+    text: ' \ud83c\udfa7 Listened to Ep 6: The Malleability of Memory with Elizabeth
+      Loftus by Adam Ruins Everything From Adam Ruins Everything'
+...

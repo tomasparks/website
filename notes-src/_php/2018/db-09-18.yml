@@ -1,0 +1,47 @@
+---
+- type: entry
+  published: "2018-09-18T23:12:54+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://rpgmp3.com/v5/feed/podcast/
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Yorkton_Gamer_Guild/Plotfinder_Session_2.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/Plotfinder_Session_2.mp3
+      name: Plotfinder Session 02
+      author: Hal
+      content: "Vermin Removal \u2013 Three Acquaintances enter a warehouse at the
+        behest of its owner to remove trespassers and their illicit goods. Illicit
+        goods that just happen to be alive. Starring Heather as Anisha, Catfolk Psychic
+        Detective Travis as Gorebasha, Aegis of Unknown Race Thing as Karl, Human
+        Kinetic Chirurgeon Lockhart as the GM"
+  content:
+    text: ' \ud83c\udfa7 Listened to Plotfinder Session 02 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+- type: entry
+  published: "2018-09-18T07:05:40+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://rpgmp3.com/v5/feed/podcast/
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Yorkton_Gamer_Guild/Plotfinder_Session_01.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/Plotfinder_Session_01.mp3
+      name: Plotfinder Session 01
+      author: Hal
+      content: 'Session 1: You Meet in a Tavern Three strangers meet in a run-down
+        tavern and are offered a job by a desperate ratfolk. Starring Heather as Anisha,
+        Catfolk Psychic Detective Travis as Gorebasha, Aegis Thing as Karl, Human
+        Kinetic Chirurgeon Lockhart as the GM'
+  content:
+    text: ' \ud83c\udfa7 Listened to Plotfinder Session 01 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+...
