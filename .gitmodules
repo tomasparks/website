@@ -1,6 +1,0 @@
-[submodule "Articles"]
-	path = Articles
-	url = git@github.com:tomasparks/Articles.git
-[submodule "miniatures"]
-	path = miniatures
-	url = git@github.com:tomasparks/miniatures-src.git
