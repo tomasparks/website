@@ -1,0 +1,26 @@
+---
+- type: entry
+  published: "2018-02-01T19:53:56+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/Nx7nmlpNy68/102._Analysis_Ep._5_-_The_History_and_Future_of_Automotive_Tech_with_Mike_Dushane.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/102_Analysis_Ep_5_The_History_and_Future_of_Automotive_Tech_with_Mike_Dushane.mp3
+      name: 102. Analysis Ep. 5 - The History and Future of Automotive Tech with Mike
+        Dushane
+      author: Brian McCullough @brianmcc
+      content: A history of the Internet Era from Netscape to the iPad. Oral histories
+        from the people that made the technology happen. "Chapter" episodes providing
+        background on the history of the companies.
+  content:
+    text: ' \ud83c\udfa7 Listened to 102. Analysis Ep. 5 - The History and Future
+      of Automotive Tech with Mike Dushane by Brian McCullough @brianmcc From Internet
+      History Podcast'
+...

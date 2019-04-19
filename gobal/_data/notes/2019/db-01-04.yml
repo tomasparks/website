@@ -1,0 +1,101 @@
+---
+- type: entry
+  published: "2019-01-04T05:00:16+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/522317304-techdirt-ai-free-speech-human-rights.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/522317304-techdirt-ai-free-speech-human-rights.mp3
+      name: AI, Free Speech & Human Rights
+      author: Techdirt
+      content: As artificial intelligence technology marches onwards, it's raising
+        a lot of complicated questions about free speech, privacy, and important rights.
+        One person who's been thinking a lot about these questions is David Kaye,
+        the UN Special Rapporteur on the promotion and protection of the right to
+        freedom of opinion and expression, who recently published a thorough report
+        [pdf] on the subject. This week, David joins us on the podcast to discuss
+        artificial intelligence and its implications for human rights.
+  content:
+    text: ' \ud83c\udfa7 Listened to AI, Free Speech & Human Rights by Techdirt From
+      Techdirt'
+- type: entry
+  published: "2019-01-04T06:28:09+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/508594413-techdirt-building-new-senses-plus-the-possible-end-of-the-world.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/508594413-techdirt-building-new-senses-plus-the-possible-end-of-the-world.mp3
+      name: Building New Senses (Plus The Possible End Of The World)
+      author: Techdirt
+      content: This week, we've got a special cross-post from Rob Reid's excellent
+        After On podcast. After a conversation between Mike and Rob about the possible
+        end of the world, we pivot to the full episode of After On in which Rob talks
+        to neuroscientist David Eagleman about his fascinating work using technology
+        to create new human senses. We hope you enjoy it!
+  content:
+    text: ' \ud83c\udfa7 Listened to Building New Senses (Plus The Possible End Of
+      The World) by Techdirt From Techdirt'
+- type: entry
+  published: "2019-01-04T06:03:20+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/511952085-techdirt-free-speech-content-moderation-panel-discussion.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/511952085-techdirt-free-speech-content-moderation-panel-discussion.mp3
+      name: Free Speech & Content Moderation (Panel Discussion)
+      author: Techdirt
+      content: "For this week's episode of the podcast, we're featuring a recent panel
+        discussion from Mozilla's Speaker Series. Mike Masnick sat down with Guillaume
+        Chaslot from Algo Transparency, hosted by Mozilla Fellow in Residence Ren\xE9e
+        DiResta, to talk about the challenges of online content moderation and its
+        implications for freedom of expression. Enjoy!"
+  content:
+    text: ' \ud83c\udfa7 Listened to Free Speech & Content Moderation (Panel Discussion)
+      by Techdirt From Techdirt'
+- type: entry
+  published: "2019-01-04T02:15:53+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/525770961-techdirt-government-activism-silicon-valley.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/525770961-techdirt-government-activism-silicon-valley.mp3
+      name: Government, Activism & Silicon Valley
+      author: Techdirt
+      content: "In late September, Mike joined a panel at the Lincoln Network's Reboot
+        conference to tackle the question \"will rising activism limit government\u2019s
+        access to Silicon Valley?\" along with Trae Stephens, Pablo E. Carrillo, with
+        moderator Katie McAuliffe. For this week's episode, we've got the full audio
+        from that panel plus an additional introduction from Mike with some thoughts
+        after the fact. Enjoy!"
+  content:
+    text: ' \ud83c\udfa7 Listened to Government, Activism & Silicon Valley by Techdirt
+      From Techdirt'
+...

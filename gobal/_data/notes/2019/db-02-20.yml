@@ -1,0 +1,69 @@
+---
+- type: entry
+  published: "2019-02-20T17:10:28+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://rpgmp3.com/v5/feed/podcast/
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/All_for_One_Musketeers_Session_11.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/All_for_One_Musketeers_Session_11.mp3
+      name: All For One Session 11
+      author: Hal
+      content: "Episode 11 \u2013 in which the Musketeers pursue suspect after suspect
+        at the Feast of Sainte-Anne, with enough seduction to make James Bond proud."
+  content:
+    text: ' \ud83c\udfa7 Listened to All For One Session 11 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+- type: entry
+  published: "2019-02-20T18:39:40+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2019/02/gms_20190219.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Brain_freeze.mp3
+      name: Brain freeze
+      author: ABC Radio National
+      content: Why do some people get headaches from eating ice-cream or drinking
+        something very cold
+  content:
+    text: ' \ud83c\udfa7 Listened to Brain freeze by ABC Radio National From Great
+      Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2019-02-20T18:34:12+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/578082534-techdirt-the-big-business-of-podcasting.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/578082534-techdirt-the-big-business-of-podcasting.mp3
+      name: The (Big?) Business Of Podcasting
+      author: Techdirt
+      content: "We can hardly believe it, but as of this moment we've released 200
+        episodes of the Techdirt podcast! For this milestone, we've brought the increasingly-rare
+        original team of co-hosts back together for a bit of a meta-episode all about
+        podcasts \u2014 specifically, the recent news that Spotify has acquired Gimlet
+        Media for the impressive and, to many, surprising sum of $230-million. Mike
+        joined by Dennis Yang and Hersh Reddy to discuss what Spotify might be up
+        to, and just how big the podcasting business really is."
+  content:
+    text: ' \ud83c\udfa7 Listened to The (Big?) Business Of Podcasting by Techdirt
+      From Techdirt'
+...

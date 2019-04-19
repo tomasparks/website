@@ -1,0 +1,131 @@
+---
+- type: entry
+  published: "2018-04-30T01:02:39+00:00"
+  category:
+  - scrobble
+  - audio
+  - clevercast
+  - []
+  listen-of:
+    h-cite:
+      url: http://cleverca.st/podcast.xml
+      photo: ""
+      audio:
+      - http://cleverca.st/uploads/2018/0a46623805.mp3
+      - http://archive.org/download/clevercast-by-Array/0a46623805.mp3
+      name: 'Episode 4: Paying (with) Attention'
+      author: []
+      content: "Its been over a week since the last episode. I\u2019ve been really
+        busy with work and family and\u2026 you know\u2026 life! Its been a bit stressful,
+        honestly, and that\u2019s what this episode is all about. Its a big shift
+        from the first few episodes, but this time, I talk a bit about my brain, and
+        my efforts to get more mentally and physically healthy.\n\n\n\n"
+  content:
+    text: ' \ud83c\udfa7 Listened to Episode 4: Paying (with) Attention by Array From
+      clevercast'
+- type: entry
+  published: "2018-04-30T21:52:38+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/EDmAdCb6gD4/169._Kottke.orgs_Jason_Kottke_jkottke.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/169_Kottkeorgs_Jason_Kottke_jkottke.mp3
+      name: 169. Kottke.org's Jason Kottke, @jkottke
+      author: Brian McCullough @brianmcc
+      content: "Jason Kottke, of kottke.org fame, was one of the early bloggers, one
+        of the first bloggers to go pro, and one of the few solo bloggers still going.
+        If you know Kottke.org, then you love it. How could you not? If you\u2019ve
+        never heard of it, you can thank me later. This episode examines what it means
+        to be a publisher on the web for 20 years as well as the discipline required
+        to find cool stuff on the web every single day (almost)."
+  content:
+    text: ' \ud83c\udfa7 Listened to 169. Kottke.org''s Jason Kottke, @jkottke by
+      Brian McCullough @brianmcc From Internet History Podcast'
+- type: entry
+  published: "2018-04-30T12:02:26+00:00"
+  category:
+  - scrobble
+  - audio
+  - David Shanske
+  - https://wordpress.org/?v=4.9.5
+  listen-of:
+    h-cite:
+      url: https://david.shanske.com/feed/
+      photo: ""
+      audio:
+      - https://david.shanske.com/wp-content/uploads/2018/04/Indieweb2.mp3
+      - http://archive.org/download/Indieweb_Podcast-by-David_Shanske_and_Chris_Aldrich/Indieweb2.mp3
+      name: 'An Indieweb Podcast- Episode 2: IndieAuth'
+      author: https://wordpress.org/?v=4.9.5
+      content: ""
+  content:
+    text: ' \ud83c\udfa7 Listened to An Indieweb Podcast- Episode 2: IndieAuth by
+      https://wordpress.org/?v=4.9.5 From #IndiewebPodcast'
+- type: entry
+  published: "2018-04-30T11:11:02+00:00"
+  category:
+  - scrobble
+  - audio
+  - David Shanske
+  - https://wordpress.org/?v=4.9.5
+  listen-of:
+    h-cite:
+      url: https://david.shanske.com/feed/
+      photo: ""
+      audio:
+      - https://david.shanske.com/wp-content/uploads/2018/04/Indieweb1.mp3
+      - http://archive.org/download/Indieweb_Podcast-by-David_Shanske_and_Chris_Aldrich/Indieweb1.mp3
+      name: "An Indieweb Podcast \u2013 Episode 1: Leaving Facebook"
+      author: https://wordpress.org/?v=4.9.5
+      content: ""
+  content:
+    text: " \\ud83c\\udfa7 Listened to An Indieweb Podcast \u2013 Episode 1: Leaving
+      Facebook by https://wordpress.org/?v=4.9.5 From #IndiewebPodcast"
+- type: entry
+  published: "2018-04-30T20:48:24+00:00"
+  category:
+  - scrobble
+  - audio
+  - David Shanske
+  - https://wordpress.org/?v=4.9.5
+  listen-of:
+    h-cite:
+      url: https://david.shanske.com/feed/
+      photo: ""
+      audio:
+      - https://david.shanske.com/wp-content/uploads/2018/04/Indieweb03.mp3
+      - http://archive.org/download/Indieweb_Podcast-by-David_Shanske_and_Chris_Aldrich/Indieweb03.mp3
+      name: "An Indieweb Podcast \u2013 Episode 3: Syndication"
+      author: https://wordpress.org/?v=4.9.5
+      content: ""
+  content:
+    text: " \\ud83c\\udfa7 Listened to An Indieweb Podcast \u2013 Episode 3: Syndication
+      by https://wordpress.org/?v=4.9.5 From #IndiewebPodcast"
+- type: entry
+  published: "2018-04-30T03:01:18+00:00"
+  category:
+  - scrobble
+  - audio
+  - David Shanske
+  - https://wordpress.org/?v=4.9.5
+  listen-of:
+    h-cite:
+      url: https://david.shanske.com/feed/
+      photo: ""
+      audio:
+      - http://storage.weneca.com/Indieweb/Indieweb0.mp3
+      - http://archive.org/download/Indieweb_Podcast-by-David_Shanske_and_Chris_Aldrich/Indieweb0.mp3
+      name: An Indieweb Podcast Episode 0
+      author: https://wordpress.org/?v=4.9.5
+      content: ""
+  content:
+    text: ' \ud83c\udfa7 Listened to An Indieweb Podcast Episode 0 by https://wordpress.org/?v=4.9.5
+      From #IndiewebPodcast'
+...

@@ -1,0 +1,45 @@
+---
+- type: entry
+  published: "2018-06-09T03:04:06+00:00"
+  category:
+  - scrobble
+  - audio
+  - Troll Play
+  - ABC Radio Comedy
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radio/programs/troll-play/feed/9405254/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/radio/podcast/troll-play/tpl-2018-06-08-ep8.mp3
+      - http://archive.org/download/Troll_Play-Podcast-by-ABC_Radio_Comedy/Dog_haters_dads_on_Twitter_and_a_troll_from_two_thousand_years_ago.mp3
+      name: Dog haters, dads on Twitter and a troll from two thousand years ago
+      author: ABC Radio Comedy
+      content: "In the last episode of this series, Alice's Dad is on social media,
+        Cal checks out anti-dog forums and Sami tells us about Diogenes, an ancient
+        Greek who trolled the philosopher Plato.\n                    \n                "
+  content:
+    text: ' \ud83c\udfa7 Listened to Dog haters, dads on Twitter and a troll from
+      two thousand years ago by ABC Radio Comedy From Troll Play'
+- type: entry
+  published: "2018-06-09T03:40:29+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl on triplej
+  - ABC Science
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/sciencetriplej20180607.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Exploding_beer_bath_wrinkles_dog_poop.mp3
+      name: Exploding beer, bath wrinkles, dog poop
+      author: ABC Science
+      content: Why did salt make my beer explode? Why doesn't your entire body wrinkle
+        when you're in the bath? Why dont dogs poo and pee at the same time?
+  content:
+    text: ' \ud83c\udfa7 Listened to Exploding beer, bath wrinkles, dog poop by ABC
+      Science From Dr Karl on triplej'
+...

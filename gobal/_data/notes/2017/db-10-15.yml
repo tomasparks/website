@@ -1,0 +1,115 @@
+---
+- type: entry
+  published: "2017-10-15T01:30:58+00:00"
+  category:
+  - scrobble
+  - audio
+  - Sharks! CD32 Edition
+  - Supermatse
+  listen-of:
+    h-cite:
+      url: ""
+      photo: ""
+      audio:
+      - http://archive.org/download/Sharks! CD32 Edition-by-Supermatse/
+      name: Title
+  content:
+    text: ' \ud83c\udfa7 Listened to Title by Supermatse From Sharks! CD32 Edition'
+- type: entry
+  published: "2017-10-15T05:32:19+00:00"
+  category:
+  - scrobble
+  - audio
+  - Sharks! CD32 Edition
+  - Supermatse
+  listen-of:
+    h-cite:
+      url: ""
+      photo: ""
+      audio:
+      - http://archive.org/download/Sharks! CD32 Edition-by-Supermatse/
+      name: Bonus
+  content:
+    text: ' \ud83c\udfa7 Listened to Bonus by Supermatse From Sharks! CD32 Edition'
+- type: entry
+  published: "2017-10-15T02:02:16+00:00"
+  category:
+  - scrobble
+  - audio
+  - Sharks! CD32 Edition
+  - Supermatse
+  listen-of:
+    h-cite:
+      url: ""
+      photo: ""
+      audio:
+      - http://archive.org/download/Sharks! CD32 Edition-by-Supermatse/
+      name: Ingame
+  content:
+    text: ' \ud83c\udfa7 Listened to Ingame by Supermatse From Sharks! CD32 Edition'
+- type: entry
+  published: "2017-10-15T01:40:00+00:00"
+  category:
+  - scrobble
+  - audio
+  - Electronic Touch of Metal
+  - Cageman (Mikael Burman)
+  listen-of:
+    h-cite:
+      url: ""
+      photo: ""
+      audio:
+      - http://archive.org/download/Electronic Touch of Metal-by-Cageman (Mikael Burman)/
+      name: Nuclear Reflections
+  content:
+    text: ' \ud83c\udfa7 Listened to Nuclear Reflections by Cageman (Mikael Burman)
+      From Electronic Touch of Metal'
+- type: entry
+  published: "2017-10-15T07:21:01+00:00"
+  category:
+  - scrobble
+  - audio
+  - Unknown
+  - Salty
+  listen-of:
+    h-cite:
+      url: ""
+      photo: ""
+      audio:
+      - http://archive.org/download/Unknown-by-Salty/
+      name: 8 drunk gods
+  content:
+    text: ' \ud83c\udfa7 Listened to 8 drunk gods by Salty From Unknown'
+- type: entry
+  published: "2017-10-15T22:29:40+00:00"
+  category:
+  - scrobble
+  - audio
+  - Unknown
+  - Unknown
+  listen-of:
+    h-cite:
+      url: ""
+      photo: ""
+      audio:
+      - http://archive.org/download/Unknown-by-Unknown/
+      name: 32bc_fruit.mpg
+  content:
+    text: ' \ud83c\udfa7 Listened to 32bc_fruit.mpg by Unknown From Unknown'
+- type: entry
+  published: "2017-10-15T22:04:40+00:00"
+  category:
+  - scrobble
+  - audio
+  - Unknown
+  - Unknown
+  listen-of:
+    h-cite:
+      url: ""
+      photo: ""
+      audio:
+      - http://archive.org/download/Unknown-by-Unknown/
+      name: 32bc_electroc.mpg
+  content:
+    text: ' \ud83c\udfa7 Listened to 32bc_electroc.mpg by Unknown From Unknown'
+...

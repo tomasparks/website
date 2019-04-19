@@ -1,0 +1,103 @@
+---
+- type: entry
+  published: "2018-04-01T09:54:13+00:00"
+  category:
+  - scrobble
+  - audio
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
+  listen-of:
+    h-cite:
+      url: http://textfiles.libsyn.com/rss
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_24.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Indexing_Episode.mp3
+      name: The Indexing Episode
+      author: Jason Scott
+      content: "The Indexing Episode: The Most Critical Emotional Story, Our Digital
+        History, Any Label Will Do, The Works Before The Works, The Indexes We Build,
+        David W. Niven, Crap From The Past, Who Is This For, A Straighter Spine.\r\n\r\nThe
+        David W. Niven Collection: https://archive.org/details/davidwnivenjazz\r\n\r\nCrap
+        From The Past: https://archive.org/details/crapfromthepast\r\n\r\nThanks for
+        all your feedback and insight. I will continue to refine the subject matter!"
+  content:
+    text: ' \ud83c\udfa7 Listened to The Indexing Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
+- type: entry
+  published: "2018-04-01T10:51:08+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/338007974-techdirt-the-problems-with-sesta-and-why-section-230-matters.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/338007974-techdirt-the-problems-with-sesta-and-why-section-230-matters.mp3
+      name: The Problems With SESTA And Why Section 230 Matters
+      author: Techdirt
+      content: "Recently, we've been writing about SESTA, Congress' latest attack
+        on Section 230 of the CDA, and helping to organize a campaign against it.
+        But there's still a lot of misunderstanding and misinformation out there regarding
+        the bill, so this week we're joined by Daphne Keller from Stanford's Center
+        For Internet And Society and Emma Llans\xF3 from the Center for Democracy
+        and Technology to dig deeper into the problems with the bill and why protecting
+        Section 230 is vital."
+  content:
+    text: ' \ud83c\udfa7 Listened to The Problems With SESTA And Why Section 230 Matters
+      by Techdirt From Techdirt'
+- type: entry
+  published: "2018-04-01T12:57:22+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/337031141-techdirt-these-scammers-picked-the-wrong-guy.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/337031141-techdirt-these-scammers-picked-the-wrong-guy.mp3
+      name: These Scammers Picked The Wrong Guy
+      author: Techdirt
+      content: "If you're a fan of the Reply All podcast, then you're probably still
+        processing the story they told in a recent two-part episode about the insane
+        lengths that host Alex Goldman went to track down a phone scammer. If you
+        haven't heard the story, and you think you've seen all there is to see on
+        the \"messing with scammers\" front... well, you're in for a surprise. We
+        strongly suggest you listen to the Reply All story first \u2014 then listen
+        to our conversation with Alex about the whole saga on this week's episode
+        of the Techdirt Podcast.\r\n\r\nReply All Episode 102, \"Long Distance\" -
+        https://gimletmedia.com/episode/long-distance/"
+  content:
+    text: ' \ud83c\udfa7 Listened to These Scammers Picked The Wrong Guy by Techdirt
+      From Techdirt'
+- type: entry
+  published: "2018-04-01T10:05:50+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/339042152-techdirt-20-years-of-techdirt.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/339042152-techdirt-20-years-of-techdirt.mp3
+      name: 20 Years Of Techdirt
+      author: Techdirt
+      content: Can you believe it? Tomorrow is our 20th anniversary! Techdirt has
+        come a long way since Mike started it as a newsletter on August 23rd, 1997,
+        and this week's episode of the podcast is a celebration and exploration of
+        that history. Mike and Dennis are joined by Medium's Alex Feerst acting as
+        moderator/interviewer to discuss the past 20 years of Techdirt.
+  content:
+    text: ' \ud83c\udfa7 Listened to 20 Years Of Techdirt by Techdirt From Techdirt'
+...

@@ -1,0 +1,48 @@
+---
+- type: entry
+  published: "2018-04-12T11:54:37+00:00"
+  category:
+  - scrobble
+  - audio
+  - Adam Ruins Everything
+  - Adam Ruins Everything
+  listen-of:
+    h-cite:
+      url: http://maximumfun.org/feeds/are.xml
+      photo: ""
+      audio:
+      - http://media.adknit.com/a/f/90/adam-ruins-everything/2qgq5d.1-1.mp3
+      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_27_Hayley_Marie_Norman_Gets_Existential_After_her_TV_Death.mp3
+      name: 'Ep 27: Hayley Marie Norman Gets Existential After her TV Death'
+      author: Adam Ruins Everything
+      content: 'On season one of the Adam Ruins Everything TV show, Hayley Marie Norman
+        played Adam''s foil and budding love interest until she faced her untimely
+        TV death in the season finale. But on this week''s podcast, Hayley is back! '
+  content:
+    text: ' \ud83c\udfa7 Listened to Ep 27: Hayley Marie Norman Gets Existential After
+      her TV Death by Adam Ruins Everything From Adam Ruins Everything'
+- type: entry
+  published: "2018-04-12T12:56:23+00:00"
+  category:
+  - scrobble
+  - audio
+  - Adam Ruins Everything
+  - Adam Ruins Everything
+  listen-of:
+    h-cite:
+      url: http://maximumfun.org/feeds/are.xml
+      photo: ""
+      audio:
+      - http://media.adknit.com/a/f/90/adam-ruins-everything/8372ul.1-1.mp3
+      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/EP_26_Dr_Josh_Sharfstein_on_the_Dangers_of_Supplements_and_Why_Health_Regulation_is_Important.mp3
+      name: 'EP 26: Dr. Josh Sharfstein on the Dangers of Supplements and Why Health
+        Regulation is Important'
+      author: Adam Ruins Everything
+      content: Dr. Josh Sharfstein has been working for decades to keep Americans
+        safe - he's the guy who took Four Loko off the market and ensured transparency
+        at the FDA. He also appeared on Adam Ruins Shopping Malls.
+  content:
+    text: ' \ud83c\udfa7 Listened to EP 26: Dr. Josh Sharfstein on the Dangers of
+      Supplements and Why Health Regulation is Important by Adam Ruins Everything
+      From Adam Ruins Everything'
+...

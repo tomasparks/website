@@ -1,0 +1,48 @@
+---
+- type: entry
+  published: "2019-04-01T14:59:40+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_19.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_19.mp3
+      name: Kingmaker Session 19
+      author: Hal
+      content: "Episode 19 \u2013 in which Kaylen finally confronts Hagrulka, in the
+        battle of the Monster Kingdom vs Stagthorn!"
+  content:
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 19 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+- type: entry
+  published: "2019-04-01T15:17:39+00:00"
+  category:
+  - scrobble
+  - audio
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
+  listen-of:
+    h-cite:
+      url: http://textfiles.libsyn.com/rss
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_60.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Podcasting_Episode.mp3
+      name: The Podcasting Episode
+      author: Jason Scott
+      content: 'The Podcasting Episode: What Podcasting Was, What Podcasting Was Again,
+        The Downfall, The Rebirth, The Future of Podcasting, Money Matters, Why Do
+        I Podcast. Just felt like putting down my thoughts and perspective on Podcasting,
+        in advance of the Great Podcast Boom/Bust of 2019-2020. I podcast for a reason,
+        and I re-iterate it in this episode: Because when looking to pay off debts,
+        I wanted to also produce something beyond selling a shirt or doing a fundraiser
+        with nothing else to come of it besides stasis. At 60 episodes, this is quite
+        a body of work, and you''ve been inspirational in helping me create it.'
+  content:
+    text: ' \ud83c\udfa7 Listened to The Podcasting Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
+...
