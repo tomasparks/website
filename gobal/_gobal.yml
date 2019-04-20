@@ -1,8 +1,12 @@
 gobal:
   rooturl: tomasparks.name
   fonts:
-    openwebicons: /assets/css/fonts/openwebicons/
-    awesome: /assets/css/fonts/fontawesome/
+    openwebicons: /assets/css/fonts/openwebicons/css/openwebicons.min.css
+    awesome: /assets/css/fonts/fontawesome/css/all.min.css
+  video:
+    flowplayer:
+        js: /assets/js/flowplayer/flowplayer.min.js
+        css: /assets/js/flowplayer/skin/skin.css
     
 responsive_image:
   template: _includes/srcset-resized-fallback.html
