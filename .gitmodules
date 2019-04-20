@@ -4,3 +4,6 @@
 [submodule "miniatures"]
 	path = miniatures
 	url = git@github.com:tomasparks/miniatures-src.git
+[submodule "gallery-src"]
+	path = gallery-src
+	url = git@github.com:tomasparks/gallery-src.git
