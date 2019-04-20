@@ -1,4 +1,50 @@
 gobal:
+  rooturl: tomasparks.name
   fonts:
-    openwebicons:
-    awzome:
+    openwebicons: /assets/css/fonts/openwebicons/
+    awesome: /assets/css/fonts/fontawesome/
+    
+responsive_image:
+  template: _includes/srcset-resized-fallback.html
+    # [Optional, Default: 85]
+  # Quality to use when resizing images.
+  default_quality: 90
+
+  # [Optional, Default: []]
+  # An array of resize configuration objects. Each object must contain at least
+  # a `width` value.
+  sizes:
+   # - width: 160  # [Required] How wide the resized image will be.
+  #    quality: 80 # [Optional] Overrides default_quality for this size.
+    - width:  1920
+    - width: 1600
+    - width: 1366
+    - width: 1024
+    - width: 768
+    - width: 640
+  output_path_format: assets/images/resized/%{width}/%{basename}
+  save_to_source: true
+  extra_images:
+     - assets/images/*.*
+     
+     
+## SEO.YML
+# Jekyll SEO tag
+# https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
+image: tomasparks.name/about-me/photo.png
+description:
+author: Tom Sparks
+bio: I am a Alternative Technology Researcher, with a focus on Digital Communication Networks.
+categories:
+  - fidonet
+  - fsxnet
+  - indieweb
+  - archivist
+  - kopimi
+  - aspie
+social:
+  name: Tom Sparks
+  links:
+    - https://github.com/tomasparks
+    - https://www.facebook.com/tom.sparks.106
+## EOF SEO.YML
