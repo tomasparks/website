@@ -1,12 +1,13 @@
 gobal:
   rooturl: tomasparks.name
   fonts:
-    openwebicons: /assets/css/fonts/openwebicons/css/openwebicons.min.css
-    awesome: /assets/css/fonts/fontawesome/css/all.min.css
+    openwebicons: 
+    awesome: '<script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>'
   video:
-    flowplayer:
-        js: /assets/js/flowplayer/flowplayer.min.js
-        css: /assets/js/flowplayer/skin/skin.css
+    flowplayer: '<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/hls.js/0.10.1/hls.light.min.js"></script><script src="https://releases.flowplayer.org/7.2.7/flowplayer.min.js"></script>'
+  js:
+    webtorrent: '<script src="https://cdn.jsdelivr.net/webtorrent/latest/webtorrent.min.js"></script>'
+    moment: '<script src="http://momentjs.com/downloads/moment.min.js"></script>'
     
 responsive_image:
   template: _includes/srcset-resized-fallback.html
