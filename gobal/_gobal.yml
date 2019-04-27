@@ -6,10 +6,8 @@ gobal:
     retweet: 'fas fa-retweet'
     thumbtack: 'fas fa-thumbtack'
   fonts:
-    openwebicons: 
-        css: '<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/openwebicons/1.6.0/css/openwebicons.min.cs" ></link>'
-    awesome:
-       js: '<script defer src="https://use.fontawesome.com/releases/v5.8.1/js/all.js" integrity="sha384-g5uSoOSBd7KkhAMlnQILrecXvzst9TdC09/VM+pjDTCM+1il8RHz5fKANTFFb+gQ" crossorigin="anonymous"></script>'
+    openwebicons:  '<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/openwebicons/1.6.0/css/openwebicons.min.cs" ></link>'
+    awesome: '<script defer src="https://use.fontawesome.com/releases/v5.8.1/js/all.js" integrity="sha384-g5uSoOSBd7KkhAMlnQILrecXvzst9TdC09/VM+pjDTCM+1il8RHz5fKANTFFb+gQ" crossorigin="anonymous"></script>'
   video:
     flowplayer: '<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/hls.js/0.10.1/hls.light.min.js"></script><script src="https://releases.flowplayer.org/7.2.7/flowplayer.min.js"></script>'
   js:
