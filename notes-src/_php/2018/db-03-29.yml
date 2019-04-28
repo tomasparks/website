@@ -1,32 +1,5 @@
 ---
 - type: entry
-  published: "2018-03-29T09:03:30+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/347360983-techdirt-donald-trump-howard-stern-and-copyright.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/347360983-techdirt-donald-trump-howard-stern-and-copyright.mp3
-      name: Donald Trump, Howard Stern... And Copyright
-      author: Techdirt
-      content: This episode was supposed to come two weeks ago when the news was a
-        little fresher, so by now you almost certainly know all about the copyright
-        claims on Donald Trump's appearances on the Howard Stern show. Though delayed
-        by an outage at our cloud recording provider, the episode is still an interesting
-        listen, with frequent Techdirt contributor Cathy Gellis joining the podcast
-        to discuss the deeper question of whether copyright truly even exists on the
-        interviews in the first place. Sorry for the delay, and we hope you enjoy
-        it!
-  content:
-    text: ' \ud83c\udfa7 Listened to Donald Trump, Howard Stern... And Copyright by
-      Techdirt From Techdirt'
-- type: entry
   published: "2018-03-29T09:49:27+00:00"
   category:
   - scrobble
@@ -78,6 +51,33 @@
   content:
     text: ' \ud83c\udfa7 Listened to Who Still Needs A Personal Computer? by Techdirt
       From Techdirt'
+- type: entry
+  published: "2018-03-29T09:03:30+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/347360983-techdirt-donald-trump-howard-stern-and-copyright.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/347360983-techdirt-donald-trump-howard-stern-and-copyright.mp3
+      name: Donald Trump, Howard Stern... And Copyright
+      author: Techdirt
+      content: This episode was supposed to come two weeks ago when the news was a
+        little fresher, so by now you almost certainly know all about the copyright
+        claims on Donald Trump's appearances on the Howard Stern show. Though delayed
+        by an outage at our cloud recording provider, the episode is still an interesting
+        listen, with frequent Techdirt contributor Cathy Gellis joining the podcast
+        to discuss the deeper question of whether copyright truly even exists on the
+        interviews in the first place. Sorry for the delay, and we hope you enjoy
+        it!
+  content:
+    text: ' \ud83c\udfa7 Listened to Donald Trump, Howard Stern... And Copyright by
+      Techdirt From Techdirt'
 - type: entry
   published: "2018-03-29T02:24:24+00:00"
   category:

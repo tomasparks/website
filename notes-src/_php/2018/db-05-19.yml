@@ -61,27 +61,6 @@
     text: ' \ud83c\udfa7 Listened to Episode 20: A Public Launch of Aperture? by @aaronpk
       From Percolator'
 - type: entry
-  published: "2018-05-19T05:07:00+00:00"
-  category:
-  - scrobble
-  - audio
-  - Dr Karl on triplej
-  - ABC Science
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20150723.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Runny_noses_after_eating_Why_is_urine_yellow_Could_space_be_a_sphere.mp3
-      name: Runny noses after eating? Why is urine yellow? Could space be a sphere?
-      author: ABC Science
-      content: Why does my partner get a runny nose, after eating a hot dinner? Why
-        is urine actually yellow? Could space possibly be a sphere?
-  content:
-    text: ' \ud83c\udfa7 Listened to Runny noses after eating? Why is urine yellow?
-      Could space be a sphere? by ABC Science From Dr Karl on triplej'
-- type: entry
   published: "2018-05-19T19:52:02+00:00"
   category:
   - scrobble
@@ -103,6 +82,48 @@
   content:
     text: ' \ud83c\udfa7 Listened to Sex, multiple orgasms and curing a morning glory
       by ABC Science From Dr Karl on triplej'
+- type: entry
+  published: "2018-05-19T04:30:58+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl on triplej
+  - ABC Science
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20150730.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Big_dinosaurs_sun_flames_four_seasons_in_one_day.mp3
+      name: Big dinosaurs, sun flames, four seasons in one day
+      author: ABC Science
+      content: How does addiction work? Why were dinosaurs so big? Does stress shorten
+        your life?
+  content:
+    text: ' \ud83c\udfa7 Listened to Big dinosaurs, sun flames, four seasons in one
+      day by ABC Science From Dr Karl on triplej'
+- type: entry
+  published: "2018-05-19T05:07:00+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl on triplej
+  - ABC Science
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20150723.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Runny_noses_after_eating_Why_is_urine_yellow_Could_space_be_a_sphere.mp3
+      name: Runny noses after eating? Why is urine yellow? Could space be a sphere?
+      author: ABC Science
+      content: Why does my partner get a runny nose, after eating a hot dinner? Why
+        is urine actually yellow? Could space possibly be a sphere?
+  content:
+    text: ' \ud83c\udfa7 Listened to Runny noses after eating? Why is urine yellow?
+      Could space be a sphere? by ABC Science From Dr Karl on triplej'
 - type: entry
   published: "2018-05-19T17:59:16+00:00"
   category:
@@ -126,27 +147,6 @@
     text: ' \ud83c\udfa7 Listened to Peeing on lemon trees, hereditary birth marks
       and yellow sunglasses by ABC Science From Dr Karl on triplej'
 - type: entry
-  published: "2018-05-19T04:30:58+00:00"
-  category:
-  - scrobble
-  - audio
-  - Dr Karl on triplej
-  - ABC Science
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20150730.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Big_dinosaurs_sun_flames_four_seasons_in_one_day.mp3
-      name: Big dinosaurs, sun flames, four seasons in one day
-      author: ABC Science
-      content: How does addiction work? Why were dinosaurs so big? Does stress shorten
-        your life?
-  content:
-    text: ' \ud83c\udfa7 Listened to Big dinosaurs, sun flames, four seasons in one
-      day by ABC Science From Dr Karl on triplej'
-- type: entry
   published: "2018-05-19T17:23:07+00:00"
   category:
   - scrobble
@@ -169,7 +169,7 @@
     text: ' \ud83c\udfa7 Listened to Rocking during sleep, morning sickness and coloured
       cat fur by ABC Science From Dr Karl on triplej'
 - type: entry
-  published: "2018-05-19T19:13:39+00:00"
+  published: "2018-05-19T18:36:12+00:00"
   category:
   - scrobble
   - audio
@@ -180,16 +180,15 @@
       url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20120223.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Exploding_crockery_furry_male_allergies_and_female_ejaculation_test_results.mp3
-      name: Exploding crockery, furry male allergies and female ejaculation test results
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20120301.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Swallowing_chewing_gum_taste_buds_and_drinking_milk.mp3
+      name: Swallowing chewing gum, taste buds and drinking milk
       author: ABC Science
-      content: 'Why does crockery seem to randomly explode? Plus: Is it possible to
-        be allergic to only male furry animals?; and a caller reports the results
-        of his and his partner''s female ejaculation tests.'
+      content: 'What happens if you swallow chewing gum? Plus: can a woman''s tastebuds
+        change during and after pregnancy?; and can drinking milk cause osteoporosis?'
   content:
-    text: ' \ud83c\udfa7 Listened to Exploding crockery, furry male allergies and
-      female ejaculation test results by ABC Science From Dr Karl on triplej'
+    text: ' \ud83c\udfa7 Listened to Swallowing chewing gum, taste buds and drinking
+      milk by ABC Science From Dr Karl on triplej'
 - type: entry
   published: "2018-05-19T11:53:00+00:00"
   category:
@@ -235,7 +234,7 @@
     text: ' \ud83c\udfa7 Listened to Earbud headphones, jet-lag and funny trivial
       things by ABC Science From Dr Karl on triplej'
 - type: entry
-  published: "2018-05-19T18:36:12+00:00"
+  published: "2018-05-19T19:13:39+00:00"
   category:
   - scrobble
   - audio
@@ -246,15 +245,16 @@
       url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20120301.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Swallowing_chewing_gum_taste_buds_and_drinking_milk.mp3
-      name: Swallowing chewing gum, taste buds and drinking milk
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20120223.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Exploding_crockery_furry_male_allergies_and_female_ejaculation_test_results.mp3
+      name: Exploding crockery, furry male allergies and female ejaculation test results
       author: ABC Science
-      content: 'What happens if you swallow chewing gum? Plus: can a woman''s tastebuds
-        change during and after pregnancy?; and can drinking milk cause osteoporosis?'
+      content: 'Why does crockery seem to randomly explode? Plus: Is it possible to
+        be allergic to only male furry animals?; and a caller reports the results
+        of his and his partner''s female ejaculation tests.'
   content:
-    text: ' \ud83c\udfa7 Listened to Swallowing chewing gum, taste buds and drinking
-      milk by ABC Science From Dr Karl on triplej'
+    text: ' \ud83c\udfa7 Listened to Exploding crockery, furry male allergies and
+      female ejaculation test results by ABC Science From Dr Karl on triplej'
 - type: entry
   published: "2018-05-19T16:32:32+00:00"
   category:

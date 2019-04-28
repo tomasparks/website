@@ -24,32 +24,6 @@
   content:
     text: ' \ud83c\udfa7 Listened to The Indexing Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
 - type: entry
-  published: "2018-04-01T10:51:08+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/338007974-techdirt-the-problems-with-sesta-and-why-section-230-matters.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/338007974-techdirt-the-problems-with-sesta-and-why-section-230-matters.mp3
-      name: The Problems With SESTA And Why Section 230 Matters
-      author: Techdirt
-      content: "Recently, we've been writing about SESTA, Congress' latest attack
-        on Section 230 of the CDA, and helping to organize a campaign against it.
-        But there's still a lot of misunderstanding and misinformation out there regarding
-        the bill, so this week we're joined by Daphne Keller from Stanford's Center
-        For Internet And Society and Emma Llans\xF3 from the Center for Democracy
-        and Technology to dig deeper into the problems with the bill and why protecting
-        Section 230 is vital."
-  content:
-    text: ' \ud83c\udfa7 Listened to The Problems With SESTA And Why Section 230 Matters
-      by Techdirt From Techdirt'
-- type: entry
   published: "2018-04-01T12:57:22+00:00"
   category:
   - scrobble
@@ -77,6 +51,32 @@
   content:
     text: ' \ud83c\udfa7 Listened to These Scammers Picked The Wrong Guy by Techdirt
       From Techdirt'
+- type: entry
+  published: "2018-04-01T10:51:08+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/338007974-techdirt-the-problems-with-sesta-and-why-section-230-matters.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/338007974-techdirt-the-problems-with-sesta-and-why-section-230-matters.mp3
+      name: The Problems With SESTA And Why Section 230 Matters
+      author: Techdirt
+      content: "Recently, we've been writing about SESTA, Congress' latest attack
+        on Section 230 of the CDA, and helping to organize a campaign against it.
+        But there's still a lot of misunderstanding and misinformation out there regarding
+        the bill, so this week we're joined by Daphne Keller from Stanford's Center
+        For Internet And Society and Emma Llans\xF3 from the Center for Democracy
+        and Technology to dig deeper into the problems with the bill and why protecting
+        Section 230 is vital."
+  content:
+    text: ' \ud83c\udfa7 Listened to The Problems With SESTA And Why Section 230 Matters
+      by Techdirt From Techdirt'
 - type: entry
   published: "2018-04-01T10:05:50+00:00"
   category:

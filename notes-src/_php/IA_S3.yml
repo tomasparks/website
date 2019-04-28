@@ -80,7 +80,25 @@ RPGMP3_Actual_Play_Podcast-by-Hal:
   kingmaker_session_22.mp3: true
   kingmaker_session_38.mp3: true
   kingmaker_session_39.mp3: true
-  kingmaker_session_40.mp3: false
+  kingmaker_session_40.mp3: true
+  kingmaker_session_47.mp3: false
+  kingmaker_session_50.mp3: false
+  kingmaker_session_55.mp3: false
+  kingmaker_session_58.mp3: false
+  kingmaker_session_46.mp3: false
+  kingmaker_session_43.mp3: false
+  kingmaker_session_52.mp3: false
+  kingmaker_session_41.mp3: false
+  kingmaker_session_42.mp3: false
+  kingmaker_session_56.mp3: false
+  kingmaker_session_45.mp3: false
+  kingmaker_session_49.mp3: false
+  kingmaker_session_51.mp3: false
+  kingmaker_session_53.mp3: false
+  kingmaker_session_57.mp3: false
+  kingmaker_session_44.mp3: false
+  kingmaker_session_54.mp3: false
+  kingmaker_session_48.mp3: false
 Indieweb_Podcast-by-David_Shanske_and_Chris_Aldrich:
   Indieweb9.mp3: true
   Indieweb10.mp3: true
@@ -724,6 +742,8 @@ Techdirt-Podcast-by-Techdirt:
   321787436-techdirt-the-crypto-wars-may-never-end.mp3: true
   525770961-techdirt-government-activism-silicon-valley.mp3: true
   339042152-techdirt-20-years-of-techdirt.mp3: true
+  606995760-techdirt-a-free-speech-chat-with-fire.mp3: false
+  610262673-techdirt-the-past-future-of-section-230.mp3: false
 Not_Another_DD_Podcast-by-HeadGum:
   mp3: true
 clevercast-by-Jonathan_LaCour:
@@ -1144,6 +1164,7 @@ Internet_History_Podcast-by-Brian_McCullough:
   172_How_Politics_Came_to_the_Web_With_Karl_Mattson.mp3: true
   173_Netscapes_Rosanne_Siino.mp3: true
   174_Bringing_the_NYTimes_and_MSNBC_Online_With_Lisa_Napoli.mp3: true
+  194_The_History_of_the_ISP_Industry_With_Sonics_Dane_Jasper.mp3: false
 TED_Radio_Hour-Podcast-by-NPR:
   20180601_ted_tedpod.mp3: true
 Hamish_Andy-Podcast-by-Hamish_Andy:

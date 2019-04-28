@@ -1,28 +1,5 @@
 ---
 - type: entry
-  published: "2018-04-21T18:06:01+00:00"
-  category:
-  - scrobble
-  - audio
-  - Adam Ruins Everything
-  - Adam Ruins Everything
-  listen-of:
-    h-cite:
-      url: http://maximumfun.org/feeds/are.xml
-      photo: ""
-      audio:
-      - http://media.adknit.com/a/f/90/adam-ruins-everything/4569ol.1-1.mp3
-      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_18_Game_Designer_Jonathan_Blow_Unpacks_The_Witness.mp3
-      name: 'Ep 18: Game Designer Jonathan Blow Unpacks ''The Witness'''
-      author: Adam Ruins Everything
-      content: On the Adam Ruins Everything podcast, Adam typically brings experts
-        who appeared on the TV show to further expand on the arguments they make on
-        the show. But during the off-season of the TV show, we thought we'd try something
-        new.
-  content:
-    text: ' \ud83c\udfa7 Listened to Ep 18: Game Designer Jonathan Blow Unpacks ''The
-      Witness'' by Adam Ruins Everything From Adam Ruins Everything'
-- type: entry
   published: "2018-04-21T13:50:07+00:00"
   category:
   - scrobble
@@ -45,4 +22,27 @@
     text: ' \ud83c\udfa7 Listened to Ep 19:  Rachel Bloom On Why Awards Shows and
       Red Carpets Aren''t As Glamorous As You Think by Adam Ruins Everything From
       Adam Ruins Everything'
+- type: entry
+  published: "2018-04-21T18:06:01+00:00"
+  category:
+  - scrobble
+  - audio
+  - Adam Ruins Everything
+  - Adam Ruins Everything
+  listen-of:
+    h-cite:
+      url: http://maximumfun.org/feeds/are.xml
+      photo: ""
+      audio:
+      - http://media.adknit.com/a/f/90/adam-ruins-everything/4569ol.1-1.mp3
+      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_18_Game_Designer_Jonathan_Blow_Unpacks_The_Witness.mp3
+      name: 'Ep 18: Game Designer Jonathan Blow Unpacks ''The Witness'''
+      author: Adam Ruins Everything
+      content: On the Adam Ruins Everything podcast, Adam typically brings experts
+        who appeared on the TV show to further expand on the arguments they make on
+        the show. But during the off-season of the TV show, we thought we'd try something
+        new.
+  content:
+    text: ' \ud83c\udfa7 Listened to Ep 18: Game Designer Jonathan Blow Unpacks ''The
+      Witness'' by Adam Ruins Everything From Adam Ruins Everything'
 ...

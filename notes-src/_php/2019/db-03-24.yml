@@ -1,59 +1,5 @@
 ---
 - type: entry
-  published: "2019-03-24T08:09:26+00:00"
-  category:
-  - scrobble
-  - audio
-  - RPGMP3 Actual Play Podcast
-  - Hal
-  listen-of:
-    h-cite:
-      url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
-      photo: ""
-      audio:
-      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_11.mp3
-      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_11.mp3
-      name: Kingmaker Session 11
-      author: Hal
-      content: "Episode 11 \u2013 in which Kaylen is presented with an unexpected
-        \u2013 and confusing \u2013 opportunity at love, and the Lonely Barrow is
-        raided."
-  content:
-    text: ' \ud83c\udfa7 Listened to Kingmaker Session 11 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
-- type: entry
-  published: "2019-03-24T06:34:09+00:00"
-  category:
-  - scrobble
-  - audio
-  - IRL - Online Life Is Real Life
-  - Mozilla
-  listen-of:
-    h-cite:
-      url: https://feeds.mozilla-podcasts.org/irl
-      photo: ""
-      audio:
-      - https://tracking.feedpress.it/link/17512/11123562/27508dd7.mp3
-      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/27508dd7.mp3
-      name: What if women built the internet?
-      author: Mozilla
-      content: "All the things we love on the internet \u2014 from websites that give
-        us information to services that connect us \u2014 are made stronger when their
-        creators come with different points of view.  With this in mind, we asked
-        ourselves and our guests: \"What would the internet look like if it was built
-        by mostly women?\"\n\nWitchsy founders Kate Dwyer and Penelope Gazin start
-        us off with a story about the stunt they had to pull to get their site launched
-        \u2014 and counter the sexist attitudes they fought against along the way.
-        Brenda Darden Wilkerson recalls her life in tech in the 80s and 90s and shares
-        her experience leading AnitaB.org, an organization striving to get more women
-        hired in tech. Coraline Ada Ehmke created the Contributor Covenant, a voluntary
-        code of conduct being increasingly adopted by the open source community. She
-        explains why she felt it necessary, and how it's been received; and Mighty
-        Networks CEO Gina Bianchini rolls her eyes at being called a \"lady CEO,\"
-        and tells us why diversifying the boardroom is great for business and innovation.\n"
-  content:
-    text: ' \ud83c\udfa7 Listened to What if women built the internet? by Mozilla
-      From IRL - Online Life Is Real Life'
-- type: entry
   published: "2019-03-24T03:57:54+00:00"
   category:
   - scrobble
@@ -85,32 +31,6 @@
   content:
     text: ' \ud83c\udfa7 Listened to Decentralize It by Mozilla From IRL - Online
       Life Is Real Life'
-- type: entry
-  published: "2019-03-24T03:04:25+00:00"
-  category:
-  - scrobble
-  - audio
-  - IRL - Online Life Is Real Life
-  - Mozilla
-  listen-of:
-    h-cite:
-      url: https://feeds.mozilla-podcasts.org/irl
-      photo: ""
-      audio:
-      - https://tracking.feedpress.it/link/17512/11000823/2f129d69.mp3
-      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/2f129d69.mp3
-      name: The Human Costs of Content Moderation
-      author: Mozilla
-      content: "What, if anything, should be banned from online media? And who should
-        review violent and explicit content, in order to decide if it\u2019s okay
-        for the public? Thousands of people around the world are working long, difficult
-        hours as content moderators in support of sites like Facebook, Twitter, and
-        YouTube. They are guided by complex and shifting guidelines, and their work
-        can sometimes lead to psychological trauma. But the practice of content moderation
-        also raises questions about censorship and free expression online.\n"
-  content:
-    text: ' \ud83c\udfa7 Listened to The Human Costs of Content Moderation by Mozilla
-      From IRL - Online Life Is Real Life'
 - type: entry
   published: "2019-03-24T03:32:37+00:00"
   category:
@@ -145,6 +65,39 @@
     text: ' \ud83c\udfa7 Listened to The Surveillance Economy by Mozilla From IRL
       - Online Life Is Real Life'
 - type: entry
+  published: "2019-03-24T06:34:09+00:00"
+  category:
+  - scrobble
+  - audio
+  - IRL - Online Life Is Real Life
+  - Mozilla
+  listen-of:
+    h-cite:
+      url: https://feeds.mozilla-podcasts.org/irl
+      photo: ""
+      audio:
+      - https://tracking.feedpress.it/link/17512/11123562/27508dd7.mp3
+      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/27508dd7.mp3
+      name: What if women built the internet?
+      author: Mozilla
+      content: "All the things we love on the internet \u2014 from websites that give
+        us information to services that connect us \u2014 are made stronger when their
+        creators come with different points of view.  With this in mind, we asked
+        ourselves and our guests: \"What would the internet look like if it was built
+        by mostly women?\"\n\nWitchsy founders Kate Dwyer and Penelope Gazin start
+        us off with a story about the stunt they had to pull to get their site launched
+        \u2014 and counter the sexist attitudes they fought against along the way.
+        Brenda Darden Wilkerson recalls her life in tech in the 80s and 90s and shares
+        her experience leading AnitaB.org, an organization striving to get more women
+        hired in tech. Coraline Ada Ehmke created the Contributor Covenant, a voluntary
+        code of conduct being increasingly adopted by the open source community. She
+        explains why she felt it necessary, and how it's been received; and Mighty
+        Networks CEO Gina Bianchini rolls her eyes at being called a \"lady CEO,\"
+        and tells us why diversifying the boardroom is great for business and innovation.\n"
+  content:
+    text: ' \ud83c\udfa7 Listened to What if women built the internet? by Mozilla
+      From IRL - Online Life Is Real Life'
+- type: entry
   published: "2019-03-24T02:36:08+00:00"
   category:
   - scrobble
@@ -177,6 +130,32 @@
     text: ' \ud83c\udfa7 Listened to TL;DR by Mozilla From IRL - Online Life Is Real
       Life'
 - type: entry
+  published: "2019-03-24T03:04:25+00:00"
+  category:
+  - scrobble
+  - audio
+  - IRL - Online Life Is Real Life
+  - Mozilla
+  listen-of:
+    h-cite:
+      url: https://feeds.mozilla-podcasts.org/irl
+      photo: ""
+      audio:
+      - https://tracking.feedpress.it/link/17512/11000823/2f129d69.mp3
+      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/2f129d69.mp3
+      name: The Human Costs of Content Moderation
+      author: Mozilla
+      content: "What, if anything, should be banned from online media? And who should
+        review violent and explicit content, in order to decide if it\u2019s okay
+        for the public? Thousands of people around the world are working long, difficult
+        hours as content moderators in support of sites like Facebook, Twitter, and
+        YouTube. They are guided by complex and shifting guidelines, and their work
+        can sometimes lead to psychological trauma. But the practice of content moderation
+        also raises questions about censorship and free expression online.\n"
+  content:
+    text: ' \ud83c\udfa7 Listened to The Human Costs of Content Moderation by Mozilla
+      From IRL - Online Life Is Real Life'
+- type: entry
   published: "2019-03-24T06:08:41+00:00"
   category:
   - scrobble
@@ -200,4 +179,25 @@
   content:
     text: ' \ud83c\udfa7 Listened to 192. Hulu''s Founding and Digital Design With
       Dan Maccarone by Brian McCullough From Internet History Podcast'
+- type: entry
+  published: "2019-03-24T08:09:26+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_11.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_11.mp3
+      name: Kingmaker Session 11
+      author: Hal
+      content: "Episode 11 \u2013 in which Kaylen is presented with an unexpected
+        \u2013 and confusing \u2013 opportunity at love, and the Lonely Barrow is
+        raided."
+  content:
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 11 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
 ...

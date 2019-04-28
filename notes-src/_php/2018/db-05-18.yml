@@ -27,7 +27,7 @@
   content:
     text: ' \ud83c\udfa7 Listened to The Firing Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
 - type: entry
-  published: "2018-05-18T07:18:31+00:00"
+  published: "2018-05-18T06:01:17+00:00"
   category:
   - scrobble
   - audio
@@ -38,15 +38,14 @@
       url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20150806.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Emotional_chords_hungover_libido_forced_smiles.mp3
-      name: Emotional chords, hungover libido, forced smiles
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20150820.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Deep_sea_climate_change_enviro_bags_overfishing.mp3
+      name: Deep sea climate change, enviro bags, over-fishing
       author: ABC Science
-      content: Does forcing a smile really make you happier? Why do certain notes
-        or chords have emotional responses? Is urine good for helping lemon trees
-        grow?
+      content: It's a Marine Science Special! Professor Emma Johnson joins Dr Karl
+        and Zan Rowe to help answer your ocean-based science questions.
   content:
-    text: ' \ud83c\udfa7 Listened to Emotional chords, hungover libido, forced smiles
+    text: ' \ud83c\udfa7 Listened to Deep sea climate change, enviro bags, over-fishing
       by ABC Science From Dr Karl on triplej'
 - type: entry
   published: "2018-05-18T10:14:39+00:00"
@@ -70,6 +69,28 @@
     text: ' \ud83c\udfa7 Listened to Can maths predict the future? by ABC Science
       From Dr Karl on triplej'
 - type: entry
+  published: "2018-05-18T07:18:31+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl on triplej
+  - ABC Science
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20150806.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Emotional_chords_hungover_libido_forced_smiles.mp3
+      name: Emotional chords, hungover libido, forced smiles
+      author: ABC Science
+      content: Does forcing a smile really make you happier? Why do certain notes
+        or chords have emotional responses? Is urine good for helping lemon trees
+        grow?
+  content:
+    text: ' \ud83c\udfa7 Listened to Emotional chords, hungover libido, forced smiles
+      by ABC Science From Dr Karl on triplej'
+- type: entry
   published: "2018-05-18T06:37:06+00:00"
   category:
   - scrobble
@@ -90,25 +111,4 @@
   content:
     text: ' \ud83c\udfa7 Listened to 3D printed organs, muscle memory, that op shop
       smell by ABC Science From Dr Karl on triplej'
-- type: entry
-  published: "2018-05-18T06:01:17+00:00"
-  category:
-  - scrobble
-  - audio
-  - Dr Karl on triplej
-  - ABC Science
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20150820.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Deep_sea_climate_change_enviro_bags_overfishing.mp3
-      name: Deep sea climate change, enviro bags, over-fishing
-      author: ABC Science
-      content: It's a Marine Science Special! Professor Emma Johnson joins Dr Karl
-        and Zan Rowe to help answer your ocean-based science questions.
-  content:
-    text: ' \ud83c\udfa7 Listened to Deep sea climate change, enviro bags, over-fishing
-      by ABC Science From Dr Karl on triplej'
 ...

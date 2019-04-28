@@ -2,6 +2,7 @@
 <?php
 /*
 youtube-dl -f 'best' --download-archive archive.txt --playlist-end 100 -u 'tomasparks.ts@gmail.com' -p 'blU8l6PLW!#X' -o '%(title)s.%(ext)s'  https://www.youtube.com/feed/history
+youtube-dl -f 'best' --download-archive archive.txt --playlist-end 10 -o '%(title)s.%(ext)s' https://www.youtube.com/user/rpgmp3/videos
 
 */
 /*
