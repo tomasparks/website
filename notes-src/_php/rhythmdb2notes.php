@@ -17,11 +17,11 @@ if (file_exists('./tomasparks_lb-2018-02-09.json')) {
 //date_default_timezone_set("Australia/Brisbane")."\n";
 
 echo "loading Settings.....\n";
-$GLOBALS["settings"] = yaml_parse_file("/home/tom/github/website/github-src/notes-src/_php/rhythmdb_settings.yml");
+$GLOBALS["settings"] = yaml_parse_file("/home/tom/github/website/sources/notes-src/_php/rhythmdb_settings.yml");
 echo "loading rewrite_rules.....\n";
-$GLOBALS["rewrite_rules"] = yaml_parse_file("/home/tom/github/website/github-src/notes-src/_php/rewrite_rules.yml");
+$GLOBALS["rewrite_rules"] = yaml_parse_file("/home/tom/github/website/sources/notes-src/_php/rewrite_rules.yml");
 echo "loading IA_S3s.....\n";
-$GLOBALS["IA_S3"] = yaml_parse_file("/home/tom/github/website/github-src/notes-src/_php/IA_S3.yml");
+$GLOBALS["IA_S3"] = yaml_parse_file("/home/tom/github/website/sources/notes-src/_php/IA_S3.yml");
 echo "Completed loading config files\n";
 
 
@@ -77,7 +77,7 @@ $ret  = str_replace(" ","_",$ret);
 			//$ret =$tmp;
 		}
 	} 
-		yaml_emit_file("/home/tom/github/website/github-src/notes-src/_php/rewrite_rules.yml",$GLOBALS["rewrite_rules"]);	
+		yaml_emit_file("/home/tom/github/website/sources/notes-src/_php/rewrite_rules.yml",$GLOBALS["rewrite_rules"]);	
 return $ret;
 
 
@@ -187,7 +187,7 @@ function ias3($src,$dest,$bucket,$filename) {
 	//// echo yaml_emit($GLOBALS)."\n";
 		//// echo "\nreturning with retcode: ".$retcode."\n";
 //sleep(1);
-		yaml_emit_file("/home/tom/github/website/github-src/notes-src/_php/IA_S3.yml",$GLOBALS["IA_S3"]);
+		yaml_emit_file("/home/tom/github/website/sources/notes-src/_php/IA_S3.yml",$GLOBALS["IA_S3"]);
 //sleep(60);		
 }
 
@@ -294,7 +294,7 @@ if (file_exists('/home/tom/.local/share/rhythmbox/rhythmdb.xml')) {
 	//	$path = getcwd();
 
 
-		chdir("/home/tom/github/website/github-src/notes-src/_php/");
+		chdir("/home/tom/github/website/sources/notes-src/_php/");
 
 	foreach ($xml as $value){
 				if ($GLOBALS["settings"]["debug"]==10)  {  echo "-----\n"; 	}
@@ -341,8 +341,8 @@ foreach ($db as $ykey => $year){
     				//// print_r($month);
     	//			// echo "\n";
                   // // echo yaml_emit($month)."\n";
-                    mkdir("/home/tom/github/website/github-src/notes-src/_php/".str_pad($ykey, 2, '0', STR_PAD_LEFT)."/", 0755, true);
-            		chdir("/home/tom/github/website/github-src/notes-src/_php/".str_pad($ykey, 2, '0', STR_PAD_LEFT)."/");
+                    mkdir("/home/tom/github/website/sources/notes-src/_php/".str_pad($ykey, 2, '0', STR_PAD_LEFT)."/", 0755, true);
+            		chdir("/home/tom/github/website/sources/notes-src/_php/".str_pad($ykey, 2, '0', STR_PAD_LEFT)."/");
             		
             		foreach ($month as $dkey => $day) {
             		
@@ -363,14 +363,14 @@ foreach ($db as $ykey => $year){
 	}
 
 	}
-		yaml_emit_file ("/home/tom/github/website/github-src/notes-src/_php/rhythmdb_settings.yml", $GLOBALS["settings"]); 
-		yaml_emit_file("/home/tom/github/website/github-src/notes-src/_php/rewrite_rules.yml",$GLOBALS["rewrite_rules"]);
-		yaml_emit_file("/home/tom/github/website/github-src/notes-src/_php/IA_S3.yml",$GLOBALS["IA_S3"]);
-		yaml_emit_file("/home/tom/github/website/github-src/notes-src/_php/podcast-feeds.yml",$GLOBALS["podcast-feeds"]);
+		yaml_emit_file ("/home/tom/github/website/sources/notes-src/_php/rhythmdb_settings.yml", $GLOBALS["settings"]); 
+		yaml_emit_file("/home/tom/github/website/sources/notes-src/_php/rewrite_rules.yml",$GLOBALS["rewrite_rules"]);
+		yaml_emit_file("/home/tom/github/website/sources/notes-src/_php/IA_S3.yml",$GLOBALS["IA_S3"]);
+		yaml_emit_file("/home/tom/github/website/sources/notes-src/_php/podcast-feeds.yml",$GLOBALS["podcast-feeds"]);
 		//yaml_emit_file("/home/tom/github/blog/notes-src/_php/globals.yml", $GLOBALS);
 		
 				
-		yaml_emit_file ("/home/tom/github/website/github-src/notes-src/_php/output.yml", $db);  
+		yaml_emit_file ("/home/tom/github/website/sources/notes-src/_php/output.yml", $db);  
  		// // echo yaml_emit($ret)."\n";
  	//	// print_r (scandir($notes_path));
  		//mkdir($notes_path."/local/".date("Y")."/", 0755, true);
