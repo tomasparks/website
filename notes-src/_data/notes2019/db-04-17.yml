@@ -1,0 +1,22 @@
+---
+- type: entry
+  published: "2019-04-17T12:03:06+00:00"
+  url: https://twitter.com/tomasparksts/status/1118485030802612225
+  category:
+  - https://twitter.com/m_ott
+  in-reply-to:
+  - https://twitter.com/m_ott/status/1118294771561369606
+  content:
+    text: i been look for a service like this for a while :)
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/m_ott:
+      type: card
+      name: Matthias Ott
+      url: https://twitter.com/m_ott
+      photo: ~
+...

@@ -1,0 +1,47 @@
+---
+- type: entry
+  published: "2019-04-24T23:16:13+00:00"
+  url: https://twitter.com/tomasparksts/status/1121191142823825408
+  category:
+  - https://twitter.com/internetarchive
+  - https://twitter.com/GETJolocom
+  - https://twitter.com/marknadal
+  - https://twitter.com/timberners_lee
+  - https://twitter.com/indiewebcamp
+  in-reply-to:
+  - https://twitter.com/internetarchive/status/1121189692769128448
+  content:
+    text: 'cc #indieweb @indiewebcamp'
+    html: cc <a href="https://twitter.com/search?q=%23indieweb">#indieweb</a> <a href="https://twitter.com/indiewebcamp">@indiewebcamp</a>
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/internetarchive:
+      type: card
+      name: Internet Archive
+      url: https://twitter.com/internetarchive
+      photo: ~
+    https://twitter.com/GETJolocom:
+      type: card
+      name: Jolocom
+      url: https://twitter.com/GETJolocom
+      photo: ~
+    https://twitter.com/marknadal:
+      type: card
+      name: Mark Nadal
+      url: https://twitter.com/marknadal
+      photo: ~
+    https://twitter.com/timberners_lee:
+      type: card
+      name: Tim Berners-Lee
+      url: https://twitter.com/timberners_lee
+      photo: ~
+    https://twitter.com/indiewebcamp:
+      type: card
+      name: IndieWebCamp
+      url: https://twitter.com/indiewebcamp
+      photo: ~
+...

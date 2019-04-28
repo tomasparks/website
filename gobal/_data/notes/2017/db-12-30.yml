@@ -22,6 +22,73 @@
     text: ' \ud83c\udfa7 Listened to 26. Head of Time New Media Executive Linda McCutcheon
       by Brian McCullough @brianmcc From Internet History Podcast'
 - type: entry
+  published: "2017-12-30T14:17:44+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/Mk6rEaz42Yw/Ch._5_Part_1_-_Mercury_Center_and_Pathfinder_-_Big_Medias_Big_Web_Adventure.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/24_Ch_51_Mercury_Center_and_Pathfinder_Big_Medias_Big_Web_Adventure.mp3
+      name: 24. (Ch 5.1) Mercury Center and Pathfinder - Big Media's Big Web Adventure
+      author: Brian McCullough @brianmcc
+      content: A history of the Internet Era from Netscape to the iPad. Oral histories
+        from the people that made the technology happen. "Chapter" episodes providing
+        background on the history of the companies.
+  content:
+    text: ' \ud83c\udfa7 Listened to 24. (Ch 5.1) Mercury Center and Pathfinder -
+      Big Media''s Big Web Adventure by Brian McCullough @brianmcc From Internet History
+      Podcast'
+- type: entry
+  published: "2017-12-30T05:52:13+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/7O3Elf2pqKI/Ch._4_Part_2_-_How_Yahoo_Became_The_Webs_First_Great_Company.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/20_Ch_42_How_Yahoo_Became_The_Webs_First_Great_Company.mp3
+      name: 20. (Ch 4.2) How Yahoo Became The Web's First Great Company
+      author: Brian McCullough @brianmcc
+      content: A history of the Internet Era from Netscape to the iPad. Oral histories
+        from the people that made the technology happen. "Chapter" episodes providing
+        background on the history of the companies.
+  content:
+    text: ' \ud83c\udfa7 Listened to 20. (Ch 4.2) How Yahoo Became The Web''s First
+      Great Company by Brian McCullough @brianmcc From Internet History Podcast'
+- type: entry
+  published: "2017-12-30T07:49:20+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/ndAFp-8dECc/Ch._4_Int._5_-_Co-Founder_of_DoubleClick_Kevin_OConnor.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/22_CoFounder_of_DoubleClick_Kevin_OConnor.mp3
+      name: 22. Co-Founder of DoubleClick, Kevin O'Connor
+      author: Brian McCullough @brianmcc
+      content: A history of the Internet Era from Netscape to the iPad. Oral histories
+        from the people that made the technology happen. "Chapter" episodes providing
+        background on the history of the companies.
+  content:
+    text: ' \ud83c\udfa7 Listened to 22. Co-Founder of DoubleClick, Kevin O''Connor
+      by Brian McCullough @brianmcc From Internet History Podcast'
+- type: entry
   published: "2017-12-30T15:27:41+00:00"
   category:
   - scrobble
@@ -66,28 +133,6 @@
     text: ' \ud83c\udfa7 Listened to 23. Co-Founder of FocaLink, Dave Zinman by Brian
       McCullough @brianmcc From Internet History Podcast'
 - type: entry
-  published: "2017-12-30T07:49:20+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough @brianmcc
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/ndAFp-8dECc/Ch._4_Int._5_-_Co-Founder_of_DoubleClick_Kevin_OConnor.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/22_CoFounder_of_DoubleClick_Kevin_OConnor.mp3
-      name: 22. Co-Founder of DoubleClick, Kevin O'Connor
-      author: Brian McCullough @brianmcc
-      content: A history of the Internet Era from Netscape to the iPad. Oral histories
-        from the people that made the technology happen. "Chapter" episodes providing
-        background on the history of the companies.
-  content:
-    text: ' \ud83c\udfa7 Listened to 22. Co-Founder of DoubleClick, Kevin O''Connor
-      by Brian McCullough @brianmcc From Internet History Podcast'
-- type: entry
   published: "2017-12-30T06:58:03+00:00"
   category:
   - scrobble
@@ -109,49 +154,4 @@
   content:
     text: ' \ud83c\udfa7 Listened to 21. Yahoo Employee #3, Tim Brady by Brian McCullough
       @brianmcc From Internet History Podcast'
-- type: entry
-  published: "2017-12-30T05:52:13+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough @brianmcc
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/7O3Elf2pqKI/Ch._4_Part_2_-_How_Yahoo_Became_The_Webs_First_Great_Company.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/20_Ch_42_How_Yahoo_Became_The_Webs_First_Great_Company.mp3
-      name: 20. (Ch 4.2) How Yahoo Became The Web's First Great Company
-      author: Brian McCullough @brianmcc
-      content: A history of the Internet Era from Netscape to the iPad. Oral histories
-        from the people that made the technology happen. "Chapter" episodes providing
-        background on the history of the companies.
-  content:
-    text: ' \ud83c\udfa7 Listened to 20. (Ch 4.2) How Yahoo Became The Web''s First
-      Great Company by Brian McCullough @brianmcc From Internet History Podcast'
-- type: entry
-  published: "2017-12-30T14:17:44+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough @brianmcc
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/Mk6rEaz42Yw/Ch._5_Part_1_-_Mercury_Center_and_Pathfinder_-_Big_Medias_Big_Web_Adventure.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/24_Ch_51_Mercury_Center_and_Pathfinder_Big_Medias_Big_Web_Adventure.mp3
-      name: 24. (Ch 5.1) Mercury Center and Pathfinder - Big Media's Big Web Adventure
-      author: Brian McCullough @brianmcc
-      content: A history of the Internet Era from Netscape to the iPad. Oral histories
-        from the people that made the technology happen. "Chapter" episodes providing
-        background on the history of the companies.
-  content:
-    text: ' \ud83c\udfa7 Listened to 24. (Ch 5.1) Mercury Center and Pathfinder -
-      Big Media''s Big Web Adventure by Brian McCullough @brianmcc From Internet History
-      Podcast'
 ...

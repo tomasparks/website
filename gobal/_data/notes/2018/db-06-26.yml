@@ -1,51 +1,5 @@
 ---
 - type: entry
-  published: "2018-06-26T02:53:21+00:00"
-  category:
-  - scrobble
-  - audio
-  - BitJam Podcast
-  - []
-  listen-of:
-    h-cite:
-      url: http://www.bitfellas.org/podcast/podcast.xml
-      photo: ""
-      audio:
-      - http://files.exotica.org.uk/?http&mname=h18http&file=bitfellas/podcast/bitjam_214.mp3
-      - http://archive.org/download/BitJam_Podcast-by-Array/
-      name: 'BitJam Episode #214 - 2015 In The Mix - Remixes II.'
-      author: []
-      content: "Episode #214 \u2013 2015 In The Mix - Remixes II.\r\nThere were so
-        many great remixes in the year 2015 we had to split them into 2 episodes.
-        Enjoy part 2.\r\n\r\nMixed and compiled by Salinga, logo background from Pexels.com,
-        Photo by Stephen Niemeier, edited by Bobic"
-  content:
-    text: ' \ud83c\udfa7 Listened to BitJam Episode #214 - 2015 In The Mix - Remixes
-      II. by Array From BitJamPodcast'
-- type: entry
-  published: "2018-06-26T01:57:35+00:00"
-  category:
-  - scrobble
-  - audio
-  - BitJam Podcast
-  - []
-  listen-of:
-    h-cite:
-      url: http://www.bitfellas.org/podcast/podcast.xml
-      photo: ""
-      audio:
-      - http://files.exotica.org.uk/?http&mname=h18http&file=bitfellas/podcast/bitjam_213.mp3
-      - http://archive.org/download/BitJam_Podcast-by-Array/
-      name: 'BitJam Episode #213 - 2015 In The Mix - Remixes I.'
-      author: []
-      content: "Episode #213 \u2013 2015 In The Mix - Remixes I.\r\nThere were so
-        many great remixes in the year 2015 we had to split them into 2 episodes.
-        Enjoy.\r\n\r\nMixed and compiled by Salinga, logo background from Pexels.com,
-        Photo by Stephen Niemeier, edited by Bobic"
-  content:
-    text: ' \ud83c\udfa7 Listened to BitJam Episode #213 - 2015 In The Mix - Remixes
-      I. by Array From BitJamPodcast'
-- type: entry
   published: "2018-06-26T05:05:15+00:00"
   category:
   - scrobble
@@ -98,6 +52,52 @@
   content:
     text: ' \ud83c\udfa7 Listened to BitJam Episode #215 - Evoke is 20 - Demo Soundtracks
       by Array From BitJamPodcast'
+- type: entry
+  published: "2018-06-26T01:57:35+00:00"
+  category:
+  - scrobble
+  - audio
+  - BitJam Podcast
+  - []
+  listen-of:
+    h-cite:
+      url: http://www.bitfellas.org/podcast/podcast.xml
+      photo: ""
+      audio:
+      - http://files.exotica.org.uk/?http&mname=h18http&file=bitfellas/podcast/bitjam_213.mp3
+      - http://archive.org/download/BitJam_Podcast-by-Array/
+      name: 'BitJam Episode #213 - 2015 In The Mix - Remixes I.'
+      author: []
+      content: "Episode #213 \u2013 2015 In The Mix - Remixes I.\r\nThere were so
+        many great remixes in the year 2015 we had to split them into 2 episodes.
+        Enjoy.\r\n\r\nMixed and compiled by Salinga, logo background from Pexels.com,
+        Photo by Stephen Niemeier, edited by Bobic"
+  content:
+    text: ' \ud83c\udfa7 Listened to BitJam Episode #213 - 2015 In The Mix - Remixes
+      I. by Array From BitJamPodcast'
+- type: entry
+  published: "2018-06-26T02:53:21+00:00"
+  category:
+  - scrobble
+  - audio
+  - BitJam Podcast
+  - []
+  listen-of:
+    h-cite:
+      url: http://www.bitfellas.org/podcast/podcast.xml
+      photo: ""
+      audio:
+      - http://files.exotica.org.uk/?http&mname=h18http&file=bitfellas/podcast/bitjam_214.mp3
+      - http://archive.org/download/BitJam_Podcast-by-Array/
+      name: 'BitJam Episode #214 - 2015 In The Mix - Remixes II.'
+      author: []
+      content: "Episode #214 \u2013 2015 In The Mix - Remixes II.\r\nThere were so
+        many great remixes in the year 2015 we had to split them into 2 episodes.
+        Enjoy part 2.\r\n\r\nMixed and compiled by Salinga, logo background from Pexels.com,
+        Photo by Stephen Niemeier, edited by Bobic"
+  content:
+    text: ' \ud83c\udfa7 Listened to BitJam Episode #214 - 2015 In The Mix - Remixes
+      II. by Array From BitJamPodcast'
 - type: entry
   published: "2018-06-26T22:36:45+00:00"
   category:

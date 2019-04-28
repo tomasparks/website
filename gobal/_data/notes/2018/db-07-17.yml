@@ -1,29 +1,5 @@
 ---
 - type: entry
-  published: "2018-07-17T10:36:53+00:00"
-  category:
-  - scrobble
-  - audio
-  - RPGMP3 Actual Play Podcast
-  - Hal
-  listen-of:
-    h-cite:
-      url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
-      photo: ""
-      audio:
-      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/lost_and_forgotten_session_02.mp3
-      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/lost_and_forgotten_session_02.mp3
-      name: Lost and Forgotten Session 02
-      author: Hal
-      content: "Episode 2 \u2013 in which our castaways find signs of their lost ship
-        and remember a part of what they\u2019ve lost and forgotten. System Matters:
-        Interested in what\u2019s happening with the system you\u2019re listening
-        to? (If not, stop reading now). This is a Pathfinder Adventure Path, run with
-        3.5 rules (because those are the rulebooks [\u2026]"
-  content:
-    text: ' \ud83c\udfa7 Listened to Lost and Forgotten Session 02 by @rpgmp3 From
-      #RPGMP3ActualPlayPodcast'
-- type: entry
   published: "2018-07-17T00:33:15+00:00"
   category:
   - scrobble
@@ -83,4 +59,28 @@
   content:
     text: ' \ud83c\udfa7 Listened to 30 and Counting, Episode 11: Re-thinking my Homepage
       by Array From indieweb on Huffduffer'
+- type: entry
+  published: "2018-07-17T10:36:53+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/lost_and_forgotten_session_02.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/lost_and_forgotten_session_02.mp3
+      name: Lost and Forgotten Session 02
+      author: Hal
+      content: "Episode 2 \u2013 in which our castaways find signs of their lost ship
+        and remember a part of what they\u2019ve lost and forgotten. System Matters:
+        Interested in what\u2019s happening with the system you\u2019re listening
+        to? (If not, stop reading now). This is a Pathfinder Adventure Path, run with
+        3.5 rules (because those are the rulebooks [\u2026]"
+  content:
+    text: ' \ud83c\udfa7 Listened to Lost and Forgotten Session 02 by @rpgmp3 From
+      #RPGMP3ActualPlayPodcast'
 ...
