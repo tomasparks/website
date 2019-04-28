@@ -2,9 +2,9 @@ gobal:
   rooturl: tomasparks.name
   icons:
     comment: 'far fa-comment'
-    star: 'far fa-star'
-    retweet: 'fas fa-retweet'
-    thumbtack: 'fas fa-thumbtack'
+    liked: 'far fa-star'
+    reposted: 'fas fa-retweet'
+    bookmarked: 'fas fa-thumbtack'
   fonts:
     openwebicons:  '<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/openwebicons/1.6.0/css/openwebicons.min.cs" ></link>'
     awesome: '<script defer src="https://use.fontawesome.com/releases/v5.8.1/js/all.js" integrity="sha384-g5uSoOSBd7KkhAMlnQILrecXvzst9TdC09/VM+pjDTCM+1il8RHz5fKANTFFb+gQ" crossorigin="anonymous"></script>'
