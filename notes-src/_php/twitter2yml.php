@@ -42,8 +42,8 @@ foreach ($db as $ykey => $year){
     				//// print_r($month);
     	//			// echo "\n";
                   // // echo yaml_emit($month)."\n";
-                    mkdir("/home/tom/github/website/github-src/notes-src/_php/".str_pad($ykey, 2, '0', STR_PAD_LEFT)."/", 0755, true);
-            		chdir("/home/tom/github/website/github-src/notes-src/_php/".str_pad($ykey, 2, '0', STR_PAD_LEFT)."/");
+                    mkdir("/home/tom/github/website/sources/notes-src/_data/notes".str_pad($ykey, 2, '0', STR_PAD_LEFT)."/", 0755, true);
+            		chdir("/home/tom/github/website/sources/notes-src/_data/notes".str_pad($ykey, 2, '0', STR_PAD_LEFT)."/");
             		
             		foreach ($month as $dkey => $day) {
             		
