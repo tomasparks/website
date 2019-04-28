@@ -45,6 +45,29 @@
     text: " \\ud83c\\udfa7 Listened to STEAL THIS SHOW S01E02 \u2013 Rebel Librarians
       & Pirate Academics by @steal_this_show From @steal_this_show"
 - type: entry
+  published: "2018-05-28T13:49:32+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/312396927-techdirt-will-regulations-ground-drone-innovation.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/312396927-techdirt-will-regulations-ground-drone-innovation.mp3
+      name: Will Regulations Ground Drone Innovation?
+      author: Techdirt
+      content: The rise of drones in both the personal and commercial spheres has
+        happened with stunning speed, and its created a whole bunch of hard-to-answer
+        regulatory questions. This week we're joined by Notifleet's Siggi Hindrichs
+        to discuss the current state and future of drone regulation by the FAA.
+  content:
+    text: ' \ud83c\udfa7 Listened to Will Regulations Ground Drone Innovation? by
+      Techdirt From Techdirt'
+- type: entry
   published: "2018-05-28T03:15:06+00:00"
   category:
   - scrobble
@@ -92,27 +115,4 @@
   content:
     text: ' \ud83c\udfa7 Listened to When A Typo Breaks The Internet by Techdirt From
       Techdirt'
-- type: entry
-  published: "2018-05-28T13:49:32+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/312396927-techdirt-will-regulations-ground-drone-innovation.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/312396927-techdirt-will-regulations-ground-drone-innovation.mp3
-      name: Will Regulations Ground Drone Innovation?
-      author: Techdirt
-      content: The rise of drones in both the personal and commercial spheres has
-        happened with stunning speed, and its created a whole bunch of hard-to-answer
-        regulatory questions. This week we're joined by Notifleet's Siggi Hindrichs
-        to discuss the current state and future of drone regulation by the FAA.
-  content:
-    text: ' \ud83c\udfa7 Listened to Will Regulations Ground Drone Innovation? by
-      Techdirt From Techdirt'
 ...

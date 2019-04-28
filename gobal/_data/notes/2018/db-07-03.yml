@@ -20,7 +20,7 @@
   content:
     text: ' \ud83c\udfa7 Listened to Dr Karl by @bbc5live From 5 live Science Podcast'
 - type: entry
-  published: "2018-07-03T01:47:15+00:00"
+  published: "2018-07-03T00:17:30+00:00"
   category:
   - scrobble
   - audio
@@ -31,19 +31,22 @@
       url: http://textfiles.libsyn.com/rss
       photo: ""
       audio:
-      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_33.mp3?dest-id=574323
-      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_User_Group_Episode.mp3
-      name: The User Group Episode
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_31.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Doomed_Infocom_Dinner_Episode.mp3
+      name: The Doomed Infocom Dinner Episode
       author: Jason Scott
-      content: 'The User Group Episode: Mark''s Childhood Flight Simulator, 48 hours,
-        User Groups, RIAG, CACHE, Finding Cohorts, Emulation Casualties, The Darkest
-        Outlook.  Some thoughts on user groups and software, all based on a pretty
-        good success story trying to find a flight simulator for a co-worker. All
-        ending in a natural place: the inherent existential threat of technology.
-        Thanks everyone who has been supporting me this whole time, by the way. It''s
-        taken such a load off.'
+      content: 'The Doomed Infocom Dinner Episode: The Eye-Opening E-mail, An Infocom
+        Life, After Infocom Infocom, Phoning in a Text Adventure, Thaumistry, Spellcasting
+        101, Uncreated Games, The Miracle of Game Engines. Plus: Emergency Room. There
+        are three podcasts being posted today. I''m keeping to 4 a month and I just
+        got hit with a lot of commitments and project work that took me away from
+        recording. I also recorded an episode while I was in California that had sound
+        so terrible I just had to try again.  This one''s about one of my favorite
+        letters I ever got, as well as thoughts on creating games then and now, and
+        the benefits of each. I love creative tools so much!'
   content:
-    text: ' \ud83c\udfa7 Listened to The User Group Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
+    text: ' \ud83c\udfa7 Listened to The Doomed Infocom Dinner Episode by @textfiles
+      From #JasonScottTalksHisWayOutofIt'
 - type: entry
   published: "2018-07-03T01:25:14+00:00"
   category:
@@ -75,7 +78,7 @@
   content:
     text: ' \ud83c\udfa7 Listened to The Amateur Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
 - type: entry
-  published: "2018-07-03T00:17:30+00:00"
+  published: "2018-07-03T01:47:15+00:00"
   category:
   - scrobble
   - audio
@@ -86,20 +89,17 @@
       url: http://textfiles.libsyn.com/rss
       photo: ""
       audio:
-      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_31.mp3?dest-id=574323
-      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Doomed_Infocom_Dinner_Episode.mp3
-      name: The Doomed Infocom Dinner Episode
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_33.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_User_Group_Episode.mp3
+      name: The User Group Episode
       author: Jason Scott
-      content: 'The Doomed Infocom Dinner Episode: The Eye-Opening E-mail, An Infocom
-        Life, After Infocom Infocom, Phoning in a Text Adventure, Thaumistry, Spellcasting
-        101, Uncreated Games, The Miracle of Game Engines. Plus: Emergency Room. There
-        are three podcasts being posted today. I''m keeping to 4 a month and I just
-        got hit with a lot of commitments and project work that took me away from
-        recording. I also recorded an episode while I was in California that had sound
-        so terrible I just had to try again.  This one''s about one of my favorite
-        letters I ever got, as well as thoughts on creating games then and now, and
-        the benefits of each. I love creative tools so much!'
+      content: 'The User Group Episode: Mark''s Childhood Flight Simulator, 48 hours,
+        User Groups, RIAG, CACHE, Finding Cohorts, Emulation Casualties, The Darkest
+        Outlook.  Some thoughts on user groups and software, all based on a pretty
+        good success story trying to find a flight simulator for a co-worker. All
+        ending in a natural place: the inherent existential threat of technology.
+        Thanks everyone who has been supporting me this whole time, by the way. It''s
+        taken such a load off.'
   content:
-    text: ' \ud83c\udfa7 Listened to The Doomed Infocom Dinner Episode by @textfiles
-      From #JasonScottTalksHisWayOutofIt'
+    text: ' \ud83c\udfa7 Listened to The User Group Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
 ...

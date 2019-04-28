@@ -51,30 +51,6 @@
     text: ' \ud83c\udfa7 Listened to 159. The Forgotten Story of PLATO, with Brian
       Dear by Brian McCullough @brianmcc From Internet History Podcast'
 - type: entry
-  published: "2018-03-18T06:04:27+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough @brianmcc
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/w6GhAWqhbbI/157._Rob_Malda_cmdrtaco_on_SlashDot_and_Social_Media.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/157_Rob_Malda_cmdrtaco_on_SlashDot_and_Social_Media.mp3
-      name: 157. Rob Malda (@cmdrtaco) on SlashDot and Social Media
-      author: Brian McCullough @brianmcc
-      content: You might know him as Rob Malda, or you might know him as CmdrTaco,
-        but he was the founder of the great geek social website Slashdot. Slashdot
-        recently turned 20 years old, Rob commemorated this in a great Medium post,
-        and so I reached out to him to tell us the story of one of the first great
-        social media websites.
-  content:
-    text: ' \ud83c\udfa7 Listened to 157. Rob Malda (@cmdrtaco) on SlashDot and Social
-      Media by Brian McCullough @brianmcc From Internet History Podcast'
-- type: entry
   published: "2018-03-18T16:59:50+00:00"
   category:
   - scrobble
@@ -103,29 +79,6 @@
       Group, N2K, eMusic and Dollar Shave Club by Brian McCullough @brianmcc From
       Internet History Podcast'
 - type: entry
-  published: "2018-03-18T10:09:21+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough @brianmcc
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/WX-bS5jD13E/158._Bob_Stein_of_Voyager_and_The_Criterion_Collection.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/158_Bob_Stein_of_Voyager_and_The_Criterion_Collection.mp3
-      name: 158. Bob Stein of Voyager and The Criterion Collection
-      author: Brian McCullough @brianmcc
-      content: "Bob Stein was the founder of Voyager, publisher of the first consumer
-        CDROM titles, and, far and away the leader of the CDROM industry in the late
-        1980s and early 90s. Bob was also one of the founders of the Criterion Collection,
-        as well as the publisher of the first electronic books.\_"
-  content:
-    text: ' \ud83c\udfa7 Listened to 158. Bob Stein of Voyager and The Criterion Collection
-      by Brian McCullough @brianmcc From Internet History Podcast'
-- type: entry
   published: "2018-03-18T16:18:14+00:00"
   category:
   - scrobble
@@ -150,6 +103,53 @@
   content:
     text: ' \ud83c\udfa7 Listened to 161. Jeff Bussgang on Open Market and early eCommerce
       by Brian McCullough @brianmcc From Internet History Podcast'
+- type: entry
+  published: "2018-03-18T10:09:21+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/WX-bS5jD13E/158._Bob_Stein_of_Voyager_and_The_Criterion_Collection.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/158_Bob_Stein_of_Voyager_and_The_Criterion_Collection.mp3
+      name: 158. Bob Stein of Voyager and The Criterion Collection
+      author: Brian McCullough @brianmcc
+      content: "Bob Stein was the founder of Voyager, publisher of the first consumer
+        CDROM titles, and, far and away the leader of the CDROM industry in the late
+        1980s and early 90s. Bob was also one of the founders of the Criterion Collection,
+        as well as the publisher of the first electronic books.\_"
+  content:
+    text: ' \ud83c\udfa7 Listened to 158. Bob Stein of Voyager and The Criterion Collection
+      by Brian McCullough @brianmcc From Internet History Podcast'
+- type: entry
+  published: "2018-03-18T06:04:27+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/w6GhAWqhbbI/157._Rob_Malda_cmdrtaco_on_SlashDot_and_Social_Media.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/157_Rob_Malda_cmdrtaco_on_SlashDot_and_Social_Media.mp3
+      name: 157. Rob Malda (@cmdrtaco) on SlashDot and Social Media
+      author: Brian McCullough @brianmcc
+      content: You might know him as Rob Malda, or you might know him as CmdrTaco,
+        but he was the founder of the great geek social website Slashdot. Slashdot
+        recently turned 20 years old, Rob commemorated this in a great Medium post,
+        and so I reached out to him to tell us the story of one of the first great
+        social media websites.
+  content:
+    text: ' \ud83c\udfa7 Listened to 157. Rob Malda (@cmdrtaco) on SlashDot and Social
+      Media by Brian McCullough @brianmcc From Internet History Podcast'
 - type: entry
   published: "2018-03-18T15:38:58+00:00"
   category:

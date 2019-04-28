@@ -1,5 +1,27 @@
 ---
 - type: entry
+  published: "2018-02-22T10:55:46+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/Onv2t6qtYTs/125._Sebastian_Mallaby_on_Alan_Greenspan_and_the_Dotcom_Bubble.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/125_Sebastian_Mallaby_on_Alan_Greenspan_and_the_Dotcom_Bubble.mp3
+      name: 125. Sebastian Mallaby on Alan Greenspan and the Dotcom Bubble
+      author: Brian McCullough @brianmcc
+      content: A history of the Internet Era from Netscape to the iPad. Oral histories
+        from the people that made the technology happen. "Chapter" episodes providing
+        background on the history of the companies.
+  content:
+    text: ' \ud83c\udfa7 Listened to 125. Sebastian Mallaby on Alan Greenspan and
+      the Dotcom Bubble by Brian McCullough @brianmcc From Internet History Podcast'
+- type: entry
   published: "2018-02-22T12:01:01+00:00"
   category:
   - scrobble
@@ -65,26 +87,4 @@
   content:
     text: ' \ud83c\udfa7 Listened to 127. The History of the iPhone, On Its 10th Anniversary
       by Brian McCullough @brianmcc From Internet History Podcast'
-- type: entry
-  published: "2018-02-22T10:55:46+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough @brianmcc
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/Onv2t6qtYTs/125._Sebastian_Mallaby_on_Alan_Greenspan_and_the_Dotcom_Bubble.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/125_Sebastian_Mallaby_on_Alan_Greenspan_and_the_Dotcom_Bubble.mp3
-      name: 125. Sebastian Mallaby on Alan Greenspan and the Dotcom Bubble
-      author: Brian McCullough @brianmcc
-      content: A history of the Internet Era from Netscape to the iPad. Oral histories
-        from the people that made the technology happen. "Chapter" episodes providing
-        background on the history of the companies.
-  content:
-    text: ' \ud83c\udfa7 Listened to 125. Sebastian Mallaby on Alan Greenspan and
-      the Dotcom Bubble by Brian McCullough @brianmcc From Internet History Podcast'
 ...

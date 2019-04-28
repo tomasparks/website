@@ -1,5 +1,31 @@
 ---
 - type: entry
+  published: "2018-06-11T16:03:54+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - internethistorypodcast@gmail.com (Brian McCullough @brianmcc)
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/6fRdAZrnOi4/AMG8873156278.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/172_How_Politics_Came_to_the_Web_With_Karl_Mattson.mp3
+      name: 172. How Politics Came to the Web With Karl Mattson
+      author: internethistorypodcast@gmail.com (Brian McCullough @brianmcc)
+      content: "Today we're going to go back to take a look at early journalism on
+        the web. Karl Mattson helped launched one of the first political news websites,
+        ElectionLine. He helped cover the 1996 election when covering an election
+        on the web was a completely new thing. He then moved to AOL, helped run their
+        news channels and has some amazing historical details about he era, especially
+        the Clinton intern scandal.\r\n      "
+  content:
+    text: ' \ud83c\udfa7 Listened to 172. How Politics Came to the Web With Karl Mattson
+      by internethistorypodcast@gmail.com (Brian McCullough @brianmcc) From Internet
+      History Podcast'
+- type: entry
   published: "2018-06-11T15:06:29+00:00"
   category:
   - scrobble
@@ -54,30 +80,4 @@
   content:
     text: ' \ud83c\udfa7 Listened to Episode 7: Owning My Location by Jonathan LaCour
       From clevercast'
-- type: entry
-  published: "2018-06-11T16:03:54+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - internethistorypodcast@gmail.com (Brian McCullough @brianmcc)
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/6fRdAZrnOi4/AMG8873156278.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/172_How_Politics_Came_to_the_Web_With_Karl_Mattson.mp3
-      name: 172. How Politics Came to the Web With Karl Mattson
-      author: internethistorypodcast@gmail.com (Brian McCullough @brianmcc)
-      content: "Today we're going to go back to take a look at early journalism on
-        the web. Karl Mattson helped launched one of the first political news websites,
-        ElectionLine. He helped cover the 1996 election when covering an election
-        on the web was a completely new thing. He then moved to AOL, helped run their
-        news channels and has some amazing historical details about he era, especially
-        the Clinton intern scandal.\r\n      "
-  content:
-    text: ' \ud83c\udfa7 Listened to 172. How Politics Came to the Web With Karl Mattson
-      by internethistorypodcast@gmail.com (Brian McCullough @brianmcc) From Internet
-      History Podcast'
 ...

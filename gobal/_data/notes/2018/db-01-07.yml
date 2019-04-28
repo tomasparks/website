@@ -1,5 +1,27 @@
 ---
 - type: entry
+  published: "2018-01-07T13:11:38+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/9EVRyqQY6AY/69._Steve_Yelvington_Discusses_Newspapers_and_the_Early_Web.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/69_Steve_Yelvington_Discusses_Newspapers_and_the_Early_Web.mp3
+      name: 69. Steve Yelvington Discusses Newspapers and the Early Web
+      author: Brian McCullough @brianmcc
+      content: A history of the Internet Era from Netscape to the iPad. Oral histories
+        from the people that made the technology happen. "Chapter" episodes providing
+        background on the history of the companies.
+  content:
+    text: ' \ud83c\udfa7 Listened to 69. Steve Yelvington Discusses Newspapers and
+      the Early Web by Brian McCullough @brianmcc From Internet History Podcast'
+- type: entry
   published: "2018-01-07T12:11:26+00:00"
   category:
   - scrobble
@@ -43,28 +65,6 @@
   content:
     text: ' \ud83c\udfa7 Listened to 70. The Forgotten Story Of The Original IPhone
       Released In 1998 by Brian McCullough @brianmcc From Internet History Podcast'
-- type: entry
-  published: "2018-01-07T13:11:38+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough @brianmcc
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/9EVRyqQY6AY/69._Steve_Yelvington_Discusses_Newspapers_and_the_Early_Web.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/69_Steve_Yelvington_Discusses_Newspapers_and_the_Early_Web.mp3
-      name: 69. Steve Yelvington Discusses Newspapers and the Early Web
-      author: Brian McCullough @brianmcc
-      content: A history of the Internet Era from Netscape to the iPad. Oral histories
-        from the people that made the technology happen. "Chapter" episodes providing
-        background on the history of the companies.
-  content:
-    text: ' \ud83c\udfa7 Listened to 69. Steve Yelvington Discusses Newspapers and
-      the Early Web by Brian McCullough @brianmcc From Internet History Podcast'
 - type: entry
   published: "2018-01-07T10:22:38+00:00"
   category:

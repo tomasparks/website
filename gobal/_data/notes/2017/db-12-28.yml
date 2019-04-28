@@ -22,28 +22,6 @@
     text: ' \ud83c\udfa7 Listened to 5. Netscape and Mosaic Founding Engineer, Lou
       Montulli by Brian McCullough @brianmcc From Internet History Podcast'
 - type: entry
-  published: "2017-12-28T13:39:18+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough @brianmcc
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/FlGzrARwJ28/Chapter_1_Int._2_-_Chris_Wilson.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/6_Mosaic_and_Internet_Explorer_Engineer_Chris_Wilson.mp3
-      name: 6. Mosaic and Internet Explorer Engineer, Chris Wilson
-      author: Brian McCullough @brianmcc
-      content: A history of the Internet Era from Netscape to the iPad. Oral histories
-        from the people that made the technology happen. "Chapter" episodes providing
-        background on the history of the companies.
-  content:
-    text: ' \ud83c\udfa7 Listened to 6. Mosaic and Internet Explorer Engineer, Chris
-      Wilson by Brian McCullough @brianmcc From Internet History Podcast'
-- type: entry
   published: "2017-12-28T16:31:55+00:00"
   category:
   - scrobble
@@ -65,4 +43,26 @@
   content:
     text: ' \ud83c\udfa7 Listened to 7. (Ch 2.2) Bill Gates "Gets" The Internet by
       Brian McCullough @brianmcc From Internet History Podcast'
+- type: entry
+  published: "2017-12-28T13:39:18+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/FlGzrARwJ28/Chapter_1_Int._2_-_Chris_Wilson.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/6_Mosaic_and_Internet_Explorer_Engineer_Chris_Wilson.mp3
+      name: 6. Mosaic and Internet Explorer Engineer, Chris Wilson
+      author: Brian McCullough @brianmcc
+      content: A history of the Internet Era from Netscape to the iPad. Oral histories
+        from the people that made the technology happen. "Chapter" episodes providing
+        background on the history of the companies.
+  content:
+    text: ' \ud83c\udfa7 Listened to 6. Mosaic and Internet Explorer Engineer, Chris
+      Wilson by Brian McCullough @brianmcc From Internet History Podcast'
 ...

@@ -22,52 +22,6 @@
     text: ' \ud83c\udfa7 Listened to Ep 37: Professor Stephan Lewandowsky on the Backfire
       Effect by Adam Ruins Everything From Adam Ruins Everything'
 - type: entry
-  published: "2018-04-07T14:05:37+00:00"
-  category:
-  - scrobble
-  - audio
-  - Adam Ruins Everything
-  - Adam Ruins Everything
-  listen-of:
-    h-cite:
-      url: http://maximumfun.org/feeds/are.xml
-      photo: ""
-      audio:
-      - http://media.adknit.com/a/f/90/adam-ruins-everything/7qo9k0.1-1.mp3
-      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_36_Nikole_HannahJones_on_the_Rippling_Effects_of_Redlining_and_Segregation.mp3
-      name: 'Ep 36: Nikole Hannah-Jones on the Rippling Effects of Redlining and Segregation'
-      author: Adam Ruins Everything
-      content: 'Many people have an idyllic view of the suburbs. You can have a lawn!
-        Access to good schools! Safety! But much of that American dream has been historically
-        reserved for white people. '
-  content:
-    text: ' \ud83c\udfa7 Listened to Ep 36: Nikole Hannah-Jones on the Rippling Effects
-      of Redlining and Segregation by Adam Ruins Everything From Adam Ruins Everything'
-- type: entry
-  published: "2018-04-07T12:09:51+00:00"
-  category:
-  - scrobble
-  - audio
-  - Adam Ruins Everything
-  - Adam Ruins Everything
-  listen-of:
-    h-cite:
-      url: http://maximumfun.org/feeds/are.xml
-      photo: ""
-      audio:
-      - http://media.adknit.com/a/f/90/adam-ruins-everything/l1y7zc.1-1.mp3
-      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_38_Professor_Brian_Nosek_On_Sciences_Reproducibility_Crisis_and_Opportunity.mp3
-      name: 'Ep. 38:  Professor Brian Nosek On Science''s Reproducibility Crisis and
-        Opportunity'
-      author: Adam Ruins Everything
-      content: 'We''ve seen it time and time again. A journal publishes a seemingly
-        significant scientific study which gains traction in the press only to be
-        subsequently deemed irreproducible. '
-  content:
-    text: ' \ud83c\udfa7 Listened to Ep. 38:  Professor Brian Nosek On Science''s
-      Reproducibility Crisis and Opportunity by Adam Ruins Everything From Adam Ruins
-      Everything'
-- type: entry
   published: "2018-04-07T11:19:04+00:00"
   category:
   - scrobble
@@ -122,7 +76,7 @@
     text: ' \ud83c\udfa7 Listened to Ep 42: Professor Ellen Dunham-Jones on Retrofitting
       Suburbia by Adam Ruins Everything From Adam Ruins Everything'
 - type: entry
-  published: "2018-04-07T09:25:31+00:00"
+  published: "2018-04-07T12:09:51+00:00"
   category:
   - scrobble
   - audio
@@ -133,16 +87,40 @@
       url: http://maximumfun.org/feeds/are.xml
       photo: ""
       audio:
-      - http://media.adknit.com/a/f/90/adam-ruins-everything/x5mh9x.1-1.mp3
-      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_40_Dr_Arjun_Srinivasan_on_Antibiotic_Resistance.mp3
-      name: 'Ep 40: Dr. Arjun Srinivasan on Antibiotic Resistance'
+      - http://media.adknit.com/a/f/90/adam-ruins-everything/l1y7zc.1-1.mp3
+      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_38_Professor_Brian_Nosek_On_Sciences_Reproducibility_Crisis_and_Opportunity.mp3
+      name: 'Ep. 38:  Professor Brian Nosek On Science''s Reproducibility Crisis and
+        Opportunity'
       author: Adam Ruins Everything
-      content: "Is the antibiotic resistance apocalypse\_approaching? This week's
-        guest,\_Dr. Arjun Srinivasan, who appeared on\_Adam Ruins the Hospital, says
-        yes.\_"
+      content: 'We''ve seen it time and time again. A journal publishes a seemingly
+        significant scientific study which gains traction in the press only to be
+        subsequently deemed irreproducible. '
   content:
-    text: ' \ud83c\udfa7 Listened to Ep 40: Dr. Arjun Srinivasan on Antibiotic Resistance
-      by Adam Ruins Everything From Adam Ruins Everything'
+    text: ' \ud83c\udfa7 Listened to Ep. 38:  Professor Brian Nosek On Science''s
+      Reproducibility Crisis and Opportunity by Adam Ruins Everything From Adam Ruins
+      Everything'
+- type: entry
+  published: "2018-04-07T14:05:37+00:00"
+  category:
+  - scrobble
+  - audio
+  - Adam Ruins Everything
+  - Adam Ruins Everything
+  listen-of:
+    h-cite:
+      url: http://maximumfun.org/feeds/are.xml
+      photo: ""
+      audio:
+      - http://media.adknit.com/a/f/90/adam-ruins-everything/7qo9k0.1-1.mp3
+      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_36_Nikole_HannahJones_on_the_Rippling_Effects_of_Redlining_and_Segregation.mp3
+      name: 'Ep 36: Nikole Hannah-Jones on the Rippling Effects of Redlining and Segregation'
+      author: Adam Ruins Everything
+      content: 'Many people have an idyllic view of the suburbs. You can have a lawn!
+        Access to good schools! Safety! But much of that American dream has been historically
+        reserved for white people. '
+  content:
+    text: ' \ud83c\udfa7 Listened to Ep 36: Nikole Hannah-Jones on the Rippling Effects
+      of Redlining and Segregation by Adam Ruins Everything From Adam Ruins Everything'
 - type: entry
   published: "2018-04-07T10:26:14+00:00"
   category:
@@ -173,4 +151,26 @@
   content:
     text: ' \ud83c\udfa7 Listened to Ep. 41: Heather Jarvis on the Unsustainability
       of Student Loans by Adam Ruins Everything From Adam Ruins Everything'
+- type: entry
+  published: "2018-04-07T09:25:31+00:00"
+  category:
+  - scrobble
+  - audio
+  - Adam Ruins Everything
+  - Adam Ruins Everything
+  listen-of:
+    h-cite:
+      url: http://maximumfun.org/feeds/are.xml
+      photo: ""
+      audio:
+      - http://media.adknit.com/a/f/90/adam-ruins-everything/x5mh9x.1-1.mp3
+      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_40_Dr_Arjun_Srinivasan_on_Antibiotic_Resistance.mp3
+      name: 'Ep 40: Dr. Arjun Srinivasan on Antibiotic Resistance'
+      author: Adam Ruins Everything
+      content: "Is the antibiotic resistance apocalypse\_approaching? This week's
+        guest,\_Dr. Arjun Srinivasan, who appeared on\_Adam Ruins the Hospital, says
+        yes.\_"
+  content:
+    text: ' \ud83c\udfa7 Listened to Ep 40: Dr. Arjun Srinivasan on Antibiotic Resistance
+      by Adam Ruins Everything From Adam Ruins Everything'
 ...

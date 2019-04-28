@@ -1,25 +1,5 @@
 ---
 - type: entry
-  published: "2018-11-16T16:57:24+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough @brianmcc
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/iU67-t8sBTU/Emergency_Podcast_Announcement.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/Emergency_Podcast_Announcement.mp3
-      name: Emergency Podcast Announcement
-      author: Brian McCullough @brianmcc
-      content: Emergency Podcast Announcement
-  content:
-    text: ' \ud83c\udfa7 Listened to Emergency Podcast Announcement by Brian McCullough
-      @brianmcc From Internet History Podcast'
-- type: entry
   published: "2018-11-16T16:55:36+00:00"
   category:
   - scrobble
@@ -67,4 +47,24 @@
   content:
     text: ' \ud83c\udfa7 Listened to 184. Selling the First Facebook Ads, With Matt
       Britton by Brian McCullough @brianmcc From Internet History Podcast'
+- type: entry
+  published: "2018-11-16T16:57:24+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/iU67-t8sBTU/Emergency_Podcast_Announcement.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/Emergency_Podcast_Announcement.mp3
+      name: Emergency Podcast Announcement
+      author: Brian McCullough @brianmcc
+      content: Emergency Podcast Announcement
+  content:
+    text: ' \ud83c\udfa7 Listened to Emergency Podcast Announcement by Brian McCullough
+      @brianmcc From Internet History Podcast'
 ...

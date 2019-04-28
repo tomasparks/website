@@ -1,76 +1,5 @@
 ---
 - type: entry
-  published: "2018-03-17T15:35:17+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough @brianmcc
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/EsuIc9nbVwc/154._Om_Malik_on_Blogging_and_Web_2.0.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/154_Om_Malik_on_Blogging_and_Web_20.mp3
-      name: 154. Om Malik on Blogging and Web 2.0
-      author: Brian McCullough @brianmcc
-      content: "Om Malik is, of course, a legend. One of the first journalists on
-        the \u201Ctech beat\u201D in the 1990s, one of the first bloggers to \u201Cturn
-        pro,\u201D one of the driving forces behind the Web 2.0 time period, and one
-        of the most trusted analysts of the technology industry in general, today
-        he is a venture capitalist at True Ventures."
-  content:
-    text: ' \ud83c\udfa7 Listened to 154. Om Malik on Blogging and Web 2.0 by Brian
-      McCullough @brianmcc From Internet History Podcast'
-- type: entry
-  published: "2018-03-17T15:58:55+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough @brianmcc
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/IjGBZROKB7I/155._Giphy_with_Nicole_LaPorte.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/155_Giphy_with_Nicole_LaPorte.mp3
-      name: 155. Giphy with Nicole LaPorte
-      author: Brian McCullough @brianmcc
-      content: "Nicole Laporte has a cover story in Fast Company magazine this month
-        about Giphy, potentially the next big story in online advertising and marketing,
-        as well as\u2026 search?"
-  content:
-    text: ' \ud83c\udfa7 Listened to 155. Giphy with Nicole LaPorte by Brian McCullough
-      @brianmcc From Internet History Podcast'
-- type: entry
-  published: "2018-03-17T17:47:42+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough @brianmcc
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/cMMd3VjtbCE/156._Dave_Winer_on_The_Open_Web_Blogging_Podcasting_and_More.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/156_Dave_Winer_on_The_Open_Web_Blogging_Podcasting_and_More.mp3
-      name: 156. Dave Winer on The Open Web, Blogging, Podcasting and More
-      author: Brian McCullough @brianmcc
-      content: "Godfather of Podcasting. One of the key people involved in the development
-        of CSS. But as you\u2019ll hear in this great and wide ranging chat, Dave
-        Winer is just a software developer who has never stopped tinkering, never
-        lost his interest in coming up with new tools and new technologies. Dave was
-        kind enough to sit down and go over his whole career, from the very earliest
-        days of the PC era, to the present day.\r\n"
-  content:
-    text: ' \ud83c\udfa7 Listened to 156. Dave Winer on The Open Web, Blogging, Podcasting
-      and More by Brian McCullough @brianmcc From Internet History Podcast'
-- type: entry
   published: "2018-03-17T10:02:22+00:00"
   category:
   - scrobble
@@ -97,6 +26,55 @@
     text: ' \ud83c\udfa7 Listened to 152. David Shen on Early Yahoo and the Maturation
       of Online Advertising by Brian McCullough @brianmcc From Internet History Podcast'
 - type: entry
+  published: "2018-03-17T17:47:42+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/cMMd3VjtbCE/156._Dave_Winer_on_The_Open_Web_Blogging_Podcasting_and_More.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/156_Dave_Winer_on_The_Open_Web_Blogging_Podcasting_and_More.mp3
+      name: 156. Dave Winer on The Open Web, Blogging, Podcasting and More
+      author: Brian McCullough @brianmcc
+      content: "Godfather of Podcasting. One of the key people involved in the development
+        of CSS. But as you\u2019ll hear in this great and wide ranging chat, Dave
+        Winer is just a software developer who has never stopped tinkering, never
+        lost his interest in coming up with new tools and new technologies. Dave was
+        kind enough to sit down and go over his whole career, from the very earliest
+        days of the PC era, to the present day.\r\n"
+  content:
+    text: ' \ud83c\udfa7 Listened to 156. Dave Winer on The Open Web, Blogging, Podcasting
+      and More by Brian McCullough @brianmcc From Internet History Podcast'
+- type: entry
+  published: "2018-03-17T15:35:17+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/EsuIc9nbVwc/154._Om_Malik_on_Blogging_and_Web_2.0.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/154_Om_Malik_on_Blogging_and_Web_20.mp3
+      name: 154. Om Malik on Blogging and Web 2.0
+      author: Brian McCullough @brianmcc
+      content: "Om Malik is, of course, a legend. One of the first journalists on
+        the \u201Ctech beat\u201D in the 1990s, one of the first bloggers to \u201Cturn
+        pro,\u201D one of the driving forces behind the Web 2.0 time period, and one
+        of the most trusted analysts of the technology industry in general, today
+        he is a venture capitalist at True Ventures."
+  content:
+    text: ' \ud83c\udfa7 Listened to 154. Om Malik on Blogging and Web 2.0 by Brian
+      McCullough @brianmcc From Internet History Podcast'
+- type: entry
   published: "2018-03-17T14:24:12+00:00"
   category:
   - scrobble
@@ -118,4 +96,26 @@
   content:
     text: ' \ud83c\udfa7 Listened to 153. The AOL/Time Warner Merger - Crossover with
       the Acquired Podcast by Brian McCullough @brianmcc From Internet History Podcast'
+- type: entry
+  published: "2018-03-17T15:58:55+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/IjGBZROKB7I/155._Giphy_with_Nicole_LaPorte.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/155_Giphy_with_Nicole_LaPorte.mp3
+      name: 155. Giphy with Nicole LaPorte
+      author: Brian McCullough @brianmcc
+      content: "Nicole Laporte has a cover story in Fast Company magazine this month
+        about Giphy, potentially the next big story in online advertising and marketing,
+        as well as\u2026 search?"
+  content:
+    text: ' \ud83c\udfa7 Listened to 155. Giphy with Nicole LaPorte by Brian McCullough
+      @brianmcc From Internet History Podcast'
 ...

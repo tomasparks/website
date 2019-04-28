@@ -1,5 +1,26 @@
 ---
 - type: entry
+  published: "2018-06-17T02:50:54+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - internethistorypodcast@gmail.com (Brian McCullough @brianmcc)
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/IRZIBXnwznA/AMG8239285468.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/HUGE_Podcast_Announcement.mp3
+      name: HUGE Podcast Announcement
+      author: internethistorypodcast@gmail.com (Brian McCullough @brianmcc)
+      content: "HUGE Podcast Announcement!Details on how to pre-order the podcast
+        book!\r\n      "
+  content:
+    text: ' \ud83c\udfa7 Listened to HUGE Podcast Announcement by internethistorypodcast@gmail.com
+      (Brian McCullough @brianmcc) From Internet History Podcast'
+- type: entry
   published: "2018-06-17T03:06:54+00:00"
   category:
   - scrobble
@@ -50,29 +71,6 @@
     text: ' \ud83c\udfa7 Listened to Episode 13: Push Pop Press (Facebook Instant
       Articles) with Todd Bishop by Ben Gilbert and David Rosenthal From @AcquiredFM'
 - type: entry
-  published: "2018-06-17T02:47:47+00:00"
-  category:
-  - scrobble
-  - audio
-  - Acquired - Tech Acquisitions & IPOs
-  - Ben Gilbert and David Rosenthal
-  listen-of:
-    h-cite:
-      url: http://www.acquired.fm/episodes?format=RSS
-      photo: ""
-      audio:
-      - http://traffic.libsyn.com/acquired/Snapchat.mp3
-      - http://archive.org/download/Acquired-Podcast-by-Ben_Gilbert_and_David_Rosenthal/Episode_12_Snapchat_.mp3
-      name: 'Episode 12: Snapchat (?!)'
-      author: Ben Gilbert and David Rosenthal
-      content: 'Ben and David tackle their first failed acquisition: Facebook''s 2013
-        offer to buy Snapchat. They cover the fascinating story of Snapchat''s creation
-        and growth, their blossoming business model, how it would be different inside
-        of Facebook.'
-  content:
-    text: ' \ud83c\udfa7 Listened to Episode 12: Snapchat (?!) by Ben Gilbert and
-      David Rosenthal From @AcquiredFM'
-- type: entry
   published: "2018-06-17T11:47:00+00:00"
   category:
   - scrobble
@@ -95,24 +93,26 @@
     text: ' \ud83c\udfa7 Listened to Episode 14: LinkedIn by Ben Gilbert and David
       Rosenthal From @AcquiredFM'
 - type: entry
-  published: "2018-06-17T02:50:54+00:00"
+  published: "2018-06-17T02:47:47+00:00"
   category:
   - scrobble
   - audio
-  - Internet History Podcast
-  - internethistorypodcast@gmail.com (Brian McCullough @brianmcc)
+  - Acquired - Tech Acquisitions & IPOs
+  - Ben Gilbert and David Rosenthal
   listen-of:
     h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      url: http://www.acquired.fm/episodes?format=RSS
       photo: ""
       audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/IRZIBXnwznA/AMG8239285468.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/HUGE_Podcast_Announcement.mp3
-      name: HUGE Podcast Announcement
-      author: internethistorypodcast@gmail.com (Brian McCullough @brianmcc)
-      content: "HUGE Podcast Announcement!Details on how to pre-order the podcast
-        book!\r\n      "
+      - http://traffic.libsyn.com/acquired/Snapchat.mp3
+      - http://archive.org/download/Acquired-Podcast-by-Ben_Gilbert_and_David_Rosenthal/Episode_12_Snapchat_.mp3
+      name: 'Episode 12: Snapchat (?!)'
+      author: Ben Gilbert and David Rosenthal
+      content: 'Ben and David tackle their first failed acquisition: Facebook''s 2013
+        offer to buy Snapchat. They cover the fascinating story of Snapchat''s creation
+        and growth, their blossoming business model, how it would be different inside
+        of Facebook.'
   content:
-    text: ' \ud83c\udfa7 Listened to HUGE Podcast Announcement by internethistorypodcast@gmail.com
-      (Brian McCullough @brianmcc) From Internet History Podcast'
+    text: ' \ud83c\udfa7 Listened to Episode 12: Snapchat (?!) by Ben Gilbert and
+      David Rosenthal From @AcquiredFM'
 ...

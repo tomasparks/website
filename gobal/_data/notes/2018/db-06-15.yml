@@ -28,6 +28,28 @@
     text: ' \ud83c\udfa7 Listened to Ep. 19: The Purge (The Galaderon Saga) by HeadGum
       From Not Another D&D Podcast'
 - type: entry
+  published: "2018-06-15T11:47:23+00:00"
+  category:
+  - scrobble
+  - audio
+  - Acquired - Tech Acquisitions & IPOs
+  - Ben Gilbert and David Rosenthal
+  listen-of:
+    h-cite:
+      url: http://www.acquired.fm/episodes?format=RSS
+      photo: ""
+      audio:
+      - http://static1.squarespace.com/static/56208487e4b020250549a935/t/569f31690ab3778180831416/1453273507040/Acquired+Episode+6+-+Lucasfilm.mp3
+      - http://archive.org/download/Acquired-Podcast-by-Ben_Gilbert_and_David_Rosenthal/Episode_6_Lucasfilm.mp3
+      name: 'Episode 6: Lucasfilm'
+      author: Ben Gilbert and David Rosenthal
+      content: 'Riding closely on the tails of Star Wars: The Force Awakens, Ben and
+        David cover Disney''s 2012 acquisition of Lucasfilm. In the episode, they
+        mention Walt Disney''s original flywheel diagram, seen below.'
+  content:
+    text: ' \ud83c\udfa7 Listened to Episode 6: Lucasfilm by Ben Gilbert and David
+      Rosenthal From @AcquiredFM'
+- type: entry
   published: "2018-06-15T11:12:00+00:00"
   category:
   - scrobble
@@ -54,28 +76,6 @@
   content:
     text: ' \ud83c\udfa7 Listened to Episode 5: Siri by Ben Gilbert and David Rosenthal
       From @AcquiredFM'
-- type: entry
-  published: "2018-06-15T11:47:23+00:00"
-  category:
-  - scrobble
-  - audio
-  - Acquired - Tech Acquisitions & IPOs
-  - Ben Gilbert and David Rosenthal
-  listen-of:
-    h-cite:
-      url: http://www.acquired.fm/episodes?format=RSS
-      photo: ""
-      audio:
-      - http://static1.squarespace.com/static/56208487e4b020250549a935/t/569f31690ab3778180831416/1453273507040/Acquired+Episode+6+-+Lucasfilm.mp3
-      - http://archive.org/download/Acquired-Podcast-by-Ben_Gilbert_and_David_Rosenthal/Episode_6_Lucasfilm.mp3
-      name: 'Episode 6: Lucasfilm'
-      author: Ben Gilbert and David Rosenthal
-      content: 'Riding closely on the tails of Star Wars: The Force Awakens, Ben and
-        David cover Disney''s 2012 acquisition of Lucasfilm. In the episode, they
-        mention Walt Disney''s original flywheel diagram, seen below.'
-  content:
-    text: ' \ud83c\udfa7 Listened to Episode 6: Lucasfilm by Ben Gilbert and David
-      Rosenthal From @AcquiredFM'
 - type: entry
   published: "2018-06-15T17:00:51+00:00"
   category:

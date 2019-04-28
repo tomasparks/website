@@ -24,34 +24,6 @@
   content:
     text: ' \ud83c\udfa7 Listened to The Indexing Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
 - type: entry
-  published: "2018-04-01T12:57:22+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/337031141-techdirt-these-scammers-picked-the-wrong-guy.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/337031141-techdirt-these-scammers-picked-the-wrong-guy.mp3
-      name: These Scammers Picked The Wrong Guy
-      author: Techdirt
-      content: "If you're a fan of the Reply All podcast, then you're probably still
-        processing the story they told in a recent two-part episode about the insane
-        lengths that host Alex Goldman went to track down a phone scammer. If you
-        haven't heard the story, and you think you've seen all there is to see on
-        the \"messing with scammers\" front... well, you're in for a surprise. We
-        strongly suggest you listen to the Reply All story first \u2014 then listen
-        to our conversation with Alex about the whole saga on this week's episode
-        of the Techdirt Podcast.\r\n\r\nReply All Episode 102, \"Long Distance\" -
-        https://gimletmedia.com/episode/long-distance/"
-  content:
-    text: ' \ud83c\udfa7 Listened to These Scammers Picked The Wrong Guy by Techdirt
-      From Techdirt'
-- type: entry
   published: "2018-04-01T10:51:08+00:00"
   category:
   - scrobble
@@ -100,4 +72,32 @@
         moderator/interviewer to discuss the past 20 years of Techdirt.
   content:
     text: ' \ud83c\udfa7 Listened to 20 Years Of Techdirt by Techdirt From Techdirt'
+- type: entry
+  published: "2018-04-01T12:57:22+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/337031141-techdirt-these-scammers-picked-the-wrong-guy.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/337031141-techdirt-these-scammers-picked-the-wrong-guy.mp3
+      name: These Scammers Picked The Wrong Guy
+      author: Techdirt
+      content: "If you're a fan of the Reply All podcast, then you're probably still
+        processing the story they told in a recent two-part episode about the insane
+        lengths that host Alex Goldman went to track down a phone scammer. If you
+        haven't heard the story, and you think you've seen all there is to see on
+        the \"messing with scammers\" front... well, you're in for a surprise. We
+        strongly suggest you listen to the Reply All story first \u2014 then listen
+        to our conversation with Alex about the whole saga on this week's episode
+        of the Techdirt Podcast.\r\n\r\nReply All Episode 102, \"Long Distance\" -
+        https://gimletmedia.com/episode/long-distance/"
+  content:
+    text: ' \ud83c\udfa7 Listened to These Scammers Picked The Wrong Guy by Techdirt
+      From Techdirt'
 ...
