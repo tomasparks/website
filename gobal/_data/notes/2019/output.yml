@@ -1,6 +1,47 @@
 ---
 2019:
   "04":
+    29:
+    - type: entry
+      published: "2019-04-29T00:34:13+00:00"
+      url: https://twitter.com/tomasparksts/status/1122660324274925570
+      category:
+      - https://twitter.com/brianstorms
+      - https://twitter.com/theharryshearer
+      - https://twitter.com/NetHistoryPod
+      - https://twitter.com/brianmcc
+      in-reply-to:
+      - https://twitter.com/brianstorms/status/1122638398101917696
+      content:
+        text: also listen to the @NetHistoryPod  by @brianmcc
+        html: also listen to the <a href="https://twitter.com/NetHistoryPod">@NetHistoryPod</a>  by
+          <a href="https://twitter.com/brianmcc">@brianmcc</a>
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/brianstorms:
+          type: card
+          name: Brian Dear
+          url: https://twitter.com/brianstorms
+          photo: ~
+        https://twitter.com/theharryshearer:
+          type: card
+          name: Harry Shearer
+          url: https://twitter.com/theharryshearer
+          photo: ~
+        https://twitter.com/NetHistoryPod:
+          type: card
+          name: InternetHistoryPod
+          url: https://twitter.com/NetHistoryPod
+          photo: ~
+        https://twitter.com/brianmcc:
+          type: card
+          name: Brian McCullough
+          url: https://twitter.com/brianmcc
+          photo: ~
     28:
     - type: entry
       published: "2019-04-28T04:17:41+00:00"
@@ -249,28 +290,5 @@
           type: card
           name: Queen Octav1us
           url: https://twitter.com/Octav1usKitten
-          photo: ~
-    "07":
-    - type: entry
-      published: "2019-04-07T23:40:37+00:00"
-      url: https://twitter.com/tomasparksts/status/1115036688609304577
-      category:
-      - https://twitter.com/internetarchive
-      in-reply-to:
-      - https://twitter.com/tomasparksts/status/1115035922406334464
-      content:
-        text: 'well need to do #lots of #deleting on @internetarchive'
-        html: well need to do <a href="https://twitter.com/search?q=%23lots">#lots</a>
-          of <a href="https://twitter.com/search?q=%23deleting">#deleting</a> on @internetarchive
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-      refs:
-        https://twitter.com/internetarchive:
-          type: card
-          name: Internet Archive
-          url: https://twitter.com/internetarchive
           photo: ~
 ...
