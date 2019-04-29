@@ -1,24 +1,42 @@
 ---
 - type: entry
-  published: "2019-04-29T01:10:52+00:00"
+  published: "2019-04-29T00:34:13+00:00"
+  url: https://twitter.com/tomasparksts/status/1122660324274925570
   category:
-  - scrobble
-  - audio
-  - RPGMP3 Actual Play Podcast
-  - Hal
-  listen-of:
-    h-cite:
-      url: http://rpgmp3.com/v5/feed/podcast/
-      photo: ""
-      audio:
-      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_60.mp3
-      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_60.mp3
-      name: Kingmaker  Session 60
-      author: Hal
-      content: "Episode 60 \u2013 in which Stagthorne competes in Archery and the
-        Caster\u2019s Ball, the Clockwork King proposes an unlikely deal with Stagthorne\u2019s
-        future on the line, and Nyrissa makes her presence felt. Thanks to the Paizo
-        forums for the Caster\u2019s Ball and upcoming Boulder Challenge."
+  - https://twitter.com/brianstorms
+  - https://twitter.com/theharryshearer
+  - https://twitter.com/NetHistoryPod
+  - https://twitter.com/brianmcc
+  in-reply-to:
+  - https://twitter.com/brianstorms/status/1122638398101917696
   content:
-    text: ' \ud83c\udfa7 Listened to Kingmaker  Session 60 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+    text: also listen to the @NetHistoryPod  by @brianmcc
+    html: also listen to the <a href="https://twitter.com/NetHistoryPod">@NetHistoryPod</a>  by
+      <a href="https://twitter.com/brianmcc">@brianmcc</a>
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/brianstorms:
+      type: card
+      name: Brian Dear
+      url: https://twitter.com/brianstorms
+      photo: ~
+    https://twitter.com/theharryshearer:
+      type: card
+      name: Harry Shearer
+      url: https://twitter.com/theharryshearer
+      photo: ~
+    https://twitter.com/NetHistoryPod:
+      type: card
+      name: InternetHistoryPod
+      url: https://twitter.com/NetHistoryPod
+      photo: ~
+    https://twitter.com/brianmcc:
+      type: card
+      name: Brian McCullough
+      url: https://twitter.com/brianmcc
+      photo: ~
 ...

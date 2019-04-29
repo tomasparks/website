@@ -1,48 +1,47 @@
 ---
 - type: entry
-  published: "2019-04-24T08:53:51+00:00"
+  published: "2019-04-24T23:16:13+00:00"
+  url: https://twitter.com/tomasparksts/status/1121191142823825408
   category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/610262673-techdirt-the-past-future-of-section-230.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/610262673-techdirt-the-past-future-of-section-230.mp3
-      name: The Past & Future Of Section 230
-      author: Techdirt
-      content: Of all the laws we discuss here at Techdirt, probably none comes up
-        as often or in relation to as many things as Section 230 of the Communications
-        Decency Act. It's not an exaggeration to describe it the way Professor Jeff
-        Kosseff does in the title of his new book, The Twenty-Six Words That Created
-        The Internet, offering a detailed history of this vital piece of law. This
-        week, Jeff joins us on the podcast for an in-depth discussion about where
-        Section 230 came from, and where it's going.
+  - https://twitter.com/internetarchive
+  - https://twitter.com/GETJolocom
+  - https://twitter.com/marknadal
+  - https://twitter.com/timberners_lee
+  - https://twitter.com/indiewebcamp
+  in-reply-to:
+  - https://twitter.com/internetarchive/status/1121189692769128448
   content:
-    text: ' \ud83c\udfa7 Listened to The Past & Future Of Section 230 by Techdirt
-      From Techdirt'
-- type: entry
-  published: "2019-04-24T01:21:15+00:00"
-  category:
-  - scrobble
-  - audio
-  - RPGMP3 Actual Play Podcast
-  - Hal
-  listen-of:
-    h-cite:
-      url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
-      photo: ""
-      audio:
-      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_51.mp3
-      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_51.mp3
-      name: Kingmaker Session 51
-      author: Hal
-      content: "Episode 51 \u2013 in which Kaylen and Michaela face a complex trap
-        in Vordekai\u2019s lair, and find the fate of Varn Thorne."
-  content:
-    text: ' \ud83c\udfa7 Listened to Kingmaker Session 51 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+    text: 'cc #indieweb @indiewebcamp'
+    html: cc <a href="https://twitter.com/search?q=%23indieweb">#indieweb</a> <a href="https://twitter.com/indiewebcamp">@indiewebcamp</a>
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/internetarchive:
+      type: card
+      name: Internet Archive
+      url: https://twitter.com/internetarchive
+      photo: ~
+    https://twitter.com/GETJolocom:
+      type: card
+      name: Jolocom
+      url: https://twitter.com/GETJolocom
+      photo: ~
+    https://twitter.com/marknadal:
+      type: card
+      name: Mark Nadal
+      url: https://twitter.com/marknadal
+      photo: ~
+    https://twitter.com/timberners_lee:
+      type: card
+      name: Tim Berners-Lee
+      url: https://twitter.com/timberners_lee
+      photo: ~
+    https://twitter.com/indiewebcamp:
+      type: card
+      name: IndieWebCamp
+      url: https://twitter.com/indiewebcamp
+      photo: ~
 ...
