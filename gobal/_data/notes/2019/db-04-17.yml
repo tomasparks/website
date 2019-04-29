@@ -1,22 +1,41 @@
 ---
 - type: entry
-  published: "2019-04-17T12:03:06+00:00"
-  url: https://twitter.com/tomasparksts/status/1118485030802612225
+  published: "2019-04-17T12:51:23+00:00"
   category:
-  - https://twitter.com/m_ott
-  in-reply-to:
-  - https://twitter.com/m_ott/status/1118294771561369606
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_49.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_49.mp3
+      name: Kingmaker Session 49
+      author: Hal
+      content: "Episode 49 \u2013 in which Kaylen and Michaela at last enter Vordekai\u2019s
+        tomb and discover the fate of Maester Paedrod"
   content:
-    text: i been look for a service like this for a while :)
-  author:
-    type: card
-    name: Tom Sparks
-    url: https://twitter.com/tomasparksts
-    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-  refs:
-    https://twitter.com/m_ott:
-      type: card
-      name: Matthias Ott
-      url: https://twitter.com/m_ott
-      photo: ~
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 49 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+- type: entry
+  published: "2019-04-17T15:59:09+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_50.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_50.mp3
+      name: Kingmaker Session 50
+      author: Hal
+      content: "Episode 50 \u2013 in which the ultimate battle with Vordekai is decided."
+  content:
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 50 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
 ...

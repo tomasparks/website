@@ -1,56 +1,22 @@
 ---
 - type: entry
-  published: "2019-04-15T22:08:31+00:00"
-  url: https://twitter.com/tomasparksts/status/1117912614577639424
+  published: "2019-04-15T17:40:08+00:00"
   category:
-  - https://twitter.com/Octav1usKitten
-  - https://twitter.com/ashens
-  in-reply-to:
-  - https://twitter.com/Octav1usKitten/status/1117896405702463488
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_46.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_46.mp3
+      name: Kingmaker Session 46
+      author: Hal
+      content: "Episode 46 \u2013 in which the forgotten Test of the Deep is inadvertently
+        faced, and Kaylen has a new revelation about the upcoming birth."
   content:
-    text: and I thought afterburner was bad
-  author:
-    type: card
-    name: Tom Sparks
-    url: https://twitter.com/tomasparksts
-    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-  refs:
-    https://twitter.com/Octav1usKitten:
-      type: card
-      name: Queen Octav1us
-      url: https://twitter.com/Octav1usKitten
-      photo: ~
-    https://twitter.com/ashens:
-      type: card
-      name: Stuart Ashen
-      url: https://twitter.com/ashens
-      photo: ~
-- type: entry
-  published: "2019-04-15T16:35:05+00:00"
-  url: https://twitter.com/tomasparksts/status/1117828700723007488
-  category:
-  - https://twitter.com/Octav1usKitten
-  - https://twitter.com/nostalnerd
-  video:
-  - https://video.twimg.com/tweet_video/D4NTRUgUwAE8D_A.mp4
-  in-reply-to:
-  - https://twitter.com/Octav1usKitten/status/1117813903617081344
-  content:
-    text: makes me think of overcooked game
-  author:
-    type: card
-    name: Tom Sparks
-    url: https://twitter.com/tomasparksts
-    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-  refs:
-    https://twitter.com/Octav1usKitten:
-      type: card
-      name: Queen Octav1us
-      url: https://twitter.com/Octav1usKitten
-      photo: ~
-    https://twitter.com/nostalnerd:
-      type: card
-      name: Nostalgia Nerd
-      url: https://twitter.com/nostalnerd
-      photo: ~
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 46 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
 ...

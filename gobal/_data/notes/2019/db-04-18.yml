@@ -1,36 +1,26 @@
 ---
 - type: entry
-  published: "2019-04-18T18:46:38+00:00"
-  url: https://twitter.com/tomasparksts/status/1118948971030781952
+  published: "2019-04-18T02:50:05+00:00"
   category:
-  - https://twitter.com/MuckRock
-  - https://twitter.com/textfiles
-  - https://twitter.com/internetarchive
-  in-reply-to:
-  - https://twitter.com/MuckRock/status/1118941033260310528
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/606995760-techdirt-a-free-speech-chat-with-fire.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/606995760-techdirt-a-free-speech-chat-with-fire.mp3
+      name: A Free Speech Chat With FIRE
+      author: Techdirt
+      content: It's time for another special cross-post from a different podcast.
+        Mike was recently a guest on the Foundation for Individual Rights in Education's
+        So To Speak podcast, for an interview about Techdirt, free speech, content
+        moderation, and a range of other topics. If you didn't catch it there, you
+        can listen to the whole interview here in this week's episode.
   content:
-    text: 'cc: @textfiles could be worth copying to @internetarchive'
-    html: 'cc: <a href="https://twitter.com/textfiles">@textfiles</a> could be worth
-      copying to <a href="https://twitter.com/internetarchive">@internetarchive</a>'
-  author:
-    type: card
-    name: Tom Sparks
-    url: https://twitter.com/tomasparksts
-    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-  refs:
-    https://twitter.com/MuckRock:
-      type: card
-      name: MuckRock
-      url: https://twitter.com/MuckRock
-      photo: ~
-    https://twitter.com/textfiles:
-      type: card
-      name: Jason Scott
-      url: https://twitter.com/textfiles
-      photo: ~
-    https://twitter.com/internetarchive:
-      type: card
-      name: Internet Archive
-      url: https://twitter.com/internetarchive
-      photo: ~
+    text: ' \ud83c\udfa7 Listened to A Free Speech Chat With FIRE by Techdirt From
+      Techdirt'
 ...
