@@ -3,6 +3,32 @@
   "04":
     29:
     - type: entry
+      published: "2019-04-29T04:09:20+00:00"
+      url: https://twitter.com/tomasparksts/status/1122714456998334464
+      category:
+      - https://twitter.com/ModernVintageG
+      - https://twitter.com/KimxxxJustice
+      in-reply-to:
+      - https://twitter.com/ModernVintageG/status/1122578893297332224
+      content:
+        text: can't wait until part 2
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/ModernVintageG:
+          type: card
+          name: MVG
+          url: https://twitter.com/ModernVintageG
+          photo: ~
+        https://twitter.com/KimxxxJustice:
+          type: card
+          name: Kim Justice
+          url: https://twitter.com/KimxxxJustice
+          photo: ~
+    - type: entry
       published: "2019-04-29T00:34:13+00:00"
       url: https://twitter.com/tomasparksts/status/1122660324274925570
       category:
@@ -269,26 +295,5 @@
           type: card
           name: Nostalgia Nerd
           url: https://twitter.com/nostalnerd
-          photo: ~
-    14:
-    - type: entry
-      published: "2019-04-14T18:02:08+00:00"
-      url: https://twitter.com/tomasparksts/status/1117488221582057472
-      category:
-      - https://twitter.com/Octav1usKitten
-      video:
-      - https://video.twimg.com/tweet_video/D4IdmwMU4AAbYlW.mp4
-      in-reply-to:
-      - https://twitter.com/Octav1usKitten/status/1117404935249911809
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-      refs:
-        https://twitter.com/Octav1usKitten:
-          type: card
-          name: Queen Octav1us
-          url: https://twitter.com/Octav1usKitten
           photo: ~
 ...
