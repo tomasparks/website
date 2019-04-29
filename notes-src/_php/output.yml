@@ -21208,6 +21208,30 @@
             a lifetime for, and sacrifices and compromises are made."
       content:
         text: ' \ud83c\udfa7 Listened to Kingmaker Session 53 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+    29:
+    - type: entry
+      published: "2019-04-29T01:10:52+00:00"
+      category:
+      - scrobble
+      - audio
+      - RPGMP3 Actual Play Podcast
+      - Hal
+      listen-of:
+        h-cite:
+          url: http://rpgmp3.com/v5/feed/podcast/
+          photo: ""
+          audio:
+          - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_60.mp3
+          - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_60.mp3
+          name: Kingmaker  Session 60
+          author: Hal
+          content: "Episode 60 \u2013 in which Stagthorne competes in Archery and
+            the Caster\u2019s Ball, the Clockwork King proposes an unlikely deal with
+            Stagthorne\u2019s future on the line, and Nyrissa makes her presence felt.
+            Thanks to the Paizo forums for the Caster\u2019s Ball and upcoming Boulder
+            Challenge."
+      content:
+        text: ' \ud83c\udfa7 Listened to Kingmaker  Session 60 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
     "05":
     - type: entry
       published: "2019-04-05T06:08:47+00:00"
