@@ -1,0 +1,21 @@
+---
+- type: entry
+  author:
+    type: card
+    name: Sue Maynes
+    photo: https://webmention.io/avatar/graph.facebook.com/c27a81381c5655e603b05bedc46a0e161e0168c23ba254543dbf9bf45c762be0.jpg
+    url: https://www.facebook.com/1490258021020742
+  url: https://www.facebook.com/934483560050621/posts/1016047508560892?comment_id=1016547871844189
+  published: "2018-03-14T03:58:39+00:00"
+  wm-received: "2018-03-21T20:39:53Z"
+  wm-id: 507079
+  wm-source: https://brid-gy.appspot.com/comment/facebook/934483560050621/1016047508560892/1016047508560892_1016547871844189
+  wm-target: https://tomasparks.github.io/sl/n/l/ZNUNTUm0Bj7.html
+  content:
+    content-type: text/plain
+    value: Thanks tom!
+    text: Thanks tom!
+  in-reply-to: https://tomasparks.github.io/sl/n/l/ZNUNTUm0Bj7.html
+  wm-property: in-reply-to
+  wm-private: false
+...
