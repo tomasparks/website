@@ -72,10 +72,12 @@ case "archive":
 	                      chdir("/home/tom/github/website/sources/gobal/_data/webmention/".$path."/");
 	                      foreach ($value as $type => $arr ) {
 	                      
-	                    $tmp_db = yaml_parse_file("/home/tom/github/website/sources/gobal/_data/webmention/".$path."/".$type.".yml");
-            			$arr = array_merge($arr,$tmp_db);
-            			$arr = array_unique(array_merge($arr,$tmp_db), SORT_REGULAR);
-	                        yaml_emit_file( "/home/tom/github/website/sources/gobal/_data/webmention/".$path."/".$type.".yml", $arr);
+	                    //$tmp_db = yaml_parse_file("/home/tom/github/website/sources/gobal/_data/webmention/".$path."/".$type.".yml");
+            			//$arr = array_merge($arr,$tmp_db);
+            			//$arr = array_unique(array_merge($arr,$tmp_db), SORT_REGULAR);
+	                        //yaml_emit_file( "/home/tom/github/website/sources/gobal/_data/webmention/".$path."/".$type.".yml", $arr);
+	                        $json_data = json_encode($arr,JSON_PRETTY_PRINT | JSON_HEX_TAG | JSON_HEX_APOS | JSON_HEX_QUOT | JSON_HEX_AMP | JSON_UNESCAPED_UNICODE);
+                            file_put_contents("/home/tom/github/website/sources/gobal/_data/webmention/".$path."/".$type.".json", $json_data);
 	                      }
 	  }
 	}  
