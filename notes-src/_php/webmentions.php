@@ -65,11 +65,18 @@ case "archive":
 	
 	  yaml_emit_file( "/home/tom/github/website/sources/gobal/_data/cache/nickname.yml", $hcard);
 	  yaml_emit_file( "/home/tom/github/website/sources/gobal/_data/webmention/output.yml", $db);
-	  foreach ($db as $key => $value) {
-	  echo "key: ".$key."\n";
-	    	if(is_array($key))	{
-	                      mkdir("/home/tom/github/website/sources/notes-src/_data/webmention/".$key."/");
-	                      chdir("/home/tom/github/website/sources/notes-src/_data/webmention/".$key."/");
+	  foreach ($db as $path => $value) {
+	  echo "path: ".$path."\n";
+	    	if(is_array($value))	{
+	                      mkdir("/home/tom/github/website/sources/gobal/_data/webmention/".$path."/");
+	                      chdir("/home/tom/github/website/sources/gobal/_data/webmention/".$path."/");
+	                      foreach ($value as $type => $arr ) {
+	                      
+	                    $tmp_db = yaml_parse_file("/home/tom/github/website/sources/gobal/_data/webmention/".$path."/".$type.".yml");
+            			$arr = array_merge($arr,$tmp_db);
+            			$arr = array_unique(array_merge($arr,$tmp_db), SORT_REGULAR);
+	                        yaml_emit_file( "/home/tom/github/website/sources/gobal/_data/webmention/".$path."/".$type.".yml", $arr);
+	                      }
 	  }
 	}  
 //print_r ($db);

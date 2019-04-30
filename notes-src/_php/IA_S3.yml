@@ -490,9 +490,9 @@ Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National
   Why_did_the_US_lose_the_height_advantage.mp3: true
   Mpemba_effect.mp3: true
   The_beautiful_act_of_vomiting.mp3: true
-  Washing_clothes_part_two.mp3: false
-  Washing_clothes_part_one.mp3: false
-  Vaping_ecigarettes_and_big_tobacco.mp3: false
+  Washing_clothes_part_two.mp3: true
+  Washing_clothes_part_one.mp3: true
+  Vaping_ecigarettes_and_big_tobacco.mp3: true
 Stephen_Frys_Great_Leap_Years-Podcast-by-Stephen_Fry:
   media.mp3: true
   6_The_Iotatron_that_Wasnt.mp3: true
@@ -1228,4 +1228,6 @@ Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything:
   Ep_42_Professor_Ellen_DunhamJones_on_Retrofitting_Suburbia.mp3: true
   Ep_16_The_Failure_of_the_War_on_Drugs.mp3: true
   Ep_32_Kevin_Hall_Gives_Us_the_Skinny_Losing_Weight_and_Keeping_it_Off_is_Hard.mp3: true
+Dr_Karl_on_triplej-Podcast-by-triplejA:
+  Hot_and_cold_breath_tilting_dog_heads_and_an_infuriating_itch.mp3: false
 ...
