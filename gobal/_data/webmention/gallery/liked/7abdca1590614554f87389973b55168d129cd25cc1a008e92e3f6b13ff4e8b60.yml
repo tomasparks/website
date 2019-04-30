@@ -33,7 +33,7 @@
   like-of: https://tomasparks.github.io//gallery/bef751ed86f31a78952da34e916489f79dc4c529.html
   wm-property: like-of
   wm-private: false
-  - type: entry
+- type: entry
   author:
     type: card
     name: Tanya Brumm
@@ -50,7 +50,7 @@
   like-of: https://tomasparks.github.io//gallery/bef751ed86f31a78952da34e916489f79dc4c529.html
   wm-property: like-of
   wm-private: false
-  - type: entry
+- type: entry
   author:
     type: card
     name: Melissa Nairn
@@ -67,5 +67,4 @@
   like-of: https://tomasparks.github.io//gallery/bef751ed86f31a78952da34e916489f79dc4c529.html
   wm-property: like-of
   wm-private: false
-  
 ...
