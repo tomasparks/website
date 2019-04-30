@@ -64,19 +64,26 @@ case "archive":
 	
 	
 	  yaml_emit_file( "/home/tom/github/website/sources/gobal/_data/cache/nickname.yml", $hcard);
-	  yaml_emit_file( "/home/tom/github/website/sources/gobal/_data/webmention/output.yml", $db);
+	  //yaml_emit_file( "/home/tom/github/website/sources/gobal/_data/webmention/output.yml", $db);
 	  foreach ($db as $path => $value) {
 	  echo "path: ".$path."\n";
 	    	if(is_array($value))	{
 	                      mkdir("/home/tom/github/website/sources/gobal/_data/webmention/".$path."/");
 	                      chdir("/home/tom/github/website/sources/gobal/_data/webmention/".$path."/");
 	                      foreach ($value as $type => $arr ) {
+	                        if (file_exists("/home/tom/github/website/sources/gobal/_data/webmention/".$path."/".$type.".json"))  {
 	                      
+	                            $file = file_get_contents("/home/tom/github/website/sources/gobal/_data/webmention/".$path."/".$type.".json");
+	                            $tmp_db = json_decode($file);
+	                     
+	                     
+	                     
 	                    //$tmp_db = yaml_parse_file("/home/tom/github/website/sources/gobal/_data/webmention/".$path."/".$type.".yml");
-            			//$arr = array_merge($arr,$tmp_db);
-            			//$arr = array_unique(array_merge($arr,$tmp_db), SORT_REGULAR);
+            			$arr = array_merge($arr,$tmp_db);
+            			$arr = array_unique(array_merge($arr,$tmp_db), SORT_REGULAR);
+            			}
 	                        //yaml_emit_file( "/home/tom/github/website/sources/gobal/_data/webmention/".$path."/".$type.".yml", $arr);
-	                        $json_data = json_encode($arr,JSON_PRETTY_PRINT | JSON_HEX_TAG | JSON_HEX_APOS | JSON_HEX_QUOT | JSON_HEX_AMP | JSON_UNESCAPED_UNICODE);
+	                        $json_data = json_encode($arr,JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES);
                             file_put_contents("/home/tom/github/website/sources/gobal/_data/webmention/".$path."/".$type.".json", $json_data);
 	                      }
 	  }
