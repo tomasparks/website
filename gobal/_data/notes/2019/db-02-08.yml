@@ -1,0 +1,28 @@
+---
+- type: entry
+  published: "2019-02-08T14:35:09+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - https://media.acast.com/internethistorypodcast/188.theglobe.comstorywithstephanpaternotpartiii/media.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/188_TheGlobecom_Story_With_Stephan_Paternot_Part_III.mp3
+      name: 188. TheGlobe.com Story With Stephan Paternot Part III
+      author: Brian McCullough
+      content: Part three of our epic conversation with Stephan Paternot. Here's what
+        happens when you've been through the wringer. When you've been to the top
+        of the rollercoaster and also down to the bottom. Here's how you take stock
+        of your life, how you reinvent yourself, re-find you entrepreneurial spirit...
+        I feel like there are so many lessons in these three episodes. Lessons for
+        entrepreneurs today. Lesson for... I dunno. People in the crypto space? My
+        thanks to Stephan Paternot for an insanely great conversation.&nbsp;
+  content:
+    text: ' \ud83c\udfa7 Listened to 188. TheGlobe.com Story With Stephan Paternot
+      Part III by Brian McCullough From Internet History Podcast'
+...

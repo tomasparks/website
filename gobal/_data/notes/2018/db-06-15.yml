@@ -1,0 +1,125 @@
+---
+- type: entry
+  published: "2018-06-15T21:03:02+00:00"
+  category:
+  - scrobble
+  - audio
+  - Not Another D&D Podcast
+  - HeadGum
+  listen-of:
+    h-cite:
+      url: https://warp.gumballcdn.com/v1/rss?uuid=5fac20eeb4&rss=https://rss.art19.com/not-another-d-and-d-podcast
+      photo: ""
+      audio:
+      - https://warp.gumballcdn.com/v1/mp3?uuid=5fac20eeb4&show=3468b795cd&mp3=http://rss.art19.com/episodes/9bd6f53c-8b23-4806-b5a5-c5c6056ccec1.mp3
+      - http://archive.org/download/Not_Another_DD_Podcast-by-HeadGum/mp3
+      name: 'Ep. 19: The Purge (The Galaderon Saga)'
+      author: HeadGum
+      content: "Galaderon is on the brink of civil war and the band of boobs are caught
+        in the middle! Hardwon gets Ol' Cobb into some hot water, Moonshine desperately
+        tries to impress a teenager, and Bev races to save his mom. Support us at\_Patreon.com/Naddpod
+        to get access to the after-show and a bunch of other Naddpod content!\n\n\n\n\nMusic/Sound
+        Effects include:\n\n\"Crackling Fire\" by sagetyrtle at Freesound.org.\n\n\"Scary
+        Ambiance\" by ashleyxxpiano at Freesound.org.\n\n\"Rowdy Crowd\" by xtrgamr
+        at Freesound.org.\n\n\"Bombarded and\_Besieged\"\_by Emily Axford. \n\n\"The
+        Valiant Ol' Cobb\" by Emily Axford. \n\n\"At the Last Minute, a First\" by
+        Emily Axford. \n\n\"Skybound\"  by Emily Axford. \n\n\u200B\n\n\n\n\n\n"
+  content:
+    text: ' \ud83c\udfa7 Listened to Ep. 19: The Purge (The Galaderon Saga) by HeadGum
+      From Not Another D&D Podcast'
+- type: entry
+  published: "2018-06-15T11:12:00+00:00"
+  category:
+  - scrobble
+  - audio
+  - Acquired - Tech Acquisitions & IPOs
+  - Ben Gilbert and David Rosenthal
+  listen-of:
+    h-cite:
+      url: http://www.acquired.fm/episodes?format=RSS
+      photo: ""
+      audio:
+      - http://static1.squarespace.com/static/56208487e4b020250549a935/t/566fa77057eb8dee50c359cc/1450157936120/Acquired+Episode+5+-+Siri.mp3
+      - http://archive.org/download/Acquired-Podcast-by-Ben_Gilbert_and_David_Rosenthal/Episode_5_Siri.mp3
+      name: 'Episode 5: Siri'
+      author: Ben Gilbert and David Rosenthal
+      content: 'In the last episode of 2015, Ben and David discuss Apple''s acquisition
+        of Siri. Notable topics include:  The founding of Siri by Dag Kittlau, Adam
+        Cheyer, and Chris Brigham Scott Forstall on the Apple side, and the end of
+        his time at the company The other Apple acquisitions around Siri, including
+        Topsy, Novauris Technologies, OttoCat Cue, Spotsetter, VocalIQ, and Perceptio.
+        The team Apple built around Siri post-acquisition, including Alex Acero from
+        Microsoft Research. Speculation on the future of voice and its role in everyday
+        computing'
+  content:
+    text: ' \ud83c\udfa7 Listened to Episode 5: Siri by Ben Gilbert and David Rosenthal
+      From @AcquiredFM'
+- type: entry
+  published: "2018-06-15T11:47:23+00:00"
+  category:
+  - scrobble
+  - audio
+  - Acquired - Tech Acquisitions & IPOs
+  - Ben Gilbert and David Rosenthal
+  listen-of:
+    h-cite:
+      url: http://www.acquired.fm/episodes?format=RSS
+      photo: ""
+      audio:
+      - http://static1.squarespace.com/static/56208487e4b020250549a935/t/569f31690ab3778180831416/1453273507040/Acquired+Episode+6+-+Lucasfilm.mp3
+      - http://archive.org/download/Acquired-Podcast-by-Ben_Gilbert_and_David_Rosenthal/Episode_6_Lucasfilm.mp3
+      name: 'Episode 6: Lucasfilm'
+      author: Ben Gilbert and David Rosenthal
+      content: 'Riding closely on the tails of Star Wars: The Force Awakens, Ben and
+        David cover Disney''s 2012 acquisition of Lucasfilm. In the episode, they
+        mention Walt Disney''s original flywheel diagram, seen below.'
+  content:
+    text: ' \ud83c\udfa7 Listened to Episode 6: Lucasfilm by Ben Gilbert and David
+      Rosenthal From @AcquiredFM'
+- type: entry
+  published: "2018-06-15T19:16:31+00:00"
+  category:
+  - scrobble
+  - audio
+  - Acquired - Tech Acquisitions & IPOs
+  - Ben Gilbert and David Rosenthal
+  listen-of:
+    h-cite:
+      url: http://www.acquired.fm/episodes?format=RSS
+      photo: ""
+      audio:
+      - http://static1.squarespace.com/static/56208487e4b020250549a935/t/56d5145237013b227d5db898/1456805030540/AcompliSunriseWunderlist.mp3
+      - http://archive.org/download/Acquired-Podcast-by-Ben_Gilbert_and_David_Rosenthal/Episode_8_Acompli_Sunrise_and_Wunderlist_w_Kurt_DelBene.mp3
+      name: 'Episode 8: Acompli, Sunrise, and Wunderlist (w/ Kurt DelBene)'
+      author: Ben Gilbert and David Rosenthal
+      content: "Ben and David have special guest Kurt DelBene on to discuss Microsoft's
+        acquisition of Acompli, Sunrise, and Wunderlist. Kurt is the EVP of Corporate
+        Strategy and Planning at Microsoft, and joins to discuss Microsoft\u2019s
+        cloud-first, mobile-first strategy."
+  content:
+    text: ' \ud83c\udfa7 Listened to Episode 8: Acompli, Sunrise, and Wunderlist (w/
+      Kurt DelBene) by Ben Gilbert and David Rosenthal From @AcquiredFM'
+- type: entry
+  published: "2018-06-15T17:00:51+00:00"
+  category:
+  - scrobble
+  - audio
+  - Acquired - Tech Acquisitions & IPOs
+  - Ben Gilbert and David Rosenthal
+  listen-of:
+    h-cite:
+      url: http://www.acquired.fm/episodes?format=RSS
+      photo: ""
+      audio:
+      - http://static1.squarespace.com/static/56208487e4b020250549a935/t/56b2b8f322482e9cac1f3be4/1454553399592/Acquired+Episode+7+-+YouTube.mp3
+      - http://archive.org/download/Acquired-Podcast-by-Ben_Gilbert_and_David_Rosenthal/Episode_7_YouTube.mp3
+      name: 'Episode 7: YouTube'
+      author: Ben Gilbert and David Rosenthal
+      content: 'Ben and David test the widely-held belief that YouTube was one of
+        the most successful tech acquisitions of all time. In today''s world of next-generation
+        video platforms, mobile video, streaming, and chord-cutting, was it actually
+        a great purchase by Google?  '
+  content:
+    text: ' \ud83c\udfa7 Listened to Episode 7: YouTube by Ben Gilbert and David Rosenthal
+      From @AcquiredFM'
+...

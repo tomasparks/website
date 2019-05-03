@@ -1,0 +1,28 @@
+---
+- type: entry
+  published: "2019-01-08T11:29:29+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/498547989-techdirt-anonymity-in-the-media-online.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/498547989-techdirt-anonymity-in-the-media-online.mp3
+      name: Anonymity In The Media & Online
+      author: Techdirt
+      content: "Anonymity is back in the news in a big way, especially since the New
+        York Times published an explosive opinion piece by an anonymous White House
+        official. Here at Techdirt \u2014 proudly one of the few blogs that still
+        allows completely anonymous comments with no sign-up \u2014 we've talked about
+        anonymity for a long time in the context of the internet. On this week's episode,
+        Mike and regular co-hosts Dennis Yang and Hersh Reddy talk about the benefits,
+        challenges, and overall importance of anonymous speech."
+  content:
+    text: ' \ud83c\udfa7 Listened to Anonymity In The Media & Online by Techdirt From
+      Techdirt'
+...

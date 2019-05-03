@@ -1,0 +1,70 @@
+---
+- type: entry
+  published: "2018-05-04T12:49:02+00:00"
+  category:
+  - scrobble
+  - audio
+  - Adam Ruins Everything
+  - Adam Ruins Everything
+  listen-of:
+    h-cite:
+      url: http://maximumfun.org/feeds/are.xml
+      photo: ""
+      audio:
+      - http://media.adknit.com/a/f/90/adam-ruins-everything/16p2ut.1-1.mp3
+      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_3_Mass_Extinction_and_Video_Game_Music_with_Emily_Axford.mp3
+      name: 'Ep 3: Mass Extinction and Video Game Music with Emily Axford'
+      author: Adam Ruins Everything
+      content: Emily Axford of Adam Ruins Everything Talks Mass Extinction and Video
+        Game Music.
+  content:
+    text: ' \ud83c\udfa7 Listened to Ep 3: Mass Extinction and Video Game Music with
+      Emily Axford by Adam Ruins Everything From Adam Ruins Everything'
+- type: entry
+  published: "2018-05-04T13:44:11+00:00"
+  category:
+  - scrobble
+  - audio
+  - Adam Ruins Everything
+  - Adam Ruins Everything
+  listen-of:
+    h-cite:
+      url: http://maximumfun.org/feeds/are.xml
+      photo: ""
+      audio:
+      - http://media.adknit.com/a/f/90/adam-ruins-everything/9dzyw4.1-1.mp3
+      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_1_Municipal_Transit_with_Seleta_Reynolds.mp3
+      name: 'Ep 1: Municipal Transit with Seleta Reynolds'
+      author: Adam Ruins Everything
+      content: Adam is joined by Seleta Reynolds to talk about municipal transit and
+        reducing our reliance on cars.
+  content:
+    text: ' \ud83c\udfa7 Listened to Ep 1: Municipal Transit with Seleta Reynolds
+      by Adam Ruins Everything From Adam Ruins Everything'
+- type: entry
+  published: "2018-05-04T13:58:15+00:00"
+  category:
+  - scrobble
+  - audio
+  - Not Another D&D Podcast
+  - HeadGum
+  listen-of:
+    h-cite:
+      url: https://warp.gumballcdn.com/v1/rss?uuid=5fac20eeb4&rss=https://rss.art19.com/not-another-d-and-d-podcast
+      photo: ""
+      audio:
+      - https://warp.gumballcdn.com/v1/mp3?uuid=5fac20eeb4&show=84944682f0&mp3=http://rss.art19.com/episodes/87cdbcef-3d21-40c4-8367-d7e29f54dcf3.mp3
+      - http://archive.org/download/Not_Another_DD_Podcast-by-HeadGum/mp3
+      name: Welcome to Not Another D&D Podcast! (Meet the Party)
+      author: HeadGum
+      content: 'DM Murph briefly talks about the setting for the campaign, then joins
+        Emily, Jake, and Caldwell to chat about their characters! Get to know Moonshine
+        Cybin -- a backwoods elf druid who had to leave her home, the ol'' crick,
+        cuz "something ain''t right." Marvel at the athletic prowess of Hardwon Surefoot
+        -- a human fighter raised by dwarves in a dwarphanage. Tussle the hair of
+        Beverly Toegold the Fifth -- a halfling boy scout and member of the Green
+        Teens Junior Paladin Association! '
+  content:
+    text: ' \ud83c\udfa7 Listened to Welcome to Not Another D&D Podcast! (Meet the
+      Party) by HeadGum From Not Another D&D Podcast'
+...

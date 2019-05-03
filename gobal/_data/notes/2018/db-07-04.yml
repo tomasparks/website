@@ -1,0 +1,84 @@
+---
+- type: entry
+  published: "2018-07-04T11:06:43+00:00"
+  category:
+  - scrobble
+  - audio
+  - 5 live Science Podcast
+  - BBC Radio 5 live
+  listen-of:
+    h-cite:
+      url: http://podcasts.files.bbci.co.uk/p02pc9ny.rss
+      photo: ""
+      audio:
+      - http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06bpcp3.mp3
+      - http://archive.org/download/5_live_Science_Podcast-by-BBC_Radio_5_live/p06bpcp3.mp3
+      name: Dr Karl
+      author: BBC Radio 5 live
+      content: Dr Karl answers questions on the universe, plasma, 5G and much more.
+  content:
+    text: ' \ud83c\udfa7 Listened to Dr Karl by @bbc5live From 5 live Science Podcast'
+- type: entry
+  published: "2018-07-04T13:56:58+00:00"
+  category:
+  - scrobble
+  - audio
+  - 5 live Science Podcast
+  - BBC Radio 5 live
+  listen-of:
+    h-cite:
+      url: http://podcasts.files.bbci.co.uk/p02pc9ny.rss
+      photo: ""
+      audio:
+      - http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p068pk6z.mp3
+      - http://archive.org/download/5_live_Science_Podcast-by-BBC_Radio_5_live/p068pk6z.mp3
+      name: Dr. Karl
+      author: BBC Radio 5 live
+      content: How did Newton work out the weight of the Earth? How did Einstein predict
+        that rays of light would be bent by the Sun? And do squirrels spontaneously
+        combust. Dr Karl answers the questions of curious callers.
+  content:
+    text: ' \ud83c\udfa7 Listened to Dr. Karl by @bbc5live From 5 live Science Podcast'
+- type: entry
+  published: "2018-07-04T14:43:19+00:00"
+  category:
+  - scrobble
+  - audio
+  - 5 live Science Podcast
+  - BBC Radio 5 live
+  listen-of:
+    h-cite:
+      url: http://podcasts.files.bbci.co.uk/p02pc9ny.rss
+      photo: ""
+      audio:
+      - http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p06821d6.mp3
+      - http://archive.org/download/5_live_Science_Podcast-by-BBC_Radio_5_live/p06821d6.mp3
+      name: Dr Karl
+      author: BBC Radio 5 live
+      content: Dr Karl and Dr Rhod discuss your science questions, including how does
+        Australia handle water shortages, is time variable, and why can one listener
+        hear his neighbour's ultrasonic cat repellent device?
+  content:
+    text: ' \ud83c\udfa7 Listened to Dr Karl by @bbc5live From 5 live Science Podcast'
+- type: entry
+  published: "2018-07-04T13:07:53+00:00"
+  category:
+  - scrobble
+  - audio
+  - 5 live Science Podcast
+  - BBC Radio 5 live
+  listen-of:
+    h-cite:
+      url: http://podcasts.files.bbci.co.uk/p02pc9ny.rss
+      photo: ""
+      audio:
+      - http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p069c7yb.mp3
+      - http://archive.org/download/5_live_Science_Podcast-by-BBC_Radio_5_live/p069c7yb.mp3
+      name: Dr Karl science phone-in
+      author: BBC Radio 5 live
+      content: Dr Karl answers your science questions and discusses cockroach milk,volcanic
+        activity and coronal mass ejection.
+  content:
+    text: ' \ud83c\udfa7 Listened to Dr Karl science phone-in by @bbc5live From 5
+      live Science Podcast'
+...

@@ -1,0 +1,50 @@
+---
+- type: entry
+  published: "2018-08-30T04:59:53+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://rpgmp3.com/v5/feed/podcast/
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Yorkton_Gamer_Guild/SSR_Session_01.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/SSR_Session_01.mp3
+      name: Shattered Star Reforged Session 01
+      author: Hal
+      content: "Regrouping \u2013 The remnants of the Shard Seekers regroup in Magnimar
+        and reinforce themselves with greater aid from the Pathfinder Society and
+        the temples in Magnimar, then sell their treasure for a small fortune. Thing
+        as Goram, Half-orc Two-handed Fighter Heather as Arrow on the Wind, Shoanti
+        Zen Archer Kurtis as Diane Archer, Half-elf Summoner, [\u2026]"
+  content:
+    text: ' \ud83c\udfa7 Listened to Shattered Star Reforged Session 01 by @rpgmp3
+      From #RPGMP3ActualPlayPodcast'
+- type: entry
+  published: "2018-08-30T01:45:08+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://rpgmp3.com/v5/feed/podcast/
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/MandM3e_Quickstart_2_Batman_and_Flash_vs_Grodd_and_Bane.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/MandM3e_Quickstart_2_Batman_and_Flash_vs_Grodd_and_Bane.mp3
+      name: 'Mutants and Masterminds Quickstart: Batman and Flash vs Grodd and Bane'
+      author: Hal
+      content: "This superhero roleplaying scenario is a test game for us, a second
+        attempt at using the Mutants and Masterminds 3e system. A 2 player game, with
+        a review of the scenario at the end. Starring: Helen as Batman Adam as The
+        Flash Jared as the GM Thanks to: \u2013 Green Ronin, for making this Quickstart
+        [\u2026]"
+  content:
+    text: ' \ud83c\udfa7 Listened to Mutants and Masterminds Quickstart: Batman and
+      Flash vs Grodd and Bane by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+...

@@ -1,0 +1,113 @@
+---
+- type: entry
+  published: "2018-03-11T11:12:00+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/185088480-techdirt-should-kids-be-forced-to-learn-coding-or-economics-or-stats.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/185088480-techdirt-should-kids-be-forced-to-learn-coding-or-economics-or-stats.mp3
+      name: Should Kids Be Forced To Learn Coding? Or Economics? Or Stats?
+      author: Techdirt
+      content: Does education need an overhaul for the information age? And what would
+        that entail? Mike Masnick, Hersh Reddy and Dennis Yang discuss.
+  content:
+    text: ' \ud83c\udfa7 Listened to Should Kids Be Forced To Learn Coding? Or Economics?
+      Or Stats? by Techdirt From Techdirt'
+- type: entry
+  published: "2018-03-11T13:11:22+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/409668675-techdirt-the-worst-of-both-worlds-sesta-fosta-together.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/409668675-techdirt-the-worst-of-both-worlds-sesta-fosta-together.mp3
+      name: 'The Worst Of Both Worlds: SESTA & FOSTA Together'
+      author: Techdirt
+      content: "It wasn't very long ago that we last discussed SESTA on the podcast,
+        but now that the House has voted to approve its version of the bill with SESTA
+        tacked on, it's unfortunately time to dig into the issues again. So this week
+        we're joined by returning guest Emma Llans\xF3 from the Center for Democracy
+        and Technology and, for the first time, law professor Eric Goldman to talk
+        about why the combination of SESTA and FOSTA has resulted in the worst of
+        both worlds."
+  content:
+    text: ' \ud83c\udfa7 Listened to The Worst Of Both Worlds: SESTA & FOSTA Together
+      by Techdirt From Techdirt'
+- type: entry
+  published: "2018-03-11T11:44:16+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/188169008-techdirt-is-muni-broadband-a-monopoly-killer-or-a-killer-monopoly.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/188169008-techdirt-is-muni-broadband-a-monopoly-killer-or-a-killer-monopoly.mp3
+      name: Is Muni Broadband A Monopoly Killer Or A Killer Monopoly?
+      author: Techdirt
+      content: What if cities provided broadband alongside services like water and
+        garbage pickup? Mike Masnick, Hersh Reddy and Dennis Yang discuss the potential
+        pros and cons.
+  content:
+    text: ' \ud83c\udfa7 Listened to Is Muni Broadband A Monopoly Killer Or A Killer
+      Monopoly? by Techdirt From Techdirt'
+- type: entry
+  published: "2018-03-11T12:31:30+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/190457346-techdirt-barry-eisler-dissects-the-publishing-industry.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/190457346-techdirt-barry-eisler-dissects-the-publishing-industry.mp3
+      name: Barry Eisler Dissects The Publishing Industry
+      author: Techdirt
+      content: Bestselling author Barry Eisler discusses the evolving culture and
+        business model of publishing with Mike Masnick and Dennis Yang. This week's
+        music is D.I.Y. MySpam by Jayme Gutierrez.
+  content:
+    text: ' \ud83c\udfa7 Listened to Barry Eisler Dissects The Publishing Industry
+      by Techdirt From Techdirt'
+- type: entry
+  published: "2018-03-11T10:36:39+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/ngpn4aAUh44/Emergency_Podcast_Announcement-_Techmeme_Ride_Home_Podcast.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/Emergency_Podcast_Announcement_Techmeme_Ride_Home_Podcast.mp3
+      name: Emergency Podcast Announcement- Techmeme Ride Home Podcast
+      author: Brian McCullough @brianmcc
+      content: Announcing my new podcast! Please subscribe!
+  content:
+    text: ' \ud83c\udfa7 Listened to Emergency Podcast Announcement- Techmeme Ride
+      Home Podcast by Brian McCullough @brianmcc From Internet History Podcast'
+...

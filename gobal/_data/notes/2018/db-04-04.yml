@@ -1,0 +1,78 @@
+---
+- type: entry
+  published: "2018-04-04T13:15:05+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/334810939-techdirt-is-the-economy-more-important-than-democracy.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/334810939-techdirt-is-the-economy-more-important-than-democracy.mp3
+      name: Is The Economy More Important Than Democracy?
+      author: Techdirt
+      content: "The economy is important \u2014 very important. But is that because
+        it matters in and of itself, or because it's the engine for achieving the
+        things we really do care about? Here at Techdirt we've always been strong
+        advocates of the free market, but we've never been absolutists about things
+        like regulation, and we believe it's very important to explore these issues
+        in detail. This week on the podcast we're joined by James Allworth, co-host
+        of the Exponent podcast and author of a recent post entitled Prioritizing
+        Economics is Crippling the U.S. Economy, to discuss entrepreneurship, democracy,
+        the economy and more.\r\n\r\nRead the article: https://medium.com/@jamesallworth/the-slow-decay-of-americas-entrepreneurial-society-f9aeb6145891"
+  content:
+    text: ' \ud83c\udfa7 Listened to Is The Economy More Important Than Democracy?
+      by Techdirt From Techdirt'
+- type: entry
+  published: "2018-04-04T10:25:37+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/424277688-techdirt-how-one-court-just-screwed-up-software-development.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/424277688-techdirt-how-one-court-just-screwed-up-software-development.mp3
+      name: How One Court Just Screwed Up Software Development
+      author: Techdirt
+      content: "We've already written about the insanity of the appeals court overturning
+        Google's fair use victory against Oracle \u2014 but there's plenty to dig
+        into regarding just how bad the ruling is. This week, we're joined by Pamela
+        Samuelson, a law professor and co-director of the Center for Law & Technology
+        at Berkeley, to discuss what the court just did to the world of software development."
+  content:
+    text: ' \ud83c\udfa7 Listened to How One Court Just Screwed Up Software Development
+      by Techdirt From Techdirt'
+- type: entry
+  published: "2018-04-04T12:12:38+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/HErYoCYF7P0/167._NYTimes_Tech_Columnist_Farhad_Manjoo_fmanjoo.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/167_NYTimes_Tech_Columnist_Farhad_Manjoo_fmanjoo.mp3
+      name: 167. NYTimes Tech Columnist, Farhad Manjoo @fmanjoo
+      author: Brian McCullough @brianmcc
+      content: 'Today, a man who needs no introduction: New York Times Technology
+        Columnist Farhad Manjoo. This episode was recorded about two months or so
+        ago, so we talk about the book leave Farhad is on that he only recently made
+        public, but of course, we get into his whole career and his unique vantage
+        point and views on the world of tech.'
+  content:
+    text: ' \ud83c\udfa7 Listened to 167. NYTimes Tech Columnist, Farhad Manjoo @fmanjoo
+      by Brian McCullough @brianmcc From Internet History Podcast'
+...

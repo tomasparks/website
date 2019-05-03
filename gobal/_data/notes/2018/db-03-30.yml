@@ -1,0 +1,26 @@
+---
+- type: entry
+  published: "2018-03-30T23:51:13+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/344137625-techdirt-how-scandalous-are-facebooks-ad-scandals.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/344137625-techdirt-how-scandalous-are-facebooks-ad-scandals.mp3
+      name: How Scandalous Are Facebook's Ad Scandals?
+      author: Techdirt
+      content: Facebook is under a lot of scrutiny these days over its advertising
+        and content moderation systems, especially since the high-profile revelation
+        of Russia-backed ads during the election. But are things being blown out of
+        proportion? And what, exactly, is to be done? This week we dig in to Facebook's
+        ongoing advertising scandals, and debate what they really mean.
+  content:
+    text: ' \ud83c\udfa7 Listened to How Scandalous Are Facebook''s Ad Scandals? by
+      Techdirt From Techdirt'
+...
