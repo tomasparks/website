@@ -2,33 +2,10 @@
 <?php
 // curl -i -d "source=$your_url&target=$target_url" $targets_webmention_endpoint
 
-$yaml = <<<EOD
----
-- type: entry
-  published: "2019-04-13T10:25:00+00:00"
-  category:
-  - scrobble
-  - audio
-  - RPGMP3 Actual Play Podcast
-  - Hal
-  listen-of:
-    h-cite:
-      url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
-      photo: ""
-      audio:
-      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_39.mp3
-      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_39.mp3
-      name: Kingmaker Session 39
-      author: Hal
-      content: "Episode 39 \u2013 in which Kaylen and Michaela explore Varnhold, and
-        encounter the strange creature of Dragonleaf Gulch."
-  content:
-    text: ' \ud83c\udfa7 Listened to Kingmaker Session 39 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
-...
-EOD;
 
 
-$database = yaml_parse($yaml);
+for ($i=1 to 90 ) {
+}
 
 
 $xml = new SimpleXMLElement('<!DOCTYPE html><html lang="en"></html>');
@@ -79,6 +56,8 @@ if (isset($value['listen-of'])) {
                            $citecontents->addAttribute('class', 'e-content');
                            $audio = $cite->addChild('audio');
                                                       $audio->addAttribute('class', 'u-audio');
+                                                      $audio->addAttribute('controls', 'controls');
+                                                      $audio->addAttribute('preload',"metadata");
                            foreach ($value['listen-of']['h-cite']['audio'] as $src ) {
                            $source = $audio->addChild('source');
                            $source->addAttribute('src', $src);
@@ -90,6 +69,7 @@ if (isset($value['listen-of'])) {
                     // bridgy silo link
         $contents =  $entry->addChild('div',$value['content']['text']);
                     $contents->addAttribute('class', 'p-bridgy-twitter-content');
+                    $contents->addAttribute('style', 'display: none;');
                     if (isset($value['listen-of'])) { 
                             $cite = $contents->addChild('cite');                                            
                             $cite->addAttribute('class', 'h-cite'); 
