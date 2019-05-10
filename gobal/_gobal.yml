@@ -14,35 +14,40 @@ gobal:
     webtorrent: '<script src="https://cdn.jsdelivr.net/webtorrent/latest/webtorrent.min.js"></script>'
     moment: '<script src="http://momentjs.com/downloads/moment.min.js"></script>'
     lazysizes: '<script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/4.1.8/lazysizes.min.js" async="" ></script>'
-    
+
+strict_front_matter: true
+
+# Markdown
+markdown: kramdown
+kramdown:
+  auto_ids:       true
+  entity_output:  as_char
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  input:          GFM
+  hard_wrap:      false
+  footnote_nr:    1
+highlighter: rouge
+## EOF _CONFIG.YML    
+plugins:
+ - 'jekyll-seo-tag' # setting in seo.yml 
+   
 responsive_image:
-  template: _includes/srcset-resized-fallback.html
-    # [Optional, Default: 85]
   # Quality to use when resizing images.
   default_quality: 90
-
-  # [Optional, Default: []]
-  # An array of resize configuration objects. Each object must contain at least
-  # a `width` value.
   sizes:
-   # - width: 160  # [Required] How wide the resized image will be.
-  #    quality: 80 # [Optional] Overrides default_quality for this size.
     - width:  1920
     - width: 1600
     - width: 1366
     - width: 1024
     - width: 768
     - width: 640
-  output_path_format: assets/images/resized/%{width}/%{basename}
-  save_to_source: true
-  extra_images:
-     - assets/images/*.*
      
      
 ## SEO.YML
 # Jekyll SEO tag
 # https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
-image: tomasparks.name/about-me/photo.png
+image: 'https://tomasparks.name/about-me/photo.png'
 description:
 author: Tom Sparks
 bio: I am a Alternative Technology Researcher, with a focus on Digital Communication Networks.
