@@ -29,8 +29,7 @@ kramdown:
   footnote_nr:    1
 highlighter: rouge
 ## EOF _CONFIG.YML    
-plugins:
- - 'jekyll-seo-tag' # setting in seo.yml 
+
    
 responsive_image:
   # Quality to use when resizing images.
