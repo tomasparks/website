@@ -110,13 +110,13 @@ $entry = $article->addChild('div');
                         $url->addAttribute('href', $value['url']);
 
 
-$txt = content($value);
-                    $contents = $article->addChild('div',$txt);                           
+                    $txt = content($value);
+                    $contents = $entry->addChild('div',$txt);                           
                     $contents->addAttribute('class', 'e-content');
 
 if (isset($value['listen-of'])) {
-                        $listen =   $contents->addChild('div');   
-                         $listen->addAttribute('class', 'listen-of'); 
+                            $listen =   $contents->addChild('div');   
+                            $listen->addAttribute('class', 'listen-of'); 
                             $cite = $listen->addChild('cite');                                            
                             $cite->addAttribute('class', 'h-cite'); 
                             $url = $cite->addChild('a',
@@ -140,7 +140,7 @@ if (isset($value['listen-of'])) {
                     
                     // bridgy silo link
                     $txt = content($value);
-                    $contents = $article->addChild('div','(🤖) '.$txt.' (🤖)');
+                    $contents = $entry->addChild('div','(🤖) '.$txt.' (🤖)');
                                        
                    
                     $contents->addAttribute('class', 'p-bridgy-twitter-content');
@@ -157,11 +157,11 @@ if (isset($value['listen-of'])) {
                            $citecontents->addAttribute('class', 'e-content');
                            }
                                               
-                   
-       $htmlol = $entry->addChild('ol');
+                  
+       $htmlul = $entry->addChild('ul');
             foreach ($value['category'] as $cat ) {
                 if (!is_array($cat)) {
-                $cat = $htmlol->addChild('div',$cat);
+                $cat = $htmlul->addChild('li',$cat);
                 $cat->addAttribute('class', 'p-category');
                 }
             } 
@@ -171,7 +171,7 @@ if (isset($value['listen-of'])) {
          $published =  $entry->addChild('div',$value['published']);
                     $published->addAttribute('class', 'dt-published');    
                     $published->addAttribute('datetime', $value['published']);  
-                    $published->addAttribute('title', $value['published']);                                      
+                    $published->addAttribute('title', $value['published']);                                   
 
 }}
 // loop end
