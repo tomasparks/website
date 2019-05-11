@@ -23,7 +23,7 @@ $database = array_unique(array_merge($database,$newdata), SORT_REGULAR);
 }
 
 usort($database, function ($item1, $item2) {
-    return $item1['published'] <=> $item2['published'];
+    return $item2['published'] <=> $item1['published'];
 });
 
 
@@ -39,8 +39,8 @@ $name = $article->addChild('h1');
     $name->addAttribute('class', 'p-name');
         $url = $name->addChild('a','h-feed');
         $url->addAttribute('class', 'u-uid u-url');
-        $url->addAttribute('href', 'https://');
-        $author =  $article->addChild('div','author');
+        $url->addAttribute('href', 'https://tomaparks.name/global-fee.html');
+        $author =  $article->addChild('div','Tom sparks');
                     $author->addAttribute('class', 'p-author');   
 
 
@@ -90,7 +90,7 @@ if (isset($value['listen-of'])) {
 
                     
                     // bridgy silo link
-        $contents =  $entry->addChild('div',$value['content']['text']);
+                     if (is_array($value['content'])) {$contents =  $entry->addChild('div',$value['content']['text']);}else {$contents =  $entry->addChild('div',$value['content']);}
                     $contents->addAttribute('class', 'p-bridgy-twitter-content');
                     $contents->addAttribute('style', 'display: none;');
                     if (isset($value['listen-of'])) { 
@@ -114,7 +114,7 @@ if (isset($value['listen-of'])) {
                 }
             } 
                     
-        $author =  $entry->addChild('div','author');
+        $author =  $entry->addChild('div','Tom sparks');
                     $author->addAttribute('class', 'p-author');                    
          $published =  $entry->addChild('div',$value['published']);
                     $published->addAttribute('class', 'dt-published');    
