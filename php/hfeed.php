@@ -11,7 +11,8 @@ if (isset($value['content'])) {
     if (is_array($value['content'])) {
         //echo "contents is an array \n";
         if (isset($value['content']['text']))
-            {//echo "found contents.text\n";$contents =$value['content']['text'];}
+            {//echo "found contents.text\n";
+            $contents =$value['content']['text'];}
             else {$contents =  $value['content']['value'];}   
         } else {$contents =  $value['content'];}
 }
@@ -21,7 +22,8 @@ elseif (isset($value['summary'])) {
     if (is_array($value['summary'])) {
         //echo "summary is an array \n";
         if (isset($value['summary']['text']))
-            {//echo "found summary.text\n";$contents =$value['summary']['text'];}
+            {//echo "found summary.text\n";
+            $contents =$value['summary']['text'];}
             else {$contents =  $value['summary']['value'];}   
         } else {$contents =  $value['summary'];}
 }
