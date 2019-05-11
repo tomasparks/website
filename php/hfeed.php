@@ -79,6 +79,7 @@ $xml = new SimpleXMLElement('<!DOCTYPE html><html lang="en"></html>');
 $htmlhead = $xml->addChild('head');
 $meta = $htmlhead ->addChild('meta');
 $meta->addAttribute('charset', 'utf-8');
+$syle = $htmlhead ->addChild('style','.h-entry {margin: 10px;background-color: lightgray;}');
 $htmlbody = $xml->addChild('body');
 $article = $htmlbody->addChild('article');
 
@@ -105,7 +106,7 @@ $entry = $article->addChild('div');
     $entry->addAttribute('class', 'h-entry');
         $name = $entry->addChild('h1');
             $name->addAttribute('class', 'p-name');
-                    $url = $name->addChild('a',$value['published']);
+                    $url = $name->addChild('a',$value['name']);
                         $url->addAttribute('class', 'u-uid u-url');
                         $url->addAttribute('href', $value['url']);
 
