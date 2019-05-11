@@ -22,6 +22,11 @@ $database = array_unique(array_merge($database,$newdata), SORT_REGULAR);
 }
 }
 
+usort($database, function ($item1, $item2) {
+    return $item1['published'] <=> $item2['published'];
+});
+
+
 //print_r ($database);
 $xml = new SimpleXMLElement('<!DOCTYPE html><html lang="en"></html>');
 $htmlhead = $xml->addChild('head');
@@ -139,5 +144,4 @@ $dom->preserveWhiteSpace = false;
 $dom->formatOutput = true;
 $dom->loadXML($xml->asXML());
 print($dom->saveXML());
-
 ?>
