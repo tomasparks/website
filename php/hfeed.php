@@ -71,7 +71,7 @@ $article->addAttribute('class', 'h-feed');
 // loop start
 foreach ($database as $value) {print_r ($value);
 if (isset($value['published'])) {
-
+print_r($value);
 
 $entry = $article->addChild('div');
     $entry->addAttribute('class', 'h-entry');
@@ -114,20 +114,27 @@ if (isset($value['listen-of'])) {
 
                     
                     // bridgy silo link
-                    if (isset($value['content'])) { 
-                        if (is_array($value['content'])) {
-                            if (isset($value['content']['text'])) 
-                               {$contents =  $entry->addChild('div','(🤖) '.$value['content']['text'].' (🤖)');}
+                    if (isset($value['content'])) {
+                        echo "found contents\n";
+                     if (is_array($value['content'])) {
+                        echo "contents is an array \n";}
+                      /*      if (isset($value['content']['text']))
+                               {echo "found contents.text\n";$contents =  $entry->addChild('div','(🤖) '.$value['content']['text'].' (🤖)');}
                             else {$contents =  $entry->addChild('div','(🤖) '.$value['content']['value'].' (🤖)');}   
                                }
-                        else {$contents =  $entry->addChild('div','(🤖) '.$value['content'].' (🤖)');}
-                    }elseif (isset($value['summary'])) {
-                        if (is_array($value['summary']))
-                            if (isset($value['summary']['text']))                          
-                                {$summary =  $entry->addChild('div','(🤖) '.$value['summary']['text'].' (🤖)');}
-                            else {$summary =  $entry->addChild('div','(🤖) '.$value['summary']['value'].' (🤖)');}   
-                    else {$summary=  $entry->addChild('div','(🤖) '.$value['summary'].' (🤖)');}
-                         }                  
+                        else {$contents =  $entry->addChild('div','(🤖) '.$value['content'].' (🤖)');} */ }
+                    elseif (isset($value['summary'])) {
+                        echo "found summary\n";
+                        if (is_array($value['summary'])) {
+                            echo "summary is an array \n";}
+                            if (isset($value['summary']['text'])) {                         
+                               echo "found summary.text\n";
+                               $contents =  $entry->addChild('div','(🤖) '.$value['summary']['text'].' (🤖)');}
+                            }else {$contents =  $entry->addChild('div','(🤖) '.$value['summary']['value'].' (🤖)');}   
+                        }else {$contents=  $entry->addChild('div','(🤖) '.$value['summary'].' (🤖)');}
+                            
+                    }else {$contents =  $entry->addChild('div','(🤖) '.$value['value'].' (🤖)');}
+                                       
                    
                     $contents->addAttribute('class', 'p-bridgy-twitter-content');
                     $contents->addAttribute('style', 'display: none;');
@@ -179,7 +186,7 @@ chdir("/home/tom/github/website/s3/tomasparks.name/");
 $xml->asXML("gobal-feed.html");
 $dom = new DOMDocument('1.0');
 $dom->preserveWhiteSpace = false;
-//$dom->formatOutput = true;
+$dom->formatOutput = true;
 $dom->loadXML($xml->asXML());
-//print($dom->saveXML());
+print($dom->saveXML());
 ?>
