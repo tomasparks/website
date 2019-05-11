@@ -140,7 +140,7 @@ if (isset($value['listen-of'])) {
                     
                     // bridgy silo link
                     $txt = content($value);
-                    $contents = $article->addChild('div',$txt);
+                    $contents = $article->addChild('div','(🤖) '.$txt.' (🤖)');
                                        
                    
                     $contents->addAttribute('class', 'p-bridgy-twitter-content');
