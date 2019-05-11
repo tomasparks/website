@@ -79,7 +79,15 @@ $xml = new SimpleXMLElement('<!DOCTYPE html><html lang="en"></html>');
 $htmlhead = $xml->addChild('head');
 $meta = $htmlhead ->addChild('meta');
 $meta->addAttribute('charset', 'utf-8');
-$syle = $htmlhead ->addChild('style','.h-entry {margin: 10px;background-color: lightgray;}');
+$webmention= $htmlhead->addChild('link');
+$webmention->addAttribute('rel', 'webmention');
+$webmention->addAttribute('href', 'https://webmention.io/tomasparks.name/webmention');
+$pingback= $htmlhead->addChild('link');
+$pingback->addAttribute('rel', 'pingback');
+$pingback->addAttribute('href', 'https://webmention.io/tomasparks.name/xmlrpc');
+
+
+
 $htmlbody = $xml->addChild('body');
 $article = $htmlbody->addChild('article');
 
@@ -117,7 +125,8 @@ $entry = $article->addChild('div');
 
 if (isset($value['listen-of'])) {
                             $listen =   $contents->addChild('div');   
-                            $listen->addAttribute('class', 'listen-of'); 
+                            $listen->addAttribute('class', 'listen-of');
+                            
                             $cite = $listen->addChild('cite');                                            
                             $cite->addAttribute('class', 'h-cite'); 
                             $url = $cite->addChild('a',
@@ -175,6 +184,7 @@ if (isset($value['listen-of'])) {
                     $published->addAttribute('title', $value['published']);                                   
 
 }}
+
 // loop end
 
 $url = $article->addChild('a');
@@ -186,6 +196,8 @@ $url->addAttribute('href', 'https://brid.gy/publish/flickr');
 $url = $article->addChild('a');
 $url->addAttribute('style', 'display: none;');
 $url->addAttribute('href', 'https://brid.gy/publish/github');
+
+
 
 
 
