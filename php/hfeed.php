@@ -3,10 +3,37 @@
 // curl -i -d "source=$your_url&target=$target_url" $targets_webmention_endpoint
 
 
+function content($value) {
+//------------------------------------
+
+if (isset($value['content'])) {
+    echo "found contents\n";
+    if (is_array($value['content'])) {
+        echo "contents is an array \n";
+        if (isset($value['content']['text']))
+            {echo "found contents.text\n";$contents =$value['content']['text'];}
+            else {$contents =  $value['content']['value'];}   
+        } else {$contents =  $value['content'];}
+}
+//----------------------------------------------------------
+elseif (isset($value['summary'])) {
+    echo "found summary\n";
+    if (is_array($value['summary'])) {
+        echo "summary is an array \n";
+        if (isset($value['summary']['text']))
+            {echo "found summary.text\n";$contents =$value['summary']['text'];}
+            else {$contents =  $value['summary']['value'];}   
+        } else {$contents =  $value['summary'];}
+}
+//----------------------------------------       
+else  {$contents =  $value['value'];}
+return $contents;
+}
+
 $jf2File = array ("main","miniatures","gallery");
 
 $database = array ();
-/* for ($x = 0; $x <= 90; $x++) {
+ for ($x = 0; $x <= 90; $x++) {
 
 $tmp = date("Y-m-d",strtotime( '-'.$x.' days' ))."\n";
 $date_split = date_parse($tmp);
@@ -26,7 +53,7 @@ $database = array_merge($database,$newdata);
 $database = array_unique(array_merge($database,$newdata), SORT_REGULAR);
 }
 }
-*/
+
 foreach ($jf2File as $value) {
 chdir("/home/tom/github/website/sources/gobal/_data/feeds/");
 if (file_exists("/home/tom/github/website/sources/gobal/_data/feeds/".$value.".jf2")) {
@@ -69,9 +96,10 @@ $article->addAttribute('class', 'h-feed');
 
 
 // loop start
-foreach ($database as $value) {print_r ($value);
-if (isset($value['published'])) {
+foreach ($database as $value) {
 print_r($value);
+if (isset($value['published'])) {
+
 
 $entry = $article->addChild('div');
     $entry->addAttribute('class', 'h-entry');
@@ -80,15 +108,12 @@ $entry = $article->addChild('div');
                     $url = $name->addChild('a',$value['published']);
                         $url->addAttribute('class', 'u-uid u-url');
                         $url->addAttribute('href', $value['url']);
-/*if (isset($value['content'])) { 
-                        if (is_array($value['content'])) {$contents =  $entry->addChild('div',$value['content']['text']);} else {$summary =  $entry->addChild('div',$value['content']);}
-} elseif (isset($value['summary'])) {
-                           if (is_array($value['summary'])) {$summary =  $entry->addChild('div',$value['summary']['text']);} else {$summary=  $entry->addChild('div',$value['summary']);}
-                         }
-                         
-                          
+
+
+$txt = content($value);
+                    $contents = $article->addChild('div',$txt);                           
                     $contents->addAttribute('class', 'e-content');
-*/
+
 if (isset($value['listen-of'])) {
                         $listen =   $contents->addChild('div');   
                          $listen->addAttribute('class', 'listen-of'); 
@@ -114,26 +139,8 @@ if (isset($value['listen-of'])) {
 
                     
                     // bridgy silo link
-                    if (isset($value['content'])) {
-                        echo "found contents\n";
-                     if (is_array($value['content'])) {
-                        echo "contents is an array \n";}
-                      /*      if (isset($value['content']['text']))
-                               {echo "found contents.text\n";$contents =  $entry->addChild('div','(🤖) '.$value['content']['text'].' (🤖)');}
-                            else {$contents =  $entry->addChild('div','(🤖) '.$value['content']['value'].' (🤖)');}   
-                               }
-                        else {$contents =  $entry->addChild('div','(🤖) '.$value['content'].' (🤖)');} */ }
-                    elseif (isset($value['summary'])) {
-                        echo "found summary\n";
-                        if (is_array($value['summary'])) {
-                            echo "summary is an array \n";}
-                            if (isset($value['summary']['text'])) {                         
-                               echo "found summary.text\n";
-                               $contents =  $entry->addChild('div','(🤖) '.$value['summary']['text'].' (🤖)');}
-                            }else {$contents =  $entry->addChild('div','(🤖) '.$value['summary']['value'].' (🤖)');}   
-                        }else {$contents=  $entry->addChild('div','(🤖) '.$value['summary'].' (🤖)');}
-                            
-                    }else {$contents =  $entry->addChild('div','(🤖) '.$value['value'].' (🤖)');}
+                    $txt = content($value);
+                    $contents = $article->addChild('div',$txt);
                                        
                    
                     $contents->addAttribute('class', 'p-bridgy-twitter-content');
