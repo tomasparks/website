@@ -2,12 +2,27 @@
 <?php
 // curl -i -d "source=$your_url&target=$target_url" $targets_webmention_endpoint
 
+$database = array ();
+for ($x = 0; $x <= 90; $x++) {
+
+$tmp = date("Y-m-d",strtotime( '-'.$x.' days' ))."\n";
+$date_split = date_parse($tmp);
+
+//print_r ($date_split);
+
+chdir("/home/tom/github/website/sources/gobal/_data/notes/".$date_split['year']."/");
+if (file_exists("/home/tom/github/website/sources/gobal/_data/notes/".$date_split['year']."/db-".str_pad($date_split['month'], 2, '0', STR_PAD_LEFT)."-".str_pad($date_split['day'], 2, '0', STR_PAD_LEFT).".yml")) {
 
 
-//for ($i=1 to 90 ) {
-//}
+$newdata = yaml_parse_file("/home/tom/github/website/sources/gobal/_data/notes/".$date_split['year']."/db-".str_pad($date_split['month'], 2, '0', STR_PAD_LEFT)."-".str_pad($date_split['day'], 2, '0', STR_PAD_LEFT).".yml");
+//print_r ($newdata);
+$database = array_merge($database,$newdata);
+$database = array_unique(array_merge($database,$newdata), SORT_REGULAR);
 
+}
+}
 
+//print_r ($database);
 $xml = new SimpleXMLElement('<!DOCTYPE html><html lang="en"></html>');
 $htmlhead = $xml->addChild('head');
 $meta = $htmlhead ->addChild('meta');
@@ -30,6 +45,7 @@ $article->addAttribute('class', 'h-feed');
 
 // loop start
 foreach ($database as $value) {
+//print_r ($value);
 $entry = $article->addChild('div');
     $entry->addAttribute('class', 'h-entry');
         $name = $entry->addChild('h1');
@@ -37,9 +53,11 @@ $entry = $article->addChild('div');
                     $url = $name->addChild('a',$value['published']);
                         $url->addAttribute('class', 'u-uid u-url');
                         $url->addAttribute('href', 'https://');
-                        
-                        
-        $contents =  $entry->addChild('div',$value['content']['text']);
+
+                        if (is_array($value['content'])) {
+                        $contents =  $entry->addChild('div',$value['content']['text']);}
+                         else 
+                         {$contents =  $entry->addChild('div',$value['content']);}
                     $contents->addAttribute('class', 'e-content');
 
 if (isset($value['listen-of'])) {
@@ -85,8 +103,10 @@ if (isset($value['listen-of'])) {
                    
        $htmlol = $entry->addChild('ol');
             foreach ($value['category'] as $cat ) {
+                if (!is_array($cat)) {
                 $cat = $htmlol->addChild('div',$cat);
                 $cat->addAttribute('class', 'p-category');
+                }
             } 
                     
         $author =  $entry->addChild('div','author');
@@ -109,6 +129,11 @@ $url = $article->addChild('a');
 $url->addAttribute('style', 'display: none;');
 $url->addAttribute('href', 'https://brid.gy/publish/github');
 
+
+
+
+chdir("/home/tom/github/website/s3/tomasparks.name/");
+$xml->asXML("gobal-feed.html");
 $dom = new DOMDocument('1.0');
 $dom->preserveWhiteSpace = false;
 $dom->formatOutput = true;
