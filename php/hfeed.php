@@ -2,6 +2,9 @@
 <?php
 // curl -i -d "source=$your_url&target=$target_url" $targets_webmention_endpoint
 
+
+$jf2File = array ("main","miniatures","gallery");
+
 $database = array ();
 for ($x = 0; $x <= 90; $x++) {
 
@@ -14,17 +17,29 @@ chdir("/home/tom/github/website/sources/gobal/_data/notes/".$date_split['year'].
 if (file_exists("/home/tom/github/website/sources/gobal/_data/notes/".$date_split['year']."/db-".str_pad($date_split['month'], 2, '0', STR_PAD_LEFT)."-".str_pad($date_split['day'], 2, '0', STR_PAD_LEFT).".yml")) {
 
 
+
+
+
 $newdata = yaml_parse_file("/home/tom/github/website/sources/gobal/_data/notes/".$date_split['year']."/db-".str_pad($date_split['month'], 2, '0', STR_PAD_LEFT)."-".str_pad($date_split['day'], 2, '0', STR_PAD_LEFT).".yml");
 //print_r ($newdata);
 $database = array_merge($database,$newdata);
 $database = array_unique(array_merge($database,$newdata), SORT_REGULAR);
-
 }
 }
 
-usort($database, function ($item1, $item2) {
-    return $item2['published'] <=> $item1['published'];
-});
+foreach ($jf2File as $value) {
+chdir("/home/tom/github/website/sources/gobal/_data/feeds/");
+$json =file_get_contents("/home/tom/github/website/sources/gobal/_data/feeds/".$value.".jf2");
+//print_r ($json);
+$newdata = json_decode($json, true);
+
+
+//print_r($newdata);
+$database = array_merge($database,$newdata);
+$database = array_unique(array_merge($database,$newdata), SORT_REGULAR);
+}
+
+usort($database, function ($item1, $item2) {return $item2['published'] <=> $item1['published'];});
 
 
 //print_r ($database);
@@ -57,7 +72,7 @@ $entry = $article->addChild('div');
             $name->addAttribute('class', 'p-name');
                     $url = $name->addChild('a',$value['published']);
                         $url->addAttribute('class', 'u-uid u-url');
-                        $url->addAttribute('href', 'https://');
+                        $url->addAttribute('href', $value['url']);
 
                         if (is_array($value['content'])) {
                         $contents =  $entry->addChild('div',$value['content']['text']);}
