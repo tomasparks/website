@@ -38,7 +38,7 @@ $database = array ();
 $tmp = date("Y-m-d",strtotime( '-'.$x.' days' ))."\n";
 $date_split = date_parse($tmp);
 
-//print_r ($date_split);
+////print_r ($date_split);
 
 chdir("/home/tom/github/website/sources/gobal/_data/notes/".$date_split['year']."/");
 if (file_exists("/home/tom/github/website/sources/gobal/_data/notes/".$date_split['year']."/db-".str_pad($date_split['month'], 2, '0', STR_PAD_LEFT)."-".str_pad($date_split['day'], 2, '0', STR_PAD_LEFT).".yml")) {
@@ -48,7 +48,7 @@ if (file_exists("/home/tom/github/website/sources/gobal/_data/notes/".$date_spli
 
 
 $newdata = yaml_parse_file("/home/tom/github/website/sources/gobal/_data/notes/".$date_split['year']."/db-".str_pad($date_split['month'], 2, '0', STR_PAD_LEFT)."-".str_pad($date_split['day'], 2, '0', STR_PAD_LEFT).".yml");
-//print_r ($newdata);
+////print_r ($newdata);
 $database = array_merge($database,$newdata);
 $database = array_unique(array_merge($database,$newdata), SORT_REGULAR);
 }
@@ -58,14 +58,14 @@ foreach ($jf2File as $value) {
 chdir("/home/tom/github/website/sources/gobal/_data/feeds/");
 if (file_exists("/home/tom/github/website/sources/gobal/_data/feeds/".$value.".jf2")) {
 $json =file_get_contents("/home/tom/github/website/sources/gobal/_data/feeds/".$value.".jf2");
-print_r ($json);
+//print_r ($json);
 $newdata = json_decode($json, true);
 
 echo is_array($newdata);
 //echo is_array($newdata[0]);
 
 
-print_r($newdata);
+//print_r($newdata);
 $database = array_merge($database,$newdata['children']);
 $database = array_unique(array_merge($database,$newdata['children']), SORT_REGULAR);
 }}
@@ -74,7 +74,7 @@ $database = array_unique(array_merge($database,$newdata['children']), SORT_REGUL
 usort($database, function ($item1, $item2) {return $item2['published'] <=> $item1['published'];});
 
 
-//print_r ($database);
+////print_r ($database);
 $xml = new SimpleXMLElement('<!DOCTYPE html><html lang="en"></html>');
 $htmlhead = $xml->addChild('head');
 $meta = $htmlhead ->addChild('meta');
@@ -106,7 +106,7 @@ $article->addAttribute('class', 'h-feed');
 
 // loop start
 foreach ($database as $value) {
-print_r($value);
+//print_r($value);
 if (isset($value['published'])) {
 
 
@@ -208,5 +208,5 @@ $dom = new DOMDocument('1.0');
 $dom->preserveWhiteSpace = false;
 $dom->formatOutput = true;
 $dom->loadXML($xml->asXML());
-//print($dom->saveXML());
+////print($dom->saveXML());
 ?>
