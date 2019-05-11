@@ -6,7 +6,7 @@
 $jf2File = array ("main","miniatures","gallery");
 
 $database = array ();
-for ($x = 0; $x <= 90; $x++) {
+/* for ($x = 0; $x <= 90; $x++) {
 
 $tmp = date("Y-m-d",strtotime( '-'.$x.' days' ))."\n";
 $date_split = date_parse($tmp);
@@ -26,7 +26,7 @@ $database = array_merge($database,$newdata);
 $database = array_unique(array_merge($database,$newdata), SORT_REGULAR);
 }
 }
-
+*/
 foreach ($jf2File as $value) {
 chdir("/home/tom/github/website/sources/gobal/_data/feeds/");
 if (file_exists("/home/tom/github/website/sources/gobal/_data/feeds/".$value.".jf2")) {
@@ -34,11 +34,15 @@ $json =file_get_contents("/home/tom/github/website/sources/gobal/_data/feeds/".$
 //print_r ($json);
 $newdata = json_decode($json, true);
 
+echo is_array($newdata);
+//echo is_array($newdata[0]);
 
-//print_r($newdata);
-$database = array_merge($database,$newdata);
-$database = array_unique(array_merge($database,$newdata), SORT_REGULAR);
+
+print_r($newdata);
+$database = array_merge($database,$newdata['children']);
+$database = array_unique(array_merge($database,$newdata['children']), SORT_REGULAR);
 }}
+
 
 usort($database, function ($item1, $item2) {return $item2['published'] <=> $item1['published'];});
 
@@ -65,9 +69,10 @@ $article->addAttribute('class', 'h-feed');
 
 
 // loop start
-foreach ($database as $value) {
+foreach ($database as $value) {print_r ($value);
 if (isset($value['published'])) {
-//print_r ($value);
+
+
 $entry = $article->addChild('div');
     $entry->addAttribute('class', 'h-entry');
         $name = $entry->addChild('h1');
@@ -75,13 +80,15 @@ $entry = $article->addChild('div');
                     $url = $name->addChild('a',$value['published']);
                         $url->addAttribute('class', 'u-uid u-url');
                         $url->addAttribute('href', $value['url']);
-
-                        if (is_array($value['content'])) {
-                        $contents =  $entry->addChild('div',$value['content']['text']);}
-                         else 
-                         {$contents =  $entry->addChild('div',$value['content']);}
+/*if (isset($value['content'])) { 
+                        if (is_array($value['content'])) {$contents =  $entry->addChild('div',$value['content']['text']);} else {$summary =  $entry->addChild('div',$value['content']);}
+} elseif (isset($value['summary'])) {
+                           if (is_array($value['summary'])) {$summary =  $entry->addChild('div',$value['summary']['text']);} else {$summary=  $entry->addChild('div',$value['summary']);}
+                         }
+                         
+                          
                     $contents->addAttribute('class', 'e-content');
-
+*/
 if (isset($value['listen-of'])) {
                         $listen =   $contents->addChild('div');   
                          $listen->addAttribute('class', 'listen-of'); 
@@ -107,7 +114,21 @@ if (isset($value['listen-of'])) {
 
                     
                     // bridgy silo link
-                     if (is_array($value['content'])) {$contents =  $entry->addChild('div','(🤖) '.$value['content']['text'].' (🤖)');}else {$contents =  $entry->addChild('div','(🤖) '.$value['content'].' (🤖)');}
+                    if (isset($value['content'])) { 
+                        if (is_array($value['content'])) {
+                            if (isset($value['content']['text'])) 
+                               {$contents =  $entry->addChild('div','(🤖) '.$value['content']['text'].' (🤖)');}
+                            else {$contents =  $entry->addChild('div','(🤖) '.$value['content']['value'].' (🤖)');}   
+                               }
+                        else {$contents =  $entry->addChild('div','(🤖) '.$value['content'].' (🤖)');}
+                    }elseif (isset($value['summary'])) {
+                        if (is_array($value['summary']))
+                            if (isset($value['summary']['text']))                          
+                                {$summary =  $entry->addChild('div','(🤖) '.$value['summary']['text'].' (🤖)');}
+                            else {$summary =  $entry->addChild('div','(🤖) '.$value['summary']['value'].' (🤖)');}   
+                    else {$summary=  $entry->addChild('div','(🤖) '.$value['summary'].' (🤖)');}
+                         }                  
+                   
                     $contents->addAttribute('class', 'p-bridgy-twitter-content');
                     $contents->addAttribute('style', 'display: none;');
                     if (isset($value['listen-of'])) { 
@@ -158,7 +179,7 @@ chdir("/home/tom/github/website/s3/tomasparks.name/");
 $xml->asXML("gobal-feed.html");
 $dom = new DOMDocument('1.0');
 $dom->preserveWhiteSpace = false;
-$dom->formatOutput = true;
+//$dom->formatOutput = true;
 $dom->loadXML($xml->asXML());
-print($dom->saveXML());
+//print($dom->saveXML());
 ?>
