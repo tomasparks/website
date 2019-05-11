@@ -29,6 +29,7 @@ $database = array_unique(array_merge($database,$newdata), SORT_REGULAR);
 
 foreach ($jf2File as $value) {
 chdir("/home/tom/github/website/sources/gobal/_data/feeds/");
+if (file_exists("/home/tom/github/website/sources/gobal/_data/feeds/".$value.".jf2")) {
 $json =file_get_contents("/home/tom/github/website/sources/gobal/_data/feeds/".$value.".jf2");
 //print_r ($json);
 $newdata = json_decode($json, true);
@@ -37,7 +38,7 @@ $newdata = json_decode($json, true);
 //print_r($newdata);
 $database = array_merge($database,$newdata);
 $database = array_unique(array_merge($database,$newdata), SORT_REGULAR);
-}
+}}
 
 usort($database, function ($item1, $item2) {return $item2['published'] <=> $item1['published'];});
 
@@ -65,6 +66,7 @@ $article->addAttribute('class', 'h-feed');
 
 // loop start
 foreach ($database as $value) {
+if (isset($value['published'])) {
 //print_r ($value);
 $entry = $article->addChild('div');
     $entry->addAttribute('class', 'h-entry');
@@ -105,7 +107,7 @@ if (isset($value['listen-of'])) {
 
                     
                     // bridgy silo link
-                     if (is_array($value['content'])) {$contents =  $entry->addChild('div',$value['content']['text']);}else {$contents =  $entry->addChild('div',$value['content']);}
+                     if (is_array($value['content'])) {$contents =  $entry->addChild('div','(🤖) '.$value['content']['text'].' (🤖)');}else {$contents =  $entry->addChild('div','(🤖) '.$value['content'].' (🤖)');}
                     $contents->addAttribute('class', 'p-bridgy-twitter-content');
                     $contents->addAttribute('style', 'display: none;');
                     if (isset($value['listen-of'])) { 
@@ -136,7 +138,7 @@ if (isset($value['listen-of'])) {
                     $published->addAttribute('datetime', $value['published']);  
                     $published->addAttribute('title', $value['published']);                                      
 
-}
+}}
 // loop end
 
 $url = $article->addChild('a');
