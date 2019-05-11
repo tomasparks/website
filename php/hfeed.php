@@ -58,7 +58,7 @@ foreach ($jf2File as $value) {
 chdir("/home/tom/github/website/sources/gobal/_data/feeds/");
 if (file_exists("/home/tom/github/website/sources/gobal/_data/feeds/".$value.".jf2")) {
 $json =file_get_contents("/home/tom/github/website/sources/gobal/_data/feeds/".$value.".jf2");
-//print_r ($json);
+print_r ($json);
 $newdata = json_decode($json, true);
 
 echo is_array($newdata);
