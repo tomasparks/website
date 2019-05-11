@@ -7,21 +7,21 @@ function content($value) {
 //------------------------------------
 
 if (isset($value['content'])) {
-    echo "found contents\n";
+    //echo "found contents\n";
     if (is_array($value['content'])) {
-        echo "contents is an array \n";
+        //echo "contents is an array \n";
         if (isset($value['content']['text']))
-            {echo "found contents.text\n";$contents =$value['content']['text'];}
+            {//echo "found contents.text\n";$contents =$value['content']['text'];}
             else {$contents =  $value['content']['value'];}   
         } else {$contents =  $value['content'];}
 }
 //----------------------------------------------------------
 elseif (isset($value['summary'])) {
-    echo "found summary\n";
+    //echo "found summary\n";
     if (is_array($value['summary'])) {
-        echo "summary is an array \n";
+        //echo "summary is an array \n";
         if (isset($value['summary']['text']))
-            {echo "found summary.text\n";$contents =$value['summary']['text'];}
+            {//echo "found summary.text\n";$contents =$value['summary']['text'];}
             else {$contents =  $value['summary']['value'];}   
         } else {$contents =  $value['summary'];}
 }
@@ -61,8 +61,8 @@ $json =file_get_contents("/home/tom/github/website/sources/gobal/_data/feeds/".$
 //print_r ($json);
 $newdata = json_decode($json, true);
 
-echo is_array($newdata);
-//echo is_array($newdata[0]);
+//echo is_array($newdata);
+////echo is_array($newdata[0]);
 
 
 //print_r($newdata);
