@@ -24,84 +24,6 @@
   content:
     text: ' \ud83c\udfa7 Listened to BitJam Episode #219 - Versus by Array From BitJamPodcast'
 - type: entry
-  published: "2018-05-27T06:50:34+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/319784331-techdirt-does-pharma-really-need-patents.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/319784331-techdirt-does-pharma-really-need-patents.mp3
-      name: Does Pharma Really Need Patents?
-      author: Techdirt
-      content: 'It doesn''t take many stories of people suffering due to unaffordable
-        medicine to make you question the state of pharmaceutical patents, but the
-        arguments in their defense are loud and frequent. Most are variations on the
-        same theme: without the promise of a monopoly, important drugs would never
-        be researched and developed. But does this argument truly hold up? It''s come
-        up as a tangent in previous episodes of the podcast, but this week we''re
-        dedicating a full episode to questioning the popular defenses of pharma patents
-        and looking for a better way forward.'
-  content:
-    text: ' \ud83c\udfa7 Listened to Does Pharma Really Need Patents? by Techdirt
-      From Techdirt'
-- type: entry
-  published: "2018-05-27T13:27:02+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/317237497-techdirt-why-this-isp-supports-net-neutrality-privacy-rules-and-more.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/317237497-techdirt-why-this-isp-supports-net-neutrality-privacy-rules-and-more.mp3
-      name: Why This ISP Supports Net Neutrality, Privacy Rules And More
-      author: Techdirt
-      content: Since Congress threw out new privacy rules for ISPs that were supposed
-        to come into effect soon, there's been a renewed uproar on all sides of the
-        debate about internet regulation. While the big ISPs generally want to be
-        able to do as they please, there are smaller service providers out there that
-        fully understand and embrace the need for privacy, net neutrality and more.
-        One such ISP is Sonic, and this week we're joined by CEO Dane Jasper to discuss
-        why these rules are a good thing.
-  content:
-    text: ' \ud83c\udfa7 Listened to Why This ISP Supports Net Neutrality, Privacy
-      Rules And More by Techdirt From Techdirt'
-- type: entry
-  published: "2018-05-27T21:20:14+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/314925967-techdirt-the-end-of-ownership.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/314925967-techdirt-the-end-of-ownership.mp3
-      name: The End Of Ownership
-      author: Techdirt
-      content: 'The basic impetus behind DRM is obvious: a frantic, misguided desire
-        to make digital products behave like physical ones. But the truth is DRM goes
-        far, far beyond that, restricting all sorts of activities that are intrinsic
-        to the idea of "owning" something. Two people who have thought a lot about
-        this are law professors Aaron Perzanowski and Jason Schultz, authors of the
-        new book The End Of Ownership. This week, Aaron and Jason join the podcast
-        to discuss the book and the worrying status of DRM today.'
-  content:
-    text: ' \ud83c\udfa7 Listened to The End Of Ownership by Techdirt From Techdirt'
-- type: entry
   published: "2018-05-27T09:49:14+00:00"
   category:
   - scrobble
@@ -155,6 +77,84 @@
         hopefully help some people make better choices."
   content:
     text: ' \ud83c\udfa7 Listened to The Truth About VPNs by Techdirt From Techdirt'
+- type: entry
+  published: "2018-05-27T21:20:14+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/314925967-techdirt-the-end-of-ownership.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/314925967-techdirt-the-end-of-ownership.mp3
+      name: The End Of Ownership
+      author: Techdirt
+      content: 'The basic impetus behind DRM is obvious: a frantic, misguided desire
+        to make digital products behave like physical ones. But the truth is DRM goes
+        far, far beyond that, restricting all sorts of activities that are intrinsic
+        to the idea of "owning" something. Two people who have thought a lot about
+        this are law professors Aaron Perzanowski and Jason Schultz, authors of the
+        new book The End Of Ownership. This week, Aaron and Jason join the podcast
+        to discuss the book and the worrying status of DRM today.'
+  content:
+    text: ' \ud83c\udfa7 Listened to The End Of Ownership by Techdirt From Techdirt'
+- type: entry
+  published: "2018-05-27T13:27:02+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/317237497-techdirt-why-this-isp-supports-net-neutrality-privacy-rules-and-more.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/317237497-techdirt-why-this-isp-supports-net-neutrality-privacy-rules-and-more.mp3
+      name: Why This ISP Supports Net Neutrality, Privacy Rules And More
+      author: Techdirt
+      content: Since Congress threw out new privacy rules for ISPs that were supposed
+        to come into effect soon, there's been a renewed uproar on all sides of the
+        debate about internet regulation. While the big ISPs generally want to be
+        able to do as they please, there are smaller service providers out there that
+        fully understand and embrace the need for privacy, net neutrality and more.
+        One such ISP is Sonic, and this week we're joined by CEO Dane Jasper to discuss
+        why these rules are a good thing.
+  content:
+    text: ' \ud83c\udfa7 Listened to Why This ISP Supports Net Neutrality, Privacy
+      Rules And More by Techdirt From Techdirt'
+- type: entry
+  published: "2018-05-27T06:50:34+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/319784331-techdirt-does-pharma-really-need-patents.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/319784331-techdirt-does-pharma-really-need-patents.mp3
+      name: Does Pharma Really Need Patents?
+      author: Techdirt
+      content: 'It doesn''t take many stories of people suffering due to unaffordable
+        medicine to make you question the state of pharmaceutical patents, but the
+        arguments in their defense are loud and frequent. Most are variations on the
+        same theme: without the promise of a monopoly, important drugs would never
+        be researched and developed. But does this argument truly hold up? It''s come
+        up as a tangent in previous episodes of the podcast, but this week we''re
+        dedicating a full episode to questioning the popular defenses of pharma patents
+        and looking for a better way forward.'
+  content:
+    text: ' \ud83c\udfa7 Listened to Does Pharma Really Need Patents? by Techdirt
+      From Techdirt'
 - type: entry
   published: "2018-05-27T19:52:12+00:00"
   category:

@@ -21,26 +21,6 @@
   content:
     text: ' \ud83c\udfa7 Listened to Kingmaker Session 35 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
 - type: entry
-  published: "2019-04-12T18:15:25+00:00"
-  category:
-  - scrobble
-  - audio
-  - RPGMP3 Actual Play Podcast
-  - Hal
-  listen-of:
-    h-cite:
-      url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
-      photo: ""
-      audio:
-      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_37.mp3
-      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_37.mp3
-      name: Kingmaker Session 37
-      author: Hal
-      content: "Episode 37 \u2013 in which the Twice Marked King learns of his new
-        allies, and discovers the secrets of the Nomen Centaurs."
-  content:
-    text: ' \ud83c\udfa7 Listened to Kingmaker Session 37 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
-- type: entry
   published: "2019-04-12T15:44:26+00:00"
   category:
   - scrobble
@@ -60,4 +40,24 @@
         Kaylen up to the challenge equal of a Centaur foal? A short episode."
   content:
     text: ' \ud83c\udfa7 Listened to Kingmaker Session 36 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+- type: entry
+  published: "2019-04-12T18:15:25+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_37.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_37.mp3
+      name: Kingmaker Session 37
+      author: Hal
+      content: "Episode 37 \u2013 in which the Twice Marked King learns of his new
+        allies, and discovers the secrets of the Nomen Centaurs."
+  content:
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 37 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
 ...

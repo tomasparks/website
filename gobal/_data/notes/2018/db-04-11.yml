@@ -1,5 +1,30 @@
 ---
 - type: entry
+  published: "2018-04-11T10:32:25+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/427821168-techdirt-can-the-blockchain-save-publishers.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/427821168-techdirt-can-the-blockchain-save-publishers.mp3
+      name: Can The Blockchain Save Publishers?
+      author: Techdirt
+      content: "After the recent launch of po.et, which aims to use the blockchain
+        to create a new business model for digital media companies, Mike was... unconvinced.
+        This led to a Twitter discussion with CEO Jarrod Dicker, which in turn led
+        to a longer in-person conversation about the ideas behind the service and
+        where it might go \u2014 and you can listen to the whole thing on this week's
+        podcast episode."
+  content:
+    text: ' \ud83c\udfa7 Listened to Can The Blockchain Save Publishers? by Techdirt
+      From Techdirt'
+- type: entry
   published: "2018-04-11T15:23:03+00:00"
   category:
   - scrobble
@@ -42,27 +67,6 @@
     text: ' \ud83c\udfa7 Listened to Ep 29: Pete Hammond Pulls Back the Curtain on
       Awards Shows by Adam Ruins Everything From Adam Ruins Everything'
 - type: entry
-  published: "2018-04-11T19:58:44+00:00"
-  category:
-  - scrobble
-  - audio
-  - Adam Ruins Everything
-  - Adam Ruins Everything
-  listen-of:
-    h-cite:
-      url: http://maximumfun.org/feeds/are.xml
-      photo: ""
-      audio:
-      - http://media.adknit.com/a/f/90/adam-ruins-everything/86t52x.1-1.mp3
-      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_28_Jean_Twenge_and_Adam_Discuss_Their_Differences_on_Generational_Differences.mp3
-      name: 'Ep 28: Jean Twenge and Adam Discuss Their Differences on Generational
-        Differences'
-      author: Adam Ruins Everything
-      content: "\_"
-  content:
-    text: ' \ud83c\udfa7 Listened to Ep 28: Jean Twenge and Adam Discuss Their Differences
-      on Generational Differences by Adam Ruins Everything From Adam Ruins Everything'
-- type: entry
   published: "2018-04-11T16:42:47+00:00"
   category:
   - scrobble
@@ -86,28 +90,24 @@
       of Immigrations Courts and Detention Centers by Adam Ruins Everything From Adam
       Ruins Everything'
 - type: entry
-  published: "2018-04-11T10:32:25+00:00"
+  published: "2018-04-11T19:58:44+00:00"
   category:
   - scrobble
   - audio
-  - Techdirt
-  - Techdirt
+  - Adam Ruins Everything
+  - Adam Ruins Everything
   listen-of:
     h-cite:
-      url: https://www.techdirt.com/podcast.xml
+      url: http://maximumfun.org/feeds/are.xml
       photo: ""
       audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/427821168-techdirt-can-the-blockchain-save-publishers.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/427821168-techdirt-can-the-blockchain-save-publishers.mp3
-      name: Can The Blockchain Save Publishers?
-      author: Techdirt
-      content: "After the recent launch of po.et, which aims to use the blockchain
-        to create a new business model for digital media companies, Mike was... unconvinced.
-        This led to a Twitter discussion with CEO Jarrod Dicker, which in turn led
-        to a longer in-person conversation about the ideas behind the service and
-        where it might go \u2014 and you can listen to the whole thing on this week's
-        podcast episode."
+      - http://media.adknit.com/a/f/90/adam-ruins-everything/86t52x.1-1.mp3
+      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_28_Jean_Twenge_and_Adam_Discuss_Their_Differences_on_Generational_Differences.mp3
+      name: 'Ep 28: Jean Twenge and Adam Discuss Their Differences on Generational
+        Differences'
+      author: Adam Ruins Everything
+      content: "\_"
   content:
-    text: ' \ud83c\udfa7 Listened to Can The Blockchain Save Publishers? by Techdirt
-      From Techdirt'
+    text: ' \ud83c\udfa7 Listened to Ep 28: Jean Twenge and Adam Discuss Their Differences
+      on Generational Differences by Adam Ruins Everything From Adam Ruins Everything'
 ...

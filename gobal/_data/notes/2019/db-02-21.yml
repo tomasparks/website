@@ -1,5 +1,25 @@
 ---
 - type: entry
+  published: "2019-02-21T11:32:13+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://rpgmp3.com/v5/feed/podcast/
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/All_For_One_Musketeers_Session_12.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/All_For_One_Musketeers_Session_12.mp3
+      name: All For One Session 12
+      author: Hal
+      content: "Episode 12 \u2013 in which our Musketeers discover the foul truth
+        of the Archbishop\u2019s plot, and Antoine unleashes his holy wrath."
+  content:
+    text: ' \ud83c\udfa7 Listened to All For One Session 12 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+- type: entry
   published: "2019-02-21T16:30:26+00:00"
   category:
   - scrobble
@@ -22,26 +42,6 @@
         a matter of debate \u2013 currently overrun by bandits and monsters. [\u2026]"
   content:
     text: ' \ud83c\udfa7 Listened to Kingmaker Session 00a by @rpgmp3 From #RPGMP3ActualPlayPodcast'
-- type: entry
-  published: "2019-02-21T11:32:13+00:00"
-  category:
-  - scrobble
-  - audio
-  - RPGMP3 Actual Play Podcast
-  - Hal
-  listen-of:
-    h-cite:
-      url: http://rpgmp3.com/v5/feed/podcast/
-      photo: ""
-      audio:
-      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/All_For_One_Musketeers_Session_12.mp3
-      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/All_For_One_Musketeers_Session_12.mp3
-      name: All For One Session 12
-      author: Hal
-      content: "Episode 12 \u2013 in which our Musketeers discover the foul truth
-        of the Archbishop\u2019s plot, and Antoine unleashes his holy wrath."
-  content:
-    text: ' \ud83c\udfa7 Listened to All For One Session 12 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
 - type: entry
   published: "2019-02-21T16:48:12+00:00"
   category:

@@ -30,7 +30,13 @@
 					"value": "\n  The Slashdot effect, also known as slashdotting, occurs when a popular website links to a smaller website, causing a massive increase in traffic. This overloads the smaller site, causing it to slow down or even temporarily become unavailable. The name stems from the huge influx of web traffic which would result from the technology news site Slashdot linking to websites. The original circumstances have changed, as flash crowds from Slashdot were reported in 2005 to be diminishing due to competition from similar sites, and the general adoption of elastically scalable cloud hosting platforms. The effect has been associated with other websites or metablogs such as Fark, Digg, Drudge Report, Imgur, Reddit, and Twitter, leading to terms such as being “farked” or “drudged”, being under the “Reddit effect”—or receiving a “hug of death” from the site in question. Google Doodles, which link to search results on the doodle topic, also result in high increases of traffic from the search results page. Typically, less robust sites are unable to cope with the huge increase in traffic and become unavailable – common causes are lack of sufficient data bandwidth, servers that fail to cope with the high number of requests, and traffic quotas. Sites that are maintained on shared hosting services often fail when confronted with the Slashdot effect.\nA flash crowd is a more generic term without using any specific name that describes a network phenomenon where a network or host suddenly receives a lot of traffic. This is sometimes due to the appearance of a website on a blog or news column.\n\n\n"
 				},
 							"value": "<blockquote>\n  <p>The Slashdot effect, also known as slashdotting, occurs when a popular website links to a smaller website, causing a massive increase in traffic. This overloads the smaller site, causing it to slow down or even temporarily become unavailable. The name stems from the huge influx of web traffic which would result from the technology news site Slashdot linking to websites. The original circumstances have changed, as flash crowds from Slashdot were reported in 2005 to be diminishing due to competition from similar sites, and the general adoption of elastically scalable cloud hosting platforms. The effect has been associated with other websites or metablogs such as Fark, Digg, Drudge Report, Imgur, Reddit, and Twitter, leading to terms such as being “farked” or “drudged”, being under the “Reddit effect”—or receiving a “hug of death” from the site in question. Google Doodles, which link to search results on the doodle topic, also result in high increases of traffic from the search results page. Typically, less robust sites are unable to cope with the huge increase in traffic and become unavailable – common causes are lack of sufficient data bandwidth, servers that fail to cope with the high number of requests, and traffic quotas. Sites that are maintained on shared hosting services often fail when confronted with the Slashdot effect.\nA flash crowd is a more generic term without using any specific name that describes a network phenomenon where a network or host suddenly receives a lot of traffic. This is sometimes due to the appearance of a website on a blog or news column.</p>\n</blockquote>\n\n",
-"category": ["documenting","Diorama","photograph","webtorrent"],"tags": ["website","webtorrent","krpano","videos"]
+							"syndication": { 
+							
+							
+							
+							}
+"category": ["documenting","Diorama","photograph","webtorrent"],
+"tags": ["website","webtorrent","krpano","videos"]
 }
 
 
@@ -53,7 +59,13 @@
 					"value": "After rewatching @LGR’s reviews on Elder scrolls Video game series.\nI liked the look of The Imperial City featured in Elder Scrolls IV: Oblivion.\n"
 				},
 							"value": "<p>After rewatching @LGR’s reviews on <a href=\"https://en.wikipedia.org/wiki/The_Elder_Scrolls\">Elder scrolls</a> Video game series.\nI liked the look of The <a href=\"https://en.uesp.net/wiki/Oblivion:The_Imperial_City\">Imperial City</a> featured in <a href=\"https://en.wikipedia.org/wiki/The_Elder_Scrolls_IV:_Oblivion\">Elder Scrolls IV: Oblivion</a>.</p>\n",
-"category": ["Imperial-City"],"tags": []
+							"syndication": { 
+							
+							
+							
+							}
+"category": ["Imperial-City"],
+"tags": []
 }
 
 
@@ -76,7 +88,13 @@
 					"value": "Why did I buy Krpano?\n\n"
 				},
 							"value": "<p>Why did I buy <a href=\"https://krpano.com/\">Krpano</a>?</p>\n\n",
-"category": ["photograph"],"tags": ["Streetview","FPV","VR","Virtual tour"]
+							"syndication": { 
+							
+							
+							
+							}
+"category": ["photograph"],
+"tags": ["Streetview","FPV","VR","Virtual tour"]
 }
 
 
@@ -99,7 +117,13 @@
 					"value": "The painting methods I am going to use are:\n\n"
 				},
 							"value": "<p>The painting methods I am going to use are:</p>\n\n",
-"category": ["painting","papercraft"],"tags": []
+							"syndication": { 
+							
+							
+							
+							}
+"category": ["painting","papercraft"],
+"tags": []
 }
 
 
@@ -122,7 +146,13 @@
 					"value": "Electronics\n\n"
 				},
 							"value": "<h2 id=\"electronics\">Electronics</h2>\n\n",
-"category": ["Diorama","tools"],"tags": ["papercraft","electronics"]
+							"syndication": { 
+							
+							
+							
+							}
+"category": ["Diorama","tools"],
+"tags": ["papercraft","electronics"]
 }
 
 
@@ -145,7 +175,13 @@
 					"value": "I looked through Architectural endoscopy Articles, I came across these images\n\n"
 				},
 							"value": "<p>I looked through <a href=\"https://en.wikipedia.org/wiki/Architectural_endoscopy\">Architectural endoscopy</a> Articles, I came across these images</p>\n\n",
-"category": ["Diorama","photograph"],"tags": ["Streetview","FPV","VR","Virtual tour"]
+							"syndication": { 
+							
+							
+							
+							}
+"category": ["Diorama","photograph"],
+"tags": ["Streetview","FPV","VR","Virtual tour"]
 }
 
 
@@ -168,7 +204,13 @@
 					"value": "I am the person in that sits in the center of the Venn digram with most of my projects\n\n"
 				},
 							"value": "<p>I am the person in that sits in the center of the <a href=\"https://en.wikipedia.org/wiki/Venn_diagram\">Venn digram</a> with most of my projects</p>\n\n",
-"category": ["Diorama","Other"],"tags": ["MHR emag","NMRA","Miniatur Wunderland"]
+							"syndication": { 
+							
+							
+							
+							}
+"category": ["Diorama","Other"],
+"tags": ["MHR emag","NMRA","Miniatur Wunderland"]
 }
 
 
@@ -191,7 +233,13 @@
 					"value": "I have abandonned the Photo tourism software and I am looking at “Image connectivity graph”\n\n"
 				},
 							"value": "<p>I have abandonned the <a href=\"http://phototour.cs.washington.edu/\">Photo tourism</a> software and I am looking at <a href=\"http://phototour.cs.washington.edu/imagegraphs/\">“Image connectivity graph”</a></p>\n\n",
-"category": ["Diorama","photograph"],"tags": ["Streetview","FPV","VR","Virtual tour","image connectivity graph"]
+							"syndication": { 
+							
+							
+							
+							}
+"category": ["Diorama","photograph"],
+"tags": ["Streetview","FPV","VR","Virtual tour","image connectivity graph"]
 }
 
 
@@ -214,7 +262,13 @@
 					"value": "I am starting to reliase I may need a darkroom to control the lighting of the diorama because I would like to do two different lighting enivorments\n ( day and night ) and I dont know how long the robot well take to photograph each location.\n"
 				},
 							"value": "<p>I am starting to reliase I may need a darkroom to control the lighting of the diorama because I would like to do two different lighting enivorments\n ( day and night ) and I dont know how long the <a href=\"/miniatures/notebook/2018/10/streetview-diorama.html\">robot</a> well take to photograph each location.</p>\n",
-"category": ["Diorama","photograph"],"tags": ["Streetview","FPV","VR","Virtual tour","dark room"]
+							"syndication": { 
+							
+							
+							
+							}
+"category": ["Diorama","photograph"],
+"tags": ["Streetview","FPV","VR","Virtual tour","dark room"]
 }
 
 
@@ -237,7 +291,13 @@
 					"value": "Filming\n\nComputing\n\nI may not film the work I do on my computer.\n\nlive action\n\nUsing a overhead camera rig and camera, I can film the proccess\n\n"
 				},
 							"value": "<h2 id=\"filming\">Filming</h2>\n\n<h3 id=\"computing\">Computing</h3>\n\n<p>I may not film the work I do on my computer.</p>\n\n<h3 id=\"live-action\">live action</h3>\n\n<p>Using a <a href=\"\">overhead camera rig</a> and camera, I can film the proccess</p>\n\n",
-"category": ["documenting"],"tags": []
+							"syndication": { 
+							
+							
+							
+							}
+"category": ["documenting"],
+"tags": []
 }
 
 
@@ -260,7 +320,13 @@
 					"value": "The goal is to create a “Deep Zoom” map of my dioramas.\n\n"
 				},
 							"value": "<p>The goal is to create a <a href=\"https://en.wikipedia.org/wiki/Deep_Zoom\">“Deep Zoom”</a> map of my dioramas.</p>\n\n",
-"category": ["Diorama","photograph"],"tags": ["Streetview","Deep Zoom","map"]
+							"syndication": { 
+							
+							
+							
+							}
+"category": ["Diorama","photograph"],
+"tags": ["Streetview","Deep Zoom","map"]
 }
 
 
@@ -283,7 +349,13 @@
 					"value": "The goal is to create a “Street View”1 of my dioramas.\n\n\n  \n    \n      there are program that can create panoramic Virtual tour software like easypano’s Tourweaver &#8617;\n    \n  \n\n"
 				},
 							"value": "<p>The goal is to create a <a href=\"https://en.wikipedia.org/wiki/Google_Street_View\">“Street View”</a><sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote\">1</a></sup> of my dioramas.</p>\n\n<div class=\"footnotes\">\n  <ol>\n    <li id=\"fn:1\">\n      <p>there are program that can create panoramic <a href=\"https://en.wikipedia.org/wiki/Virtual_tour\">Virtual tour</a> software like easypano’s <a href=\"https://www.easypano.com/virtual-tour-software.html\">Tourweaver</a> <a href=\"#fnref:1\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n  </ol>\n</div>\n",
-"category": ["Diorama","photograph"],"tags": ["Streetview","FPV","VR","Virtual tour"]
+							"syndication": { 
+							
+							
+							
+							}
+"category": ["Diorama","photograph"],
+"tags": ["Streetview","FPV","VR","Virtual tour"]
 }
 
 
@@ -306,7 +378,13 @@
 					"value": "\n"
 				},
 							"value": "\n",
-"category": ["pirate-island"],"tags": []
+							"syndication": { 
+							
+							
+							
+							}
+"category": ["pirate-island"],
+"tags": []
 }
 
 
@@ -329,7 +407,13 @@
 					"value": "\n\n\n  \n    3D map\n  \n\n\n"
 				},
 							"value": "\n<div class=\"polaroid\">\n<img class=\"u-photo\" src=\"/miniatures/assets/images/3d-map.jpg\" alt=\"3D map\" srcset=\"    /miniatures/assets/images/resized/1024/3d-map.jpg 1024w,    /miniatures/assets/images/resized/768/3d-map.jpg 768w,    /miniatures/assets/images/resized/640/3d-map.jpg 640w, /miniatures/assets/images/3d-map.jpg 1280w\" style=\"width:100%\" />\n  <div class=\"container\">\n    <p>3D map</p>\n  </div>\n</div>\n\n",
-"category": ["Diorama"],"tags": ["Shadowbox","topo map","Topographic map","3D map"]
+							"syndication": { 
+							
+							
+							
+							}
+"category": ["Diorama"],
+"tags": ["Shadowbox","topo map","Topographic map","3D map"]
 }
 
 
@@ -352,7 +436,13 @@
 					"value": "I’ve been boucing the idea around of doing a few Diorama\n\nI started to look at the idea after I bought my 3d printer,\nbut it was unsucessfull\n\nI am relooking at the idea from a papercrafting view\n\nPapercraft rules\n\n\n  95% of work needs to be done on the pen plotter\n  no ink/laser printer1\n\n\n\n  \n    \n      Commercial printing for wallpaper/textured paper excluded. &#8617;\n    \n  \n\n"
 				},
 							"value": "<p>I’ve been boucing the idea around of doing a few Diorama</p>\n\n<p>I started to look at the idea after I bought my 3d printer,\nbut it was <a href=\"/miniatures/notebook/2018/07/3dprinter-experiment.html\">unsucessfull</a></p>\n\n<p>I am relooking at the idea from a papercrafting view</p>\n\n<h2 id=\"papercraft-rules\">Papercraft rules</h2>\n\n<ul>\n  <li>95% of work needs to be done on the <a href=\"\">pen plotter</a></li>\n  <li>no ink/laser printer<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote\">1</a></sup></li>\n</ul>\n\n<div class=\"footnotes\">\n  <ol>\n    <li id=\"fn:1\">\n      <p>Commercial printing for wallpaper/textured paper excluded. <a href=\"#fnref:1\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n  </ol>\n</div>\n",
-"category": ["papercraft"],"tags": ["pen plotter","Diorama","steampunk","retro-futurism"]
+							"syndication": { 
+							
+							
+							
+							}
+"category": ["papercraft"],
+"tags": ["pen plotter","Diorama","steampunk","retro-futurism"]
 }
 
 
@@ -375,7 +465,13 @@
 					"value": "Currently DCC (Digital Command Control) is beening used in model railways setups,\nbut I can see other uses within the widder modelling communtiy\n\n\n  static Displays\n  modular diaramas\n  wargaming\n\n\nStatic displays\n\nthere are modellers who put their “completed”1 models in display cases/cabinets, the models are usally group together.\n\nmodular Diorama\n\nI can think of two cases:\n\n\n  kit modellers1\n  travelling diorama:\n\n\npersonal\n\n\n  I was concepting a display for a community group that featured mainstream sci-fi models from TV/movie seires,\n\n\n\n  I want the model’s to indercate:\n** “On This Day” in-unverse events\n** X years till in-unverse event \n** death of Actors from series.\n  the models were going to hanging from the ceeling because of limited space\nSTALLED :(\n\n\n\n  \n    I had started to desgin a Star trek DS9’s Domaon Battle using a mixer of models and peeper ghost effects\nSTALLED :(\n  \n  \n    I was researching a computer-assited [rpg] with shelf-moving mintures\nand with explodable picese { see Crash Test Dummy toys  }\nSTALLED :(\n  \n\n\n\n  \n    \n      some models are never completed &#8617; &#8617;2\n    \n  \n\n"
 				},
 							"value": "<p>Currently <a href=\"https://en.wikipedia.org/wiki/Digital_Command_Control\">DCC (Digital Command Control)</a> is beening used in <a href=\"https://en.wikipedia.org/wiki/Rail_transport_modelling\">model railways setups</a>,\nbut I can see other uses within the widder modelling communtiy</p>\n\n<ul>\n  <li>static Displays</li>\n  <li>modular diaramas</li>\n  <li>wargaming</li>\n</ul>\n\n<h2 id=\"static-displays\">Static displays</h2>\n\n<p>there are modellers who put their “completed”<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote\">1</a></sup> models in display cases/cabinets, the models are usally group together.</p>\n\n<h2 id=\"modular-diorama\">modular Diorama</h2>\n\n<p>I can think of two cases:</p>\n\n<ol>\n  <li>kit modellers<sup id=\"fnref:1:1\"><a href=\"#fn:1\" class=\"footnote\">1</a></sup></li>\n  <li>travelling diorama:</li>\n</ol>\n\n<h2 id=\"personal\">personal</h2>\n\n<ol>\n  <li>I was concepting a display for a community group that featured mainstream sci-fi models from TV/movie seires,</li>\n</ol>\n\n<ul>\n  <li>I want the model’s to indercate:\n** “On This Day” in-unverse events\n** X years till in-unverse event \n** death of Actors from series.</li>\n  <li>the models were going to hanging from the ceeling because of limited space\nSTALLED :(</li>\n</ul>\n\n<ol>\n  <li>\n    <p>I had started to desgin a Star trek DS9’s Domaon Battle using a mixer of models and <a href=\"\">peeper ghost</a> effects\nSTALLED :(</p>\n  </li>\n  <li>\n    <p>I was researching a computer-assited [rpg] with shelf-moving mintures\nand with explodable picese { see <a href=\"https://en.wikipedia.org/wiki/The_Incredible_Crash_Dummies\">Crash Test Dummy toys</a>  }\nSTALLED :(</p>\n  </li>\n</ol>\n\n<div class=\"footnotes\">\n  <ol>\n    <li id=\"fn:1\">\n      <p>some models are never completed <a href=\"#fnref:1\" class=\"reversefootnote\">&#8617;</a> <a href=\"#fnref:1:1\" class=\"reversefootnote\">&#8617;<sup>2</sup></a></p>\n    </li>\n  </ol>\n</div>\n",
-"category": ["Electronics"],"tags": ["Digital Command Control","DCC"]
+							"syndication": { 
+							
+							
+							
+							}
+"category": ["Electronics"],
+"tags": ["Digital Command Control","DCC"]
 }
 
 
@@ -398,7 +494,13 @@
 					"value": "\n"
 				},
 							"value": "\n",
-"category": ["steampunk"],"tags": []
+							"syndication": { 
+							
+							
+							
+							}
+"category": ["steampunk"],
+"tags": []
 }
 
 
@@ -421,7 +523,13 @@
 					"value": "\n"
 				},
 							"value": "\n",
-"category": ["retrofuturism"],"tags": []
+							"syndication": { 
+							
+							
+							
+							}
+"category": ["retrofuturism"],
+"tags": []
 }
 
 
@@ -444,7 +552,13 @@
 					"value": "I bought a Up Mini 3D printer a few years ago (TODO: Year)\nI printed the standard test models, the Stanford bunny and the gear bearing\n\nI started to print objects from thingiverse that I liked.\nBut the models need too much post-cleaning with sharp tools1.\nso I started looking for ways to eliminated as much of the post-clean up work as possible, I found slicing2 software, if the model was not pre-sliced.\nBut it introducted a new headace, joining the parts3 by gluing/welding.\nThe other reason for slicing was to hollow the model for adding electronics\n\n\n  \n    \n      I hate wearing gloves. &#8617;\n    \n    \n      cutting up the model into parts. &#8617;\n    \n    \n      due to variation in heating/temperature and alignment while printing. &#8617;\n    \n  \n\n"
 				},
 							"value": "<p>I bought a <a href=\"http://3dprintingsystems.com/products/3d-printers/up-mini-3d-printer/\">Up Mini 3D printer</a> a few years ago (TODO: Year)\nI printed the standard test models, the <a href=\"https://en.wikipedia.org/wiki/Stanford_bunny\">Stanford bunny</a> and the <a href=\"https://www.thingiverse.com/thing:53451\">gear bearing</a></p>\n\n<p>I started to print objects from <a href=\"https://www.thingiverse.com\">thingiverse</a> that I liked.\nBut the models need too much post-cleaning with sharp tools<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote\">1</a></sup>.\nso I started looking for ways to eliminated as much of the post-clean up work as possible, I found slicing<sup id=\"fnref:2\"><a href=\"#fn:2\" class=\"footnote\">2</a></sup> <a href=\"https://www.netfabb.com\">software</a>, if the model was not pre-sliced.\nBut it introducted a new headace, joining the parts<sup id=\"fnref:3\"><a href=\"#fn:3\" class=\"footnote\">3</a></sup> by gluing/welding.\nThe other reason for slicing was to hollow the model for adding <a href=\"electronics-and-me.md\">electronics</a></p>\n\n<div class=\"footnotes\">\n  <ol>\n    <li id=\"fn:1\">\n      <p>I hate wearing gloves. <a href=\"#fnref:1\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n    <li id=\"fn:2\">\n      <p>cutting up the model into parts. <a href=\"#fnref:2\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n    <li id=\"fn:3\">\n      <p>due to variation in heating/temperature and alignment while printing. <a href=\"#fnref:3\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n  </ol>\n</div>\n",
-"category": ["Diorama"],"tags": ["3D printer","3D printed","Failed"]
+							"syndication": { 
+							
+							
+							
+							}
+"category": ["Diorama"],
+"tags": ["3D printer","3D printed","Failed"]
 }
 
 
@@ -467,7 +581,13 @@
 					"value": "I’ve had a group of bad experience build electronics circuits\n\nin the early 1990:\n\n  I a build a few circuits from a beginner electronic books\n\n\n\n\n  \n    Dick Smith Electronics Fun Way into Electronics Vol. 1\n  \n\n\n\n\n  \n    Dick Smith Electronics Fun Way into Electronics Vol. 2\n  \n\n\n\n  At highschool i want to join electronic club, but the clubs teacher killed that dream.\n\n\nA few years ago: I relooked at getting back into electronics with the arduino starter kit,\nthe LED lights requirements (polarity, resistors) killed it again for me.\n\nPS: I never wanted to learn how to solder, the conductive paint looked like my best option.\nPSS: I was also looking making my own printed circuit boards (PCB), I found heat-transfer method\nI also found conductive ink pen that could use in my pen plotter\n"
 				},
 							"value": "<p>I’ve had a group of bad experience build electronics circuits</p>\n\n<p>in the early 1990:</p>\n<ul>\n  <li>I a build a few circuits from a beginner electronic books</li>\n</ul>\n\n<div class=\"polaroid\">\n<img class=\"u-photo\" src=\"/miniatures/assets/images/DSE_funway_vol1.jpg\" alt=\"Dick Smith Electronics Fun Way into Electronics Vol. 1\" srcset=\" /miniatures/assets/images/DSE_funway_vol1.jpg 388w\" style=\"width:100%\" />\n  <div class=\"container\">\n    <p>Dick Smith Electronics Fun Way into Electronics Vol. 1</p>\n  </div>\n</div>\n\n<div class=\"polaroid\">\n<img class=\"u-photo\" src=\"/miniatures/assets/images/DSE_funway_vol2.jpg\" alt=\"Dick Smith Electronics Fun Way into Electronics Vol. 2\" srcset=\"    /miniatures/assets/images/resized/1024/DSE_funway_vol2.jpg 1024w,    /miniatures/assets/images/resized/768/DSE_funway_vol2.jpg 768w,    /miniatures/assets/images/resized/640/DSE_funway_vol2.jpg 640w, /miniatures/assets/images/DSE_funway_vol2.jpg 1125w\" style=\"width:100%\" />\n  <div class=\"container\">\n    <p>Dick Smith Electronics Fun Way into Electronics Vol. 2</p>\n  </div>\n</div>\n\n<ul>\n  <li>At highschool i want to join electronic club, but the clubs teacher killed that dream.</li>\n</ul>\n\n<p>A few years ago: I relooked at getting back into electronics with the <a href=\"https://www.freetronics.com.au/collections/kits/products/experimenters-kit-for-arduino\">arduino starter kit</a>,\nthe LED lights requirements (polarity, resistors) killed it again for me.</p>\n\n<p>PS: I never wanted to learn how to <a href=\"https://www.makerspaces.com/how-to-solder/\">solder</a>, the <a href=\"https://www.bareconductive.com\">conductive paint</a> looked like my best option.\nPSS: I was also looking making my own <a href=\"https://en.wikipedia.org/wiki/Printed_circuit_board\">printed circuit boards (PCB)</a>, I found <a href=\"https://pcbfx.com\">heat-transfer method</a>\nI also found <a href=\"https://www.circuitscribe.com/\">conductive ink pen</a> that could use in my pen plotter</p>\n",
-"category": ["Electronics"],"tags": []
+							"syndication": { 
+							
+							
+							
+							}
+"category": ["Electronics"],
+"tags": []
 }
 
 
@@ -490,7 +610,13 @@
 					"value": "\n  The plotter is a computer printer for printing vector graphics.\nIn the past, plotters were used in applications such as computer-aided design,\nthough they have generally been replaced with wide-format conventional printers.\nA plotter gives a hard copy of the output. It draws pictures on a paper using a pen.\nPlotters are used to print designs of ships and machines, plans for buildings and so on.\n\n"
 				},
 							"value": "<blockquote>\n  <p>The plotter is a computer printer for printing vector graphics.\nIn the past, plotters were used in applications such as computer-aided design,\nthough they have generally been replaced with wide-format conventional printers.\nA plotter gives a hard copy of the output. It draws pictures on a paper using a pen.\nPlotters are used to print designs of ships and machines, plans for buildings and so on.</p>\n</blockquote>\n",
-"category": ["pen plotter","papercraft"],"tags": []
+							"syndication": { 
+							
+							
+							
+							}
+"category": ["pen plotter","papercraft"],
+"tags": []
 }
 
 
@@ -513,7 +639,13 @@
 					"value": "\n\n\n  \n    Space 1889 logo\n  \n\n\n"
 				},
 							"value": "\n<div class=\"polaroid\">\n<img class=\"u-photo\" src=\"/miniatures/assets/images/Space1889Logo.png\" alt=\"Space 1889 logo\" srcset=\" /miniatures/assets/images/Space1889Logo.png 300w\" style=\"width:100%\" />\n  <div class=\"container\">\n    <p>Space 1889 logo</p>\n  </div>\n</div>\n\n",
-"category": ["Diorama","steampunk"],"tags": ["space 1889"]
+							"syndication": { 
+							
+							
+							
+							}
+"category": ["Diorama","steampunk"],
+"tags": ["space 1889"]
 }
 
 

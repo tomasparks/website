@@ -1,6 +1,6 @@
 ---
 - type: entry
-  published: "2018-05-11T10:42:19+00:00"
+  published: "2018-05-11T13:09:22+00:00"
   category:
   - scrobble
   - audio
@@ -11,37 +11,15 @@
       url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20180503.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Overeating_phosphenes_and_testicle_transplants.mp3
-      name: Overeating, phosphenes and testicle transplants
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20180412.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Rainbows_sunburn_and_space_junk.mp3
+      name: Rainbows, sunburn and space junk
       author: ABC Science
-      content: Dr. Karl answers all your science questions, including; can you skip
-        leg day? Why are deep sea creatures translucent? What happens to your body
-        when you're angry?
+      content: Dr. Karl answers all your science questions, including; can you prevent
+        sleepwalking? Why do people sing without accents? What will happen if Ben
+        and Liam eat that 11 year old cheeseburger?
   content:
-    text: ' \ud83c\udfa7 Listened to Overeating, phosphenes and testicle transplants
-      by ABC Science From Dr Karl on triplej'
-- type: entry
-  published: "2018-05-11T11:56:02+00:00"
-  category:
-  - scrobble
-  - audio
-  - Dr Karl on triplej
-  - ABC Science
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20180419.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Urine_missiles_and_extinction.mp3
-      name: Urine, missiles and extinction
-      author: ABC Science
-      content: Dr. Karl answers all your science questions, including; what happens
-        during metamorphosis? How high do you have to be to see the curve of the Earth?
-        What's the point of shyness?
-  content:
-    text: ' \ud83c\udfa7 Listened to Urine, missiles and extinction by ABC Science
+    text: ' \ud83c\udfa7 Listened to Rainbows, sunburn and space junk by ABC Science
       From Dr Karl on triplej'
 - type: entry
   published: "2018-05-11T11:20:56+00:00"
@@ -66,7 +44,7 @@
     text: ' \ud83c\udfa7 Listened to Falling, fainting and ponies by ABC Science From
       Dr Karl on triplej'
 - type: entry
-  published: "2018-05-11T13:09:22+00:00"
+  published: "2018-05-11T11:56:02+00:00"
   category:
   - scrobble
   - audio
@@ -77,16 +55,38 @@
       url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20180412.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Rainbows_sunburn_and_space_junk.mp3
-      name: Rainbows, sunburn and space junk
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20180419.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Urine_missiles_and_extinction.mp3
+      name: Urine, missiles and extinction
       author: ABC Science
-      content: Dr. Karl answers all your science questions, including; can you prevent
-        sleepwalking? Why do people sing without accents? What will happen if Ben
-        and Liam eat that 11 year old cheeseburger?
+      content: Dr. Karl answers all your science questions, including; what happens
+        during metamorphosis? How high do you have to be to see the curve of the Earth?
+        What's the point of shyness?
   content:
-    text: ' \ud83c\udfa7 Listened to Rainbows, sunburn and space junk by ABC Science
+    text: ' \ud83c\udfa7 Listened to Urine, missiles and extinction by ABC Science
       From Dr Karl on triplej'
+- type: entry
+  published: "2018-05-11T10:42:19+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl on triplej
+  - ABC Science
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20180503.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Overeating_phosphenes_and_testicle_transplants.mp3
+      name: Overeating, phosphenes and testicle transplants
+      author: ABC Science
+      content: Dr. Karl answers all your science questions, including; can you skip
+        leg day? Why are deep sea creatures translucent? What happens to your body
+        when you're angry?
+  content:
+    text: ' \ud83c\udfa7 Listened to Overeating, phosphenes and testicle transplants
+      by ABC Science From Dr Karl on triplej'
 - type: entry
   published: "2018-05-11T13:45:34+00:00"
   category:

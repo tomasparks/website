@@ -1,6 +1,6 @@
 ---
 - type: entry
-  published: "2018-02-26T20:38:28+00:00"
+  published: "2018-02-26T10:37:25+00:00"
   category:
   - scrobble
   - audio
@@ -11,18 +11,16 @@
       url: http://feeds.gimletmedia.com/hearreplyall
       photo: ""
       audio:
-      - http://traffic.megaphone.fm/GLT6561192141.mp3
-      - http://archive.org/download/Reply_All-Podcast-by-Gimlet/6_This_Proves_Everything.mp3
-      name: '#6 This Proves Everything'
+      - http://traffic.megaphone.fm/GLT8886497634.mp3
+      - http://archive.org/download/Reply_All-Podcast-by-Gimlet/Reply_All_Mic_Test.mp3
+      name: Reply All Mic Test
       author: Gimlet
-      content: "Depending on who you ask, Keith Calder is either a 35-year old film
-        producer, or one of the players in a vast international conspiracy designed
-        to conceal the greatest love story never told.\r\n      "
+      content: "A podcast about the internet, hosted by PJ Vogt and Alex Goldman.
+        \ From Gimlet Media.  Coming soon. \r\n      "
   content:
-    text: ' \ud83c\udfa7 Listened to #6 This Proves Everything by Gimlet From Reply
-      All'
+    text: ' \ud83c\udfa7 Listened to Reply All Mic Test by Gimlet From Reply All'
 - type: entry
-  published: "2018-02-26T17:05:54+00:00"
+  published: "2018-02-26T11:01:15+00:00"
   category:
   - scrobble
   - audio
@@ -33,16 +31,15 @@
       url: http://feeds.gimletmedia.com/hearreplyall
       photo: ""
       audio:
-      - http://traffic.megaphone.fm/GLT5212159015.mp3
-      - http://archive.org/download/Reply_All-Podcast-by-Gimlet/4_Follow_The_Money.mp3
-      name: '#4 Follow The Money'
+      - http://traffic.megaphone.fm/GLT4726279763.mp3
+      - http://archive.org/download/Reply_All-Podcast-by-Gimlet/1_A_Stranger_Says_I_Love_You.mp3
+      name: '#1 A Stranger Says I Love You'
       author: Gimlet
-      content: "Writer Chiara Atik has a hobby -- spying on the financial transactions
-        of friends and strangers. She thinks that Venmo, more than any other social
-        media site, is the place you can find actual, accidental truth online. This
-        week we investigate that claim.&nbsp;\r\n      "
+      content: "What happens when a woman sends a stocky blond stranger to tell her
+        ex she loves him.&nbsp;\r\n      "
   content:
-    text: ' \ud83c\udfa7 Listened to #4 Follow The Money by Gimlet From Reply All'
+    text: ' \ud83c\udfa7 Listened to #1 A Stranger Says I Love You by Gimlet From
+      Reply All'
 - type: entry
   published: "2018-02-26T11:22:32+00:00"
   category:
@@ -66,27 +63,6 @@
     text: ' \ud83c\udfa7 Listened to #2 The Secret, Gruesome Internet For Doctors
       by Gimlet From Reply All'
 - type: entry
-  published: "2018-02-26T11:01:15+00:00"
-  category:
-  - scrobble
-  - audio
-  - Reply All
-  - Gimlet
-  listen-of:
-    h-cite:
-      url: http://feeds.gimletmedia.com/hearreplyall
-      photo: ""
-      audio:
-      - http://traffic.megaphone.fm/GLT4726279763.mp3
-      - http://archive.org/download/Reply_All-Podcast-by-Gimlet/1_A_Stranger_Says_I_Love_You.mp3
-      name: '#1 A Stranger Says I Love You'
-      author: Gimlet
-      content: "What happens when a woman sends a stocky blond stranger to tell her
-        ex she loves him.&nbsp;\r\n      "
-  content:
-    text: ' \ud83c\udfa7 Listened to #1 A Stranger Says I Love You by Gimlet From
-      Reply All'
-- type: entry
   published: "2018-02-26T21:14:21+00:00"
   category:
   - scrobble
@@ -109,7 +85,7 @@
   content:
     text: ' \ud83c\udfa7 Listened to #8 Anxiety Box by Gimlet From Reply All'
 - type: entry
-  published: "2018-02-26T10:37:25+00:00"
+  published: "2018-02-26T20:38:28+00:00"
   category:
   - scrobble
   - audio
@@ -120,38 +96,15 @@
       url: http://feeds.gimletmedia.com/hearreplyall
       photo: ""
       audio:
-      - http://traffic.megaphone.fm/GLT8886497634.mp3
-      - http://archive.org/download/Reply_All-Podcast-by-Gimlet/Reply_All_Mic_Test.mp3
-      name: Reply All Mic Test
+      - http://traffic.megaphone.fm/GLT6561192141.mp3
+      - http://archive.org/download/Reply_All-Podcast-by-Gimlet/6_This_Proves_Everything.mp3
+      name: '#6 This Proves Everything'
       author: Gimlet
-      content: "A podcast about the internet, hosted by PJ Vogt and Alex Goldman.
-        \ From Gimlet Media.  Coming soon. \r\n      "
+      content: "Depending on who you ask, Keith Calder is either a 35-year old film
+        producer, or one of the players in a vast international conspiracy designed
+        to conceal the greatest love story never told.\r\n      "
   content:
-    text: ' \ud83c\udfa7 Listened to Reply All Mic Test by Gimlet From Reply All'
-- type: entry
-  published: "2018-02-26T20:59:43+00:00"
-  category:
-  - scrobble
-  - audio
-  - Reply All
-  - Gimlet
-  listen-of:
-    h-cite:
-      url: http://feeds.gimletmedia.com/hearreplyall
-      photo: ""
-      audio:
-      - http://traffic.megaphone.fm/GLT9420071792.mp3
-      - http://archive.org/download/Reply_All-Podcast-by-Gimlet/7_This_Website_Is_For_Sale.mp3
-      name: '#7 This Website Is For Sale'
-      author: Gimlet
-      content: "This week we enter the mysterious, Byzantine underworld of domain
-        sales, where people make money speculating on the website naming market. A
-        few years ago, the owners of the popular journalism website longform.org blundered
-        into this world when they innocently tried to procure longform.com. In this
-        episode, we find out about their misadventures, and we hear from the Derek
-        Jeter of URL purchases.\r\n      "
-  content:
-    text: ' \ud83c\udfa7 Listened to #7 This Website Is For Sale by Gimlet From Reply
+    text: ' \ud83c\udfa7 Listened to #6 This Proves Everything by Gimlet From Reply
       All'
 - type: entry
   published: "2018-02-26T17:28:47+00:00"
@@ -197,6 +150,53 @@
   content:
     text: ' \ud83c\udfa7 Listened to #3 We Know What You Did by Gimlet From Reply
       All'
+- type: entry
+  published: "2018-02-26T20:59:43+00:00"
+  category:
+  - scrobble
+  - audio
+  - Reply All
+  - Gimlet
+  listen-of:
+    h-cite:
+      url: http://feeds.gimletmedia.com/hearreplyall
+      photo: ""
+      audio:
+      - http://traffic.megaphone.fm/GLT9420071792.mp3
+      - http://archive.org/download/Reply_All-Podcast-by-Gimlet/7_This_Website_Is_For_Sale.mp3
+      name: '#7 This Website Is For Sale'
+      author: Gimlet
+      content: "This week we enter the mysterious, Byzantine underworld of domain
+        sales, where people make money speculating on the website naming market. A
+        few years ago, the owners of the popular journalism website longform.org blundered
+        into this world when they innocently tried to procure longform.com. In this
+        episode, we find out about their misadventures, and we hear from the Derek
+        Jeter of URL purchases.\r\n      "
+  content:
+    text: ' \ud83c\udfa7 Listened to #7 This Website Is For Sale by Gimlet From Reply
+      All'
+- type: entry
+  published: "2018-02-26T17:05:54+00:00"
+  category:
+  - scrobble
+  - audio
+  - Reply All
+  - Gimlet
+  listen-of:
+    h-cite:
+      url: http://feeds.gimletmedia.com/hearreplyall
+      photo: ""
+      audio:
+      - http://traffic.megaphone.fm/GLT5212159015.mp3
+      - http://archive.org/download/Reply_All-Podcast-by-Gimlet/4_Follow_The_Money.mp3
+      name: '#4 Follow The Money'
+      author: Gimlet
+      content: "Writer Chiara Atik has a hobby -- spying on the financial transactions
+        of friends and strangers. She thinks that Venmo, more than any other social
+        media site, is the place you can find actual, accidental truth online. This
+        week we investigate that claim.&nbsp;\r\n      "
+  content:
+    text: ' \ud83c\udfa7 Listened to #4 Follow The Money by Gimlet From Reply All'
 - type: entry
   published: "2018-02-26T20:03:21+00:00"
   category:

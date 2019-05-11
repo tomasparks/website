@@ -1,24 +1,6 @@
 ---
 - '@attributes':
     type: podcast-feed
-  title: Core Intuition
-  genre: []
-  artist: Daniel Jalkut and Manton Reece
-  album: []
-  location: https://coreint.org/podcast.xml
-  last-seen: "1556797339"
-  date: "0"
-  media-type: application/octet-stream
-  status: "1"
-  description: []
-  subtitle: []
-  summary: []
-  lang: en
-  copyright: []
-  image: http://coreint.org/images/newlogo_1400.png
-  post-time: "1556304574"
-- '@attributes':
-    type: podcast-feed
   title: "Polygamer \u2013 A Podcast of Equality and Diversity in Gaming & Video Games"
   genre: []
   artist: Ken Gagne of Gamebits
@@ -79,7 +61,7 @@
   artist: ABC Radio National
   album: []
   location: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
-  last-seen: "1556797327"
+  last-seen: "1557523239"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -90,7 +72,7 @@
   lang: en-AU
   copyright: Copyright 2019, Australian Broadcasting Corporation. All Rights Reserved.
   image: http://www.abc.net.au/radionational/image/7417206-1x1-1400x1400.jpg
-  post-time: "1556586948"
+  post-time: "1557191134"
 - '@attributes':
     type: podcast-feed
   title: Future Tense - ABC - RN
@@ -98,7 +80,7 @@
   artist: ABC Radio National
   album: []
   location: https://www.abc.net.au/radionational/feed/2883726/podcast.xml
-  last-seen: "1556797320"
+  last-seen: "1557523230"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -109,7 +91,25 @@
   lang: en-AU
   copyright: Copyright 2019, Australian Broadcasting Corporation. All Rights Reserved.
   image: https://www.abc.net.au/radionational/image/3657196-1x1-1400x1400.jpg
-  post-time: "1557016200"
+  post-time: "1557621000"
+- '@attributes':
+    type: podcast-feed
+  title: The Big Web Show
+  genre: []
+  artist: 5by5
+  album: []
+  location: http://feeds.5by5.tv/bigwebshow
+  last-seen: "1557523235"
+  date: "0"
+  media-type: application/octet-stream
+  status: "1"
+  description: The Big Web Show
+  subtitle: []
+  summary: []
+  lang: en-us
+  copyright: []
+  image: http://icebox.5by5.tv/images/broadcasts/7/cover.jpg
+  post-time: "1553886000"
 - '@attributes':
     type: podcast-feed
   title: The Web Ahead
@@ -130,30 +130,12 @@
   post-time: "1467321300"
 - '@attributes':
     type: podcast-feed
-  title: The Big Web Show
-  genre: []
-  artist: 5by5
-  album: []
-  location: http://feeds.5by5.tv/bigwebshow
-  last-seen: "1556797331"
-  date: "0"
-  media-type: application/octet-stream
-  status: "1"
-  description: The Big Web Show
-  subtitle: []
-  summary: []
-  lang: en-us
-  copyright: []
-  image: http://icebox.5by5.tv/images/broadcasts/7/cover.jpg
-  post-time: "1553886000"
-- '@attributes':
-    type: podcast-feed
   title: 5 live Science Podcast
   genre: []
   artist: BBC Radio 5 live
   album: []
   location: http://podcasts.files.bbci.co.uk/p02pc9ny.rss
-  last-seen: "1556797334"
+  last-seen: "1557523240"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -165,7 +147,7 @@
   lang: en
   copyright: (C) BBC 2019
   image: http://ichef.bbci.co.uk/images/ic/3000x3000/p02h1m20.jpg
-  post-time: "1556766960"
+  post-time: "1557437400"
 - '@attributes':
     type: podcast-feed
   title: Dr Karl on triplej
@@ -173,7 +155,7 @@
   artist: ABC Science
   album: []
   location: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
-  last-seen: "1556797326"
+  last-seen: "1557523238"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -211,7 +193,7 @@
   artist: Cato Institute
   album: []
   location: https://www.libertarianism.org/rss/podcast/building-tomorrow
-  last-seen: "1556797329"
+  last-seen: "1557523233"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -222,7 +204,7 @@
   lang: en-us
   copyright: "Copyright 2019, Libertarianism.org, All Rights\n      Reserved\n    "
   image: https://www.libertarianism.org/sites/libertarianism.org/files/styles/optimize/public/feed-image/building-tomorrow-square.jpg?itok=HAuOF2wh
-  post-time: "1556770500"
+  post-time: "1557375300"
 - '@attributes':
     type: podcast-feed
   title: Reply All
@@ -245,23 +227,22 @@
   post-time: "1516878000"
 - '@attributes':
     type: podcast-feed
-  title: "Podcast \u2013 Cory Doctorow's craphound.com"
+  title: Techdirt
   genre: []
-  artist: Cory Doctorow
+  artist: Techdirt
   album: []
-  location: http://feeds.feedburner.com/doctorow_podcast
-  last-seen: "1530619935"
+  location: https://www.techdirt.com/podcast.xml
+  last-seen: "1557523244"
   date: "0"
   media-type: application/octet-stream
-  status: "2"
-  description: Articles, speeches, stories and novels by an award-winning science
-    fiction writer, read aloud in small regular chunks
+  status: "1"
+  description: The Techdirt Podcast, hosted by Michael Masnick.
   subtitle: []
   summary: []
-  lang: en-US
-  copyright: Creative Commons by-nc-sa http://creativecommons.org/licenses/by-nc-sa/2.5/
-  image: http://craphound.com/images/Craphound300.png
-  post-time: "1530568010"
+  lang: en
+  copyright: All rights reserved
+  image: []
+  post-time: "1557257927"
 - '@attributes':
     type: podcast-feed
   title: Stephen Fry's Great Leap Years
@@ -269,7 +250,7 @@
   artist: Stephen Fry | SamFry Ltd
   album: []
   location: https://rss.acast.com/greatleapyears
-  last-seen: "1556797331"
+  last-seen: "1557523237"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -308,7 +289,7 @@
   artist: Hal
   album: []
   location: http://rpgmp3.com/v5/feed/podcast/
-  last-seen: "1556797348"
+  last-seen: "1557523246"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -341,30 +322,12 @@
   post-time: "1550632366"
 - '@attributes':
     type: podcast-feed
-  title: "Indieweb Podcast \u2013 David Shanske"
-  genre: []
-  artist: https://wordpress.org/?v=5.1.1
-  album: []
-  location: https://david.shanske.com/series/indieweb-podcast/feed/
-  last-seen: "1556797348"
-  date: "0"
-  media-type: application/octet-stream
-  status: "1"
-  description: The Definitive Location
-  subtitle: []
-  summary: []
-  lang: en-US
-  copyright: []
-  image: []
-  post-time: "1556578550"
-- '@attributes':
-    type: podcast-feed
   title: "An Indieweb Podcast \u2013 Chris Aldrich"
   genre: []
   artist: https://wordpress.org/?v=5.1.1
   album: []
   location: http://boffosocko.com/tag/an-indieweb-podcast/feed/
-  last-seen: "1556797349"
+  last-seen: "1557523247"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -374,7 +337,25 @@
   lang: en-US
   copyright: []
   image: []
-  post-time: "1556773114"
+  post-time: "1557522960"
+- '@attributes':
+    type: podcast-feed
+  title: "Indieweb Podcast \u2013 David Shanske"
+  genre: []
+  artist: https://wordpress.org/?v=5.1.1
+  album: []
+  location: https://david.shanske.com/series/indieweb-podcast/feed/
+  last-seen: "1557523233"
+  date: "0"
+  media-type: application/octet-stream
+  status: "1"
+  description: The Definitive Location
+  subtitle: []
+  summary: []
+  lang: en-US
+  copyright: []
+  image: []
+  post-time: "1557162565"
 - '@attributes':
     type: podcast-feed
   title: Shirtloads of Science
@@ -436,7 +417,7 @@
   artist: Emojipedia
   album: []
   location: https://rss.simplecast.com/podcasts/2218/rss
-  last-seen: "1556797328"
+  last-seen: "1557523240"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -456,7 +437,7 @@
   artist: Jamie King
   album: []
   location: http://stealthisshow.com/feed/podcast
-  last-seen: "1556797335"
+  last-seen: "1557523244"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -466,7 +447,7 @@
   lang: en
   copyright: Calico Media
   image: []
-  post-time: "1555069151"
+  post-time: "1557049851"
 - '@attributes':
     type: podcast-feed
   title: CheapShow
@@ -474,7 +455,7 @@
   artist: CheapShow Pod
   album: []
   location: http://feeds.soundcloud.com/users/soundcloud:users:157831157/sounds.rss
-  last-seen: "1556797341"
+  last-seen: "1557523230"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -484,7 +465,7 @@
   lang: en
   copyright: All rights reserved
   image: []
-  post-time: "1556278891"
+  post-time: "1557479698"
 - '@attributes':
     type: podcast-feed
   title: The Audacity to Podcast
@@ -492,7 +473,7 @@
   artist: Daniel J. Lewis
   album: []
   location: https://theaudacitytopodcast.com/feed/
-  last-seen: "1556797341"
+  last-seen: "1557523241"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -501,7 +482,7 @@
   subtitle: []
   summary: []
   lang: en-US
-  copyright: "\xA9 2010\u20132018 D.Joseph Design LLC"
+  copyright: "\xA9 2010\u20132019 D.Joseph Design LLC"
   image: []
   post-time: "1556643973"
 - '@attributes':
@@ -511,7 +492,7 @@
   artist: Brian McCullough
   album: []
   location: http://feeds.feedburner.com/InternetHistoryPodcast
-  last-seen: "1556797334"
+  last-seen: "1557523237"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -520,8 +501,8 @@
   summary: []
   lang: en
   copyright: <![CDATA[
-  image: https://thumborcdn.acast.com/YXSUUZ3tUJyd4yiAS9S_lF801OA=/3000x3000/http://static.libsyn.com/p/assets/6/4/6/9/6469f1500e9d7eae/Internet_History_Podcast_Logo.jpg
-  post-time: "1555782132"
+  image: https://thumborcdn.acast.com/lZOStj9cqhmLtmxHqGTApfNtzjk=/1500x1500/http://static.libsyn.com/p/assets/6/4/6/9/6469f1500e9d7eae/Internet_History_Podcast_Logo.jpg
+  post-time: "1556989674"
 - '@attributes':
     type: podcast-feed
   title: The Art of Manliness
@@ -529,7 +510,7 @@
   artist: The Art of Manliness
   album: []
   location: https://rss.art19.com/art-of-manliness
-  last-seen: "1556797341"
+  last-seen: "1557523236"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -547,7 +528,7 @@
   artist: Jeena
   album: []
   location: https://jeena.net/pods.rss
-  last-seen: "1556797331"
+  last-seen: "1557523240"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -567,7 +548,7 @@
   artist: Relay FM
   album: []
   location: https://www.relay.fm/automators/feed
-  last-seen: "1556797323"
+  last-seen: "1557523231"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -578,7 +559,7 @@
   lang: en-US
   copyright: "Copyright \xA9 2019 Relay FM"
   image: http://relayfm.s3.amazonaws.com/uploads/broadcast/image/44/automators_artwork.png
-  post-time: "1556301600"
+  post-time: "1557500400"
 - '@attributes':
     type: podcast-feed
   title: The Ars Technicast
@@ -586,7 +567,7 @@
   artist: Ars Technica
   album: []
   location: http://arstechnica.libsyn.com/rss
-  last-seen: "1556797328"
+  last-seen: "1557523236"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -661,7 +642,7 @@
   artist: Aaron Parecki
   album: []
   location: https://percolator.today/podcast.xml
-  last-seen: "1556797323"
+  last-seen: "1557523237"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -679,7 +660,7 @@
   artist: HeadGum
   album: []
   location: https://warp.gumballcdn.com/v1/rss?uuid=5fac20eeb4&rss=https://rss.art19.com/not-another-d-and-d-podcast
-  last-seen: "1556797330"
+  last-seen: "1557523232"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -716,26 +697,174 @@
   post-time: "1521278969"
 - '@attributes':
     type: podcast-feed
-  title: Hamish & Andy
+  title: web standards on Huffduffer
   genre: []
-  artist: PodcastOne Australia
+  artist: Unknown
   album: []
-  location: http://handa.hamishandandy.libsynpro.com/rss
-  last-seen: "1556797333"
+  location: https://huffduffer.com/tags/web+standards/rss
+  last-seen: "1530619981"
+  date: "0"
+  media-type: application/octet-stream
+  status: "2"
+  description: web standards
+  subtitle: []
+  summary: []
+  lang: en
+  copyright: []
+  image: []
+  post-time: "1524821487"
+- '@attributes':
+    type: podcast-feed
+  title: The Linux Link Tech Show Opus Feed
+  genre: []
+  artist: Unknown
+  album: []
+  location: http://feeds.feedburner.com/TheLinuxLinkTechShowOpusFeed
+  last-seen: "1557523232"
   date: "0"
   media-type: application/octet-stream
   status: "1"
-  description: '"Hamish & Andy" is a podcast that began its life as a band of three
-    men, travelling from village to village in the 1700s, asking locals to gather
-    round to listen as they discussed big issues of the times and provided light...'
+  description: The Linux Link Tech Show
   subtitle: []
   summary: []
   lang: en-us
-  copyright: Text, image, music and sound comprising this podcast are owned by or
-    licensed to Southern Cross Austereo. By accessing, communicating or using this
-    podcast, you agree to be bound by the terms and conditions available at https://www.podcastone.com.au/terms
-  image: http://www.podcastone.com.au/images/podcast/HA_PC1_1440x1440.jpg
-  post-time: "1556787600"
+  copyright: Creative Commons License Some Rights Reserved
+  image: []
+  post-time: "1557325800"
+- '@attributes':
+    type: podcast-feed
+  title: jekyll on Huffduffer
+  genre: []
+  artist: Unknown
+  album: []
+  location: https://huffduffer.com/search/rss?q=jekyll
+  last-seen: "1557523233"
+  date: "0"
+  media-type: application/octet-stream
+  status: "1"
+  description: jekyll
+  subtitle: []
+  summary: []
+  lang: en
+  copyright: []
+  image: []
+  post-time: "1487440225"
+- '@attributes':
+    type: podcast-feed
+  title: BitJam Podcast
+  genre: []
+  artist: Unknown
+  album: []
+  location: http://www.bitfellas.org/podcast/podcast.xml
+  last-seen: "1530620012"
+  date: "0"
+  media-type: application/octet-stream
+  status: "2"
+  description: []
+  subtitle: []
+  summary: []
+  lang: en-us
+  copyright: 2006-2018 (c) BitFellas
+  image: http://www.bitfellas.org/podcast/bitjam_cover.jpg
+  post-time: "1525113157"
+- '@attributes':
+    type: podcast-feed
+  title: indieweb on Huffduffer
+  genre: []
+  artist: Unknown
+  album: []
+  location: https://huffduffer.com/tags/indieweb/rss
+  last-seen: "1557523237"
+  date: "0"
+  media-type: application/octet-stream
+  status: "1"
+  description: indieweb
+  subtitle: []
+  summary: []
+  lang: en
+  copyright: []
+  image: []
+  post-time: "1525460194"
+- '@attributes':
+    type: podcast-feed
+  title: snarfed on Huffduffer
+  genre: []
+  artist: Unknown
+  album: []
+  location: https://huffduffer.com/snarfed/rss
+  last-seen: "1530619939"
+  date: "0"
+  media-type: application/octet-stream
+  status: "2"
+  description: snarfed
+  subtitle: []
+  summary: []
+  lang: en
+  copyright: []
+  image: []
+  post-time: "1524116169"
+- '@attributes':
+    type: podcast-feed
+  title: web design on Huffduffer
+  genre: []
+  artist: Unknown
+  album: []
+  location: https://huffduffer.com/tags/web+design/rss
+  last-seen: "1530539388"
+  date: "0"
+  media-type: application/octet-stream
+  status: "2"
+  description: web design
+  subtitle: []
+  summary: []
+  lang: en
+  copyright: []
+  image: []
+  post-time: "1525164379"
+- '@attributes':
+    type: podcast-feed
+  title: indieweb on Huffduffer
+  genre: []
+  artist: Unknown
+  album: []
+  location: https://huffduffer.com/search/rss?q=indieweb&sort=date
+  last-seen: "1557523233"
+  date: "0"
+  media-type: application/octet-stream
+  status: "1"
+  description: indieweb
+  subtitle: []
+  summary: []
+  lang: en
+  copyright: []
+  image: []
+  post-time: "1528735323"
+- '@attributes':
+    type: podcast-feed
+  title: IRL - Online Life Is Real Life
+  genre: []
+  artist: Firefox, backed by Mozilla
+  album: []
+  location: https://feeds.mozilla-podcasts.org/irl
+  last-seen: "1557523240"
+  date: "0"
+  media-type: application/octet-stream
+  status: "1"
+  description: "Our online life is real life. We walk, talk, work, LOL and even love
+    on the Internet \u2013 but we don\u2019t always treat it like real life. Host
+    Manoush Zomorodi explores this disconnect with stories from the wilds of the Web,
+    and gets to the bottom of online issues that affect us all. Whether it\u2019s
+    privacy breaches, closed platforms, hacking, fake news, or cyber bullying, we
+    the people have the power to change the course of the Internet, keeping it ethical,
+    safe, weird, and wonderful for everyone. IRL is an original podcast from Firefox,
+    the tech company backed by Mozilla that believes privacy isn\u2019t a policy.
+    It\u2019s a right."
+  subtitle: []
+  summary: []
+  lang: en
+  copyright: []
+  image: https://cdn.simplecast.com/images/9b52b824-909f-4be5-aaf0-10f9e93c7818/0b26fd9f-d637-49a8-99d8-21a02e6decc3/1400x1400/1556651054artwork.jpg?aid=rss_feed
+  post-time: "1557512542"
 - '@attributes':
     type: podcast-feed
   title: The After On Podcast
@@ -754,6 +883,48 @@
   copyright: Copyright 2017 by Rob Reid
   image: http://static.libsyn.com/p/assets/8/5/e/5/85e5d3110306034f/AfterOnPodcastCover-3000x3000.jpg
   post-time: "1530522250"
+- '@attributes':
+    type: podcast-feed
+  title: Hamish & Andy
+  genre: []
+  artist: PodcastOne Australia
+  album: []
+  location: http://handa.hamishandandy.libsynpro.com/rss
+  last-seen: "1557523241"
+  date: "0"
+  media-type: application/octet-stream
+  status: "1"
+  description: '"Hamish & Andy" is a podcast that began its life as a band of three
+    men, travelling from village to village in the 1700s, asking locals to gather
+    round to listen as they discussed big issues of the times and provided light...'
+  subtitle: []
+  summary: []
+  lang: en-us
+  copyright: Text, image, music and sound comprising this podcast are owned by or
+    licensed to Southern Cross Austereo. By accessing, communicating or using this
+    podcast, you agree to be bound by the terms and conditions available at https://www.podcastone.com.au/terms
+  image: http://www.podcastone.com.au/images/podcast/HA_PC1_1440x1440.jpg
+  post-time: "1557392400"
+- '@attributes':
+    type: podcast-feed
+  title: Late Night Toast
+  genre: []
+  artist: Late Night Toast
+  album: []
+  location: http://latenighttoast.com/xml-feed/
+  last-seen: "1557523234"
+  date: "0"
+  media-type: application/octet-stream
+  status: "1"
+  description: "A podcast with Jeremiah (right toast) and gRegor (left toast) recorded
+    late at night \u2014 it\u2019s late somewhere \u2014 in order to capture hilarious
+    moments."
+  subtitle: []
+  summary: []
+  lang: en-us
+  copyright: "\u2117 Late Night Toast"
+  image: http://latenighttoast.com/site/assets/images/latenighttoast-large.png
+  post-time: "1450167120"
 - '@attributes':
     type: podcast-feed
   title: Acquired
@@ -777,26 +948,6 @@
   post-time: "1529291000"
 - '@attributes':
     type: podcast-feed
-  title: Late Night Toast
-  genre: []
-  artist: Late Night Toast
-  album: []
-  location: http://latenighttoast.com/xml-feed/
-  last-seen: "1556797334"
-  date: "0"
-  media-type: application/octet-stream
-  status: "1"
-  description: "A podcast with Jeremiah (right toast) and gRegor (left toast) recorded
-    late at night \u2014 it\u2019s late somewhere \u2014 in order to capture hilarious
-    moments."
-  subtitle: []
-  summary: []
-  lang: en-us
-  copyright: "\u2117 Late Night Toast"
-  image: http://latenighttoast.com/site/assets/images/latenighttoast-large.png
-  post-time: "1450167120"
-- '@attributes':
-    type: podcast-feed
   title: TED Radio Hour
   genre: []
   artist: NPR
@@ -816,6 +967,24 @@
   copyright: 'Copyright:  Copyright 2012 NPR - For Personal Use Only'
   image: []
   post-time: "1530244860"
+- '@attributes':
+    type: podcast-feed
+  title: This is Only a Test
+  genre: []
+  artist: Will Smith, Norman Chan, Jeremy Williams
+  album: []
+  location: http://www.tested.com/podcast-xml/this-is-only-a-test/
+  last-seen: "1557523258"
+  date: "0"
+  media-type: application/octet-stream
+  status: "1"
+  description: The official podcast of Tested.com
+  subtitle: []
+  summary: []
+  lang: en-us
+  copyright: 2019 tested.com
+  image: http://files.tested.com/static/podcast_logo.jpg
+  post-time: "1557385200"
 - '@attributes':
     type: podcast-feed
   title: Troll Play
@@ -838,12 +1007,51 @@
   post-time: "1533775550"
 - '@attributes':
     type: podcast-feed
+  title: DatCastA[
+  genre: []
+  artist: Bret Comnes and Jim Pick
+  album: []
+  location: https://dat-cast.hashbase.io/feed.xml
+  last-seen: "1557523232"
+  date: "0"
+  media-type: application/octet-stream
+  status: "1"
+  description: A cool show about Dat!
+  subtitle: []
+  summary: []
+  lang: en[CDATA[
+  copyright: Copyright Bret Comnes and Jim Pick
+  image: https://dat-cast.hashbase.io/img/DCUP0.jpg?e=2f42944
+  post-time: "1525917224"
+- '@attributes':
+    type: podcast-feed
+  title: My Url Is
+  genre: []
+  artist: Eddie Hinkle
+  album: []
+  location: http://feeds.myurlis.com/podcast
+  last-seen: "1557523230"
+  date: "0"
+  media-type: application/octet-stream
+  status: "1"
+  description: "A bi-weekly guest podcast hosted by Eddie Hinkle where he has conversations
+    and interviews various people throughout the IndieWeb community to learn more
+    about them, their interests and desires in the IndieWeb and what they've added
+    to their website lately.\n    "
+  subtitle: []
+  summary: []
+  lang: en-us
+  copyright: "\u2117 & \xA9 2018 Eddie Hinkle"
+  image: https://myurlis.com/assets/images/podcast_cover.jpg
+  post-time: "1539783000"
+- '@attributes':
+    type: podcast-feed
   title: Benheck.com Podcast
   genre: []
   artist: Benjamin J Heckendorn
   album: []
   location: https://benheck.com/?feed=podcast
-  last-seen: "1556797339"
+  last-seen: "1557523232"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -856,40 +1064,81 @@
   post-time: "1556684106"
 - '@attributes':
     type: podcast-feed
-  title: This is Only a Test
+  title: Core Intuition
   genre: []
-  artist: Will Smith, Norman Chan, Jeremy Williams
+  artist: Daniel Jalkut and Manton Reece
   album: []
-  location: http://www.tested.com/podcast-xml/this-is-only-a-test/
-  last-seen: "1556797353"
+  location: https://coreint.org/podcast.xml
+  last-seen: "1557523234"
   date: "0"
   media-type: application/octet-stream
   status: "1"
-  description: The official podcast of Tested.com
+  description: []
   subtitle: []
   summary: []
-  lang: en-us
-  copyright: 2019 tested.com
-  image: http://files.tested.com/static/podcast_logo.jpg
-  post-time: "1556780400"
+  lang: en
+  copyright: []
+  image: http://coreint.org/images/newlogo_1400.png
+  post-time: "1556945204"
 - '@attributes':
     type: podcast-feed
-  title: DatCastA[
+  title: Jason Scott Talks His Way Out of It
   genre: []
-  artist: Bret Comnes and Jim Pick
+  artist: Jason Scott
   album: []
-  location: https://dat-cast.hashbase.io/feed.xml
-  last-seen: "1556797328"
+  location: http://textfiles.libsyn.com/rss
+  last-seen: "1557523235"
   date: "0"
   media-type: application/octet-stream
   status: "1"
-  description: A cool show about Dat!
+  description: <![CDATA[
   subtitle: []
   summary: []
-  lang: en[CDATA[
-  copyright: Copyright Bret Comnes and Jim Pick
-  image: https://dat-cast.hashbase.io/img/DCUP0.jpg?e=2f42944
-  post-time: "1525917224"
+  lang: en
+  copyright: Creative Commons Attribution
+  image: http://static.libsyn.com/p/assets/7/b/b/d/7bbde7e5c902a300/logo.png
+  post-time: "1556856241"
+- '@attributes':
+    type: podcast-feed
+  title: "Podcast \u2013 Cory Doctorow's craphound.com"
+  genre: []
+  artist: Cory Doctorow
+  album: []
+  location: http://feeds.feedburner.com/doctorow_podcast
+  last-seen: "1530619935"
+  date: "0"
+  media-type: application/octet-stream
+  status: "2"
+  description: Articles, speeches, stories and novels by an award-winning science
+    fiction writer, read aloud in small regular chunks
+  subtitle: []
+  summary: []
+  lang: en-US
+  copyright: Creative Commons by-nc-sa http://creativecommons.org/licenses/by-nc-sa/2.5/
+  image: http://craphound.com/images/Craphound300.png
+  post-time: "1530568010"
+- '@attributes':
+    type: podcast-feed
+  title: Sleek Geeks
+  genre: []
+  artist: Dr Karl Kruszelnicki and Adam Spencer
+  album: []
+  location: http://drkarl.com/Podcasts/sleekgeeks.xml
+  last-seen: "1557523230"
+  date: "0"
+  media-type: application/octet-stream
+  status: "1"
+  description: Sleek Geeks sees Dr Karl and Adam Spencer mix science with humour as
+    they set out to answer some of the perplexing scientific mysteries we encounter
+    on a daily basis. Download and enjoy this highly entertaining science-fuelled
+    knowledge whirlwind and, as the Sleek Geeks like to say, "Learn something without
+    even noticing"...
+  subtitle: []
+  summary: []
+  lang: en
+  copyright: "\u2117 & \xA9 2014 Dr Karl Kruszelnicki and Adam Spencer"
+  image: http://www.panmacmillan.com.au/podcasts/sleekgeeks.jpg
+  post-time: "1449446401"
 - '@attributes':
     type: podcast-feed
   title: David Shanske
@@ -908,246 +1157,4 @@
   copyright: []
   image: []
   post-time: "1550984318"
-- '@attributes':
-    type: podcast-feed
-  title: IRL - Online Life Is Real Life
-  genre: []
-  artist: Firefox
-  album: []
-  location: https://feeds.mozilla-podcasts.org/irl
-  last-seen: "1556797323"
-  date: "0"
-  media-type: application/octet-stream
-  status: "1"
-  description: Host Manoush Zomorodi shares real stories of life online and real talk
-    about the future of the Web. IRL is an original podcast from Firefox.
-  subtitle: []
-  summary: []
-  lang: en
-  copyright: []
-  image: https://media.simplecast.com/podcast/image/3077/1556651054-artwork.jpg
-  post-time: "1556653370"
-- '@attributes':
-    type: podcast-feed
-  title: Sleek Geeks
-  genre: []
-  artist: Dr Karl Kruszelnicki and Adam Spencer
-  album: []
-  location: http://drkarl.com/Podcasts/sleekgeeks.xml
-  last-seen: "1556797336"
-  date: "0"
-  media-type: application/octet-stream
-  status: "1"
-  description: Sleek Geeks sees Dr Karl and Adam Spencer mix science with humour as
-    they set out to answer some of the perplexing scientific mysteries we encounter
-    on a daily basis. Download and enjoy this highly entertaining science-fuelled
-    knowledge whirlwind and, as the Sleek Geeks like to say, "Learn something without
-    even noticing"...
-  subtitle: []
-  summary: []
-  lang: en
-  copyright: "\u2117 & \xA9 2014 Dr Karl Kruszelnicki and Adam Spencer"
-  image: http://www.panmacmillan.com.au/podcasts/sleekgeeks.jpg
-  post-time: "1449446401"
-- '@attributes':
-    type: podcast-feed
-  title: Techdirt
-  genre: []
-  artist: Techdirt
-  album: []
-  location: https://www.techdirt.com/podcast.xml
-  last-seen: "1556797339"
-  date: "0"
-  media-type: application/octet-stream
-  status: "1"
-  description: The Techdirt Podcast, hosted by Michael Masnick.
-  subtitle: []
-  summary: []
-  lang: en
-  copyright: All rights reserved
-  image: []
-  post-time: "1556652704"
-- '@attributes':
-    type: podcast-feed
-  title: Jason Scott Talks His Way Out of It
-  genre: []
-  artist: Jason Scott
-  album: []
-  location: http://textfiles.libsyn.com/rss
-  last-seen: "1556797336"
-  date: "0"
-  media-type: application/octet-stream
-  status: "1"
-  description: <![CDATA[
-  subtitle: []
-  summary: []
-  lang: en
-  copyright: Creative Commons Attribution
-  image: http://static.libsyn.com/p/assets/7/b/b/d/7bbde7e5c902a300/logo.png
-  post-time: "1556722638"
-- '@attributes':
-    type: podcast-feed
-  title: indieweb on Huffduffer
-  genre: []
-  artist: Unknown
-  album: []
-  location: https://huffduffer.com/search/rss?q=indieweb&sort=date
-  last-seen: "1556797349"
-  date: "0"
-  media-type: application/octet-stream
-  status: "1"
-  description: indieweb
-  subtitle: []
-  summary: []
-  lang: en
-  copyright: []
-  image: []
-  post-time: "1528735323"
-- '@attributes':
-    type: podcast-feed
-  title: BitJam Podcast
-  genre: []
-  artist: Unknown
-  album: []
-  location: http://www.bitfellas.org/podcast/podcast.xml
-  last-seen: "1530620012"
-  date: "0"
-  media-type: application/octet-stream
-  status: "2"
-  description: []
-  subtitle: []
-  summary: []
-  lang: en-us
-  copyright: 2006-2018 (c) BitFellas
-  image: http://www.bitfellas.org/podcast/bitjam_cover.jpg
-  post-time: "1525113157"
-- '@attributes':
-    type: podcast-feed
-  title: snarfed on Huffduffer
-  genre: []
-  artist: Unknown
-  album: []
-  location: https://huffduffer.com/snarfed/rss
-  last-seen: "1530619939"
-  date: "0"
-  media-type: application/octet-stream
-  status: "2"
-  description: snarfed
-  subtitle: []
-  summary: []
-  lang: en
-  copyright: []
-  image: []
-  post-time: "1524116169"
-- '@attributes':
-    type: podcast-feed
-  title: jekyll on Huffduffer
-  genre: []
-  artist: Unknown
-  album: []
-  location: https://huffduffer.com/search/rss?q=jekyll
-  last-seen: "1556797341"
-  date: "0"
-  media-type: application/octet-stream
-  status: "1"
-  description: jekyll
-  subtitle: []
-  summary: []
-  lang: en
-  copyright: []
-  image: []
-  post-time: "1487440225"
-- '@attributes':
-    type: podcast-feed
-  title: web design on Huffduffer
-  genre: []
-  artist: Unknown
-  album: []
-  location: https://huffduffer.com/tags/web+design/rss
-  last-seen: "1530539388"
-  date: "0"
-  media-type: application/octet-stream
-  status: "2"
-  description: web design
-  subtitle: []
-  summary: []
-  lang: en
-  copyright: []
-  image: []
-  post-time: "1525164379"
-- '@attributes':
-    type: podcast-feed
-  title: web standards on Huffduffer
-  genre: []
-  artist: Unknown
-  album: []
-  location: https://huffduffer.com/tags/web+standards/rss
-  last-seen: "1530619981"
-  date: "0"
-  media-type: application/octet-stream
-  status: "2"
-  description: web standards
-  subtitle: []
-  summary: []
-  lang: en
-  copyright: []
-  image: []
-  post-time: "1524821487"
-- '@attributes':
-    type: podcast-feed
-  title: indieweb on Huffduffer
-  genre: []
-  artist: Unknown
-  album: []
-  location: https://huffduffer.com/tags/indieweb/rss
-  last-seen: "1556797348"
-  date: "0"
-  media-type: application/octet-stream
-  status: "1"
-  description: indieweb
-  subtitle: []
-  summary: []
-  lang: en
-  copyright: []
-  image: []
-  post-time: "1525460194"
-- '@attributes':
-    type: podcast-feed
-  title: The Linux Link Tech Show Opus Feed
-  genre: []
-  artist: Unknown
-  album: []
-  location: http://feeds.feedburner.com/TheLinuxLinkTechShowOpusFeed
-  last-seen: "1556797318"
-  date: "0"
-  media-type: application/octet-stream
-  status: "1"
-  description: The Linux Link Tech Show
-  subtitle: []
-  summary: []
-  lang: en-us
-  copyright: Creative Commons License Some Rights Reserved
-  image: []
-  post-time: "1556721000"
-- '@attributes':
-    type: podcast-feed
-  title: My Url Is
-  genre: []
-  artist: Eddie Hinkle
-  album: []
-  location: http://feeds.myurlis.com/podcast
-  last-seen: "1556797334"
-  date: "0"
-  media-type: application/octet-stream
-  status: "1"
-  description: "A bi-weekly guest podcast hosted by Eddie Hinkle where he has conversations
-    and interviews various people throughout the IndieWeb community to learn more
-    about them, their interests and desires in the IndieWeb and what they've added
-    to their website lately.\n    "
-  subtitle: []
-  summary: []
-  lang: en-us
-  copyright: "\u2117 & \xA9 2018 Eddie Hinkle"
-  image: https://myurlis.com/assets/images/podcast_cover.jpg
-  post-time: "1539783000"
 ...

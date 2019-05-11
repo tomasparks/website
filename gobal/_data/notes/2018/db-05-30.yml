@@ -1,5 +1,50 @@
 ---
 - type: entry
+  published: "2018-05-30T11:31:26+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/303194404-techdirt-the-ces-2017-post-mortem.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/303194404-techdirt-the-ces-2017-post-mortem.mp3
+      name: The CES 2017 Post-Mortem
+      author: Techdirt
+      content: Last year, we got a lot of positive feedback on our episode taking
+        a look at the Consumer Electronics Show with the help of journalist Rob Pegoraro.
+        So this year, we've brought Rob back for another look at the highs and lows
+        of CES.
+  content:
+    text: ' \ud83c\udfa7 Listened to The CES 2017 Post-Mortem by Techdirt From Techdirt'
+- type: entry
+  published: "2018-05-30T03:53:55+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/307751107-techdirt-the-new-fcc.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/307751107-techdirt-the-new-fcc.mp3
+      name: The New FCC
+      author: Techdirt
+      content: Net neutrality is at risk. The FCC under Ajit Pai is clearly intent
+        on destroying it, and this is quickly turning into a fight for the future
+        of the internet. This week, we're joined by Gigi Sohn, one of former chairman
+        Tom Wheeler top advisors at the FCC and now a fellow at the Open Society Foundation,
+        to discuss what's happening at the FCC and what needs to be done in response.
+  content:
+    text: ' \ud83c\udfa7 Listened to The New FCC by Techdirt From Techdirt'
+- type: entry
   published: "2018-05-30T18:29:19+00:00"
   category:
   - scrobble
@@ -22,28 +67,6 @@
   content:
     text: ' \ud83c\udfa7 Listened to The Pros And Cons Of Pros And Cons by Techdirt
       From Techdirt'
-- type: entry
-  published: "2018-05-30T11:31:26+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/303194404-techdirt-the-ces-2017-post-mortem.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/303194404-techdirt-the-ces-2017-post-mortem.mp3
-      name: The CES 2017 Post-Mortem
-      author: Techdirt
-      content: Last year, we got a lot of positive feedback on our episode taking
-        a look at the Consumer Electronics Show with the help of journalist Rob Pegoraro.
-        So this year, we've brought Rob back for another look at the highs and lows
-        of CES.
-  content:
-    text: ' \ud83c\udfa7 Listened to The CES 2017 Post-Mortem by Techdirt From Techdirt'
 - type: entry
   published: "2018-05-30T10:40:46+00:00"
   category:
@@ -93,7 +116,7 @@
     text: ' \ud83c\udfa7 Listened to Autonomous Cars Are Accelerating by Techdirt
       From Techdirt'
 - type: entry
-  published: "2018-05-30T23:54:44+00:00"
+  published: "2018-05-30T19:20:14+00:00"
   category:
   - scrobble
   - audio
@@ -104,64 +127,20 @@
       url: https://www.techdirt.com/podcast.xml
       photo: ""
       audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/295566457-techdirt-supporting-creators-with-patreon-founder-jack-conte.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/295566457-techdirt-supporting-creators-with-patreon-founder-jack-conte.mp3
-      name: Supporting Creators, With Patreon Founder Jack Conte
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/298856416-techdirt-is-the-internet-of-things-the-future-a-total-mess-or-both.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/298856416-techdirt-is-the-internet-of-things-the-future-a-total-mess-or-both.mp3
+      name: Is The Internet Of Things The Future, A Total Mess, Or Both?
       author: Techdirt
-      content: It's our 100th episode! And to celebrate, we're not only talking with
-        Patreon founder Jack Conte, we're announcing that the Techdirt Podcast is
-        now on Patreon too!
+      content: "The internet of things has been taking plenty of flack ever since
+        the first time someone floated the idea of a connected fridge or some-such
+        in the 90s \u2014 but despite the knee-jerk instinct to scoff at some things,
+        the truth is there are all sorts of interesting possibilities emerging from
+        all these \"pointless\" connected devices. Of course, there are also some
+        serious security concerns... This week, we discuss IoT and what the ever-increasing
+        presence of such devices means for the future."
   content:
-    text: ' \ud83c\udfa7 Listened to Supporting Creators, With Patreon Founder Jack
-      Conte by Techdirt From Techdirt'
-- type: entry
-  published: "2018-05-30T03:53:55+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/307751107-techdirt-the-new-fcc.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/307751107-techdirt-the-new-fcc.mp3
-      name: The New FCC
-      author: Techdirt
-      content: Net neutrality is at risk. The FCC under Ajit Pai is clearly intent
-        on destroying it, and this is quickly turning into a fight for the future
-        of the internet. This week, we're joined by Gigi Sohn, one of former chairman
-        Tom Wheeler top advisors at the FCC and now a fellow at the Open Society Foundation,
-        to discuss what's happening at the FCC and what needs to be done in response.
-  content:
-    text: ' \ud83c\udfa7 Listened to The New FCC by Techdirt From Techdirt'
-- type: entry
-  published: "2018-05-30T22:51:26+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/296562232-techdirt-where-do-you-get-your-news.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/296562232-techdirt-where-do-you-get-your-news.mp3
-      name: Where Do You Get Your News?
-      author: Techdirt
-      content: The news industry has been in an ongoing state of upheaval ever since
-        the dawn of the internet. In addition to the many ways that technology changes
-        reporting and publishing, there has also been a profound effect on how people
-        find their news. This week, we step away from the big debate about echo chambers
-        and filter bubbles, and talk about evolving news-finding habits and what they
-        mean for the industry.
-  content:
-    text: ' \ud83c\udfa7 Listened to Where Do You Get Your News? by Techdirt From
-      Techdirt'
+    text: ' \ud83c\udfa7 Listened to Is The Internet Of Things The Future, A Total
+      Mess, Or Both? by Techdirt From Techdirt'
 - type: entry
   published: "2018-05-30T07:08:47+00:00"
   category:
@@ -191,7 +170,7 @@
     text: ' \ud83c\udfa7 Listened to Changing Government Starts With You by Techdirt
       From Techdirt'
 - type: entry
-  published: "2018-05-30T19:20:14+00:00"
+  published: "2018-05-30T22:51:26+00:00"
   category:
   - scrobble
   - audio
@@ -202,20 +181,41 @@
       url: https://www.techdirt.com/podcast.xml
       photo: ""
       audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/298856416-techdirt-is-the-internet-of-things-the-future-a-total-mess-or-both.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/298856416-techdirt-is-the-internet-of-things-the-future-a-total-mess-or-both.mp3
-      name: Is The Internet Of Things The Future, A Total Mess, Or Both?
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/296562232-techdirt-where-do-you-get-your-news.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/296562232-techdirt-where-do-you-get-your-news.mp3
+      name: Where Do You Get Your News?
       author: Techdirt
-      content: "The internet of things has been taking plenty of flack ever since
-        the first time someone floated the idea of a connected fridge or some-such
-        in the 90s \u2014 but despite the knee-jerk instinct to scoff at some things,
-        the truth is there are all sorts of interesting possibilities emerging from
-        all these \"pointless\" connected devices. Of course, there are also some
-        serious security concerns... This week, we discuss IoT and what the ever-increasing
-        presence of such devices means for the future."
+      content: The news industry has been in an ongoing state of upheaval ever since
+        the dawn of the internet. In addition to the many ways that technology changes
+        reporting and publishing, there has also been a profound effect on how people
+        find their news. This week, we step away from the big debate about echo chambers
+        and filter bubbles, and talk about evolving news-finding habits and what they
+        mean for the industry.
   content:
-    text: ' \ud83c\udfa7 Listened to Is The Internet Of Things The Future, A Total
-      Mess, Or Both? by Techdirt From Techdirt'
+    text: ' \ud83c\udfa7 Listened to Where Do You Get Your News? by Techdirt From
+      Techdirt'
+- type: entry
+  published: "2018-05-30T23:54:44+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/295566457-techdirt-supporting-creators-with-patreon-founder-jack-conte.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/295566457-techdirt-supporting-creators-with-patreon-founder-jack-conte.mp3
+      name: Supporting Creators, With Patreon Founder Jack Conte
+      author: Techdirt
+      content: It's our 100th episode! And to celebrate, we're not only talking with
+        Patreon founder Jack Conte, we're announcing that the Techdirt Podcast is
+        now on Patreon too!
+  content:
+    text: ' \ud83c\udfa7 Listened to Supporting Creators, With Patreon Founder Jack
+      Conte by Techdirt From Techdirt'
 - type: entry
   published: "2018-05-30T20:39:18+00:00"
   category:

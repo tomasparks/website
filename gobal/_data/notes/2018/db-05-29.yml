@@ -1,50 +1,5 @@
 ---
 - type: entry
-  published: "2018-05-29T10:44:28+00:00"
-  category:
-  - scrobble
-  - audio
-  - "Podcast \u2013 Cory Doctorow's craphound.com"
-  - Cory Doctorow
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/doctorow_podcast
-      photo: ""
-      audio:
-      - http://traffic.libsyn.com/thefinalstrawradio/tfsrpodcast-20180527-CoryDoctorowWalkaway.mp3
-      - http://archive.org/download/Cory_Doctorows-Podcast-by-Cory_Doctorow/Talking_Walkaway_anarchism_social_justice_and_revolution_with_The_Final_Straw_Radio.mp3
-      name: Talking Walkaway, anarchism, social justice and revolution with The Final
-        Straw Radio
-      author: Cory Doctorow
-      content: I recorded a great interview (MP3) about my novel Walkaway and how
-        it fits into radical politics; a free, fair and open internet; the Nym Wars,
-        parenting, and insurgency.
-  content:
-    text: " \\ud83c\\udfa7 Listened to Talking Walkaway, anarchism, social justice
-      and revolution with The Final Straw Radio by Cory Doctorow From Podcast \u2013
-      Cory Doctorow's craphound.com"
-- type: entry
-  published: "2018-05-29T10:50:34+00:00"
-  category:
-  - scrobble
-  - audio
-  - Great Moments In Science - with Dr Karl Kruszelnicki
-  - ABC Radio National
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2018/05/gms_20180529.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Road_trip_to_future_travel.mp3
-      name: Road trip to future travel
-      author: ABC Radio National
-      content: 130 years ago one woman went on the first road trip and made history.
-        Is it time for another change in transportation?
-  content:
-    text: ' \ud83c\udfa7 Listened to Road trip to future travel by ABC Radio National
-      From Great Moments In Science - with Dr Karl Kruszelnicki'
-- type: entry
   published: "2018-05-29T16:28:09+00:00"
   category:
   - scrobble
@@ -68,6 +23,51 @@
   content:
     text: ' \ud83c\udfa7 Listened to The Floppy Format Episode by @textfiles From
       #JasonScottTalksHisWayOutofIt'
+- type: entry
+  published: "2018-05-29T10:50:34+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2018/05/gms_20180529.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Road_trip_to_future_travel.mp3
+      name: Road trip to future travel
+      author: ABC Radio National
+      content: 130 years ago one woman went on the first road trip and made history.
+        Is it time for another change in transportation?
+  content:
+    text: ' \ud83c\udfa7 Listened to Road trip to future travel by ABC Radio National
+      From Great Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2018-05-29T10:44:28+00:00"
+  category:
+  - scrobble
+  - audio
+  - "Podcast \u2013 Cory Doctorow's craphound.com"
+  - Cory Doctorow
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/doctorow_podcast
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/thefinalstrawradio/tfsrpodcast-20180527-CoryDoctorowWalkaway.mp3
+      - http://archive.org/download/Cory_Doctorows-Podcast-by-Cory_Doctorow/Talking_Walkaway_anarchism_social_justice_and_revolution_with_The_Final_Straw_Radio.mp3
+      name: Talking Walkaway, anarchism, social justice and revolution with The Final
+        Straw Radio
+      author: Cory Doctorow
+      content: I recorded a great interview (MP3) about my novel Walkaway and how
+        it fits into radical politics; a free, fair and open internet; the Nym Wars,
+        parenting, and insurgency.
+  content:
+    text: " \\ud83c\\udfa7 Listened to Talking Walkaway, anarchism, social justice
+      and revolution with The Final Straw Radio by Cory Doctorow From Podcast \u2013
+      Cory Doctorow's craphound.com"
 - type: entry
   published: "2018-05-29T23:25:10+00:00"
   category:
@@ -95,30 +95,6 @@
     text: ' \ud83c\udfa7 Listened to Rob Reid''s Mind-Bending Podcast by Techdirt
       From Techdirt'
 - type: entry
-  published: "2018-05-29T19:09:51+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/310014907-techdirt-the-miracle-of-booking-flights.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/310014907-techdirt-the-miracle-of-booking-flights.mp3
-      name: The Miracle Of Booking Flights
-      author: Techdirt
-      content: The finding and booking of flights is a massive and elaborate global
-        mechanism that contains both fascinating technology and useful secrets. This
-        week, we're joined by Adam Fletcher, co-founder of Gyroscope Software and
-        an architect of Google's airline reservation system, to talk about all the
-        technology behind commercial air travel today.
-  content:
-    text: ' \ud83c\udfa7 Listened to The Miracle Of Booking Flights by Techdirt From
-      Techdirt'
-- type: entry
   published: "2018-05-29T22:38:40+00:00"
   category:
   - scrobble
@@ -142,4 +118,28 @@
   content:
     text: ' \ud83c\udfa7 Listened to Luck In Silicon Valley, With Robert Frank by
       Techdirt From Techdirt'
+- type: entry
+  published: "2018-05-29T19:09:51+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/310014907-techdirt-the-miracle-of-booking-flights.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/310014907-techdirt-the-miracle-of-booking-flights.mp3
+      name: The Miracle Of Booking Flights
+      author: Techdirt
+      content: The finding and booking of flights is a massive and elaborate global
+        mechanism that contains both fascinating technology and useful secrets. This
+        week, we're joined by Adam Fletcher, co-founder of Gyroscope Software and
+        an architect of Google's airline reservation system, to talk about all the
+        technology behind commercial air travel today.
+  content:
+    text: ' \ud83c\udfa7 Listened to The Miracle Of Booking Flights by Techdirt From
+      Techdirt'
 ...

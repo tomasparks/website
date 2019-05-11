@@ -326,8 +326,8 @@ Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott:
   The_Podcasting_Episode.mp3: true
   The_Teleconference_Episode.mp3: true
   The_Firing_Episode.mp3: true
-  The_Infocom_Source_Code_Episode.mp3: false
-  The_Sorting_Episode.mp3: false
+  The_Infocom_Source_Code_Episode.mp3: true
+  The_Sorting_Episode.mp3: true
 Relative_Paths_Web_Development_and_stuff_like_that-Podcast-by-Mark_Phoenix_and_Ben_Hutchings:
   438217815-relativepaths-52-going-offline-with-jeremy-keith.mp3: true
 Cory_Doctorows-Podcast-by-Cory_Doctorow:
@@ -499,7 +499,7 @@ Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National
   Washing_clothes_part_two.mp3: true
   Washing_clothes_part_one.mp3: true
   Vaping_ecigarettes_and_big_tobacco.mp3: true
-  Easter_and_the_Equinox.mp3: false
+  Easter_and_the_Equinox.mp3: true
 Stephen_Frys_Great_Leap_Years-Podcast-by-Stephen_Fry:
   media.mp3: true
   6_The_Iotatron_that_Wasnt.mp3: true
@@ -756,7 +756,7 @@ Techdirt-Podcast-by-Techdirt:
   339042152-techdirt-20-years-of-techdirt.mp3: true
   606995760-techdirt-a-free-speech-chat-with-fire.mp3: true
   610262673-techdirt-the-past-future-of-section-230.mp3: true
-  613775241-techdirt-cory-doctorow-on-anti-circumvention-and-more.mp3: false
+  613775241-techdirt-cory-doctorow-on-anti-circumvention-and-more.mp3: true
 Not_Another_DD_Podcast-by-HeadGum:
   mp3: true
 clevercast-by-Jonathan_LaCour:
@@ -1239,5 +1239,5 @@ Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything:
 Dr_Karl_on_triplej-Podcast-by-triplejA:
   Hot_and_cold_breath_tilting_dog_heads_and_an_infuriating_itch.mp3: true
 Dr_Karl_on_triplej-Podcast-by-triplej:
-  Hot_and_cold_breath_tilting_dog_heads_and_an_infuriating_itch.mp3: false
+  Hot_and_cold_breath_tilting_dog_heads_and_an_infuriating_itch.mp3: true
 ...

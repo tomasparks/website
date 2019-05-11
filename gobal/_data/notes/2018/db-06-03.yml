@@ -50,54 +50,6 @@
       2\u2014This Time it's Commercial by @exploreplanets From Planetary Radio: Space
       Exploration, Astronomy and Science"
 - type: entry
-  published: "2018-06-03T02:59:44+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/270214972-techdirt-whats-next-for-online-video.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/270214972-techdirt-whats-next-for-online-video.mp3
-      name: What's Next For Online Video?
-      author: Techdirt
-      content: "Netflix, HBO Go, Amazon Prime, YouTube, Twitch \u2014 online video
-        is still booming. But it also still struggles under the weight of exclusive
-        deals and content silos, and it feels like there's still plenty of innovation
-        to be done. But where will that innovation come from? This week, we discuss
-        the future of online video."
-  content:
-    text: ' \ud83c\udfa7 Listened to What''s Next For Online Video? by Techdirt From
-      Techdirt'
-- type: entry
-  published: "2018-06-03T04:26:21+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/267998991-techdirt-tech-policy-goes-local.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/267998991-techdirt-tech-policy-goes-local.mp3
-      name: Tech Policy Goes Local
-      author: Techdirt
-      content: "The conversation around tech policy has traditionally happened at
-        the federal level, but more recently we've seen a change in that trend, and
-        some of the most interesting experiments \u2014 both good and bad \u2014 have
-        started happening in state and municipal arenas. This week, we're joined by
-        Tech:NYC Executive Director Julie Samuels to discuss why this is happening
-        and what it means."
-  content:
-    text: ' \ud83c\udfa7 Listened to Tech Policy Goes Local by Techdirt From Techdirt'
-- type: entry
   published: "2018-06-03T03:46:04+00:00"
   category:
   - scrobble
@@ -125,7 +77,7 @@
     text: ' \ud83c\udfa7 Listened to The Link Between Credit And Surveillance by Techdirt
       From Techdirt'
 - type: entry
-  published: "2018-06-03T23:12:01+00:00"
+  published: "2018-06-03T04:26:21+00:00"
   category:
   - scrobble
   - audio
@@ -136,18 +88,18 @@
       url: https://www.techdirt.com/podcast.xml
       photo: ""
       audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/264599157-techdirt-why-is-tesla-so-successful.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/264599157-techdirt-why-is-tesla-so-successful.mp3
-      name: Why Is Tesla So Successful?
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/267998991-techdirt-tech-policy-goes-local.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/267998991-techdirt-tech-policy-goes-local.mp3
+      name: Tech Policy Goes Local
       author: Techdirt
-      content: 'Consumers looking for an electric car have several options to consider,
-        but the buzz and excitement around Tesla continues to dwarf everything else.
-        It''s hardly unfounded, but the scale of the company''s success is staggering,
-        and there''s no single reason for it. This week, we discuss that simple question:
-        just why is Tesla so successful?'
+      content: "The conversation around tech policy has traditionally happened at
+        the federal level, but more recently we've seen a change in that trend, and
+        some of the most interesting experiments \u2014 both good and bad \u2014 have
+        started happening in state and municipal arenas. This week, we're joined by
+        Tech:NYC Executive Director Julie Samuels to discuss why this is happening
+        and what it means."
   content:
-    text: ' \ud83c\udfa7 Listened to Why Is Tesla So Successful? by Techdirt From
-      Techdirt'
+    text: ' \ud83c\udfa7 Listened to Tech Policy Goes Local by Techdirt From Techdirt'
 - type: entry
   published: "2018-06-03T11:58:48+00:00"
   category:
@@ -174,6 +126,54 @@
   content:
     text: ' \ud83c\udfa7 Listened to What Happened At The Oracle Google Trial? by
       Techdirt From Techdirt'
+- type: entry
+  published: "2018-06-03T02:59:44+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/270214972-techdirt-whats-next-for-online-video.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/270214972-techdirt-whats-next-for-online-video.mp3
+      name: What's Next For Online Video?
+      author: Techdirt
+      content: "Netflix, HBO Go, Amazon Prime, YouTube, Twitch \u2014 online video
+        is still booming. But it also still struggles under the weight of exclusive
+        deals and content silos, and it feels like there's still plenty of innovation
+        to be done. But where will that innovation come from? This week, we discuss
+        the future of online video."
+  content:
+    text: ' \ud83c\udfa7 Listened to What''s Next For Online Video? by Techdirt From
+      Techdirt'
+- type: entry
+  published: "2018-06-03T23:12:01+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/264599157-techdirt-why-is-tesla-so-successful.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/264599157-techdirt-why-is-tesla-so-successful.mp3
+      name: Why Is Tesla So Successful?
+      author: Techdirt
+      content: 'Consumers looking for an electric car have several options to consider,
+        but the buzz and excitement around Tesla continues to dwarf everything else.
+        It''s hardly unfounded, but the scale of the company''s success is staggering,
+        and there''s no single reason for it. This week, we discuss that simple question:
+        just why is Tesla so successful?'
+  content:
+    text: ' \ud83c\udfa7 Listened to Why Is Tesla So Successful? by Techdirt From
+      Techdirt'
 - type: entry
   published: "2018-06-03T11:09:20+00:00"
   category:

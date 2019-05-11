@@ -1,5 +1,26 @@
 ---
 - type: entry
+  published: "2018-11-13T11:36:57+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl on triplej
+  - ABC Science
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20181025.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Chewing_gum_tank_water_tea_and_plastic_in_fish.mp3
+      name: Chewing gum, tank water tea and plastic in fish
+      author: ABC Science
+      content: Have any frozen people been brought back to life? If we eat fish that
+        has eaten plastic, how will that effect us? Why do my eyes keep changing colours?
+  content:
+    text: ' \ud83c\udfa7 Listened to Chewing gum, tank water tea and plastic in fish
+      by ABC Science From Dr Karl on triplej'
+- type: entry
   published: "2018-11-13T10:59:34+00:00"
   category:
   - scrobble
@@ -20,27 +41,6 @@
         Patrick Hayden from Stanford University answers these questions and more.
   content:
     text: ' \ud83c\udfa7 Listened to Black holes, quantum computing and oncoming doom
-      by ABC Science From Dr Karl on triplej'
-- type: entry
-  published: "2018-11-13T11:36:57+00:00"
-  category:
-  - scrobble
-  - audio
-  - Dr Karl on triplej
-  - ABC Science
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20181025.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Chewing_gum_tank_water_tea_and_plastic_in_fish.mp3
-      name: Chewing gum, tank water tea and plastic in fish
-      author: ABC Science
-      content: Have any frozen people been brought back to life? If we eat fish that
-        has eaten plastic, how will that effect us? Why do my eyes keep changing colours?
-  content:
-    text: ' \ud83c\udfa7 Listened to Chewing gum, tank water tea and plastic in fish
       by ABC Science From Dr Karl on triplej'
 - type: entry
   published: "2018-11-13T10:18:44+00:00"

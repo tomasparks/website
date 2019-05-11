@@ -1,30 +1,5 @@
 ---
 - type: entry
-  published: "2018-05-10T12:32:42+00:00"
-  category:
-  - scrobble
-  - audio
-  - Acquired - Tech Acquisitions & IPOs
-  - Ben Gilbert & David Rosenthal
-  listen-of:
-    h-cite:
-      url: http://www.acquired.fm/episodes?format=RSS
-      photo: ""
-      audio:
-      - http://traffic.libsyn.com/acquired/Acquired_Season_2_Episode_5-_The_Dropbox_IPO.mp3
-      - http://archive.org/download/Acquired-Podcast-by-Ben_Gilbert_and_David_Rosenthal/Season_2_Episode_5The_Dropbox_IPO.mp3
-      name: "Season 2, Episode 5:\_The Dropbox IPO"
-      author: Ben Gilbert & David Rosenthal
-      content: "Acquired is live on the scene following Dropbox\u2019s public market
-        debut. From playing a central role in the early days of Y Combinator, to having
-        Steve Jobs famously label the company a \u201Cfeature not a product\u201D,
-        to pivoting from consumers to enterprise to developers and back again, the
-        silicon valley history runs deep with this one. What twists and turns lie
-        ahead for Dropbox as a public company? We speculate!"
-  content:
-    text: " \\ud83c\\udfa7 Listened to Season 2, Episode 5:\_The Dropbox IPO by @gilbert
-      & @djrosent From @AcquiredFM"
-- type: entry
   published: "2018-05-10T09:35:46+00:00"
   category:
   - scrobble
@@ -50,6 +25,31 @@
     text: " \\ud83c\\udfa7 Listened to Season 2, Episode 6:\_Spotify\u2019s Direct
       Listing by @gilbert & @djrosent From @AcquiredFM"
 - type: entry
+  published: "2018-05-10T12:32:42+00:00"
+  category:
+  - scrobble
+  - audio
+  - Acquired - Tech Acquisitions & IPOs
+  - Ben Gilbert & David Rosenthal
+  listen-of:
+    h-cite:
+      url: http://www.acquired.fm/episodes?format=RSS
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/acquired/Acquired_Season_2_Episode_5-_The_Dropbox_IPO.mp3
+      - http://archive.org/download/Acquired-Podcast-by-Ben_Gilbert_and_David_Rosenthal/Season_2_Episode_5The_Dropbox_IPO.mp3
+      name: "Season 2, Episode 5:\_The Dropbox IPO"
+      author: Ben Gilbert & David Rosenthal
+      content: "Acquired is live on the scene following Dropbox\u2019s public market
+        debut. From playing a central role in the early days of Y Combinator, to having
+        Steve Jobs famously label the company a \u201Cfeature not a product\u201D,
+        to pivoting from consumers to enterprise to developers and back again, the
+        silicon valley history runs deep with this one. What twists and turns lie
+        ahead for Dropbox as a public company? We speculate!"
+  content:
+    text: " \\ud83c\\udfa7 Listened to Season 2, Episode 5:\_The Dropbox IPO by @gilbert
+      & @djrosent From @AcquiredFM"
+- type: entry
   published: "2018-05-10T03:14:34+00:00"
   category:
   - scrobble
@@ -73,28 +73,6 @@
     text: ' \ud83c\udfa7 Listened to Exclusive: How Microsoft CEO Satya Nadella is
       rethinking Windows by Array From snarfed on Huffduffer'
 - type: entry
-  published: "2018-05-10T13:11:41+00:00"
-  category:
-  - scrobble
-  - audio
-  - Dr Karl on triplej
-  - ABC Science
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20180510.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Hemp_nicotine_and_underwater_spiders.mp3
-      name: Hemp, nicotine and underwater spiders
-      author: ABC Science
-      content: Dr. Karl answers all your science questions, including; is coffee linked
-        to cancer? Is there scientific proof of an afterlife? Why can't we control
-        what we remember?
-  content:
-    text: ' \ud83c\udfa7 Listened to Hemp, nicotine and underwater spiders by ABC
-      Science From Dr Karl on triplej'
-- type: entry
   published: "2018-05-10T04:55:39+00:00"
   category:
   - scrobble
@@ -116,6 +94,28 @@
   content:
     text: ' \ud83c\udfa7 Listened to The Living Computer Episode by @textfiles From
       #JasonScottTalksHisWayOutofIt'
+- type: entry
+  published: "2018-05-10T13:11:41+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl on triplej
+  - ABC Science
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20180510.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Hemp_nicotine_and_underwater_spiders.mp3
+      name: Hemp, nicotine and underwater spiders
+      author: ABC Science
+      content: Dr. Karl answers all your science questions, including; is coffee linked
+        to cancer? Is there scientific proof of an afterlife? Why can't we control
+        what we remember?
+  content:
+    text: ' \ud83c\udfa7 Listened to Hemp, nicotine and underwater spiders by ABC
+      Science From Dr Karl on triplej'
 - type: entry
   published: "2018-05-10T06:55:29+00:00"
   category:

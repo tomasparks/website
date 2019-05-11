@@ -1,6 +1,6 @@
 ---
 - type: entry
-  published: "2018-01-03T16:17:56+00:00"
+  published: "2018-01-03T14:50:24+00:00"
   category:
   - scrobble
   - audio
@@ -11,16 +11,16 @@
       url: http://feeds.feedburner.com/InternetHistoryPodcast
       photo: ""
       audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/tRJJPRcJkLI/53._Match.com_and_Sex.com_Founder_Gary_Kremen.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/53_Matchcom_and_Sexcom_Founder_Gary_Kremen.mp3
-      name: 53. Match.com and Sex.com Founder Gary Kremen
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/Lp7ZZabPDxE/52._Ch._7_Pt._1_-_The_Birth_of_Amazon.com.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/52_Ch_71_The_Birth_of_Amazoncom.mp3
+      name: 52. (Ch 7.1) The Birth of Amazon.com
       author: Brian McCullough @brianmcc
       content: A history of the Internet Era from Netscape to the iPad. Oral histories
         from the people that made the technology happen. "Chapter" episodes providing
         background on the history of the companies.
   content:
-    text: ' \ud83c\udfa7 Listened to 53. Match.com and Sex.com Founder Gary Kremen
-      by Brian McCullough @brianmcc From Internet History Podcast'
+    text: ' \ud83c\udfa7 Listened to 52. (Ch 7.1) The Birth of Amazon.com by Brian
+      McCullough @brianmcc From Internet History Podcast'
 - type: entry
   published: "2018-01-03T13:53:33+00:00"
   category:
@@ -44,7 +44,7 @@
     text: ' \ud83c\udfa7 Listened to 51. Glenn Fleishman @GlennF Discusses Early Amazon
       by Brian McCullough @brianmcc From Internet History Podcast'
 - type: entry
-  published: "2018-01-03T14:50:24+00:00"
+  published: "2018-01-03T16:17:56+00:00"
   category:
   - scrobble
   - audio
@@ -55,14 +55,14 @@
       url: http://feeds.feedburner.com/InternetHistoryPodcast
       photo: ""
       audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/Lp7ZZabPDxE/52._Ch._7_Pt._1_-_The_Birth_of_Amazon.com.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/52_Ch_71_The_Birth_of_Amazoncom.mp3
-      name: 52. (Ch 7.1) The Birth of Amazon.com
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/tRJJPRcJkLI/53._Match.com_and_Sex.com_Founder_Gary_Kremen.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/53_Matchcom_and_Sexcom_Founder_Gary_Kremen.mp3
+      name: 53. Match.com and Sex.com Founder Gary Kremen
       author: Brian McCullough @brianmcc
       content: A history of the Internet Era from Netscape to the iPad. Oral histories
         from the people that made the technology happen. "Chapter" episodes providing
         background on the history of the companies.
   content:
-    text: ' \ud83c\udfa7 Listened to 52. (Ch 7.1) The Birth of Amazon.com by Brian
-      McCullough @brianmcc From Internet History Podcast'
+    text: ' \ud83c\udfa7 Listened to 53. Match.com and Sex.com Founder Gary Kremen
+      by Brian McCullough @brianmcc From Internet History Podcast'
 ...

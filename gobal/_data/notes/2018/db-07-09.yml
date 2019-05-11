@@ -1,252 +1,5 @@
 ---
 - type: entry
-  published: "2018-07-09T17:28:43+00:00"
-  category:
-  - scrobble
-  - audio
-  - Great Moments In Science - with Dr Karl Kruszelnicki
-  - ABC Radio National
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2018/03/gms_20180320.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Phone_porting_and_identity_theft.mp3
-      name: Phone porting and identity theft
-      author: ABC Radio National
-      content: Are you doing everything you can to stop thieves from stealing your
-        identity and 'porting' your phone number?
-  content:
-    text: ' \ud83c\udfa7 Listened to Phone porting and identity theft by ABC Radio
-      National From Great Moments In Science - with Dr Karl Kruszelnicki'
-- type: entry
-  published: "2018-07-09T17:58:58+00:00"
-  category:
-  - scrobble
-  - audio
-  - Great Moments In Science - with Dr Karl Kruszelnicki
-  - ABC Radio National
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2018/04/gms_20180424.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Trees_are_made_from_air.mp3
-      name: Trees are made from air
-      author: ABC Radio National
-      content: Trees are solid and dense. However, they're made from air. Wait, what?
-  content:
-    text: ' \ud83c\udfa7 Listened to Trees are made from air by ABC Radio National
-      From Great Moments In Science - with Dr Karl Kruszelnicki'
-- type: entry
-  published: "2018-07-09T12:32:50+00:00"
-  category:
-  - scrobble
-  - audio
-  - Great Moments In Science - with Dr Karl Kruszelnicki
-  - ABC Radio National
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2018/01/gms_20180123.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Chewing_gum.mp3
-      name: Chewing gum
-      author: ABC Radio National
-      content: What really happens when you swallow chewing gum?
-  content:
-    text: ' \ud83c\udfa7 Listened to Chewing gum by ABC Radio National From Great
-      Moments In Science - with Dr Karl Kruszelnicki'
-- type: entry
-  published: "2018-07-09T00:27:48+00:00"
-  category:
-  - scrobble
-  - audio
-  - Great Moments In Science - with Dr Karl Kruszelnicki
-  - ABC Radio National
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2017/12/gms_20171212.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Why_is_it_easier_to_erase_a_magnetic_hotel_card_than_a_credit_card.mp3
-      name: Why is it easier to 'erase' a magnetic hotel card than a credit card?
-      author: ABC Radio National
-      content: Surely all magnetic swipe cards are the same?
-  content:
-    text: ' \ud83c\udfa7 Listened to Why is it easier to ''erase'' a magnetic hotel
-      card than a credit card? by ABC Radio National From Great Moments In Science
-      - with Dr Karl Kruszelnicki'
-- type: entry
-  published: "2018-07-09T18:04:59+00:00"
-  category:
-  - scrobble
-  - audio
-  - Great Moments In Science - with Dr Karl Kruszelnicki
-  - ABC Radio National
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2018/05/gms_20180508.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Trees_have_senses_too.mp3
-      name: Trees have senses too
-      author: ABC Radio National
-      content: How do trees face an incoming threat if they can't move, see, or hear?
-  content:
-    text: ' \ud83c\udfa7 Listened to Trees have senses too by ABC Radio National From
-      Great Moments In Science - with Dr Karl Kruszelnicki'
-- type: entry
-  published: "2018-07-09T13:02:45+00:00"
-  category:
-  - scrobble
-  - audio
-  - Great Moments In Science - with Dr Karl Kruszelnicki
-  - ABC Radio National
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2018/02/gms_20180213.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/A_truck_thats_faster_than_the_internet.mp3
-      name: A truck that's faster than the internet?
-      author: ABC Radio National
-      content: If you want to transport data quickly, could a truck be the best option?
-  content:
-    text: ' \ud83c\udfa7 Listened to A truck that''s faster than the internet? by
-      ABC Radio National From Great Moments In Science - with Dr Karl Kruszelnicki'
-- type: entry
-  published: "2018-07-09T00:22:09+00:00"
-  category:
-  - scrobble
-  - audio
-  - Great Moments In Science - with Dr Karl Kruszelnicki
-  - ABC Radio National
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2017/12/gms_20171205.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Coffee_naps.mp3
-      name: Coffee naps
-      author: ABC Radio National
-      content: Is it better to have caffeine, a nap, or both?
-  content:
-    text: ' \ud83c\udfa7 Listened to Coffee naps by ABC Radio National From Great
-      Moments In Science - with Dr Karl Kruszelnicki'
-- type: entry
-  published: "2018-07-09T00:16:51+00:00"
-  category:
-  - scrobble
-  - audio
-  - Great Moments In Science - with Dr Karl Kruszelnicki
-  - ABC Radio National
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2017/11/gms_20171128.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Predicting_earthquakes.mp3
-      name: Predicting earthquakes
-      author: ABC Radio National
-      content: Are scientists getting closer to being able to predict when massive
-        earthquakes will strike?
-  content:
-    text: ' \ud83c\udfa7 Listened to Predicting earthquakes by ABC Radio National
-      From Great Moments In Science - with Dr Karl Kruszelnicki'
-- type: entry
-  published: "2018-07-09T13:25:42+00:00"
-  category:
-  - scrobble
-  - audio
-  - Great Moments In Science - with Dr Karl Kruszelnicki
-  - ABC Radio National
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2018/03/gms_20180313.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Fat_is_a_beautiful_organ.mp3
-      name: Fat is a beautiful organ
-      author: ABC Radio National
-      content: "There's currently a battle against the bulge \u2014 but is fighting
-        fat really the healthiest path?"
-  content:
-    text: ' \ud83c\udfa7 Listened to Fat is a beautiful organ by ABC Radio National
-      From Great Moments In Science - with Dr Karl Kruszelnicki'
-- type: entry
-  published: "2018-07-09T17:52:57+00:00"
-  category:
-  - scrobble
-  - audio
-  - Great Moments In Science - with Dr Karl Kruszelnicki
-  - ABC Radio National
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2018/04/gms_20180410.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Speaking_in_tongues.mp3
-      name: Speaking in tongues
-      author: ABC Radio National
-      content: "Imagine waking up one day and speaking with a different accent \u2014
-        with no control over it! Thanks to a very rare syndrome, this can actually
-        happen."
-  content:
-    text: ' \ud83c\udfa7 Listened to Speaking in tongues by ABC Radio National From
-      Great Moments In Science - with Dr Karl Kruszelnicki'
-- type: entry
-  published: "2018-07-09T00:58:22+00:00"
-  category:
-  - scrobble
-  - audio
-  - Great Moments In Science - with Dr Karl Kruszelnicki
-  - ABC Radio National
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2018/01/gms_20180116.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Alcohol_Antibiotics.mp3
-      name: Alcohol & Antibiotics
-      author: ABC Radio National
-      content: They're two drugs you shouldn't mix... right?
-  content:
-    text: ' \ud83c\udfa7 Listened to Alcohol & Antibiotics by ABC Radio National From
-      Great Moments In Science - with Dr Karl Kruszelnicki'
-- type: entry
-  published: "2018-07-09T12:56:44+00:00"
-  category:
-  - scrobble
-  - audio
-  - Great Moments In Science - with Dr Karl Kruszelnicki
-  - ABC Radio National
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2018/02/gms_20180206.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Tennis_grunting.mp3
-      name: Tennis grunting
-      author: ABC Radio National
-      content: Is there any evidence that grunting in a tennis match will improve
-        your game?
-  content:
-    text: ' \ud83c\udfa7 Listened to Tennis grunting by ABC Radio National From Great
-      Moments In Science - with Dr Karl Kruszelnicki'
-- type: entry
   published: "2018-07-09T00:39:00+00:00"
   category:
   - scrobble
@@ -268,7 +21,7 @@
     text: ' \ud83c\udfa7 Listened to Carrots & Night Vision by ABC Radio National
       From Great Moments In Science - with Dr Karl Kruszelnicki'
 - type: entry
-  published: "2018-07-09T12:38:42+00:00"
+  published: "2018-07-09T00:46:22+00:00"
   category:
   - scrobble
   - audio
@@ -279,54 +32,13 @@
       url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2018/01/gms_20180130.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Superhot_planet.mp3
-      name: Super-hot planet
+      - http://mpegmedia.abc.net.au/rn/podcast/2018/01/gms_20180102.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Asteroid_belt_1.mp3
+      name: Asteroid belt 1
       author: ABC Radio National
-      content: Is it possible for a planet to be hotter than a star?
+      content: What does an asteroid belt actually look like?
   content:
-    text: ' \ud83c\udfa7 Listened to Super-hot planet by ABC Radio National From Great
-      Moments In Science - with Dr Karl Kruszelnicki'
-- type: entry
-  published: "2018-07-09T00:33:23+00:00"
-  category:
-  - scrobble
-  - audio
-  - Great Moments In Science - with Dr Karl Kruszelnicki
-  - ABC Radio National
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2017/12/gms_20171219.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Mpemba_effect.mp3
-      name: Mpemba effect
-      author: ABC Radio National
-      content: If you want to freeze some water, you might want to heat it up first.
-  content:
-    text: ' \ud83c\udfa7 Listened to Mpemba effect by ABC Radio National From Great
-      Moments In Science - with Dr Karl Kruszelnicki'
-- type: entry
-  published: "2018-07-09T13:08:23+00:00"
-  category:
-  - scrobble
-  - audio
-  - Great Moments In Science - with Dr Karl Kruszelnicki
-  - ABC Radio National
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2018/02/gms_20180220.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Dark_matter.mp3
-      name: Dark matter
-      author: ABC Radio National
-      content: "About 95% of the mass in the universe seems to be missing \u2014 what's
-        going on!?"
-  content:
-    text: ' \ud83c\udfa7 Listened to Dark matter by ABC Radio National From Great
+    text: ' \ud83c\udfa7 Listened to Asteroid belt 1 by ABC Radio National From Great
       Moments In Science - with Dr Karl Kruszelnicki'
 - type: entry
   published: "2018-07-09T13:19:48+00:00"
@@ -350,7 +62,7 @@
     text: ' \ud83c\udfa7 Listened to Doomsday seed vaults by ABC Radio National From
       Great Moments In Science - with Dr Karl Kruszelnicki'
 - type: entry
-  published: "2018-07-09T17:40:12+00:00"
+  published: "2018-07-09T00:58:22+00:00"
   category:
   - scrobble
   - audio
@@ -361,15 +73,221 @@
       url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2018/03/gms_20180327.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Aboriginal_stories_accurate.mp3
-      name: Aboriginal stories accurate
+      - http://mpegmedia.abc.net.au/rn/podcast/2018/01/gms_20180116.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Alcohol_Antibiotics.mp3
+      name: Alcohol & Antibiotics
       author: ABC Radio National
-      content: For thousands of years, Australian Aboriginal people have accurately
-        passed down information from one generation to the next using oral traditions.
+      content: They're two drugs you shouldn't mix... right?
   content:
-    text: ' \ud83c\udfa7 Listened to Aboriginal stories accurate by ABC Radio National
+    text: ' \ud83c\udfa7 Listened to Alcohol & Antibiotics by ABC Radio National From
+      Great Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2018-07-09T17:28:43+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2018/03/gms_20180320.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Phone_porting_and_identity_theft.mp3
+      name: Phone porting and identity theft
+      author: ABC Radio National
+      content: Are you doing everything you can to stop thieves from stealing your
+        identity and 'porting' your phone number?
+  content:
+    text: ' \ud83c\udfa7 Listened to Phone porting and identity theft by ABC Radio
+      National From Great Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2018-07-09T12:56:44+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2018/02/gms_20180206.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Tennis_grunting.mp3
+      name: Tennis grunting
+      author: ABC Radio National
+      content: Is there any evidence that grunting in a tennis match will improve
+        your game?
+  content:
+    text: ' \ud83c\udfa7 Listened to Tennis grunting by ABC Radio National From Great
+      Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2018-07-09T13:08:23+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2018/02/gms_20180220.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Dark_matter.mp3
+      name: Dark matter
+      author: ABC Radio National
+      content: "About 95% of the mass in the universe seems to be missing \u2014 what's
+        going on!?"
+  content:
+    text: ' \ud83c\udfa7 Listened to Dark matter by ABC Radio National From Great
+      Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2018-07-09T12:32:50+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2018/01/gms_20180123.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Chewing_gum.mp3
+      name: Chewing gum
+      author: ABC Radio National
+      content: What really happens when you swallow chewing gum?
+  content:
+    text: ' \ud83c\udfa7 Listened to Chewing gum by ABC Radio National From Great
+      Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2018-07-09T17:52:57+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2018/04/gms_20180410.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Speaking_in_tongues.mp3
+      name: Speaking in tongues
+      author: ABC Radio National
+      content: "Imagine waking up one day and speaking with a different accent \u2014
+        with no control over it! Thanks to a very rare syndrome, this can actually
+        happen."
+  content:
+    text: ' \ud83c\udfa7 Listened to Speaking in tongues by ABC Radio National From
+      Great Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2018-07-09T13:25:42+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2018/03/gms_20180313.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Fat_is_a_beautiful_organ.mp3
+      name: Fat is a beautiful organ
+      author: ABC Radio National
+      content: "There's currently a battle against the bulge \u2014 but is fighting
+        fat really the healthiest path?"
+  content:
+    text: ' \ud83c\udfa7 Listened to Fat is a beautiful organ by ABC Radio National
       From Great Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2018-07-09T18:04:59+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2018/05/gms_20180508.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Trees_have_senses_too.mp3
+      name: Trees have senses too
+      author: ABC Radio National
+      content: How do trees face an incoming threat if they can't move, see, or hear?
+  content:
+    text: ' \ud83c\udfa7 Listened to Trees have senses too by ABC Radio National From
+      Great Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2018-07-09T00:16:51+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2017/11/gms_20171128.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Predicting_earthquakes.mp3
+      name: Predicting earthquakes
+      author: ABC Radio National
+      content: Are scientists getting closer to being able to predict when massive
+        earthquakes will strike?
+  content:
+    text: ' \ud83c\udfa7 Listened to Predicting earthquakes by ABC Radio National
+      From Great Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2018-07-09T00:22:09+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2017/12/gms_20171205.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Coffee_naps.mp3
+      name: Coffee naps
+      author: ABC Radio National
+      content: Is it better to have caffeine, a nap, or both?
+  content:
+    text: ' \ud83c\udfa7 Listened to Coffee naps by ABC Radio National From Great
+      Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2018-07-09T00:33:23+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2017/12/gms_20171219.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Mpemba_effect.mp3
+      name: Mpemba effect
+      author: ABC Radio National
+      content: If you want to freeze some water, you might want to heat it up first.
+  content:
+    text: ' \ud83c\udfa7 Listened to Mpemba effect by ABC Radio National From Great
+      Moments In Science - with Dr Karl Kruszelnicki'
 - type: entry
   published: "2018-07-09T13:13:40+00:00"
   category:
@@ -392,6 +310,47 @@
     text: ' \ud83c\udfa7 Listened to Arsonist birds by ABC Radio National From Great
       Moments In Science - with Dr Karl Kruszelnicki'
 - type: entry
+  published: "2018-07-09T00:27:48+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2017/12/gms_20171212.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Why_is_it_easier_to_erase_a_magnetic_hotel_card_than_a_credit_card.mp3
+      name: Why is it easier to 'erase' a magnetic hotel card than a credit card?
+      author: ABC Radio National
+      content: Surely all magnetic swipe cards are the same?
+  content:
+    text: ' \ud83c\udfa7 Listened to Why is it easier to ''erase'' a magnetic hotel
+      card than a credit card? by ABC Radio National From Great Moments In Science
+      - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2018-07-09T13:02:45+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2018/02/gms_20180213.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/A_truck_thats_faster_than_the_internet.mp3
+      name: A truck that's faster than the internet?
+      author: ABC Radio National
+      content: If you want to transport data quickly, could a truck be the best option?
+  content:
+    text: ' \ud83c\udfa7 Listened to A truck that''s faster than the internet? by
+      ABC Radio National From Great Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
   published: "2018-07-09T17:46:36+00:00"
   category:
   - scrobble
@@ -413,6 +372,47 @@
     text: ' \ud83c\udfa7 Listened to The hummingbird: a furnace with feathers by ABC
       Radio National From Great Moments In Science - with Dr Karl Kruszelnicki'
 - type: entry
+  published: "2018-07-09T12:38:42+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2018/01/gms_20180130.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Superhot_planet.mp3
+      name: Super-hot planet
+      author: ABC Radio National
+      content: Is it possible for a planet to be hotter than a star?
+  content:
+    text: ' \ud83c\udfa7 Listened to Super-hot planet by ABC Radio National From Great
+      Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2018-07-09T17:40:12+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2018/03/gms_20180327.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Aboriginal_stories_accurate.mp3
+      name: Aboriginal stories accurate
+      author: ABC Radio National
+      content: For thousands of years, Australian Aboriginal people have accurately
+        passed down information from one generation to the next using oral traditions.
+  content:
+    text: ' \ud83c\udfa7 Listened to Aboriginal stories accurate by ABC Radio National
+      From Great Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
   published: "2018-07-09T00:52:46+00:00"
   category:
   - scrobble
@@ -433,7 +433,7 @@
     text: ' \ud83c\udfa7 Listened to Asteroid belt 2 by ABC Radio National From Great
       Moments In Science - with Dr Karl Kruszelnicki'
 - type: entry
-  published: "2018-07-09T00:46:22+00:00"
+  published: "2018-07-09T17:58:58+00:00"
   category:
   - scrobble
   - audio
@@ -444,14 +444,14 @@
       url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2018/01/gms_20180102.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Asteroid_belt_1.mp3
-      name: Asteroid belt 1
+      - http://mpegmedia.abc.net.au/rn/podcast/2018/04/gms_20180424.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Trees_are_made_from_air.mp3
+      name: Trees are made from air
       author: ABC Radio National
-      content: What does an asteroid belt actually look like?
+      content: Trees are solid and dense. However, they're made from air. Wait, what?
   content:
-    text: ' \ud83c\udfa7 Listened to Asteroid belt 1 by ABC Radio National From Great
-      Moments In Science - with Dr Karl Kruszelnicki'
+    text: ' \ud83c\udfa7 Listened to Trees are made from air by ABC Radio National
+      From Great Moments In Science - with Dr Karl Kruszelnicki'
 - type: entry
   published: "2018-07-09T19:11:06+00:00"
   category:
