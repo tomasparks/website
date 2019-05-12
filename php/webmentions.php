@@ -49,9 +49,6 @@ case "archive":
 	  foreach ($db as $path => $value) {
 	  echo "path: ".$path."\n";
 	    	if(is_array($value))	{
-	                      mkdir("/home/tom/github/website/sources/gobal/_data/webmention/".$path."/");
-	                      chdir("/home/tom/github/website/sources/gobal/_data/webmention/".$path."/");
-
 	                        if (file_exists("/home/tom/github/website/sources/gobal/_data/webmention/".$path.".json"))  {
 	                      
 	                            $file = file_get_contents("/home/tom/github/website/sources/gobal/_data/webmention/".$path.".json");
