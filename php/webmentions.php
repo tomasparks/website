@@ -31,27 +31,7 @@ case "archive":
 }
 				
 				
-				switch ($value['wm-property']) {
-				    case "in-reply-to":
-				        $db[$path]['replied'][]=$value;
-				    break;
-				    case "like-of":
-				    	$db[$path]['liked'][]=$value;
-				    break;
-				    case "mention-of":
-				    	  $db[$path]['mentioned'][]=$value;
-				    break;
-				    case "repost-of":
-				    	  $db[$path]['repost'][]=$value;
-				    break;
-				    case "bookmark-of":
-				    	  $db[$path]['bookmarked'][]=$value;
-				    break;
-				    case "rsvp":
-				    	  $db[$path]['rsvped'][]=$value;
-				    break;
-				    }
-				
+				        $db[$path][]=$value;
 				
 				// h-card section
 				$hcard[$value['author']['name']] = array ( "name" => $value['author']['name'],"photo" => $value['author']['photo']  );
@@ -67,13 +47,10 @@ case "archive":
 	  //yaml_emit_file( "/home/tom/github/website/sources/gobal/_data/webmention/output.yml", $db);
 	  foreach ($db as $path => $value) {
 	  echo "path: ".$path."\n";
-	    	if(is_array($value))	{
-	                      mkdir("/home/tom/github/website/sources/gobal/_data/webmention/".$path."/");
-	                      chdir("/home/tom/github/website/sources/gobal/_data/webmention/".$path."/");
-	                      foreach ($value as $type => $arr ) {
-	                        if (file_exists("/home/tom/github/website/sources/gobal/_data/webmention/".$path."/".$type.".json"))  {
+	   
+	   	                        if (file_exists("/home/tom/github/website/sources/gobal/_data/webmention/".$path.".json"))  {
 	                      
-	                            $file = file_get_contents("/home/tom/github/website/sources/gobal/_data/webmention/".$path."/".$type.".json");
+	                            $file = file_get_contents("/home/tom/github/website/sources/gobal/_data/webmention/".$path.".json");
 	                            $tmp_db = json_decode($file);
 	                     
 	                     
@@ -84,10 +61,10 @@ case "archive":
             			}
 	                        //yaml_emit_file( "/home/tom/github/website/sources/gobal/_data/webmention/".$path."/".$type.".yml", $arr);
 	                        $json_data = json_encode($arr,JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES);
-                            file_put_contents("/home/tom/github/website/sources/gobal/_data/webmention/".$path."/".$type.".json", $json_data);
+                            file_put_contents("/home/tom/github/website/sources/gobal/_data/webmention/".$path.".json", $json_data);
 	                      }
-	  }
-	}  
+	
+ 
 //print_r ($db);
 //print_r ($db);
 ?>
