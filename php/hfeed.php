@@ -32,7 +32,10 @@ else  {$contents =  $value['value'];}
 return $contents;
 }
 
-$jf2File = array ("main","miniatures","gallery","notes");
+$jf2File = array ("main",
+"miniatures",
+"gallery",
+"notes");
 
 $database = array ();
 
@@ -48,8 +51,8 @@ $newdata = json_decode($json, true);
 
 
 print_r($newdata['children']);
-//$database = array_merge($database,$newdata['children']);
-//$database = array_unique(array_merge($database,$newdata['children']), SORT_REGULAR);
+$database = array_merge($database,$newdata['children']);
+$database = array_unique(array_merge($database,$newdata['children']), SORT_REGULAR);
 }}
 
 
@@ -159,7 +162,16 @@ if (isset($value['listen-of'])) {
                 $cat = $htmlul->addChild('li',$cat);
                 $cat->addAttribute('class', 'p-category');
                 }
-            } 
+            }
+            
+        $htmlul = $entry->addChild('ul');
+            foreach ($value['syndication'] as $syn ) {
+                if (!is_array($syn)) {
+                $cat = $htmlul->addChild('li',$syn);
+                $cat->addAttribute('class', 'u-syndication');
+                }
+            }           
+             
                     
         $author =  $entry->addChild('div','Tom sparks');
                     $author->addAttribute('class', 'p-author');                    
