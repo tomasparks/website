@@ -38,9 +38,16 @@
 
 
 
-/notebook/2019/05/slashdot == 
+
 syndication: [
-[{"source":"/notebook/2019/05/slashdot","target":[{"https://twitter.com/tomasparksts/status/1127175106265067520":null}]}]
+		    
+"test":"/notebook/2019/05/slashdot == /notebook/2019/05/slashdot",
+["source","/notebook/2019/05/slashdot"]
+
+
+"test":"/notebook/2019/05/slashdot == /notebook/2019/05/slashdot",
+["target","https://twitter.com/tomasparksts/status/1127175106265067520"]
+
 
 ]
 
@@ -76,9 +83,16 @@ syndication: [
 
 
 
-/build-log/imperial-city/2018/12/28/imperialcity == 
+
 syndication: [
-[{"source":"/notebook/2019/05/slashdot","target":[{"https://twitter.com/tomasparksts/status/1127175106265067520":null}]}]
+		    
+"test":"/build-log/imperial-city/2018/12/28/imperialcity == /notebook/2019/05/slashdot",
+["source","/notebook/2019/05/slashdot"]
+
+
+"test":"/build-log/imperial-city/2018/12/28/imperialcity == /notebook/2019/05/slashdot",
+["target","https://twitter.com/tomasparksts/status/1127175106265067520"]
+
 
 ]
 
@@ -114,9 +128,16 @@ syndication: [
 
 
 
-/notebook/2018/12/krpano == 
+
 syndication: [
-[{"source":"/notebook/2019/05/slashdot","target":[{"https://twitter.com/tomasparksts/status/1127175106265067520":null}]}]
+		    
+"test":"/notebook/2018/12/krpano == /notebook/2019/05/slashdot",
+["source","/notebook/2019/05/slashdot"]
+
+
+"test":"/notebook/2018/12/krpano == /notebook/2019/05/slashdot",
+["target","https://twitter.com/tomasparksts/status/1127175106265067520"]
+
 
 ]
 
@@ -152,9 +173,16 @@ syndication: [
 
 
 
-/notebook/2018/12/painting-methods == 
+
 syndication: [
-[{"source":"/notebook/2019/05/slashdot","target":[{"https://twitter.com/tomasparksts/status/1127175106265067520":null}]}]
+		    
+"test":"/notebook/2018/12/painting-methods == /notebook/2019/05/slashdot",
+["source","/notebook/2019/05/slashdot"]
+
+
+"test":"/notebook/2018/12/painting-methods == /notebook/2019/05/slashdot",
+["target","https://twitter.com/tomasparksts/status/1127175106265067520"]
+
 
 ]
 
@@ -190,9 +218,16 @@ syndication: [
 
 
 
-/notebook/2018/11/tools == 
+
 syndication: [
-[{"source":"/notebook/2019/05/slashdot","target":[{"https://twitter.com/tomasparksts/status/1127175106265067520":null}]}]
+		    
+"test":"/notebook/2018/11/tools == /notebook/2019/05/slashdot",
+["source","/notebook/2019/05/slashdot"]
+
+
+"test":"/notebook/2018/11/tools == /notebook/2019/05/slashdot",
+["target","https://twitter.com/tomasparksts/status/1127175106265067520"]
+
 
 ]
 
@@ -228,9 +263,16 @@ syndication: [
 
 
 
-/notebook/2018/11/endoscope-camera-rig == 
+
 syndication: [
-[{"source":"/notebook/2019/05/slashdot","target":[{"https://twitter.com/tomasparksts/status/1127175106265067520":null}]}]
+		    
+"test":"/notebook/2018/11/endoscope-camera-rig == /notebook/2019/05/slashdot",
+["source","/notebook/2019/05/slashdot"]
+
+
+"test":"/notebook/2018/11/endoscope-camera-rig == /notebook/2019/05/slashdot",
+["target","https://twitter.com/tomasparksts/status/1127175106265067520"]
+
 
 ]
 
@@ -266,9 +308,16 @@ syndication: [
 
 
 
-/notebook/2018/11/you-should-contact-x == 
+
 syndication: [
-[{"source":"/notebook/2019/05/slashdot","target":[{"https://twitter.com/tomasparksts/status/1127175106265067520":null}]}]
+		    
+"test":"/notebook/2018/11/you-should-contact-x == /notebook/2019/05/slashdot",
+["source","/notebook/2019/05/slashdot"]
+
+
+"test":"/notebook/2018/11/you-should-contact-x == /notebook/2019/05/slashdot",
+["target","https://twitter.com/tomasparksts/status/1127175106265067520"]
+
 
 ]
 
@@ -304,9 +353,16 @@ syndication: [
 
 
 
-/notebook/2018/11/streetview-diorama-update == 
+
 syndication: [
-[{"source":"/notebook/2019/05/slashdot","target":[{"https://twitter.com/tomasparksts/status/1127175106265067520":null}]}]
+		    
+"test":"/notebook/2018/11/streetview-diorama-update == /notebook/2019/05/slashdot",
+["source","/notebook/2019/05/slashdot"]
+
+
+"test":"/notebook/2018/11/streetview-diorama-update == /notebook/2019/05/slashdot",
+["target","https://twitter.com/tomasparksts/status/1127175106265067520"]
+
 
 ]
 
@@ -342,9 +398,16 @@ syndication: [
 
 
 
-/notebook/2018/10/darkroom-diorama == 
+
 syndication: [
-[{"source":"/notebook/2019/05/slashdot","target":[{"https://twitter.com/tomasparksts/status/1127175106265067520":null}]}]
+		    
+"test":"/notebook/2018/10/darkroom-diorama == /notebook/2019/05/slashdot",
+["source","/notebook/2019/05/slashdot"]
+
+
+"test":"/notebook/2018/10/darkroom-diorama == /notebook/2019/05/slashdot",
+["target","https://twitter.com/tomasparksts/status/1127175106265067520"]
+
 
 ]
 
@@ -380,9 +443,16 @@ syndication: [
 
 
 
-/notebook/2018/10/documenting == 
+
 syndication: [
-[{"source":"/notebook/2019/05/slashdot","target":[{"https://twitter.com/tomasparksts/status/1127175106265067520":null}]}]
+		    
+"test":"/notebook/2018/10/documenting == /notebook/2019/05/slashdot",
+["source","/notebook/2019/05/slashdot"]
+
+
+"test":"/notebook/2018/10/documenting == /notebook/2019/05/slashdot",
+["target","https://twitter.com/tomasparksts/status/1127175106265067520"]
+
 
 ]
 
@@ -418,9 +488,16 @@ syndication: [
 
 
 
-/notebook/2018/10/deepzoom-map == 
+
 syndication: [
-[{"source":"/notebook/2019/05/slashdot","target":[{"https://twitter.com/tomasparksts/status/1127175106265067520":null}]}]
+		    
+"test":"/notebook/2018/10/deepzoom-map == /notebook/2019/05/slashdot",
+["source","/notebook/2019/05/slashdot"]
+
+
+"test":"/notebook/2018/10/deepzoom-map == /notebook/2019/05/slashdot",
+["target","https://twitter.com/tomasparksts/status/1127175106265067520"]
+
 
 ]
 
@@ -456,9 +533,16 @@ syndication: [
 
 
 
-/notebook/2018/10/streetview-diorama == 
+
 syndication: [
-[{"source":"/notebook/2019/05/slashdot","target":[{"https://twitter.com/tomasparksts/status/1127175106265067520":null}]}]
+		    
+"test":"/notebook/2018/10/streetview-diorama == /notebook/2019/05/slashdot",
+["source","/notebook/2019/05/slashdot"]
+
+
+"test":"/notebook/2018/10/streetview-diorama == /notebook/2019/05/slashdot",
+["target","https://twitter.com/tomasparksts/status/1127175106265067520"]
+
 
 ]
 
@@ -494,9 +578,16 @@ syndication: [
 
 
 
-/build-log/pirate-island/2018/09/26/pirate-island-idea == 
+
 syndication: [
-[{"source":"/notebook/2019/05/slashdot","target":[{"https://twitter.com/tomasparksts/status/1127175106265067520":null}]}]
+		    
+"test":"/build-log/pirate-island/2018/09/26/pirate-island-idea == /notebook/2019/05/slashdot",
+["source","/notebook/2019/05/slashdot"]
+
+
+"test":"/build-log/pirate-island/2018/09/26/pirate-island-idea == /notebook/2019/05/slashdot",
+["target","https://twitter.com/tomasparksts/status/1127175106265067520"]
+
 
 ]
 
@@ -532,9 +623,16 @@ syndication: [
 
 
 
-/notebook/2018/09/3d-topo-map == 
+
 syndication: [
-[{"source":"/notebook/2019/05/slashdot","target":[{"https://twitter.com/tomasparksts/status/1127175106265067520":null}]}]
+		    
+"test":"/notebook/2018/09/3d-topo-map == /notebook/2019/05/slashdot",
+["source","/notebook/2019/05/slashdot"]
+
+
+"test":"/notebook/2018/09/3d-topo-map == /notebook/2019/05/slashdot",
+["target","https://twitter.com/tomasparksts/status/1127175106265067520"]
+
 
 ]
 
@@ -570,9 +668,16 @@ syndication: [
 
 
 
-/notebook/2018/09/papercraft == 
+
 syndication: [
-[{"source":"/notebook/2019/05/slashdot","target":[{"https://twitter.com/tomasparksts/status/1127175106265067520":null}]}]
+		    
+"test":"/notebook/2018/09/papercraft == /notebook/2019/05/slashdot",
+["source","/notebook/2019/05/slashdot"]
+
+
+"test":"/notebook/2018/09/papercraft == /notebook/2019/05/slashdot",
+["target","https://twitter.com/tomasparksts/status/1127175106265067520"]
+
 
 ]
 
@@ -608,9 +713,16 @@ syndication: [
 
 
 
-/notebook/2018/08/dcc == 
+
 syndication: [
-[{"source":"/notebook/2019/05/slashdot","target":[{"https://twitter.com/tomasparksts/status/1127175106265067520":null}]}]
+		    
+"test":"/notebook/2018/08/dcc == /notebook/2019/05/slashdot",
+["source","/notebook/2019/05/slashdot"]
+
+
+"test":"/notebook/2018/08/dcc == /notebook/2019/05/slashdot",
+["target","https://twitter.com/tomasparksts/status/1127175106265067520"]
+
 
 ]
 
@@ -646,9 +758,16 @@ syndication: [
 
 
 
-/build-log/steampunk/2018/08/06/steampunk-idea == 
+
 syndication: [
-[{"source":"/notebook/2019/05/slashdot","target":[{"https://twitter.com/tomasparksts/status/1127175106265067520":null}]}]
+		    
+"test":"/build-log/steampunk/2018/08/06/steampunk-idea == /notebook/2019/05/slashdot",
+["source","/notebook/2019/05/slashdot"]
+
+
+"test":"/build-log/steampunk/2018/08/06/steampunk-idea == /notebook/2019/05/slashdot",
+["target","https://twitter.com/tomasparksts/status/1127175106265067520"]
+
 
 ]
 
@@ -684,9 +803,16 @@ syndication: [
 
 
 
-/build-log/retrofuturism/2018/08/06/retrofuturism-idea == 
+
 syndication: [
-[{"source":"/notebook/2019/05/slashdot","target":[{"https://twitter.com/tomasparksts/status/1127175106265067520":null}]}]
+		    
+"test":"/build-log/retrofuturism/2018/08/06/retrofuturism-idea == /notebook/2019/05/slashdot",
+["source","/notebook/2019/05/slashdot"]
+
+
+"test":"/build-log/retrofuturism/2018/08/06/retrofuturism-idea == /notebook/2019/05/slashdot",
+["target","https://twitter.com/tomasparksts/status/1127175106265067520"]
+
 
 ]
 
@@ -722,9 +848,16 @@ syndication: [
 
 
 
-/notebook/2018/07/3dprinter-experiment == 
+
 syndication: [
-[{"source":"/notebook/2019/05/slashdot","target":[{"https://twitter.com/tomasparksts/status/1127175106265067520":null}]}]
+		    
+"test":"/notebook/2018/07/3dprinter-experiment == /notebook/2019/05/slashdot",
+["source","/notebook/2019/05/slashdot"]
+
+
+"test":"/notebook/2018/07/3dprinter-experiment == /notebook/2019/05/slashdot",
+["target","https://twitter.com/tomasparksts/status/1127175106265067520"]
+
 
 ]
 
@@ -760,9 +893,16 @@ syndication: [
 
 
 
-/notebook/2018/06/electronics-and-me == 
+
 syndication: [
-[{"source":"/notebook/2019/05/slashdot","target":[{"https://twitter.com/tomasparksts/status/1127175106265067520":null}]}]
+		    
+"test":"/notebook/2018/06/electronics-and-me == /notebook/2019/05/slashdot",
+["source","/notebook/2019/05/slashdot"]
+
+
+"test":"/notebook/2018/06/electronics-and-me == /notebook/2019/05/slashdot",
+["target","https://twitter.com/tomasparksts/status/1127175106265067520"]
+
 
 ]
 
@@ -798,9 +938,16 @@ syndication: [
 
 
 
-/notebook/1959/01/pen-plotter == 
+
 syndication: [
-[{"source":"/notebook/2019/05/slashdot","target":[{"https://twitter.com/tomasparksts/status/1127175106265067520":null}]}]
+		    
+"test":"/notebook/1959/01/pen-plotter == /notebook/2019/05/slashdot",
+["source","/notebook/2019/05/slashdot"]
+
+
+"test":"/notebook/1959/01/pen-plotter == /notebook/2019/05/slashdot",
+["target","https://twitter.com/tomasparksts/status/1127175106265067520"]
+
 
 ]
 
@@ -836,9 +983,16 @@ syndication: [
 
 
 
-/notebook/1889/01/space-1889-diorama == 
+
 syndication: [
-[{"source":"/notebook/2019/05/slashdot","target":[{"https://twitter.com/tomasparksts/status/1127175106265067520":null}]}]
+		    
+"test":"/notebook/1889/01/space-1889-diorama == /notebook/2019/05/slashdot",
+["source","/notebook/2019/05/slashdot"]
+
+
+"test":"/notebook/1889/01/space-1889-diorama == /notebook/2019/05/slashdot",
+["target","https://twitter.com/tomasparksts/status/1127175106265067520"]
+
 
 ]
 
