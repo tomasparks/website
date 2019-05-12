@@ -38,9 +38,9 @@
 
 
 
-
-syndication: [
 /notebook/2019/05/slashdot == 
+syndication: [
+[{"source":"/notebook/2019/05/slashdot","target":[{"https://twitter.com/tomasparksts/status/1127175106265067520":null}]}]
 
 ]
 
@@ -76,9 +76,9 @@ syndication: [
 
 
 
-
-syndication: [
 /build-log/imperial-city/2018/12/28/imperialcity == 
+syndication: [
+[{"source":"/notebook/2019/05/slashdot","target":[{"https://twitter.com/tomasparksts/status/1127175106265067520":null}]}]
 
 ]
 
@@ -114,9 +114,9 @@ syndication: [
 
 
 
-
-syndication: [
 /notebook/2018/12/krpano == 
+syndication: [
+[{"source":"/notebook/2019/05/slashdot","target":[{"https://twitter.com/tomasparksts/status/1127175106265067520":null}]}]
 
 ]
 
@@ -152,9 +152,9 @@ syndication: [
 
 
 
-
-syndication: [
 /notebook/2018/12/painting-methods == 
+syndication: [
+[{"source":"/notebook/2019/05/slashdot","target":[{"https://twitter.com/tomasparksts/status/1127175106265067520":null}]}]
 
 ]
 
@@ -190,9 +190,9 @@ syndication: [
 
 
 
-
-syndication: [
 /notebook/2018/11/tools == 
+syndication: [
+[{"source":"/notebook/2019/05/slashdot","target":[{"https://twitter.com/tomasparksts/status/1127175106265067520":null}]}]
 
 ]
 
@@ -228,9 +228,9 @@ syndication: [
 
 
 
-
-syndication: [
 /notebook/2018/11/endoscope-camera-rig == 
+syndication: [
+[{"source":"/notebook/2019/05/slashdot","target":[{"https://twitter.com/tomasparksts/status/1127175106265067520":null}]}]
 
 ]
 
@@ -266,9 +266,9 @@ syndication: [
 
 
 
-
-syndication: [
 /notebook/2018/11/you-should-contact-x == 
+syndication: [
+[{"source":"/notebook/2019/05/slashdot","target":[{"https://twitter.com/tomasparksts/status/1127175106265067520":null}]}]
 
 ]
 
@@ -304,9 +304,9 @@ syndication: [
 
 
 
-
-syndication: [
 /notebook/2018/11/streetview-diorama-update == 
+syndication: [
+[{"source":"/notebook/2019/05/slashdot","target":[{"https://twitter.com/tomasparksts/status/1127175106265067520":null}]}]
 
 ]
 
@@ -342,9 +342,9 @@ syndication: [
 
 
 
-
-syndication: [
 /notebook/2018/10/darkroom-diorama == 
+syndication: [
+[{"source":"/notebook/2019/05/slashdot","target":[{"https://twitter.com/tomasparksts/status/1127175106265067520":null}]}]
 
 ]
 
@@ -380,9 +380,9 @@ syndication: [
 
 
 
-
-syndication: [
 /notebook/2018/10/documenting == 
+syndication: [
+[{"source":"/notebook/2019/05/slashdot","target":[{"https://twitter.com/tomasparksts/status/1127175106265067520":null}]}]
 
 ]
 
@@ -418,9 +418,9 @@ syndication: [
 
 
 
-
-syndication: [
 /notebook/2018/10/deepzoom-map == 
+syndication: [
+[{"source":"/notebook/2019/05/slashdot","target":[{"https://twitter.com/tomasparksts/status/1127175106265067520":null}]}]
 
 ]
 
@@ -456,9 +456,9 @@ syndication: [
 
 
 
-
-syndication: [
 /notebook/2018/10/streetview-diorama == 
+syndication: [
+[{"source":"/notebook/2019/05/slashdot","target":[{"https://twitter.com/tomasparksts/status/1127175106265067520":null}]}]
 
 ]
 
@@ -494,9 +494,9 @@ syndication: [
 
 
 
-
-syndication: [
 /build-log/pirate-island/2018/09/26/pirate-island-idea == 
+syndication: [
+[{"source":"/notebook/2019/05/slashdot","target":[{"https://twitter.com/tomasparksts/status/1127175106265067520":null}]}]
 
 ]
 
@@ -532,9 +532,9 @@ syndication: [
 
 
 
-
-syndication: [
 /notebook/2018/09/3d-topo-map == 
+syndication: [
+[{"source":"/notebook/2019/05/slashdot","target":[{"https://twitter.com/tomasparksts/status/1127175106265067520":null}]}]
 
 ]
 
@@ -570,9 +570,9 @@ syndication: [
 
 
 
-
-syndication: [
 /notebook/2018/09/papercraft == 
+syndication: [
+[{"source":"/notebook/2019/05/slashdot","target":[{"https://twitter.com/tomasparksts/status/1127175106265067520":null}]}]
 
 ]
 
@@ -608,9 +608,9 @@ syndication: [
 
 
 
-
-syndication: [
 /notebook/2018/08/dcc == 
+syndication: [
+[{"source":"/notebook/2019/05/slashdot","target":[{"https://twitter.com/tomasparksts/status/1127175106265067520":null}]}]
 
 ]
 
@@ -646,9 +646,9 @@ syndication: [
 
 
 
-
-syndication: [
 /build-log/steampunk/2018/08/06/steampunk-idea == 
+syndication: [
+[{"source":"/notebook/2019/05/slashdot","target":[{"https://twitter.com/tomasparksts/status/1127175106265067520":null}]}]
 
 ]
 
@@ -684,9 +684,9 @@ syndication: [
 
 
 
-
-syndication: [
 /build-log/retrofuturism/2018/08/06/retrofuturism-idea == 
+syndication: [
+[{"source":"/notebook/2019/05/slashdot","target":[{"https://twitter.com/tomasparksts/status/1127175106265067520":null}]}]
 
 ]
 
@@ -722,9 +722,9 @@ syndication: [
 
 
 
-
-syndication: [
 /notebook/2018/07/3dprinter-experiment == 
+syndication: [
+[{"source":"/notebook/2019/05/slashdot","target":[{"https://twitter.com/tomasparksts/status/1127175106265067520":null}]}]
 
 ]
 
@@ -760,9 +760,9 @@ syndication: [
 
 
 
-
-syndication: [
 /notebook/2018/06/electronics-and-me == 
+syndication: [
+[{"source":"/notebook/2019/05/slashdot","target":[{"https://twitter.com/tomasparksts/status/1127175106265067520":null}]}]
 
 ]
 
@@ -798,9 +798,9 @@ syndication: [
 
 
 
-
-syndication: [
 /notebook/1959/01/pen-plotter == 
+syndication: [
+[{"source":"/notebook/2019/05/slashdot","target":[{"https://twitter.com/tomasparksts/status/1127175106265067520":null}]}]
 
 ]
 
@@ -836,9 +836,9 @@ syndication: [
 
 
 
-
-syndication: [
 /notebook/1889/01/space-1889-diorama == 
+syndication: [
+[{"source":"/notebook/2019/05/slashdot","target":[{"https://twitter.com/tomasparksts/status/1127175106265067520":null}]}]
 
 ]
 
