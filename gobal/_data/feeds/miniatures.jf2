@@ -33,8 +33,6 @@
 "category": ["documenting","Diorama","photograph","webtorrent"],
 "tags": ["website","webtorrent","krpano","videos"],
 
-"slug": "slashdot",
-"url": "/notebook/2019/05/slashdot}}"
 
 
 
@@ -42,6 +40,7 @@
 
 
 syndication: [ 
+
 
  ]
 
@@ -72,8 +71,6 @@ syndication: [
 "category": ["Imperial-City"],
 "tags": [],
 
-"slug": "ImperialCity",
-"url": "/build-log/imperial-city/2018/12/28/imperialcity}}"
 
 
 
@@ -81,6 +78,7 @@ syndication: [
 
 
 syndication: [ 
+
 
  ]
 
@@ -111,8 +109,6 @@ syndication: [
 "category": ["photograph"],
 "tags": ["Streetview","FPV","VR","Virtual tour"],
 
-"slug": "krpano",
-"url": "/notebook/2018/12/krpano}}"
 
 
 
@@ -120,6 +116,7 @@ syndication: [
 
 
 syndication: [ 
+
 
  ]
 
@@ -150,8 +147,6 @@ syndication: [
 "category": ["painting","papercraft"],
 "tags": [],
 
-"slug": "painting-methods",
-"url": "/notebook/2018/12/painting-methods}}"
 
 
 
@@ -159,6 +154,7 @@ syndication: [
 
 
 syndication: [ 
+
 
  ]
 
@@ -189,8 +185,6 @@ syndication: [
 "category": ["Diorama","tools"],
 "tags": ["papercraft","electronics"],
 
-"slug": "tools",
-"url": "/notebook/2018/11/tools}}"
 
 
 
@@ -198,6 +192,7 @@ syndication: [
 
 
 syndication: [ 
+
 
  ]
 
@@ -228,8 +223,6 @@ syndication: [
 "category": ["Diorama","photograph"],
 "tags": ["Streetview","FPV","VR","Virtual tour"],
 
-"slug": "endoscope-camera-rig",
-"url": "/notebook/2018/11/endoscope-camera-rig}}"
 
 
 
@@ -237,6 +230,7 @@ syndication: [
 
 
 syndication: [ 
+
 
  ]
 
@@ -267,8 +261,6 @@ syndication: [
 "category": ["Diorama","Other"],
 "tags": ["MHR emag","NMRA","Miniatur Wunderland"],
 
-"slug": "you-should-contact-X",
-"url": "/notebook/2018/11/you-should-contact-x}}"
 
 
 
@@ -276,6 +268,7 @@ syndication: [
 
 
 syndication: [ 
+
 
  ]
 
@@ -306,8 +299,6 @@ syndication: [
 "category": ["Diorama","photograph"],
 "tags": ["Streetview","FPV","VR","Virtual tour","image connectivity graph"],
 
-"slug": "streetview-Diorama-update",
-"url": "/notebook/2018/11/streetview-diorama-update}}"
 
 
 
@@ -315,6 +306,7 @@ syndication: [
 
 
 syndication: [ 
+
 
  ]
 
@@ -345,8 +337,6 @@ syndication: [
 "category": ["Diorama","photograph"],
 "tags": ["Streetview","FPV","VR","Virtual tour","dark room"],
 
-"slug": "darkroom-Diorama",
-"url": "/notebook/2018/10/darkroom-diorama}}"
 
 
 
@@ -354,6 +344,7 @@ syndication: [
 
 
 syndication: [ 
+
 
  ]
 
@@ -384,8 +375,6 @@ syndication: [
 "category": ["documenting"],
 "tags": [],
 
-"slug": "documenting",
-"url": "/notebook/2018/10/documenting}}"
 
 
 
@@ -393,6 +382,7 @@ syndication: [
 
 
 syndication: [ 
+
 
  ]
 
@@ -423,8 +413,6 @@ syndication: [
 "category": ["Diorama","photograph"],
 "tags": ["Streetview","Deep Zoom","map"],
 
-"slug": "deepzoom-map",
-"url": "/notebook/2018/10/deepzoom-map}}"
 
 
 
@@ -432,6 +420,7 @@ syndication: [
 
 
 syndication: [ 
+
 
  ]
 
@@ -462,8 +451,6 @@ syndication: [
 "category": ["Diorama","photograph"],
 "tags": ["Streetview","FPV","VR","Virtual tour"],
 
-"slug": "streetview-Diorama",
-"url": "/notebook/2018/10/streetview-diorama}}"
 
 
 
@@ -471,6 +458,7 @@ syndication: [
 
 
 syndication: [ 
+
 
  ]
 
@@ -501,8 +489,6 @@ syndication: [
 "category": ["pirate-island"],
 "tags": [],
 
-"slug": "pirate-island-idea",
-"url": "/build-log/pirate-island/2018/09/26/pirate-island-idea}}"
 
 
 
@@ -510,6 +496,7 @@ syndication: [
 
 
 syndication: [ 
+
 
  ]
 
@@ -540,8 +527,6 @@ syndication: [
 "category": ["Diorama"],
 "tags": ["Shadowbox","topo map","Topographic map","3D map"],
 
-"slug": "3D-topo-map",
-"url": "/notebook/2018/09/3d-topo-map}}"
 
 
 
@@ -549,6 +534,7 @@ syndication: [
 
 
 syndication: [ 
+
 
  ]
 
@@ -579,8 +565,6 @@ syndication: [
 "category": ["papercraft"],
 "tags": ["pen plotter","Diorama","steampunk","retro-futurism"],
 
-"slug": "papercraft",
-"url": "/notebook/2018/09/papercraft}}"
 
 
 
@@ -588,6 +572,7 @@ syndication: [
 
 
 syndication: [ 
+
 
  ]
 
@@ -618,8 +603,6 @@ syndication: [
 "category": ["Electronics"],
 "tags": ["Digital Command Control","DCC"],
 
-"slug": "DCC",
-"url": "/notebook/2018/08/dcc}}"
 
 
 
@@ -627,6 +610,7 @@ syndication: [
 
 
 syndication: [ 
+
 
  ]
 
@@ -657,8 +641,6 @@ syndication: [
 "category": ["steampunk"],
 "tags": [],
 
-"slug": "steampunk-idea",
-"url": "/build-log/steampunk/2018/08/06/steampunk-idea}}"
 
 
 
@@ -666,6 +648,7 @@ syndication: [
 
 
 syndication: [ 
+
 
  ]
 
@@ -696,8 +679,6 @@ syndication: [
 "category": ["retrofuturism"],
 "tags": [],
 
-"slug": "retrofuturism-idea",
-"url": "/build-log/retrofuturism/2018/08/06/retrofuturism-idea}}"
 
 
 
@@ -705,6 +686,7 @@ syndication: [
 
 
 syndication: [ 
+
 
  ]
 
@@ -735,8 +717,6 @@ syndication: [
 "category": ["Diorama"],
 "tags": ["3D printer","3D printed","Failed"],
 
-"slug": "3Dprinter-experiment",
-"url": "/notebook/2018/07/3dprinter-experiment}}"
 
 
 
@@ -744,6 +724,7 @@ syndication: [
 
 
 syndication: [ 
+
 
  ]
 
@@ -774,8 +755,6 @@ syndication: [
 "category": ["Electronics"],
 "tags": [],
 
-"slug": "electronics and me",
-"url": "/notebook/2018/06/electronics-and-me}}"
 
 
 
@@ -783,6 +762,7 @@ syndication: [
 
 
 syndication: [ 
+
 
  ]
 
@@ -813,8 +793,6 @@ syndication: [
 "category": ["pen plotter","papercraft"],
 "tags": [],
 
-"slug": "pen-plotter",
-"url": "/notebook/1959/01/pen-plotter}}"
 
 
 
@@ -822,6 +800,7 @@ syndication: [
 
 
 syndication: [ 
+
 
  ]
 
@@ -852,8 +831,6 @@ syndication: [
 "category": ["Diorama","steampunk"],
 "tags": ["space 1889"],
 
-"slug": "space-1889-diorama",
-"url": "/notebook/1889/01/space-1889-diorama}}"
 
 
 
@@ -861,6 +838,7 @@ syndication: [
 
 
 syndication: [ 
+
 
  ]
 
