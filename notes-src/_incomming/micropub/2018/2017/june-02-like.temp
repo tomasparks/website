@@ -1,0 +1,11 @@
+{
+  "type": ["h-entry"],
+  "properties": {
+    "content": "",
+"syndication": [
+			"https://www.facebook.com/tom.sparks.106/posts/865590170273294"		
+			],
+		"published":"2017-06-02",
+		"like-of": "https://www.faircopyright.org.au/"
+  }
+}

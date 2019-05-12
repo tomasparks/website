@@ -43,9 +43,7 @@ function create_notes($data,$logfile, $WM_recv,$out_path) {
     	fwrite($logfile, "\n--------------------\nhash: ".$hash."\njson_encode: ".json_encode($note)."\n--------------------\n");  
     	    	
     	    	
-    	if (isset($note['url'])) {
-    	$url = str_ireplace("www.","",parse_url($note['url'], PHP_URL_HOST));
-    	}
+
     	
     	$date_split = date_parse($note['published']);
     	$isodate = date("c", strtotime($note['published']));
@@ -62,17 +60,20 @@ function create_notes($data,$logfile, $WM_recv,$out_path) {
     	
     	//$mdfile = fopen($hash.".md", "w");
     	
-    	
+    	if (isset($note['listen-of'])) {$note['type']="scrobble";}
+        if (isset($note['like-of'])) {$note['type']="like";}
     			//fwrite($mdfile, "---\n");
 				//fwrite($mdfile, "layout: notes_".$note['type']."\n");
 				//fwrite($mdfile, "date: ".$isodate."\n");	
 				//fwrite($mdfile, "type: ".$note['type']."\n");
 				//fwrite($mdfile, "date: ".$isodate."\n");
-				unset($categories_array);			
+				unset($categories_array);	
+				if (isset($note['category'])) {$categories_array= $note['category'];}		
 	//			$categories_array[] = $note['type'];
 				$categories_array[] = $months[(int)$date_split['month']];
 				$categories_array[] = $date_split['year'];
 				$categories_array[] = $date_split['day'];
+				
 				//fwrite($mdfile, "categories: \n");
 				//fwrite($mdfile, " - ".$note['type']."\n");
 				
@@ -87,11 +88,11 @@ function create_notes($data,$logfile, $WM_recv,$out_path) {
 				$categories_array[] = $url;
 				}
 				
-				$md_array['permalink'] ="/notes/".$hash.".html";
-				//$md_array['redirect_from'][] = "/sl/n/d".date("YmdHis", strtotime($note['date'])).".html";
-				//$md_array['redirect_from'][] = "/sl/n//h".$hash.".html";
-		//		$md_array['redirect_from'][] ="/notes/".$note['type']."/".$permdate."/".$hash.".html";
-				//$md_array['redirect_from'][] = "/sl/n/".$note['type'][0]."/".num_to_sxg(date("YmdHisu", strtotime($note['published']))).".html";
+				$md_array['permalink'] ="".$hash.".html";
+				$md_array['redirect_from'][] = "sl/n/d".date("YmdHis", strtotime($note['published'])).".html";
+				$md_array['redirect_from'][] = "sl/n/".substr($note['type'], 0, 1)."/h".$hash.".html";
+				$md_array['redirect_from'][] =$note['type']."/".$permdate."/".$hash.".html";
+				$md_array['redirect_from'][] = "sl/n/".substr($note['type'], 0, 1)."/".num_to_sxg(date("YmdHisu", strtotime($note['published']))).".html";
 				
    	//if (isset($note['tags']) && is_array($note['tags'])) {				
 		//		 $tag_array = $note['tags'];
@@ -122,17 +123,11 @@ function create_notes($data,$logfile, $WM_recv,$out_path) {
 		
 // #####################################################################################################################################
 			case "scrobble":
-			
-				$categories_array[] = $tag_array['title'];
-				$categories_array[] = $tag_array['artist'];
-				$categories_array[] = $tag_array['album'];
-				//$md_array['hidden'] = "true";
-				$md_array['music-title'] = $tag_array['title'];
-				$md_array['music-artist'] = $tag_array['artist'];
-				$md_array['music-album'] = $tag_array['album'];
-				$md_array['music-play-count'] = $tag_array['play-count'];
-				$md_array['title'] = "🎧 Listened to ".$md_array['music-title']." (".$md_array['music-album'].") By ".$md_array['music-artist'];  
-				$md_array['redirect_from'][] ="/notes/".$note['type']."/".cleanstring($tag_array['artist'])."/".cleanstring($tag_array['album'])."/".$hash.".html";
+			    $md_array['listen-of'] = $note['listen-of'];
+			    $tag_array['artist'] = $note['listen-of']['h-cite']['author'];
+				$md_array['title'] = $note['content']['text'];
+				$note['message'] = $note['content']['text'];
+				$md_array['redirect_from'][] =$note['type']."/".cleanstring($tag_array['artist'])."/".cleanstring($tag_array['album'])."/".$hash.".html";
 				break;
 // #####################################################################################################################################
 			case "photo":
@@ -152,6 +147,9 @@ function create_notes($data,$logfile, $WM_recv,$out_path) {
 				
 // #####################################################################################################################################
 			case 'reply':
+			    	
+    	            $urlhost = str_ireplace("www.","",parse_url($note['u'], PHP_URL_HOST));
+    	            
 				$md_array['permalink'] ="/notes/".$note['type']."/".$url."/".$permdate."/".$hash.".html";
 				$html = file_get_contents($note['url']);
 				$config = HTMLPurifier_Config::createDefault();
@@ -163,29 +161,31 @@ function create_notes($data,$logfile, $WM_recv,$out_path) {
 				break;
 				
 // #####################################################################################################################################
-				
 			case "like":
-				$md_array['redirect_from'][] ="/notes/".$note['type']."/".$url."/".$permdate."/".$hash.".html";
-				$html = file_get_contents($note['url']);
+			$urlhost = str_ireplace("www.","",parse_url($note['like-of']['h-cite']['url'], PHP_URL_HOST));
+    	            
+				$md_array['redirect_from'][] ="/notes/".$note['type']."/".$urlhost."/".$permdate."/".$hash.".html";
+				$html = file_get_contents($note['like-of']['h-cite']['url']);
 				$config = HTMLPurifier_Config::createDefault();
 				$purifier = new HTMLPurifier($config);
 				$cleanhtml = $purifier->purify($html);
-				$mf = Mf2\parse($cleanhtml, $note['url']);
+				$mf = Mf2\parse($cleanhtml, $note['like-of']['h-cite']['url']);
 				$md_array['mf'] = $mf;
-				$scraper = new SimpleScraper($note['url']);
+				$scraper = new SimpleScraper($note['like-of']['h-cite']['url']);
 				$ogp = $scraper->getOgp();
 				//$md_array['ogp'] = $ogp;
 				$twitCard = $scraper->getTwitter();
 				//$md_array['twitCard'] = $twitCard;
 				
-				$md_array['ext']['url'] = $note['url'];
+				$md_array['ext']['url'] = $note['like-of']['h-cite']['url'];
 				$md_array['ext']['title'] =  $ogp['title'];
 				$md_array['ext']['description'] = $ogp['description'];
 				$md_array['ext']['image_url'] = $ogp['image'];
 				$md_array['ext']['image_width'] = $ogp['image:width'];
 				$md_array['ext']['image_height'] = $ogp['image:height'];				
-				
-				$md_array['title'] = "Liked a page on ".$url;  				
+				$md_array['like-of'] = $note['like-of'];
+				$md_array['title'] = "Liked a page on ".$urlhost;  
+				$note['message'] =	$note['content']['value'];
 				//fwrite($mdfile, $note['message']."\n");
 				break;	
 				
@@ -231,10 +231,10 @@ function create_notes($data,$logfile, $WM_recv,$out_path) {
 			break;
 			
 // #####################################################################################################################################
-			default:
-				$md_array['title'] = $permdate." ".$note['type'];  
-				$md_array['redirect_from'][] ="/notes/".$note['type']."/".$permdate."/".$hash.".html";
-				break;
+			//default:
+				//$md_array['title'] = $permdate." ".$note['type'];  
+				//$md_array['redirect_from'][] ="/notes/".$note['type']."/".$permdate."/".$hash.".html";
+				//break;
 				
 // -------------------------------------------------------------------------------------------------------------------------------------
 			}

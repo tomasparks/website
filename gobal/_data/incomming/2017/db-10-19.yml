@@ -1,0 +1,24 @@
+---
+- type: entry
+  published: "2017-10-19T08:33:47+0000"
+  content:
+    html: |+
+      "You're here because you know something. What you know you can't explain, but you feel it. You've felt it your entire life, that there's something wrong with the world [wide web]." \u2014 Morpheus, The Matrix
+
+      I am in the process of quitting all social media silo
+
+    value: |-
+      "You're here because you know something. What you know you can't explain, but you feel it. You've felt it your entire life, that there's something wrong with the world [wide web]." \u2014 Morpheus, The Matrix
+
+      I am in the process of quitting all social media silo
+
+      '
+  like-of:
+    h-cite:
+      url: https://indieweb.org/why
+      name: why - IndieWeb
+      content: Our online content and identities are becoming more important and sometimes
+        even critical to our lives. Neither are secure in the hands of random ephemeral
+        startups or big silos. We should be the holders of our online presence.
+...
+

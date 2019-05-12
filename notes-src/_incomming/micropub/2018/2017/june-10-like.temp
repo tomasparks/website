@@ -1,0 +1,11 @@
+{
+  "type": ["h-entry"],
+  "properties": {
+    "content": "",
+"syndication": [
+			"https://www.facebook.com/tom.sparks.106/posts/869934373172207"		
+			],
+		"published":"2017-06-10",
+		"like-of": "https://www.backblaze.com/blog/confessions-of-a-digital-pack-rat-almost-half-a-petabyte-and-still-growing/"
+  }
+}

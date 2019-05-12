@@ -1,0 +1,42 @@
+{
+    "items": [
+        {
+            "type": [
+                "h-entry"
+            ],
+            "properties": {
+                "syndication": [
+                    "https:\/\/www.facebook.com\/tom.sparks.106\/posts\/985146398317670"
+                ],
+                "published": [
+                    "2018-01-21T06:36:44+0000"
+                ],
+                "content": {
+                    "value": "https:\/\/xkcd.com\/1944\/",
+                    "html": "https:\/\/xkcd.com\/1944\/"
+                },
+                "like-of": [
+                    "https:\/\/xkcd.com\/1944\/"
+                ]
+            },
+            "children": [
+                {
+                    "type": [
+                        "h-cite"
+                    ],
+                    "properties": {
+                        "name": [
+                            "xkcd: The End of the Rainbow"
+                        ],
+                        "content": [
+                            null
+                        ],
+                        "url": [
+                            "https:\/\/xkcd.com\/1944\/"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

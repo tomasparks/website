@@ -1,0 +1,38 @@
+{
+    "items": [
+        {
+            "type": [
+                "h-entry"
+            ],
+            "properties": {
+                "syndication": [
+                    "https:\/\/www.facebook.com\/tom.sparks.106\/posts\/991262371039406"
+                ],
+                "published": [
+                    "2018-01-31T16:57:24+0000"
+                ],
+                "like-of": [
+                    "https:\/\/boingboing.net\/2018\/01\/31\/thriftscore-opsec.html"
+                ]
+            },
+            "children": [
+                {
+                    "type": [
+                        "h-cite"
+                    ],
+                    "properties": {
+                        "name": [
+                            "Australian government's worst-ever state-secrets leak: accidentally selling filing cabinets full of classified docs in a surplus store"
+                        ],
+                        "content": [
+                            "Australian national broadcaster ABC has gotten hold of a massive trove of state secrets that were inadvertently sold off in a pair of cheap, locked filing cabinets purchased from a Canberra junk-sh\u2026"
+                        ],
+                        "url": [
+                            "https:\/\/boingboing.net\/2018\/01\/31\/thriftscore-opsec.html"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

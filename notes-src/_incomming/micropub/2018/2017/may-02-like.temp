@@ -1,0 +1,14 @@
+{
+  "type": ["h-entry"],
+  "properties": {
+    "content": "",
+"syndication": [
+			"https://www.facebook.com/tom.sparks.106/posts/850376628461315"
+			],
+		"published":"2017-05-02",
+		"like-of": "https://www.techdirt.com/articles/20170501/01170337278/homeowners-house-burns-down-he-tries-to-rebuild-facing-copyright-threats-original-builder.shtml"
+  }
+}
+
+
+

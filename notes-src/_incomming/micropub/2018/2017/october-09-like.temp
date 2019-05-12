@@ -1,0 +1,15 @@
+{
+  "type": ["h-entry"],
+  "properties": {
+    "content": "my minecraft project has been tweeted",
+"syndication": [
+			"https://www.facebook.com/934483560050621/posts/730687953763517",
+			"https://twitter.com/Web3DConsortium/status/781876960553152512"		
+			],
+		"published":"2017-10-09",
+		"like-of": "https://twitter.com/Web3DConsortium/status/781876960553152512"
+  }
+}
+
+
+

@@ -1,0 +1,38 @@
+{
+    "items": [
+        {
+            "type": [
+                "h-entry"
+            ],
+            "properties": {
+                "syndication": [
+                    "https:\/\/www.facebook.com\/tom.sparks.106\/posts\/1003447133154263"
+                ],
+                "published": [
+                    "2018-02-21T06:09:47+0000"
+                ],
+                "like-of": [
+                    "https:\/\/www.youtube.com\/attribution_link?a=ZLkXVhls54k&u=%2Fwatch%3Fv%3D4-XdK8aq00g%26feature%3Dshare"
+                ]
+            },
+            "children": [
+                {
+                    "type": [
+                        "h-cite"
+                    ],
+                    "properties": {
+                        "name": [
+                            "KIDS REACT TO RECORD PLAYERS"
+                        ],
+                        "content": [
+                            "Record Players reacted to by Kids! Subscribe to Bon Jovi! https:\/\/www.youtube.com\/user\/BonJoviVEVO Watch all main React episodes (Kids\/Teens\/Elders\/Adults\/Yo..."
+                        ],
+                        "url": [
+                            "https:\/\/www.youtube.com\/attribution_link?a=ZLkXVhls54k&u=%2Fwatch%3Fv%3D4-XdK8aq00g%26feature%3Dshare"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

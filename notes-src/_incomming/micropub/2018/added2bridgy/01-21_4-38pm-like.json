@@ -1,0 +1,16 @@
+{
+	"items": [{
+		"type": ["h-entry"],
+		"properties": {
+"content": [{
+				"html": "",
+				"value": ""
+			}],
+			"published": ["2018-01-21 4:36pm"],
+			"like-of": ["https://xkcd.com/1944/"],
+			"syndication": [
+				"https://www.facebook.com/tom.sparks.106/posts/985146398317670"
+			]
+		}
+	}]
+}

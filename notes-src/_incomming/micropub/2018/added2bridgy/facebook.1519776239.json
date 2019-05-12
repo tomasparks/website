@@ -1,0 +1,38 @@
+{
+    "items": [
+        {
+            "type": [
+                "h-entry"
+            ],
+            "properties": {
+                "syndication": [
+                    "https:\/\/www.facebook.com\/tom.sparks.106\/posts\/1007390682759908"
+                ],
+                "published": [
+                    "2018-02-28T00:03:59+0000"
+                ],
+                "like-of": [
+                    "https:\/\/www.buzzfeed.com\/ishabassi\/oi-how-good-is-it-living-down-under?utm_term=.hlyV17P59&ref=mobile_share"
+                ]
+            },
+            "children": [
+                {
+                    "type": [
+                        "h-cite"
+                    ],
+                    "properties": {
+                        "name": [
+                            "Sounds Fake, But These 19 Hilariously Named Places Actually Exist In Australia"
+                        ],
+                        "content": [
+                            "Imagine living in Eggs and Bacon Bay."
+                        ],
+                        "url": [
+                            "https:\/\/www.buzzfeed.com\/ishabassi\/oi-how-good-is-it-living-down-under?utm_term=.hlyV17P59&ref=mobile_share"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "items": [
+        {
+            "type": [
+                "h-entry"
+            ],
+            "properties": {
+                "syndication": [
+                    "https:\/\/www.facebook.com\/tom.sparks.106\/posts\/1009376689227974"
+                ],
+                "published": [
+                    "2018-03-03T10:03:48+0000"
+                ],
+                "like-of": [
+                    "https:\/\/www.youtube.com\/attribution_link?a=H8W16p3z_4k&u=%2Fwatch%3Fv%3DR3jkUhG68wY%26feature%3Dshare"
+                ]
+            },
+            "children": [
+                {
+                    "type": [
+                        "h-cite"
+                    ],
+                    "properties": {
+                        "name": [
+                            "Home Taping is Killing Music, by Dan Bull"
+                        ],
+                        "content": [
+                            "Musician Dan Bull, whose letters to Lily Allen and Lord Mandelson both become huge hits on YouTube, has penned another ditty; this time about the music indus..."
+                        ],
+                        "url": [
+                            "https:\/\/www.youtube.com\/attribution_link?a=H8W16p3z_4k&u=%2Fwatch%3Fv%3DR3jkUhG68wY%26feature%3Dshare"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}
