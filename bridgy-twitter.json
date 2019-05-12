@@ -1,0 +1,181 @@
+{
+  "contributors": null, 
+  "truncated": false, 
+  "text": "Space 1889 themed diorama: https://t.co/oPbgMUelcZ https://t.co/pxPgAcAkII", 
+  "is_quote_status": false, 
+  "in_reply_to_status_id": null, 
+  "id": "1127391490244849664", 
+  "favorite_count": 0, 
+  "source": "<a href=\"https://brid.gy/\" rel=\"nofollow\">Bridgy</a>", 
+  "retweeted": false, 
+  "coordinates": null, 
+  "entities": {
+    "symbols": [], 
+    "user_mentions": [], 
+    "hashtags": [], 
+    "urls": [
+      {
+        "url": "https://t.co/oPbgMUelcZ", 
+        "indices": [
+          27, 
+          50
+        ], 
+        "expanded_url": "https://tomasparks.name/miniatures/notebook/1889/01/space-1889-diorama.html", 
+        "display_url": "tomasparks.name/miniatures/not\u2026"
+      }
+    ], 
+    "media": [
+      {
+        "expanded_url": "https://twitter.com/tomasparksts/status/1127391490244849664/photo/1", 
+        "display_url": "pic.twitter.com/pxPgAcAkII", 
+        "url": "https://t.co/pxPgAcAkII", 
+        "media_url_https": "https://pbs.twimg.com/media/D6VMldgW4AAHwUt.png", 
+        "id_str": "1127391488185393152", 
+        "sizes": {
+          "small": {
+            "h": 232, 
+            "resize": "fit", 
+            "w": 300
+          }, 
+          "large": {
+            "h": 232, 
+            "resize": "fit", 
+            "w": 300
+          }, 
+          "medium": {
+            "h": 232, 
+            "resize": "fit", 
+            "w": 300
+          }, 
+          "thumb": {
+            "h": 150, 
+            "resize": "crop", 
+            "w": 150
+          }
+        }, 
+        "indices": [
+          51, 
+          74
+        ], 
+        "type": "photo", 
+        "id": 1127391488185393152, 
+        "media_url": "http://pbs.twimg.com/media/D6VMldgW4AAHwUt.png"
+      }
+    ]
+  }, 
+  "in_reply_to_screen_name": null, 
+  "in_reply_to_user_id": null, 
+  "retweet_count": 0, 
+  "type": "post", 
+  "id_str": "1127391490244849664", 
+  "favorited": false, 
+  "user": {
+    "follow_request_sent": false, 
+    "has_extended_profile": true, 
+    "profile_use_background_image": true, 
+    "default_profile_image": false, 
+    "id": 965564724560609280, 
+    "profile_background_image_url_https": null, 
+    "verified": false, 
+    "translator_type": "none", 
+    "profile_text_color": "333333", 
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV_normal.jpg", 
+    "profile_sidebar_fill_color": "DDEEF6", 
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/KVJOXUlWCI", 
+            "indices": [
+              0, 
+              23
+            ], 
+            "expanded_url": "https://tomasparks.name/", 
+            "display_url": "tomasparks.name"
+          }
+        ]
+      }, 
+      "description": {
+        "urls": []
+      }
+    }, 
+    "followers_count": 23, 
+    "profile_sidebar_border_color": "C0DEED", 
+    "id_str": "965564724560609280", 
+    "profile_background_color": "F5F8FA", 
+    "listed_count": 3, 
+    "is_translation_enabled": false, 
+    "utc_offset": null, 
+    "statuses_count": 225, 
+    "description": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks. #fidonet #fsxnet #indieweb #archivist #kopimi #aspie", 
+    "friends_count": 312, 
+    "location": "Sunshine Coast, Queensland", 
+    "profile_link_color": "1DA1F2", 
+    "profile_image_url": "http://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV_normal.jpg", 
+    "following": false, 
+    "geo_enabled": false, 
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/965564724560609280/1520853166", 
+    "profile_background_image_url": null, 
+    "screen_name": "tomasparksts", 
+    "lang": "en", 
+    "profile_background_tile": false, 
+    "favourites_count": 378, 
+    "name": "Tom Sparks", 
+    "notifications": false, 
+    "url": "https://t.co/KVJOXUlWCI", 
+    "created_at": "Mon Feb 19 12:32:24 +0000 2018", 
+    "contributors_enabled": false, 
+    "time_zone": null, 
+    "protected": false, 
+    "default_profile": true, 
+    "is_translator": false
+  }, 
+  "geo": null, 
+  "in_reply_to_user_id_str": null, 
+  "possibly_sensitive": false, 
+  "lang": "en", 
+  "url": "https://twitter.com/tomasparksts/status/1127391490244849664", 
+  "created_at": "Sun May 12 01:54:11 +0000 2019", 
+  "in_reply_to_status_id_str": null, 
+  "place": null, 
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://twitter.com/tomasparksts/status/1127391490244849664/photo/1", 
+        "display_url": "pic.twitter.com/pxPgAcAkII", 
+        "url": "https://t.co/pxPgAcAkII", 
+        "media_url_https": "https://pbs.twimg.com/media/D6VMldgW4AAHwUt.png", 
+        "id_str": "1127391488185393152", 
+        "sizes": {
+          "small": {
+            "h": 232, 
+            "resize": "fit", 
+            "w": 300
+          }, 
+          "large": {
+            "h": 232, 
+            "resize": "fit", 
+            "w": 300
+          }, 
+          "medium": {
+            "h": 232, 
+            "resize": "fit", 
+            "w": 300
+          }, 
+          "thumb": {
+            "h": 150, 
+            "resize": "crop", 
+            "w": 150
+          }
+        }, 
+        "indices": [
+          51, 
+          74
+        ], 
+        "type": "photo", 
+        "id": 1127391488185393152, 
+        "media_url": "http://pbs.twimg.com/media/D6VMldgW4AAHwUt.png"
+      }
+    ]
+  }
+}

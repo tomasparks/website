@@ -9,7 +9,7 @@
 //secret: 1tICNtAofpr0Coycb4eacrf4FcFCWSOzW8novjYL8
 require './vendor/autoload.php';
 
-require_once './goodreads-api/GoodReads.php';
+//require_once './goodreads-api/GoodReads.php';
 date_default_timezone_set('Australia/Brisbane');
 use Ramonztro\SimpleScraper\SimpleScraper;
 	
@@ -47,8 +47,8 @@ function create_notes($data,$logfile, $WM_recv,$out_path) {
     	$url = str_ireplace("www.","",parse_url($note['url'], PHP_URL_HOST));
     	}
     	
-    	$date_split = date_parse($note['date']);
-    	$isodate = date("c", strtotime($note['date']));
+    	$date_split = date_parse($note['published']);
+    	$isodate = date("c", strtotime($note['published']));
     	$permdate = sprintf("%04d/%02d/%02d", $date_split['year'], $date_split['month'], $date_split['day']);
     	
     	$months = array (1=>'January',2=>'February',3=>'March',
@@ -56,9 +56,9 @@ function create_notes($data,$logfile, $WM_recv,$out_path) {
     	9=>'September',10=>'October',11=>'November',12=>'December');
     	unset($md_array);
     	
-    	$md_array['layout'] = "notes_".$note['type'];
+//    	$md_array['layout'] = "notes_".$note['type'];
     	$md_array['date'] = $isodate;
-    	$md_array['type'] = $note['type'];
+//    	$md_array['type'] = $note['type'];
     	
     	//$mdfile = fopen($hash.".md", "w");
     	
@@ -69,7 +69,7 @@ function create_notes($data,$logfile, $WM_recv,$out_path) {
 				//fwrite($mdfile, "type: ".$note['type']."\n");
 				//fwrite($mdfile, "date: ".$isodate."\n");
 				unset($categories_array);			
-				$categories_array[] = $note['type'];
+	//			$categories_array[] = $note['type'];
 				$categories_array[] = $months[(int)$date_split['month']];
 				$categories_array[] = $date_split['year'];
 				$categories_array[] = $date_split['day'];
@@ -90,8 +90,8 @@ function create_notes($data,$logfile, $WM_recv,$out_path) {
 				$md_array['permalink'] ="/notes/".$hash.".html";
 				//$md_array['redirect_from'][] = "/sl/n/d".date("YmdHis", strtotime($note['date'])).".html";
 				//$md_array['redirect_from'][] = "/sl/n//h".$hash.".html";
-				$md_array['redirect_from'][] ="/notes/".$note['type']."/".$permdate."/".$hash.".html";
-				$md_array['redirect_from'][] = "/sl/n/".$note['type'][0]."/".num_to_sxg(date("YmdHisu", strtotime($note['date']))).".html";
+		//		$md_array['redirect_from'][] ="/notes/".$note['type']."/".$permdate."/".$hash.".html";
+				//$md_array['redirect_from'][] = "/sl/n/".$note['type'][0]."/".num_to_sxg(date("YmdHisu", strtotime($note['published']))).".html";
 				
    	//if (isset($note['tags']) && is_array($note['tags'])) {				
 		//		 $tag_array = $note['tags'];
@@ -108,14 +108,14 @@ function create_notes($data,$logfile, $WM_recv,$out_path) {
 	//	print_r($tag_array['syndication']);
 		if (isset($note['tags']) && is_array($note['tags'])) {
 						$tag_array = $note['tags'];
-						if (isset($tag_array['syndication'])) {
-								$md_array['syndication'] = $tag_array['syndication'];
-							}
+			//			if (isset($tag_array['syndication'])) {
+			//					$md_array['syndication'] = $tag_array['syndication'];
+				//			}
 					}
 										
-										if (isset($note['syndication'])) {
-												$md_array['syndication'] = $note['syndication'];
-										}
+					//					if (isset($note['syndication'])) {
+						//						$md_array['syndication'] = $note['syndication'];
+							//			}
 				
 		switch ($note['type']) {
 // -------------------------------------------------------------------------------------------------------------------------------------
@@ -535,8 +535,8 @@ $path = getcwd();
 $logfile = fopen("log.log", "w");
 global $logfile;
 
-$notes_path = str_replace("_php","_incomming",$path);
-$out_path = str_replace("_php","_notes",$path);
+$notes_path = "/home/tom/github/website/sources/gobal/_data/notes";
+$out_path = "/home/tom/github/website/sources/notes-src";
 //$webmention_path = str_replace("_rake",".jekyll-cache",$path);
 //$wb_recv_file = $webmention_path."/webmention_io_received.yml"; 
 $WM_recv="";
@@ -554,14 +554,15 @@ foreach ($notes_dir as $dir) {
 	chdir($notes_path."/".$dir);  
 	$year_dir = scandir($notes_path."/".$dir);
 	fwrite($logfile,json_encode($year_dir)."\n");
-	foreach ($year_dir as $ydir) {
-		fwrite($logfile,$ydir."\n");
-		if ($ydir === "." or $ydir === "..") {continue;}
-		chdir($notes_path."/".$dir."/".$ydir);  
-		echo getcwd()."\n";
-		$filelist = scandir($notes_path."/".$dir."/".$ydir);
+	//foreach ($year_dir as $ydir) {
+	//	fwrite($logfile,$ydir."\n");
+	//	if ($ydir === "." or $ydir === "..") {continue;}
+	//	chdir($notes_path."/".$dir."/".$ydir);  
+	//	echo getcwd()."\n";
+		$filelist = scandir($notes_path."/".$dir."/");
 			fwrite($logfile,json_encode($filelist)."\n");
 			
+
 		foreach ($filelist as $file) {
 			if ($file === "." or $file === "..") {continue;}
 			switch(true) {
@@ -579,11 +580,12 @@ foreach ($notes_dir as $dir) {
     					continue 2;
     					
 					case strstr($file, "yml"):
-    					//echo "Found ".$file." yml file\n";
-    					//fwrite($logfile,"Found ".$file." yml file :) \n");
-    					//$data = yaml_parse_file ( $file );
-						//fwrite($logfile,"\n-----S-CONTENTS-------------\n".yaml_emit($data)."\n-----E-CONTENTS-------------\n");
+    					echo "Found ".$file." yml file\n";
+    					fwrite($logfile,"Found ".$file." yml file :) \n");
+    					$data = yaml_parse_file ( $file );
+						fwrite($logfile,"\n-----S-CONTENTS-------------\n".yaml_emit($data)."\n-----E-CONTENTS-------------\n");
     					//$WM_recv[] = create_notes($data, $logfile,$WM_recv,$out_path);
+    					create_notes($data, $logfile,$WM_recv,$out_path);
     					break;
     					
 					/*case strstr($file, "csv"):
@@ -592,8 +594,8 @@ foreach ($notes_dir as $dir) {
     					$data = csv_parse_file ( $file, $logfile );
 
     					create_notes($data, $logfile);
-						break;
-						*/
+						break;*/
+						
 						
 					case strstr($file, "json"):
     					//echo $file." json file\n";
@@ -606,7 +608,7 @@ foreach ($notes_dir as $dir) {
 					}
 			}
 	}
-}
+
 #mkdir($webmention_path."/", 0755, true);
 #	yaml_emit_file($webmention_path."/webmention_io_received.yml",$WM_recv);
     	fclose($logfile);
