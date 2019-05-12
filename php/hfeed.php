@@ -97,7 +97,7 @@ $name = $article->addChild('h1');
     $name->addAttribute('class', 'p-name');
         $url = $name->addChild('a','h-feed');
         $url->addAttribute('class', 'u-uid u-url');
-        $url->addAttribute('href', 'https://tomaparks.name/global-fee.html');
+        $url->addAttribute('href', 'https://tomaparks.name/gobal-fee.html');
         $author =  $article->addChild('div','Tom sparks');
                     $author->addAttribute('class', 'p-author');   
 
@@ -108,18 +108,21 @@ $article->addAttribute('class', 'h-feed');
 
 // loop start
 foreach ($database as $value) {
-//print_r($value);
+print_r($value);
 if (isset($value['published'])) {
 
 
 $entry = $article->addChild('div');
     $entry->addAttribute('class', 'h-entry');
         $name = $entry->addChild('h1');
+        if (isset($value['name'])) {
             $name->addAttribute('class', 'p-name');
                     $url = $name->addChild('a',$value['name']);
                         $url->addAttribute('class', 'u-uid u-url');
                         $url->addAttribute('href', $value['url']);
-
+} else {$txt = content($value);$url = $name->addChild('a',$txt);
+                        $url->addAttribute('class', 'u-uid u-url');
+                        $url->addAttribute('href', $value['url']);}
 
                     $txt = content($value);
                     $contents = $entry->addChild('div',$txt);                           
@@ -151,8 +154,9 @@ if (isset($value['listen-of'])) {
 
                     
                     // bridgy silo link
-                    $txt = content($value);
-                    $contents = $entry->addChild('div','(🤖) '.$txt.' (🤖)');
+                    if (isset($value['content']['bridgy-twitter-content'])){
+                    $contents = $entry->addChild('div','(🤖) '.$value['content']['bridgy-twitter-content'].' (🤖)');}
+                    else {$txt = content($value);$contents = $entry->addChild('div','(🤖) '.$txt.' (🤖)');}
                                        
                    
                     $contents->addAttribute('class', 'p-bridgy-twitter-content');

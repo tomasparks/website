@@ -1,40 +1,5 @@
-{% assign comments = site.data.webmentions.links %}
-{% assign likesAvailable = false %}
-{% assign mentionsAvailable = false %}
-{% assign repostsAvailable = false %}
-{% assign repliesAvailable = false %}
-{% assign bookmarkAvailable = false %}
-{% assign rsvpAvailable = false %}
-
-{% for comment in comments %}
-    {% case comment.wm-property %}
-        {% when 'in-reply-to' %}
-            {% if thisUrl == comment.in-reply-to %}
-                {% assign repliesAvailable = true %}
-            {% endif %}
-        {% when 'like-of' %}
-            {% if thisUrl == comment.like-of %}
-                {% assign likesAvailable = true %}
-            {% endif %}
-        {% when 'mention-of' %}
-            {% if thisUrl == comment.mention-of %}
-                {% assign mentionsAvailable = true %}
-            {% endif %}
-         {% when 'repost-of' %}
-            {% if thisUrl == comment.repost-of %}
-                {% assign repostsAvailable = true %}
-            {% endif %}
-        {% when 'bookmark-of' %}
-            {% if thisUrl == comment.bookmark-of %}
-                {% assign bookmarkAvailable = true %}
-            {% endif %}
-        {% when 'rsvp' %}
-            {% if thisUrl == comment.rsvp %}
-                {% assign rsvpAvailable = true %}
-            {% endif %}
-        {% else %}
-    {% endcase %}
-{% endfor%}
+{% capture sitename %}{{ site.sitename  }}{% endcapture %}
+{% assign comments = site.data.webmentions.[sitename] %}
 
 
 
