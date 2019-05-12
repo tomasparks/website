@@ -1,0 +1,345 @@
+<html>
+<body>
+{
+  "type": "feed",
+  "url": "/feed.mf2",
+  "name": "Feed",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "children": [
+ 
+ 
+		    
+	{
+  "type": "entry",
+  "published": "2018-01-03 16:30:00 +1000",
+  "url": "/archive/2018/01/ny-resolution.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "My 2018 NY Resolution",
+				"summary": {
+					"html": "<h1 id=\"my-2018-ny-resolution-list\">My 2018 NY Resolution list</h1>\n\n<h2 id=\"my-website\">My Website</h2>\n\n<ul>\n  <li><a href=\"https://indieweb.org/Getting_Started\">Indiewbeb</a></li>\n  <li>tick off some <a href=\"https://indieweb.org/IndieMark\">IndieMarks</a></li>\n  <li>Complete website theming</li>\n  <li>Copy my facebook data to my website</li>\n</ul>\n\n<h2 id=\"internet\">Internet</h2>\n\n<ul>\n  <li>spend less time on youtube</li>\n</ul>\n\n<h2 id=\"myself\">Myself</h2>\n\n<ul>\n  <li>Do more Art work</li>\n  <li>Listen to music/podcast more</li>\n  <li>Read more books</li>\n</ul>\n",
+					"value": "My 2018 NY Resolution list\n\nMy Website\n\n\n  Indiewbeb\n  tick off some IndieMarks\n  Complete website theming\n  Copy my facebook data to my website\n\n\nInternet\n\n\n  spend less time on youtube\n\n\nMyself\n\n\n  Do more Art work\n  Listen to music/podcast more\n  Read more books\n\n"
+				},
+							"value": "<h1 id=\"my-2018-ny-resolution-list\">My 2018 NY Resolution list</h1>\n\n<h2 id=\"my-website\">My Website</h2>\n\n<ul>\n  <li><a href=\"https://indieweb.org/Getting_Started\">Indiewbeb</a></li>\n  <li>tick off some <a href=\"https://indieweb.org/IndieMark\">IndieMarks</a></li>\n  <li>Complete website theming</li>\n  <li>Copy my facebook data to my website</li>\n</ul>\n\n<h2 id=\"internet\">Internet</h2>\n\n<ul>\n  <li>spend less time on youtube</li>\n</ul>\n\n<h2 id=\"myself\">Myself</h2>\n\n<ul>\n  <li>Do more Art work</li>\n  <li>Listen to music/podcast more</li>\n  <li>Read more books</li>\n</ul>\n",
+"category": [],"tags": []
+}
+
+
+		                        ,
+                        
+	{
+  "type": "entry",
+  "published": "2017-12-31 00:00:00 +1000",
+  "url": "/archive/2017/12/rhythmbox-notes-system.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "Rhythmbox scrobbling notes system",
+				"summary": {
+					"html": "<p>I’ve just written <a href=\"https://en.wikipedia.org/wiki/Rhythmbox\">Rhythmbox</a> scrobbling system for my notes</p>\n\n",
+					"value": "I’ve just written Rhythmbox scrobbling system for my notes\n\n"
+				},
+							"value": "<p>I’ve just written <a href=\"https://en.wikipedia.org/wiki/Rhythmbox\">Rhythmbox</a> scrobbling system for my notes</p>\n\n",
+"category": [],"tags": []
+}
+
+
+		                        ,
+                        
+	{
+  "type": "entry",
+  "published": "2017-12-26 00:00:00 +1000",
+  "url": "/archive/2017/12/notes-system.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "custom indieweb note system",
+				"summary": {
+					"html": "<p>I am curently writing a custom indieweb <a href=\"https://indieweb.org/note\">note</a> system for my webiste, my requirements are different to most/all indieweb implementation as I need three different way of creating notes Text-editor, Browser and Offline</p>\n\n",
+					"value": "I am curently writing a custom indieweb note system for my webiste, my requirements are different to most/all indieweb implementation as I need three different way of creating notes Text-editor, Browser and Offline\n\n"
+				},
+							"value": "<p>I am curently writing a custom indieweb <a href=\"https://indieweb.org/note\">note</a> system for my webiste, my requirements are different to most/all indieweb implementation as I need three different way of creating notes Text-editor, Browser and Offline</p>\n\n",
+"category": [],"tags": []
+}
+
+
+		                        ,
+                        
+	{
+  "type": "entry",
+  "published": "2017-01-04 00:00:00 +1000",
+  "url": "/archive/2017/01/amiga-inc-shell-company.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "is Amiga inc a Shell corporation?",
+				"summary": {
+					"html": "<p>I’ve been reading <a href=\"https://sites.google.com/site/amigadocuments/\">Amiga Documents</a>,</p>\n\n",
+					"value": "I’ve been reading Amiga Documents,\n\n"
+				},
+							"value": "<p>I’ve been reading <a href=\"https://sites.google.com/site/amigadocuments/\">Amiga Documents</a>,</p>\n\n",
+"category": [],"tags": []
+}
+
+
+		                        ,
+                        
+	{
+  "type": "entry",
+  "published": "2016-10-05 00:00:00 +1000",
+  "url": "/archive/2016/10/amazon-ec2.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "Amazon EC2 and Art work",
+				"summary": {
+					"html": "<p>I been wanting to get back into do digital art again :) <br />\nBut I don’t have the Patience for programs that max out my CPU for too long<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote\">1</a></sup>:</p>\n\n<div class=\"footnotes\">\n  <ol>\n    <li id=\"fn:1\">\n      <p>I may have the cpu time on my desktop computer, but I rearly turn it on unless I need to use some windows software. <a href=\"#fnref:1\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n  </ol>\n</div>\n",
+					"value": "I been wanting to get back into do digital art again :) \nBut I don’t have the Patience for programs that max out my CPU for too long1:\n\n\n  \n    \n      I may have the cpu time on my desktop computer, but I rearly turn it on unless I need to use some windows software. &#8617;\n    \n  \n\n"
+				},
+							"value": "<p>I been wanting to get back into do digital art again :) <br />\nBut I don’t have the Patience for programs that max out my CPU for too long<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote\">1</a></sup>:</p>\n\n<div class=\"footnotes\">\n  <ol>\n    <li id=\"fn:1\">\n      <p>I may have the cpu time on my desktop computer, but I rearly turn it on unless I need to use some windows software. <a href=\"#fnref:1\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n  </ol>\n</div>\n",
+"category": [],"tags": []
+}
+
+
+		                        ,
+                        
+	{
+  "type": "entry",
+  "published": "2016-09-10 00:00:00 +1000",
+  "url": "/archive/2016/09/usenet-update-news-mozilla-org.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "usenet update news.mozilla.org",
+				"summary": {
+					"html": "<p>I have been trying unsucessfully to download news.mozilla.org with nget <br />\nit keeps redownload the same articles (Could be a bug with the news.mozilla.org server as new.povray.org and news.alaska-software.com works)</p>\n",
+					"value": "I have been trying unsucessfully to download news.mozilla.org with nget \nit keeps redownload the same articles (Could be a bug with the news.mozilla.org server as new.povray.org and news.alaska-software.com works)\n"
+				},
+							"value": "<p>I have been trying unsucessfully to download news.mozilla.org with nget <br />\nit keeps redownload the same articles (Could be a bug with the news.mozilla.org server as new.povray.org and news.alaska-software.com works)</p>\n",
+"category": [],"tags": []
+}
+
+
+		                        ,
+                        
+	{
+  "type": "entry",
+  "published": "2016-08-31 00:00:00 +1000",
+  "url": "/archive/2016/08/my-opinion-on-the-nbn.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "My opinion on the NBN (AU)",
+				"summary": {
+					"html": "<p>I have a problem with the NBN network it is out-of-date!!!  <br />\nIt Should be Called “Nation Broadcast Network” NOT the “Nation Broadband Network” because the Network is following the “Broadcast” model of thinking.</p>\n\n",
+					"value": "I have a problem with the NBN network it is out-of-date!!!  \nIt Should be Called “Nation Broadcast Network” NOT the “Nation Broadband Network” because the Network is following the “Broadcast” model of thinking.\n\n"
+				},
+							"value": "<p>I have a problem with the NBN network it is out-of-date!!!  <br />\nIt Should be Called “Nation Broadcast Network” NOT the “Nation Broadband Network” because the Network is following the “Broadcast” model of thinking.</p>\n\n",
+"category": [],"tags": []
+}
+
+
+		                        ,
+                        
+	{
+  "type": "entry",
+  "published": "2016-08-23 00:00:00 +1000",
+  "url": "/archive/2016/08/usenet-update.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "Usenet Archiving Update",
+				"summary": {
+					"html": "<ul>\n  <li>I have given thunderbird the middle finger for download usenet articles<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote\">1</a></sup></li>\n  <li>I found <a href=\"http://nget.sourceforge.net/\">nget</a>, its an old program, but still works :)</li>\n</ul>\n\n<div class=\"footnotes\">\n  <ol>\n    <li id=\"fn:1\">\n      <p>I still need to use it to create the group list :( <a href=\"#fnref:1\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n  </ol>\n</div>\n",
+					"value": "\n  I have given thunderbird the middle finger for download usenet articles1\n  I found nget, its an old program, but still works :)\n\n\n\n  \n    \n      I still need to use it to create the group list :( &#8617;\n    \n  \n\n"
+				},
+							"value": "<ul>\n  <li>I have given thunderbird the middle finger for download usenet articles<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote\">1</a></sup></li>\n  <li>I found <a href=\"http://nget.sourceforge.net/\">nget</a>, its an old program, but still works :)</li>\n</ul>\n\n<div class=\"footnotes\">\n  <ol>\n    <li id=\"fn:1\">\n      <p>I still need to use it to create the group list :( <a href=\"#fnref:1\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n  </ol>\n</div>\n",
+"category": ["compression","archiving","dtn"],"tags": ["ZPAQ","zpaq","backup","archive","archiving","dtn","usenet"]
+}
+
+
+		                        ,
+                        
+	{
+  "type": "entry",
+  "published": "2016-08-19 00:00:00 +1000",
+  "url": "/archive/2016/08/pov-ray-usenet-archive-complete.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "Pov-Ray Usenet Archiving Completed",
+				"summary": {
+					"html": "<p>I’ve completed the archive of <a href=\"http://news.povray.org/groups/\">Pov-ray’s Usenet</a> :)</p>\n\n",
+					"value": "I’ve completed the archive of Pov-ray’s Usenet :)\n\n"
+				},
+							"value": "<p>I’ve completed the archive of <a href=\"http://news.povray.org/groups/\">Pov-ray’s Usenet</a> :)</p>\n\n",
+"category": ["compression","archiving","dtn"],"tags": ["ZPAQ","zpaq","backup","archive","archiving","dtn","usenet"]
+}
+
+
+		                        ,
+                        
+	{
+  "type": "entry",
+  "published": "2016-08-10 00:00:00 +1000",
+  "url": "/archive/2016/08/me-and-the-internet-ca-1997.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "Me and the Internet ca 1997",
+				"summary": {
+					"html": "<h1 id=\"get-the-modem\">Get the modem</h1>\n<ul>\n  <li>I went down to the local computer realiter to get a modem with my father</li>\n  <li>I remeber pick up a US-Robotics 56k modem reading the description it include RealVideo<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote\">1</a></sup> software</li>\n</ul>\n\n<div class=\"footnotes\">\n  <ol>\n    <li id=\"fn:1\">\n      <p>I remeber read a dead-tree maganize: it had a article about Real’s New <a href=\"https://en.wikipedia.org/wiki/RealVideo\">RealVideo</a> Fractal Codec, I must of been in a trace <a href=\"#fnref:1\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n  </ol>\n</div>\n",
+					"value": "Get the modem\n\n  I went down to the local computer realiter to get a modem with my father\n  I remeber pick up a US-Robotics 56k modem reading the description it include RealVideo1 software\n\n\n\n  \n    \n      I remeber read a dead-tree maganize: it had a article about Real’s New RealVideo Fractal Codec, I must of been in a trace &#8617;\n    \n  \n\n"
+				},
+							"value": "<h1 id=\"get-the-modem\">Get the modem</h1>\n<ul>\n  <li>I went down to the local computer realiter to get a modem with my father</li>\n  <li>I remeber pick up a US-Robotics 56k modem reading the description it include RealVideo<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote\">1</a></sup> software</li>\n</ul>\n\n<div class=\"footnotes\">\n  <ol>\n    <li id=\"fn:1\">\n      <p>I remeber read a dead-tree maganize: it had a article about Real’s New <a href=\"https://en.wikipedia.org/wiki/RealVideo\">RealVideo</a> Fractal Codec, I must of been in a trace <a href=\"#fnref:1\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n  </ol>\n</div>\n",
+"category": ["personal","history","internet"],"tags": ["personal","history","internet","aol","ozemail","bigpond","australia","56k","modem"]
+}
+
+
+		                        ,
+                        
+	{
+  "type": "entry",
+  "published": "2016-08-09 00:00:00 +1000",
+  "url": "/archive/2016/08/pov-ray-usenet-archive.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "Pov-Ray Usenet Archiving",
+				"summary": {
+					"html": "<p>I’ve been trying to archive <a href=\"http://news.povray.org/groups/\">Pov-ray’s Usenet</a> for the last fornight, but it has been give me hell especially the binary groups witch have over 78,000+ articles in each group</p>\n\n",
+					"value": "I’ve been trying to archive Pov-ray’s Usenet for the last fornight, but it has been give me hell especially the binary groups witch have over 78,000+ articles in each group\n\n"
+				},
+							"value": "<p>I’ve been trying to archive <a href=\"http://news.povray.org/groups/\">Pov-ray’s Usenet</a> for the last fornight, but it has been give me hell especially the binary groups witch have over 78,000+ articles in each group</p>\n\n",
+"category": ["compression","archiving","dtn"],"tags": ["ZPAQ","zpaq","backup","archive","archiving","dtn","usenet"]
+}
+
+
+		                        ,
+                        
+	{
+  "type": "entry",
+  "published": "2016-08-08 00:00:00 +1000",
+  "url": "/archive/2016/08/zpaq.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "ZPAQ: Incremental Journaling Backup Utility and Archiver",
+				"summary": {
+					"html": "<p>I’ve been using <a href=\"http://mattmahoney.net/dc/zpaq.html\">ZPAQ</a> for about a month now<br />\ni’ve been using for:</p>\n\n",
+					"value": "I’ve been using ZPAQ for about a month now\ni’ve been using for:\n\n"
+				},
+							"value": "<p>I’ve been using <a href=\"http://mattmahoney.net/dc/zpaq.html\">ZPAQ</a> for about a month now<br />\ni’ve been using for:</p>\n\n",
+"category": ["compression"],"tags": ["ZPAQ","zpaq","backup","archive","archiving","dcn","dtn"]
+}
+
+
+		                        ,
+                        
+	{
+  "type": "entry",
+  "published": "2016-08-08 00:00:00 +1000",
+  "url": "/archive/2016/08/battlezone-98-redux.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "Rembering Battlezone 98",
+				"summary": {
+					"html": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"640\" height=\"390\" src=\"https://www.youtube.com/embed/QFmW6e-N288\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n\n",
+					"value": "\n\n"
+				},
+							"value": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"640\" height=\"390\" src=\"https://www.youtube.com/embed/QFmW6e-N288\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n\n",
+"category": ["gaming","rts","fps"],"tags": []
+}
+
+
+		                        ,
+                        
+	{
+  "type": "entry",
+  "published": "2014-09-21 00:00:00 +1000",
+  "url": "/archive/2014/09/if-i-was-developing-pacer.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "if I was developing PACER....",
+				"summary": {
+					"html": "<p><a href=\"http://en.wikipedia.org/wiki/PACER_%28law%29\">PACER</a> (Public Access to Court Electronic Records) was in the news again today for being outdated and charging too much for public domain documents</p>\n\n",
+					"value": "PACER (Public Access to Court Electronic Records) was in the news again today for being outdated and charging too much for public domain documents\n\n"
+				},
+							"value": "<p><a href=\"http://en.wikipedia.org/wiki/PACER_%28law%29\">PACER</a> (Public Access to Court Electronic Records) was in the news again today for being outdated and charging too much for public domain documents</p>\n\n",
+"category": ["tech","law"],"tags": []
+}
+
+
+		                        
+                        
+		
+		]}
+
+</body>
+</html>
+
