@@ -164,6 +164,14 @@ if (isset($value['listen-of'])) {
                 }
             }
             
+            $htmlul = $entry->addChild('ul');
+            foreach ($value['tags'] as $tag ) {
+                if (!is_array($tag)) {
+                $cat = $htmlul->addChild('li',$tag);
+                $cat->addAttribute('class', 'p-category');
+                }
+            }  
+            
         $htmlul = $entry->addChild('ul');
             foreach ($value['syndication'] as $syn ) {
                 if (!is_array($syn)) {
