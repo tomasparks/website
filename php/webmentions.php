@@ -33,6 +33,7 @@ case "archive":
 				
 				        $db[$path][]=$value;
 				
+				
 				// h-card section
 				$hcard[$value['author']['name']] = array ( "name" => $value['author']['name'],"photo" => $value['author']['photo']  );
 				
@@ -47,24 +48,27 @@ case "archive":
 	  //yaml_emit_file( "/home/tom/github/website/sources/gobal/_data/webmention/output.yml", $db);
 	  foreach ($db as $path => $value) {
 	  echo "path: ".$path."\n";
-	   
-	   	                        if (file_exists("/home/tom/github/website/sources/gobal/_data/webmention/".$path.".json"))  {
+	    	if(is_array($value))	{
+	                      mkdir("/home/tom/github/website/sources/gobal/_data/webmention/".$path."/");
+	                      chdir("/home/tom/github/website/sources/gobal/_data/webmention/".$path."/");
+
+	                        if (file_exists("/home/tom/github/website/sources/gobal/_data/webmention/".$path.".json"))  {
 	                      
 	                            $file = file_get_contents("/home/tom/github/website/sources/gobal/_data/webmention/".$path.".json");
 	                            $tmp_db = json_decode($file);
 	                     
 	                     
 	                     
-	                    //$tmp_db = yaml_parse_file("/home/tom/github/website/sources/gobal/_data/webmention/".$path."/".$type.".yml");
-            			$arr = array_merge($arr,$tmp_db);
-            			$arr = array_unique(array_merge($arr,$tmp_db), SORT_REGULAR);
+	                   // $tmp_db = yaml_parse_file("/home/tom/github/website/sources/gobal/_data/webmention/".$path.".yml");
+            			$value = array_merge($value,$tmp_db);
+            			$value = array_unique(array_merge($value,$tmp_db), SORT_REGULAR);
             			}
 	                        //yaml_emit_file( "/home/tom/github/website/sources/gobal/_data/webmention/".$path."/".$type.".yml", $arr);
-	                        $json_data = json_encode($arr,JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES);
+	                        $json_data = json_encode($value,JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES);
                             file_put_contents("/home/tom/github/website/sources/gobal/_data/webmention/".$path.".json", $json_data);
-	                      }
-	
- 
+	                     
+	  }
+	}  
 //print_r ($db);
 //print_r ($db);
 ?>
