@@ -47,7 +47,7 @@ $newdata = json_decode($json, true);
 ////echo is_array($newdata[0]);
 
 
-//print_r($newdata);
+print_r($newdata['children']);
 $database = array_merge($database,$newdata['children']);
 $database = array_unique(array_merge($database,$newdata['children']), SORT_REGULAR);
 }}
