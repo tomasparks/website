@@ -32,29 +32,9 @@ else  {$contents =  $value['value'];}
 return $contents;
 }
 
-$jf2File = array ("main","miniatures","gallery");
+$jf2File = array ("main","miniatures","gallery","notes");
 
 $database = array ();
- for ($x = 0; $x <= 90; $x++) {
-
-$tmp = date("Y-m-d",strtotime( '-'.$x.' days' ))."\n";
-$date_split = date_parse($tmp);
-
-////print_r ($date_split);
-
-chdir("/home/tom/github/website/sources/gobal/_data/notes/".$date_split['year']."/");
-if (file_exists("/home/tom/github/website/sources/gobal/_data/notes/".$date_split['year']."/db-".str_pad($date_split['month'], 2, '0', STR_PAD_LEFT)."-".str_pad($date_split['day'], 2, '0', STR_PAD_LEFT).".yml")) {
-
-
-
-
-
-$newdata = yaml_parse_file("/home/tom/github/website/sources/gobal/_data/notes/".$date_split['year']."/db-".str_pad($date_split['month'], 2, '0', STR_PAD_LEFT)."-".str_pad($date_split['day'], 2, '0', STR_PAD_LEFT).".yml");
-////print_r ($newdata);
-$database = array_merge($database,$newdata);
-$database = array_unique(array_merge($database,$newdata), SORT_REGULAR);
-}
-}
 
 foreach ($jf2File as $value) {
 chdir("/home/tom/github/website/sources/gobal/_data/feeds/");
