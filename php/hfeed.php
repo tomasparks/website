@@ -48,15 +48,14 @@ $newdata = json_decode($json, true);
 
 
 print_r($newdata['children']);
-$database = array_merge($database,$newdata['children']);
-$database = array_unique(array_merge($database,$newdata['children']), SORT_REGULAR);
+//$database = array_merge($database,$newdata['children']);
+//$database = array_unique(array_merge($database,$newdata['children']), SORT_REGULAR);
 }}
 
 
 usort($database, function ($item1, $item2) {return $item2['published'] <=> $item1['published'];});
 
-
-////print_r ($database);
+print_r ($database);
 $xml = new SimpleXMLElement('<!DOCTYPE html><html lang="en"></html>');
 $htmlhead = $xml->addChild('head');
 $meta = $htmlhead ->addChild('meta');
