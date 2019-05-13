@@ -208,6 +208,8 @@ $url->addAttribute('href', 'https://brid.gy/publish/github');
 
 
 chdir("/home/tom/github/website/s3/tomasparks.name/");
+	                        $json_data = json_encode($database,JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES);
+                            file_put_contents("/home/tom/github/website/s3/tomasparks.name/gobal-feed.jf2", $json_data);
 $xml->asXML("gobal-feed.html");
 $dom = new DOMDocument('1.0');
 $dom->preserveWhiteSpace = false;
