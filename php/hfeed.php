@@ -50,7 +50,7 @@ $newdata = json_decode($json, true);
 ////echo is_array($newdata[0]);
 
 
-print_r($newdata['children']);
+//print_r($newdata['children']);
 $database = array_merge($database,$newdata['children']);
 $database = array_unique(array_merge($database,$newdata['children']), SORT_REGULAR);
 }}
@@ -90,7 +90,7 @@ $article->addAttribute('class', 'h-feed');
 
 // loop start
 foreach ($database as $value) {
-print_r($value);
+//print_r($value);
 if (isset($value['published'])) {
 
 
