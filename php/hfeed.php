@@ -154,9 +154,9 @@ if (isset($value['listen-of'])) {
                            $citecontents = $cite->addChild('div',$value['listen-of']['h-cite']['content']);
                            $citecontents->addAttribute('class', 'e-content');
                            }
-                                              
+                           
+       $htmlul = $entry->addChild('ul');                                              
          if (isset($value['category'])) {         
-       $htmlcatul = $entry->addChild('ul');
             foreach ($value['category'] as $cat ) {
                 if (!is_array($cat)) {
                 $cat = $htmlcatul->addChild('li',$cat);
@@ -165,20 +165,17 @@ if (isset($value['listen-of'])) {
             }}
             
             if (isset($value['tags'])) {
-            $htmltagul = $entry->addChild('ul');
             foreach ($value['tags'] as $tag ) {
                 if (!is_array($tag)) {
-                $tag = $htmltagul->addChild('li',$tag);
+                $tag = $htmlul->addChild('li',$tag);
                 $tag->addAttribute('class', 'p-category');
                 }
             }}  
            
-           
            if (isset($value['syndication'])) {
-        $htmlsynul = $entry->addChild('ul');
             foreach ($value['syndication'] as $synd ) {
                 if (!is_array($synd)) {
-                $syn = $htmlsynul->addChild('li',$synd);
+                $syn = $htmlul->addChild('li',$synd);
                 $syn->addAttribute('class', 'u-syndication');
                 }
             }}           
