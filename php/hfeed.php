@@ -159,7 +159,7 @@ if (isset($value['listen-of'])) {
          if (isset($value['category'])) {         
             foreach ($value['category'] as $cat ) {
                 if (!is_array($cat)) {
-                $cat = $htmlcatul->addChild('li',$cat);
+                $cat = $htmlul->addChild('li',$cat);
                 $cat->addAttribute('class', 'p-category');
                 }
             }}
@@ -180,10 +180,10 @@ if (isset($value['listen-of'])) {
                 }
             }}           
              
-                    
-        $author =  $entry->addChild('div','Tom sparks');
+         $metadata =   $entry->addChild('div');        
+        $author =  $metadata->addChild('div','Tom sparks');
                     $author->addAttribute('class', 'p-author');                    
-         $published =  $entry->addChild('div',$value['published']);
+         $published =  $metadata->addChild('div',$value['published']);
                     $published->addAttribute('class', 'dt-published');    
                     $published->addAttribute('datetime', $value['published']);  
                     $published->addAttribute('title', $value['published']);                                   
