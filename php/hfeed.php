@@ -177,7 +177,7 @@ if (isset($value['listen-of'])) {
            if (isset($value['syndication'])) {
         $htmlsynul = $entry->addChild('ul');
             foreach ($value['syndication'] as $synd ) {
-                if (!is_array($syn)) {
+                if (!is_array($synd)) {
                 $syn = $htmlsynul->addChild('li',$synd);
                 $syn->addAttribute('class', 'u-syndication');
                 }
