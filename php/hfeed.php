@@ -155,30 +155,32 @@ if (isset($value['listen-of'])) {
                            $citecontents->addAttribute('class', 'e-content');
                            }
                                               
-                  
-       $htmlul = $entry->addChild('ul');
+         if (isset($value['category'])) {         
+       $htmlcatul = $entry->addChild('ul');
             foreach ($value['category'] as $cat ) {
                 if (!is_array($cat)) {
-                $cat = $htmlul->addChild('li',$cat);
+                $cat = $htmlcatul->addChild('li',$cat);
                 $cat->addAttribute('class', 'p-category');
                 }
-            }
+            }}
             
-            $htmlul = $entry->addChild('ul');
+            if (isset($value['tags'])) {
+            $htmltagul = $entry->addChild('ul');
             foreach ($value['tags'] as $tag ) {
                 if (!is_array($tag)) {
-                $cat = $htmlul->addChild('li',$tag);
+                $cat = $htmltagul->addChild('li',$tag);
                 $cat->addAttribute('class', 'p-category');
                 }
-            }  
-            
-        $htmlul = $entry->addChild('ul');
+            }}  
+           
+           if (isset($value['syndication'])) {
+        $htmlsynul = $entry->addChild('ul');
             foreach ($value['syndication'] as $syn ) {
                 if (!is_array($syn)) {
-                $cat = $htmlul->addChild('li',$syn);
+                $cat = $htmlsynul->addChild('li',$syn);
                 $cat->addAttribute('class', 'u-syndication');
                 }
-            }           
+            }}           
              
                     
         $author =  $entry->addChild('div','Tom sparks');
