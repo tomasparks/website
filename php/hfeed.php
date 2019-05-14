@@ -58,7 +58,7 @@ $database = array_unique(array_merge($database,$newdata['children']), SORT_REGUL
 
 usort($database, function ($item1, $item2) {return $item2['published'] <=> $item1['published'];});
 
-print_r ($database);
+//print_r ($database);
 $xml = new SimpleXMLElement('<!DOCTYPE html><html lang="en"></html>');
 $htmlhead = $xml->addChild('head');
 $meta = $htmlhead ->addChild('meta');
