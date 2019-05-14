@@ -168,17 +168,18 @@ if (isset($value['listen-of'])) {
             $htmltagul = $entry->addChild('ul');
             foreach ($value['tags'] as $tag ) {
                 if (!is_array($tag)) {
-                $cat = $htmltagul->addChild('li',$tag);
-                $cat->addAttribute('class', 'p-category');
+                $tag = $htmltagul->addChild('li',$tag);
+                $tag->addAttribute('class', 'p-category');
                 }
             }}  
            
+           
            if (isset($value['syndication'])) {
         $htmlsynul = $entry->addChild('ul');
-            foreach ($value['syndication'] as $syn ) {
+            foreach ($value['syndication'] as $synd ) {
                 if (!is_array($syn)) {
-                $cat = $htmlsynul->addChild('li',$syn);
-                $cat->addAttribute('class', 'u-syndication');
+                $syn = $htmlsynul->addChild('li',$synd);
+                $syn->addAttribute('class', 'u-syndication');
                 }
             }}           
              
