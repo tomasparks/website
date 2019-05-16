@@ -1,0 +1,190 @@
+---
+2019:
+  "05":
+    16:
+    - type: entry
+      published: "2019-05-16T11:21:40+00:00"
+      url: https://twitter.com/tomasparksts/status/1128983850393133056
+      category:
+      - https://twitter.com/ElderScrolls
+      - https://twitter.com/lazygamereviews
+      in-reply-to:
+      - https://twitter.com/tomasparksts/status/1128320538491834368
+      content:
+        text: '@lazygamereviews'
+        html: <a href="https://twitter.com/lazygamereviews">@lazygamereviews</a>
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/ElderScrolls:
+          type: card
+          name: The Elder Scrolls
+          url: https://twitter.com/ElderScrolls
+          photo: ~
+        https://twitter.com/lazygamereviews:
+          type: card
+          name: LGR
+          url: https://twitter.com/lazygamereviews
+          photo: ~
+    - type: entry
+      published: "2019-05-16T10:51:53+00:00"
+      url: https://twitter.com/tomasparksts/status/1128976355297599488
+      category:
+      - https://twitter.com/DoctorKarl
+      in-reply-to:
+      - https://twitter.com/DoctorKarl/status/1128942624801345537
+      content:
+        text: also, the people who claim they can sense radio waves have never passed
+          a double-blind test.
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/DoctorKarl:
+          type: card
+          name: Dr Karl
+          url: https://twitter.com/DoctorKarl
+          photo: ~
+    15:
+    - type: entry
+      published: "2019-05-15T02:25:06+00:00"
+      url: https://twitter.com/tomasparksts/status/1128486432102731776
+      in-reply-to:
+      - https://twitter.com/tomasparksts/status/1128323854990958592
+      content:
+        text: '#Photosynth'
+        html: <a href="https://twitter.com/search?q=%23Photosynth">#Photosynth</a>
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+    14:
+    - type: entry
+      published: "2019-05-14T15:40:33+00:00"
+      url: https://twitter.com/tomasparksts/status/1128324225452756992
+      category:
+      - https://twitter.com/LegoMastersAU
+      in-reply-to:
+      - https://twitter.com/tomasparksts/status/1128279699581308928
+      content:
+        text: '#LEGOMastersAU'
+        html: <a href="https://twitter.com/search?q=%23LEGOMastersAU">#LEGOMastersAU</a>
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/LegoMastersAU:
+          type: card
+          name: LEGO Masters Australia
+          url: https://twitter.com/LegoMastersAU
+          photo: ~
+    - type: entry
+      published: "2019-05-14T15:39:04+00:00"
+      url: https://twitter.com/tomasparksts/status/1128323854990958592
+      in-reply-to:
+      - https://twitter.com/tomasparksts/status/1128305051829538819
+      content:
+        text: "sadly it's dead also \U0001F622"
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+    - type: entry
+      published: "2019-05-14T15:25:54+00:00"
+      url: https://twitter.com/tomasparksts/status/1128320538491834368
+      category:
+      - https://twitter.com/ElderScrolls
+      in-reply-to:
+      - https://twitter.com/tomasparksts/status/1127910525264891906
+      content:
+        text: "wow! #minecraft @ElderScrolls #Oblivion #ImperialCityplanetminecraft.com/project/oblivi\u2026"
+        html: "wow! <a href=\"https://twitter.com/search?q=%23minecraft\">#minecraft</a>
+          <a href=\"https://twitter.com/ElderScrolls\">@ElderScrolls</a> <a href=\"https://twitter.com/search?q=%23Oblivion\">#Oblivion</a>
+          <a href=\"https://twitter.com/search?q=%23ImperialCity\">#ImperialCity</a><a
+          href=\"https://www.planetminecraft.com/project/oblivion-imperial-city-400638/\">planetminecraft.com/project/oblivi\u2026</a>"
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/ElderScrolls:
+          type: card
+          name: The Elder Scrolls
+          url: https://twitter.com/ElderScrolls
+          photo: ~
+    - type: entry
+      published: "2019-05-14T14:24:21+00:00"
+      url: https://twitter.com/tomasparksts/status/1128305051829538819
+      in-reply-to:
+      - https://twitter.com/tomasparksts/status/1128304143708446720
+      content:
+        text: '#ImageConnectivityGraph #PhotoTourism'
+        html: <a href="https://twitter.com/search?q=%23ImageConnectivityGraph">#ImageConnectivityGraph</a>
+          <a href="https://twitter.com/search?q=%23PhotoTourism">#PhotoTourism</a>
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+    - type: entry
+      published: "2019-05-14T14:20:45+00:00"
+      url: https://twitter.com/tomasparksts/status/1128304143708446720
+      photo:
+      - https://pbs.twimg.com/media/D6iKoxGW0AA82B7.jpg
+      content:
+        text: "Creating a Streetview for Dioramas UPDATE: tomasparks.name/miniatures/not\u2026"
+        html: "Creating a Streetview for Dioramas UPDATE: <a href=\"https://tomasparks.name/miniatures/notebook/2018/11/streetview-diorama-update.html\">tomasparks.name/miniatures/not\u2026</a>"
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+    - type: entry
+      published: "2019-05-14T14:15:00+00:00"
+      url: https://twitter.com/tomasparksts/status/1128302698464464896
+      photo:
+      - https://pbs.twimg.com/media/D6iJUM2W4AAowdk.jpg
+      - https://pbs.twimg.com/media/D6iJUYdWAAAoV3G.png
+      - https://pbs.twimg.com/media/D6iJUkKWAAEFO8O.png
+      - https://pbs.twimg.com/media/D6iJUv9X4AAwBoi.png
+      content:
+        text: "Endoscope Camera Rig: tomasparks.name/miniatures/not\u2026"
+        html: "Endoscope Camera Rig: <a href=\"https://tomasparks.name/miniatures/notebook/2018/11/endoscope-camera-rig.html\">tomasparks.name/miniatures/not\u2026</a>"
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+    - type: entry
+      published: "2019-05-14T12:43:37+00:00"
+      url: https://twitter.com/tomasparksts/status/1128279699581308928
+      category:
+      - https://twitter.com/LegoMastersAU
+      content:
+        text: 'after watch @LegoMastersAU  it has got me wanting to setup my #craft
+          #area #Brickman'
+        html: after watch <a href="https://twitter.com/LegoMastersAU">@LegoMastersAU</a>  it
+          has got me wanting to setup my <a href="https://twitter.com/search?q=%23craft">#craft</a>
+          <a href="https://twitter.com/search?q=%23area">#area</a> <a href="https://twitter.com/search?q=%23Brickman">#Brickman</a>
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/LegoMastersAU:
+          type: card
+          name: LEGO Masters Australia
+          url: https://twitter.com/LegoMastersAU
+          photo: ~
+...

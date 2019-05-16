@@ -1,5 +1,5 @@
-[
-    {
+{
+    "0": {
         "type": "entry",
         "author": {
             "type": "card",
@@ -27,7 +27,7 @@
         "wm-property": "mention-of",
         "wm-private": false
     },
-    {
+    "1": {
         "type": "entry",
         "author": {
             "type": "card",
@@ -52,7 +52,7 @@
         "wm-property": "mention-of",
         "wm-private": false
     },
-    {
+    "2": {
         "type": "entry",
         "author": {
             "type": "card",
@@ -74,7 +74,7 @@
         "wm-property": "mention-of",
         "wm-private": false
     },
-    {
+    "3": {
         "type": "entry",
         "author": {
             "type": "card",
@@ -100,7 +100,7 @@
         "wm-property": "mention-of",
         "wm-private": false
     },
-    {
+    "4": {
         "type": "entry",
         "author": {
             "type": "card",
@@ -128,7 +128,7 @@
         "wm-property": "mention-of",
         "wm-private": false
     },
-    {
+    "5": {
         "type": "entry",
         "author": {
             "type": "card",
@@ -153,7 +153,7 @@
         "wm-property": "mention-of",
         "wm-private": false
     },
-    {
+    "6": {
         "type": "entry",
         "author": {
             "type": "card",
@@ -175,7 +175,7 @@
         "wm-property": "mention-of",
         "wm-private": false
     },
-    {
+    "7": {
         "type": "entry",
         "author": {
             "type": "card",
@@ -201,7 +201,7 @@
         "wm-property": "mention-of",
         "wm-private": false
     },
-    {
+    "12": {
         "type": "entry",
         "author": {
             "type": "card",
@@ -219,4 +219,4 @@
         ],
         "in-reply-to": "https://twitter.com/tomasparksts/status/1127910525264891906"
     }
-]
+}
