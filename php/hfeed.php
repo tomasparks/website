@@ -154,9 +154,10 @@ if (isset($value['listen-of'])) {
                            $citecontents = $cite->addChild('div',$value['listen-of']['h-cite']['content']);
                            $citecontents->addAttribute('class', 'e-content');
                            }
-                           
-       $htmlul = $entry->addChild('ul');                                              
-         if (isset($value['category'])) {         
+        
+                                                          
+         if (isset($value['category'])) {  
+         $htmlul = $entry->addChild('ul');        
             foreach ($value['category'] as $cat ) {
                 if (!is_array($cat)) {
                 $cat = $htmlul->addChild('li',$cat);
@@ -165,6 +166,7 @@ if (isset($value['listen-of'])) {
             }}
             
             if (isset($value['tags'])) {
+            $htmlul = $entry->addChild('ul'); 
             foreach ($value['tags'] as $tag ) {
                 if (!is_array($tag)) {
                 $tag = $htmlul->addChild('li',$tag);
@@ -173,6 +175,7 @@ if (isset($value['listen-of'])) {
             }}  
            
            if (isset($value['syndication'])) {
+           $htmlul = $entry->addChild('ul'); 
             foreach ($value['syndication'] as $synd ) {
                 if (!is_array($synd)) {
                 $syn = $htmlul->addChild('li',$synd);
@@ -180,13 +183,13 @@ if (isset($value['listen-of'])) {
                 }
             }}           
              
-         $metadata =   $entry->addChild('div');        
-        $author =  $metadata->addChild('div','Tom sparks');
-                    $author->addAttribute('class', 'p-author');                    
-         $published =  $metadata->addChild('div',$value['published']);
-                    $published->addAttribute('class', 'dt-published');    
-                    $published->addAttribute('datetime', $value['published']);  
-                    $published->addAttribute('title', $value['published']);                                   
+        $metadata  = $entry->addChild('div');        
+        $author    = $metadata->addChild('div','Tom sparks');
+                     $author->addAttribute('class', 'p-author');                    
+        $published  = $metadata->addChild('div',$value['published']);
+                     $published->addAttribute('class', 'dt-published');    
+                     $published->addAttribute('datetime', $value['published']);  
+                     $published->addAttribute('title', $value['published']);                                   
 
 }}
 

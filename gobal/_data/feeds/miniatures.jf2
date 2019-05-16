@@ -46,6 +46,37 @@
 },
 	{
   "type": "entry",
+  "published": "2019-01-11T00:00:00+10:00",
+  "url": "https://tomasparks.name/miniatures/notebook/2019/01/sg-makerspace-email.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "https://tomasparks.name/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "Sg Makerspace Email",
+				"summary": {
+					"html": "<hr />\n<p>tile: “Sunshine Coast Maker Space: Architectural endoscope camera rig” \ndate: 2019-01-11\n—-</p>\n\n",
+					"value": "\ntile: “Sunshine Coast Maker Space: Architectural endoscope camera rig” \ndate: 2019-01-11\n—-\n\n"
+				},
+							"value": "\ntile: “Sunshine Coast Maker Space: Architectural endoscope camera rig” \ndate: 2019-01-11\n—-\n\n",
+"category": [],
+"tags": [],
+
+
+
+
+
+
+
+
+
+
+"syndication": []
+},
+	{
+  "type": "entry",
   "published": "2018-12-28T00:00:00+10:00",
   "url": "https://tomasparks.name/miniatures/build-log/imperial-city/2018/12/28/imperialcity.html",
   "author": {

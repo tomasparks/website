@@ -146,12 +146,13 @@ echo "Copying ".$plugin."...\n";
 }
 
 // Prebuild
+if (isset($building['pre'])) {
 echo "prebuilding....\n";
 foreach ($building['pre'] as $pre) {
     echo "Doing ".$pre."...\n";
     passthru("./_php/".$pre.".php");
 }
-
+}
 echo "Building website.....\n";
 passthru("ionice bundle update");
 
