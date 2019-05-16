@@ -2,7 +2,7 @@
 <?php
 
 $oldinput = file_get_contents("https://webmention.io/api/mentions.jf2?domain=tomasparks.github.io&token=SoUv2HnRggu8iJQ-PY9B7A&&per-page=1000000000");
-$newinput = file_get_contents("https://webmention.io/api/mentions.jf2?token=f5RLUDZ0NmWQAGd8vEwC8g&domain=tomasparks.name&per-page=1000000000");
+$newinput = file_get_contents("https://webmention.io/api/mentions.jf2?domain=tomasparks.name&token=f5RLUDZ0NmWQAGd8vEwC8g&per-page=1000000000");
 #$input = ltrim($input,"f(");
 #$input = rtrim($input,")");
 
