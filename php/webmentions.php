@@ -15,7 +15,7 @@ $json  = array_unique(array_merge($oldjson['children'],$newjson['children']), SO
 //$json = $oldjson;
 
 
-print_r($json);
+//print_r($json);
 
 //print_r ($json['children'][0]);
 
