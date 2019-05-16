@@ -1,18 +1,26 @@
 #!/usr/bin/env php
 <?php
 
-	$input = file_get_contents("https://webmention.io/api/mentions.jf2?domain=tomasparks.github.io&token=SoUv2HnRggu8iJQ-PY9B7A&&per-page=1000000000");
-
+$oldinput = file_get_contents("https://webmention.io/api/mentions.jf2?domain=tomasparks.github.io&token=SoUv2HnRggu8iJQ-PY9B7A&&per-page=1000000000");
+$newinput = file_get_contents("https://webmention.io/api/mentions.jf2?token=f5RLUDZ0NmWQAGd8vEwC8g&domain=tomasparks.name&per-page=1000000000");
 #$input = ltrim($input,"f(");
 #$input = rtrim($input,")");
 
 //print_r(json_decode($input, true));
 
-$json =json_decode($input, true);
+$oldjson =json_decode($oldinput, true);
+$newjson =json_decode($newinput, true);
+$json = array_merge($oldjson['children'],$newjson['children']);
+$json  = array_unique(array_merge($oldjson['children'],$newjson['children']), SORT_REGULAR);
+//$json = $oldjson;
+
+
+print_r($json);
+
 //print_r ($json['children'][0]);
 
 
-	foreach ($json['children'] as $value) {
+	foreach ($json as $value) {
 	            //print_r ($value);
 				//$date = new DateTime("@$epoch");
 				$date_split = date_parse($value['wm-received']);
@@ -66,6 +74,7 @@ case "archive":
 	                     
 	  }
 	}  
+	
 //print_r ($db);
 //print_r ($db);
 ?>

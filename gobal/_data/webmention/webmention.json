@@ -39,6 +39,119 @@
         "type": "entry",
         "author": {
             "type": "card",
+            "name": "Sue Maynes",
+            "photo": "https://webmention.io/avatar/graph.facebook.com/c27a81381c5655e603b05bedc46a0e161e0168c23ba254543dbf9bf45c762be0.jpg",
+            "url": "https://www.facebook.com/1490258021020742"
+        },
+        "url": "https://www.facebook.com/934483560050621/posts/937357829763194#liked-by-1490258021020742",
+        "published": null,
+        "wm-received": "2018-03-22T01:01:26Z",
+        "wm-id": 507121,
+        "wm-source": "https://brid-gy.appspot.com/like/facebook/934483560050621/937357829763194/1490258021020742",
+        "wm-target": "https://tomasparks.github.io/sl/n/l/ZMZ2QmQAuw7.html",
+        "like-of": "https://tomasparks.github.io/sl/n/l/ZMZ2QmQAuw7.html",
+        "wm-property": "like-of",
+        "wm-private": false
+    },
+    {
+        "type": "entry",
+        "author": {
+            "type": "card",
+            "name": "Sue Maynes",
+            "photo": "https://webmention.io/avatar/graph.facebook.com/c27a81381c5655e603b05bedc46a0e161e0168c23ba254543dbf9bf45c762be0.jpg",
+            "url": "https://www.facebook.com/1490258021020742"
+        },
+        "url": "https://www.facebook.com/934483560050621/posts/937357829763194#liked-by-1490258021020742",
+        "published": null,
+        "wm-received": "2018-03-21T22:21:26Z",
+        "wm-id": 507095,
+        "wm-source": "https://brid-gy.appspot.com/like/facebook/934483560050621/937357829763194/1490258021020742",
+        "wm-target": "https://tomasparks.github.io/sl/n/l/ZNTDroAjSf7.html",
+        "like-of": "https://tomasparks.github.io/sl/n/l/ZNTDroAjSf7.html",
+        "wm-property": "like-of",
+        "wm-private": false
+    },
+    {
+        "type": "entry",
+        "author": {
+            "type": "card",
+            "name": "Melinda Dean",
+            "photo": "https://webmention.io/avatar/graph.facebook.com/d03f1a63c097c1300b4ddd33409a7e1f047121f6af8958cf58baf8469a8ea632.jpg",
+            "url": "https://www.facebook.com/1972998012980822"
+        },
+        "url": "https://www.facebook.com/934483560050621/posts/1001125966719713#liked-by-1972998012980822",
+        "published": null,
+        "wm-received": "2018-03-21T21:03:01Z",
+        "wm-id": 507086,
+        "wm-source": "https://brid-gy.appspot.com/like/facebook/934483560050621/1001125966719713/1972998012980822",
+        "wm-target": "https://tomasparks.github.io/sl/n/l/ZNTo7vv0xY7.html",
+        "like-of": "https://tomasparks.github.io/sl/n/l/ZNTo7vv0xY7.html",
+        "wm-property": "like-of",
+        "wm-private": false
+    },
+    {
+        "type": "entry",
+        "author": {
+            "type": "card",
+            "name": "Jo Kenyon",
+            "photo": "https://webmention.io/avatar/graph.facebook.com/9988907564b2a2ae1d64db1b52c576af87f44093b9f9c3f8aacca02741822332.jpg",
+            "url": "https://www.facebook.com/1689553821090171"
+        },
+        "url": "https://www.facebook.com/934483560050621/posts/1016047508560892#liked-by-1689553821090171",
+        "published": null,
+        "wm-received": "2018-03-21T20:40:02Z",
+        "wm-id": 507080,
+        "wm-source": "https://brid-gy.appspot.com/like/facebook/934483560050621/1016047508560892/1689553821090171",
+        "wm-target": "https://tomasparks.github.io/sl/n/l/ZNUNTUm0Bj7.html",
+        "like-of": "https://tomasparks.github.io/sl/n/l/ZNUNTUm0Bj7.html",
+        "wm-property": "like-of",
+        "wm-private": false
+    },
+    {
+        "type": "entry",
+        "author": {
+            "type": "card",
+            "name": "Sue Maynes",
+            "photo": "https://webmention.io/avatar/graph.facebook.com/c27a81381c5655e603b05bedc46a0e161e0168c23ba254543dbf9bf45c762be0.jpg",
+            "url": "https://www.facebook.com/1490258021020742"
+        },
+        "url": "https://www.facebook.com/934483560050621/posts/1016047508560892?comment_id=1016547871844189",
+        "published": "2018-03-14T03:58:39+00:00",
+        "wm-received": "2018-03-21T20:39:53Z",
+        "wm-id": 507079,
+        "wm-source": "https://brid-gy.appspot.com/comment/facebook/934483560050621/1016047508560892/1016047508560892_1016547871844189",
+        "wm-target": "https://tomasparks.github.io/sl/n/l/ZNUNTUm0Bj7.html",
+        "content": {
+            "content-type": "text/plain",
+            "value": "Thanks tom!",
+            "text": "Thanks tom!"
+        },
+        "in-reply-to": "https://tomasparks.github.io/sl/n/l/ZNUNTUm0Bj7.html",
+        "wm-property": "in-reply-to",
+        "wm-private": false
+    },
+    {
+        "type": "entry",
+        "author": {
+            "type": "card",
+            "name": "Sue Maynes",
+            "photo": "https://webmention.io/avatar/graph.facebook.com/c27a81381c5655e603b05bedc46a0e161e0168c23ba254543dbf9bf45c762be0.jpg",
+            "url": "https://www.facebook.com/1490258021020742"
+        },
+        "url": "https://www.facebook.com/934483560050621/posts/1009376689227974#liked-by-1490258021020742",
+        "published": null,
+        "wm-received": "2018-03-21T20:21:51Z",
+        "wm-id": 507074,
+        "wm-source": "https://brid-gy.appspot.com/like/facebook/934483560050621/1009376689227974/1490258021020742",
+        "wm-target": "https://tomasparks.github.io/sl/n/l/ZNUJtUffjo7.html",
+        "like-of": "https://tomasparks.github.io/sl/n/l/ZNUJtUffjo7.html",
+        "wm-property": "like-of",
+        "wm-private": false
+    },
+    {
+        "type": "entry",
+        "author": {
+            "type": "card",
             "name": "March For Our Lives",
             "photo": "https://webmention.io/avatar/pbs.twimg.com/5848161928cea3bda4bf8fe1fe8f31ded6b329aaab9d1df25dea364b45f8847f.jpg",
             "url": "https://twitter.com/March4Our_Lives"
@@ -58,6 +171,42 @@
         "author": {
             "type": "card",
             "name": "March For Our Lives",
+            "photo": "https://webmention.io/avatar/pbs.twimg.com/5848161928cea3bda4bf8fe1fe8f31ded6b329aaab9d1df25dea364b45f8847f.jpg",
+            "url": "https://twitter.com/March4Our_Lives"
+        },
+        "url": "https://twitter.com/tomasparksts/status/967091060101935104#favorited-by-975927316152049664",
+        "published": null,
+        "wm-received": "2018-03-21T07:01:00Z",
+        "wm-id": 506749,
+        "wm-source": "https://brid-gy.appspot.com/like/twitter/tomasparksts/967091060101935104/975927316152049664",
+        "wm-target": "https://tomasparks.github.io/sl/n/t/ZNTqbekQzj7.html",
+        "like-of": "https://tomasparks.github.io/sl/n/t/ZNTqbekQzj7.html",
+        "wm-property": "like-of",
+        "wm-private": false
+    },
+    {
+        "type": "entry",
+        "author": {
+            "type": "card",
+            "name": "March For Our Lives",
+            "photo": "https://webmention.io/avatar/pbs.twimg.com/24a9ca07c45bfc737036a5465f2936d62fd53d83b614c7fb98789bdb6189fa97.jpg",
+            "url": "https://twitter.com/march4Olives"
+        },
+        "url": "https://twitter.com/tomasparksts/status/967103395432665088#favorited-by-975915849008799744",
+        "published": null,
+        "wm-received": "2018-03-21T07:00:53Z",
+        "wm-id": 506746,
+        "wm-source": "https://brid-gy.appspot.com/like/twitter/tomasparksts/967103395432665088/975915849008799744",
+        "wm-target": "https://tomasparks.github.io/sl/n/t/ZNTqbrCDL07.html",
+        "like-of": "https://tomasparks.github.io/sl/n/t/ZNTqbrCDL07.html",
+        "wm-property": "like-of",
+        "wm-private": false
+    },
+    {
+        "type": "entry",
+        "author": {
+            "type": "card",
+            "name": "March For Our Lives",
             "photo": "https://webmention.io/avatar/pbs.twimg.com/24a9ca07c45bfc737036a5465f2936d62fd53d83b614c7fb98789bdb6189fa97.jpg",
             "url": "https://twitter.com/march4Olives"
         },
@@ -68,6 +217,25 @@
         "wm-source": "https://brid-gy.appspot.com/like/twitter/tomasparksts/967103395432665088/975915849008799744",
         "wm-target": "https://tomasparks.github.io/notes/twitter/2018/02/23/bda23e78d6f99b3d4f1fd88f734432f13631bc70.html",
         "like-of": "https://tomasparks.github.io/notes/twitter/2018/02/23/bda23e78d6f99b3d4f1fd88f734432f13631bc70.html",
+        "wm-property": "like-of",
+        "wm-private": false
+    },
+    {
+        "type": "entry",
+        "author": {
+            "type": "card",
+            "name": "Brian McCullough",
+            "photo": "https://webmention.io/avatar/pbs.twimg.com/7e60d22cb42914a12db18468d9a2c97560234225da062c37aab3071070e4b097.jpg",
+            "url": "https://twitter.com/brianmcc"
+        },
+        "url": "https://twitter.com/tomasparksts/status/967091060101935104#favorited-by-1502",
+        "published": null,
+        "wm-received": "2018-02-24T16:15:16Z",
+        "wm-id": 497016,
+        "wm-source": "https://brid-gy.appspot.com/like/twitter/tomasparksts/967091060101935104/1502",
+        "wm-target": "https://tomasparks.github.io/sl/n/t/ZNTqbekQzj7.html",
+        "name": "tag:twitter.com,2013:967091060101935104_favorited_by_1502\n  \n  \n  \n  \n     \n \n    Brian McCullough\n    brianmcc\n    \n  \n\n  https://twitter.com/tomasparksts/status/967091060101935104#favorited-by-1502",
+        "like-of": "https://tomasparks.github.io/sl/n/t/ZNTqbekQzj7.html",
         "wm-property": "like-of",
         "wm-private": false
     },
@@ -106,6 +274,25 @@
         "wm-target": "https://tomasparks.github.io/notes/twitter/2018/02/23/4868e6d8277ba79e314545b4ad30752575c7bccc.html",
         "name": "tag:twitter.com,2013:967073690771795968_favorited_by_1502\n  \n  \n  \n  \n     \n \n    Brian McCullough\n    brianmcc\n    \n  \n\n  https://twitter.com/tomasparksts/status/967073690771795968#favorited-by-1502",
         "like-of": "https://tomasparks.github.io/notes/twitter/2018/02/23/4868e6d8277ba79e314545b4ad30752575c7bccc.html",
+        "wm-property": "like-of",
+        "wm-private": false
+    },
+    {
+        "type": "entry",
+        "author": {
+            "type": "card",
+            "name": "Brian McCullough",
+            "photo": "https://webmention.io/avatar/pbs.twimg.com/7e60d22cb42914a12db18468d9a2c97560234225da062c37aab3071070e4b097.jpg",
+            "url": "https://twitter.com/brianmcc"
+        },
+        "url": "https://twitter.com/tomasparksts/status/967073690771795968#favorited-by-1502",
+        "published": null,
+        "wm-received": "2018-02-24T16:15:13Z",
+        "wm-id": 497015,
+        "wm-source": "https://brid-gy.appspot.com/like/twitter/tomasparksts/967073690771795968/1502",
+        "wm-target": "https://tomasparks.github.io/sl/n/t/ZNTqbRjCks7.html",
+        "name": "tag:twitter.com,2013:967073690771795968_favorited_by_1502\n  \n  \n  \n  \n     \n \n    Brian McCullough\n    brianmcc\n    \n  \n\n  https://twitter.com/tomasparksts/status/967073690771795968#favorited-by-1502",
+        "like-of": "https://tomasparks.github.io/sl/n/t/ZNTqbRjCks7.html",
         "wm-property": "like-of",
         "wm-private": false
     },
@@ -391,6 +578,158 @@
         "wm-target": "https://tomasparks.github.io//notes/like/xkcd.com/2018/01/21/29fc1f4d3d6d80e35d93d77f89f9974b1b03ed3f.html",
         "name": "tag:facebook.com,2013:937357829763194_liked_by_1490258021020742\n  \n  \n  \n  \n     \n \n    Sue Maynes\n    \n    \n  \n\n  https://www.facebook.com/934483560050621/posts/937357829763194#liked-by-1490258021020742",
         "like-of": "https://tomasparks.github.io//notes/like/xkcd.com/2018/01/21/29fc1f4d3d6d80e35d93d77f89f9974b1b03ed3f.html",
+        "wm-property": "like-of",
+        "wm-private": false
+    },
+    {
+        "type": "entry",
+        "author": {
+            "type": "card",
+            "name": "Trista Southwell",
+            "photo": "https://webmention.io/avatar/graph.facebook.com/b713ae022f5b9103af9dbb66d75eb31d7f67949252eee0a4cf3b16f51d17ead4.jpg",
+            "url": "https://www.facebook.com/10155827433270746"
+        },
+        "url": "https://www.facebook.com/934483560050621/posts/659174780914835#liked-by-10155827433270746",
+        "published": null,
+        "wm-received": "2018-01-25T23:09:22Z",
+        "wm-id": 491075,
+        "wm-source": "https://brid-gy.appspot.com/like/facebook/934483560050621/659174780914835/10155827433270746",
+        "wm-target": "https://tomasparks.github.io//gallery/bef751ed86f31a78952da34e916489f79dc4c529.html",
+        "name": "tag:facebook.com,2013:659174780914835_liked_by_10155827433270746\n  \n  \n  \n  \n     \n \n    Trista Southwell\n    \n    \n  \n\n  https://www.facebook.com/934483560050621/posts/659174780914835#liked-by-10155827433270746",
+        "like-of": "https://tomasparks.github.io//gallery/bef751ed86f31a78952da34e916489f79dc4c529.html",
+        "wm-property": "like-of",
+        "wm-private": false
+    },
+    {
+        "type": "entry",
+        "author": {
+            "type": "card",
+            "name": "Trista Southwell",
+            "photo": "https://webmention.io/avatar/graph.facebook.com/b713ae022f5b9103af9dbb66d75eb31d7f67949252eee0a4cf3b16f51d17ead4.jpg",
+            "url": "https://www.facebook.com/10155827433270746"
+        },
+        "url": "https://www.facebook.com/934483560050621/posts/659174780914835#liked-by-10155827433270746",
+        "published": null,
+        "wm-received": "2018-01-25T23:09:22Z",
+        "wm-id": 491076,
+        "wm-source": "https://brid-gy.appspot.com/like/facebook/934483560050621/659174780914835/10155827433270746",
+        "wm-target": "https://tomasparks.github.io//gallery/album-2016-6-27.html",
+        "name": "tag:facebook.com,2013:659174780914835_liked_by_10155827433270746\n  \n  \n  \n  \n     \n \n    Trista Southwell\n    \n    \n  \n\n  https://www.facebook.com/934483560050621/posts/659174780914835#liked-by-10155827433270746",
+        "like-of": "https://tomasparks.github.io//gallery/album-2016-6-27.html",
+        "wm-property": "like-of",
+        "wm-private": false
+    },
+    {
+        "type": "entry",
+        "author": {
+            "type": "card",
+            "name": "James Dykes",
+            "photo": "https://webmention.io/avatar/graph.facebook.com/ed6d16e70ae08716bf035f826ce1ccecc185e925f861d4e00d9181181da2276e.jpg",
+            "url": "https://www.facebook.com/10155192890194151"
+        },
+        "url": "https://www.facebook.com/934483560050621/posts/659174780914835#liked-by-10155192890194151",
+        "published": null,
+        "wm-received": "2018-01-25T23:09:02Z",
+        "wm-id": 491073,
+        "wm-source": "https://brid-gy.appspot.com/like/facebook/934483560050621/659174780914835/10155192890194151",
+        "wm-target": "https://tomasparks.github.io//gallery/album-2016-6-27.html",
+        "name": "tag:facebook.com,2013:659174780914835_liked_by_10155192890194151\n  \n  \n  \n  \n     \n \n    James Dykes\n    \n    \n  \n\n  https://www.facebook.com/934483560050621/posts/659174780914835#liked-by-10155192890194151",
+        "like-of": "https://tomasparks.github.io//gallery/album-2016-6-27.html",
+        "wm-property": "like-of",
+        "wm-private": false
+    },
+    {
+        "type": "entry",
+        "author": {
+            "type": "card",
+            "name": "James Dykes",
+            "photo": "https://webmention.io/avatar/graph.facebook.com/ed6d16e70ae08716bf035f826ce1ccecc185e925f861d4e00d9181181da2276e.jpg",
+            "url": "https://www.facebook.com/10155192890194151"
+        },
+        "url": "https://www.facebook.com/934483560050621/posts/659174780914835#liked-by-10155192890194151",
+        "published": null,
+        "wm-received": "2018-01-25T23:09:02Z",
+        "wm-id": 491074,
+        "wm-source": "https://brid-gy.appspot.com/like/facebook/934483560050621/659174780914835/10155192890194151",
+        "wm-target": "https://tomasparks.github.io//gallery/bef751ed86f31a78952da34e916489f79dc4c529.html",
+        "name": "tag:facebook.com,2013:659174780914835_liked_by_10155192890194151\n  \n  \n  \n  \n     \n \n    James Dykes\n    \n    \n  \n\n  https://www.facebook.com/934483560050621/posts/659174780914835#liked-by-10155192890194151",
+        "like-of": "https://tomasparks.github.io//gallery/bef751ed86f31a78952da34e916489f79dc4c529.html",
+        "wm-property": "like-of",
+        "wm-private": false
+    },
+    {
+        "type": "entry",
+        "author": {
+            "type": "card",
+            "name": "Melissa Nairn",
+            "photo": "https://webmention.io/avatar/graph.facebook.com/fe28de4c55ca1c3df46e7586f78f6dee4505b20b1c8cd8bb0e66df5e9fe8883d.jpg",
+            "url": "https://www.facebook.com/10155807259703234"
+        },
+        "url": "https://www.facebook.com/934483560050621/posts/659174780914835#liked-by-10155807259703234",
+        "published": null,
+        "wm-received": "2018-01-25T23:08:41Z",
+        "wm-id": 491071,
+        "wm-source": "https://brid-gy.appspot.com/like/facebook/934483560050621/659174780914835/10155807259703234",
+        "wm-target": "https://tomasparks.github.io//gallery/album-2016-6-27.html",
+        "name": "tag:facebook.com,2013:659174780914835_liked_by_10155807259703234\n  \n  \n  \n  \n     \n \n    Melissa Nairn\n    \n    \n  \n\n  https://www.facebook.com/934483560050621/posts/659174780914835#liked-by-10155807259703234",
+        "like-of": "https://tomasparks.github.io//gallery/album-2016-6-27.html",
+        "wm-property": "like-of",
+        "wm-private": false
+    },
+    {
+        "type": "entry",
+        "author": {
+            "type": "card",
+            "name": "Melissa Nairn",
+            "photo": "https://webmention.io/avatar/graph.facebook.com/fe28de4c55ca1c3df46e7586f78f6dee4505b20b1c8cd8bb0e66df5e9fe8883d.jpg",
+            "url": "https://www.facebook.com/10155807259703234"
+        },
+        "url": "https://www.facebook.com/934483560050621/posts/659174780914835#liked-by-10155807259703234",
+        "published": null,
+        "wm-received": "2018-01-25T23:08:41Z",
+        "wm-id": 491072,
+        "wm-source": "https://brid-gy.appspot.com/like/facebook/934483560050621/659174780914835/10155807259703234",
+        "wm-target": "https://tomasparks.github.io//gallery/bef751ed86f31a78952da34e916489f79dc4c529.html",
+        "name": "tag:facebook.com,2013:659174780914835_liked_by_10155807259703234\n  \n  \n  \n  \n     \n \n    Melissa Nairn\n    \n    \n  \n\n  https://www.facebook.com/934483560050621/posts/659174780914835#liked-by-10155807259703234",
+        "like-of": "https://tomasparks.github.io//gallery/bef751ed86f31a78952da34e916489f79dc4c529.html",
+        "wm-property": "like-of",
+        "wm-private": false
+    },
+    {
+        "type": "entry",
+        "author": {
+            "type": "card",
+            "name": "Tanya Brumm",
+            "photo": "https://webmention.io/avatar/graph.facebook.com/3ac70ca0130f0c358b2bc36feac113f0a71817af478f2b2316ee1a10c2f6a5c6.jpg",
+            "url": "https://www.facebook.com/10214834045110946"
+        },
+        "url": "https://www.facebook.com/934483560050621/posts/659174780914835#liked-by-10214834045110946",
+        "published": null,
+        "wm-received": "2018-01-25T23:08:25Z",
+        "wm-id": 491069,
+        "wm-source": "https://brid-gy.appspot.com/like/facebook/934483560050621/659174780914835/10214834045110946",
+        "wm-target": "https://tomasparks.github.io//gallery/bef751ed86f31a78952da34e916489f79dc4c529.html",
+        "name": "tag:facebook.com,2013:659174780914835_liked_by_10214834045110946\n  \n  \n  \n  \n     \n \n    Tanya Brumm\n    \n    \n  \n\n  https://www.facebook.com/934483560050621/posts/659174780914835#liked-by-10214834045110946",
+        "like-of": "https://tomasparks.github.io//gallery/bef751ed86f31a78952da34e916489f79dc4c529.html",
+        "wm-property": "like-of",
+        "wm-private": false
+    },
+    {
+        "type": "entry",
+        "author": {
+            "type": "card",
+            "name": "Tanya Brumm",
+            "photo": "https://webmention.io/avatar/graph.facebook.com/3ac70ca0130f0c358b2bc36feac113f0a71817af478f2b2316ee1a10c2f6a5c6.jpg",
+            "url": "https://www.facebook.com/10214834045110946"
+        },
+        "url": "https://www.facebook.com/934483560050621/posts/659174780914835#liked-by-10214834045110946",
+        "published": null,
+        "wm-received": "2018-01-25T23:08:25Z",
+        "wm-id": 491070,
+        "wm-source": "https://brid-gy.appspot.com/like/facebook/934483560050621/659174780914835/10214834045110946",
+        "wm-target": "https://tomasparks.github.io//gallery/album-2016-6-27.html",
+        "name": "tag:facebook.com,2013:659174780914835_liked_by_10214834045110946\n  \n  \n  \n  \n     \n \n    Tanya Brumm\n    \n    \n  \n\n  https://www.facebook.com/934483560050621/posts/659174780914835#liked-by-10214834045110946",
+        "like-of": "https://tomasparks.github.io//gallery/album-2016-6-27.html",
         "wm-property": "like-of",
         "wm-private": false
     },
@@ -705,6 +1044,131 @@
         "name": "tag:facebook.com,2013:730687953763517_liked_by_1490258021020742\n  \n  \n  \n  \n     \n \n    Sue Maynes\n    \n    \n  \n\n  https://www.facebook.com/934483560050621/posts/730687953763517#liked-by-1490258021020742",
         "like-of": "https://tomasparks.github.io//notes/twitter/2017/10/09/7d08a0a3f6d75fb60d4329170fbbf6e07b11988e.html",
         "wm-property": "like-of",
+        "wm-private": false
+    },
+    {
+        "type": "entry",
+        "author": {
+            "type": "card",
+            "name": "gRegor Morrill",
+            "photo": "https://webmention.io/avatar/gregorlove.com/1dfe16005864a9fc9564a3884378cdc89abd66b173ed10bce2ac60ed782dab01.jpeg",
+            "url": "https://gregorlove.com/"
+        },
+        "url": "https://gregorlove.com/2017/12/do-you-mean-to-have/",
+        "published": "2017-12-31T14:43:00-08:00",
+        "wm-received": "2017-12-31T22:43:40Z",
+        "wm-id": 484093,
+        "wm-source": "https://gregorlove.com/2017/12/do-you-mean-to-have/",
+        "wm-target": "https://tomasparks.github.io//archive/2017/12/rhythmbox-notes-system.html",
+        "content": {
+            "content-type": "text/html",
+            "value": "<p>Do you mean to have the key and secret at the top of these code samples? :]</p>",
+            "html": "<p>Do you mean to have the key and secret at the top of these code samples? :]</p>",
+            "text": "Do you mean to have the key and secret at the top of these code samples? :]"
+        },
+        "in-reply-to": "https://tomasparks.github.io//archive/2017/12/rhythmbox-notes-system.html",
+        "wm-property": "in-reply-to",
+        "wm-private": false
+    },
+    {
+        "type": "entry",
+        "author": {
+            "type": "card",
+            "name": "Tom Sparks",
+            "photo": "https://webmention.io/avatar/pbs.twimg.com/84a01d68484d1a83502b69db5b2aa85a2dfe38afcf79c86e6e588b7c8e775351.jpg",
+            "url": "https://twitter.com/tomasparksts"
+        },
+        "url": "https://twitter.com/tomasparksts/status/1128302698464464896",
+        "published": "2019-05-14T14:15:00+00:00",
+        "wm-received": "2019-05-16T06:58:06Z",
+        "wm-id": 614607,
+        "wm-source": "https://brid-gy.appspot.com/post/twitter/tomasparksts/1128302698464464896",
+        "wm-target": "https://tomasparks.name/miniatures/notebook/2018/11/endoscope-camera-rig.html",
+        "photo": [
+            "https://pbs.twimg.com/media/D6iJUM2W4AAowdk.jpg",
+            "https://pbs.twimg.com/media/D6iJUYdWAAAoV3G.png",
+            "https://pbs.twimg.com/media/D6iJUkKWAAEFO8O.png",
+            "https://pbs.twimg.com/media/D6iJUv9X4AAwBoi.png"
+        ],
+        "content": {
+            "html": "Endoscope Camera Rig: <a href=\"https://tomasparks.name/miniatures/notebook/2018/11/endoscope-camera-rig.html\">tomasparks.name/miniatures/not\u2026</a>",
+            "text": "Endoscope Camera Rig: tomasparks.name/miniatures/not\u2026"
+        },
+        "mention-of": "https://tomasparks.name/miniatures/notebook/2018/11/endoscope-camera-rig.html",
+        "wm-property": "mention-of",
+        "wm-private": false
+    },
+    {
+        "type": "entry",
+        "author": {
+            "type": "card",
+            "name": "Tom Sparks",
+            "photo": "https://webmention.io/avatar/pbs.twimg.com/84a01d68484d1a83502b69db5b2aa85a2dfe38afcf79c86e6e588b7c8e775351.jpg",
+            "url": "https://twitter.com/tomasparksts"
+        },
+        "url": "https://twitter.com/tomasparksts/status/1128304143708446720",
+        "published": "2019-05-14T14:20:45+00:00",
+        "wm-received": "2019-05-16T06:57:06Z",
+        "wm-id": 614606,
+        "wm-source": "https://brid-gy.appspot.com/post/twitter/tomasparksts/1128304143708446720",
+        "wm-target": "https://tomasparks.name/miniatures/notebook/2018/11/streetview-diorama-update.html",
+        "photo": [
+            "https://pbs.twimg.com/media/D6iKoxGW0AA82B7.jpg"
+        ],
+        "content": {
+            "html": "Creating a Streetview for Dioramas UPDATE: <a href=\"https://tomasparks.name/miniatures/notebook/2018/11/streetview-diorama-update.html\">tomasparks.name/miniatures/not\u2026</a>",
+            "text": "Creating a Streetview for Dioramas UPDATE: tomasparks.name/miniatures/not\u2026"
+        },
+        "mention-of": "https://tomasparks.name/miniatures/notebook/2018/11/streetview-diorama-update.html",
+        "wm-property": "mention-of",
+        "wm-private": false
+    },
+    {
+        "type": "entry",
+        "author": {
+            "type": "card",
+            "name": "Tom Sparks",
+            "photo": "https://webmention.io/avatar/pbs.twimg.com/84a01d68484d1a83502b69db5b2aa85a2dfe38afcf79c86e6e588b7c8e775351.jpg",
+            "url": "https://twitter.com/tomasparksts"
+        },
+        "url": "https://twitter.com/tomasparksts/status/1127910525264891906",
+        "published": "2019-05-13T12:16:39+00:00",
+        "wm-received": "2019-05-16T06:50:59Z",
+        "wm-id": 614605,
+        "wm-source": "https://brid-gy.appspot.com/post/twitter/tomasparksts/1127910525264891906",
+        "wm-target": "https://tomasparks.name/miniatures/build-log/imperial-city/2018/12/28/imperialcity.html",
+        "content": {
+            "html": "Imperial City: <a href=\"https://tomasparks.name/miniatures/build-log/imperial-city/2018/12/28/imperialcity.html\">tomasparks.name/miniatures/bui\u2026</a>",
+            "text": "Imperial City: tomasparks.name/miniatures/bui\u2026"
+        },
+        "mention-of": "https://tomasparks.name/miniatures/build-log/imperial-city/2018/12/28/imperialcity.html",
+        "wm-property": "mention-of",
+        "wm-private": false
+    },
+    {
+        "type": "entry",
+        "author": {
+            "type": "card",
+            "name": "Tom Sparks",
+            "photo": "",
+            "url": "https://tomasparks.name/"
+        },
+        "url": "https://tomasparks.name/miniatures/notebook/2019/05/slashdot.html",
+        "published": "2019-05-10T00:00:00+10:00",
+        "wm-received": "2019-05-16T06:39:28Z",
+        "wm-id": 614604,
+        "wm-source": "https://tomasparks.name/miniatures/notebook/2019/05/slashdot.html",
+        "wm-target": "https://tomasparks.name/",
+        "name": "How I plan on dealing with the Slashdot effect",
+        "syndication": [
+            "https://twitter.com/tomasparksts/status/1127175106265067520"
+        ],
+        "content": {
+            "html": "<blockquote>\n  <p>The Slashdot effect, also known as slashdotting, occurs when a popular website links to a smaller website, causing a massive increase in traffic. This overloads the smaller site, causing it to slow down or even temporarily become unavailable. The name stems from the huge influx of web traffic which would result from the technology news site Slashdot linking to websites. The original circumstances have changed, as flash crowds from Slashdot were reported in 2005 to be diminishing due to competition from similar sites, and the general adoption of elastically scalable cloud hosting platforms. The effect has been associated with other websites or metablogs such as Fark, Digg, Drudge Report, Imgur, Reddit, and Twitter, leading to terms such as being \u201cfarked\u201d or \u201cdrudged\u201d, being under the \u201cReddit effect\u201d\u2014or receiving a \u201chug of death\u201d from the site in question. Google Doodles, which link to search results on the doodle topic, also result in high increases of traffic from the search results page. Typically, less robust sites are unable to cope with the huge increase in traffic and become unavailable \u2013 common causes are lack of sufficient data bandwidth, servers that fail to cope with the high number of requests, and traffic quotas. Sites that are maintained on shared hosting services often fail when confronted with the Slashdot effect.\nA flash crowd is a more generic term without using any specific name that describes a network phenomenon where a network or host suddenly receives a lot of traffic. This is sometimes due to the appearance of a website on a blog or news column.</p>\n</blockquote>\n\n<p><a href=\"https://en.wikipedia.org/wiki/Slashdot_effect\">https://en.wikipedia.org/wiki/Slashdot_effect</a></p>\n\n<p>To deal with the Slashdot effect, I am using <a href=\"https://webtorrent.io/\">webtorrent</a> in two areas: Video and images.</p>\n\n<h3>Videos</h3>\n\n<p>the <a href=\"https://github.com/webtorrent/webtorrent/\">webtorrent communtiy</a> has devopled two methods for share video via webtorrent, that dose not need extra server side software<a href=\"#fn:1\">1</a></p>\n\n<ol>\n  <li>Webtorrent\u2019s file.appendTo()</li>\n  <li>\n<a href=\"https://github.com/novage/p2p-media-loader\">p2p-media-loader</a>: webtorrent to HLS</li>\n</ol>\n\n<h3>images</h3>\n\n<h4>Krpano</h4>\n\n<p>there was no know implementation of using krpano with webtorrent from the <a href=\"https://krpano.com/forum/wbb/index.php?l=2\">Krpano community</a>.</p>\n\n<p>I am the first to try see the <a href=\"https://tomasparks.name/krpano-and-webtorrent/index.html\">demo</a> or <a href=\"https://github.com/tomasparks/krpano-and-webtorrent\">source code</a>.\nsadly due to a bug in krpano the project has stalled :(</p>\n\n<h4>Deepzoom / map</h4>\n\n<p>I was able to find <a href=\"https://github.com/himynameismartin/L.TileLayer.Tomato\">WebTorrent Map Tiles Provider for Leaflet</a>,\nbut the one image per <a href=\"https://en.wikipedia.org/wiki/Magnet_URI_scheme\">magnet link</a> is a very poor use of the bittorrent protocol.</p>\n\n\n  <ol>\n    <li>\n      <p>excluding <a href=\"https://en.wikipedia.org/wiki/BitTorrent_tracker\">webtorrent tracker</a> and <a href=\"https://www.npmjs.com/package/webtorrent-hybrid\">webtorrent-hybrid</a>\u00a0<a href=\"#fnref:1\">\u21a9</a></p>\n    </li>\n  </ol>",
+            "text": "The Slashdot effect, also known as slashdotting, occurs when a popular website links to a smaller website, causing a massive increase in traffic. This overloads the smaller site, causing it to slow down or even temporarily become unavailable. The name stems from the huge influx of web traffic which would result from the technology news site Slashdot linking to websites. The original circumstances have changed, as flash crowds from Slashdot were reported in 2005 to be diminishing due to competition from similar sites, and the general adoption of elastically scalable cloud hosting platforms. The effect has been associated with other websites or metablogs such as Fark, Digg, Drudge Report, Imgur, Reddit, and Twitter, leading to terms such as being \u201cfarked\u201d or \u201cdrudged\u201d, being under the \u201cReddit effect\u201d\u2014or receiving a \u201chug of death\u201d from the site in question. Google Doodles, which link to search results on the doodle topic, also result in high increases of traffic from the search results page. Typically, less robust sites are unable to cope with the huge increase in traffic and become unavailable \u2013 common causes are lack of sufficient data bandwidth, servers that fail to cope with the high number of requests, and traffic quotas. Sites that are maintained on shared hosting services often fail when confronted with the Slashdot effect.\nA flash crowd is a more generic term without using any specific name that describes a network phenomenon where a network or host suddenly receives a lot of traffic. This is sometimes due to the appearance of a website on a blog or news column.\n\n\nhttps://en.wikipedia.org/wiki/Slashdot_effect\n\nTo deal with the Slashdot effect, I am using webtorrent in two areas: Video and images.\n\nVideos\n\nthe webtorrent communtiy has devopled two methods for share video via webtorrent, that dose not need extra server side software1\n\n\n  Webtorrent\u2019s file.appendTo()\n  \np2p-media-loader: webtorrent to HLS\n\n\nimages\n\nKrpano\n\nthere was no know implementation of using krpano with webtorrent from the Krpano community.\n\nI am the first to try see the demo or source code.\nsadly due to a bug in krpano the project has stalled :(\n\nDeepzoom / map\n\nI was able to find WebTorrent Map Tiles Provider for Leaflet,\nbut the one image per magnet link is a very poor use of the bittorrent protocol.\n\n\n  \n    \n      excluding webtorrent tracker and webtorrent-hybrid\u00a0\u21a9"
+        },
+        "mention-of": "https://tomasparks.name/",
+        "wm-property": "mention-of",
         "wm-private": false
     }
 ]
