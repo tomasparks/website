@@ -99,26 +99,4 @@
     name: Tom Sparks
     url: https://twitter.com/tomasparksts
     photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-- type: entry
-  published: "2019-05-14T12:43:37+00:00"
-  url: https://twitter.com/tomasparksts/status/1128279699581308928
-  category:
-  - https://twitter.com/LegoMastersAU
-  content:
-    text: 'after watch @LegoMastersAU  it has got me wanting to setup my #craft #area
-      #Brickman'
-    html: after watch <a href="https://twitter.com/LegoMastersAU">@LegoMastersAU</a>  it
-      has got me wanting to setup my <a href="https://twitter.com/search?q=%23craft">#craft</a>
-      <a href="https://twitter.com/search?q=%23area">#area</a> <a href="https://twitter.com/search?q=%23Brickman">#Brickman</a>
-  author:
-    type: card
-    name: Tom Sparks
-    url: https://twitter.com/tomasparksts
-    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-  refs:
-    https://twitter.com/LegoMastersAU:
-      type: card
-      name: LEGO Masters Australia
-      url: https://twitter.com/LegoMastersAU
-      photo: ~
 ...

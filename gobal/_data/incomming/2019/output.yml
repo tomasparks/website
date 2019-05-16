@@ -3,6 +3,21 @@
   "05":
     16:
     - type: entry
+      published: "2019-05-16T12:48:24+00:00"
+      url: https://twitter.com/tomasparksts/status/1129005679799394304
+      photo:
+      - https://pbs.twimg.com/media/D6sIrFqXoAAO1qQ.jpg
+      - https://pbs.twimg.com/media/D6sIrdvWsAARBD6.jpg
+      - https://pbs.twimg.com/media/D6sIrp5XoAABeQD.png
+      content:
+        text: "Creating a Deepzoom map for Dioramas: tomasparks.name/miniatures/not\u2026"
+        html: "Creating a Deepzoom map for Dioramas: <a href=\"https://tomasparks.name/miniatures/notebook/2018/10/deepzoom-map.html\">tomasparks.name/miniatures/not\u2026</a>"
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+    - type: entry
       published: "2019-05-16T11:21:40+00:00"
       url: https://twitter.com/tomasparksts/status/1128983850393133056
       category:
@@ -165,26 +180,4 @@
         name: Tom Sparks
         url: https://twitter.com/tomasparksts
         photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-    - type: entry
-      published: "2019-05-14T12:43:37+00:00"
-      url: https://twitter.com/tomasparksts/status/1128279699581308928
-      category:
-      - https://twitter.com/LegoMastersAU
-      content:
-        text: 'after watch @LegoMastersAU  it has got me wanting to setup my #craft
-          #area #Brickman'
-        html: after watch <a href="https://twitter.com/LegoMastersAU">@LegoMastersAU</a>  it
-          has got me wanting to setup my <a href="https://twitter.com/search?q=%23craft">#craft</a>
-          <a href="https://twitter.com/search?q=%23area">#area</a> <a href="https://twitter.com/search?q=%23Brickman">#Brickman</a>
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-      refs:
-        https://twitter.com/LegoMastersAU:
-          type: card
-          name: LEGO Masters Australia
-          url: https://twitter.com/LegoMastersAU
-          photo: ~
 ...
