@@ -1,5 +1,5 @@
-{
-    "0": {
+[
+    {
         "type": "entry",
         "author": {
             "type": "card",
@@ -27,7 +27,7 @@
         "wm-property": "mention-of",
         "wm-private": false
     },
-    "1": {
+    {
         "type": "entry",
         "author": {
             "type": "card",
@@ -52,7 +52,7 @@
         "wm-property": "mention-of",
         "wm-private": false
     },
-    "2": {
+    {
         "type": "entry",
         "author": {
             "type": "card",
@@ -74,7 +74,7 @@
         "wm-property": "mention-of",
         "wm-private": false
     },
-    "3": {
+    {
         "type": "entry",
         "author": {
             "type": "card",
@@ -99,124 +99,5 @@
         "mention-of": "https://tomasparks.name/",
         "wm-property": "mention-of",
         "wm-private": false
-    },
-    "4": {
-        "type": "entry",
-        "author": {
-            "type": "card",
-            "name": "Tom Sparks",
-            "photo": "https://webmention.io/avatar/pbs.twimg.com/84a01d68484d1a83502b69db5b2aa85a2dfe38afcf79c86e6e588b7c8e775351.jpg",
-            "url": "https://twitter.com/tomasparksts"
-        },
-        "url": "https://twitter.com/tomasparksts/status/1128302698464464896",
-        "published": "2019-05-14T14:15:00+00:00",
-        "wm-received": "2019-05-16T06:58:06Z",
-        "wm-id": 614607,
-        "wm-source": "https://brid-gy.appspot.com/post/twitter/tomasparksts/1128302698464464896",
-        "wm-target": "https://tomasparks.name/miniatures/notebook/2018/11/endoscope-camera-rig.html",
-        "photo": [
-            "https://pbs.twimg.com/media/D6iJUM2W4AAowdk.jpg",
-            "https://pbs.twimg.com/media/D6iJUYdWAAAoV3G.png",
-            "https://pbs.twimg.com/media/D6iJUkKWAAEFO8O.png",
-            "https://pbs.twimg.com/media/D6iJUv9X4AAwBoi.png"
-        ],
-        "content": {
-            "html": "Endoscope Camera Rig: <a href=\"https://tomasparks.name/miniatures/notebook/2018/11/endoscope-camera-rig.html\">tomasparks.name/miniatures/not\u2026</a>",
-            "text": "Endoscope Camera Rig: tomasparks.name/miniatures/not\u2026"
-        },
-        "mention-of": "https://tomasparks.name/miniatures/notebook/2018/11/endoscope-camera-rig.html",
-        "wm-property": "mention-of",
-        "wm-private": false
-    },
-    "5": {
-        "type": "entry",
-        "author": {
-            "type": "card",
-            "name": "Tom Sparks",
-            "photo": "https://webmention.io/avatar/pbs.twimg.com/84a01d68484d1a83502b69db5b2aa85a2dfe38afcf79c86e6e588b7c8e775351.jpg",
-            "url": "https://twitter.com/tomasparksts"
-        },
-        "url": "https://twitter.com/tomasparksts/status/1128304143708446720",
-        "published": "2019-05-14T14:20:45+00:00",
-        "wm-received": "2019-05-16T06:57:06Z",
-        "wm-id": 614606,
-        "wm-source": "https://brid-gy.appspot.com/post/twitter/tomasparksts/1128304143708446720",
-        "wm-target": "https://tomasparks.name/miniatures/notebook/2018/11/streetview-diorama-update.html",
-        "photo": [
-            "https://pbs.twimg.com/media/D6iKoxGW0AA82B7.jpg"
-        ],
-        "content": {
-            "html": "Creating a Streetview for Dioramas UPDATE: <a href=\"https://tomasparks.name/miniatures/notebook/2018/11/streetview-diorama-update.html\">tomasparks.name/miniatures/not\u2026</a>",
-            "text": "Creating a Streetview for Dioramas UPDATE: tomasparks.name/miniatures/not\u2026"
-        },
-        "mention-of": "https://tomasparks.name/miniatures/notebook/2018/11/streetview-diorama-update.html",
-        "wm-property": "mention-of",
-        "wm-private": false
-    },
-    "6": {
-        "type": "entry",
-        "author": {
-            "type": "card",
-            "name": "Tom Sparks",
-            "photo": "https://webmention.io/avatar/pbs.twimg.com/84a01d68484d1a83502b69db5b2aa85a2dfe38afcf79c86e6e588b7c8e775351.jpg",
-            "url": "https://twitter.com/tomasparksts"
-        },
-        "url": "https://twitter.com/tomasparksts/status/1127910525264891906",
-        "published": "2019-05-13T12:16:39+00:00",
-        "wm-received": "2019-05-16T06:50:59Z",
-        "wm-id": 614605,
-        "wm-source": "https://brid-gy.appspot.com/post/twitter/tomasparksts/1127910525264891906",
-        "wm-target": "https://tomasparks.name/miniatures/build-log/imperial-city/2018/12/28/imperialcity.html",
-        "content": {
-            "html": "Imperial City: <a href=\"https://tomasparks.name/miniatures/build-log/imperial-city/2018/12/28/imperialcity.html\">tomasparks.name/miniatures/bui\u2026</a>",
-            "text": "Imperial City: tomasparks.name/miniatures/bui\u2026"
-        },
-        "mention-of": "https://tomasparks.name/miniatures/build-log/imperial-city/2018/12/28/imperialcity.html",
-        "wm-property": "mention-of",
-        "wm-private": false
-    },
-    "7": {
-        "type": "entry",
-        "author": {
-            "type": "card",
-            "name": "Tom Sparks",
-            "photo": "",
-            "url": "https://tomasparks.name/"
-        },
-        "url": "https://tomasparks.name/miniatures/notebook/2019/05/slashdot.html",
-        "published": "2019-05-10T00:00:00+10:00",
-        "wm-received": "2019-05-16T06:39:28Z",
-        "wm-id": 614604,
-        "wm-source": "https://tomasparks.name/miniatures/notebook/2019/05/slashdot.html",
-        "wm-target": "https://tomasparks.name/",
-        "name": "How I plan on dealing with the Slashdot effect",
-        "syndication": [
-            "https://twitter.com/tomasparksts/status/1127175106265067520"
-        ],
-        "content": {
-            "html": "<blockquote>\n  <p>The Slashdot effect, also known as slashdotting, occurs when a popular website links to a smaller website, causing a massive increase in traffic. This overloads the smaller site, causing it to slow down or even temporarily become unavailable. The name stems from the huge influx of web traffic which would result from the technology news site Slashdot linking to websites. The original circumstances have changed, as flash crowds from Slashdot were reported in 2005 to be diminishing due to competition from similar sites, and the general adoption of elastically scalable cloud hosting platforms. The effect has been associated with other websites or metablogs such as Fark, Digg, Drudge Report, Imgur, Reddit, and Twitter, leading to terms such as being \u201cfarked\u201d or \u201cdrudged\u201d, being under the \u201cReddit effect\u201d\u2014or receiving a \u201chug of death\u201d from the site in question. Google Doodles, which link to search results on the doodle topic, also result in high increases of traffic from the search results page. Typically, less robust sites are unable to cope with the huge increase in traffic and become unavailable \u2013 common causes are lack of sufficient data bandwidth, servers that fail to cope with the high number of requests, and traffic quotas. Sites that are maintained on shared hosting services often fail when confronted with the Slashdot effect.\nA flash crowd is a more generic term without using any specific name that describes a network phenomenon where a network or host suddenly receives a lot of traffic. This is sometimes due to the appearance of a website on a blog or news column.</p>\n</blockquote>\n\n<p><a href=\"https://en.wikipedia.org/wiki/Slashdot_effect\">https://en.wikipedia.org/wiki/Slashdot_effect</a></p>\n\n<p>To deal with the Slashdot effect, I am using <a href=\"https://webtorrent.io/\">webtorrent</a> in two areas: Video and images.</p>\n\n<h3>Videos</h3>\n\n<p>the <a href=\"https://github.com/webtorrent/webtorrent/\">webtorrent communtiy</a> has devopled two methods for share video via webtorrent, that dose not need extra server side software<a href=\"#fn:1\">1</a></p>\n\n<ol>\n  <li>Webtorrent\u2019s file.appendTo()</li>\n  <li>\n<a href=\"https://github.com/novage/p2p-media-loader\">p2p-media-loader</a>: webtorrent to HLS</li>\n</ol>\n\n<h3>images</h3>\n\n<h4>Krpano</h4>\n\n<p>there was no know implementation of using krpano with webtorrent from the <a href=\"https://krpano.com/forum/wbb/index.php?l=2\">Krpano community</a>.</p>\n\n<p>I am the first to try see the <a href=\"https://tomasparks.name/krpano-and-webtorrent/index.html\">demo</a> or <a href=\"https://github.com/tomasparks/krpano-and-webtorrent\">source code</a>.\nsadly due to a bug in krpano the project has stalled :(</p>\n\n<h4>Deepzoom / map</h4>\n\n<p>I was able to find <a href=\"https://github.com/himynameismartin/L.TileLayer.Tomato\">WebTorrent Map Tiles Provider for Leaflet</a>,\nbut the one image per <a href=\"https://en.wikipedia.org/wiki/Magnet_URI_scheme\">magnet link</a> is a very poor use of the bittorrent protocol.</p>\n\n\n  <ol>\n    <li>\n      <p>excluding <a href=\"https://en.wikipedia.org/wiki/BitTorrent_tracker\">webtorrent tracker</a> and <a href=\"https://www.npmjs.com/package/webtorrent-hybrid\">webtorrent-hybrid</a>\u00a0<a href=\"#fnref:1\">\u21a9</a></p>\n    </li>\n  </ol>",
-            "text": "The Slashdot effect, also known as slashdotting, occurs when a popular website links to a smaller website, causing a massive increase in traffic. This overloads the smaller site, causing it to slow down or even temporarily become unavailable. The name stems from the huge influx of web traffic which would result from the technology news site Slashdot linking to websites. The original circumstances have changed, as flash crowds from Slashdot were reported in 2005 to be diminishing due to competition from similar sites, and the general adoption of elastically scalable cloud hosting platforms. The effect has been associated with other websites or metablogs such as Fark, Digg, Drudge Report, Imgur, Reddit, and Twitter, leading to terms such as being \u201cfarked\u201d or \u201cdrudged\u201d, being under the \u201cReddit effect\u201d\u2014or receiving a \u201chug of death\u201d from the site in question. Google Doodles, which link to search results on the doodle topic, also result in high increases of traffic from the search results page. Typically, less robust sites are unable to cope with the huge increase in traffic and become unavailable \u2013 common causes are lack of sufficient data bandwidth, servers that fail to cope with the high number of requests, and traffic quotas. Sites that are maintained on shared hosting services often fail when confronted with the Slashdot effect.\nA flash crowd is a more generic term without using any specific name that describes a network phenomenon where a network or host suddenly receives a lot of traffic. This is sometimes due to the appearance of a website on a blog or news column.\n\n\nhttps://en.wikipedia.org/wiki/Slashdot_effect\n\nTo deal with the Slashdot effect, I am using webtorrent in two areas: Video and images.\n\nVideos\n\nthe webtorrent communtiy has devopled two methods for share video via webtorrent, that dose not need extra server side software1\n\n\n  Webtorrent\u2019s file.appendTo()\n  \np2p-media-loader: webtorrent to HLS\n\n\nimages\n\nKrpano\n\nthere was no know implementation of using krpano with webtorrent from the Krpano community.\n\nI am the first to try see the demo or source code.\nsadly due to a bug in krpano the project has stalled :(\n\nDeepzoom / map\n\nI was able to find WebTorrent Map Tiles Provider for Leaflet,\nbut the one image per magnet link is a very poor use of the bittorrent protocol.\n\n\n  \n    \n      excluding webtorrent tracker and webtorrent-hybrid\u00a0\u21a9"
-        },
-        "mention-of": "https://tomasparks.name/",
-        "wm-property": "mention-of",
-        "wm-private": false
-    },
-    "12": {
-        "type": "entry",
-        "author": {
-            "type": "card",
-            "name": "Tom Sparks",
-            "photo": "https://webmention.io/avatar/pbs.twimg.com/84a01d68484d1a83502b69db5b2aa85a2dfe38afcf79c86e6e588b7c8e775351.jpg",
-            "url": "https://twitter.com/tomasparksts"
-        },
-        "url": "https://twitter.com/tomasparksts/status/1128320538491834368",
-        "published": "2019-05-14T15:25:54+00:00",
-        "content": [
-            {
-                "html": "wow! <a href=\"https://twitter.com/search?q=%23minecraft\">#minecraft</a> <a href=\"https://twitter.com/ElderScrolls\">@ElderScrolls</a> <a href=\"https://twitter.com/search?q=%23Oblivion\">#Oblivion</a> <a href=\"https://twitter.com/search?q=%23ImperialCity\">#ImperialCity</a><br />\n<a href=\"https://www.planetminecraft.com/project/oblivion-imperial-city-400638/\">planetminecraft.com/project/oblivi\u2026</a>",
-                "value": "wow! #minecraft @ElderScrolls #Oblivion #ImperialCity\nplanetminecraft.com/project/oblivi\u2026"
-            }
-        ],
-        "in-reply-to": "https://twitter.com/tomasparksts/status/1127910525264891906"
     }
-}
+]
