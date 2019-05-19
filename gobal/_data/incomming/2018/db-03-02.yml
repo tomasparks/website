@@ -66,7 +66,7 @@
     text: ' \ud83c\udfa7 Listened to Can You Increase Privacy By Increasing Surveillance?
       by Techdirt From Techdirt'
 - type: entry
-  published: "2018-03-02T20:27:33+00:00"
+  published: "2018-03-02T21:35:13+00:00"
   category:
   - scrobble
   - audio
@@ -77,15 +77,14 @@
       url: https://www.techdirt.com/podcast.xml
       photo: ""
       audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/179851165-techdirt-amanda-palmer-and-the-art-of-asking.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/179851165-techdirt-amanda-palmer-and-the-art-of-asking.mp3
-      name: Amanda Palmer And The Art Of Asking
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/181063632-techdirt-in-defense-of-advertising.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/181063632-techdirt-in-defense-of-advertising.mp3
+      name: In Defense Of Advertising
       author: Techdirt
-      content: Amanda Palmer drops by to discuss her new book The Art Of Asking with
-        Mike Masnick, Hersh Reddy and Dennis Yang in Episode 3 of the Techdirt Podcast.
+      content: Mike Masnick, Hersh Reddy and Dennis Yang look beyond the kneejerk
+        reaction that "all advertising is bad" in Episode 4 of the Techdirt Podcast.
   content:
-    text: ' \ud83c\udfa7 Listened to Amanda Palmer And The Art Of Asking by Techdirt
-      From Techdirt'
+    text: ' \ud83c\udfa7 Listened to In Defense Of Advertising by Techdirt From Techdirt'
 - type: entry
   published: "2018-03-02T19:07:35+00:00"
   category:
@@ -108,7 +107,7 @@
     text: ' \ud83c\udfa7 Listened to Privacy And User Control, With Brad Burnham by
       Techdirt From Techdirt'
 - type: entry
-  published: "2018-03-02T21:35:13+00:00"
+  published: "2018-03-02T20:27:33+00:00"
   category:
   - scrobble
   - audio
@@ -119,12 +118,13 @@
       url: https://www.techdirt.com/podcast.xml
       photo: ""
       audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/181063632-techdirt-in-defense-of-advertising.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/181063632-techdirt-in-defense-of-advertising.mp3
-      name: In Defense Of Advertising
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/179851165-techdirt-amanda-palmer-and-the-art-of-asking.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/179851165-techdirt-amanda-palmer-and-the-art-of-asking.mp3
+      name: Amanda Palmer And The Art Of Asking
       author: Techdirt
-      content: Mike Masnick, Hersh Reddy and Dennis Yang look beyond the kneejerk
-        reaction that "all advertising is bad" in Episode 4 of the Techdirt Podcast.
+      content: Amanda Palmer drops by to discuss her new book The Art Of Asking with
+        Mike Masnick, Hersh Reddy and Dennis Yang in Episode 3 of the Techdirt Podcast.
   content:
-    text: ' \ud83c\udfa7 Listened to In Defense Of Advertising by Techdirt From Techdirt'
+    text: ' \ud83c\udfa7 Listened to Amanda Palmer And The Art Of Asking by Techdirt
+      From Techdirt'
 ...

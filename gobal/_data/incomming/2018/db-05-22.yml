@@ -1,6 +1,6 @@
 ---
 - type: entry
-  published: "2018-05-22T10:37:18+00:00"
+  published: "2018-05-22T20:24:33+00:00"
   category:
   - scrobble
   - audio
@@ -11,16 +11,16 @@
       url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20110915.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Farmers_tales_shavedhead_hair_and_quantum_physics_and_God.mp3
-      name: Farmer's tales, shaved-head hair, and quantum physics and God
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20110825.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Green_tomatoes_vegans_and_static_shock.mp3
+      name: Green tomatoes, vegans and static shock
       author: ABC Science
-      content: What happens when fruit and vegetables cross-pollinate? Why does my
-        hair appear to grow quicker now I shave my head? Does quantum physics imply
-        the existence of a God?
+      content: How do you get green tomatoes to ripen quickly? Can people on a vegan
+        diet receive the same amount of nutrients as meat-eaters? Can static shocks
+        through headphones be dangerous?
   content:
-    text: ' \ud83c\udfa7 Listened to Farmer''s tales, shaved-head hair, and quantum
-      physics and God by ABC Science From Dr Karl on triplej'
+    text: ' \ud83c\udfa7 Listened to Green tomatoes, vegans and static shock by ABC
+      Science From Dr Karl on triplej'
 - type: entry
   published: "2018-05-22T21:03:55+00:00"
   category:
@@ -44,28 +44,6 @@
     text: ' \ud83c\udfa7 Listened to Itchy ankles, swelling cheeks and bellybutton
       fluff by ABC Science From Dr Karl on triplej'
 - type: entry
-  published: "2018-05-22T20:24:33+00:00"
-  category:
-  - scrobble
-  - audio
-  - Dr Karl on triplej
-  - ABC Science
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20110825.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Green_tomatoes_vegans_and_static_shock.mp3
-      name: Green tomatoes, vegans and static shock
-      author: ABC Science
-      content: How do you get green tomatoes to ripen quickly? Can people on a vegan
-        diet receive the same amount of nutrients as meat-eaters? Can static shocks
-        through headphones be dangerous?
-  content:
-    text: ' \ud83c\udfa7 Listened to Green tomatoes, vegans and static shock by ABC
-      Science From Dr Karl on triplej'
-- type: entry
   published: "2018-05-22T11:16:02+00:00"
   category:
   - scrobble
@@ -87,4 +65,26 @@
   content:
     text: ' \ud83c\udfa7 Listened to Clean scars, ear plugs and sobering exercise
       by ABC Science From Dr Karl on triplej'
+- type: entry
+  published: "2018-05-22T10:37:18+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl on triplej
+  - ABC Science
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20110915.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Farmers_tales_shavedhead_hair_and_quantum_physics_and_God.mp3
+      name: Farmer's tales, shaved-head hair, and quantum physics and God
+      author: ABC Science
+      content: What happens when fruit and vegetables cross-pollinate? Why does my
+        hair appear to grow quicker now I shave my head? Does quantum physics imply
+        the existence of a God?
+  content:
+    text: ' \ud83c\udfa7 Listened to Farmer''s tales, shaved-head hair, and quantum
+      physics and God by ABC Science From Dr Karl on triplej'
 ...

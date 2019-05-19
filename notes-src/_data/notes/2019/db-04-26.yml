@@ -1,0 +1,22 @@
+---
+- type: entry
+  published: "2019-04-26T23:58:37+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://rpgmp3.com/v5/feed/podcast/
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_55.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_55.mp3
+      name: Kingmaker Session 55
+      author: Hal
+      content: "Episode 55 \u2013 in which Stagthorne passes half a year of relative
+        peace, everyone goes to the theatre and Kaylen learns to Beware The Jabberwock."
+  content:
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 55 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+...

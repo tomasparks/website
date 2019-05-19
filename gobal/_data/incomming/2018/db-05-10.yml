@@ -1,30 +1,5 @@
 ---
 - type: entry
-  published: "2018-05-10T09:35:46+00:00"
-  category:
-  - scrobble
-  - audio
-  - Acquired - Tech Acquisitions & IPOs
-  - Ben Gilbert & David Rosenthal
-  listen-of:
-    h-cite:
-      url: http://www.acquired.fm/episodes?format=RSS
-      photo: ""
-      audio:
-      - http://traffic.libsyn.com/acquired/Acquired_Season_2_Episode_6_-_The_Spotify_Direct_Listing.mp3
-      - http://archive.org/download/Acquired-Podcast-by-Ben_Gilbert_and_David_Rosenthal/Season_2_Episode_6Spotifys_Direct_Listing.mp3
-      name: "Season 2, Episode 6:\_Spotify\u2019s Direct Listing"
-      author: Ben Gilbert & David Rosenthal
-      content: "Acquired wraps up a big few weeks of coverage with not an IPO or an
-        M&A or a fundraising round, but what\u2019s still the largest tech exit in
-        recent memory: Spotify\u2019s $30B direct public listing. We dive into what
-        it all means and how we got here: from Napster to iTunes to Facebook (and
-        even some Justin Timberlake thrown in for good measure). Acquired FM is on
-        the scene and spinning all the hits from this new wave music industry titan!"
-  content:
-    text: " \\ud83c\\udfa7 Listened to Season 2, Episode 6:\_Spotify\u2019s Direct
-      Listing by @gilbert & @djrosent From @AcquiredFM"
-- type: entry
   published: "2018-05-10T12:32:42+00:00"
   category:
   - scrobble
@@ -50,6 +25,31 @@
     text: " \\ud83c\\udfa7 Listened to Season 2, Episode 5:\_The Dropbox IPO by @gilbert
       & @djrosent From @AcquiredFM"
 - type: entry
+  published: "2018-05-10T09:35:46+00:00"
+  category:
+  - scrobble
+  - audio
+  - Acquired - Tech Acquisitions & IPOs
+  - Ben Gilbert & David Rosenthal
+  listen-of:
+    h-cite:
+      url: http://www.acquired.fm/episodes?format=RSS
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/acquired/Acquired_Season_2_Episode_6_-_The_Spotify_Direct_Listing.mp3
+      - http://archive.org/download/Acquired-Podcast-by-Ben_Gilbert_and_David_Rosenthal/Season_2_Episode_6Spotifys_Direct_Listing.mp3
+      name: "Season 2, Episode 6:\_Spotify\u2019s Direct Listing"
+      author: Ben Gilbert & David Rosenthal
+      content: "Acquired wraps up a big few weeks of coverage with not an IPO or an
+        M&A or a fundraising round, but what\u2019s still the largest tech exit in
+        recent memory: Spotify\u2019s $30B direct public listing. We dive into what
+        it all means and how we got here: from Napster to iTunes to Facebook (and
+        even some Justin Timberlake thrown in for good measure). Acquired FM is on
+        the scene and spinning all the hits from this new wave music industry titan!"
+  content:
+    text: " \\ud83c\\udfa7 Listened to Season 2, Episode 6:\_Spotify\u2019s Direct
+      Listing by @gilbert & @djrosent From @AcquiredFM"
+- type: entry
   published: "2018-05-10T03:14:34+00:00"
   category:
   - scrobble
@@ -73,28 +73,6 @@
     text: ' \ud83c\udfa7 Listened to Exclusive: How Microsoft CEO Satya Nadella is
       rethinking Windows by Array From snarfed on Huffduffer'
 - type: entry
-  published: "2018-05-10T04:55:39+00:00"
-  category:
-  - scrobble
-  - audio
-  - Jason Scott Talks His Way Out of It
-  - Jason Scott
-  listen-of:
-    h-cite:
-      url: http://textfiles.libsyn.com/rss
-      photo: ""
-      audio:
-      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_26.mp3?dest-id=574323
-      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Living_Computer_Episode.mp3
-      name: The Living Computer Episode
-      author: Jason Scott
-      content: 'The Living Computers Episode: Talking of the Present, The Living Computers
-        Museum, A Basement Returns, Archives in a Fishbowl, Emulation, World Champion,
-        Presentations, The Future of Disk Packs, I Can''t Do Everything, Thanks Again.'
-  content:
-    text: ' \ud83c\udfa7 Listened to The Living Computer Episode by @textfiles From
-      #JasonScottTalksHisWayOutofIt'
-- type: entry
   published: "2018-05-10T13:11:41+00:00"
   category:
   - scrobble
@@ -116,6 +94,28 @@
   content:
     text: ' \ud83c\udfa7 Listened to Hemp, nicotine and underwater spiders by ABC
       Science From Dr Karl on triplej'
+- type: entry
+  published: "2018-05-10T04:55:39+00:00"
+  category:
+  - scrobble
+  - audio
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
+  listen-of:
+    h-cite:
+      url: http://textfiles.libsyn.com/rss
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_26.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Living_Computer_Episode.mp3
+      name: The Living Computer Episode
+      author: Jason Scott
+      content: 'The Living Computers Episode: Talking of the Present, The Living Computers
+        Museum, A Basement Returns, Archives in a Fishbowl, Emulation, World Champion,
+        Presentations, The Future of Disk Packs, I Can''t Do Everything, Thanks Again.'
+  content:
+    text: ' \ud83c\udfa7 Listened to The Living Computer Episode by @textfiles From
+      #JasonScottTalksHisWayOutofIt'
 - type: entry
   published: "2018-05-10T06:55:29+00:00"
   category:

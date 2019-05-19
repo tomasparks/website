@@ -1,6 +1,6 @@
 ---
 - type: entry
-  published: "2018-05-19T20:44:28+00:00"
+  published: "2018-05-19T20:35:36+00:00"
   category:
   - scrobble
   - audio
@@ -11,13 +11,14 @@
       url: https://percolator.today/podcast.xml
       photo: ""
       audio:
-      - https://percolator.today/redirect.php?url=https%3A%2F%2Fpercolator.today%2Fmedia%2FEpisode_18.mp3
-      - http://archive.org/download/Percolator-Podcast-by-Aaron_Parecki/Episode_18_IndieWebCamp_Baltimore.mp3
-      name: 'Episode 18: IndieWebCamp Baltimore'
+      - https://percolator.today/redirect.php?url=https%3A%2F%2Fpercolator.today%2Fmedia%2FEpisode_20.mp3
+      - http://archive.org/download/Percolator-Podcast-by-Aaron_Parecki/Episode_20_A_Public_Launch_of_Aperture.mp3
+      name: 'Episode 20: A Public Launch of Aperture?'
       author: Aaron Parecki
-      content: IndieWebCamp Baltimore, Smart Cars, and Renaming Monocle to Aperture
+      content: I'd love to be able to share this IndieWeb reading experience with
+        others!
   content:
-    text: ' \ud83c\udfa7 Listened to Episode 18: IndieWebCamp Baltimore by @aaronpk
+    text: ' \ud83c\udfa7 Listened to Episode 20: A Public Launch of Aperture? by @aaronpk
       From Percolator'
 - type: entry
   published: "2018-05-19T20:40:00+00:00"
@@ -40,7 +41,7 @@
     text: ' \ud83c\udfa7 Listened to Episode 19: Soft-Launching Monocle and Aperture
       by @aaronpk From Percolator'
 - type: entry
-  published: "2018-05-19T20:35:36+00:00"
+  published: "2018-05-19T20:44:28+00:00"
   category:
   - scrobble
   - audio
@@ -51,17 +52,16 @@
       url: https://percolator.today/podcast.xml
       photo: ""
       audio:
-      - https://percolator.today/redirect.php?url=https%3A%2F%2Fpercolator.today%2Fmedia%2FEpisode_20.mp3
-      - http://archive.org/download/Percolator-Podcast-by-Aaron_Parecki/Episode_20_A_Public_Launch_of_Aperture.mp3
-      name: 'Episode 20: A Public Launch of Aperture?'
+      - https://percolator.today/redirect.php?url=https%3A%2F%2Fpercolator.today%2Fmedia%2FEpisode_18.mp3
+      - http://archive.org/download/Percolator-Podcast-by-Aaron_Parecki/Episode_18_IndieWebCamp_Baltimore.mp3
+      name: 'Episode 18: IndieWebCamp Baltimore'
       author: Aaron Parecki
-      content: I'd love to be able to share this IndieWeb reading experience with
-        others!
+      content: IndieWebCamp Baltimore, Smart Cars, and Renaming Monocle to Aperture
   content:
-    text: ' \ud83c\udfa7 Listened to Episode 20: A Public Launch of Aperture? by @aaronpk
+    text: ' \ud83c\udfa7 Listened to Episode 18: IndieWebCamp Baltimore by @aaronpk
       From Percolator'
 - type: entry
-  published: "2018-05-19T20:31:42+00:00"
+  published: "2018-05-19T19:52:02+00:00"
   category:
   - scrobble
   - audio
@@ -72,16 +72,16 @@
       url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20111208.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Earbud_headphones_jetlag_and_funny_trivial_things.mp3
-      name: Earbud headphones, jet-lag and funny trivial things
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20120216.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Sex_multiple_orgasms_and_curing_a_morning_glory.mp3
+      name: Sex, multiple orgasms and curing a morning glory
       author: ABC Science
-      content: When using earbud-style headphones, why does the music's pitch seem
-        lower when they're removed? Is there a way to reduce the effects of jet-lag?Why
-        is it when you are extremely tired that trivial things seem very funny?
+      content: As part of triplej's 'sex week', Dr Karl and Zan Rowe take talkback
+        questions ranging from female 'squirting' to male morning glories and having
+        sex during pregnancy.
   content:
-    text: ' \ud83c\udfa7 Listened to Earbud headphones, jet-lag and funny trivial
-      things by ABC Science From Dr Karl on triplej'
+    text: ' \ud83c\udfa7 Listened to Sex, multiple orgasms and curing a morning glory
+      by ABC Science From Dr Karl on triplej'
 - type: entry
   published: "2018-05-19T19:13:39+00:00"
   category:
@@ -127,28 +127,6 @@
     text: ' \ud83c\udfa7 Listened to Peeing on lemon trees, hereditary birth marks
       and yellow sunglasses by ABC Science From Dr Karl on triplej'
 - type: entry
-  published: "2018-05-19T11:53:00+00:00"
-  category:
-  - scrobble
-  - audio
-  - Dr Karl on triplej
-  - ABC Science
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20120329.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/The_science_of_driving.mp3
-      name: The science of driving
-      author: ABC Science
-      content: Why do people get tired when driving? Is it possible to drive a fast
-        car upside-down in a long, circular tunnel? Are your chances of surviving
-        a car accident better if you are asleep and you're body is limp?
-  content:
-    text: ' \ud83c\udfa7 Listened to The science of driving by ABC Science From Dr
-      Karl on triplej'
-- type: entry
   published: "2018-05-19T17:23:07+00:00"
   category:
   - scrobble
@@ -171,28 +149,6 @@
     text: ' \ud83c\udfa7 Listened to Rocking during sleep, morning sickness and coloured
       cat fur by ABC Science From Dr Karl on triplej'
 - type: entry
-  published: "2018-05-19T19:52:02+00:00"
-  category:
-  - scrobble
-  - audio
-  - Dr Karl on triplej
-  - ABC Science
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20120216.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Sex_multiple_orgasms_and_curing_a_morning_glory.mp3
-      name: Sex, multiple orgasms and curing a morning glory
-      author: ABC Science
-      content: As part of triplej's 'sex week', Dr Karl and Zan Rowe take talkback
-        questions ranging from female 'squirting' to male morning glories and having
-        sex during pregnancy.
-  content:
-    text: ' \ud83c\udfa7 Listened to Sex, multiple orgasms and curing a morning glory
-      by ABC Science From Dr Karl on triplej'
-- type: entry
   published: "2018-05-19T18:36:12+00:00"
   category:
   - scrobble
@@ -214,27 +170,6 @@
     text: ' \ud83c\udfa7 Listened to Swallowing chewing gum, taste buds and drinking
       milk by ABC Science From Dr Karl on triplej'
 - type: entry
-  published: "2018-05-19T05:07:00+00:00"
-  category:
-  - scrobble
-  - audio
-  - Dr Karl on triplej
-  - ABC Science
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20150723.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Runny_noses_after_eating_Why_is_urine_yellow_Could_space_be_a_sphere.mp3
-      name: Runny noses after eating? Why is urine yellow? Could space be a sphere?
-      author: ABC Science
-      content: Why does my partner get a runny nose, after eating a hot dinner? Why
-        is urine actually yellow? Could space possibly be a sphere?
-  content:
-    text: ' \ud83c\udfa7 Listened to Runny noses after eating? Why is urine yellow?
-      Could space be a sphere? by ABC Science From Dr Karl on triplej'
-- type: entry
   published: "2018-05-19T04:30:58+00:00"
   category:
   - scrobble
@@ -255,6 +190,71 @@
   content:
     text: ' \ud83c\udfa7 Listened to Big dinosaurs, sun flames, four seasons in one
       day by ABC Science From Dr Karl on triplej'
+- type: entry
+  published: "2018-05-19T11:53:00+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl on triplej
+  - ABC Science
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20120329.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/The_science_of_driving.mp3
+      name: The science of driving
+      author: ABC Science
+      content: Why do people get tired when driving? Is it possible to drive a fast
+        car upside-down in a long, circular tunnel? Are your chances of surviving
+        a car accident better if you are asleep and you're body is limp?
+  content:
+    text: ' \ud83c\udfa7 Listened to The science of driving by ABC Science From Dr
+      Karl on triplej'
+- type: entry
+  published: "2018-05-19T20:31:42+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl on triplej
+  - ABC Science
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20111208.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Earbud_headphones_jetlag_and_funny_trivial_things.mp3
+      name: Earbud headphones, jet-lag and funny trivial things
+      author: ABC Science
+      content: When using earbud-style headphones, why does the music's pitch seem
+        lower when they're removed? Is there a way to reduce the effects of jet-lag?Why
+        is it when you are extremely tired that trivial things seem very funny?
+  content:
+    text: ' \ud83c\udfa7 Listened to Earbud headphones, jet-lag and funny trivial
+      things by ABC Science From Dr Karl on triplej'
+- type: entry
+  published: "2018-05-19T05:07:00+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl on triplej
+  - ABC Science
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20150723.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Runny_noses_after_eating_Why_is_urine_yellow_Could_space_be_a_sphere.mp3
+      name: Runny noses after eating? Why is urine yellow? Could space be a sphere?
+      author: ABC Science
+      content: Why does my partner get a runny nose, after eating a hot dinner? Why
+        is urine actually yellow? Could space possibly be a sphere?
+  content:
+    text: ' \ud83c\udfa7 Listened to Runny noses after eating? Why is urine yellow?
+      Could space be a sphere? by ABC Science From Dr Karl on triplej'
 - type: entry
   published: "2018-05-19T16:32:32+00:00"
   category:

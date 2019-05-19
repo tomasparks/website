@@ -83,32 +83,6 @@
     text: ' \ud83c\udfa7 Listened to What to Expect When You''re Electing by Mozilla
       From IRL - Online Life Is Real Life'
 - type: entry
-  published: "2019-03-23T22:05:48+00:00"
-  category:
-  - scrobble
-  - audio
-  - IRL - Online Life Is Real Life
-  - Mozilla
-  listen-of:
-    h-cite:
-      url: https://feeds.mozilla-podcasts.org/irl
-      photo: ""
-      audio:
-      - https://tracking.feedpress.it/link/17512/10761049/08924a79.mp3
-      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/08924a79.mp3
-      name: Introducing Season 4 of IRL - Online Life is Real Life
-      author: Mozilla
-      content: "Can \u2018ethical tech\u2019 be a thing? We think so. Season 4 of
-        Mozilla\u2019s IRL podcast will explore all the ways tech can have a more
-        positive influence on people, communities, and societies at large. And, we\u2019re
-        delighted to welcome our new host Manoush Zomorodi, who will keep the season
-        nerdy, human, and \u2014 importantly \u2014 fun, for all of us as we listen
-        in.\n\nIRL is an original podcast from Mozilla. For more on the series go
-        to irlpodcast.org\n"
-  content:
-    text: ' \ud83c\udfa7 Listened to Introducing Season 4 of IRL - Online Life is
-      Real Life by Mozilla From IRL - Online Life Is Real Life'
-- type: entry
   published: "2019-03-23T22:35:29+00:00"
   category:
   - scrobble
@@ -137,6 +111,32 @@
   content:
     text: ' \ud83c\udfa7 Listened to Checking Out Online Shopping by Mozilla From
       IRL - Online Life Is Real Life'
+- type: entry
+  published: "2019-03-23T22:05:48+00:00"
+  category:
+  - scrobble
+  - audio
+  - IRL - Online Life Is Real Life
+  - Mozilla
+  listen-of:
+    h-cite:
+      url: https://feeds.mozilla-podcasts.org/irl
+      photo: ""
+      audio:
+      - https://tracking.feedpress.it/link/17512/10761049/08924a79.mp3
+      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/08924a79.mp3
+      name: Introducing Season 4 of IRL - Online Life is Real Life
+      author: Mozilla
+      content: "Can \u2018ethical tech\u2019 be a thing? We think so. Season 4 of
+        Mozilla\u2019s IRL podcast will explore all the ways tech can have a more
+        positive influence on people, communities, and societies at large. And, we\u2019re
+        delighted to welcome our new host Manoush Zomorodi, who will keep the season
+        nerdy, human, and \u2014 importantly \u2014 fun, for all of us as we listen
+        in.\n\nIRL is an original podcast from Mozilla. For more on the series go
+        to irlpodcast.org\n"
+  content:
+    text: ' \ud83c\udfa7 Listened to Introducing Season 4 of IRL - Online Life is
+      Real Life by Mozilla From IRL - Online Life Is Real Life'
 - type: entry
   published: "2019-03-23T23:07:33+00:00"
   category:

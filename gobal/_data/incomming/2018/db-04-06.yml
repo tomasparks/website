@@ -1,5 +1,44 @@
 ---
 - type: entry
+  published: "2018-04-06T12:15:02+00:00"
+  category:
+  - scrobble
+  - audio
+  - Adam Ruins Everything
+  - Adam Ruins Everything
+  listen-of:
+    h-cite:
+      url: http://maximumfun.org/feeds/are.xml
+      photo: ""
+      audio:
+      - http://media.adknit.com/a/f/90/adam-ruins-everything/tnr9ic.1-1.mp3
+      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_43_Professor_Teresa_Ghilarducci_on_the_Future_of_401ks.mp3
+      name: 'Ep 43: Professor Teresa Ghilarducci on the Future of 401(k)s'
+      author: Adam Ruins Everything
+      content: "As humans, our inclination is to live in the present - not save 40
+        years down the line - which makes saving money for retirement hard. In the
+        90s many companies began offering 401(k) programs, a retirement savings plan
+        sponsored by an employer which lets workers save and invest a piece of their
+        paycheck before taxes. It seemed like the perfect solution to our retirement
+        woes. But 401(k)s aren't the full proof saving plan we once thought. Even
+        judiciously setting aside money in a 401(k) might not be enough to maintain
+        one's lifestyle into retirement. There are also so many outside factors that
+        can still diminish one's savings, including unexpected healthcare costs, recessions,
+        or lost jobs. So how do we set ourselves up for a secure financial future?\r\n\r\nOur
+        guest Professor Teresa Ghilarducci, who appeared on Adam Ruins the Future,
+        is going to tell us how we entered into this financial mess and how we can
+        get out of it. She suggests we do the best we can to save through 401(k)s,
+        live within our means, start planning our financial future as young as we
+        can, delay collecting social security as much as we can, and vote for representatives
+        who can help reform this system. Teresa is a labor economist and nationally-recognized
+        expert in retirement security. She's also a professor of economics at The
+        New School for Social Research.\r\n\r\nAdam is on Twitter @AdamConover and
+        you can find past episodes and bonus content from the TruTV show at AdamRuinsEverything.com.\r\n\r\nProduced
+        by Shara Morris for MaximumFun.org."
+  content:
+    text: ' \ud83c\udfa7 Listened to Ep 43: Professor Teresa Ghilarducci on the Future
+      of 401(k)s by Adam Ruins Everything From Adam Ruins Everything'
+- type: entry
   published: "2018-04-06T03:43:24+00:00"
   category:
   - scrobble
@@ -58,43 +97,4 @@
   content:
     text: ' \ud83c\udfa7 Listened to Ep 45: Dr. Kathryn Hall on the Surprising Power
       of Placebos by Adam Ruins Everything From Adam Ruins Everything'
-- type: entry
-  published: "2018-04-06T12:15:02+00:00"
-  category:
-  - scrobble
-  - audio
-  - Adam Ruins Everything
-  - Adam Ruins Everything
-  listen-of:
-    h-cite:
-      url: http://maximumfun.org/feeds/are.xml
-      photo: ""
-      audio:
-      - http://media.adknit.com/a/f/90/adam-ruins-everything/tnr9ic.1-1.mp3
-      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_43_Professor_Teresa_Ghilarducci_on_the_Future_of_401ks.mp3
-      name: 'Ep 43: Professor Teresa Ghilarducci on the Future of 401(k)s'
-      author: Adam Ruins Everything
-      content: "As humans, our inclination is to live in the present - not save 40
-        years down the line - which makes saving money for retirement hard. In the
-        90s many companies began offering 401(k) programs, a retirement savings plan
-        sponsored by an employer which lets workers save and invest a piece of their
-        paycheck before taxes. It seemed like the perfect solution to our retirement
-        woes. But 401(k)s aren't the full proof saving plan we once thought. Even
-        judiciously setting aside money in a 401(k) might not be enough to maintain
-        one's lifestyle into retirement. There are also so many outside factors that
-        can still diminish one's savings, including unexpected healthcare costs, recessions,
-        or lost jobs. So how do we set ourselves up for a secure financial future?\r\n\r\nOur
-        guest Professor Teresa Ghilarducci, who appeared on Adam Ruins the Future,
-        is going to tell us how we entered into this financial mess and how we can
-        get out of it. She suggests we do the best we can to save through 401(k)s,
-        live within our means, start planning our financial future as young as we
-        can, delay collecting social security as much as we can, and vote for representatives
-        who can help reform this system. Teresa is a labor economist and nationally-recognized
-        expert in retirement security. She's also a professor of economics at The
-        New School for Social Research.\r\n\r\nAdam is on Twitter @AdamConover and
-        you can find past episodes and bonus content from the TruTV show at AdamRuinsEverything.com.\r\n\r\nProduced
-        by Shara Morris for MaximumFun.org."
-  content:
-    text: ' \ud83c\udfa7 Listened to Ep 43: Professor Teresa Ghilarducci on the Future
-      of 401(k)s by Adam Ruins Everything From Adam Ruins Everything'
 ...

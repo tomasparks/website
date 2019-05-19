@@ -1,27 +1,5 @@
 ---
 - type: entry
-  published: "2018-04-10T11:32:29+00:00"
-  category:
-  - scrobble
-  - audio
-  - Adam Ruins Everything
-  - Adam Ruins Everything
-  listen-of:
-    h-cite:
-      url: http://maximumfun.org/feeds/are.xml
-      photo: ""
-      audio:
-      - http://media.adknit.com/a/f/90/adam-ruins-everything/nlq99w.1-1.mp3
-      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_33_Anne_Curzan_Talks_Grammar_and_the_Flexibility_of_Language.mp3
-      name: 'Ep 33: Anne Curzan Talks Grammar and the Flexibility of Language'
-      author: Adam Ruins Everything
-      content: Professor Anne Curzan, who is this week's podcast guest, says it's
-        normal to notice dialectical differences between different communities but
-        we shouldn't shame people for talking as they do.
-  content:
-    text: ' \ud83c\udfa7 Listened to Ep 33: Anne Curzan Talks Grammar and the Flexibility
-      of Language by Adam Ruins Everything From Adam Ruins Everything'
-- type: entry
   published: "2018-04-10T12:27:13+00:00"
   category:
   - scrobble
@@ -45,6 +23,28 @@
   content:
     text: ' \ud83c\udfa7 Listened to Ep 32: Kevin Hall Gives Us the Skinny - Losing
       Weight and Keeping it Off is Hard by Adam Ruins Everything From Adam Ruins Everything'
+- type: entry
+  published: "2018-04-10T11:32:29+00:00"
+  category:
+  - scrobble
+  - audio
+  - Adam Ruins Everything
+  - Adam Ruins Everything
+  listen-of:
+    h-cite:
+      url: http://maximumfun.org/feeds/are.xml
+      photo: ""
+      audio:
+      - http://media.adknit.com/a/f/90/adam-ruins-everything/nlq99w.1-1.mp3
+      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_33_Anne_Curzan_Talks_Grammar_and_the_Flexibility_of_Language.mp3
+      name: 'Ep 33: Anne Curzan Talks Grammar and the Flexibility of Language'
+      author: Adam Ruins Everything
+      content: Professor Anne Curzan, who is this week's podcast guest, says it's
+        normal to notice dialectical differences between different communities but
+        we shouldn't shame people for talking as they do.
+  content:
+    text: ' \ud83c\udfa7 Listened to Ep 33: Anne Curzan Talks Grammar and the Flexibility
+      of Language by Adam Ruins Everything From Adam Ruins Everything'
 - type: entry
   published: "2018-04-10T10:24:03+00:00"
   category:

@@ -1,6 +1,6 @@
 ---
 - type: entry
-  published: "2019-01-02T02:27:12+00:00"
+  published: "2019-01-02T04:33:18+00:00"
   category:
   - scrobble
   - audio
@@ -11,18 +11,20 @@
       url: https://www.techdirt.com/podcast.xml
       photo: ""
       audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/539829588-techdirt-free-speech-disorder-with-mike-godwin.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/539829588-techdirt-free-speech-disorder-with-mike-godwin.mp3
-      name: Free Speech Disorder, With Mike Godwin
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/529455591-techdirt-what-the-hell-is-initiative-q.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/529455591-techdirt-what-the-hell-is-initiative-q.mp3
+      name: What The Hell Is Initiative Q?
       author: Techdirt
-      content: Last week, we published a series of posts by Mike Godwin looking at
-        Our Bipolar Free Speech Disorder And How To Fix It (check out part one, part
-        two, and part three). But with a topic like this, there's always more to dig
-        into, so this week we've got Mike Godwin joining the podcast to take a closer
-        look at his ideas about free speech in the digital era.
+      content: By now, there's a good chance you've received an invitation to join
+        Initiative Q, and also a good chance that you took one look at it and thought
+        "wow, this seems extremely sketchy." And indeed, there's little reason (other
+        than hopefulness) to see the strange new proposed payment system as anything
+        but a pyramid scheme. But it's got people talking, thanks in no small part
+        to its viral marketing scheme, so this week's episode is all about trying
+        to figure out just what Initiative Q really is.
   content:
-    text: ' \ud83c\udfa7 Listened to Free Speech Disorder, With Mike Godwin by Techdirt
-      From Techdirt'
+    text: ' \ud83c\udfa7 Listened to What The Hell Is Initiative Q? by Techdirt From
+      Techdirt'
 - type: entry
   published: "2019-01-02T03:21:39+00:00"
   category:
@@ -49,7 +51,7 @@
     text: ' \ud83c\udfa7 Listened to Should We Break Up Big Tech? by Techdirt From
       Techdirt'
 - type: entry
-  published: "2019-01-02T04:33:18+00:00"
+  published: "2019-01-02T02:27:12+00:00"
   category:
   - scrobble
   - audio
@@ -60,18 +62,16 @@
       url: https://www.techdirt.com/podcast.xml
       photo: ""
       audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/529455591-techdirt-what-the-hell-is-initiative-q.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/529455591-techdirt-what-the-hell-is-initiative-q.mp3
-      name: What The Hell Is Initiative Q?
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/539829588-techdirt-free-speech-disorder-with-mike-godwin.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/539829588-techdirt-free-speech-disorder-with-mike-godwin.mp3
+      name: Free Speech Disorder, With Mike Godwin
       author: Techdirt
-      content: By now, there's a good chance you've received an invitation to join
-        Initiative Q, and also a good chance that you took one look at it and thought
-        "wow, this seems extremely sketchy." And indeed, there's little reason (other
-        than hopefulness) to see the strange new proposed payment system as anything
-        but a pyramid scheme. But it's got people talking, thanks in no small part
-        to its viral marketing scheme, so this week's episode is all about trying
-        to figure out just what Initiative Q really is.
+      content: Last week, we published a series of posts by Mike Godwin looking at
+        Our Bipolar Free Speech Disorder And How To Fix It (check out part one, part
+        two, and part three). But with a topic like this, there's always more to dig
+        into, so this week we've got Mike Godwin joining the podcast to take a closer
+        look at his ideas about free speech in the digital era.
   content:
-    text: ' \ud83c\udfa7 Listened to What The Hell Is Initiative Q? by Techdirt From
-      Techdirt'
+    text: ' \ud83c\udfa7 Listened to Free Speech Disorder, With Mike Godwin by Techdirt
+      From Techdirt'
 ...

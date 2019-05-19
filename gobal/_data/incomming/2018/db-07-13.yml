@@ -1,5 +1,29 @@
 ---
 - type: entry
+  published: "2018-07-13T23:05:36+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/lost_and_forgotten_session_01.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/lost_and_forgotten_session_01.mp3
+      name: Lost and Forgotten Session 01
+      author: Hal
+      content: "Even a simple ocean voyage on Golarion has risks. But who could have
+        expected this? Our heroes awake, cast away on a desert island, with no weapons,
+        armour, supplies, or even food. How did they get here? And where did their
+        ship go? Their last few weeks are a haze of missing memories. They\u2019ll
+        have [\u2026]"
+  content:
+    text: ' \ud83c\udfa7 Listened to Lost and Forgotten Session 01 by @rpgmp3 From
+      #RPGMP3ActualPlayPodcast'
+- type: entry
   published: "2018-07-13T19:40:00+00:00"
   category:
   - scrobble
@@ -76,28 +100,4 @@
   content:
     text: ' \ud83c\udfa7 Listened to Ep. 23: Titan of Earth (Tales From the Crick)
       by HeadGum From Not Another D&D Podcast'
-- type: entry
-  published: "2018-07-13T23:05:36+00:00"
-  category:
-  - scrobble
-  - audio
-  - RPGMP3 Actual Play Podcast
-  - Hal
-  listen-of:
-    h-cite:
-      url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
-      photo: ""
-      audio:
-      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/lost_and_forgotten_session_01.mp3
-      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/lost_and_forgotten_session_01.mp3
-      name: Lost and Forgotten Session 01
-      author: Hal
-      content: "Even a simple ocean voyage on Golarion has risks. But who could have
-        expected this? Our heroes awake, cast away on a desert island, with no weapons,
-        armour, supplies, or even food. How did they get here? And where did their
-        ship go? Their last few weeks are a haze of missing memories. They\u2019ll
-        have [\u2026]"
-  content:
-    text: ' \ud83c\udfa7 Listened to Lost and Forgotten Session 01 by @rpgmp3 From
-      #RPGMP3ActualPlayPodcast'
 ...

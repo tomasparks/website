@@ -21,7 +21,7 @@
   content:
     text: ' \ud83c\udfa7 Listened to Episode Intros And by Array From clevercast'
 - type: entry
-  published: "2018-04-14T11:40:03+00:00"
+  published: "2018-04-14T12:35:33+00:00"
   category:
   - scrobble
   - audio
@@ -32,16 +32,15 @@
       url: http://maximumfun.org/feeds/are.xml
       photo: ""
       audio:
-      - http://media.adknit.com/a/f/90/adam-ruins-everything/i7g65f.1-1.mp3
-      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_24_Roy_Samaan_on_Why_Airbnb_is_Bad_for_Housing_Markets.mp3
-      name: 'Ep 24: Roy Samaan on Why Airbnb is Bad for Housing Markets'
+      - http://media.adknit.com/a/f/90/adam-ruins-everything/3ib9mm.1-1.mp3
+      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_23_Susan_Crawford_On_Investing_in_Internet_Infrastructure.mp3
+      name: 'Ep 23: Susan Crawford On Investing in Internet Infrastructure'
       author: Adam Ruins Everything
-      content: 'As our country is mired in a nation-wide housing crisis right now,
-        we decided to dive into one of the many causes of this crisis: short-term
-        housing.'
+      content: 'Today''s Adam Ruins Everything podcast guest is the go-to person when
+        it comes to internet infrastructure: Susan Crawford. '
   content:
-    text: ' \ud83c\udfa7 Listened to Ep 24: Roy Samaan on Why Airbnb is Bad for Housing
-      Markets by Adam Ruins Everything From Adam Ruins Everything'
+    text: ' \ud83c\udfa7 Listened to Ep 23: Susan Crawford On Investing in Internet
+      Infrastructure by Adam Ruins Everything From Adam Ruins Everything'
 - type: entry
   published: "2018-04-14T10:13:49+00:00"
   category:
@@ -64,7 +63,7 @@
     text: ' \ud83c\udfa7 Listened to Ep 25: Bud Hammes on Why Talking About Death
       Is Life-Changing by Adam Ruins Everything From Adam Ruins Everything'
 - type: entry
-  published: "2018-04-14T12:35:33+00:00"
+  published: "2018-04-14T13:30:08+00:00"
   category:
   - scrobble
   - audio
@@ -75,15 +74,37 @@
       url: http://maximumfun.org/feeds/are.xml
       photo: ""
       audio:
-      - http://media.adknit.com/a/f/90/adam-ruins-everything/3ib9mm.1-1.mp3
-      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_23_Susan_Crawford_On_Investing_in_Internet_Infrastructure.mp3
-      name: 'Ep 23: Susan Crawford On Investing in Internet Infrastructure'
+      - http://media.adknit.com/a/f/90/adam-ruins-everything/gyvzgs.1-1.mp3
+      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_22_Why_Fast_Fashion_Fails_Us.mp3
+      name: 'Ep 22: Why Fast Fashion Fails Us'
       author: Adam Ruins Everything
-      content: 'Today''s Adam Ruins Everything podcast guest is the go-to person when
-        it comes to internet infrastructure: Susan Crawford. '
+      content: 'If you wear clothes, you''re going to love this Adam Ruins Everything
+        podcast. '
   content:
-    text: ' \ud83c\udfa7 Listened to Ep 23: Susan Crawford On Investing in Internet
-      Infrastructure by Adam Ruins Everything From Adam Ruins Everything'
+    text: ' \ud83c\udfa7 Listened to Ep 22: Why Fast Fashion Fails Us by Adam Ruins
+      Everything From Adam Ruins Everything'
+- type: entry
+  published: "2018-04-14T11:40:03+00:00"
+  category:
+  - scrobble
+  - audio
+  - Adam Ruins Everything
+  - Adam Ruins Everything
+  listen-of:
+    h-cite:
+      url: http://maximumfun.org/feeds/are.xml
+      photo: ""
+      audio:
+      - http://media.adknit.com/a/f/90/adam-ruins-everything/i7g65f.1-1.mp3
+      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_24_Roy_Samaan_on_Why_Airbnb_is_Bad_for_Housing_Markets.mp3
+      name: 'Ep 24: Roy Samaan on Why Airbnb is Bad for Housing Markets'
+      author: Adam Ruins Everything
+      content: 'As our country is mired in a nation-wide housing crisis right now,
+        we decided to dive into one of the many causes of this crisis: short-term
+        housing.'
+  content:
+    text: ' \ud83c\udfa7 Listened to Ep 24: Roy Samaan on Why Airbnb is Bad for Housing
+      Markets by Adam Ruins Everything From Adam Ruins Everything'
 - type: entry
   published: "2018-04-14T14:30:17+00:00"
   category:
@@ -106,25 +127,4 @@
   content:
     text: ' \ud83c\udfa7 Listened to Ep 21: Jan MacKell Collins On How Prostitution
       Built The Wild West by Adam Ruins Everything From Adam Ruins Everything'
-- type: entry
-  published: "2018-04-14T13:30:08+00:00"
-  category:
-  - scrobble
-  - audio
-  - Adam Ruins Everything
-  - Adam Ruins Everything
-  listen-of:
-    h-cite:
-      url: http://maximumfun.org/feeds/are.xml
-      photo: ""
-      audio:
-      - http://media.adknit.com/a/f/90/adam-ruins-everything/gyvzgs.1-1.mp3
-      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_22_Why_Fast_Fashion_Fails_Us.mp3
-      name: 'Ep 22: Why Fast Fashion Fails Us'
-      author: Adam Ruins Everything
-      content: 'If you wear clothes, you''re going to love this Adam Ruins Everything
-        podcast. '
-  content:
-    text: ' \ud83c\udfa7 Listened to Ep 22: Why Fast Fashion Fails Us by Adam Ruins
-      Everything From Adam Ruins Everything'
 ...

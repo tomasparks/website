@@ -1,5 +1,27 @@
 ---
 - type: entry
+  published: "2018-07-18T00:04:08+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/lost_and_forgotten_session_03.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/lost_and_forgotten_session_03.mp3
+      name: Lost and Forgotten Session 03
+      author: Hal
+      content: "Episode 3 \u2013 in which our castaways make friends and enemies,
+        track down a cannibal\_village and find alcohol and drugs. Life on the island
+        is improving\u2026"
+  content:
+    text: ' \ud83c\udfa7 Listened to Lost and Forgotten Session 03 by @rpgmp3 From
+      #RPGMP3ActualPlayPodcast'
+- type: entry
   published: "2018-07-18T00:57:09+00:00"
   category:
   - scrobble
@@ -69,26 +91,4 @@
   content:
     text: " \\ud83c\\udfa7 Listened to An Indieweb Podcast: Episode 8 \u2013 Interflux
       by https://wordpress.org/?v=4.9.7 From #IndiewebPodcast"
-- type: entry
-  published: "2018-07-18T00:04:08+00:00"
-  category:
-  - scrobble
-  - audio
-  - RPGMP3 Actual Play Podcast
-  - Hal
-  listen-of:
-    h-cite:
-      url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
-      photo: ""
-      audio:
-      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/lost_and_forgotten_session_03.mp3
-      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/lost_and_forgotten_session_03.mp3
-      name: Lost and Forgotten Session 03
-      author: Hal
-      content: "Episode 3 \u2013 in which our castaways make friends and enemies,
-        track down a cannibal\_village and find alcohol and drugs. Life on the island
-        is improving\u2026"
-  content:
-    text: ' \ud83c\udfa7 Listened to Lost and Forgotten Session 03 by @rpgmp3 From
-      #RPGMP3ActualPlayPodcast'
 ...

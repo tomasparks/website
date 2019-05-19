@@ -1,33 +1,6 @@
 ---
 - type: entry
-  published: "2018-05-18T09:47:56+00:00"
-  category:
-  - scrobble
-  - audio
-  - Jason Scott Talks His Way Out of It
-  - Jason Scott
-  listen-of:
-    h-cite:
-      url: http://textfiles.libsyn.com/rss
-      photo: ""
-      audio:
-      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_27.mp3?dest-id=574323
-      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Firing_Episode.mp3
-      name: The Firing Episode
-      author: Jason Scott
-      content: 'The Firing Episode: That Time I Got Fired, A Sysadmin''s Life, If
-        You Lose Jason You Lose Us, A Steaming Cup of Coffee, The Unnamed Worst Customer
-        Ever, Goodbye, Hello Internet Archive. An episode about the only time I''ve
-        been fired so far! Not bad for roughly 20 years of working life. I am pretty
-        sure I got most of the details right, but you never know. I say this compared
-        to most of the talking about history I do because it seems to be that when
-        a person describes an emotionally traumatic event, they tend to get details
-        real weird - it must be how the brain copes. Subscribe and support this podcast
-        at http://podcast.textfiles.com'
-  content:
-    text: ' \ud83c\udfa7 Listened to The Firing Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
-- type: entry
-  published: "2018-05-18T06:37:06+00:00"
+  published: "2018-05-18T07:18:31+00:00"
   category:
   - scrobble
   - audio
@@ -38,15 +11,16 @@
       url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20150813.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/3D_printed_organs_muscle_memory_that_op_shop_smell.mp3
-      name: 3D printed organs, muscle memory, that op shop smell
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20150806.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Emotional_chords_hungover_libido_forced_smiles.mp3
+      name: Emotional chords, hungover libido, forced smiles
       author: ABC Science
-      content: Why do op shops all smell the same? Why can't we use 3D printers to
-        print organs? Is there any benefit to avoiding gluten?
+      content: Does forcing a smile really make you happier? Why do certain notes
+        or chords have emotional responses? Is urine good for helping lemon trees
+        grow?
   content:
-    text: ' \ud83c\udfa7 Listened to 3D printed organs, muscle memory, that op shop
-      smell by ABC Science From Dr Karl on triplej'
+    text: ' \ud83c\udfa7 Listened to Emotional chords, hungover libido, forced smiles
+      by ABC Science From Dr Karl on triplej'
 - type: entry
   published: "2018-05-18T06:01:17+00:00"
   category:
@@ -90,7 +64,7 @@
     text: ' \ud83c\udfa7 Listened to Can maths predict the future? by ABC Science
       From Dr Karl on triplej'
 - type: entry
-  published: "2018-05-18T07:18:31+00:00"
+  published: "2018-05-18T06:37:06+00:00"
   category:
   - scrobble
   - audio
@@ -101,14 +75,40 @@
       url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20150806.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Emotional_chords_hungover_libido_forced_smiles.mp3
-      name: Emotional chords, hungover libido, forced smiles
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20150813.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/3D_printed_organs_muscle_memory_that_op_shop_smell.mp3
+      name: 3D printed organs, muscle memory, that op shop smell
       author: ABC Science
-      content: Does forcing a smile really make you happier? Why do certain notes
-        or chords have emotional responses? Is urine good for helping lemon trees
-        grow?
+      content: Why do op shops all smell the same? Why can't we use 3D printers to
+        print organs? Is there any benefit to avoiding gluten?
   content:
-    text: ' \ud83c\udfa7 Listened to Emotional chords, hungover libido, forced smiles
-      by ABC Science From Dr Karl on triplej'
+    text: ' \ud83c\udfa7 Listened to 3D printed organs, muscle memory, that op shop
+      smell by ABC Science From Dr Karl on triplej'
+- type: entry
+  published: "2018-05-18T09:47:56+00:00"
+  category:
+  - scrobble
+  - audio
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
+  listen-of:
+    h-cite:
+      url: http://textfiles.libsyn.com/rss
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_27.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Firing_Episode.mp3
+      name: The Firing Episode
+      author: Jason Scott
+      content: 'The Firing Episode: That Time I Got Fired, A Sysadmin''s Life, If
+        You Lose Jason You Lose Us, A Steaming Cup of Coffee, The Unnamed Worst Customer
+        Ever, Goodbye, Hello Internet Archive. An episode about the only time I''ve
+        been fired so far! Not bad for roughly 20 years of working life. I am pretty
+        sure I got most of the details right, but you never know. I say this compared
+        to most of the talking about history I do because it seems to be that when
+        a person describes an emotionally traumatic event, they tend to get details
+        real weird - it must be how the brain copes. Subscribe and support this podcast
+        at http://podcast.textfiles.com'
+  content:
+    text: ' \ud83c\udfa7 Listened to The Firing Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
 ...

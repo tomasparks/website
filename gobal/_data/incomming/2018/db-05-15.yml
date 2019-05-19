@@ -1,31 +1,5 @@
 ---
 - type: entry
-  published: "2018-05-15T11:59:17+00:00"
-  category:
-  - scrobble
-  - audio
-  - DatCastA[
-  - Bret Comnes and Jim Pick
-  listen-of:
-    h-cite:
-      url: https://dat-cast.hashbase.io/feed.xml
-      photo: ""
-      audio:
-      - https://dat-cast.hashbase.io/audio/datcast-episode-0000-2018-04-26.mp3
-      - http://archive.org/download/DatCast-Podcast-by-Bret_Comnes_and_Jim_Pick/datcast-episode-0000-2018-04-26.mp3
-      name: Episode 0 - Welcome to the DatCast!
-      author: Bret Comnes and Jim Pick
-      content: |-
-        The first episode, where Bret and Jim try making a podcast for the first time, and explain what they want the show to be.
-
-        Links:
-
-        * https://peer-to-peer-web.com/los-angeles/2018-04-28
-        * https://twitter.com/mafintosh/status/989214862764118016
-  content:
-    text: ' \ud83c\udfa7 Listened to Episode 0 - Welcome to the DatCast! by Bret Comnes
-      and Jim Pick From DatCastA['
-- type: entry
   published: "2018-05-15T10:53:37+00:00"
   category:
   - scrobble
@@ -99,7 +73,7 @@
     text: ' \ud83c\udfa7 Listened to Morning breath, scent memory, baby hiccups by
       ABC Science From Dr Karl on triplej'
 - type: entry
-  published: "2018-05-15T13:47:02+00:00"
+  published: "2018-05-15T01:41:11+00:00"
   category:
   - scrobble
   - audio
@@ -110,14 +84,35 @@
       url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20170720.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Sun_mirror_essentials_oils_vinyl_records.mp3
-      name: Sun mirror, essentials oils, vinyl records
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20170817.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Wombat_poo_maggot_wound_cleaning_apocalyptic_cockroaches.mp3
+      name: Wombat poo, maggot wound cleaning, apocalyptic cockroaches
       author: ABC Science
-      content: How do you get music out of a vinyl record? What would happen if you
-        reflected the sun's light back at it? Would ants survive without their colony?
+      content: Special guests Dr Bryan Lessard from the CSIRO and Dr Rebecca Johnson
+        from the Australian Museum join Dr Karl and Zan to answer your science questions.
   content:
-    text: ' \ud83c\udfa7 Listened to Sun mirror, essentials oils, vinyl records by
+    text: ' \ud83c\udfa7 Listened to Wombat poo, maggot wound cleaning, apocalyptic
+      cockroaches by ABC Science From Dr Karl on triplej'
+- type: entry
+  published: "2018-05-15T16:24:18+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl on triplej
+  - ABC Science
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20170629.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Penguin_knees_ear_pimples_magnetic_fields.mp3
+      name: Penguin knees, ear pimples, magnetic fields
+      author: ABC Science
+      content: What would happen if the earth stopped rotating? Can you stick coins
+        to your forehead,  through your own magnetic field? Do penguins have knees?
+  content:
+    text: ' \ud83c\udfa7 Listened to Penguin knees, ear pimples, magnetic fields by
       ABC Science From Dr Karl on triplej'
 - type: entry
   published: "2018-05-15T15:11:25+00:00"
@@ -141,7 +136,7 @@
     text: ' \ud83c\udfa7 Listened to Underwater volcanoes, dog yawns, immortality
       by ABC Science From Dr Karl on triplej'
 - type: entry
-  published: "2018-05-15T16:24:18+00:00"
+  published: "2018-05-15T11:43:58+00:00"
   category:
   - scrobble
   - audio
@@ -152,14 +147,58 @@
       url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20170629.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Penguin_knees_ear_pimples_magnetic_fields.mp3
-      name: Penguin knees, ear pimples, magnetic fields
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20170810.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Synasethesia_multiple_moons_safe_AI.mp3
+      name: Synasethesia, multiple moons, safe AI
       author: ABC Science
-      content: What would happen if the earth stopped rotating? Can you stick coins
-        to your forehead,  through your own magnetic field? Do penguins have knees?
+      content: What is happening in the brain when someone experiences synasethesia?
+        What would happen if we had more than one moon? How fast would you need to
+        travel to keep up with the sun?
   content:
-    text: ' \ud83c\udfa7 Listened to Penguin knees, ear pimples, magnetic fields by
+    text: ' \ud83c\udfa7 Listened to Synasethesia, multiple moons, safe AI by ABC
+      Science From Dr Karl on triplej'
+- type: entry
+  published: "2018-05-15T12:35:01+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl on triplej
+  - ABC Science
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20170803.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Death_by_farts_alien_messages_tongue_ulcers.mp3
+      name: Death by farts, alien messages, tongue ulcers
+      author: ABC Science
+      content: How many farts would it take to kill someone in an enclosed space?
+        Have we ever got any replies from out messages to space? Why do people rock
+        when they're anxious?
+  content:
+    text: ' \ud83c\udfa7 Listened to Death by farts, alien messages, tongue ulcers
+      by ABC Science From Dr Karl on triplej'
+- type: entry
+  published: "2018-05-15T13:47:02+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl on triplej
+  - ABC Science
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20170720.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Sun_mirror_essentials_oils_vinyl_records.mp3
+      name: Sun mirror, essentials oils, vinyl records
+      author: ABC Science
+      content: How do you get music out of a vinyl record? What would happen if you
+        reflected the sun's light back at it? Would ants survive without their colony?
+  content:
+    text: ' \ud83c\udfa7 Listened to Sun mirror, essentials oils, vinyl records by
       ABC Science From Dr Karl on triplej'
 - type: entry
   published: "2018-05-15T15:47:23+00:00"
@@ -183,68 +222,29 @@
     text: ' \ud83c\udfa7 Listened to Quantum mechanics, interstellar travel, suspending
       light by ABC Science From Dr Karl on triplej'
 - type: entry
-  published: "2018-05-15T11:43:58+00:00"
+  published: "2018-05-15T11:59:17+00:00"
   category:
   - scrobble
   - audio
-  - Dr Karl on triplej
-  - ABC Science
+  - DatCastA[
+  - Bret Comnes and Jim Pick
   listen-of:
     h-cite:
-      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      url: https://dat-cast.hashbase.io/feed.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20170810.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Synasethesia_multiple_moons_safe_AI.mp3
-      name: Synasethesia, multiple moons, safe AI
-      author: ABC Science
-      content: What is happening in the brain when someone experiences synasethesia?
-        What would happen if we had more than one moon? How fast would you need to
-        travel to keep up with the sun?
+      - https://dat-cast.hashbase.io/audio/datcast-episode-0000-2018-04-26.mp3
+      - http://archive.org/download/DatCast-Podcast-by-Bret_Comnes_and_Jim_Pick/datcast-episode-0000-2018-04-26.mp3
+      name: Episode 0 - Welcome to the DatCast!
+      author: Bret Comnes and Jim Pick
+      content: |-
+        The first episode, where Bret and Jim try making a podcast for the first time, and explain what they want the show to be.
+
+        Links:
+
+        * https://peer-to-peer-web.com/los-angeles/2018-04-28
+        * https://twitter.com/mafintosh/status/989214862764118016
   content:
-    text: ' \ud83c\udfa7 Listened to Synasethesia, multiple moons, safe AI by ABC
-      Science From Dr Karl on triplej'
-- type: entry
-  published: "2018-05-15T01:41:11+00:00"
-  category:
-  - scrobble
-  - audio
-  - Dr Karl on triplej
-  - ABC Science
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20170817.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Wombat_poo_maggot_wound_cleaning_apocalyptic_cockroaches.mp3
-      name: Wombat poo, maggot wound cleaning, apocalyptic cockroaches
-      author: ABC Science
-      content: Special guests Dr Bryan Lessard from the CSIRO and Dr Rebecca Johnson
-        from the Australian Museum join Dr Karl and Zan to answer your science questions.
-  content:
-    text: ' \ud83c\udfa7 Listened to Wombat poo, maggot wound cleaning, apocalyptic
-      cockroaches by ABC Science From Dr Karl on triplej'
-- type: entry
-  published: "2018-05-15T12:35:01+00:00"
-  category:
-  - scrobble
-  - audio
-  - Dr Karl on triplej
-  - ABC Science
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20170803.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Death_by_farts_alien_messages_tongue_ulcers.mp3
-      name: Death by farts, alien messages, tongue ulcers
-      author: ABC Science
-      content: How many farts would it take to kill someone in an enclosed space?
-        Have we ever got any replies from out messages to space? Why do people rock
-        when they're anxious?
-  content:
-    text: ' \ud83c\udfa7 Listened to Death by farts, alien messages, tongue ulcers
-      by ABC Science From Dr Karl on triplej'
+    text: ' \ud83c\udfa7 Listened to Episode 0 - Welcome to the DatCast! by Bret Comnes
+      and Jim Pick From DatCastA['
 ...

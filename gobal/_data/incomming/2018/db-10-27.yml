@@ -36,25 +36,6 @@
     text: ' \ud83c\udfa7 Listened to My Url Is rosemaryorchard.com (Episode 2) by
       Array From indieweb on Huffduffer'
 - type: entry
-  published: "2018-10-27T11:31:07+00:00"
-  category:
-  - scrobble
-  - audio
-  - Jason Scott Talks His Way Out of It
-  - Jason Scott
-  listen-of:
-    h-cite:
-      url: http://textfiles.libsyn.com/rss
-      photo: ""
-      audio:
-      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_44.mp3?dest-id=574323
-      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/Frank_and_Bootleg.mp3
-      name: Frank and Bootleg
-      author: Jason Scott
-      content: An episode about two of my more unusual interviews for the BBS Documentary.
-  content:
-    text: ' \ud83c\udfa7 Listened to Frank and Bootleg by @textfiles From #JasonScottTalksHisWayOutofIt'
-- type: entry
   published: "2018-10-27T04:14:54+00:00"
   category:
   - scrobble
@@ -81,6 +62,25 @@
   content:
     text: ' \ud83c\udfa7 Listened to 6 - The Iotatron that Wasn''t by Stephen Fry
       | SamFry Ltd From Stephen Fry''s Great Leap Years'
+- type: entry
+  published: "2018-10-27T11:31:07+00:00"
+  category:
+  - scrobble
+  - audio
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
+  listen-of:
+    h-cite:
+      url: http://textfiles.libsyn.com/rss
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_44.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/Frank_and_Bootleg.mp3
+      name: Frank and Bootleg
+      author: Jason Scott
+      content: An episode about two of my more unusual interviews for the BBS Documentary.
+  content:
+    text: ' \ud83c\udfa7 Listened to Frank and Bootleg by @textfiles From #JasonScottTalksHisWayOutofIt'
 - type: entry
   published: "2018-10-27T11:34:32+00:00"
   category:

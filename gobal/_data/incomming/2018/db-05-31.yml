@@ -1,5 +1,57 @@
 ---
 - type: entry
+  published: "2018-05-31T03:55:33+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/289938859-techdirt-death-knell-for-software-patents.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/289938859-techdirt-death-knell-for-software-patents.mp3
+      name: Death Knell For Software Patents
+      author: Techdirt
+      content: "Software patents have been dubious since their inception \u2014 not
+        just in principle, but legally too. Past rulings have called their validity
+        into serious question, and now an opinion from a prominent pro-patent judge
+        has called for people to admit that they simply shouldn't exist. This week,
+        we discuss what this opinion means for the (hopefully short) future of software
+        patents."
+  content:
+    text: ' \ud83c\udfa7 Listened to Death Knell For Software Patents by Techdirt
+      From Techdirt'
+- type: entry
+  published: "2018-05-31T00:45:47+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/293192301-techdirt-debating-the-facebook-filter-bubble-with-mathew-ingram.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/293192301-techdirt-debating-the-facebook-filter-bubble-with-mathew-ingram.mp3
+      name: Debating The Facebook Filter Bubble, With Mathew Ingram
+      author: Techdirt
+      content: "Though the notion of the Facebook \"filter bubble\" has been around
+        for a while, it's picked up a huge amount of steam following the election
+        of Donald Trump \u2014 perhaps just a little too much steam. While Techdirt
+        has long been of the opinion that pointing fingers at Facebook is misguided,
+        there are plenty of people who disagree. This week, we're joined by one such
+        person \u2014 long-time media commentator and senior editor at Fortune Mathew
+        Ingram \u2014 for a lively debate about just how much of a problem the filter
+        bubble really is, and how you'd go about solving it."
+  content:
+    text: ' \ud83c\udfa7 Listened to Debating The Facebook Filter Bubble, With Mathew
+      Ingram by Techdirt From Techdirt'
+- type: entry
   published: "2018-05-31T02:18:59+00:00"
   category:
   - scrobble
@@ -50,56 +102,4 @@
   content:
     text: ' \ud83c\udfa7 Listened to Is There A Better Way To Pick A President? by
       Techdirt From Techdirt'
-- type: entry
-  published: "2018-05-31T00:45:47+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/293192301-techdirt-debating-the-facebook-filter-bubble-with-mathew-ingram.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/293192301-techdirt-debating-the-facebook-filter-bubble-with-mathew-ingram.mp3
-      name: Debating The Facebook Filter Bubble, With Mathew Ingram
-      author: Techdirt
-      content: "Though the notion of the Facebook \"filter bubble\" has been around
-        for a while, it's picked up a huge amount of steam following the election
-        of Donald Trump \u2014 perhaps just a little too much steam. While Techdirt
-        has long been of the opinion that pointing fingers at Facebook is misguided,
-        there are plenty of people who disagree. This week, we're joined by one such
-        person \u2014 long-time media commentator and senior editor at Fortune Mathew
-        Ingram \u2014 for a lively debate about just how much of a problem the filter
-        bubble really is, and how you'd go about solving it."
-  content:
-    text: ' \ud83c\udfa7 Listened to Debating The Facebook Filter Bubble, With Mathew
-      Ingram by Techdirt From Techdirt'
-- type: entry
-  published: "2018-05-31T03:55:33+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/289938859-techdirt-death-knell-for-software-patents.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/289938859-techdirt-death-knell-for-software-patents.mp3
-      name: Death Knell For Software Patents
-      author: Techdirt
-      content: "Software patents have been dubious since their inception \u2014 not
-        just in principle, but legally too. Past rulings have called their validity
-        into serious question, and now an opinion from a prominent pro-patent judge
-        has called for people to admit that they simply shouldn't exist. This week,
-        we discuss what this opinion means for the (hopefully short) future of software
-        patents."
-  content:
-    text: ' \ud83c\udfa7 Listened to Death Knell For Software Patents by Techdirt
-      From Techdirt'
 ...

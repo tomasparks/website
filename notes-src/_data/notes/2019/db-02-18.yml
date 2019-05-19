@@ -1,0 +1,21 @@
+---
+- type: entry
+  published: "2019-02-18T17:15:27+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://rpgmp3.com/v5/feed/podcast/
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/All_For_One_Musketeers_Session_10.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/All_For_One_Musketeers_Session_10.mp3
+      name: All For One Session 10
+      author: Hal
+      content: "Episode 10 \u2013 in which the Musketeers bring justice to the unjust."
+  content:
+    text: ' \ud83c\udfa7 Listened to All For One Session 10 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+...

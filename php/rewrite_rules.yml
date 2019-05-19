@@ -37,6 +37,7 @@ BucketName:
     Hamish & Andy: Hamish_Andy-Podcast
     DatCastA[: DatCast-Podcast
     Adam Ruins Everything: Adam_Ruins_Everything-Podcast
+    Future Tense - ABC - RN: Future_Tense_ABC_RN
   author:
     Hal: Hal
     https://wordpress.org/?v=4.9.8: David_Shanske_and_Chris_Aldrich
@@ -157,6 +158,7 @@ twitter:
     Hamish & Andy: Hamish & Andy
     DatCastA[: DatCastA[
     Adam Ruins Everything: Adam Ruins Everything
+    Future Tense - ABC - RN: Future Tense - ABC - RN
 HowToRewrite:
   media.blubrry.com:
     BucketName:
@@ -356,4 +358,10 @@ HowToRewrite:
       album: rewrite
     url: false
     fielname: true
+  abcmedia.akamaized.net:
+    BucketName:
+      author: rewrite
+      album: rewrite
+    url: false
+    fielname: false
 ...

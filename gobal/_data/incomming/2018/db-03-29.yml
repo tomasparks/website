@@ -1,5 +1,30 @@
 ---
 - type: entry
+  published: "2018-03-29T06:47:22+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/348412052-techdirt-who-still-needs-a-personal-computer.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/348412052-techdirt-who-still-needs-a-personal-computer.mp3
+      name: Who Still Needs A Personal Computer?
+      author: Techdirt
+      content: 'As smartphones and other mobile devices have gotten smarter and smarter,
+        they''ve taken over more and more of most people''s general computing needs,
+        and the importance of the classic personal computer has waned. And so for
+        some time the question has been: will the PC ever go away entirely? That''s
+        our topic this week as we try to figure out who really needs a PC these days,
+        and when and if that will change.'
+  content:
+    text: ' \ud83c\udfa7 Listened to Who Still Needs A Personal Computer? by Techdirt
+      From Techdirt'
+- type: entry
   published: "2018-03-29T09:03:30+00:00"
   category:
   - scrobble
@@ -26,31 +51,6 @@
   content:
     text: ' \ud83c\udfa7 Listened to Donald Trump, Howard Stern... And Copyright by
       Techdirt From Techdirt'
-- type: entry
-  published: "2018-03-29T06:47:22+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/348412052-techdirt-who-still-needs-a-personal-computer.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/348412052-techdirt-who-still-needs-a-personal-computer.mp3
-      name: Who Still Needs A Personal Computer?
-      author: Techdirt
-      content: 'As smartphones and other mobile devices have gotten smarter and smarter,
-        they''ve taken over more and more of most people''s general computing needs,
-        and the importance of the classic personal computer has waned. And so for
-        some time the question has been: will the PC ever go away entirely? That''s
-        our topic this week as we try to figure out who really needs a PC these days,
-        and when and if that will change.'
-  content:
-    text: ' \ud83c\udfa7 Listened to Who Still Needs A Personal Computer? by Techdirt
-      From Techdirt'
 - type: entry
   published: "2018-03-29T09:49:27+00:00"
   category:
