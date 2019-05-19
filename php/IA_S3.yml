@@ -105,6 +105,7 @@ RPGMP3_Actual_Play_Podcast-by-Hal:
   kingmaker_session_61.mp3: true
   kingmaker_session_63.mp3: true
   kingmaker_session_64.mp3: true
+  kingmaker_session_65.mp3: true
 Indieweb_Podcast-by-David_Shanske_and_Chris_Aldrich:
   Indieweb9.mp3: true
   Indieweb10.mp3: true
@@ -1246,4 +1247,6 @@ Dr_Karl_on_triplej-Podcast-by-triplej:
   Hot_and_cold_breath_tilting_dog_heads_and_an_infuriating_itch.mp3: true
 Future_Tense_ABC_RN-by-ABC_Radio_National:
   fte_20190512.mp3: true
+Dr_Karl_Podcast-by-triple_j:
+  Beard_hairballs_purring_pussies_and_green_boogers.mp3: false
 ...
