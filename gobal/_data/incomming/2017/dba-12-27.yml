@@ -1,0 +1,90 @@
+---
+- type: entry
+  published: "2017-12-27T15:31:44+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/EgTmp6-kw3M/03_Chapter_1_Part_3_-_Netscapes_IPO_As_The_Big_Bang.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/3_Ch_13_Netscapes_IPO_As_The_Big_Bang.mp3
+      name: 3. (Ch 1.3) Netscape's IPO As The Big Bang
+      author: Brian McCullough @brianmcc
+      content: A history of the Internet Era from Netscape to the iPad. Oral histories
+        from the people that made the technology happen. "Chapter" episodes providing
+        background on the history of the companies.
+  content:
+    text: ' \ud83c\udfa7 Listened to 3. (Ch 1.3) Netscape''s IPO As The Big Bang by
+      Brian McCullough @brianmcc From Internet History Podcast'
+- type: entry
+  published: "2017-12-27T14:00:59+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/keDudlgQU0I/Chapter_1_Part_1_-_Mosaic.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/1_Ch_11_Mosaic_The_First_Web_Browser.mp3
+      name: 1. (Ch 1.1) Mosaic - The "First" Web Browser
+      author: Brian McCullough @brianmcc
+      content: A history of the Internet Era from Netscape to the iPad. Oral histories
+        from the people that made the technology happen. "Chapter" episodes providing
+        background on the history of the companies.
+  content:
+    text: ' \ud83c\udfa7 Listened to 1. (Ch 1.1) Mosaic - The "First" Web Browser
+      by Brian McCullough @brianmcc From Internet History Podcast'
+- type: entry
+  published: "2017-12-27T16:28:56+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/M4JaRE9Nrs0/Chapter_2_Part_1_-_Microsoft_At_The_Birth_Of_The_Internet_Era.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/4_Ch_21_Microsoft_At_The_Dawn_Of_The_Internet_Era.mp3
+      name: 4. (Ch 2.1) Microsoft At The Dawn Of The Internet Era
+      author: Brian McCullough @brianmcc
+      content: A history of the Internet Era from Netscape to the iPad. Oral histories
+        from the people that made the technology happen. "Chapter" episodes providing
+        background on the history of the companies.
+  content:
+    text: ' \ud83c\udfa7 Listened to 4. (Ch 2.1) Microsoft At The Dawn Of The Internet
+      Era by Brian McCullough @brianmcc From Internet History Podcast'
+- type: entry
+  published: "2017-12-27T14:59:56+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/S_UBB4Btiyw/02_Chapter_1_Part_2_-_The_Creation_of_Netscape.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/2_Ch_12_The_Creation_of_Netscape.mp3
+      name: 2. (Ch 1.2) The Creation of Netscape
+      author: Brian McCullough @brianmcc
+      content: A history of the Internet Era from Netscape to the iPad. Oral histories
+        from the people that made the technology happen. "Chapter" episodes providing
+        background on the history of the companies.
+  content:
+    text: ' \ud83c\udfa7 Listened to 2. (Ch 1.2) The Creation of Netscape by Brian
+      McCullough @brianmcc From Internet History Podcast'
+...

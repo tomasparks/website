@@ -1,0 +1,108 @@
+---
+- type: entry
+  published: "2019-04-29T05:48:52+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl on triplej
+  - triplejA[
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/sciencentriplej20190419.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-triplej/Hot_and_cold_breath_tilting_dog_heads_and_an_infuriating_itch.mp3
+      name: Hot and cold breath, tilting dog heads and an infuriating itch
+      author: triplejA[
+      content: Why shouldn't we eat our own poo? Why do bruises change colour? And
+        the lady who literally picked her brain
+  content:
+    text: ' \ud83c\udfa7 Listened to Hot and cold breath, tilting dog heads and an
+      infuriating itch by triplejA[ From Dr Karl on triplej'
+- type: entry
+  published: "2019-04-29T04:45:13+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2019/04/gms_20190416.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Washing_clothes_part_one.mp3
+      name: 'Washing clothes: part one'
+      author: ABC Radio National
+      content: Until recently, scientists couldn't work out how a washing machine
+        actually lifted the dirt out of clothes.
+  content:
+    text: ' \ud83c\udfa7 Listened to Washing clothes: part one by ABC Radio National
+      From Great Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2019-04-29T04:51:58+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2019/04/gms_20190423.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Washing_clothes_part_two.mp3
+      name: 'Washing clothes: part two'
+      author: ABC Radio National
+      content: Clothing is made of threads, which are made of smaller-still fibres.
+        And that's where the dirt hides.
+  content:
+    text: ' \ud83c\udfa7 Listened to Washing clothes: part two by ABC Radio National
+      From Great Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2019-04-29T04:59:41+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2019/04/gms_20190409.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Vaping_ecigarettes_and_big_tobacco.mp3
+      name: Vaping, e-cigarettes, and big tobacco
+      author: ABC Radio National
+      content: "Tobacco has done bad things for public health \u2014 but what about
+        e-cigarettes?"
+  content:
+    text: ' \ud83c\udfa7 Listened to Vaping, e-cigarettes, and big tobacco by ABC
+      Radio National From Great Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2019-04-29T01:10:52+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://rpgmp3.com/v5/feed/podcast/
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_60.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_60.mp3
+      name: Kingmaker  Session 60
+      author: Hal
+      content: "Episode 60 \u2013 in which Stagthorne competes in Archery and the
+        Caster\u2019s Ball, the Clockwork King proposes an unlikely deal with Stagthorne\u2019s
+        future on the line, and Nyrissa makes her presence felt. Thanks to the Paizo
+        forums for the Caster\u2019s Ball and upcoming Boulder Challenge."
+  content:
+    text: ' \ud83c\udfa7 Listened to Kingmaker  Session 60 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+...

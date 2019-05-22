@@ -1,0 +1,63 @@
+---
+- type: entry
+  published: "2019-03-17T07:02:51+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_09.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_09.mp3
+      name: Kingmaker Session 09
+      author: Hal
+      content: "Episode 9 \u2013 in which the Baoban Sith is faced in a fierce encounter,
+        Tristain finds love, and Tartuk is tried for his crimes."
+  content:
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 09 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+- type: entry
+  published: "2019-03-17T03:09:15+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_07.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_07.mp3
+      name: Kingmaker Session 07
+      author: Hal
+      content: "Episode 7 \u2013 in which the Holy Order of Erastil comes for justice
+        for Akiros, high General of Stagthorne. Kaylen makes a move on Bryn, and the
+        mythical Hodag is encountered."
+  content:
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 07 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+- type: entry
+  published: "2019-03-17T04:37:40+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_08.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_08.mp3
+      name: Kingmaker Session 08
+      author: Hal
+      content: "Episode 8 \u2013 in which Kaylen returns to the Elven ruin and finds
+        some old and new enemies."
+  content:
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 08 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+...

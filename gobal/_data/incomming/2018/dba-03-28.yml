@@ -1,0 +1,58 @@
+---
+- type: entry
+  published: "2018-03-28T06:18:33+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/355759544-techdirt-the-perils-of-internet-platform-regulation.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/355759544-techdirt-the-perils-of-internet-platform-regulation.mp3
+      name: The Perils Of Internet Platform Regulation
+      author: Techdirt
+      content: "We've been talking about internet platform regulation for a long time,
+        but in the past year these issues have gotten a huge amount of increased focus
+        \u2014 for a bunch of fairly obvious reasons. But a lot of people who are
+        fairly new to the issue tend to make a lot of questionable assumptions and
+        jump to some problematic conclusions, so this week we're joined by someone
+        who has been studying these questions for many years \u2014 Annemarie Bridy,
+        a law professor at the University of Idaho and Affiliate Scholar at the Stanford
+        University Center for Internet and Society \u2014 to discuss the complicated
+        consequences of various attempts to regulate online platforms."
+  content:
+    text: ' \ud83c\udfa7 Listened to The Perils Of Internet Platform Regulation by
+      Techdirt From Techdirt'
+- type: entry
+  published: "2018-03-28T05:31:19+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/362189999-techdirt-tom-wheeler-reacts-to-trumps-fcc.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/362189999-techdirt-tom-wheeler-reacts-to-trumps-fcc.mp3
+      name: Tom Wheeler Reacts To Trump's FCC
+      author: Techdirt
+      content: "If you're a Techdirt reader or just a general regular on the ol' internet,
+        our topic this week \u2014 the current situation with net neutrality and the
+        FCC \u2014 needs little introduction. And we've got two very special guests
+        joining us to discuss it: former FCC Chair Tom Wheeler (author of the rules
+        that Ajit Pai is currently undoing) and his former advisor Gigi Sohn (who
+        joined us on the podcast in February to predict pretty much exactly what is
+        now happening). There are few people as qualified to talk about these issues,
+        so enjoy this week's episode looking at Trump's FCC and the future of the
+        internet as we know it."
+  content:
+    text: ' \ud83c\udfa7 Listened to Tom Wheeler Reacts To Trump''s FCC by Techdirt
+      From Techdirt'
+...

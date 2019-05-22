@@ -1,0 +1,263 @@
+---
+- type: entry
+  published: "2018-10-06T10:53:32+00:00"
+  category:
+  - scrobble
+  - audio
+  - indieweb on Huffduffer
+  - []
+  listen-of:
+    h-cite:
+      url: https://huffduffer.com/search/rss?q=indieweb&sort=date
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2018/04/fte_20180429.mp3
+      - http://archive.org/download/indieweb_on_Huffduffer-by-Array/_The_value_of_rituals_in_a_digital_world_ABC_Radio_National.mp3
+      name: "\U0001F3A7 The value of rituals in a digital world | ABC Radio National"
+      author: []
+      content: "A fascinating topic in general, but there are some interesting tidbits
+        that the IndieWeb movement could pick up as transitional rituals within its
+        workflow.\r\n\r\nhttps://boffosocko.com/2018/09/25/the-value-of-rituals-in-a-digital-world-abc-radio-national/"
+  content:
+    text: " \\ud83c\\udfa7 Listened to \U0001F3A7 The value of rituals in a digital
+      world | ABC Radio National by Array From indieweb on Huffduffer"
+- type: entry
+  published: "2018-10-06T01:58:47+00:00"
+  category:
+  - scrobble
+  - audio
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
+  listen-of:
+    h-cite:
+      url: http://textfiles.libsyn.com/rss
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_35.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_WozADay_Episode.mp3
+      name: The Woz-A-Day Episode
+      author: Jason Scott
+      content: " The Woz-A-Day Episode: Woz-a-Day Project, .WOZ Files, What is History
+        to Us, How do we Show History, The Doubled Narrative of MYST, What Hard Hat
+        Mack can teach us, an Evergreen Education, our Woz Filled Future. Also: The
+        Crop Share, Fishkill Farms. \_   I mention an excellent article about two
+        conflicting narratives in MYST History. That article is here:  https://medium.com/picking-up-the-pieces/two-histories-of-myst-8b37e1504f9e
+        \_ My beloved Fishkill Farms has a webpage here: http://www.fishkillfarms.com/
+        \_ The Woz-a-Day Project is growing here: https://archive.org/details/wozaday "
+  content:
+    text: ' \ud83c\udfa7 Listened to The Woz-A-Day Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
+- type: entry
+  published: "2018-10-06T02:55:17+00:00"
+  category:
+  - scrobble
+  - audio
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
+  listen-of:
+    h-cite:
+      url: http://textfiles.libsyn.com/rss
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_36.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Longest_Friend_Episode.mp3
+      name: The Longest Friend Episode
+      author: Jason Scott
+      content: " The Longest Friend Episode: Childhood friends, Teenage Friends, College
+        Friends, Adult Friends, Our Separate Paths, Our Continued Future. \_ A very
+        personal episode on a very long-time and very close friend, Chris Orcutt.
+        \_   Chris has a website here: http://orcutt.net/weblog/ "
+  content:
+    text: ' \ud83c\udfa7 Listened to The Longest Friend Episode by @textfiles From
+      #JasonScottTalksHisWayOutofIt'
+- type: entry
+  published: "2018-10-06T03:22:45+00:00"
+  category:
+  - scrobble
+  - audio
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
+  listen-of:
+    h-cite:
+      url: http://textfiles.libsyn.com/rss
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_37.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Game_World_Episode.mp3
+      name: The Game World Episode
+      author: Jason Scott
+      content: "The Game Worlds Episode: Getting Ready to Explore, The Games I Love,
+        Adventure, Ten Years of Destiny, Halo Forever, Car Without an Engine, Player
+        Unknown: Introspections, The Dangerous Mechanism, No Man's Sky, Exploring
+        Forever. Plus: The Sound of Taxes.\r\n\r\nWhy have such a simple podcast if
+        you can't try new things? I thought I'd go into a very ethereal and strange
+        way of looking at technology and games. I'm not sure if I caught the feeling
+        I wanted to give, but I gave it my best shot. "
+  content:
+    text: ' \ud83c\udfa7 Listened to The Game World Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
+- type: entry
+  published: "2018-10-06T06:58:53+00:00"
+  category:
+  - scrobble
+  - audio
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
+  listen-of:
+    h-cite:
+      url: http://textfiles.libsyn.com/rss
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_39.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_HarvardNet_Episode_Part_2.mp3
+      name: The HarvardNet Episode (Part 2)
+      author: Jason Scott
+      content: 'The HarvardNet Episode (Part 2): Quitting HarvardNet, A Most Saucy
+        Letter, Two Paychecks No Job, HarvardNetSucks.com, SLAPP Lawsuit, Vinny Bono
+        the Furious Angel, "Winning", Brian. I can stop thinking about HarvardNet
+        now! Thanks for that gift. Onward to positive things.'
+  content:
+    text: ' \ud83c\udfa7 Listened to The HarvardNet Episode (Part 2) by @textfiles
+      From #JasonScottTalksHisWayOutofIt'
+- type: entry
+  published: "2018-10-06T10:24:39+00:00"
+  category:
+  - scrobble
+  - audio
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
+  listen-of:
+    h-cite:
+      url: http://textfiles.libsyn.com/rss
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_41.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Podsucker_Episode.mp3
+      name: The Podsucker Episode
+      author: Jason Scott
+      content: 'The Podsucker Episode: The Need to Save Textfiles, The Story of Podcasts,
+        Why Save Them, Building the Podsucker, 3 years of Podcasts, Finding the Drives,
+        Thoughts on a Money Sense.'
+  content:
+    text: ' \ud83c\udfa7 Listened to The Podsucker Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
+- type: entry
+  published: "2018-10-06T07:26:33+00:00"
+  category:
+  - scrobble
+  - audio
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
+  listen-of:
+    h-cite:
+      url: http://textfiles.libsyn.com/rss
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_40.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Commodore_Episode.mp3
+      name: The Commodore Episode
+      author: Jason Scott
+      content: "The Commodore 64 Emulator Episode: I missed the C64, a Commodore Announcement,
+        VICE and a Difficult Birth, Sgeo to the Rescue, An Hour at the Scollans, Demoscene,
+        A Depth of History, What Happens Upon Announcement. Thanks to everyone, Sgeo
+        especially, for all the work they've put into the project behind this episode's
+        announcement. \_It wouldn't have happened without you!  I'm in San Francisco
+        on October 3rd for the Internet Archive's Annual Bash, and it'll be me and
+        a top hat and lots of other fun announcements and the rest. If you visit and
+        you're a podcast supporter, say hi."
+  content:
+    text: ' \ud83c\udfa7 Listened to The Commodore Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
+- type: entry
+  published: "2018-10-06T06:37:31+00:00"
+  category:
+  - scrobble
+  - audio
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
+  listen-of:
+    h-cite:
+      url: http://textfiles.libsyn.com/rss
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_38.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_HarvardNet_Episode_Part_1.mp3
+      name: The HarvardNet Episode (Part 1)
+      author: Jason Scott
+      content: 'The HarvardNet Episode (Part 1): The Next Thing, A Game Engine-Worthy
+        Datacenter, Life at HarvardNet, The Real Internet, Food Locker, Basement,
+        DVD Bonus, The Big Fraud, Eyeing the Door, Brian''s Bravery. A two-part episode
+        about HarvardNet, the ISP I worked at for one year. Either nothing shocks
+        you or it probably all shocks you. Either way: The Internet was a different
+        thing 18 years ago.'
+  content:
+    text: ' \ud83c\udfa7 Listened to The HarvardNet Episode (Part 1) by @textfiles
+      From #JasonScottTalksHisWayOutofIt'
+- type: entry
+  published: "2018-10-06T02:32:51+00:00"
+  category:
+  - scrobble
+  - audio
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
+  listen-of:
+    h-cite:
+      url: http://textfiles.libsyn.com/rss
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_34.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Kansasfest_Episode.mp3
+      name: The Kansasfest Episode
+      author: Jason Scott
+      content: "The Kansasfest Episode: Why I Love Kansasfest, The Apple II, Living
+        There, The Events and the Magic, The Friendship, The Purpose of a Vacation,
+        The Best Things, Race You. Plus: Emergency Room.\r\nI have two episodes about
+        Apple II subjects and then I think it's best to lay off the Apple II for a
+        while. I do so many other things and have so much more to talk about! I also
+        mention a visit to the Emergency Room, and this Patreon made it a cakewalk.
+        Thanks again."
+  content:
+    text: ' \ud83c\udfa7 Listened to The Kansasfest Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
+- type: entry
+  published: "2018-10-06T15:33:38+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/dEzxz2gHiPE/179._On_Silicon_Graphics_with_John_McCrea_Pt._1.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/179_On_Silicon_Graphics_with_John_McCrea_Pt_1.mp3
+      name: 179. On Silicon Graphics with John McCrea (Pt. 1)
+      author: Brian McCullough @brianmcc
+      content: "John McCrea is a\_Zelig-like personality who pops up in so many of
+        the narratives we've already covered:\_Apple. Netscape. Doing battle with
+        Microsoft. This is part one, mostly about Silicon Graphics,\_a company I had
+        been thinking about doing an episode on for a while now, to really rejuvenate
+        that company\u2019s reputation, historically. For reasons that will be obvious
+        when you listen."
+  content:
+    text: ' \ud83c\udfa7 Listened to 179. On Silicon Graphics with John McCrea (Pt.
+      1) by Brian McCullough @brianmcc From Internet History Podcast'
+- type: entry
+  published: "2018-10-06T17:05:33+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/fywNhKwwhPk/180._Part_2_With_John_McCrea.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/180_Part_2_With_John_McCrea.mp3
+      name: 180. Part 2 With John McCrea
+      author: Brian McCullough @brianmcc
+      content: 'Simple enough: Part 2 with John McCrea. More on SGI, more on doing
+        battle with Microsoft in the 90s. And... interesting stuff on VR and the future...'
+  content:
+    text: ' \ud83c\udfa7 Listened to 180. Part 2 With John McCrea by Brian McCullough
+      @brianmcc From Internet History Podcast'
+...

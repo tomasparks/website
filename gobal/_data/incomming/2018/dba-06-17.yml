@@ -1,0 +1,118 @@
+---
+- type: entry
+  published: "2018-06-17T02:50:54+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - internethistorypodcast@gmail.com (Brian McCullough @brianmcc)
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/IRZIBXnwznA/AMG8239285468.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/HUGE_Podcast_Announcement.mp3
+      name: HUGE Podcast Announcement
+      author: internethistorypodcast@gmail.com (Brian McCullough @brianmcc)
+      content: "HUGE Podcast Announcement!Details on how to pre-order the podcast
+        book!\r\n      "
+  content:
+    text: ' \ud83c\udfa7 Listened to HUGE Podcast Announcement by internethistorypodcast@gmail.com
+      (Brian McCullough @brianmcc) From Internet History Podcast'
+- type: entry
+  published: "2018-06-17T03:06:54+00:00"
+  category:
+  - scrobble
+  - audio
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
+  listen-of:
+    h-cite:
+      url: http://textfiles.libsyn.com/rss
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_30.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Sven_Wallin_Wynn_Wagner_Episode.mp3
+      name: The Sven Wallin / Wynn Wagner Episode
+      author: Jason Scott
+      content: 'An episode of the life of and my experiences knowing Sven Wallin /
+        Wynn Wagner III. Fidonet, OPUS, Fossil, YOOHOO, The Interview and Dinner,
+        Archbishop, Goodbye, The Journey. Note: A Mention of Suicide.'
+  content:
+    text: ' \ud83c\udfa7 Listened to The Sven Wallin / Wynn Wagner Episode by @textfiles
+      From #JasonScottTalksHisWayOutofIt'
+- type: entry
+  published: "2018-06-17T09:53:25+00:00"
+  category:
+  - scrobble
+  - audio
+  - Acquired - Technology Acquisitions & IPOs
+  - Ben Gilbert and David Rosenthal
+  listen-of:
+    h-cite:
+      url: http://www.acquired.fm/episodes?format=RSS
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/acquired/PPP.mp3
+      - http://archive.org/download/Acquired-Podcast-by-Ben_Gilbert_and_David_Rosenthal/Episode_13_Push_Pop_Press_Facebook_Instant_Articles_with_Todd_Bishop.mp3
+      name: 'Episode 13: Push Pop Press (Facebook Instant Articles) with Todd Bishop'
+      author: Ben Gilbert and David Rosenthal
+      content: "Ben and David are joined by Todd Bishop, technology reporter and co-founder
+        of GeekWire, to discuss Facebook's 2011 acquisition of Push Pop Press. Highlights
+        include: \t\u2022\tThe founding story of Push Pop Press by\_Kimon Tsinteris
+        and Mike Matas. \t\u2022\tThe evolution of Facebook Creative Labs, Facebook
+        Paper, and eventually, Facebook Instant Articles. \t\u2022\tFacebook's role
+        in the changing media landscape today. \t\u2022\tGeekWire's experiments with
+        Facebook Instant Articles, Google Accelerated Mobile Pages, and live video.
+        The Carve Out \t\u2022\t\uFEFFThe Startup Podcast Season 3 \t\u2022\tThe Future
+        of Technology is in Your Ear (Link to\_product) \t\u2022\tThe Risk Not Taken"
+  content:
+    text: ' \ud83c\udfa7 Listened to Episode 13: Push Pop Press (Facebook Instant
+      Articles) with Todd Bishop by Ben Gilbert and David Rosenthal From @AcquiredFM'
+- type: entry
+  published: "2018-06-17T11:47:00+00:00"
+  category:
+  - scrobble
+  - audio
+  - Acquired - Tech Acquisitions & IPOs
+  - Ben Gilbert and David Rosenthal
+  listen-of:
+    h-cite:
+      url: http://www.acquired.fm/episodes?format=RSS
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/acquired/Acquired_Episode_14_-_LinkedIn.mp3
+      - http://archive.org/download/Acquired-Podcast-by-Ben_Gilbert_and_David_Rosenthal/Episode_14_LinkedIn.mp3
+      name: 'Episode 14: LinkedIn'
+      author: Ben Gilbert and David Rosenthal
+      content: "Ben and David cover the 3-day-old acquisition of LinkedIn by Microsoft
+        for $26.2 billion. They cover LinkedIn\u2019s founding story by Reid Hoffman,
+        analyze recent stock behavior, and speculate on the future."
+  content:
+    text: ' \ud83c\udfa7 Listened to Episode 14: LinkedIn by Ben Gilbert and David
+      Rosenthal From @AcquiredFM'
+- type: entry
+  published: "2018-06-17T02:47:47+00:00"
+  category:
+  - scrobble
+  - audio
+  - Acquired - Tech Acquisitions & IPOs
+  - Ben Gilbert and David Rosenthal
+  listen-of:
+    h-cite:
+      url: http://www.acquired.fm/episodes?format=RSS
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/acquired/Snapchat.mp3
+      - http://archive.org/download/Acquired-Podcast-by-Ben_Gilbert_and_David_Rosenthal/Episode_12_Snapchat_.mp3
+      name: 'Episode 12: Snapchat (?!)'
+      author: Ben Gilbert and David Rosenthal
+      content: 'Ben and David tackle their first failed acquisition: Facebook''s 2013
+        offer to buy Snapchat. They cover the fascinating story of Snapchat''s creation
+        and growth, their blossoming business model, how it would be different inside
+        of Facebook.'
+  content:
+    text: ' \ud83c\udfa7 Listened to Episode 12: Snapchat (?!) by Ben Gilbert and
+      David Rosenthal From @AcquiredFM'
+...

@@ -1,0 +1,49 @@
+---
+- type: entry
+  published: "2018-03-22T01:46:17+00:00"
+  category:
+  - scrobble
+  - audio
+  - STEAL THIS SHOW
+  - STEAL THIS SHOW
+  listen-of:
+    h-cite:
+      url: http://stealthisshow.com/feed/podcast
+      photo: ""
+      audio:
+      - http://media.blubrry.com/stealthisshow/content.blubrry.com/stealthisshow/s03e09_Love_Your_Panopticon_with_Diani_Barreto.mp3
+      - http://archive.org/download/STEAL_THIS_SHOW-Podcast-by-STEAL_THIS_SHOW/s03e09_Love_Your_Panopticon_with_Diani_Barreto.mp3
+      name: "\u2018Learning To Love Your Panopticon\u2019, with Diani Barreto of ExposeFacts"
+      author: STEAL THIS SHOW
+      content: In this episode we meet Diani Barreto from the Berlin Bureau of ExposeFacs.
+        Launched in June 2014, ExposeFacts.org supports and encourages whistleblowers
+        to disclose information that citizens need to make truly informed decisions
+        in a...
+  content:
+    text: " \\ud83c\\udfa7 Listened to \u2018Learning To Love Your Panopticon\u2019,
+      with Diani Barreto of ExposeFacts by @steal_this_show From @steal_this_show"
+- type: entry
+  published: "2018-03-22T00:42:11+00:00"
+  category:
+  - scrobble
+  - audio
+  - STEAL THIS SHOW
+  - STEAL THIS SHOW
+  listen-of:
+    h-cite:
+      url: http://stealthisshow.com/feed/podcast
+      photo: ""
+      audio:
+      - http://media.blubrry.com/stealthisshow/content.blubrry.com/stealthisshow/S03E10_Battle_Of_The_Bots_with_Ben_Nimmo.mp3
+      - http://archive.org/download/STEAL_THIS_SHOW-Podcast-by-STEAL_THIS_SHOW/S03E10_Battle_Of_The_Bots_with_Ben_Nimmo.mp3
+      name: "\u2018The Battle Of The Bots\u2019, with Ben Nimmo of Digital Forensic
+        Research Lab"
+      author: STEAL THIS SHOW
+      content: "It seems everyone\u2019s getting in on the \u201Cfake news\u201D game
+        today, from far-right parties in Germany to critics of Catalan separatism
+        \u2014 but none more concertedly than the Russian state itself. In this episode
+        we..."
+  content:
+    text: " \\ud83c\\udfa7 Listened to \u2018The Battle Of The Bots\u2019, with Ben
+      Nimmo of Digital Forensic Research Lab by @steal_this_show From @steal_this_show"
+...

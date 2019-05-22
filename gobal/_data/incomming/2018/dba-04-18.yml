@@ -1,0 +1,125 @@
+---
+- type: entry
+  published: "2018-04-18T20:00:25+00:00"
+  category:
+  - scrobble
+  - audio
+  - STEAL THIS SHOW
+  - STEAL THIS SHOW
+  listen-of:
+    h-cite:
+      url: http://stealthisshow.com/feed/podcast
+      photo: ""
+      audio:
+      - http://media.blubrry.com/stealthisshow/content.blubrry.com/stealthisshow/S03_E14_The_Many_Lives_Of_The_Alt-Right_with_Elizbeth_Sandifer.mp3
+      - http://archive.org/download/STEAL_THIS_SHOW-Podcast-by-STEAL_THIS_SHOW/S03_E14_The_Many_Lives_Of_The_Alt-Right_with_Elizbeth_Sandifer.mp3
+      name: "\u2018The Many Lives Of The Alt-Right\u2019, with Elizabeth Sandifer"
+      author: STEAL THIS SHOW
+      content: What is the alt-right, and what does it have to do with online culture?
+        In this episode we meet Elizabeth Sandifer, author of Neoreaction, A Basilisk.
+        Riffing off the material in her book, we talk...
+  content:
+    text: " \\ud83c\\udfa7 Listened to \u2018The Many Lives Of The Alt-Right\u2019,
+      with Elizabeth Sandifer by @steal_this_show From @steal_this_show"
+- type: entry
+  published: "2018-04-18T13:02:59+00:00"
+  category:
+  - scrobble
+  - audio
+  - clevercast
+  - []
+  listen-of:
+    h-cite:
+      url: http://cleverca.st/podcast.xml
+      photo: ""
+      audio:
+      - http://cleverca.st/uploads/2018/9c077a4e2e.mp3
+      - http://archive.org/download/clevercast-by-Array/9c077a4e2e.mp3
+      name: 'Episode 3: Freedom from Facebook'
+      author: []
+      content: "This time on clevercast, I discuss my departure from Facebook, including
+        an overview of how I liberated my data from the social giant, and moved it
+        to my own website.\n\nHere are some of the tools that I mention in today\u2019s
+        episode:\n\n\n  fb-export\n  granary by Ryan Barrett\n  instaLooter\n  OwnYourGram\n\n\nAlso
+        check out my On This Day page and my Subscribe page, which includes my daily
+        email syndication of my website activity.\n\n\n\n"
+  content:
+    text: ' \ud83c\udfa7 Listened to Episode 3: Freedom from Facebook by Array From
+      clevercast'
+- type: entry
+  published: "2018-04-18T12:14:12+00:00"
+  category:
+  - scrobble
+  - audio
+  - clevercast
+  - []
+  listen-of:
+    h-cite:
+      url: http://cleverca.st/podcast.xml
+      photo: ""
+      audio:
+      - http://cleverca.st/uploads/2018/a6b60caf2f.mp3
+      - http://archive.org/download/clevercast-by-Array/a6b60caf2f.mp3
+      name: 'Episode 2: Restoration'
+      author: []
+      content: |+
+        This time, on clevercast, I reminisce about one of my earliest personal websites. What happened to its content? How did I create it? Is there any chance of restoring it back to greatness?
+
+
+
+  content:
+    text: ' \ud83c\udfa7 Listened to Episode 2: Restoration by Array From clevercast'
+- type: entry
+  published: "2018-04-18T12:57:08+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/431178132-techdirt-teaching-the-law-via-podcasts.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/431178132-techdirt-teaching-the-law-via-podcasts.mp3
+      name: Teaching The Law Via Podcasts
+      author: Techdirt
+      content: "Law isn't simple, and truly learning about it takes more than a few
+        short primers or even an in-depth guide or two \u2014 which makes it the perfect
+        topic to explore via the medium of podcasts. This week, we've got a pair of
+        guests who are doing exactly that: Ken White of Popehat fame, who recently
+        launched the Make No Law podcast about First Amendment issues, and Elizabeth
+        Joh, co-host of the What Trump Can Teach Us About Constitutional Law podcast.
+        Instead of picking their brains about the law itself, we've got an episode
+        all about their experience using podcasts to teach people about legal issues."
+  content:
+    text: ' \ud83c\udfa7 Listened to Teaching The Law Via Podcasts by Techdirt From
+      Techdirt'
+- type: entry
+  published: "2018-04-18T12:09:40+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/3wPPf67EGJg/168._The_History_of_Java_With_Todd_Sundsted.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/168_The_History_of_Java_With_Todd_Sundsted.mp3
+      name: 168. The History of Java With Todd Sundsted
+      author: Brian McCullough @brianmcc
+      content: "People have been yelling at me for years that I\u2019ve not covered
+        more technical aspects of the web\u2019s history, especially things like Java.
+        Specifically Java. The argument can be made that Java helped the web evolve
+        into what it\u2019s become. So, that\u2019s why I was thrilled to sit down
+        with Todd Sundsted, who is a developer who has been working with Java for
+        more than 20 years. Todd walks us through the history of Java and why it is
+        so important to the web\u2019s general evolution."
+  content:
+    text: ' \ud83c\udfa7 Listened to 168. The History of Java With Todd Sundsted by
+      Brian McCullough @brianmcc From Internet History Podcast'
+...

@@ -1,0 +1,118 @@
+---
+- type: entry
+  published: "2019-05-18T08:06:56+00:00"
+  category:
+  - scrobble
+  - audio
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
+  listen-of:
+    h-cite:
+      url: http://textfiles.libsyn.com/rss
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_64.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/Jerome_Johnson.mp3
+      name: Jerome Johnson
+      author: Jason Scott
+      content: "Jerome Johnson. For more information on Jerome, here's some links:
+        \_https://cityroom.blogs.nytimes.com/2011/08/03/its-his-home-and-an-energy-lab-and-he-might-lose-it/\_
+        \_https://www.youtube.com/watch?v=8DlSY_ppxJ0\_ \_https://www.youtube.com/watch?v=hED7I6zp1hI\_
+        \_https://wagingnonviolence.org/2012/10/a-dream-that-grew-in-brooklyn-faces-foreclosure/\_"
+  content:
+    text: ' \ud83c\udfa7 Listened to Jerome Johnson by @textfiles From #JasonScottTalksHisWayOutofIt'
+- type: entry
+  published: "2019-05-18T13:59:05+00:00"
+  category:
+  - scrobble
+  - audio
+  - Future Tense - ABC - RN
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: https://www.abc.net.au/radionational/feed/2883726/podcast.xml
+      photo: ""
+      audio:
+      - https://abcmedia.akamaized.net/rn/podcast/2019/05/fte_20190512.mp3
+      - http://archive.org/download/Future_Tense_ABC_RN-by-ABC_Radio_National/fte_20190512.mp3
+      name: As the Internet divides
+      author: ABC Radio National
+      content: Analysts say that many countries and companies will soon be forced
+        to make a decision between the Chinese version of the Internet and the liberal,
+        Western model - both models have a very different underlaying philosophy and
+        understanding of governance.
+  content:
+    text: ' \ud83c\udfa7 Listened to As the Internet divides by ABC Radio National
+      From Future Tense - ABC - RN'
+- type: entry
+  published: "2019-05-18T07:46:37+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2019/05/gms_20190507.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Say_cheese.mp3
+      name: Say cheese
+      author: ABC Radio National
+      content: Hard, soft, smelly or blue - there's a cheese for every occasion. But
+        is it time to rethink our relationship with this delicious dairy product?
+  content:
+    text: ' \ud83c\udfa7 Listened to Say cheese by ABC Radio National From Great Moments
+      In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2019-05-18T14:33:43+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl on triplej
+  - ABC Science
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20190509.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Muscle_memory_buttery_sweat_and_our_robot_overlords.mp3
+      name: Muscle memory, buttery sweat and our robot overlords
+      author: ABC Science
+      content: Where does the wind come from? Can we affect other peoples dreams?
+        Why do some people smell like butter when they sweat?
+  content:
+    text: ' \ud83c\udfa7 Listened to Muscle memory, buttery sweat and our robot overlords
+      by ABC Science From Dr Karl on triplej'
+- type: entry
+  published: "2019-05-18T08:43:58+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/617145219-techdirt-politicians-usually-dont-understand-technology.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/617145219-techdirt-politicians-usually-dont-understand-technology.mp3
+      name: Politicians (Usually) Don't Understand Technology
+      author: Techdirt
+      content: The regulation of technology is an extremely important issue that impacts
+        all our lives, but it tends to take a back seat in the world of mainstream
+        politics, and when it does come to the fore, the lack of knowledge on display
+        among elected representatives can be... disheartening, to say the least. In
+        some ways that's starting to change as a generation of people who grew up
+        with modern technology gets more and more involved in politics, but we're
+        still a long, long way away from having a majority of tech-savvy (or even
+        tech-literate) lawmakers. This week, we're joined by lawyer and pioneering
+        law blogger Denise Howell to discuss the challenge of even determining whether
+        a politician knows what they are talking about when it comes to tech.
+  content:
+    text: ' \ud83c\udfa7 Listened to Politicians (Usually) Don''t Understand Technology
+      by Techdirt From Techdirt'
+...

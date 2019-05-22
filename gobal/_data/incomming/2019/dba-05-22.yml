@@ -1,0 +1,87 @@
+---
+- type: entry
+  published: "2019-05-22T19:18:02+00:00"
+  category:
+  - scrobble
+  - audio
+  - "An Indieweb Podcast \u2013 Chris Aldrich"
+  - https://wordpress.org/?v=5.1.1
+  listen-of:
+    h-cite:
+      url: http://boffosocko.com/tag/an-indieweb-podcast/feed/
+      photo: ""
+      audio:
+      - https://david.shanske.com/wp-content/uploads/2019/05/Indieweb14.mp3#t=4384
+      - http://archive.org/download/An_Indieweb_Podcast_Chris_Aldrich-by-httpswordpressorgv511/Indieweb14.mp3
+      name: 'An IndieWeb Podcast: Episode 14 A loose collective of developers and
+        techno-utopians'
+      author: https://wordpress.org/?v=5.1.1
+      content: 'If possible, click to play, otherwise your browser may be unable to
+        play this audio file. Running time: 1h 19m 57s &#124; Download (37.5MB) &#124;
+        Subscribe by RSS &#124; Huffduff Summary: Our first episode since January.
+        David Shanske and Chris Aldrich get caught up on some recent IndieWebCamps,
+        an article about IndieWeb in The New &#8230; Continue reading "An IndieWeb
+        Podcast: Episode 14 A loose collective of developers and techno-utopians"'
+  content:
+    text: " \\ud83c\\udfa7 Listened to An IndieWeb Podcast: Episode 14 A loose collective
+      of developers and techno-utopians by https://wordpress.org/?v=5.1.1 From An
+      Indieweb Podcast \u2013 Chris Aldrich"
+- type: entry
+  published: "2019-05-22T16:20:21+00:00"
+  category:
+  - scrobble
+  - audio
+  - indieweb on Huffduffer
+  - []
+  listen-of:
+    h-cite:
+      url: https://huffduffer.com/search/rss?q=indieweb&sort=date
+      photo: ""
+      audio:
+      - https://huffduff-video.s3-us-west-2.amazonaws.com/vimeo.com_336343886.mp3
+      - http://archive.org/download/indieweb_on_Huffduffer-by-Array/vimeo.com_336343886.mp3
+      name: "Take Back Your Web - Tantek \xC7elik"
+      author: []
+      content: "We used to control our online identities, content, and experience.
+        We now share Twitter names instead of domains; even web developers tweet and
+        post on Medium instead of their own sites. We scroll social media and feel
+        empty instead of reading news & blogs to feel informed and connected. Algorithmic
+        feeds amplify rage & conspiracies, enabling tribal ad-targeting to polarise
+        and spread misinformation, threatening democracy itself.\r\nWhat happened?
+        And what are we doing to fix it?\r\nThat's a big question that will require
+        all of us, our communities, our employers, to shift. I don't want to wait,
+        and you probably don't either.\r\nWhat can you do for yourself, today?\r\nOwn
+        your domain. Own your content. Own your social connections. Own your reading
+        experience. IndieWeb services, tools, and standards enable you to take back
+        your web.\r\n\r\n===\r\nOriginal video: https://vimeo.com/336343886\r\nDownloaded
+        by http://huffduff-video.snarfed.org/ on Sun, 19 May 2019 21:10:12 GMT\r\nAvailable
+        for 30 days after download"
+  content:
+    text: " \\ud83c\\udfa7 Listened to Take Back Your Web - Tantek \xC7elik by Array
+      From indieweb on Huffduffer"
+- type: entry
+  published: "2019-05-22T17:19:55+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/624337320-techdirt-breaking-facebook-with-mike-godwin-and-david-kaye.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/624337320-techdirt-breaking-facebook-with-mike-godwin-and-david-kaye.mp3
+      name: Breaking Facebook, With Mike Godwin And David Kaye
+      author: Techdirt
+      content: "The topic of what (if anything) to do with Facebook was hardly fading
+        from public discourse anyway, but it received a bump when co-founder Chris
+        Hughes called for the company to be broken up. This week, we've got two returning
+        guests on the podcast with plenty to say on the subject \u2014 UN Special
+        Rapporteur on freedom of expression David Kaye, and famed internet lawyer
+        Mike Godwin \u2014 to discuss the many sides of the Facebook question."
+  content:
+    text: ' \ud83c\udfa7 Listened to Breaking Facebook, With Mike Godwin And David
+      Kaye by Techdirt From Techdirt'
+...
