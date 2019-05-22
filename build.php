@@ -36,7 +36,7 @@ $BuildConfig = array
                     "dest" => "miniatures.tomasparks.name",
                     "gitDest" => "miniatures",
                     "theme"=> "lab-notebook-jekyll",
-                                            "includesSrcs" => array ("gobal","Articles/miniatures"),
+                    "includesSrcs" => array ("gobal","Articles/miniatures"),
                     "plugins" => ""),
                     
                     "notes" => array ("name" => "notes",
@@ -48,7 +48,7 @@ $BuildConfig = array
                     );
 
 
-$who ="main"; 
+$who ="miniatures"; 
 $building = $BuildConfig[$who];
 $building = array_merge($building,$builddefualts);
 
