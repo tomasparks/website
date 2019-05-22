@@ -1,0 +1,65 @@
+---
+- type: entry
+  published: "2019-05-16T12:48:24+00:00"
+  url: https://twitter.com/tomasparksts/status/1129005679799394304
+  photo:
+  - https://pbs.twimg.com/media/D6sIrFqXoAAO1qQ.jpg
+  - https://pbs.twimg.com/media/D6sIrdvWsAARBD6.jpg
+  - https://pbs.twimg.com/media/D6sIrp5XoAABeQD.png
+  content:
+    text: "Creating a Deepzoom map for Dioramas: tomasparks.name/miniatures/not\u2026"
+    html: "Creating a Deepzoom map for Dioramas: <a href=\"https://tomasparks.name/miniatures/notebook/2018/10/deepzoom-map.html\">tomasparks.name/miniatures/not\u2026</a>"
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+- type: entry
+  published: "2019-05-16T11:21:40+00:00"
+  url: https://twitter.com/tomasparksts/status/1128983850393133056
+  category:
+  - https://twitter.com/ElderScrolls
+  - https://twitter.com/lazygamereviews
+  in-reply-to:
+  - https://twitter.com/tomasparksts/status/1128320538491834368
+  content:
+    text: '@lazygamereviews'
+    html: <a href="https://twitter.com/lazygamereviews">@lazygamereviews</a>
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/ElderScrolls:
+      type: card
+      name: The Elder Scrolls
+      url: https://twitter.com/ElderScrolls
+      photo: ~
+    https://twitter.com/lazygamereviews:
+      type: card
+      name: LGR
+      url: https://twitter.com/lazygamereviews
+      photo: ~
+- type: entry
+  published: "2019-05-16T10:51:53+00:00"
+  url: https://twitter.com/tomasparksts/status/1128976355297599488
+  category:
+  - https://twitter.com/DoctorKarl
+  in-reply-to:
+  - https://twitter.com/DoctorKarl/status/1128942624801345537
+  content:
+    text: also, the people who claim they can sense radio waves have never passed
+      a double-blind test.
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/DoctorKarl:
+      type: card
+      name: Dr Karl
+      url: https://twitter.com/DoctorKarl
+      photo: ~
+...

@@ -1,0 +1,54 @@
+---
+- type: entry
+  published: "2019-05-20T15:11:50+00:00"
+  url: https://twitter.com/tomasparksts/status/1130491325072138240
+  category:
+  - https://twitter.com/nostalnerd
+  - https://twitter.com/lazygamereviews
+  in-reply-to:
+  - https://twitter.com/nostalnerd/status/1130490754562973696
+  content:
+    text: cc @lazygamereviews
+    html: cc <a href="https://twitter.com/lazygamereviews">@lazygamereviews</a>
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/nostalnerd:
+      type: card
+      name: Nostalgia Nerd
+      url: https://twitter.com/nostalnerd
+      photo: ~
+    https://twitter.com/lazygamereviews:
+      type: card
+      name: LGR
+      url: https://twitter.com/lazygamereviews
+      photo: ~
+- type: entry
+  published: "2019-05-20T05:29:58+00:00"
+  url: https://twitter.com/tomasparksts/status/1130344894252298240
+  in-reply-to:
+  - https://twitter.com/tomasparksts/status/1130344631298920448
+  content:
+    text: '#Blockchain *throwsup*'
+    html: <a href="https://twitter.com/search?q=%23Blockchain">#Blockchain</a> *throwsup*
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+- type: entry
+  published: "2019-05-20T05:28:55+00:00"
+  url: https://twitter.com/tomasparksts/status/1130344631298920448
+  content:
+    text: '#SkimmedThrough w3c-ccg.github.io/did-spec/'
+    html: <a href="https://twitter.com/search?q=%23SkimmedThrough">#SkimmedThrough</a>
+      <a href="https://w3c-ccg.github.io/did-spec/">w3c-ccg.github.io/did-spec/</a>
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+...

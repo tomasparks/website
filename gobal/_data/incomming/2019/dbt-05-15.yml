@@ -1,0 +1,15 @@
+---
+- type: entry
+  published: "2019-05-15T02:25:06+00:00"
+  url: https://twitter.com/tomasparksts/status/1128486432102731776
+  in-reply-to:
+  - https://twitter.com/tomasparksts/status/1128323854990958592
+  content:
+    text: '#Photosynth'
+    html: <a href="https://twitter.com/search?q=%23Photosynth">#Photosynth</a>
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+...

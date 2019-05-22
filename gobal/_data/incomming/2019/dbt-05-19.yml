@@ -1,0 +1,22 @@
+---
+- type: entry
+  published: "2019-05-19T18:51:51+00:00"
+  url: https://twitter.com/tomasparksts/status/1130184308730105856
+  category:
+  - https://twitter.com/RPGMP3
+  in-reply-to:
+  - https://twitter.com/RPGMP3/status/1130175880385433601
+  content:
+    text: ouch
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/RPGMP3:
+      type: card
+      name: Hal
+      url: https://twitter.com/RPGMP3
+      photo: ~
+...
