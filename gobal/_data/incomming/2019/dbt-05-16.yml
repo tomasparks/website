@@ -1,5 +1,6 @@
 ---
-- type: entry
+0:
+  type: entry
   published: "2019-05-16T12:48:24+00:00"
   url: https://twitter.com/tomasparksts/status/1129005679799394304
   photo:
@@ -14,7 +15,8 @@
     name: Tom Sparks
     url: https://twitter.com/tomasparksts
     photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-- type: entry
+2:
+  type: entry
   published: "2019-05-16T11:21:40+00:00"
   url: https://twitter.com/tomasparksts/status/1128983850393133056
   category:
@@ -41,7 +43,8 @@
       name: LGR
       url: https://twitter.com/lazygamereviews
       photo: ~
-- type: entry
+3:
+  type: entry
   published: "2019-05-16T10:51:53+00:00"
   url: https://twitter.com/tomasparksts/status/1128976355297599488
   category:

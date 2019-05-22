@@ -1,17 +1,20 @@
 - title: home
-  url: /
-
-- title: Art
-  url: /art/
-
-- title: Open Questions
-  url: /questions/
-
-- title: Projects
-  url: /projects/
+  url: https://tomasparks.name/
 
 - title: blogroll
-  url: /website/blogroll.html
+  url: https://tomasparks.name/website/blogroll.html
   
 - title: Notes
-  url: /notes/
+  url: https://tomasparks.name/notes/
+  
+- title: Papercraft minitaures
+  url: https://tomasparks.name/miniatures/
+
+- title: Gallery
+  url: https://tomasparks.name/gallery/
+  
+- title: RetroSpaceGame
+  url: https://tomasparks.name/retrospacegame/  
+ 
+- title: alt-dtn-ebook
+  url: https://tomasparks.name/altdtn-ebook/   

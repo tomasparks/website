@@ -246,7 +246,7 @@ indieweb_on_Huffduffer-by-Array:
   002-rosemaryorchard.mp3: true
   23c5c80266.mp3: true
   teaser-trailer.mp3: true
-  vimeo.com_336343886.mp3: false
+  vimeo.com_336343886.mp3: true
 web_design_on_Huffduffer-by-Array:
   317326313-relativepaths-48-progressive-enhancement-with-aaron-gustafson.mp3: true
 clevercast-by-Array:
@@ -763,6 +763,7 @@ Techdirt-Podcast-by-Techdirt:
   610262673-techdirt-the-past-future-of-section-230.mp3: true
   613775241-techdirt-cory-doctorow-on-anti-circumvention-and-more.mp3: true
   617145219-techdirt-politicians-usually-dont-understand-technology.mp3: true
+  624337320-techdirt-breaking-facebook-with-mike-godwin-and-david-kaye.mp3: true
 Not_Another_DD_Podcast-by-HeadGum:
   mp3: true
 clevercast-by-Jonathan_LaCour:
@@ -1252,4 +1253,6 @@ Future_Tense_ABC_RN-by-ABC_Radio_National:
   fte_20190519.mp3: true
 Dr_Karl_Podcast-by-triple_j:
   Beard_hairballs_purring_pussies_and_green_boogers.mp3: true
+An_Indieweb_Podcast_Chris_Aldrich-by-httpswordpressorgv511:
+  Indieweb14.mp3: false
 ...
