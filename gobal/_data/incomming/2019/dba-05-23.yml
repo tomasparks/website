@@ -1,0 +1,23 @@
+---
+- type: entry
+  published: "2019-05-23T20:39:00+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://rpgmp3.com/v5/feed/podcast/
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_66.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_66.mp3
+      name: Kingmaker Session 66
+      author: Hal
+      content: "Episode 66 \u2013 in which Kaylen returns to the Keep of Flowers to
+        speak with his father about recent revelations, and discovers the secret of
+        the artist\u2019s commune."
+  content:
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 66 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+...

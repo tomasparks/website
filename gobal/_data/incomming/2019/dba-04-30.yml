@@ -1,5 +1,26 @@
 ---
 - type: entry
+  published: "2019-04-30T22:23:01+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2019/04/gms_20190430.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Easter_and_the_Equinox.mp3
+      name: Easter and the Equinox
+      author: ABC Radio National
+      content: Easter Sunday can fall in March or April, but the date is definitely
+        not random.
+  content:
+    text: ' \ud83c\udfa7 Listened to Easter and the Equinox by ABC Radio National
+      From Great Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
   published: "2019-04-30T22:16:45+00:00"
   category:
   - scrobble
@@ -29,27 +50,6 @@
   content:
     text: ' \ud83c\udfa7 Listened to The Infocom Source Code Episode by @textfiles
       From #JasonScottTalksHisWayOutofIt'
-- type: entry
-  published: "2019-04-30T22:23:01+00:00"
-  category:
-  - scrobble
-  - audio
-  - Great Moments In Science - with Dr Karl Kruszelnicki
-  - ABC Radio National
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2019/04/gms_20190430.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Easter_and_the_Equinox.mp3
-      name: Easter and the Equinox
-      author: ABC Radio National
-      content: Easter Sunday can fall in March or April, but the date is definitely
-        not random.
-  content:
-    text: ' \ud83c\udfa7 Listened to Easter and the Equinox by ABC Radio National
-      From Great Moments In Science - with Dr Karl Kruszelnicki'
 - type: entry
   published: "2019-04-30T02:09:40+00:00"
   category:

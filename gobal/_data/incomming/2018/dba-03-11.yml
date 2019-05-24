@@ -1,49 +1,5 @@
 ---
 - type: entry
-  published: "2018-03-11T11:44:16+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/188169008-techdirt-is-muni-broadband-a-monopoly-killer-or-a-killer-monopoly.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/188169008-techdirt-is-muni-broadband-a-monopoly-killer-or-a-killer-monopoly.mp3
-      name: Is Muni Broadband A Monopoly Killer Or A Killer Monopoly?
-      author: Techdirt
-      content: What if cities provided broadband alongside services like water and
-        garbage pickup? Mike Masnick, Hersh Reddy and Dennis Yang discuss the potential
-        pros and cons.
-  content:
-    text: ' \ud83c\udfa7 Listened to Is Muni Broadband A Monopoly Killer Or A Killer
-      Monopoly? by Techdirt From Techdirt'
-- type: entry
-  published: "2018-03-11T12:31:30+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/190457346-techdirt-barry-eisler-dissects-the-publishing-industry.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/190457346-techdirt-barry-eisler-dissects-the-publishing-industry.mp3
-      name: Barry Eisler Dissects The Publishing Industry
-      author: Techdirt
-      content: Bestselling author Barry Eisler discusses the evolving culture and
-        business model of publishing with Mike Masnick and Dennis Yang. This week's
-        music is D.I.Y. MySpam by Jayme Gutierrez.
-  content:
-    text: ' \ud83c\udfa7 Listened to Barry Eisler Dissects The Publishing Industry
-      by Techdirt From Techdirt'
-- type: entry
   published: "2018-03-11T13:11:22+00:00"
   category:
   - scrobble
@@ -70,6 +26,28 @@
     text: ' \ud83c\udfa7 Listened to The Worst Of Both Worlds: SESTA & FOSTA Together
       by Techdirt From Techdirt'
 - type: entry
+  published: "2018-03-11T12:31:30+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/190457346-techdirt-barry-eisler-dissects-the-publishing-industry.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/190457346-techdirt-barry-eisler-dissects-the-publishing-industry.mp3
+      name: Barry Eisler Dissects The Publishing Industry
+      author: Techdirt
+      content: Bestselling author Barry Eisler discusses the evolving culture and
+        business model of publishing with Mike Masnick and Dennis Yang. This week's
+        music is D.I.Y. MySpam by Jayme Gutierrez.
+  content:
+    text: ' \ud83c\udfa7 Listened to Barry Eisler Dissects The Publishing Industry
+      by Techdirt From Techdirt'
+- type: entry
   published: "2018-03-11T11:12:00+00:00"
   category:
   - scrobble
@@ -90,6 +68,28 @@
   content:
     text: ' \ud83c\udfa7 Listened to Should Kids Be Forced To Learn Coding? Or Economics?
       Or Stats? by Techdirt From Techdirt'
+- type: entry
+  published: "2018-03-11T11:44:16+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/188169008-techdirt-is-muni-broadband-a-monopoly-killer-or-a-killer-monopoly.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/188169008-techdirt-is-muni-broadband-a-monopoly-killer-or-a-killer-monopoly.mp3
+      name: Is Muni Broadband A Monopoly Killer Or A Killer Monopoly?
+      author: Techdirt
+      content: What if cities provided broadband alongside services like water and
+        garbage pickup? Mike Masnick, Hersh Reddy and Dennis Yang discuss the potential
+        pros and cons.
+  content:
+    text: ' \ud83c\udfa7 Listened to Is Muni Broadband A Monopoly Killer Or A Killer
+      Monopoly? by Techdirt From Techdirt'
 - type: entry
   published: "2018-03-11T10:36:39+00:00"
   category:

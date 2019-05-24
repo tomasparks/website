@@ -1,27 +1,5 @@
 ---
 - type: entry
-  published: "2018-01-11T18:59:50+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough @brianmcc
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/BnuqDZ7ivCA/76._Steve_Goldberg_of_Microsoft_and_the_IAB.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/76_Steve_Goldberg_of_Microsoft_and_the_IAB.mp3
-      name: 76. Steve Goldberg of Microsoft and the IAB
-      author: Brian McCullough @brianmcc
-      content: A history of the Internet Era from Netscape to the iPad. Oral histories
-        from the people that made the technology happen. "Chapter" episodes providing
-        background on the history of the companies.
-  content:
-    text: ' \ud83c\udfa7 Listened to 76. Steve Goldberg of Microsoft and the IAB by
-      Brian McCullough @brianmcc From Internet History Podcast'
-- type: entry
   published: "2018-01-11T17:28:27+00:00"
   category:
   - scrobble
@@ -43,4 +21,26 @@
   content:
     text: ' \ud83c\udfa7 Listened to 75. The Development of Consumer Broadband with
       Intel''s Avram Miller by Brian McCullough @brianmcc From Internet History Podcast'
+- type: entry
+  published: "2018-01-11T18:59:50+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/BnuqDZ7ivCA/76._Steve_Goldberg_of_Microsoft_and_the_IAB.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/76_Steve_Goldberg_of_Microsoft_and_the_IAB.mp3
+      name: 76. Steve Goldberg of Microsoft and the IAB
+      author: Brian McCullough @brianmcc
+      content: A history of the Internet Era from Netscape to the iPad. Oral histories
+        from the people that made the technology happen. "Chapter" episodes providing
+        background on the history of the companies.
+  content:
+    text: ' \ud83c\udfa7 Listened to 76. Steve Goldberg of Microsoft and the IAB by
+      Brian McCullough @brianmcc From Internet History Podcast'
 ...

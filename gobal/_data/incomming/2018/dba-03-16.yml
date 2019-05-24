@@ -1,25 +1,29 @@
 ---
 - type: entry
-  published: "2018-03-16T11:27:24+00:00"
+  published: "2018-03-16T14:44:57+00:00"
   category:
   - scrobble
   - audio
   - Internet History Podcast
-  - internethistorypodcast@gmail.com (Brian McCullough @brianmcc)
+  - Brian McCullough @brianmcc
   listen-of:
     h-cite:
       url: http://feeds.feedburner.com/InternetHistoryPodcast
       photo: ""
       audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/L0hLDDOV2us/149._Christina_Warren_on_SoundCloud.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/149_Christina_Warren_on_SoundCloud.mp3
-      name: 149. Christina Warren on SoundCloud
-      author: internethistorypodcast@gmail.com (Brian McCullough @brianmcc)
-      content: Christina Warren is back for another analysis episode. A look at the
-        history of SoundCloud as a company, and its current issues.
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/OuPEt8rkAjs/151._Facebooks_First_Senior_Software_Engineer_Karel_Baloun.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/151_Facebooks_First_Senior_Software_Engineer_Karel_Baloun.mp3
+      name: 151. Facebook's First Senior Software Engineer, Karel Baloun
+      author: Brian McCullough @brianmcc
+      content: "Karel Baloun was the first senior software engineer hired at Facebook
+        in 2005. Baloun was only at Facebook for a year, from 2005 to 2006, but he
+        provides some amazing insights about the company. What was Facebook\u2019s
+        culture like in 2005? What were the key innovations that ultimately let Facebook
+        succeed where others failed? Would Zuckerberg make a good President of the
+        United States? What became of Pokey, the mascot Facebook once considered launching?"
   content:
-    text: ' \ud83c\udfa7 Listened to 149. Christina Warren on SoundCloud by internethistorypodcast@gmail.com
-      (Brian McCullough @brianmcc) From Internet History Podcast'
+    text: ' \ud83c\udfa7 Listened to 151. Facebook''s First Senior Software Engineer,
+      Karel Baloun by Brian McCullough @brianmcc From Internet History Podcast'
 - type: entry
   published: "2018-03-16T12:10:44+00:00"
   category:
@@ -45,28 +49,24 @@
     text: ' \ud83c\udfa7 Listened to 150. More SoundCloud Chat with Buzzfeed''s Ryan
       Mac by Brian McCullough @brianmcc From Internet History Podcast'
 - type: entry
-  published: "2018-03-16T14:44:57+00:00"
+  published: "2018-03-16T11:27:24+00:00"
   category:
   - scrobble
   - audio
   - Internet History Podcast
-  - Brian McCullough @brianmcc
+  - internethistorypodcast@gmail.com (Brian McCullough @brianmcc)
   listen-of:
     h-cite:
       url: http://feeds.feedburner.com/InternetHistoryPodcast
       photo: ""
       audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/OuPEt8rkAjs/151._Facebooks_First_Senior_Software_Engineer_Karel_Baloun.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/151_Facebooks_First_Senior_Software_Engineer_Karel_Baloun.mp3
-      name: 151. Facebook's First Senior Software Engineer, Karel Baloun
-      author: Brian McCullough @brianmcc
-      content: "Karel Baloun was the first senior software engineer hired at Facebook
-        in 2005. Baloun was only at Facebook for a year, from 2005 to 2006, but he
-        provides some amazing insights about the company. What was Facebook\u2019s
-        culture like in 2005? What were the key innovations that ultimately let Facebook
-        succeed where others failed? Would Zuckerberg make a good President of the
-        United States? What became of Pokey, the mascot Facebook once considered launching?"
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/L0hLDDOV2us/149._Christina_Warren_on_SoundCloud.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/149_Christina_Warren_on_SoundCloud.mp3
+      name: 149. Christina Warren on SoundCloud
+      author: internethistorypodcast@gmail.com (Brian McCullough @brianmcc)
+      content: Christina Warren is back for another analysis episode. A look at the
+        history of SoundCloud as a company, and its current issues.
   content:
-    text: ' \ud83c\udfa7 Listened to 151. Facebook''s First Senior Software Engineer,
-      Karel Baloun by Brian McCullough @brianmcc From Internet History Podcast'
+    text: ' \ud83c\udfa7 Listened to 149. Christina Warren on SoundCloud by internethistorypodcast@gmail.com
+      (Brian McCullough @brianmcc) From Internet History Podcast'
 ...

@@ -100,30 +100,6 @@
     text: ' \ud83c\udfa7 Listened to What''s Next For Online Video? by Techdirt From
       Techdirt'
 - type: entry
-  published: "2018-06-03T04:26:21+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/267998991-techdirt-tech-policy-goes-local.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/267998991-techdirt-tech-policy-goes-local.mp3
-      name: Tech Policy Goes Local
-      author: Techdirt
-      content: "The conversation around tech policy has traditionally happened at
-        the federal level, but more recently we've seen a change in that trend, and
-        some of the most interesting experiments \u2014 both good and bad \u2014 have
-        started happening in state and municipal arenas. This week, we're joined by
-        Tech:NYC Executive Director Julie Samuels to discuss why this is happening
-        and what it means."
-  content:
-    text: ' \ud83c\udfa7 Listened to Tech Policy Goes Local by Techdirt From Techdirt'
-- type: entry
   published: "2018-06-03T23:12:01+00:00"
   category:
   - scrobble
@@ -174,6 +150,30 @@
   content:
     text: ' \ud83c\udfa7 Listened to The Link Between Credit And Surveillance by Techdirt
       From Techdirt'
+- type: entry
+  published: "2018-06-03T04:26:21+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/267998991-techdirt-tech-policy-goes-local.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/267998991-techdirt-tech-policy-goes-local.mp3
+      name: Tech Policy Goes Local
+      author: Techdirt
+      content: "The conversation around tech policy has traditionally happened at
+        the federal level, but more recently we've seen a change in that trend, and
+        some of the most interesting experiments \u2014 both good and bad \u2014 have
+        started happening in state and municipal arenas. This week, we're joined by
+        Tech:NYC Executive Director Julie Samuels to discuss why this is happening
+        and what it means."
+  content:
+    text: ' \ud83c\udfa7 Listened to Tech Policy Goes Local by Techdirt From Techdirt'
 - type: entry
   published: "2018-06-03T11:09:20+00:00"
   category:

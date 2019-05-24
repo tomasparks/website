@@ -1,27 +1,5 @@
 ---
 - type: entry
-  published: "2018-12-23T20:39:43+00:00"
-  category:
-  - scrobble
-  - audio
-  - Jason Scott Talks His Way Out of It
-  - Jason Scott
-  listen-of:
-    h-cite:
-      url: http://textfiles.libsyn.com/rss
-      photo: ""
-      audio:
-      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_46.mp3?dest-id=574323
-      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Speedrunning_Episode.mp3
-      name: The Speedrunning Episode
-      author: Jason Scott
-      content: 'The Speedrunning Episode: A Very-Ill-Advised Car Ride, World Record
-        Progression, Speedrunning, The Rules, The Glory, The Glitches, The Thrills,
-        Summoning Salt, Quake Done Quick, Grenade Speedups and Bunny Hops, History
-        Lost, Games Done Quick, Time.'
-  content:
-    text: ' \ud83c\udfa7 Listened to The Speedrunning Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
-- type: entry
   published: "2018-12-23T21:02:29+00:00"
   category:
   - scrobble
@@ -47,6 +25,28 @@
     text: ' \ud83c\udfa7 Listened to The Technical Interview Episode by @textfiles
       From #JasonScottTalksHisWayOutofIt'
 - type: entry
+  published: "2018-12-23T20:39:43+00:00"
+  category:
+  - scrobble
+  - audio
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
+  listen-of:
+    h-cite:
+      url: http://textfiles.libsyn.com/rss
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_46.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Speedrunning_Episode.mp3
+      name: The Speedrunning Episode
+      author: Jason Scott
+      content: 'The Speedrunning Episode: A Very-Ill-Advised Car Ride, World Record
+        Progression, Speedrunning, The Rules, The Glory, The Glitches, The Thrills,
+        Summoning Salt, Quake Done Quick, Grenade Speedups and Bunny Hops, History
+        Lost, Games Done Quick, Time.'
+  content:
+    text: ' \ud83c\udfa7 Listened to The Speedrunning Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
+- type: entry
   published: "2018-12-23T20:13:58+00:00"
   category:
   - scrobble
@@ -68,32 +68,6 @@
         Downfall, The Crazy Leap. Also: The Two-Story Internet.'
   content:
     text: ' \ud83c\udfa7 Listened to The Failed ISP Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
-- type: entry
-  published: "2018-12-23T18:50:24+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough @brianmcc
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/f7tsxQyyxdU/184._GVs_Ken_Norton.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/184_GVs_Ken_Norton.mp3
-      name: 184. GV's Ken Norton
-      author: Brian McCullough @brianmcc
-      content: "Ken Norton is a partner at GV, Alphabets venture capital arm, but
-        before that, he was a product manager at Google, where he led the development
-        of products like Google Docs, Google Calendar and Google Mobile Maps. But
-        he was also early at JotSpot which became Google sites, was a product manager
-        at Yahoo, was an early employee at CNET and was CTO of Snap, a company probably
-        none of you have ever heard of but I\u2019ve been dying to talk about for
-        years. No. Not snapchat. The original Snap. The dotcom era snap. "
-  content:
-    text: ' \ud83c\udfa7 Listened to 184. GV''s Ken Norton by Brian McCullough @brianmcc
-      From Internet History Podcast'
 - type: entry
   published: "2018-12-23T19:31:54+00:00"
   category:
@@ -120,4 +94,30 @@
   content:
     text: ' \ud83c\udfa7 Listened to 185. Ripple''s David Schwartz by Brian McCullough
       @brianmcc From Internet History Podcast'
+- type: entry
+  published: "2018-12-23T18:50:24+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/f7tsxQyyxdU/184._GVs_Ken_Norton.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/184_GVs_Ken_Norton.mp3
+      name: 184. GV's Ken Norton
+      author: Brian McCullough @brianmcc
+      content: "Ken Norton is a partner at GV, Alphabets venture capital arm, but
+        before that, he was a product manager at Google, where he led the development
+        of products like Google Docs, Google Calendar and Google Mobile Maps. But
+        he was also early at JotSpot which became Google sites, was a product manager
+        at Yahoo, was an early employee at CNET and was CTO of Snap, a company probably
+        none of you have ever heard of but I\u2019ve been dying to talk about for
+        years. No. Not snapchat. The original Snap. The dotcom era snap. "
+  content:
+    text: ' \ud83c\udfa7 Listened to 184. GV''s Ken Norton by Brian McCullough @brianmcc
+      From Internet History Podcast'
 ...

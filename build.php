@@ -10,7 +10,7 @@ $builddefualts = array (
                         "gitAuthor" => "tomasparks",
                         "includesSrcs" => array ("gobal"),
                         "tmpRoot" => "tmp",
-                        "gobal-pre"=> array ("webmentions","twitter2yml"),
+                        "gobal-pre"=> array ("webmentions","twitter2yml","calibredb"),
                         "gobal-post" => array ("hfeed")
                         );
                         
@@ -67,6 +67,9 @@ foreach ($building['gobal-pre'] as $pre) {
             case "webmentions":
                 chdir("".$root."/".$building['srcRoot']."/php/");
                 passthru("./webmentions.php");
+                breaK;
+            case "calibredb":
+                passthru("calibredb catalog ".$root."/".$building['srcRoot']."/gobal/_data/books.csv");
                 breaK;
              case "twitter2yml":
                 chdir("".$root."/".$building['srcRoot']."/php/");

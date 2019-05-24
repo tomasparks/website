@@ -1,6 +1,6 @@
 ---
 - type: entry
-  published: "2018-05-12T23:25:28+00:00"
+  published: "2018-05-12T15:52:20+00:00"
   category:
   - scrobble
   - audio
@@ -11,16 +11,15 @@
       url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20180125.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Humid_weather_sleep_twitches_coffee_shakes.mp3
-      name: Humid weather, sleep twitches, coffee shakes
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20180215.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Hiccups_flossing_sounds_in_space.mp3
+      name: Hiccups, flossing, sounds in space
       author: ABC Science
-      content: Dr. Karl answers all your science questions, including; why is it hard
-        to breathe in humid weather? Why do we twitch while falling asleep? Can caffeine
-        shakes be permanent?
+      content: Dr. Karl answers all your science questions, including; what's the
+        point of hiccups? Should you floss after brushing? Does sound travel in space?
   content:
-    text: ' \ud83c\udfa7 Listened to Humid weather, sleep twitches, coffee shakes
-      by ABC Science From Dr Karl on triplej'
+    text: ' \ud83c\udfa7 Listened to Hiccups, flossing, sounds in space by ABC Science
+      From Dr Karl on triplej'
 - type: entry
   published: "2018-05-12T05:45:23+00:00"
   category:
@@ -66,7 +65,7 @@
     text: ' \ud83c\udfa7 Listened to Eggs, male PMS, and the dark side of the moon
       by ABC Science From Dr Karl on triplej'
 - type: entry
-  published: "2018-05-12T22:47:32+00:00"
+  published: "2018-05-12T23:25:28+00:00"
   category:
   - scrobble
   - audio
@@ -77,59 +76,38 @@
       url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20180201.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Mammal_yawns_body_shocks_air_pockets.mp3
-      name: Mammal yawns, body shocks, air pockets
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20180125.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Humid_weather_sleep_twitches_coffee_shakes.mp3
+      name: Humid weather, sleep twitches, coffee shakes
       author: ABC Science
-      content: Dr. Karl answers all your science questions, including; can you incubate
-        eggs under your arm? Do all mammals yawn? How does music affect the brain?
+      content: Dr. Karl answers all your science questions, including; why is it hard
+        to breathe in humid weather? Why do we twitch while falling asleep? Can caffeine
+        shakes be permanent?
   content:
-    text: ' \ud83c\udfa7 Listened to Mammal yawns, body shocks, air pockets by ABC
-      Science From Dr Karl on triplej'
-- type: entry
-  published: "2018-05-12T09:05:29+00:00"
-  category:
-  - scrobble
-  - audio
-  - Dr Karl on triplej
-  - ABC Science
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20180322.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Vaccinations_yawns_and_regenerative_limbs.mp3
-      name: Vaccinations, yawns and regenerative limbs
-      author: ABC Science
-      content: Dr. Karl answers all your science questions, including; why does eye
-        colour change? Is our perception of time Earth-centric? What's the best temperature
-        to cook eggs?
-  content:
-    text: ' \ud83c\udfa7 Listened to Vaccinations, yawns and regenerative limbs by
-      ABC Science From Dr Karl on triplej'
-- type: entry
-  published: "2018-05-12T14:39:04+00:00"
-  category:
-  - scrobble
-  - audio
-  - Dr Karl on triplej
-  - ABC Science
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20180301.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Allergies_time_machines_and_the_meaning_of_0.mp3
-      name: Allergies, time machines and the meaning of 0
-      author: ABC Science
-      content: Dr. Karl answers all your science questions, including; is gravity
-        stronger underground? Is raspberry cordial good for your gut? Which way do
-        toilets flush on the equator?
-  content:
-    text: ' \ud83c\udfa7 Listened to Allergies, time machines and the meaning of 0
+    text: ' \ud83c\udfa7 Listened to Humid weather, sleep twitches, coffee shakes
       by ABC Science From Dr Karl on triplej'
+- type: entry
+  published: "2018-05-12T15:14:56+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl on triplej
+  - ABC Science
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20180222.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Fasting_bluebottles_and_magnetic_poles.mp3
+      name: Fasting, bluebottles and magnetic poles
+      author: ABC Science
+      content: Dr. Karl answers all your science questions, including; Is fasting
+        good for you? How do bluebottles procreate? Are the magnetic poles changing
+        places?
+  content:
+    text: ' \ud83c\udfa7 Listened to Fasting, bluebottles and magnetic poles by ABC
+      Science From Dr Karl on triplej'
 - type: entry
   published: "2018-05-12T09:48:42+00:00"
   category:
@@ -153,7 +131,7 @@
     text: ' \ud83c\udfa7 Listened to Food, farts and faeces by ABC Science From Dr
       Karl on triplej'
 - type: entry
-  published: "2018-05-12T15:52:20+00:00"
+  published: "2018-05-12T09:05:29+00:00"
   category:
   - scrobble
   - audio
@@ -164,17 +142,18 @@
       url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20180215.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Hiccups_flossing_sounds_in_space.mp3
-      name: Hiccups, flossing, sounds in space
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20180322.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Vaccinations_yawns_and_regenerative_limbs.mp3
+      name: Vaccinations, yawns and regenerative limbs
       author: ABC Science
-      content: Dr. Karl answers all your science questions, including; what's the
-        point of hiccups? Should you floss after brushing? Does sound travel in space?
+      content: Dr. Karl answers all your science questions, including; why does eye
+        colour change? Is our perception of time Earth-centric? What's the best temperature
+        to cook eggs?
   content:
-    text: ' \ud83c\udfa7 Listened to Hiccups, flossing, sounds in space by ABC Science
-      From Dr Karl on triplej'
+    text: ' \ud83c\udfa7 Listened to Vaccinations, yawns and regenerative limbs by
+      ABC Science From Dr Karl on triplej'
 - type: entry
-  published: "2018-05-12T15:14:56+00:00"
+  published: "2018-05-12T22:47:32+00:00"
   category:
   - scrobble
   - audio
@@ -185,14 +164,35 @@
       url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20180222.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Fasting_bluebottles_and_magnetic_poles.mp3
-      name: Fasting, bluebottles and magnetic poles
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20180201.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Mammal_yawns_body_shocks_air_pockets.mp3
+      name: Mammal yawns, body shocks, air pockets
       author: ABC Science
-      content: Dr. Karl answers all your science questions, including; Is fasting
-        good for you? How do bluebottles procreate? Are the magnetic poles changing
-        places?
+      content: Dr. Karl answers all your science questions, including; can you incubate
+        eggs under your arm? Do all mammals yawn? How does music affect the brain?
   content:
-    text: ' \ud83c\udfa7 Listened to Fasting, bluebottles and magnetic poles by ABC
+    text: ' \ud83c\udfa7 Listened to Mammal yawns, body shocks, air pockets by ABC
       Science From Dr Karl on triplej'
+- type: entry
+  published: "2018-05-12T14:39:04+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl on triplej
+  - ABC Science
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20180301.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Allergies_time_machines_and_the_meaning_of_0.mp3
+      name: Allergies, time machines and the meaning of 0
+      author: ABC Science
+      content: Dr. Karl answers all your science questions, including; is gravity
+        stronger underground? Is raspberry cordial good for your gut? Which way do
+        toilets flush on the equator?
+  content:
+    text: ' \ud83c\udfa7 Listened to Allergies, time machines and the meaning of 0
+      by ABC Science From Dr Karl on triplej'
 ...

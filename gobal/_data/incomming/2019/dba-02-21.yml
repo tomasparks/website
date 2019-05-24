@@ -1,28 +1,5 @@
 ---
 - type: entry
-  published: "2019-02-21T16:48:12+00:00"
-  category:
-  - scrobble
-  - audio
-  - RPGMP3 Actual Play Podcast
-  - Hal
-  listen-of:
-    h-cite:
-      url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
-      photo: ""
-      audio:
-      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_00b.mp3
-      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_00b.mp3
-      name: Kingmaker Session 00b
-      author: Hal
-      content: "Episode 00b \u2013 in which further details on the kingdom of Stagthorn
-        are given, covering the various promises and arrangements the kingdom made,
-        and the mechanics of the PCs. This doesn\u2019t cover any detail you desperately
-        need to know, so if you\u2019d just like the actual play, feel free to skip
-        ahead. Thanks to the [\u2026]"
-  content:
-    text: ' \ud83c\udfa7 Listened to Kingmaker Session 00b by @rpgmp3 From #RPGMP3ActualPlayPodcast'
-- type: entry
   published: "2019-02-21T11:32:13+00:00"
   category:
   - scrobble
@@ -65,6 +42,29 @@
         a matter of debate \u2013 currently overrun by bandits and monsters. [\u2026]"
   content:
     text: ' \ud83c\udfa7 Listened to Kingmaker Session 00a by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+- type: entry
+  published: "2019-02-21T16:48:12+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_00b.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_00b.mp3
+      name: Kingmaker Session 00b
+      author: Hal
+      content: "Episode 00b \u2013 in which further details on the kingdom of Stagthorn
+        are given, covering the various promises and arrangements the kingdom made,
+        and the mechanics of the PCs. This doesn\u2019t cover any detail you desperately
+        need to know, so if you\u2019d just like the actual play, feel free to skip
+        ahead. Thanks to the [\u2026]"
+  content:
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 00b by @rpgmp3 From #RPGMP3ActualPlayPodcast'
 - type: entry
   published: "2019-02-21T16:17:23+00:00"
   category:

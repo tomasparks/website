@@ -1,26 +1,5 @@
 ---
 - type: entry
-  published: "2018-06-17T02:50:54+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - internethistorypodcast@gmail.com (Brian McCullough @brianmcc)
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/IRZIBXnwznA/AMG8239285468.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/HUGE_Podcast_Announcement.mp3
-      name: HUGE Podcast Announcement
-      author: internethistorypodcast@gmail.com (Brian McCullough @brianmcc)
-      content: "HUGE Podcast Announcement!Details on how to pre-order the podcast
-        book!\r\n      "
-  content:
-    text: ' \ud83c\udfa7 Listened to HUGE Podcast Announcement by internethistorypodcast@gmail.com
-      (Brian McCullough @brianmcc) From Internet History Podcast'
-- type: entry
   published: "2018-06-17T03:06:54+00:00"
   category:
   - scrobble
@@ -115,4 +94,25 @@
   content:
     text: ' \ud83c\udfa7 Listened to Episode 12: Snapchat (?!) by Ben Gilbert and
       David Rosenthal From @AcquiredFM'
+- type: entry
+  published: "2018-06-17T02:50:54+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - internethistorypodcast@gmail.com (Brian McCullough @brianmcc)
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/IRZIBXnwznA/AMG8239285468.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/HUGE_Podcast_Announcement.mp3
+      name: HUGE Podcast Announcement
+      author: internethistorypodcast@gmail.com (Brian McCullough @brianmcc)
+      content: "HUGE Podcast Announcement!Details on how to pre-order the podcast
+        book!\r\n      "
+  content:
+    text: ' \ud83c\udfa7 Listened to HUGE Podcast Announcement by internethistorypodcast@gmail.com
+      (Brian McCullough @brianmcc) From Internet History Podcast'
 ...

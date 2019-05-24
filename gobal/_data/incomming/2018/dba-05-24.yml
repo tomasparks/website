@@ -22,27 +22,6 @@
     text: ' \ud83c\udfa7 Listened to Poison pen letters and A LOT of milk by ABC Radio
       Comedy From Troll Play'
 - type: entry
-  published: "2018-05-24T09:11:10+00:00"
-  category:
-  - scrobble
-  - audio
-  - Troll Play
-  - ABC Radio Comedy
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/radio/programs/troll-play/feed/9405254/podcast.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/radio/podcast/troll-play/tpl-2018-04-30-ep2.mp3
-      - http://archive.org/download/Troll_Play-Podcast-by-ABC_Radio_Comedy/Prisoner_fans_spaghetti_straps_and_the_wrong_Sami.mp3
-      name: Prisoner fans, spaghetti straps and the wrong Sami
-      author: ABC Radio Comedy
-      content: "Alice, Cal and Sami talk about name sakes getting your trolls, unasked
-        for dick pics and a men's rights plughole.\n                    \n                "
-  content:
-    text: ' \ud83c\udfa7 Listened to Prisoner fans, spaghetti straps and the wrong
-      Sami by ABC Radio Comedy From Troll Play'
-- type: entry
   published: "2018-05-24T08:47:23+00:00"
   category:
   - scrobble
@@ -63,6 +42,27 @@
   content:
     text: ' \ud83c\udfa7 Listened to Brony fiancees, cuss words and disgruntled Christians
       by ABC Radio Comedy From Troll Play'
+- type: entry
+  published: "2018-05-24T09:11:10+00:00"
+  category:
+  - scrobble
+  - audio
+  - Troll Play
+  - ABC Radio Comedy
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radio/programs/troll-play/feed/9405254/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/radio/podcast/troll-play/tpl-2018-04-30-ep2.mp3
+      - http://archive.org/download/Troll_Play-Podcast-by-ABC_Radio_Comedy/Prisoner_fans_spaghetti_straps_and_the_wrong_Sami.mp3
+      name: Prisoner fans, spaghetti straps and the wrong Sami
+      author: ABC Radio Comedy
+      content: "Alice, Cal and Sami talk about name sakes getting your trolls, unasked
+        for dick pics and a men's rights plughole.\n                    \n                "
+  content:
+    text: ' \ud83c\udfa7 Listened to Prisoner fans, spaghetti straps and the wrong
+      Sami by ABC Radio Comedy From Troll Play'
 - type: entry
   published: "2018-05-24T12:24:15+00:00"
   category:

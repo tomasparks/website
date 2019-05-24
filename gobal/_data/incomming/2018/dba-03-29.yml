@@ -1,5 +1,56 @@
 ---
 - type: entry
+  published: "2018-03-29T02:24:24+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/352528205-techdirt-no-easy-answers-facebook-the-election.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/352528205-techdirt-no-easy-answers-facebook-the-election.mp3
+      name: 'No Easy Answers: Facebook & The Election'
+      author: Techdirt
+      content: "I don't think I need to say much to introduce this week's topic \u2014
+        we're all well aware of the conversation about Facebook's role in the presidential
+        election, including questions of filter bubbles, fake news, foreign influence,
+        and so on and so on. As is always the case in situations like this, a lot
+        of people seem to be looking for easy answers, and easy places to point fingers
+        of blame, so in this week's episode we're discussing why it's just not that
+        simple."
+  content:
+    text: ' \ud83c\udfa7 Listened to No Easy Answers: Facebook & The Election by Techdirt
+      From Techdirt'
+- type: entry
+  published: "2018-03-29T06:47:22+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/348412052-techdirt-who-still-needs-a-personal-computer.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/348412052-techdirt-who-still-needs-a-personal-computer.mp3
+      name: Who Still Needs A Personal Computer?
+      author: Techdirt
+      content: 'As smartphones and other mobile devices have gotten smarter and smarter,
+        they''ve taken over more and more of most people''s general computing needs,
+        and the importance of the classic personal computer has waned. And so for
+        some time the question has been: will the PC ever go away entirely? That''s
+        our topic this week as we try to figure out who really needs a PC these days,
+        and when and if that will change.'
+  content:
+    text: ' \ud83c\udfa7 Listened to Who Still Needs A Personal Computer? by Techdirt
+      From Techdirt'
+- type: entry
   published: "2018-03-29T09:03:30+00:00"
   category:
   - scrobble
@@ -53,55 +104,4 @@
         future of innovation."
   content:
     text: ' \ud83c\udfa7 Listened to WTF With Tim O''Reilly by Techdirt From Techdirt'
-- type: entry
-  published: "2018-03-29T02:24:24+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/352528205-techdirt-no-easy-answers-facebook-the-election.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/352528205-techdirt-no-easy-answers-facebook-the-election.mp3
-      name: 'No Easy Answers: Facebook & The Election'
-      author: Techdirt
-      content: "I don't think I need to say much to introduce this week's topic \u2014
-        we're all well aware of the conversation about Facebook's role in the presidential
-        election, including questions of filter bubbles, fake news, foreign influence,
-        and so on and so on. As is always the case in situations like this, a lot
-        of people seem to be looking for easy answers, and easy places to point fingers
-        of blame, so in this week's episode we're discussing why it's just not that
-        simple."
-  content:
-    text: ' \ud83c\udfa7 Listened to No Easy Answers: Facebook & The Election by Techdirt
-      From Techdirt'
-- type: entry
-  published: "2018-03-29T06:47:22+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/348412052-techdirt-who-still-needs-a-personal-computer.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/348412052-techdirt-who-still-needs-a-personal-computer.mp3
-      name: Who Still Needs A Personal Computer?
-      author: Techdirt
-      content: 'As smartphones and other mobile devices have gotten smarter and smarter,
-        they''ve taken over more and more of most people''s general computing needs,
-        and the importance of the classic personal computer has waned. And so for
-        some time the question has been: will the PC ever go away entirely? That''s
-        our topic this week as we try to figure out who really needs a PC these days,
-        and when and if that will change.'
-  content:
-    text: ' \ud83c\udfa7 Listened to Who Still Needs A Personal Computer? by Techdirt
-      From Techdirt'
 ...

@@ -1,5 +1,30 @@
 ---
 - type: entry
+  published: "2019-02-03T12:15:55+00:00"
+  category:
+  - scrobble
+  - audio
+  - Reply All
+  - Gimlet
+  listen-of:
+    h-cite:
+      url: http://feeds.gimletmedia.com/hearreplyall
+      photo: ""
+      audio:
+      - http://traffic.megaphone.fm/GLT5773876684.mp3
+      - http://archive.org/download/Reply_All-Podcast-by-Gimlet/30_The_Man_In_The_FBI_Hat.mp3
+      name: '#30 The Man In The FBI Hat'
+      author: Gimlet
+      content: "When successful internet entrepreneur Robert Hoquim died, the people
+        who knew him found out they actually didn't know him at all.For more about
+        John Aleshe, go here:http://www.bbsdocumentary.com/library/CONTROVERSY/PERSONALITIES/ALESHE/For
+        tickets to Cast Party, go to www.castparty.orgCheck out Death, Sex &amp; Money
+        at www.deathsexmoney.orgSponsors:The Outlook app for iOS and AndroidMailchimp
+        (www.mailchimp.com/replyall)Harry's Razors (www.harrys.com/reply)\r\n      "
+  content:
+    text: ' \ud83c\udfa7 Listened to #30 The Man In The FBI Hat by Gimlet From Reply
+      All'
+- type: entry
   published: "2019-02-03T11:44:25+00:00"
   category:
   - scrobble
@@ -29,6 +54,25 @@
     text: ' \ud83c\udfa7 Listened to The Robert Hoquim Extra Episode by @textfiles
       From #JasonScottTalksHisWayOutofIt'
 - type: entry
+  published: "2019-02-03T12:49:39+00:00"
+  category:
+  - scrobble
+  - audio
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
+  listen-of:
+    h-cite:
+      url: http://textfiles.libsyn.com/rss
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_55.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Time_Episode.mp3
+      name: The Time Episode
+      author: Jason Scott
+      content: The Time Episode. Was it all worth it?
+  content:
+    text: ' \ud83c\udfa7 Listened to The Time Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
+- type: entry
   published: "2019-02-03T10:34:00+00:00"
   category:
   - scrobble
@@ -53,25 +97,6 @@
         my hands on them, they'll all go up."
   content:
     text: ' \ud83c\udfa7 Listened to The EsnesnoN Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
-- type: entry
-  published: "2019-02-03T12:49:39+00:00"
-  category:
-  - scrobble
-  - audio
-  - Jason Scott Talks His Way Out of It
-  - Jason Scott
-  listen-of:
-    h-cite:
-      url: http://textfiles.libsyn.com/rss
-      photo: ""
-      audio:
-      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_55.mp3?dest-id=574323
-      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Time_Episode.mp3
-      name: The Time Episode
-      author: Jason Scott
-      content: The Time Episode. Was it all worth it?
-  content:
-    text: ' \ud83c\udfa7 Listened to The Time Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
 - type: entry
   published: "2019-02-03T12:35:14+00:00"
   category:
@@ -100,31 +125,6 @@
         We even have a pretty zesty Loompanics catalog: https://archive.org/details/Loompanics_Catalog_2003'
   content:
     text: ' \ud83c\udfa7 Listened to The Postal Zine Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
-- type: entry
-  published: "2019-02-03T12:15:55+00:00"
-  category:
-  - scrobble
-  - audio
-  - Reply All
-  - Gimlet
-  listen-of:
-    h-cite:
-      url: http://feeds.gimletmedia.com/hearreplyall
-      photo: ""
-      audio:
-      - http://traffic.megaphone.fm/GLT5773876684.mp3
-      - http://archive.org/download/Reply_All-Podcast-by-Gimlet/30_The_Man_In_The_FBI_Hat.mp3
-      name: '#30 The Man In The FBI Hat'
-      author: Gimlet
-      content: "When successful internet entrepreneur Robert Hoquim died, the people
-        who knew him found out they actually didn't know him at all.For more about
-        John Aleshe, go here:http://www.bbsdocumentary.com/library/CONTROVERSY/PERSONALITIES/ALESHE/For
-        tickets to Cast Party, go to www.castparty.orgCheck out Death, Sex &amp; Money
-        at www.deathsexmoney.orgSponsors:The Outlook app for iOS and AndroidMailchimp
-        (www.mailchimp.com/replyall)Harry's Razors (www.harrys.com/reply)\r\n      "
-  content:
-    text: ' \ud83c\udfa7 Listened to #30 The Man In The FBI Hat by Gimlet From Reply
-      All'
 - type: entry
   published: "2019-02-03T10:06:13+00:00"
   category:

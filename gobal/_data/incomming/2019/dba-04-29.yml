@@ -21,7 +21,7 @@
     text: ' \ud83c\udfa7 Listened to Hot and cold breath, tilting dog heads and an
       infuriating itch by triplejA[ From Dr Karl on triplej'
 - type: entry
-  published: "2019-04-29T04:45:13+00:00"
+  published: "2019-04-29T04:59:41+00:00"
   category:
   - scrobble
   - audio
@@ -32,15 +32,15 @@
       url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2019/04/gms_20190416.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Washing_clothes_part_one.mp3
-      name: 'Washing clothes: part one'
+      - http://mpegmedia.abc.net.au/rn/podcast/2019/04/gms_20190409.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Vaping_ecigarettes_and_big_tobacco.mp3
+      name: Vaping, e-cigarettes, and big tobacco
       author: ABC Radio National
-      content: Until recently, scientists couldn't work out how a washing machine
-        actually lifted the dirt out of clothes.
+      content: "Tobacco has done bad things for public health \u2014 but what about
+        e-cigarettes?"
   content:
-    text: ' \ud83c\udfa7 Listened to Washing clothes: part one by ABC Radio National
-      From Great Moments In Science - with Dr Karl Kruszelnicki'
+    text: ' \ud83c\udfa7 Listened to Vaping, e-cigarettes, and big tobacco by ABC
+      Radio National From Great Moments In Science - with Dr Karl Kruszelnicki'
 - type: entry
   published: "2019-04-29T04:51:58+00:00"
   category:
@@ -63,7 +63,7 @@
     text: ' \ud83c\udfa7 Listened to Washing clothes: part two by ABC Radio National
       From Great Moments In Science - with Dr Karl Kruszelnicki'
 - type: entry
-  published: "2019-04-29T04:59:41+00:00"
+  published: "2019-04-29T04:45:13+00:00"
   category:
   - scrobble
   - audio
@@ -74,15 +74,15 @@
       url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2019/04/gms_20190409.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Vaping_ecigarettes_and_big_tobacco.mp3
-      name: Vaping, e-cigarettes, and big tobacco
+      - http://mpegmedia.abc.net.au/rn/podcast/2019/04/gms_20190416.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Washing_clothes_part_one.mp3
+      name: 'Washing clothes: part one'
       author: ABC Radio National
-      content: "Tobacco has done bad things for public health \u2014 but what about
-        e-cigarettes?"
+      content: Until recently, scientists couldn't work out how a washing machine
+        actually lifted the dirt out of clothes.
   content:
-    text: ' \ud83c\udfa7 Listened to Vaping, e-cigarettes, and big tobacco by ABC
-      Radio National From Great Moments In Science - with Dr Karl Kruszelnicki'
+    text: ' \ud83c\udfa7 Listened to Washing clothes: part one by ABC Radio National
+      From Great Moments In Science - with Dr Karl Kruszelnicki'
 - type: entry
   published: "2019-04-29T01:10:52+00:00"
   category:

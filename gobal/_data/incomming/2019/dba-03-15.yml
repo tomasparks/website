@@ -1,5 +1,26 @@
 ---
 - type: entry
+  published: "2019-03-15T19:26:44+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - https://media.acast.com/internethistorypodcast/191.bringingthewsjonlinewithrichjaroslovskypart2/media.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/191_Bringing_The_WSJ_Online_With_Rich_Jaroslovsky_Part_2.mp3
+      name: 191. Bringing The WSJ Online With Rich Jaroslovsky Part 2
+      author: Brian McCullough
+      content: Part two of the WSJ's online adventures intersect with several other
+        stories we've covered on here over the years.
+  content:
+    text: ' \ud83c\udfa7 Listened to 191. Bringing The WSJ Online With Rich Jaroslovsky
+      Part 2 by Brian McCullough From Internet History Podcast'
+- type: entry
   published: "2019-03-15T19:45:16+00:00"
   category:
   - scrobble
@@ -44,25 +65,4 @@
         of Desna and the Order of the Silver Twilight disagree over the fate of Candlemere."
   content:
     text: ' \ud83c\udfa7 Listened to Kingmaker Session 06 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
-- type: entry
-  published: "2019-03-15T19:26:44+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - https://media.acast.com/internethistorypodcast/191.bringingthewsjonlinewithrichjaroslovskypart2/media.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/191_Bringing_The_WSJ_Online_With_Rich_Jaroslovsky_Part_2.mp3
-      name: 191. Bringing The WSJ Online With Rich Jaroslovsky Part 2
-      author: Brian McCullough
-      content: Part two of the WSJ's online adventures intersect with several other
-        stories we've covered on here over the years.
-  content:
-    text: ' \ud83c\udfa7 Listened to 191. Bringing The WSJ Online With Rich Jaroslovsky
-      Part 2 by Brian McCullough From Internet History Podcast'
 ...

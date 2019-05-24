@@ -28,29 +28,6 @@
     text: ' \ud83c\udfa7 Listened to Ep. 19: The Purge (The Galaderon Saga) by HeadGum
       From Not Another D&D Podcast'
 - type: entry
-  published: "2018-06-15T17:00:51+00:00"
-  category:
-  - scrobble
-  - audio
-  - Acquired - Tech Acquisitions & IPOs
-  - Ben Gilbert and David Rosenthal
-  listen-of:
-    h-cite:
-      url: http://www.acquired.fm/episodes?format=RSS
-      photo: ""
-      audio:
-      - http://static1.squarespace.com/static/56208487e4b020250549a935/t/56b2b8f322482e9cac1f3be4/1454553399592/Acquired+Episode+7+-+YouTube.mp3
-      - http://archive.org/download/Acquired-Podcast-by-Ben_Gilbert_and_David_Rosenthal/Episode_7_YouTube.mp3
-      name: 'Episode 7: YouTube'
-      author: Ben Gilbert and David Rosenthal
-      content: 'Ben and David test the widely-held belief that YouTube was one of
-        the most successful tech acquisitions of all time. In today''s world of next-generation
-        video platforms, mobile video, streaming, and chord-cutting, was it actually
-        a great purchase by Google?  '
-  content:
-    text: ' \ud83c\udfa7 Listened to Episode 7: YouTube by Ben Gilbert and David Rosenthal
-      From @AcquiredFM'
-- type: entry
   published: "2018-06-15T11:47:23+00:00"
   category:
   - scrobble
@@ -72,29 +49,6 @@
   content:
     text: ' \ud83c\udfa7 Listened to Episode 6: Lucasfilm by Ben Gilbert and David
       Rosenthal From @AcquiredFM'
-- type: entry
-  published: "2018-06-15T19:16:31+00:00"
-  category:
-  - scrobble
-  - audio
-  - Acquired - Tech Acquisitions & IPOs
-  - Ben Gilbert and David Rosenthal
-  listen-of:
-    h-cite:
-      url: http://www.acquired.fm/episodes?format=RSS
-      photo: ""
-      audio:
-      - http://static1.squarespace.com/static/56208487e4b020250549a935/t/56d5145237013b227d5db898/1456805030540/AcompliSunriseWunderlist.mp3
-      - http://archive.org/download/Acquired-Podcast-by-Ben_Gilbert_and_David_Rosenthal/Episode_8_Acompli_Sunrise_and_Wunderlist_w_Kurt_DelBene.mp3
-      name: 'Episode 8: Acompli, Sunrise, and Wunderlist (w/ Kurt DelBene)'
-      author: Ben Gilbert and David Rosenthal
-      content: "Ben and David have special guest Kurt DelBene on to discuss Microsoft's
-        acquisition of Acompli, Sunrise, and Wunderlist. Kurt is the EVP of Corporate
-        Strategy and Planning at Microsoft, and joins to discuss Microsoft\u2019s
-        cloud-first, mobile-first strategy."
-  content:
-    text: ' \ud83c\udfa7 Listened to Episode 8: Acompli, Sunrise, and Wunderlist (w/
-      Kurt DelBene) by Ben Gilbert and David Rosenthal From @AcquiredFM'
 - type: entry
   published: "2018-06-15T11:12:00+00:00"
   category:
@@ -122,4 +76,50 @@
   content:
     text: ' \ud83c\udfa7 Listened to Episode 5: Siri by Ben Gilbert and David Rosenthal
       From @AcquiredFM'
+- type: entry
+  published: "2018-06-15T17:00:51+00:00"
+  category:
+  - scrobble
+  - audio
+  - Acquired - Tech Acquisitions & IPOs
+  - Ben Gilbert and David Rosenthal
+  listen-of:
+    h-cite:
+      url: http://www.acquired.fm/episodes?format=RSS
+      photo: ""
+      audio:
+      - http://static1.squarespace.com/static/56208487e4b020250549a935/t/56b2b8f322482e9cac1f3be4/1454553399592/Acquired+Episode+7+-+YouTube.mp3
+      - http://archive.org/download/Acquired-Podcast-by-Ben_Gilbert_and_David_Rosenthal/Episode_7_YouTube.mp3
+      name: 'Episode 7: YouTube'
+      author: Ben Gilbert and David Rosenthal
+      content: 'Ben and David test the widely-held belief that YouTube was one of
+        the most successful tech acquisitions of all time. In today''s world of next-generation
+        video platforms, mobile video, streaming, and chord-cutting, was it actually
+        a great purchase by Google?  '
+  content:
+    text: ' \ud83c\udfa7 Listened to Episode 7: YouTube by Ben Gilbert and David Rosenthal
+      From @AcquiredFM'
+- type: entry
+  published: "2018-06-15T19:16:31+00:00"
+  category:
+  - scrobble
+  - audio
+  - Acquired - Tech Acquisitions & IPOs
+  - Ben Gilbert and David Rosenthal
+  listen-of:
+    h-cite:
+      url: http://www.acquired.fm/episodes?format=RSS
+      photo: ""
+      audio:
+      - http://static1.squarespace.com/static/56208487e4b020250549a935/t/56d5145237013b227d5db898/1456805030540/AcompliSunriseWunderlist.mp3
+      - http://archive.org/download/Acquired-Podcast-by-Ben_Gilbert_and_David_Rosenthal/Episode_8_Acompli_Sunrise_and_Wunderlist_w_Kurt_DelBene.mp3
+      name: 'Episode 8: Acompli, Sunrise, and Wunderlist (w/ Kurt DelBene)'
+      author: Ben Gilbert and David Rosenthal
+      content: "Ben and David have special guest Kurt DelBene on to discuss Microsoft's
+        acquisition of Acompli, Sunrise, and Wunderlist. Kurt is the EVP of Corporate
+        Strategy and Planning at Microsoft, and joins to discuss Microsoft\u2019s
+        cloud-first, mobile-first strategy."
+  content:
+    text: ' \ud83c\udfa7 Listened to Episode 8: Acompli, Sunrise, and Wunderlist (w/
+      Kurt DelBene) by Ben Gilbert and David Rosenthal From @AcquiredFM'
 ...

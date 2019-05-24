@@ -1,5 +1,55 @@
 ---
 - type: entry
+  published: "2019-03-24T06:08:41+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - https://media.acast.com/internethistorypodcast/192.hulusfoundinganddigitaldesignwithdanmaccarone/media.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/192_Hulus_Founding_and_Digital_Design_With_Dan_Maccarone.mp3
+      name: 192. Hulu's Founding and Digital Design With Dan Maccarone
+      author: Brian McCullough
+      content: Dan Maccarone is a digital design veteran, websites, products, strategy.
+        He's got some amazing stories about the dotcom bubble, about the aftermath,
+        and the rise of Web 2.0. He shares some unique design lessons but also, the
+        story of the birth of Hulu, which I don't think has really been covered anywhere
+        before.
+  content:
+    text: ' \ud83c\udfa7 Listened to 192. Hulu''s Founding and Digital Design With
+      Dan Maccarone by Brian McCullough From Internet History Podcast'
+- type: entry
+  published: "2019-03-24T03:04:25+00:00"
+  category:
+  - scrobble
+  - audio
+  - IRL - Online Life Is Real Life
+  - Mozilla
+  listen-of:
+    h-cite:
+      url: https://feeds.mozilla-podcasts.org/irl
+      photo: ""
+      audio:
+      - https://tracking.feedpress.it/link/17512/11000823/2f129d69.mp3
+      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/2f129d69.mp3
+      name: The Human Costs of Content Moderation
+      author: Mozilla
+      content: "What, if anything, should be banned from online media? And who should
+        review violent and explicit content, in order to decide if it\u2019s okay
+        for the public? Thousands of people around the world are working long, difficult
+        hours as content moderators in support of sites like Facebook, Twitter, and
+        YouTube. They are guided by complex and shifting guidelines, and their work
+        can sometimes lead to psychological trauma. But the practice of content moderation
+        also raises questions about censorship and free expression online.\n"
+  content:
+    text: ' \ud83c\udfa7 Listened to The Human Costs of Content Moderation by Mozilla
+      From IRL - Online Life Is Real Life'
+- type: entry
   published: "2019-03-24T06:34:09+00:00"
   category:
   - scrobble
@@ -32,6 +82,38 @@
   content:
     text: ' \ud83c\udfa7 Listened to What if women built the internet? by Mozilla
       From IRL - Online Life Is Real Life'
+- type: entry
+  published: "2019-03-24T02:36:08+00:00"
+  category:
+  - scrobble
+  - audio
+  - IRL - Online Life Is Real Life
+  - Mozilla
+  listen-of:
+    h-cite:
+      url: https://feeds.mozilla-podcasts.org/irl
+      photo: ""
+      audio:
+      - https://tracking.feedpress.it/link/17512/10960377/b6710001.mp3
+      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/b6710001.mp3
+      name: TL;DR
+      author: Mozilla
+      content: "TL;DR: We have access to more things to read than ever before. Too
+        much, in fact. Our reading habits have shifted. We skim a lot. We look for
+        full stories baked into headlines. Our eyes bounce around from one article
+        to the next, and we try and fail to manage how many things we read at once.
+        Some of us can no longer concentrate on a book\u2014no matter how good it
+        might be. Reading has changed. And we\u2019re changing alongside it.\n\nWith
+        host Manoush Zomorodi, Derek Thompson at the Atlantic talks headlines; Ernie
+        Smith from Tedium rails against our bad browser tab habits; librarian rock
+        star Nancy Pearl makes the case for analog books; Beth Rogowsky discusses
+        if audiobooks can replace reading; and Nate Weiner from Mozilla\u2019s Pocket
+        shows us one way we can manage our reading overload. Happy New Year \u2014
+        \ let\u2019s get working on that \u201CI will read more this year\u201D resolution.\n\nIRL
+        is an original podcast from Mozilla. For more on the series go to irlpodcast.org\n"
+  content:
+    text: ' \ud83c\udfa7 Listened to TL;DR by Mozilla From IRL - Online Life Is Real
+      Life'
 - type: entry
   published: "2019-03-24T03:57:54+00:00"
   category:
@@ -98,64 +180,6 @@
     text: ' \ud83c\udfa7 Listened to The Surveillance Economy by Mozilla From IRL
       - Online Life Is Real Life'
 - type: entry
-  published: "2019-03-24T02:36:08+00:00"
-  category:
-  - scrobble
-  - audio
-  - IRL - Online Life Is Real Life
-  - Mozilla
-  listen-of:
-    h-cite:
-      url: https://feeds.mozilla-podcasts.org/irl
-      photo: ""
-      audio:
-      - https://tracking.feedpress.it/link/17512/10960377/b6710001.mp3
-      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/b6710001.mp3
-      name: TL;DR
-      author: Mozilla
-      content: "TL;DR: We have access to more things to read than ever before. Too
-        much, in fact. Our reading habits have shifted. We skim a lot. We look for
-        full stories baked into headlines. Our eyes bounce around from one article
-        to the next, and we try and fail to manage how many things we read at once.
-        Some of us can no longer concentrate on a book\u2014no matter how good it
-        might be. Reading has changed. And we\u2019re changing alongside it.\n\nWith
-        host Manoush Zomorodi, Derek Thompson at the Atlantic talks headlines; Ernie
-        Smith from Tedium rails against our bad browser tab habits; librarian rock
-        star Nancy Pearl makes the case for analog books; Beth Rogowsky discusses
-        if audiobooks can replace reading; and Nate Weiner from Mozilla\u2019s Pocket
-        shows us one way we can manage our reading overload. Happy New Year \u2014
-        \ let\u2019s get working on that \u201CI will read more this year\u201D resolution.\n\nIRL
-        is an original podcast from Mozilla. For more on the series go to irlpodcast.org\n"
-  content:
-    text: ' \ud83c\udfa7 Listened to TL;DR by Mozilla From IRL - Online Life Is Real
-      Life'
-- type: entry
-  published: "2019-03-24T03:04:25+00:00"
-  category:
-  - scrobble
-  - audio
-  - IRL - Online Life Is Real Life
-  - Mozilla
-  listen-of:
-    h-cite:
-      url: https://feeds.mozilla-podcasts.org/irl
-      photo: ""
-      audio:
-      - https://tracking.feedpress.it/link/17512/11000823/2f129d69.mp3
-      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/2f129d69.mp3
-      name: The Human Costs of Content Moderation
-      author: Mozilla
-      content: "What, if anything, should be banned from online media? And who should
-        review violent and explicit content, in order to decide if it\u2019s okay
-        for the public? Thousands of people around the world are working long, difficult
-        hours as content moderators in support of sites like Facebook, Twitter, and
-        YouTube. They are guided by complex and shifting guidelines, and their work
-        can sometimes lead to psychological trauma. But the practice of content moderation
-        also raises questions about censorship and free expression online.\n"
-  content:
-    text: ' \ud83c\udfa7 Listened to The Human Costs of Content Moderation by Mozilla
-      From IRL - Online Life Is Real Life'
-- type: entry
   published: "2019-03-24T08:09:26+00:00"
   category:
   - scrobble
@@ -176,28 +200,4 @@
         raided."
   content:
     text: ' \ud83c\udfa7 Listened to Kingmaker Session 11 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
-- type: entry
-  published: "2019-03-24T06:08:41+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - https://media.acast.com/internethistorypodcast/192.hulusfoundinganddigitaldesignwithdanmaccarone/media.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/192_Hulus_Founding_and_Digital_Design_With_Dan_Maccarone.mp3
-      name: 192. Hulu's Founding and Digital Design With Dan Maccarone
-      author: Brian McCullough
-      content: Dan Maccarone is a digital design veteran, websites, products, strategy.
-        He's got some amazing stories about the dotcom bubble, about the aftermath,
-        and the rise of Web 2.0. He shares some unique design lessons but also, the
-        story of the birth of Hulu, which I don't think has really been covered anywhere
-        before.
-  content:
-    text: ' \ud83c\udfa7 Listened to 192. Hulu''s Founding and Digital Design With
-      Dan Maccarone by Brian McCullough From Internet History Podcast'
 ...

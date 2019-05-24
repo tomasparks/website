@@ -26,7 +26,7 @@
     text: " \\ud83c\\udfa7 Listened to Season 2, Episode 3:\_Nest by @gilbert & @djrosent
       From @AcquiredFM"
 - type: entry
-  published: "2018-06-04T03:52:49+00:00"
+  published: "2018-06-04T10:29:29+00:00"
   category:
   - scrobble
   - audio
@@ -37,70 +37,19 @@
       url: https://www.techdirt.com/podcast.xml
       photo: ""
       audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/262340001-techdirt-the-tough-choices-platforms-make.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/262340001-techdirt-the-tough-choices-platforms-make.mp3
-      name: The Tough Choices Platforms Make
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/254287528-techdirt-why-are-there-so-many-messaging-companies.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/254287528-techdirt-why-are-there-so-many-messaging-companies.mp3
+      name: Why Are There So Many Messaging Companies?
       author: Techdirt
-      content: Back in March, Mike moderated a panel at RightsCon on the subject of
-        intermediary liability and the delicate balancing act that platform providers
-        have to play on that front, with lawyers from Meetup, Change.org, and Medium.
-        This week, in lieu of a regular podcast episode we've got a recording of that
-        discussion, which delves deeply into some of the difficult choices companies
-        like this have to make.
+      content: 'If you want to send someone a message online today, you''ve got a
+        hell of a lot of options. Far from the erstwhile IM dominance of ICQ, today
+        there are messaging platforms of every shape and size, a blurring of the lines
+        between messaging and social media, and messaging components incorporated
+        into almost everything. This week, we ask a simple question: why so many,
+        and what are they all for?'
   content:
-    text: ' \ud83c\udfa7 Listened to The Tough Choices Platforms Make by Techdirt
-      From Techdirt'
-- type: entry
-  published: "2018-06-04T11:04:55+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/252025002-techdirt-net-neutrality-zero-rating-the-games-internet-providers-play.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/252025002-techdirt-net-neutrality-zero-rating-the-games-internet-providers-play.mp3
-      name: Net Neutrality, Zero Rating & The Games Internet Providers Play
-      author: Techdirt
-      content: "The battle for net neutrality seemed like it was over \u2014 but the
-        regulations left a loophole open. Unsurprisingly, ISPs quickly started exploiting
-        it, offering \"zero rating\" services to do an end-run around true net neutrality.
-        Last week's guest Marvin Ammori joins us again this week, to discuss the true
-        and imperfect state of net neutrality, and the many games internet providers
-        play."
-  content:
-    text: ' \ud83c\udfa7 Listened to Net Neutrality, Zero Rating & The Games Internet
-      Providers Play by Techdirt From Techdirt'
-- type: entry
-  published: "2018-06-04T05:47:25+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/257482964-techdirt-free-culture-and-aaron-swartz-part-one.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/257482964-techdirt-free-culture-and-aaron-swartz-part-one.mp3
-      name: Free Culture And Aaron Swartz (Part One)
-      author: Techdirt
-      content: "Anyone even remotely interested in free culture, the internet and
-        copyright surely knows the name Aaron Swartz \u2014 but only some truly understand
-        what made him tick, and why he was considered so special and important in
-        that world. This week and next, we're joined by Justin Peters, author of The
-        Idealist, a new book that takes a close look at Aaron himself as well as the
-        internet culture that gave rise to his attitudes and activism, which is the
-        focus of this first half of the discussion."
-  content:
-    text: ' \ud83c\udfa7 Listened to Free Culture And Aaron Swartz (Part One) by Techdirt
-      From Techdirt'
+    text: ' \ud83c\udfa7 Listened to Why Are There So Many Messaging Companies? by
+      Techdirt From Techdirt'
 - type: entry
   published: "2018-06-04T04:35:04+00:00"
   category:
@@ -125,6 +74,31 @@
   content:
     text: ' \ud83c\udfa7 Listened to Should Internet Companies Sway Elections? by
       Techdirt From Techdirt'
+- type: entry
+  published: "2018-06-04T12:32:58+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/249701635-techdirt-hacking-the-patent-system.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/249701635-techdirt-hacking-the-patent-system.mp3
+      name: Hacking The Patent System
+      author: Techdirt
+      content: "We all know the patent system is riddled with problems, and badly
+        in need of reform. But reform comes slow \u2014 really, really slow. So some
+        tech companies have been doing what they do best: innovate. They are finding
+        ways to get around the biggest problems of the patent system without waiting
+        on go-nowhere legislative reform efforts. This week we're joined by Julie
+        Samuels, President of the Board at Engine, to discuss the innovation-based
+        approach to navigating the patent system and changing patent culture."
+  content:
+    text: ' \ud83c\udfa7 Listened to Hacking The Patent System by Techdirt From Techdirt'
 - type: entry
   published: "2018-06-04T01:05:42+00:00"
   category:
@@ -151,7 +125,7 @@
     text: ' \ud83c\udfa7 Listened to Is There Enough Demand For The On Demand Economy?
       by Techdirt From Techdirt'
 - type: entry
-  published: "2018-06-04T09:37:22+00:00"
+  published: "2018-06-04T11:04:55+00:00"
   category:
   - scrobble
   - audio
@@ -162,21 +136,19 @@
       url: https://www.techdirt.com/podcast.xml
       photo: ""
       audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/255866162-techdirt-the-great-encryption-debate-should-there-be-backdoors.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/255866162-techdirt-the-great-encryption-debate-should-there-be-backdoors.mp3
-      name: 'The Great Encryption Debate: Should There Be Back Doors?'
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/252025002-techdirt-net-neutrality-zero-rating-the-games-internet-providers-play.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/252025002-techdirt-net-neutrality-zero-rating-the-games-internet-providers-play.mp3
+      name: Net Neutrality, Zero Rating & The Games Internet Providers Play
       author: Techdirt
-      content: "Anyone who reads Techdirt knows our opinion on encryption: stronger
-        is better, and giving the government (or anyone else) a back door is a dangerous
-        idea. We've decried a lot of the stupid arguments that we've heard in favor
-        of back doors \u2014 usually coming from technologically clueless politicians
-        and law enforcement officers \u2014 but that doesn't mean we aren't open to
-        considering some smart ones. This week, we've invited Albert Wenger (who you
-        may recall from a discussion about basic income way back in Episode 16) to
-        share his pro-backdoor position and engage in some friendly debate."
+      content: "The battle for net neutrality seemed like it was over \u2014 but the
+        regulations left a loophole open. Unsurprisingly, ISPs quickly started exploiting
+        it, offering \"zero rating\" services to do an end-run around true net neutrality.
+        Last week's guest Marvin Ammori joins us again this week, to discuss the true
+        and imperfect state of net neutrality, and the many games internet providers
+        play."
   content:
-    text: ' \ud83c\udfa7 Listened to The Great Encryption Debate: Should There Be
-      Back Doors? by Techdirt From Techdirt'
+    text: ' \ud83c\udfa7 Listened to Net Neutrality, Zero Rating & The Games Internet
+      Providers Play by Techdirt From Techdirt'
 - type: entry
   published: "2018-06-04T05:09:25+00:00"
   category:
@@ -205,54 +177,6 @@
     text: ' \ud83c\udfa7 Listened to Is It Futile To Draw Borders On The Internet?
       by Techdirt From Techdirt'
 - type: entry
-  published: "2018-06-04T06:25:24+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/258664384-techdirt-free-culture-and-aaron-swartz-part-two.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/258664384-techdirt-free-culture-and-aaron-swartz-part-two.mp3
-      name: Free Culture And Aaron Swartz (Part Two)
-      author: Techdirt
-      content: Last week we were joined by Justin Peters, author of the new book The
-        Idealist all about Aaron Swartz, free culture and digital activism. The first
-        half of the discussion focused on that broader context, and this week we continue
-        with a closer look at Aaron himself.
-  content:
-    text: ' \ud83c\udfa7 Listened to Free Culture And Aaron Swartz (Part Two) by Techdirt
-      From Techdirt'
-- type: entry
-  published: "2018-06-04T10:29:29+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/254287528-techdirt-why-are-there-so-many-messaging-companies.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/254287528-techdirt-why-are-there-so-many-messaging-companies.mp3
-      name: Why Are There So Many Messaging Companies?
-      author: Techdirt
-      content: 'If you want to send someone a message online today, you''ve got a
-        hell of a lot of options. Far from the erstwhile IM dominance of ICQ, today
-        there are messaging platforms of every shape and size, a blurring of the lines
-        between messaging and social media, and messaging components incorporated
-        into almost everything. This week, we ask a simple question: why so many,
-        and what are they all for?'
-  content:
-    text: ' \ud83c\udfa7 Listened to Why Are There So Many Messaging Companies? by
-      Techdirt From Techdirt'
-- type: entry
   published: "2018-06-04T11:38:59+00:00"
   category:
   - scrobble
@@ -277,7 +201,7 @@
   content:
     text: ' \ud83c\udfa7 Listened to Apple, The FBI & You by Techdirt From Techdirt'
 - type: entry
-  published: "2018-06-04T12:32:58+00:00"
+  published: "2018-06-04T03:52:49+00:00"
   category:
   - scrobble
   - audio
@@ -288,17 +212,93 @@
       url: https://www.techdirt.com/podcast.xml
       photo: ""
       audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/249701635-techdirt-hacking-the-patent-system.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/249701635-techdirt-hacking-the-patent-system.mp3
-      name: Hacking The Patent System
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/262340001-techdirt-the-tough-choices-platforms-make.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/262340001-techdirt-the-tough-choices-platforms-make.mp3
+      name: The Tough Choices Platforms Make
       author: Techdirt
-      content: "We all know the patent system is riddled with problems, and badly
-        in need of reform. But reform comes slow \u2014 really, really slow. So some
-        tech companies have been doing what they do best: innovate. They are finding
-        ways to get around the biggest problems of the patent system without waiting
-        on go-nowhere legislative reform efforts. This week we're joined by Julie
-        Samuels, President of the Board at Engine, to discuss the innovation-based
-        approach to navigating the patent system and changing patent culture."
+      content: Back in March, Mike moderated a panel at RightsCon on the subject of
+        intermediary liability and the delicate balancing act that platform providers
+        have to play on that front, with lawyers from Meetup, Change.org, and Medium.
+        This week, in lieu of a regular podcast episode we've got a recording of that
+        discussion, which delves deeply into some of the difficult choices companies
+        like this have to make.
   content:
-    text: ' \ud83c\udfa7 Listened to Hacking The Patent System by Techdirt From Techdirt'
+    text: ' \ud83c\udfa7 Listened to The Tough Choices Platforms Make by Techdirt
+      From Techdirt'
+- type: entry
+  published: "2018-06-04T05:47:25+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/257482964-techdirt-free-culture-and-aaron-swartz-part-one.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/257482964-techdirt-free-culture-and-aaron-swartz-part-one.mp3
+      name: Free Culture And Aaron Swartz (Part One)
+      author: Techdirt
+      content: "Anyone even remotely interested in free culture, the internet and
+        copyright surely knows the name Aaron Swartz \u2014 but only some truly understand
+        what made him tick, and why he was considered so special and important in
+        that world. This week and next, we're joined by Justin Peters, author of The
+        Idealist, a new book that takes a close look at Aaron himself as well as the
+        internet culture that gave rise to his attitudes and activism, which is the
+        focus of this first half of the discussion."
+  content:
+    text: ' \ud83c\udfa7 Listened to Free Culture And Aaron Swartz (Part One) by Techdirt
+      From Techdirt'
+- type: entry
+  published: "2018-06-04T06:25:24+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/258664384-techdirt-free-culture-and-aaron-swartz-part-two.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/258664384-techdirt-free-culture-and-aaron-swartz-part-two.mp3
+      name: Free Culture And Aaron Swartz (Part Two)
+      author: Techdirt
+      content: Last week we were joined by Justin Peters, author of the new book The
+        Idealist all about Aaron Swartz, free culture and digital activism. The first
+        half of the discussion focused on that broader context, and this week we continue
+        with a closer look at Aaron himself.
+  content:
+    text: ' \ud83c\udfa7 Listened to Free Culture And Aaron Swartz (Part Two) by Techdirt
+      From Techdirt'
+- type: entry
+  published: "2018-06-04T09:37:22+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/255866162-techdirt-the-great-encryption-debate-should-there-be-backdoors.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/255866162-techdirt-the-great-encryption-debate-should-there-be-backdoors.mp3
+      name: 'The Great Encryption Debate: Should There Be Back Doors?'
+      author: Techdirt
+      content: "Anyone who reads Techdirt knows our opinion on encryption: stronger
+        is better, and giving the government (or anyone else) a back door is a dangerous
+        idea. We've decried a lot of the stupid arguments that we've heard in favor
+        of back doors \u2014 usually coming from technologically clueless politicians
+        and law enforcement officers \u2014 but that doesn't mean we aren't open to
+        considering some smart ones. This week, we've invited Albert Wenger (who you
+        may recall from a discussion about basic income way back in Episode 16) to
+        share his pro-backdoor position and engage in some friendly debate."
+  content:
+    text: ' \ud83c\udfa7 Listened to The Great Encryption Debate: Should There Be
+      Back Doors? by Techdirt From Techdirt'
 ...

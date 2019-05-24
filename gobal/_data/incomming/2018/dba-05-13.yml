@@ -1,6 +1,6 @@
 ---
 - type: entry
-  published: "2018-05-13T00:30:19+00:00"
+  published: "2018-05-13T14:58:57+00:00"
   category:
   - scrobble
   - audio
@@ -11,37 +11,16 @@
       url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20180118.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Stress_dreams_morning_people_period_syncing.mp3
-      name: Stress dreams, morning people, period syncing
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20171130.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Cold_beer_hail_storms_stuttering.mp3
+      name: Cold beer, hail storms, stuttering
       author: ABC Science
-      content: Dr. Karl answers all your science questions, including; do stressful
-        dreams affect sleep quality? Are there really morning and night people? Why
-        do periods sync?
+      content: Does a beer can get colder than when in a stubby bottle? Do ice cubes
+        freeze faster when you use hot water? Why is rainfall measured in millimeters
+        not milliliters?
   content:
-    text: ' \ud83c\udfa7 Listened to Stress dreams, morning people, period syncing
-      by ABC Science From Dr Karl on triplej'
-- type: entry
-  published: "2018-05-13T14:21:04+00:00"
-  category:
-  - scrobble
-  - audio
-  - Dr Karl on triplej
-  - ABC Science
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20171207.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Tap_vs_Bottled_water_voices_the_golden_ratio.mp3
-      name: Tap vs Bottled water, voices, the golden ratio
-      author: ABC Science
-      content: Why does everyone have a different sounding voice? When are things
-        wet? Why is milk white?
-  content:
-    text: ' \ud83c\udfa7 Listened to Tap vs Bottled water, voices, the golden ratio
-      by ABC Science From Dr Karl on triplej'
+    text: ' \ud83c\udfa7 Listened to Cold beer, hail storms, stuttering by ABC Science
+      From Dr Karl on triplej'
 - type: entry
   published: "2018-05-13T15:35:23+00:00"
   category:
@@ -65,7 +44,7 @@
     text: ' \ud83c\udfa7 Listened to Before dinosaurs, sense of direction, migraines
       by ABC Science From Dr Karl on triplej'
 - type: entry
-  published: "2018-05-13T05:29:36+00:00"
+  published: "2018-05-13T16:47:23+00:00"
   category:
   - scrobble
   - audio
@@ -76,17 +55,17 @@
       url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20180211.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Rollercoasters_white_dog_poo_wormholes.mp3
-      name: Rollercoasters, white dog poo, wormholes
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20171109.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Bitcoin_mining_AI_algorithms_data_diamonds.mp3
+      name: Bitcoin mining, AI algorithms, data diamonds
       author: ABC Science
-      content: Why does dog poo turn white? What is plasma? Why are bugs attracted
-        to light?
+      content: Professor David Reilly joins Dr Karl to answer your questions about
+        quantum computing, AI and nanoscience.
   content:
-    text: ' \ud83c\udfa7 Listened to Rollercoasters, white dog poo, wormholes by ABC
-      Science From Dr Karl on triplej'
+    text: ' \ud83c\udfa7 Listened to Bitcoin mining, AI algorithms, data diamonds
+      by ABC Science From Dr Karl on triplej'
 - type: entry
-  published: "2018-05-13T14:58:57+00:00"
+  published: "2018-05-13T00:30:19+00:00"
   category:
   - scrobble
   - audio
@@ -97,16 +76,16 @@
       url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20171130.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Cold_beer_hail_storms_stuttering.mp3
-      name: Cold beer, hail storms, stuttering
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20180118.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Stress_dreams_morning_people_period_syncing.mp3
+      name: Stress dreams, morning people, period syncing
       author: ABC Science
-      content: Does a beer can get colder than when in a stubby bottle? Do ice cubes
-        freeze faster when you use hot water? Why is rainfall measured in millimeters
-        not milliliters?
+      content: Dr. Karl answers all your science questions, including; do stressful
+        dreams affect sleep quality? Are there really morning and night people? Why
+        do periods sync?
   content:
-    text: ' \ud83c\udfa7 Listened to Cold beer, hail storms, stuttering by ABC Science
-      From Dr Karl on triplej'
+    text: ' \ud83c\udfa7 Listened to Stress dreams, morning people, period syncing
+      by ABC Science From Dr Karl on triplej'
 - type: entry
   published: "2018-05-13T16:11:33+00:00"
   category:
@@ -130,6 +109,27 @@
     text: ' \ud83c\udfa7 Listened to Animal camouflage, artificial organs, blocked
       noses by ABC Science From Dr Karl on triplej'
 - type: entry
+  published: "2018-05-13T14:21:04+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl on triplej
+  - ABC Science
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20171207.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Tap_vs_Bottled_water_voices_the_golden_ratio.mp3
+      name: Tap vs Bottled water, voices, the golden ratio
+      author: ABC Science
+      content: Why does everyone have a different sounding voice? When are things
+        wet? Why is milk white?
+  content:
+    text: ' \ud83c\udfa7 Listened to Tap vs Bottled water, voices, the golden ratio
+      by ABC Science From Dr Karl on triplej'
+- type: entry
   published: "2018-05-13T06:05:17+00:00"
   category:
   - scrobble
@@ -152,7 +152,7 @@
     text: ' \ud83c\udfa7 Listened to Fossil fuels, cruise control, tears of joy vs
       sadness by ABC Science From Dr Karl on triplej'
 - type: entry
-  published: "2018-05-13T16:47:23+00:00"
+  published: "2018-05-13T05:29:36+00:00"
   category:
   - scrobble
   - audio
@@ -163,13 +163,13 @@
       url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20171109.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Bitcoin_mining_AI_algorithms_data_diamonds.mp3
-      name: Bitcoin mining, AI algorithms, data diamonds
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20180211.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Rollercoasters_white_dog_poo_wormholes.mp3
+      name: Rollercoasters, white dog poo, wormholes
       author: ABC Science
-      content: Professor David Reilly joins Dr Karl to answer your questions about
-        quantum computing, AI and nanoscience.
+      content: Why does dog poo turn white? What is plasma? Why are bugs attracted
+        to light?
   content:
-    text: ' \ud83c\udfa7 Listened to Bitcoin mining, AI algorithms, data diamonds
-      by ABC Science From Dr Karl on triplej'
+    text: ' \ud83c\udfa7 Listened to Rollercoasters, white dog poo, wormholes by ABC
+      Science From Dr Karl on triplej'
 ...
