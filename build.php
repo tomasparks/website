@@ -44,7 +44,7 @@ $BuildConfig = array
                     "dest" => "notes.tomasparks.name",
                     "theme"=> "pda-theme-jekyll",
                     "plugins" => "",
-                    "pre"=> array ("rhythmdb","twitter","notesgen"))
+                    "pre"=> array ("rhythmdb","notesgen"))
                     );
 
 
@@ -69,7 +69,7 @@ foreach ($building['gobal-pre'] as $pre) {
                 passthru("./webmentions.php");
                 breaK;
             case "calibredb":
-                passthru("calibredb catalog ".$root."/".$building['srcRoot']."/gobal/_data/books.csv");
+                passthru("calibredb catalog '".$root."/".$building['srcRoot']."/gobal/_data/books.csv' --verbose");
                 breaK;
              case "twitter2yml":
                 chdir("".$root."/".$building['srcRoot']."/php/");
@@ -78,10 +78,6 @@ foreach ($building['gobal-pre'] as $pre) {
             case "rhythmdb":
                 chdir("".$root."/".$building['srcRoot']."/php/");
                 passthru("./rhythmdb2notes.php");
-                breaK;
-                            case "twitter":
-                chdir("".$root."/".$building['srcRoot']."/php/");
-                passthru("./twitter2yml.php");
                 breaK;
              case "notesgen":
                 chdir("".$root."/".$building['srcRoot']."/php/");
