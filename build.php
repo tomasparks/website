@@ -10,18 +10,19 @@ $builddefualts = array (
                         "gitAuthor" => "tomasparks",
                         "includesSrcs" => array ("gobal"),
                         "tmpRoot" => "tmp",
-                        "gobal-pre"=> array ("webmentions","twitter2yml","calibredb"),
+                        "gobal-pre"=> array ("tp-copy","webmentions","twitter2yml","calibredb"),
                         "gobal-post" => array ("hfeed")
                         );
                         
 $BuildConfig = array
                     (
-                    "gallery" => array ("name" => "Gallery",
-                    "src" => "gallery-src",
-                    "dest" => "gallery.tomasparks.name",
-                    "gitDest" => "gallery",
-                    "plugins" => "",
-                    "pre"=> array ("build-gallery"),
+                    "gallery" => array (
+                        "name" => "Gallery",
+                        "src" => "gallery-src",
+                        "dest" => "gallery.tomasparks.name",
+                        "gitDest" => "gallery",
+                        "plugins" => "",
+                        "pre"=> array ("build-gallery")
                     ),
                     
                     "main" => array ("name" => "main",
@@ -45,7 +46,7 @@ $BuildConfig = array
                     "theme"=> "pda-theme-jekyll",
                     "plugins" => "",
                     "pre"=> array ("rhythmdb","notesgen"))
-                    );
+);
 
 
 $who ="miniatures"; 
@@ -64,6 +65,9 @@ echo "prebuilding....\n";
 foreach ($building['gobal-pre'] as $pre) {
     echo "Doing ".$pre."...\n";
     switch ($pre) {
+                case "tp-copy":
+                passthru("cp '/home/tom/.local/share/rhythmbox/rhythmdb.xml' '".$root."/".$building['srcRoot']."/third-party/rhythmdb.xml'");
+                breaK;
             case "webmentions":
                 chdir("".$root."/".$building['srcRoot']."/php/");
                 passthru("./webmentions.php");

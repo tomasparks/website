@@ -107,6 +107,8 @@ RPGMP3_Actual_Play_Podcast-by-Hal:
   kingmaker_session_64.mp3: true
   kingmaker_session_65.mp3: true
   kingmaker_session_66.mp3: true
+  kingmaker_session_67.mp3: true
+  kingmaker_session_68.mp3: true
 Indieweb_Podcast-by-David_Shanske_and_Chris_Aldrich:
   Indieweb9.mp3: true
   Indieweb10.mp3: true
@@ -126,7 +128,7 @@ STEAL_THIS_SHOW-Podcast-by-STEAL_THIS_SHOW:
   STEAL_THIS_SHOW_S01E01_Fight_For_The_Future.mp3: true
   S03E14_The_Tao_of_the_DAO_with_Chris_Beams.mp3: true
   S03_E012_Propaganda_Bots_with_Sam_Woolley.mp3: true
-  S03_E14_The_Many_Lives_Of_The_Alt-Right_with_Elizbeth_Sandifer.mp3: false
+  S03_E14_The_Many_Lives_Of_The_Alt-Right_with_Elizbeth_Sandifer.mp3: true
   S03E10_Battle_Of_The_Bots_with_Ben_Nimmo.mp3: true
   s03e09_Love_Your_Panopticon_with_Diani_Barreto.mp3: true
   s03_e11_The_Nerd_Reich_with_Vinay_Gupta_mp3.mp3: true
@@ -185,7 +187,7 @@ Jeenas_Excellent_Encounters-Poodcast-by-Jeena:
   JEE017-The-IndieWeb-Martijn.mp3: true
 5_live_Science_Podcast-by-BBC_Radio_5_live:
   p06dj86p.mp3: true
-  p06cbx7d.mp3: false
+  p06cbx7d.mp3: true
   p068pk6z.mp3: true
   p06bpcp3.mp3: true
   p068v1bw.mp3: true
@@ -208,7 +210,7 @@ Percolator-Podcast-by-Aaron_Parecki:
   Episode_4_Pretending_to_be_an_iOS_Developer.mp3: true
   Episode_15_The_IndieWeb_Wiki_and_IndieAuth.mp3: true
   Episode_18_IndieWebCamp_Baltimore.mp3: true
-  Episode_12_To_Poll_or_Not_to_Poll.mp3: false
+  Episode_12_To_Poll_or_Not_to_Poll.mp3: true
   Episode_10_Microsub_for_Readers.mp3: true
   Episode_14_DROP_DATABASE_irclog.mp3: true
   Episode_20_A_Public_Launch_of_Aperture.mp3: true
@@ -221,7 +223,7 @@ Troll_Play-Podcast-by-ABC_Radio_Comedy:
   Introducing_The_Alice_Fraser_Trilogy.mp3: true
   Professional_trollers_hot_gluing_when_compliments_go_wrong.mp3: true
   Prisoner_fans_spaghetti_straps_and_the_wrong_Sami.mp3: true
-  Little_monsters_rough_crowds_the_satanic_media.mp3: false
+  Little_monsters_rough_crowds_the_satanic_media.mp3: true
   Mumsnet_breastfeeding_and_Llama_related_putdowns.mp3: true
   Poison_pen_letters_and_A_LOT_of_milk.mp3: true
   Introducing_Troll_Play.mp3: true
@@ -238,12 +240,12 @@ indieweb_on_Huffduffer-by-Array:
   bigwebshow-186.mp3: true
   _The_value_of_rituals_in_a_digital_world_ABC_Radio_National.mp3: true
   CoreInt_336.mp3: true
-  857f7522.mp3: false
+  857f7522.mp3: true
   001-aaronparecki.mp3: true
   c55e91d6-5bdd-4d3f-9952-945384e35d22.mp3: true
   tri0380_h264m_1280x720_1872.mp4: true
   1ed6684a4c.mp3: true
-  d04ac83adf.mp3: false
+  d04ac83adf.mp3: true
   002-rosemaryorchard.mp3: true
   23c5c80266.mp3: true
   teaser-trailer.mp3: true
@@ -332,6 +334,7 @@ Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott:
   The_Infocom_Source_Code_Episode.mp3: true
   The_Sorting_Episode.mp3: true
   Jerome_Johnson.mp3: true
+  The_Conference_Episode.mp3: false
 Relative_Paths_Web_Development_and_stuff_like_that-Podcast-by-Mark_Phoenix_and_Ben_Hutchings:
   438217815-relativepaths-52-going-offline-with-jeremy-keith.mp3: true
 Cory_Doctorows-Podcast-by-Cory_Doctorow:
@@ -341,7 +344,7 @@ Cory_Doctorows-Podcast-by-Cory_Doctorow:
   Cory_Doctorow_Podcast_288_-_The_Man_Who_Sold_the_Moon_06.mp3: true
   Cory_Doctorow_Podcast_294_-_Petard_04.mp3: true
   Cory_Doctorow_Podcast_283_-_The_Man_Who_Sold_the_Moon_01.mp3: true
-  Cory_Doctorow_Podcast_284_-_The_Man_Who_Sold_the_Moon_02.mp3: false
+  Cory_Doctorow_Podcast_284_-_The_Man_Who_Sold_the_Moon_02.mp3: true
   Cory_Doctorow_Podcast_293_-_Petard_03.mp3: true
   Cory_Doctorow_Podcast_289_-_The_Man_Who_Sold_the_Moon_07.mp3: true
   Talking_the_writers_life_with_the_Australia_Broadcasting_Companys_Green_Room_show.mp3: true
@@ -459,7 +462,7 @@ Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National
   Value_of_money_is_based_on_trust.mp3: true
   Animal_poo_times.mp3: true
   The_awesome_origins_of_gravitational_waves.mp3: true
-  Bitcoin_and_mathematics.mp3: false
+  Bitcoin_and_mathematics.mp3: true
   Gunpowder_vs_sandwich.mp3: true
   How_clean_and_green_is_our_digital_world.mp3: true
   Chewing_gum.mp3: true
@@ -1174,7 +1177,7 @@ Internet_History_Podcast-by-Brian_McCullough:
   193_The_Home_Page_Film_With_Doug_Block.mp3: true
   188_TheGlobecom_Story_With_Stephan_Paternot_Part_III.mp3: true
   189_A_Legal_History_of_the_Web_Era_With_Richard_Chapo.mp3: true
-  187_TheGlobecom_Story_with_Stephan_Paternot_Part_II.mp3: false
+  187_TheGlobecom_Story_with_Stephan_Paternot_Part_II.mp3: true
   191_Bringing_The_WSJ_Online_With_Rich_Jaroslovsky_Part_2.mp3: true
   190_Bringing_The_WSJ_Online_With_Rich_Jaroslovsky.mp3: true
   192_Hulus_Founding_and_Digital_Design_With_Dan_Maccarone.mp3: true
@@ -1187,7 +1190,7 @@ Internet_History_Podcast-by-Brian_McCullough:
   174_Bringing_the_NYTimes_and_MSNBC_Online_With_Lisa_Napoli.mp3: true
   194_The_History_of_the_ISP_Industry_With_Sonics_Dane_Jasper.mp3: true
   196_Google_Twitter_and_More_With_Karen_Wickre.mp3: true
-  195_Microsoft_CTO_Kevin_Scott.mp3: false
+  195_Microsoft_CTO_Kevin_Scott.mp3: true
 TED_Radio_Hour-Podcast-by-NPR:
   20180601_ted_tedpod.mp3: true
 Hamish_Andy-Podcast-by-Hamish_Andy:
@@ -1253,8 +1256,10 @@ Dr_Karl_on_triplej-Podcast-by-triplej:
 Future_Tense_ABC_RN-by-ABC_Radio_National:
   fte_20190512.mp3: true
   fte_20190519.mp3: true
+  fte_20190526.mp3: false
 Dr_Karl_Podcast-by-triple_j:
   Beard_hairballs_purring_pussies_and_green_boogers.mp3: true
+  Sympathy_spews_chubby_rain_and_fullmoon_craziness.mp3: false
 An_Indieweb_Podcast_Chris_Aldrich-by-httpswordpressorgv511:
-  Indieweb14.mp3: false
+  Indieweb14.mp3: true
 ...
