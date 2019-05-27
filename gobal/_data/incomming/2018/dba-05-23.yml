@@ -44,71 +44,6 @@
     text: ' \ud83c\udfa7 Listened to Do snipers consider the Coriolis effect? by ABC
       Science From Dr Karl on triplej'
 - type: entry
-  published: "2018-05-23T14:24:35+00:00"
-  category:
-  - scrobble
-  - audio
-  - Dr Karl on triplej
-  - ABC Science
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20110728.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Workout_music_and_rumbling_stomachs.mp3
-      name: Workout music and rumbling stomachs
-      author: ABC Science
-      content: 'Why do some people work harder at the gym when they listen to a favourite
-        tune? Plus: why does your stomach rumble when you are hungry? And why do your
-        hands tingle after an orgasm?'
-  content:
-    text: ' \ud83c\udfa7 Listened to Workout music and rumbling stomachs by ABC Science
-      From Dr Karl on triplej'
-- type: entry
-  published: "2018-05-23T13:15:10+00:00"
-  category:
-  - scrobble
-  - audio
-  - Dr Karl on triplej
-  - ABC Science
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20110804.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Space_special_with_NASA_astronaut_Dr_Gregory_Chamitoff.mp3
-      name: Space special with NASA astronaut Dr Gregory Chamitoff
-      author: ABC Science
-      content: What's it like to live in space for 183 days? NASA astronaut Dr Gregory
-        Chamitoff joins Dr Karl to answer all your space questions.
-  content:
-    text: ' \ud83c\udfa7 Listened to Space special with NASA astronaut Dr Gregory
-      Chamitoff by ABC Science From Dr Karl on triplej'
-- type: entry
-  published: "2018-05-23T17:13:06+00:00"
-  category:
-  - scrobble
-  - audio
-  - Dr Karl on triplej
-  - ABC Science
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20110707.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Unmoving_escalators_circumnavigating_ash_clouds_and_orange_oranges.mp3
-      name: Unmoving escalators, circumnavigating ash clouds and orange oranges
-      author: ABC Science
-      content: 'Why does it feel unusual when walking on a stationary escalator? Plus:
-        why did the recent Chilean volcano ash cloud travel in the opposite direction
-        to the prevailing winds? And why are oranges orange?'
-  content:
-    text: ' \ud83c\udfa7 Listened to Unmoving escalators, circumnavigating ash clouds
-      and orange oranges by ABC Science From Dr Karl on triplej'
-- type: entry
   published: "2018-05-23T12:35:14+00:00"
   category:
   - scrobble
@@ -174,4 +109,69 @@
   content:
     text: ' \ud83c\udfa7 Listened to Sunburnt nipples and global warming by ABC Science
       From Dr Karl on triplej'
+- type: entry
+  published: "2018-05-23T17:13:06+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl on triplej
+  - ABC Science
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20110707.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Unmoving_escalators_circumnavigating_ash_clouds_and_orange_oranges.mp3
+      name: Unmoving escalators, circumnavigating ash clouds and orange oranges
+      author: ABC Science
+      content: 'Why does it feel unusual when walking on a stationary escalator? Plus:
+        why did the recent Chilean volcano ash cloud travel in the opposite direction
+        to the prevailing winds? And why are oranges orange?'
+  content:
+    text: ' \ud83c\udfa7 Listened to Unmoving escalators, circumnavigating ash clouds
+      and orange oranges by ABC Science From Dr Karl on triplej'
+- type: entry
+  published: "2018-05-23T14:24:35+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl on triplej
+  - ABC Science
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20110728.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Workout_music_and_rumbling_stomachs.mp3
+      name: Workout music and rumbling stomachs
+      author: ABC Science
+      content: 'Why do some people work harder at the gym when they listen to a favourite
+        tune? Plus: why does your stomach rumble when you are hungry? And why do your
+        hands tingle after an orgasm?'
+  content:
+    text: ' \ud83c\udfa7 Listened to Workout music and rumbling stomachs by ABC Science
+      From Dr Karl on triplej'
+- type: entry
+  published: "2018-05-23T13:15:10+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl on triplej
+  - ABC Science
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20110804.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Space_special_with_NASA_astronaut_Dr_Gregory_Chamitoff.mp3
+      name: Space special with NASA astronaut Dr Gregory Chamitoff
+      author: ABC Science
+      content: What's it like to live in space for 183 days? NASA astronaut Dr Gregory
+        Chamitoff joins Dr Karl to answer all your space questions.
+  content:
+    text: ' \ud83c\udfa7 Listened to Space special with NASA astronaut Dr Gregory
+      Chamitoff by ABC Science From Dr Karl on triplej'
 ...

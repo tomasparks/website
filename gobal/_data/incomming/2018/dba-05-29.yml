@@ -24,27 +24,6 @@
       and revolution with The Final Straw Radio by Cory Doctorow From Podcast \u2013
       Cory Doctorow's craphound.com"
 - type: entry
-  published: "2018-05-29T10:50:34+00:00"
-  category:
-  - scrobble
-  - audio
-  - Great Moments In Science - with Dr Karl Kruszelnicki
-  - ABC Radio National
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2018/05/gms_20180529.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Road_trip_to_future_travel.mp3
-      name: Road trip to future travel
-      author: ABC Radio National
-      content: 130 years ago one woman went on the first road trip and made history.
-        Is it time for another change in transportation?
-  content:
-    text: ' \ud83c\udfa7 Listened to Road trip to future travel by ABC Radio National
-      From Great Moments In Science - with Dr Karl Kruszelnicki'
-- type: entry
   published: "2018-05-29T16:28:09+00:00"
   category:
   - scrobble
@@ -69,29 +48,26 @@
     text: ' \ud83c\udfa7 Listened to The Floppy Format Episode by @textfiles From
       #JasonScottTalksHisWayOutofIt'
 - type: entry
-  published: "2018-05-29T19:09:51+00:00"
+  published: "2018-05-29T10:50:34+00:00"
   category:
   - scrobble
   - audio
-  - Techdirt
-  - Techdirt
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
   listen-of:
     h-cite:
-      url: https://www.techdirt.com/podcast.xml
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
       photo: ""
       audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/310014907-techdirt-the-miracle-of-booking-flights.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/310014907-techdirt-the-miracle-of-booking-flights.mp3
-      name: The Miracle Of Booking Flights
-      author: Techdirt
-      content: The finding and booking of flights is a massive and elaborate global
-        mechanism that contains both fascinating technology and useful secrets. This
-        week, we're joined by Adam Fletcher, co-founder of Gyroscope Software and
-        an architect of Google's airline reservation system, to talk about all the
-        technology behind commercial air travel today.
+      - http://mpegmedia.abc.net.au/rn/podcast/2018/05/gms_20180529.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Road_trip_to_future_travel.mp3
+      name: Road trip to future travel
+      author: ABC Radio National
+      content: 130 years ago one woman went on the first road trip and made history.
+        Is it time for another change in transportation?
   content:
-    text: ' \ud83c\udfa7 Listened to The Miracle Of Booking Flights by Techdirt From
-      Techdirt'
+    text: ' \ud83c\udfa7 Listened to Road trip to future travel by ABC Radio National
+      From Great Moments In Science - with Dr Karl Kruszelnicki'
 - type: entry
   published: "2018-05-29T23:25:10+00:00"
   category:
@@ -118,6 +94,30 @@
   content:
     text: ' \ud83c\udfa7 Listened to Rob Reid''s Mind-Bending Podcast by Techdirt
       From Techdirt'
+- type: entry
+  published: "2018-05-29T19:09:51+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/310014907-techdirt-the-miracle-of-booking-flights.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/310014907-techdirt-the-miracle-of-booking-flights.mp3
+      name: The Miracle Of Booking Flights
+      author: Techdirt
+      content: The finding and booking of flights is a massive and elaborate global
+        mechanism that contains both fascinating technology and useful secrets. This
+        week, we're joined by Adam Fletcher, co-founder of Gyroscope Software and
+        an architect of Google's airline reservation system, to talk about all the
+        technology behind commercial air travel today.
+  content:
+    text: ' \ud83c\udfa7 Listened to The Miracle Of Booking Flights by Techdirt From
+      Techdirt'
 - type: entry
   published: "2018-05-29T22:38:40+00:00"
   category:

@@ -1,28 +1,5 @@
 ---
 - type: entry
-  published: "2018-04-24T15:22:26+00:00"
-  category:
-  - scrobble
-  - audio
-  - Adam Ruins Everything
-  - Adam Ruins Everything
-  listen-of:
-    h-cite:
-      url: http://maximumfun.org/feeds/are.xml
-      photo: ""
-      audio:
-      - http://media.adknit.com/a/f/90/adam-ruins-everything/2d1zae.1-1.mp3
-      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_14_Voting_Rights_and_Criminal_Justice_Reform_with_Daryl_Atkinson.mp3
-      name: 'Ep 14: Voting Rights and Criminal Justice Reform with Daryl Atkinson'
-      author: Adam Ruins Everything
-      content: On this week's podcast Adam talks to Daryl Atkinson, who appeared on
-        not one but two episodes of Adam Ruins Everything the TV show - Adam Ruins
-        Voting and Adam Ruins Prison! Daryl is a Staff Attorney for the Southern Coalition
-        for Social Justice.
-  content:
-    text: ' \ud83c\udfa7 Listened to Ep 14: Voting Rights and Criminal Justice Reform
-      with Daryl Atkinson by Adam Ruins Everything From Adam Ruins Everything'
-- type: entry
   published: "2018-04-24T16:15:15+00:00"
   category:
   - scrobble
@@ -45,6 +22,29 @@
   content:
     text: ' \ud83c\udfa7 Listened to Ep 13: Trophy Hunting with Rosie Cooney by Adam
       Ruins Everything From Adam Ruins Everything'
+- type: entry
+  published: "2018-04-24T15:22:26+00:00"
+  category:
+  - scrobble
+  - audio
+  - Adam Ruins Everything
+  - Adam Ruins Everything
+  listen-of:
+    h-cite:
+      url: http://maximumfun.org/feeds/are.xml
+      photo: ""
+      audio:
+      - http://media.adknit.com/a/f/90/adam-ruins-everything/2d1zae.1-1.mp3
+      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_14_Voting_Rights_and_Criminal_Justice_Reform_with_Daryl_Atkinson.mp3
+      name: 'Ep 14: Voting Rights and Criminal Justice Reform with Daryl Atkinson'
+      author: Adam Ruins Everything
+      content: On this week's podcast Adam talks to Daryl Atkinson, who appeared on
+        not one but two episodes of Adam Ruins Everything the TV show - Adam Ruins
+        Voting and Adam Ruins Prison! Daryl is a Staff Attorney for the Southern Coalition
+        for Social Justice.
+  content:
+    text: ' \ud83c\udfa7 Listened to Ep 14: Voting Rights and Criminal Justice Reform
+      with Daryl Atkinson by Adam Ruins Everything From Adam Ruins Everything'
 - type: entry
   published: "2018-04-24T21:15:15+00:00"
   category:

@@ -1,25 +1,5 @@
 ---
 - type: entry
-  published: "2018-07-06T11:14:23+00:00"
-  category:
-  - scrobble
-  - audio
-  - 5 live Science Podcast
-  - BBC Radio 5 live
-  listen-of:
-    h-cite:
-      url: http://podcasts.files.bbci.co.uk/p02pc9ny.rss
-      photo: ""
-      audio:
-      - http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p067drzv.mp3
-      - http://archive.org/download/5_live_Science_Podcast-by-BBC_Radio_5_live/p067drzv.mp3
-      name: Dr Karl
-      author: BBC Radio 5 live
-      content: Dr Karl and Dr Rhod are joined by Professor Geordie Williamson, and
-        discuss the Yanny/Laurel audio debate
-  content:
-    text: ' \ud83c\udfa7 Listened to Dr Karl by @bbc5live From 5 live Science Podcast'
-- type: entry
   published: "2018-07-06T12:02:57+00:00"
   category:
   - scrobble
@@ -39,322 +19,25 @@
   content:
     text: ' \ud83c\udfa7 Listened to Dr Karl by @bbc5live From 5 live Science Podcast'
 - type: entry
-  published: "2018-07-06T14:32:44+00:00"
+  published: "2018-07-06T11:14:23+00:00"
   category:
   - scrobble
   - audio
-  - Great Moments In Science - with Dr Karl Kruszelnicki
-  - ABC Radio National
+  - 5 live Science Podcast
+  - BBC Radio 5 live
   listen-of:
     h-cite:
-      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      url: http://podcasts.files.bbci.co.uk/p02pc9ny.rss
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2016/03/gms_20160322.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Antigravity_dream_may_take_off.mp3
-      name: Anti-gravity dream may take off
-      author: ABC Radio National
-      content: "The genius of Albert Einstein led us to gravitational waves \u2014
-        maybe someday another genius will work out how to make them!"
+      - http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p067drzv.mp3
+      - http://archive.org/download/5_live_Science_Podcast-by-BBC_Radio_5_live/p067drzv.mp3
+      name: Dr Karl
+      author: BBC Radio 5 live
+      content: Dr Karl and Dr Rhod are joined by Professor Geordie Williamson, and
+        discuss the Yanny/Laurel audio debate
   content:
-    text: ' \ud83c\udfa7 Listened to Anti-gravity dream may take off by ABC Radio
-      National From Great Moments In Science - with Dr Karl Kruszelnicki'
-- type: entry
-  published: "2018-07-06T12:29:57+00:00"
-  category:
-  - scrobble
-  - audio
-  - Great Moments In Science - with Dr Karl Kruszelnicki
-  - ABC Radio National
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2018/06/gms_20180612.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Cockroach_milk.mp3
-      name: Cockroach milk
-      author: ABC Radio National
-      content: Is "cockroach milk" the next "superfood"? Do cockroaches even make
-        milk!?
-  content:
-    text: ' \ud83c\udfa7 Listened to Cockroach milk by ABC Radio National From Great
-      Moments In Science - with Dr Karl Kruszelnicki'
-- type: entry
-  published: "2018-07-06T12:24:03+00:00"
-  category:
-  - scrobble
-  - audio
-  - Great Moments In Science - with Dr Karl Kruszelnicki
-  - ABC Radio National
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2018/06/gms_20180619.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/A1_vs_A2_milk.mp3
-      name: A1 vs A2 milk
-      author: ABC Radio National
-      content: Is it worth paying more for A2 milk? What's the evidence that it might
-        be better for you?
-  content:
-    text: ' \ud83c\udfa7 Listened to A1 vs A2 milk by ABC Radio National From Great
-      Moments In Science - with Dr Karl Kruszelnicki'
-- type: entry
-  published: "2018-07-06T14:00:07+00:00"
-  category:
-  - scrobble
-  - audio
-  - Great Moments In Science - with Dr Karl Kruszelnicki
-  - ABC Radio National
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2016/02/gms_20160209.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Traffic_button_pushes_beautiful_design.mp3
-      name: Traffic button pushes beautiful design
-      author: ABC Radio National
-      content: Next time you're at the lights, stop to appreciate the humble pedestrian
-        button. The design is so beautiful that even Oscar Wilde would approve, says
-        Dr Karl.
-  content:
-    text: ' \ud83c\udfa7 Listened to Traffic button pushes beautiful design by ABC
-      Radio National From Great Moments In Science - with Dr Karl Kruszelnicki'
-- type: entry
-  published: "2018-07-06T13:12:48+00:00"
-  category:
-  - scrobble
-  - audio
-  - Great Moments In Science - with Dr Karl Kruszelnicki
-  - ABC Radio National
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2015/11/gms_20151110.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/How_many_cells_in_a_person.mp3
-      name: How many cells in a person?
-      author: ABC Radio National
-      content: It's a surprisingly hard question to answer, but Dr Karl has tracked
-        down a reasonable estimate of the number of cells in the human body.
-  content:
-    text: ' \ud83c\udfa7 Listened to How many cells in a person? by ABC Radio National
-      From Great Moments In Science - with Dr Karl Kruszelnicki'
-- type: entry
-  published: "2018-07-06T12:53:52+00:00"
-  category:
-  - scrobble
-  - audio
-  - Great Moments In Science - with Dr Karl Kruszelnicki
-  - ABC Radio National
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2018/05/gms_20180501.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/The_Wood_Wide_Web.mp3
-      name: The Wood Wide Web
-      author: ABC Radio National
-      content: "They may not be able to walk, but trees do talk \u2014 at least to
-        each other."
-  content:
-    text: ' \ud83c\udfa7 Listened to The Wood Wide Web by ABC Radio National From
-      Great Moments In Science - with Dr Karl Kruszelnicki'
-- type: entry
-  published: "2018-07-06T16:46:48+00:00"
-  category:
-  - scrobble
-  - audio
-  - Great Moments In Science - with Dr Karl Kruszelnicki
-  - ABC Radio National
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2016/05/gms_20160510.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/How_long_would_it_take_a_vampire_to_drain_you_of_blood.mp3
-      name: How long would it take a vampire to drain you of blood?
-      author: ABC Radio National
-      content: If you're a sucker for a good vampire movie, be warned ... Dr Karl
-        takes two big bites out of the legend.
-  content:
-    text: ' \ud83c\udfa7 Listened to How long would it take a vampire to drain you
-      of blood? by ABC Radio National From Great Moments In Science - with Dr Karl
-      Kruszelnicki'
-- type: entry
-  published: "2018-07-06T13:47:59+00:00"
-  category:
-  - scrobble
-  - audio
-  - Great Moments In Science - with Dr Karl Kruszelnicki
-  - ABC Radio National
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2016/01/gms_20160127.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Credit_card_theft_why_is_pays_to_be_careful.mp3
-      name: 'Credit card theft: why is pays to be careful'
-      author: ABC Radio National
-      content: Criminals don't need to steal your credit card to get your information.
-        There are many other sneaky ways they can nab your details, says Dr Karl.
-  content:
-    text: ' \ud83c\udfa7 Listened to Credit card theft: why is pays to be careful
-      by ABC Radio National From Great Moments In Science - with Dr Karl Kruszelnicki'
-- type: entry
-  published: "2018-07-06T12:16:58+00:00"
-  category:
-  - scrobble
-  - audio
-  - Great Moments In Science - with Dr Karl Kruszelnicki
-  - ABC Radio National
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2018/06/gms_20180626.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/The_dunes_of_Pluto.mp3
-      name: The dunes of Pluto
-      author: ABC Radio National
-      content: "Yup, there are dunes on Pluto \u2014 and in other parts of our Solar
-        System."
-  content:
-    text: ' \ud83c\udfa7 Listened to The dunes of Pluto by ABC Radio National From
-      Great Moments In Science - with Dr Karl Kruszelnicki'
-- type: entry
-  published: "2018-07-06T14:25:40+00:00"
-  category:
-  - scrobble
-  - audio
-  - Great Moments In Science - with Dr Karl Kruszelnicki
-  - ABC Radio National
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2016/03/gms_20160308.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/The_physics_of_gravitational_waves.mp3
-      name: The physics of gravitational waves
-      author: ABC Radio National
-      content: Gravitational waves distort the fabric of space-time. How? Gravity
-        is geometry, explains Dr Karl.
-  content:
-    text: ' \ud83c\udfa7 Listened to The physics of gravitational waves by ABC Radio
-      National From Great Moments In Science - with Dr Karl Kruszelnicki'
-- type: entry
-  published: "2018-07-06T16:38:30+00:00"
-  category:
-  - scrobble
-  - audio
-  - Great Moments In Science - with Dr Karl Kruszelnicki
-  - ABC Radio National
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2016/04/gms_20160426.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Why_do_people_talk_louder_when_they_drink_alcohol.mp3
-      name: Why do people talk louder when they drink alcohol?
-      author: ABC Radio National
-      content: Alcohol may get the conversation going at a party, but as the drinks
-        flow you'll find it harder to tune in. Dr Karl explains how alcohol affects
-        your hearing.
-  content:
-    text: ' \ud83c\udfa7 Listened to Why do people talk louder when they drink alcohol?
-      by ABC Radio National From Great Moments In Science - with Dr Karl Kruszelnicki'
-- type: entry
-  published: "2018-07-06T12:35:33+00:00"
-  category:
-  - scrobble
-  - audio
-  - Great Moments In Science - with Dr Karl Kruszelnicki
-  - ABC Radio National
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2018/06/gms_20180605.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Sightseeing_from_Orbit.mp3
-      name: Sightseeing from Orbit
-      author: ABC Radio National
-      content: Can an astronaut really see the Great Wall of China from space?
-  content:
-    text: ' \ud83c\udfa7 Listened to Sightseeing from Orbit by ABC Radio National
-      From Great Moments In Science - with Dr Karl Kruszelnicki'
-- type: entry
-  published: "2018-07-06T12:47:10+00:00"
-  category:
-  - scrobble
-  - audio
-  - Great Moments In Science - with Dr Karl Kruszelnicki
-  - ABC Radio National
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2018/05/gms_20180515.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Why_are_whales_so_big.mp3
-      name: Why are whales so big?
-      author: ABC Radio National
-      content: Whales are the giants of the marine realm, and we've only recently
-        discovered why they're so huge.
-  content:
-    text: ' \ud83c\udfa7 Listened to Why are whales so big? by ABC Radio National
-      From Great Moments In Science - with Dr Karl Kruszelnicki'
-- type: entry
-  published: "2018-07-06T14:47:15+00:00"
-  category:
-  - scrobble
-  - audio
-  - Great Moments In Science - with Dr Karl Kruszelnicki
-  - ABC Radio National
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2016/03/gms_20160329.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/How_does_the_heart_work.mp3
-      name: How does the heart work?
-      author: ABC Radio National
-      content: Your life depends on the regular beat of your heart. Dr Karl explains
-        how this mighty four-stage pump works.
-  content:
-    text: ' \ud83c\udfa7 Listened to How does the heart work? by ABC Radio National
-      From Great Moments In Science - with Dr Karl Kruszelnicki'
-- type: entry
-  published: "2018-07-06T16:42:47+00:00"
-  category:
-  - scrobble
-  - audio
-  - Great Moments In Science - with Dr Karl Kruszelnicki
-  - ABC Radio National
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2016/05/gms_20160503.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/The_timetravelling_brain.mp3
-      name: The time-travelling brain
-      author: ABC Radio National
-      content: What would it be like to only live in the moment? Or to relive the
-        past over and over again? Dr Karl explores the extreme range of memory.
-  content:
-    text: ' \ud83c\udfa7 Listened to The time-travelling brain by ABC Radio National
-      From Great Moments In Science - with Dr Karl Kruszelnicki'
+    text: ' \ud83c\udfa7 Listened to Dr Karl by @bbc5live From 5 live Science Podcast'
 - type: entry
   published: "2018-07-06T14:19:28+00:00"
   category:
@@ -378,7 +61,7 @@
     text: ' \ud83c\udfa7 Listened to The awesome origins of gravitational waves by
       ABC Radio National From Great Moments In Science - with Dr Karl Kruszelnicki'
 - type: entry
-  published: "2018-07-06T16:53:51+00:00"
+  published: "2018-07-06T12:53:52+00:00"
   category:
   - scrobble
   - audio
@@ -389,58 +72,57 @@
       url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2016/05/gms_20160517.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Raw_milk_separating_facts_from_fads.mp3
-      name: 'Raw milk: separating facts from fads'
+      - http://mpegmedia.abc.net.au/rn/podcast/2018/05/gms_20180501.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/The_Wood_Wide_Web.mp3
+      name: The Wood Wide Web
       author: ABC Radio National
-      content: Not all raw foods are good for you. Dr Karl explains why raw milk is
-        one of the world's most risky food products.
+      content: "They may not be able to walk, but trees do talk \u2014 at least to
+        each other."
   content:
-    text: ' \ud83c\udfa7 Listened to Raw milk: separating facts from fads by ABC Radio
-      National From Great Moments In Science - with Dr Karl Kruszelnicki'
-- type: entry
-  published: "2018-07-06T14:13:06+00:00"
-  category:
-  - scrobble
-  - audio
-  - Great Moments In Science - with Dr Karl Kruszelnicki
-  - ABC Radio National
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2016/02/gms_20160223.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Dragonfly_telescope_shines_a_light_on_dark_matter.mp3
-      name: Dragonfly telescope shines a light on dark matter
-      author: ABC Radio National
-      content: Sometimes a major discovery - like finding evidence to support the
-        theory of dark matter - just requires a bit of creative thinking over a curry,
-        as Dr Karl explains.
-  content:
-    text: ' \ud83c\udfa7 Listened to Dragonfly telescope shines a light on dark matter
-      by ABC Radio National From Great Moments In Science - with Dr Karl Kruszelnicki'
-- type: entry
-  published: "2018-07-06T13:36:42+00:00"
-  category:
-  - scrobble
-  - audio
-  - Great Moments In Science - with Dr Karl Kruszelnicki
-  - ABC Radio National
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2015/12/gms_20151208.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/How_are_planets_born.mp3
-      name: How are planets born?
-      author: ABC Radio National
-      content: Scientists recently witnessed the birth a planet the size of Jupiter.
-        Dr Karl explains how planets are born from the apparent emptiness of space.
-  content:
-    text: ' \ud83c\udfa7 Listened to How are planets born? by ABC Radio National From
+    text: ' \ud83c\udfa7 Listened to The Wood Wide Web by ABC Radio National From
       Great Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2018-07-06T13:24:42+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2015/11/gms_20151124.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Emoji_lords_to_release_67_new_symbols.mp3
+      name: Emoji lords to release 67 new symbols
+      author: ABC Radio National
+      content: If you love smiley faces you'll weep with joy about the news we're
+        about to get more emojis! Dr Karl reveals who holds the ultimate emoji power.
+  content:
+    text: ' \ud83c\udfa7 Listened to Emoji lords to release 67 new symbols by ABC
+      Radio National From Great Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2018-07-06T14:47:15+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2016/03/gms_20160329.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/How_does_the_heart_work.mp3
+      name: How does the heart work?
+      author: ABC Radio National
+      content: Your life depends on the regular beat of your heart. Dr Karl explains
+        how this mighty four-stage pump works.
+  content:
+    text: ' \ud83c\udfa7 Listened to How does the heart work? by ABC Radio National
+      From Great Moments In Science - with Dr Karl Kruszelnicki'
 - type: entry
   published: "2018-07-06T12:10:13+00:00"
   category:
@@ -465,7 +147,7 @@
     text: ' \ud83c\udfa7 Listened to Humans vs volcanoes by ABC Radio National From
       Great Moments In Science - with Dr Karl Kruszelnicki'
 - type: entry
-  published: "2018-07-06T15:57:14+00:00"
+  published: "2018-07-06T12:47:10+00:00"
   category:
   - scrobble
   - audio
@@ -476,17 +158,17 @@
       url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2016/04/gms_20160412.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/How_many_places_of_pi_do_we_need.mp3
-      name: How many places of pi do we need?
+      - http://mpegmedia.abc.net.au/rn/podcast/2018/05/gms_20180515.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Why_are_whales_so_big.mp3
+      name: Why are whales so big?
       author: ABC Radio National
-      content: Pi is a very long and a very important number, but how many decimal
-        places of it do we really need to know?
+      content: Whales are the giants of the marine realm, and we've only recently
+        discovered why they're so huge.
   content:
-    text: ' \ud83c\udfa7 Listened to How many places of pi do we need? by ABC Radio
-      National From Great Moments In Science - with Dr Karl Kruszelnicki'
+    text: ' \ud83c\udfa7 Listened to Why are whales so big? by ABC Radio National
+      From Great Moments In Science - with Dr Karl Kruszelnicki'
 - type: entry
-  published: "2018-07-06T15:07:01+00:00"
+  published: "2018-07-06T16:42:47+00:00"
   category:
   - scrobble
   - audio
@@ -497,18 +179,17 @@
       url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2016/04/gms_20160406.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Can_you_make_our_heart_stronger.mp3
-      name: Can you make our heart stronger?
+      - http://mpegmedia.abc.net.au/rn/podcast/2016/05/gms_20160503.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/The_timetravelling_brain.mp3
+      name: The time-travelling brain
       author: ABC Radio National
-      content: Dr Karl puts his finger on the pulse of research that suggests your
-        heart can become stronger if it runs out of sync for a short while before
-        its rhythm is restored.
+      content: What would it be like to only live in the moment? Or to relive the
+        past over and over again? Dr Karl explores the extreme range of memory.
   content:
-    text: ' \ud83c\udfa7 Listened to Can you make our heart stronger? by ABC Radio
-      National From Great Moments In Science - with Dr Karl Kruszelnicki'
+    text: ' \ud83c\udfa7 Listened to The time-travelling brain by ABC Radio National
+      From Great Moments In Science - with Dr Karl Kruszelnicki'
 - type: entry
-  published: "2018-07-06T13:18:13+00:00"
+  published: "2018-07-06T14:13:06+00:00"
   category:
   - scrobble
   - audio
@@ -519,17 +200,60 @@
       url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2015/11/gms_20151117.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/How_do_planes_fly.mp3
-      name: How do planes fly?
+      - http://mpegmedia.abc.net.au/rn/podcast/2016/02/gms_20160223.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Dragonfly_telescope_shines_a_light_on_dark_matter.mp3
+      name: Dragonfly telescope shines a light on dark matter
       author: ABC Radio National
-      content: Seeing a plane get off the ground is an amazing sight! Dr Karl investigates
-        the science of flying planes.
+      content: Sometimes a major discovery - like finding evidence to support the
+        theory of dark matter - just requires a bit of creative thinking over a curry,
+        as Dr Karl explains.
   content:
-    text: ' \ud83c\udfa7 Listened to How do planes fly? by ABC Radio National From
+    text: ' \ud83c\udfa7 Listened to Dragonfly telescope shines a light on dark matter
+      by ABC Radio National From Great Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2018-07-06T14:05:44+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2016/02/gms_20160216.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Two_big_physics_problems.mp3
+      name: Two big physics problems
+      author: ABC Radio National
+      content: Why are the Higgs field and dark energy so weak? Find the answer and
+        you could earn yourself a Nobel Prize, says Dr Karl.
+  content:
+    text: ' \ud83c\udfa7 Listened to Two big physics problems by ABC Radio National
+      From Great Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2018-07-06T12:16:58+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2018/06/gms_20180626.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/The_dunes_of_Pluto.mp3
+      name: The dunes of Pluto
+      author: ABC Radio National
+      content: "Yup, there are dunes on Pluto \u2014 and in other parts of our Solar
+        System."
+  content:
+    text: ' \ud83c\udfa7 Listened to The dunes of Pluto by ABC Radio National From
       Great Moments In Science - with Dr Karl Kruszelnicki'
 - type: entry
-  published: "2018-07-06T13:30:57+00:00"
+  published: "2018-07-06T14:00:07+00:00"
   category:
   - scrobble
   - audio
@@ -540,16 +264,80 @@
       url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2015/12/gms_20151201.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Fly_eyes_inspire_solar_panels.mp3
-      name: Fly eyes inspire solar panels
+      - http://mpegmedia.abc.net.au/rn/podcast/2016/02/gms_20160209.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Traffic_button_pushes_beautiful_design.mp3
+      name: Traffic button pushes beautiful design
       author: ABC Radio National
-      content: The eye of a 45-million-year-old fly can increase the power output
-        of a solar panel by 10 per cent. Dr Karl is inspired by how an ancient insect
-        helped solve a modern problem.
+      content: Next time you're at the lights, stop to appreciate the humble pedestrian
+        button. The design is so beautiful that even Oscar Wilde would approve, says
+        Dr Karl.
   content:
-    text: ' \ud83c\udfa7 Listened to Fly eyes inspire solar panels by ABC Radio National
-      From Great Moments In Science - with Dr Karl Kruszelnicki'
+    text: ' \ud83c\udfa7 Listened to Traffic button pushes beautiful design by ABC
+      Radio National From Great Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2018-07-06T16:09:51+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2016/04/gms_20160419.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Why_did_the_US_lose_the_height_advantage.mp3
+      name: Why did the US lose the height advantage?
+      author: ABC Radio National
+      content: People in the US used to be among the tallest in the world, but now
+        that honour goes to the Dutch. Dr Karl gets to the bottom of the slide in
+        height.
+  content:
+    text: ' \ud83c\udfa7 Listened to Why did the US lose the height advantage? by
+      ABC Radio National From Great Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2018-07-06T12:29:57+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2018/06/gms_20180612.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Cockroach_milk.mp3
+      name: Cockroach milk
+      author: ABC Radio National
+      content: Is "cockroach milk" the next "superfood"? Do cockroaches even make
+        milk!?
+  content:
+    text: ' \ud83c\udfa7 Listened to Cockroach milk by ABC Radio National From Great
+      Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2018-07-06T13:42:32+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2015/12/gms_20151215.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Ants_use_brains_and_brawn_to_share_the_load.mp3
+      name: Ants use brains and brawn to share the load
+      author: ABC Radio National
+      content: Ever wondered how tiny little ants coordinate a raid on the cat's bowl?
+        Humans could learn a lot from the answer, says Dr Karl.
+  content:
+    text: ' \ud83c\udfa7 Listened to Ants use brains and brawn to share the load by
+      ABC Radio National From Great Moments In Science - with Dr Karl Kruszelnicki'
 - type: entry
   published: "2018-07-06T13:06:56+00:00"
   category:
@@ -594,48 +382,6 @@
     text: ' \ud83c\udfa7 Listened to The dark side of credit card theft by ABC Radio
       National From Great Moments In Science - with Dr Karl Kruszelnicki'
 - type: entry
-  published: "2018-07-06T13:42:32+00:00"
-  category:
-  - scrobble
-  - audio
-  - Great Moments In Science - with Dr Karl Kruszelnicki
-  - ABC Radio National
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2015/12/gms_20151215.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Ants_use_brains_and_brawn_to_share_the_load.mp3
-      name: Ants use brains and brawn to share the load
-      author: ABC Radio National
-      content: Ever wondered how tiny little ants coordinate a raid on the cat's bowl?
-        Humans could learn a lot from the answer, says Dr Karl.
-  content:
-    text: ' \ud83c\udfa7 Listened to Ants use brains and brawn to share the load by
-      ABC Radio National From Great Moments In Science - with Dr Karl Kruszelnicki'
-- type: entry
-  published: "2018-07-06T13:24:42+00:00"
-  category:
-  - scrobble
-  - audio
-  - Great Moments In Science - with Dr Karl Kruszelnicki
-  - ABC Radio National
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2015/11/gms_20151124.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Emoji_lords_to_release_67_new_symbols.mp3
-      name: Emoji lords to release 67 new symbols
-      author: ABC Radio National
-      content: If you love smiley faces you'll weep with joy about the news we're
-        about to get more emojis! Dr Karl reveals who holds the ultimate emoji power.
-  content:
-    text: ' \ud83c\udfa7 Listened to Emoji lords to release 67 new symbols by ABC
-      Radio National From Great Moments In Science - with Dr Karl Kruszelnicki'
-- type: entry
   published: "2018-07-06T12:41:06+00:00"
   category:
   - scrobble
@@ -656,7 +402,7 @@
     text: ' \ud83c\udfa7 Listened to Gunpowder vs sandwich by ABC Radio National From
       Great Moments In Science - with Dr Karl Kruszelnicki'
 - type: entry
-  published: "2018-07-06T16:09:51+00:00"
+  published: "2018-07-06T13:12:48+00:00"
   category:
   - scrobble
   - audio
@@ -667,18 +413,17 @@
       url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2016/04/gms_20160419.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Why_did_the_US_lose_the_height_advantage.mp3
-      name: Why did the US lose the height advantage?
+      - http://mpegmedia.abc.net.au/rn/podcast/2015/11/gms_20151110.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/How_many_cells_in_a_person.mp3
+      name: How many cells in a person?
       author: ABC Radio National
-      content: People in the US used to be among the tallest in the world, but now
-        that honour goes to the Dutch. Dr Karl gets to the bottom of the slide in
-        height.
+      content: It's a surprisingly hard question to answer, but Dr Karl has tracked
+        down a reasonable estimate of the number of cells in the human body.
   content:
-    text: ' \ud83c\udfa7 Listened to Why did the US lose the height advantage? by
-      ABC Radio National From Great Moments In Science - with Dr Karl Kruszelnicki'
+    text: ' \ud83c\udfa7 Listened to How many cells in a person? by ABC Radio National
+      From Great Moments In Science - with Dr Karl Kruszelnicki'
 - type: entry
-  published: "2018-07-06T14:05:44+00:00"
+  published: "2018-07-06T12:35:33+00:00"
   category:
   - scrobble
   - audio
@@ -689,14 +434,119 @@
       url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2016/02/gms_20160216.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Two_big_physics_problems.mp3
-      name: Two big physics problems
+      - http://mpegmedia.abc.net.au/rn/podcast/2018/06/gms_20180605.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Sightseeing_from_Orbit.mp3
+      name: Sightseeing from Orbit
       author: ABC Radio National
-      content: Why are the Higgs field and dark energy so weak? Find the answer and
-        you could earn yourself a Nobel Prize, says Dr Karl.
+      content: Can an astronaut really see the Great Wall of China from space?
   content:
-    text: ' \ud83c\udfa7 Listened to Two big physics problems by ABC Radio National
+    text: ' \ud83c\udfa7 Listened to Sightseeing from Orbit by ABC Radio National
+      From Great Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2018-07-06T13:47:59+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2016/01/gms_20160127.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Credit_card_theft_why_is_pays_to_be_careful.mp3
+      name: 'Credit card theft: why is pays to be careful'
+      author: ABC Radio National
+      content: Criminals don't need to steal your credit card to get your information.
+        There are many other sneaky ways they can nab your details, says Dr Karl.
+  content:
+    text: ' \ud83c\udfa7 Listened to Credit card theft: why is pays to be careful
+      by ABC Radio National From Great Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2018-07-06T16:53:51+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2016/05/gms_20160517.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Raw_milk_separating_facts_from_fads.mp3
+      name: 'Raw milk: separating facts from fads'
+      author: ABC Radio National
+      content: Not all raw foods are good for you. Dr Karl explains why raw milk is
+        one of the world's most risky food products.
+  content:
+    text: ' \ud83c\udfa7 Listened to Raw milk: separating facts from fads by ABC Radio
+      National From Great Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2018-07-06T15:57:14+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2016/04/gms_20160412.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/How_many_places_of_pi_do_we_need.mp3
+      name: How many places of pi do we need?
+      author: ABC Radio National
+      content: Pi is a very long and a very important number, but how many decimal
+        places of it do we really need to know?
+  content:
+    text: ' \ud83c\udfa7 Listened to How many places of pi do we need? by ABC Radio
+      National From Great Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2018-07-06T14:32:44+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2016/03/gms_20160322.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Antigravity_dream_may_take_off.mp3
+      name: Anti-gravity dream may take off
+      author: ABC Radio National
+      content: "The genius of Albert Einstein led us to gravitational waves \u2014
+        maybe someday another genius will work out how to make them!"
+  content:
+    text: ' \ud83c\udfa7 Listened to Anti-gravity dream may take off by ABC Radio
+      National From Great Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2018-07-06T13:30:57+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2015/12/gms_20151201.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Fly_eyes_inspire_solar_panels.mp3
+      name: Fly eyes inspire solar panels
+      author: ABC Radio National
+      content: The eye of a 45-million-year-old fly can increase the power output
+        of a solar panel by 10 per cent. Dr Karl is inspired by how an ancient insect
+        helped solve a modern problem.
+  content:
+    text: ' \ud83c\udfa7 Listened to Fly eyes inspire solar panels by ABC Radio National
       From Great Moments In Science - with Dr Karl Kruszelnicki'
 - type: entry
   published: "2018-07-06T13:00:07+00:00"
@@ -720,4 +570,154 @@
   content:
     text: ' \ud83c\udfa7 Listened to Coal''s hidden health cost by ABC Radio National
       From Great Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2018-07-06T15:07:01+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2016/04/gms_20160406.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Can_you_make_our_heart_stronger.mp3
+      name: Can you make our heart stronger?
+      author: ABC Radio National
+      content: Dr Karl puts his finger on the pulse of research that suggests your
+        heart can become stronger if it runs out of sync for a short while before
+        its rhythm is restored.
+  content:
+    text: ' \ud83c\udfa7 Listened to Can you make our heart stronger? by ABC Radio
+      National From Great Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2018-07-06T16:38:30+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2016/04/gms_20160426.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Why_do_people_talk_louder_when_they_drink_alcohol.mp3
+      name: Why do people talk louder when they drink alcohol?
+      author: ABC Radio National
+      content: Alcohol may get the conversation going at a party, but as the drinks
+        flow you'll find it harder to tune in. Dr Karl explains how alcohol affects
+        your hearing.
+  content:
+    text: ' \ud83c\udfa7 Listened to Why do people talk louder when they drink alcohol?
+      by ABC Radio National From Great Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2018-07-06T12:24:03+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2018/06/gms_20180619.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/A1_vs_A2_milk.mp3
+      name: A1 vs A2 milk
+      author: ABC Radio National
+      content: Is it worth paying more for A2 milk? What's the evidence that it might
+        be better for you?
+  content:
+    text: ' \ud83c\udfa7 Listened to A1 vs A2 milk by ABC Radio National From Great
+      Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2018-07-06T13:18:13+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2015/11/gms_20151117.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/How_do_planes_fly.mp3
+      name: How do planes fly?
+      author: ABC Radio National
+      content: Seeing a plane get off the ground is an amazing sight! Dr Karl investigates
+        the science of flying planes.
+  content:
+    text: ' \ud83c\udfa7 Listened to How do planes fly? by ABC Radio National From
+      Great Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2018-07-06T16:46:48+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2016/05/gms_20160510.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/How_long_would_it_take_a_vampire_to_drain_you_of_blood.mp3
+      name: How long would it take a vampire to drain you of blood?
+      author: ABC Radio National
+      content: If you're a sucker for a good vampire movie, be warned ... Dr Karl
+        takes two big bites out of the legend.
+  content:
+    text: ' \ud83c\udfa7 Listened to How long would it take a vampire to drain you
+      of blood? by ABC Radio National From Great Moments In Science - with Dr Karl
+      Kruszelnicki'
+- type: entry
+  published: "2018-07-06T14:25:40+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2016/03/gms_20160308.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/The_physics_of_gravitational_waves.mp3
+      name: The physics of gravitational waves
+      author: ABC Radio National
+      content: Gravitational waves distort the fabric of space-time. How? Gravity
+        is geometry, explains Dr Karl.
+  content:
+    text: ' \ud83c\udfa7 Listened to The physics of gravitational waves by ABC Radio
+      National From Great Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2018-07-06T13:36:42+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2015/12/gms_20151208.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/How_are_planets_born.mp3
+      name: How are planets born?
+      author: ABC Radio National
+      content: Scientists recently witnessed the birth a planet the size of Jupiter.
+        Dr Karl explains how planets are born from the apparent emptiness of space.
+  content:
+    text: ' \ud83c\udfa7 Listened to How are planets born? by ABC Radio National From
+      Great Moments In Science - with Dr Karl Kruszelnicki'
 ...

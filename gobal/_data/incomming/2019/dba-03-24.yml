@@ -1,28 +1,57 @@
 ---
 - type: entry
-  published: "2019-03-24T06:08:41+00:00"
+  published: "2019-03-24T08:09:26+00:00"
   category:
   - scrobble
   - audio
-  - Internet History Podcast
-  - Brian McCullough
+  - RPGMP3 Actual Play Podcast
+  - Hal
   listen-of:
     h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
       photo: ""
       audio:
-      - https://media.acast.com/internethistorypodcast/192.hulusfoundinganddigitaldesignwithdanmaccarone/media.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/192_Hulus_Founding_and_Digital_Design_With_Dan_Maccarone.mp3
-      name: 192. Hulu's Founding and Digital Design With Dan Maccarone
-      author: Brian McCullough
-      content: Dan Maccarone is a digital design veteran, websites, products, strategy.
-        He's got some amazing stories about the dotcom bubble, about the aftermath,
-        and the rise of Web 2.0. He shares some unique design lessons but also, the
-        story of the birth of Hulu, which I don't think has really been covered anywhere
-        before.
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_11.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_11.mp3
+      name: Kingmaker Session 11
+      author: Hal
+      content: "Episode 11 \u2013 in which Kaylen is presented with an unexpected
+        \u2013 and confusing \u2013 opportunity at love, and the Lonely Barrow is
+        raided."
   content:
-    text: ' \ud83c\udfa7 Listened to 192. Hulu''s Founding and Digital Design With
-      Dan Maccarone by Brian McCullough From Internet History Podcast'
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 11 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+- type: entry
+  published: "2019-03-24T03:57:54+00:00"
+  category:
+  - scrobble
+  - audio
+  - IRL - Online Life Is Real Life
+  - Mozilla
+  listen-of:
+    h-cite:
+      url: https://feeds.mozilla-podcasts.org/irl
+      photo: ""
+      audio:
+      - https://tracking.feedpress.it/link/17512/11079825/857f7522.mp3
+      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/857f7522.mp3
+      name: Decentralize It
+      author: Mozilla
+      content: "Some people believe that decentralization is the inevitable future
+        of the web. They believe that internet users will start to demand more privacy
+        and authenticity of information online and that they\u2019ll look to decentralized
+        platforms to get those things. But would decentralization be as utopian as
+        advocates say it could be?\n\nHost Manoush Zomorodi  speaks to Eugen Rochko
+        of Mastodon, an ad-free alternative to Twitter; Justin Hunter of Graphite
+        docs, a decentralized alternative to GoogleDocs; Maria Bustillos who hopes
+        to help eliminate fake news online through the Blockchain; David Irvine, the
+        co-founder of MaidSafe who plans to make the centralized internet as we know
+        it redundant; and Tom Simonite of WIRED, who comments on both the promise
+        and also the pitfalls of decentralization.\n\nIRL is an original podcast from
+        Mozilla, maker of Firefox and always fighting for you. For more on the series
+        go to irlpodcast.org\n"
+  content:
+    text: ' \ud83c\udfa7 Listened to Decentralize It by Mozilla From IRL - Online
+      Life Is Real Life'
 - type: entry
   published: "2019-03-24T03:04:25+00:00"
   category:
@@ -115,38 +144,6 @@
     text: ' \ud83c\udfa7 Listened to TL;DR by Mozilla From IRL - Online Life Is Real
       Life'
 - type: entry
-  published: "2019-03-24T03:57:54+00:00"
-  category:
-  - scrobble
-  - audio
-  - IRL - Online Life Is Real Life
-  - Mozilla
-  listen-of:
-    h-cite:
-      url: https://feeds.mozilla-podcasts.org/irl
-      photo: ""
-      audio:
-      - https://tracking.feedpress.it/link/17512/11079825/857f7522.mp3
-      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/857f7522.mp3
-      name: Decentralize It
-      author: Mozilla
-      content: "Some people believe that decentralization is the inevitable future
-        of the web. They believe that internet users will start to demand more privacy
-        and authenticity of information online and that they\u2019ll look to decentralized
-        platforms to get those things. But would decentralization be as utopian as
-        advocates say it could be?\n\nHost Manoush Zomorodi  speaks to Eugen Rochko
-        of Mastodon, an ad-free alternative to Twitter; Justin Hunter of Graphite
-        docs, a decentralized alternative to GoogleDocs; Maria Bustillos who hopes
-        to help eliminate fake news online through the Blockchain; David Irvine, the
-        co-founder of MaidSafe who plans to make the centralized internet as we know
-        it redundant; and Tom Simonite of WIRED, who comments on both the promise
-        and also the pitfalls of decentralization.\n\nIRL is an original podcast from
-        Mozilla, maker of Firefox and always fighting for you. For more on the series
-        go to irlpodcast.org\n"
-  content:
-    text: ' \ud83c\udfa7 Listened to Decentralize It by Mozilla From IRL - Online
-      Life Is Real Life'
-- type: entry
   published: "2019-03-24T03:32:37+00:00"
   category:
   - scrobble
@@ -180,24 +177,27 @@
     text: ' \ud83c\udfa7 Listened to The Surveillance Economy by Mozilla From IRL
       - Online Life Is Real Life'
 - type: entry
-  published: "2019-03-24T08:09:26+00:00"
+  published: "2019-03-24T06:08:41+00:00"
   category:
   - scrobble
   - audio
-  - RPGMP3 Actual Play Podcast
-  - Hal
+  - Internet History Podcast
+  - Brian McCullough
   listen-of:
     h-cite:
-      url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
       photo: ""
       audio:
-      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_11.mp3
-      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_11.mp3
-      name: Kingmaker Session 11
-      author: Hal
-      content: "Episode 11 \u2013 in which Kaylen is presented with an unexpected
-        \u2013 and confusing \u2013 opportunity at love, and the Lonely Barrow is
-        raided."
+      - https://media.acast.com/internethistorypodcast/192.hulusfoundinganddigitaldesignwithdanmaccarone/media.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/192_Hulus_Founding_and_Digital_Design_With_Dan_Maccarone.mp3
+      name: 192. Hulu's Founding and Digital Design With Dan Maccarone
+      author: Brian McCullough
+      content: Dan Maccarone is a digital design veteran, websites, products, strategy.
+        He's got some amazing stories about the dotcom bubble, about the aftermath,
+        and the rise of Web 2.0. He shares some unique design lessons but also, the
+        story of the birth of Hulu, which I don't think has really been covered anywhere
+        before.
   content:
-    text: ' \ud83c\udfa7 Listened to Kingmaker Session 11 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+    text: ' \ud83c\udfa7 Listened to 192. Hulu''s Founding and Digital Design With
+      Dan Maccarone by Brian McCullough From Internet History Podcast'
 ...

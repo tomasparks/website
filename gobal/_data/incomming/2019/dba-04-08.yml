@@ -1,5 +1,25 @@
 ---
 - type: entry
+  published: "2019-04-08T12:34:44+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_32.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_32.mp3
+      name: Kingmaker Session 32
+      author: Hal
+      content: "Episode 32 \u2013 in which Kaylen and Tristain explore the Nomen Heights
+        and battle the monsters \u2013 and eels! \u2013 within."
+  content:
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 32 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+- type: entry
   published: "2019-04-08T02:04:02+00:00"
   category:
   - scrobble
@@ -20,26 +40,6 @@
         the Paizo forums for the concept for the Centaur Trust System."
   content:
     text: ' \ud83c\udfa7 Listened to Kingmaker Session 31 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
-- type: entry
-  published: "2019-04-08T12:34:44+00:00"
-  category:
-  - scrobble
-  - audio
-  - RPGMP3 Actual Play Podcast
-  - Hal
-  listen-of:
-    h-cite:
-      url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
-      photo: ""
-      audio:
-      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_32.mp3
-      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_32.mp3
-      name: Kingmaker Session 32
-      author: Hal
-      content: "Episode 32 \u2013 in which Kaylen and Tristain explore the Nomen Heights
-        and battle the monsters \u2013 and eels! \u2013 within."
-  content:
-    text: ' \ud83c\udfa7 Listened to Kingmaker Session 32 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
 - type: entry
   published: "2019-04-08T15:05:26+00:00"
   category:

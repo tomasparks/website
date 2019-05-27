@@ -1,31 +1,5 @@
 ---
 - type: entry
-  published: "2019-05-01T00:48:12+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/613775241-techdirt-cory-doctorow-on-anti-circumvention-and-more.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/613775241-techdirt-cory-doctorow-on-anti-circumvention-and-more.mp3
-      name: Cory Doctorow On Anti-Circumvention (And More)
-      author: Techdirt
-      content: "Whether it's from his novels, or his work for the EFF and others,
-        most of you probably know all about Cory Doctorow. He last joined the podcast
-        two years ago to discuss his book Walkaway, and this week he's back to talk
-        about his latest book, Radicalized \u2014 a collection of four novellas, the
-        first of which is directly based on the issues with the DMCA's anti-circumvention
-        provisions. Check out the episode for a discussion about the book, anti-circumvention,
-        tech companies, and more."
-  content:
-    text: ' \ud83c\udfa7 Listened to Cory Doctorow On Anti-Circumvention (And More)
-      by Techdirt From Techdirt'
-- type: entry
   published: "2019-05-01T06:05:28+00:00"
   category:
   - scrobble
@@ -67,4 +41,30 @@
         for the Boasts."
   content:
     text: ' \ud83c\udfa7 Listened to Kingmaker Session 62 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+- type: entry
+  published: "2019-05-01T00:48:12+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/613775241-techdirt-cory-doctorow-on-anti-circumvention-and-more.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/613775241-techdirt-cory-doctorow-on-anti-circumvention-and-more.mp3
+      name: Cory Doctorow On Anti-Circumvention (And More)
+      author: Techdirt
+      content: "Whether it's from his novels, or his work for the EFF and others,
+        most of you probably know all about Cory Doctorow. He last joined the podcast
+        two years ago to discuss his book Walkaway, and this week he's back to talk
+        about his latest book, Radicalized \u2014 a collection of four novellas, the
+        first of which is directly based on the issues with the DMCA's anti-circumvention
+        provisions. Check out the episode for a discussion about the book, anti-circumvention,
+        tech companies, and more."
+  content:
+    text: ' \ud83c\udfa7 Listened to Cory Doctorow On Anti-Circumvention (And More)
+      by Techdirt From Techdirt'
 ...

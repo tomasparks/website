@@ -1,5 +1,25 @@
 ---
 - type: entry
+  published: "2018-05-19T20:44:28+00:00"
+  category:
+  - scrobble
+  - audio
+  - Percolator
+  - Aaron Parecki
+  listen-of:
+    h-cite:
+      url: https://percolator.today/podcast.xml
+      photo: ""
+      audio:
+      - https://percolator.today/redirect.php?url=https%3A%2F%2Fpercolator.today%2Fmedia%2FEpisode_18.mp3
+      - http://archive.org/download/Percolator-Podcast-by-Aaron_Parecki/Episode_18_IndieWebCamp_Baltimore.mp3
+      name: 'Episode 18: IndieWebCamp Baltimore'
+      author: Aaron Parecki
+      content: IndieWebCamp Baltimore, Smart Cars, and Renaming Monocle to Aperture
+  content:
+    text: ' \ud83c\udfa7 Listened to Episode 18: IndieWebCamp Baltimore by @aaronpk
+      From Percolator'
+- type: entry
   published: "2018-05-19T20:35:36+00:00"
   category:
   - scrobble
@@ -41,27 +61,7 @@
     text: ' \ud83c\udfa7 Listened to Episode 19: Soft-Launching Monocle and Aperture
       by @aaronpk From Percolator'
 - type: entry
-  published: "2018-05-19T20:44:28+00:00"
-  category:
-  - scrobble
-  - audio
-  - Percolator
-  - Aaron Parecki
-  listen-of:
-    h-cite:
-      url: https://percolator.today/podcast.xml
-      photo: ""
-      audio:
-      - https://percolator.today/redirect.php?url=https%3A%2F%2Fpercolator.today%2Fmedia%2FEpisode_18.mp3
-      - http://archive.org/download/Percolator-Podcast-by-Aaron_Parecki/Episode_18_IndieWebCamp_Baltimore.mp3
-      name: 'Episode 18: IndieWebCamp Baltimore'
-      author: Aaron Parecki
-      content: IndieWebCamp Baltimore, Smart Cars, and Renaming Monocle to Aperture
-  content:
-    text: ' \ud83c\udfa7 Listened to Episode 18: IndieWebCamp Baltimore by @aaronpk
-      From Percolator'
-- type: entry
-  published: "2018-05-19T11:53:00+00:00"
+  published: "2018-05-19T17:59:16+00:00"
   category:
   - scrobble
   - audio
@@ -72,60 +72,16 @@
       url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20120329.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/The_science_of_driving.mp3
-      name: The science of driving
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20120308.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Peeing_on_lemon_trees_hereditary_birth_marks_and_yellow_sunglasses.mp3
+      name: Peeing on lemon trees, hereditary birth marks and yellow sunglasses
       author: ABC Science
-      content: Why do people get tired when driving? Is it possible to drive a fast
-        car upside-down in a long, circular tunnel? Are your chances of surviving
-        a car accident better if you are asleep and you're body is limp?
+      content: 'Why is it considered a good thing to urinate on lemon trees? Plus:
+        can birth marks be hereditary?; and why do yellow sunglasses make daylight
+        appear brighter?'
   content:
-    text: ' \ud83c\udfa7 Listened to The science of driving by ABC Science From Dr
-      Karl on triplej'
-- type: entry
-  published: "2018-05-19T19:13:39+00:00"
-  category:
-  - scrobble
-  - audio
-  - Dr Karl on triplej
-  - ABC Science
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20120223.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Exploding_crockery_furry_male_allergies_and_female_ejaculation_test_results.mp3
-      name: Exploding crockery, furry male allergies and female ejaculation test results
-      author: ABC Science
-      content: 'Why does crockery seem to randomly explode? Plus: Is it possible to
-        be allergic to only male furry animals?; and a caller reports the results
-        of his and his partner''s female ejaculation tests.'
-  content:
-    text: ' \ud83c\udfa7 Listened to Exploding crockery, furry male allergies and
-      female ejaculation test results by ABC Science From Dr Karl on triplej'
-- type: entry
-  published: "2018-05-19T17:23:07+00:00"
-  category:
-  - scrobble
-  - audio
-  - Dr Karl on triplej
-  - ABC Science
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20120322.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Rocking_during_sleep_morning_sickness_and_coloured_cat_fur.mp3
-      name: Rocking during sleep, morning sickness and coloured cat fur
-      author: ABC Science
-      content: 'Why do people rock from side-to-side when they sleep? Plus: are humans
-        the only mammal that suffers morning sickness during pregnancy?; and why can
-        cat fur have different colours along the length of each strand of hair?'
-  content:
-    text: ' \ud83c\udfa7 Listened to Rocking during sleep, morning sickness and coloured
-      cat fur by ABC Science From Dr Karl on triplej'
+    text: ' \ud83c\udfa7 Listened to Peeing on lemon trees, hereditary birth marks
+      and yellow sunglasses by ABC Science From Dr Karl on triplej'
 - type: entry
   published: "2018-05-19T19:52:02+00:00"
   category:
@@ -171,7 +127,7 @@
     text: ' \ud83c\udfa7 Listened to Earbud headphones, jet-lag and funny trivial
       things by ABC Science From Dr Karl on triplej'
 - type: entry
-  published: "2018-05-19T18:36:12+00:00"
+  published: "2018-05-19T17:23:07+00:00"
   category:
   - scrobble
   - audio
@@ -182,37 +138,16 @@
       url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20120301.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Swallowing_chewing_gum_taste_buds_and_drinking_milk.mp3
-      name: Swallowing chewing gum, taste buds and drinking milk
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20120322.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Rocking_during_sleep_morning_sickness_and_coloured_cat_fur.mp3
+      name: Rocking during sleep, morning sickness and coloured cat fur
       author: ABC Science
-      content: 'What happens if you swallow chewing gum? Plus: can a woman''s tastebuds
-        change during and after pregnancy?; and can drinking milk cause osteoporosis?'
+      content: 'Why do people rock from side-to-side when they sleep? Plus: are humans
+        the only mammal that suffers morning sickness during pregnancy?; and why can
+        cat fur have different colours along the length of each strand of hair?'
   content:
-    text: ' \ud83c\udfa7 Listened to Swallowing chewing gum, taste buds and drinking
-      milk by ABC Science From Dr Karl on triplej'
-- type: entry
-  published: "2018-05-19T17:59:16+00:00"
-  category:
-  - scrobble
-  - audio
-  - Dr Karl on triplej
-  - ABC Science
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20120308.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Peeing_on_lemon_trees_hereditary_birth_marks_and_yellow_sunglasses.mp3
-      name: Peeing on lemon trees, hereditary birth marks and yellow sunglasses
-      author: ABC Science
-      content: 'Why is it considered a good thing to urinate on lemon trees? Plus:
-        can birth marks be hereditary?; and why do yellow sunglasses make daylight
-        appear brighter?'
-  content:
-    text: ' \ud83c\udfa7 Listened to Peeing on lemon trees, hereditary birth marks
-      and yellow sunglasses by ABC Science From Dr Karl on triplej'
+    text: ' \ud83c\udfa7 Listened to Rocking during sleep, morning sickness and coloured
+      cat fur by ABC Science From Dr Karl on triplej'
 - type: entry
   published: "2018-05-19T05:07:00+00:00"
   category:
@@ -234,6 +169,71 @@
   content:
     text: ' \ud83c\udfa7 Listened to Runny noses after eating? Why is urine yellow?
       Could space be a sphere? by ABC Science From Dr Karl on triplej'
+- type: entry
+  published: "2018-05-19T11:53:00+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl on triplej
+  - ABC Science
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20120329.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/The_science_of_driving.mp3
+      name: The science of driving
+      author: ABC Science
+      content: Why do people get tired when driving? Is it possible to drive a fast
+        car upside-down in a long, circular tunnel? Are your chances of surviving
+        a car accident better if you are asleep and you're body is limp?
+  content:
+    text: ' \ud83c\udfa7 Listened to The science of driving by ABC Science From Dr
+      Karl on triplej'
+- type: entry
+  published: "2018-05-19T18:36:12+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl on triplej
+  - ABC Science
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20120301.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Swallowing_chewing_gum_taste_buds_and_drinking_milk.mp3
+      name: Swallowing chewing gum, taste buds and drinking milk
+      author: ABC Science
+      content: 'What happens if you swallow chewing gum? Plus: can a woman''s tastebuds
+        change during and after pregnancy?; and can drinking milk cause osteoporosis?'
+  content:
+    text: ' \ud83c\udfa7 Listened to Swallowing chewing gum, taste buds and drinking
+      milk by ABC Science From Dr Karl on triplej'
+- type: entry
+  published: "2018-05-19T19:13:39+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl on triplej
+  - ABC Science
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20120223.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Exploding_crockery_furry_male_allergies_and_female_ejaculation_test_results.mp3
+      name: Exploding crockery, furry male allergies and female ejaculation test results
+      author: ABC Science
+      content: 'Why does crockery seem to randomly explode? Plus: Is it possible to
+        be allergic to only male furry animals?; and a caller reports the results
+        of his and his partner''s female ejaculation tests.'
+  content:
+    text: ' \ud83c\udfa7 Listened to Exploding crockery, furry male allergies and
+      female ejaculation test results by ABC Science From Dr Karl on triplej'
 - type: entry
   published: "2018-05-19T04:30:58+00:00"
   category:

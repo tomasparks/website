@@ -1,6 +1,6 @@
 ---
 - type: entry
-  published: "2017-12-29T15:13:10+00:00"
+  published: "2017-12-29T02:25:04+00:00"
   category:
   - scrobble
   - audio
@@ -11,18 +11,18 @@
       url: http://feeds.feedburner.com/InternetHistoryPodcast
       photo: ""
       audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/MutCy5Qbfr8/Chapter_4_Part_1_-_The_Early_Search_Engines_And_Yahoo.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/15_Ch_41_The_Early_Search_Engines_And_Yahoo.mp3
-      name: 15. (Ch 4.1) The Early Search Engines And Yahoo
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/PSN2SaM0Pgg/Chapter_1_Interview_3_-_Aleks_Totic.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/8_Aleks_Totic_of_Mosaic_and_Netscape.mp3
+      name: 8. Aleks Totic, of Mosaic and Netscape
       author: Brian McCullough @brianmcc
       content: A history of the Internet Era from Netscape to the iPad. Oral histories
         from the people that made the technology happen. "Chapter" episodes providing
         background on the history of the companies.
   content:
-    text: ' \ud83c\udfa7 Listened to 15. (Ch 4.1) The Early Search Engines And Yahoo
-      by Brian McCullough @brianmcc From Internet History Podcast'
+    text: ' \ud83c\udfa7 Listened to 8. Aleks Totic, of Mosaic and Netscape by Brian
+      McCullough @brianmcc From Internet History Podcast'
 - type: entry
-  published: "2017-12-29T11:08:37+00:00"
+  published: "2017-12-29T12:17:59+00:00"
   category:
   - scrobble
   - audio
@@ -33,38 +33,16 @@
       url: http://feeds.feedburner.com/InternetHistoryPodcast
       photo: ""
       audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/Oj80ry0UNzA/Chapter_1_Interview_5_-_Rob_McCool.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/10_Rob_McCool_Founding_Engineer_Mosaic_and_Netscape.mp3
-      name: 10. Rob McCool, Founding Engineer, Mosaic and Netscape
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/tALWe4Lan-Q/Chapter_3_Part_2_-_The_Rise_of_AOL.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/12_Ch_32_The_Rise_of_AOL.mp3
+      name: 12. (Ch 3.2) The Rise of AOL
       author: Brian McCullough @brianmcc
       content: A history of the Internet Era from Netscape to the iPad. Oral histories
         from the people that made the technology happen. "Chapter" episodes providing
         background on the history of the companies.
   content:
-    text: ' \ud83c\udfa7 Listened to 10. Rob McCool, Founding Engineer, Mosaic and
-      Netscape by Brian McCullough @brianmcc From Internet History Podcast'
-- type: entry
-  published: "2017-12-29T14:39:47+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough @brianmcc
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/am993AX_BrU/Chapter_3_Supplemental_1_-_The_Forgotten_Online_Pioneer_Bill_von_Meister.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/14_Misc_1_The_Forgotten_Online_Pioneer_Bill_von_Meister.mp3
-      name: 14. (Misc 1) The Forgotten Online Pioneer, Bill von Meister
-      author: Brian McCullough @brianmcc
-      content: A history of the Internet Era from Netscape to the iPad. Oral histories
-        from the people that made the technology happen. "Chapter" episodes providing
-        background on the history of the companies.
-  content:
-    text: ' \ud83c\udfa7 Listened to 14. (Misc 1) The Forgotten Online Pioneer, Bill
-      von Meister by Brian McCullough @brianmcc From Internet History Podcast'
+    text: ' \ud83c\udfa7 Listened to 12. (Ch 3.2) The Rise of AOL by Brian McCullough
+      @brianmcc From Internet History Podcast'
 - type: entry
   published: "2017-12-29T16:54:06+00:00"
   category:
@@ -90,72 +68,6 @@
       - An Interview With Rod Canion by Brian McCullough @brianmcc From Internet History
       Podcast'
 - type: entry
-  published: "2017-12-29T02:25:04+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough @brianmcc
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/PSN2SaM0Pgg/Chapter_1_Interview_3_-_Aleks_Totic.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/8_Aleks_Totic_of_Mosaic_and_Netscape.mp3
-      name: 8. Aleks Totic, of Mosaic and Netscape
-      author: Brian McCullough @brianmcc
-      content: A history of the Internet Era from Netscape to the iPad. Oral histories
-        from the people that made the technology happen. "Chapter" episodes providing
-        background on the history of the companies.
-  content:
-    text: ' \ud83c\udfa7 Listened to 8. Aleks Totic, of Mosaic and Netscape by Brian
-      McCullough @brianmcc From Internet History Podcast'
-- type: entry
-  published: "2017-12-29T16:06:49+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough @brianmcc
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/2qDANoSH9kU/Chapter_4_Interview_2_-_Co-Creator_of_the_First_Remote_Ad_Server_Jason_Strober.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/17_CoCreator_of_the_First_Remote_Ad_Server_Jason_Strober.mp3
-      name: 17. Co-Creator of the First Remote Ad Server, Jason Strober
-      author: Brian McCullough @brianmcc
-      content: A history of the Internet Era from Netscape to the iPad. Oral histories
-        from the people that made the technology happen. "Chapter" episodes providing
-        background on the history of the companies.
-  content:
-    text: ' \ud83c\udfa7 Listened to 17. Co-Creator of the First Remote Ad Server,
-      Jason Strober by Brian McCullough @brianmcc From Internet History Podcast'
-- type: entry
-  published: "2017-12-29T12:17:59+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough @brianmcc
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/tALWe4Lan-Q/Chapter_3_Part_2_-_The_Rise_of_AOL.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/12_Ch_32_The_Rise_of_AOL.mp3
-      name: 12. (Ch 3.2) The Rise of AOL
-      author: Brian McCullough @brianmcc
-      content: A history of the Internet Era from Netscape to the iPad. Oral histories
-        from the people that made the technology happen. "Chapter" episodes providing
-        background on the history of the companies.
-  content:
-    text: ' \ud83c\udfa7 Listened to 12. (Ch 3.2) The Rise of AOL by Brian McCullough
-      @brianmcc From Internet History Podcast'
-- type: entry
   published: "2017-12-29T13:50:48+00:00"
   category:
   - scrobble
@@ -180,6 +92,50 @@
       of Razorfish, Craig Kanarick by Brian McCullough @brianmcc From Internet History
       Podcast'
 - type: entry
+  published: "2017-12-29T11:08:37+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/Oj80ry0UNzA/Chapter_1_Interview_5_-_Rob_McCool.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/10_Rob_McCool_Founding_Engineer_Mosaic_and_Netscape.mp3
+      name: 10. Rob McCool, Founding Engineer, Mosaic and Netscape
+      author: Brian McCullough @brianmcc
+      content: A history of the Internet Era from Netscape to the iPad. Oral histories
+        from the people that made the technology happen. "Chapter" episodes providing
+        background on the history of the companies.
+  content:
+    text: ' \ud83c\udfa7 Listened to 10. Rob McCool, Founding Engineer, Mosaic and
+      Netscape by Brian McCullough @brianmcc From Internet History Podcast'
+- type: entry
+  published: "2017-12-29T16:06:49+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/2qDANoSH9kU/Chapter_4_Interview_2_-_Co-Creator_of_the_First_Remote_Ad_Server_Jason_Strober.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/17_CoCreator_of_the_First_Remote_Ad_Server_Jason_Strober.mp3
+      name: 17. Co-Creator of the First Remote Ad Server, Jason Strober
+      author: Brian McCullough @brianmcc
+      content: A history of the Internet Era from Netscape to the iPad. Oral histories
+        from the people that made the technology happen. "Chapter" episodes providing
+        background on the history of the companies.
+  content:
+    text: ' \ud83c\udfa7 Listened to 17. Co-Creator of the First Remote Ad Server,
+      Jason Strober by Brian McCullough @brianmcc From Internet History Podcast'
+- type: entry
   published: "2017-12-29T11:38:26+00:00"
   category:
   - scrobble
@@ -202,6 +158,28 @@
     text: ' \ud83c\udfa7 Listened to 11. (Ch 3.1) CompuServe, Prodigy, AOL and the
       Early Online Services by Brian McCullough @brianmcc From Internet History Podcast'
 - type: entry
+  published: "2017-12-29T14:39:47+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/am993AX_BrU/Chapter_3_Supplemental_1_-_The_Forgotten_Online_Pioneer_Bill_von_Meister.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/14_Misc_1_The_Forgotten_Online_Pioneer_Bill_von_Meister.mp3
+      name: 14. (Misc 1) The Forgotten Online Pioneer, Bill von Meister
+      author: Brian McCullough @brianmcc
+      content: A history of the Internet Era from Netscape to the iPad. Oral histories
+        from the people that made the technology happen. "Chapter" episodes providing
+        background on the history of the companies.
+  content:
+    text: ' \ud83c\udfa7 Listened to 14. (Misc 1) The Forgotten Online Pioneer, Bill
+      von Meister by Brian McCullough @brianmcc From Internet History Podcast'
+- type: entry
   published: "2017-12-29T15:39:09+00:00"
   category:
   - scrobble
@@ -223,6 +201,28 @@
   content:
     text: ' \ud83c\udfa7 Listened to 16. Internet Explorer Team Member, Hadi Partovi
       @hadip by Brian McCullough @brianmcc From Internet History Podcast'
+- type: entry
+  published: "2017-12-29T15:13:10+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/MutCy5Qbfr8/Chapter_4_Part_1_-_The_Early_Search_Engines_And_Yahoo.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/15_Ch_41_The_Early_Search_Engines_And_Yahoo.mp3
+      name: 15. (Ch 4.1) The Early Search Engines And Yahoo
+      author: Brian McCullough @brianmcc
+      content: A history of the Internet Era from Netscape to the iPad. Oral histories
+        from the people that made the technology happen. "Chapter" episodes providing
+        background on the history of the companies.
+  content:
+    text: ' \ud83c\udfa7 Listened to 15. (Ch 4.1) The Early Search Engines And Yahoo
+      by Brian McCullough @brianmcc From Internet History Podcast'
 - type: entry
   published: "2017-12-29T03:19:09+00:00"
   category:

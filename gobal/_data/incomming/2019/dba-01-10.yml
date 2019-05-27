@@ -1,6 +1,30 @@
 ---
 - type: entry
-  published: "2019-01-10T13:35:05+00:00"
+  published: "2019-01-10T02:21:29+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://rpgmp3.com/v5/feed/podcast/
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/RPGMP3/audio/2018_christmas_everyone_loves_stan.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/2018_christmas_everyone_loves_stan.mp3
+      name: 'Christmas Special 2018: Everyone Loves Stan'
+      author: Hal
+      content: "Merry Christmas! This is a one-shot game that uses the My Life With
+        Master system from Half Meme Press. In this seasonal adaptation, a group of
+        downtrodden elves must help a miserable Santa try to get his wife back before
+        he spirals any further out of control. This one has some pretty naughty language
+        and [\u2026]"
+  content:
+    text: ' \ud83c\udfa7 Listened to Christmas Special 2018: Everyone Loves Stan by
+      @rpgmp3 From #RPGMP3ActualPlayPodcast'
+- type: entry
+  published: "2019-01-10T14:42:41+00:00"
   category:
   - scrobble
   - audio
@@ -11,20 +35,43 @@
       url: https://www.techdirt.com/podcast.xml
       photo: ""
       audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/485591448-techdirt-old-tweets-your-permanent-record.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/485591448-techdirt-old-tweets-your-permanent-record.mp3
-      name: Old Tweets & Your Permanent Record
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/482467281-techdirt-why-people-dont-trust-capitalism-anymore.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/482467281-techdirt-why-people-dont-trust-capitalism-anymore.mp3
+      name: Why People Don't Trust Capitalism Anymore
       author: Techdirt
-      content: There has long been anxiety around the "permanent record" of the internet,
-        and recent public shamings based on old tweets have brought that fear to the
-        forefront for many people. But the mass deletion of old tweets also means
-        throwing out huge amounts of potentially valuable information. Is there a
-        technological solution? A cultural one? This week, we're joined by returning
-        guests Cathy Gellis and Parker Higgins to discuss a proposal for fixing the
-        problem without sacrificing the permanent record.
+      content: "The tides of public opinion on economics seem to be shifting, and
+        criticism of the very idea of free markets is on the ride. The conversation
+        is messy, confusing, and transcends many traditional political boundaries
+        \u2014 so we've got an expert source to help us dig in. EconTalk host Russ
+        Roberts joins us to look at why so many people don't trust capitalism anymore."
   content:
-    text: ' \ud83c\udfa7 Listened to Old Tweets & Your Permanent Record by Techdirt
-      From Techdirt'
+    text: ' \ud83c\udfa7 Listened to Why People Don''t Trust Capitalism Anymore by
+      Techdirt From Techdirt'
+- type: entry
+  published: "2019-01-10T03:07:16+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/495223974-techdirt-theres-always-something-new-to-learn-about-copyright.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/495223974-techdirt-theres-always-something-new-to-learn-about-copyright.mp3
+      name: There's Always Something New To Learn About Copyright
+      author: Techdirt
+      content: "Copyright is a big, complicated monster of a law, composed of patchwork
+        updates and shaped by international agreements \u2014 which is, in fact, the
+        source of a lot of its problems. But fixing copyright means understanding
+        it, so this week we've got a conversation with UCLA professor Neil Netanel,
+        author of the new book Copyright: What Everyone Needs To Know, because there's
+        always something new to learn about copyright."
+  content:
+    text: ' \ud83c\udfa7 Listened to There''s Always Something New To Learn About
+      Copyright by Techdirt From Techdirt'
 - type: entry
   published: "2019-01-10T22:48:50+00:00"
   category:
@@ -52,30 +99,6 @@
     text: ' \ud83c\udfa7 Listened to Building Communities Outside Facebook by Techdirt
       From Techdirt'
 - type: entry
-  published: "2019-01-10T14:42:41+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/482467281-techdirt-why-people-dont-trust-capitalism-anymore.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/482467281-techdirt-why-people-dont-trust-capitalism-anymore.mp3
-      name: Why People Don't Trust Capitalism Anymore
-      author: Techdirt
-      content: "The tides of public opinion on economics seem to be shifting, and
-        criticism of the very idea of free markets is on the ride. The conversation
-        is messy, confusing, and transcends many traditional political boundaries
-        \u2014 so we've got an expert source to help us dig in. EconTalk host Russ
-        Roberts joins us to look at why so many people don't trust capitalism anymore."
-  content:
-    text: ' \ud83c\udfa7 Listened to Why People Don''t Trust Capitalism Anymore by
-      Techdirt From Techdirt'
-- type: entry
   published: "2019-01-10T05:55:32+00:00"
   category:
   - scrobble
@@ -102,7 +125,7 @@
     text: ' \ud83c\udfa7 Listened to Do Short-Term Profits Hurt Long-Term Innovation?
       by Techdirt From Techdirt'
 - type: entry
-  published: "2019-01-10T15:28:38+00:00"
+  published: "2019-01-10T13:35:05+00:00"
   category:
   - scrobble
   - audio
@@ -113,42 +136,20 @@
       url: https://www.techdirt.com/podcast.xml
       photo: ""
       audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/479360508-techdirt-the-eus-copyright-threat-to-the-open-internet.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/479360508-techdirt-the-eus-copyright-threat-to-the-open-internet.mp3
-      name: The EU's Copyright Threat To The Open Internet
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/485591448-techdirt-old-tweets-your-permanent-record.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/485591448-techdirt-old-tweets-your-permanent-record.mp3
+      name: Old Tweets & Your Permanent Record
       author: Techdirt
-      content: We've got a crossover episode this week, all about the EU's disastrous
-        moves on the copyright front. Mike recently joined the Building Tomorrow podcast
-        to discuss the subject with Paul Matzko and Will Duffield, and now you can
-        listen to it here on this week's episode of the Techdirt Podcast.
+      content: There has long been anxiety around the "permanent record" of the internet,
+        and recent public shamings based on old tweets have brought that fear to the
+        forefront for many people. But the mass deletion of old tweets also means
+        throwing out huge amounts of potentially valuable information. Is there a
+        technological solution? A cultural one? This week, we're joined by returning
+        guests Cathy Gellis and Parker Higgins to discuss a proposal for fixing the
+        problem without sacrificing the permanent record.
   content:
-    text: ' \ud83c\udfa7 Listened to The EU''s Copyright Threat To The Open Internet
-      by Techdirt From Techdirt'
-- type: entry
-  published: "2019-01-10T03:07:16+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/495223974-techdirt-theres-always-something-new-to-learn-about-copyright.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/495223974-techdirt-theres-always-something-new-to-learn-about-copyright.mp3
-      name: There's Always Something New To Learn About Copyright
-      author: Techdirt
-      content: "Copyright is a big, complicated monster of a law, composed of patchwork
-        updates and shaped by international agreements \u2014 which is, in fact, the
-        source of a lot of its problems. But fixing copyright means understanding
-        it, so this week we've got a conversation with UCLA professor Neil Netanel,
-        author of the new book Copyright: What Everyone Needs To Know, because there's
-        always something new to learn about copyright."
-  content:
-    text: ' \ud83c\udfa7 Listened to There''s Always Something New To Learn About
-      Copyright by Techdirt From Techdirt'
+    text: ' \ud83c\udfa7 Listened to Old Tweets & Your Permanent Record by Techdirt
+      From Techdirt'
 - type: entry
   published: "2019-01-10T03:52:06+00:00"
   category:
@@ -175,6 +176,29 @@
     text: ' \ud83c\udfa7 Listened to Ninja Future, With Gary Shapiro by Techdirt From
       Techdirt'
 - type: entry
+  published: "2019-01-10T15:28:38+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/479360508-techdirt-the-eus-copyright-threat-to-the-open-internet.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/479360508-techdirt-the-eus-copyright-threat-to-the-open-internet.mp3
+      name: The EU's Copyright Threat To The Open Internet
+      author: Techdirt
+      content: We've got a crossover episode this week, all about the EU's disastrous
+        moves on the copyright front. Mike recently joined the Building Tomorrow podcast
+        to discuss the subject with Paul Matzko and Will Duffield, and now you can
+        listen to it here on this week's episode of the Techdirt Podcast.
+  content:
+    text: ' \ud83c\udfa7 Listened to The EU''s Copyright Threat To The Open Internet
+      by Techdirt From Techdirt'
+- type: entry
   published: "2019-01-10T12:44:42+00:00"
   category:
   - scrobble
@@ -198,28 +222,4 @@
         of emoji and the law."
   content:
     text: ' \ud83c\udfa7 Listened to Emoji & The Law by Techdirt From Techdirt'
-- type: entry
-  published: "2019-01-10T02:21:29+00:00"
-  category:
-  - scrobble
-  - audio
-  - RPGMP3 Actual Play Podcast
-  - Hal
-  listen-of:
-    h-cite:
-      url: http://rpgmp3.com/v5/feed/podcast/
-      photo: ""
-      audio:
-      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/RPGMP3/audio/2018_christmas_everyone_loves_stan.mp3
-      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/2018_christmas_everyone_loves_stan.mp3
-      name: 'Christmas Special 2018: Everyone Loves Stan'
-      author: Hal
-      content: "Merry Christmas! This is a one-shot game that uses the My Life With
-        Master system from Half Meme Press. In this seasonal adaptation, a group of
-        downtrodden elves must help a miserable Santa try to get his wife back before
-        he spirals any further out of control. This one has some pretty naughty language
-        and [\u2026]"
-  content:
-    text: ' \ud83c\udfa7 Listened to Christmas Special 2018: Everyone Loves Stan by
-      @rpgmp3 From #RPGMP3ActualPlayPodcast'
 ...

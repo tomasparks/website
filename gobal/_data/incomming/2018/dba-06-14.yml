@@ -24,29 +24,6 @@
     text: " \\ud83c\\udfa7 Listened to Podcast: Petard, Part 04 \u2014 CONCLUSION
       by Cory Doctorow From Podcast \u2013 Cory Doctorow's craphound.com"
 - type: entry
-  published: "2018-06-14T13:15:30+00:00"
-  category:
-  - scrobble
-  - audio
-  - "Podcast \u2013 Cory Doctorow's craphound.com"
-  - Cory Doctorow
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/doctorow_podcast
-      photo: ""
-      audio:
-      - https://archive.org/download/Cory_Doctorow_Podcast_293/Cory_Doctorow_Podcast_293_-_Petard_03.mp3
-      - http://archive.org/download/Cory_Doctorows-Podcast-by-Cory_Doctorow/Cory_Doctorow_Podcast_293_-_Petard_03.mp3
-      name: 'Podcast: Petard, Part 03'
-      author: Cory Doctorow
-      content: Here&#8217;s the third part of my reading (MP3) of Petard (part one,
-        part two), a story from MIT Tech Review&#8217;s Twelve Tomorrows, edited by
-        Bruce Sterling; a story inspired by, and dedicated to, Aaron Swartz &#8212;
-        about elves, Net Neutrality, dorms and the collective action problem. MP3
-  content:
-    text: " \\ud83c\\udfa7 Listened to Podcast: Petard, Part 03 by Cory Doctorow From
-      Podcast \u2013 Cory Doctorow's craphound.com"
-- type: entry
   published: "2018-06-14T12:42:57+00:00"
   category:
   - scrobble
@@ -68,6 +45,29 @@
         Neutrality, dorms and the collective action problem. MP3
   content:
     text: " \\ud83c\\udfa7 Listened to Podcast: Petard, Part 02 by Cory Doctorow From
+      Podcast \u2013 Cory Doctorow's craphound.com"
+- type: entry
+  published: "2018-06-14T13:15:30+00:00"
+  category:
+  - scrobble
+  - audio
+  - "Podcast \u2013 Cory Doctorow's craphound.com"
+  - Cory Doctorow
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/doctorow_podcast
+      photo: ""
+      audio:
+      - https://archive.org/download/Cory_Doctorow_Podcast_293/Cory_Doctorow_Podcast_293_-_Petard_03.mp3
+      - http://archive.org/download/Cory_Doctorows-Podcast-by-Cory_Doctorow/Cory_Doctorow_Podcast_293_-_Petard_03.mp3
+      name: 'Podcast: Petard, Part 03'
+      author: Cory Doctorow
+      content: Here&#8217;s the third part of my reading (MP3) of Petard (part one,
+        part two), a story from MIT Tech Review&#8217;s Twelve Tomorrows, edited by
+        Bruce Sterling; a story inspired by, and dedicated to, Aaron Swartz &#8212;
+        about elves, Net Neutrality, dorms and the collective action problem. MP3
+  content:
+    text: " \\ud83c\\udfa7 Listened to Podcast: Petard, Part 03 by Cory Doctorow From
       Podcast \u2013 Cory Doctorow's craphound.com"
 - type: entry
   published: "2018-06-14T14:08:18+00:00"
@@ -114,6 +114,27 @@
     text: ' \ud83c\udfa7 Listened to Episode 1: Pixar by Ben Gilbert and David Rosenthal
       From @AcquiredFM'
 - type: entry
+  published: "2018-06-14T17:59:00+00:00"
+  category:
+  - scrobble
+  - audio
+  - Acquired - Tech Acquisitions & IPOs
+  - Ben Gilbert and David Rosenthal
+  listen-of:
+    h-cite:
+      url: http://www.acquired.fm/episodes?format=RSS
+      photo: ""
+      audio:
+      - http://static1.squarespace.com/static/56208487e4b020250549a935/t/565bde02e4b0fad364f95ed0/1448861186976/Acquired+Episode+4+-+Bungie.mp3
+      - http://archive.org/download/Acquired-Podcast-by-Ben_Gilbert_and_David_Rosenthal/Episode_4_Bungie.mp3
+      name: 'Episode 4: Bungie'
+      author: Ben Gilbert and David Rosenthal
+      content: Ben and David are joined by Former Microsoft VP and Co-Founder of Xbox,
+        Ed Fries, to discuss the Bungie acquisition and the development of Halo.
+  content:
+    text: ' \ud83c\udfa7 Listened to Episode 4: Bungie by Ben Gilbert and David Rosenthal
+      From @AcquiredFM'
+- type: entry
   published: "2018-06-14T16:58:03+00:00"
   category:
   - scrobble
@@ -136,27 +157,6 @@
         transformation into the Twitch that Emmett Shear is running today.
   content:
     text: ' \ud83c\udfa7 Listened to Episode 3: Twitch by Ben Gilbert and David Rosenthal
-      From @AcquiredFM'
-- type: entry
-  published: "2018-06-14T17:59:00+00:00"
-  category:
-  - scrobble
-  - audio
-  - Acquired - Tech Acquisitions & IPOs
-  - Ben Gilbert and David Rosenthal
-  listen-of:
-    h-cite:
-      url: http://www.acquired.fm/episodes?format=RSS
-      photo: ""
-      audio:
-      - http://static1.squarespace.com/static/56208487e4b020250549a935/t/565bde02e4b0fad364f95ed0/1448861186976/Acquired+Episode+4+-+Bungie.mp3
-      - http://archive.org/download/Acquired-Podcast-by-Ben_Gilbert_and_David_Rosenthal/Episode_4_Bungie.mp3
-      name: 'Episode 4: Bungie'
-      author: Ben Gilbert and David Rosenthal
-      content: Ben and David are joined by Former Microsoft VP and Co-Founder of Xbox,
-        Ed Fries, to discuss the Bungie acquisition and the development of Halo.
-  content:
-    text: ' \ud83c\udfa7 Listened to Episode 4: Bungie by Ben Gilbert and David Rosenthal
       From @AcquiredFM'
 - type: entry
   published: "2018-06-14T16:11:04+00:00"

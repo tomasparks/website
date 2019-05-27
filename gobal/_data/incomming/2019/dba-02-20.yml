@@ -1,5 +1,25 @@
 ---
 - type: entry
+  published: "2019-02-20T17:10:28+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://rpgmp3.com/v5/feed/podcast/
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/All_for_One_Musketeers_Session_11.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/All_for_One_Musketeers_Session_11.mp3
+      name: All For One Session 11
+      author: Hal
+      content: "Episode 11 \u2013 in which the Musketeers pursue suspect after suspect
+        at the Feast of Sainte-Anne, with enough seduction to make James Bond proud."
+  content:
+    text: ' \ud83c\udfa7 Listened to All For One Session 11 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+- type: entry
   published: "2019-02-20T18:39:40+00:00"
   category:
   - scrobble
@@ -46,24 +66,4 @@
   content:
     text: ' \ud83c\udfa7 Listened to The (Big?) Business Of Podcasting by Techdirt
       From Techdirt'
-- type: entry
-  published: "2019-02-20T17:10:28+00:00"
-  category:
-  - scrobble
-  - audio
-  - RPGMP3 Actual Play Podcast
-  - Hal
-  listen-of:
-    h-cite:
-      url: http://rpgmp3.com/v5/feed/podcast/
-      photo: ""
-      audio:
-      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/All_for_One_Musketeers_Session_11.mp3
-      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/All_for_One_Musketeers_Session_11.mp3
-      name: All For One Session 11
-      author: Hal
-      content: "Episode 11 \u2013 in which the Musketeers pursue suspect after suspect
-        at the Feast of Sainte-Anne, with enough seduction to make James Bond proud."
-  content:
-    text: ' \ud83c\udfa7 Listened to All For One Session 11 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
 ...

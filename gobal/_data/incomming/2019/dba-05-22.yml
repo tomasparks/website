@@ -1,31 +1,5 @@
 ---
 - type: entry
-  published: "2019-05-22T20:46:54+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - https://media.acast.com/internethistorypodcast/microsoftctokevinscott/media.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/195_Microsoft_CTO_Kevin_Scott.mp3
-      name: 195. Microsoft CTO Kevin Scott
-      author: Brian McCullough
-      content: 'Kevin Scott is the current Chief Technology Officer of Microsoft.
-        We talk about his entire career, how being an academic seemed to be his path
-        before he transformed the ads system at Google. Then he revolutionized the
-        entire advertising industry at AdMob; is credited by some people by saving
-        LinkedIn from technical rot; and now, today, oversees Microsoft''s efforts
-        in AI, VR/AR all the future things. Fantastic conversation.Kevin''s podcast
-        is: Behind the Tech'
-  content:
-    text: ' \ud83c\udfa7 Listened to 195. Microsoft CTO Kevin Scott by Brian McCullough
-      From Internet History Podcast'
-- type: entry
   published: "2019-05-22T19:18:02+00:00"
   category:
   - scrobble
@@ -110,4 +84,30 @@
   content:
     text: ' \ud83c\udfa7 Listened to Breaking Facebook, With Mike Godwin And David
       Kaye by Techdirt From Techdirt'
+- type: entry
+  published: "2019-05-22T20:46:54+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - https://media.acast.com/internethistorypodcast/microsoftctokevinscott/media.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/195_Microsoft_CTO_Kevin_Scott.mp3
+      name: 195. Microsoft CTO Kevin Scott
+      author: Brian McCullough
+      content: 'Kevin Scott is the current Chief Technology Officer of Microsoft.
+        We talk about his entire career, how being an academic seemed to be his path
+        before he transformed the ads system at Google. Then he revolutionized the
+        entire advertising industry at AdMob; is credited by some people by saving
+        LinkedIn from technical rot; and now, today, oversees Microsoft''s efforts
+        in AI, VR/AR all the future things. Fantastic conversation.Kevin''s podcast
+        is: Behind the Tech'
+  content:
+    text: ' \ud83c\udfa7 Listened to 195. Microsoft CTO Kevin Scott by Brian McCullough
+      From Internet History Podcast'
 ...

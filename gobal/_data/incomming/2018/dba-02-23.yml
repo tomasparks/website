@@ -1,29 +1,5 @@
 ---
 - type: entry
-  published: "2018-02-23T17:43:50+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough @brianmcc
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/RPznW_52U58/129._Michael_March_on_the_Indie_ISP_Industry_and_the_Birth_of_Online_Spam.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/129_Michael_March_on_the_Indie_ISP_Industry_and_the_Birth_of_Online_Spam.mp3
-      name: 129. Michael March on the Indie ISP Industry, and the Birth of Online
-        Spam
-      author: Brian McCullough @brianmcc
-      content: A history of the Internet Era from Netscape to the iPad. Oral histories
-        from the people that made the technology happen. "Chapter" episodes providing
-        background on the history of the companies.
-  content:
-    text: ' \ud83c\udfa7 Listened to 129. Michael March on the Indie ISP Industry,
-      and the Birth of Online Spam by Brian McCullough @brianmcc From Internet History
-      Podcast'
-- type: entry
   published: "2018-02-23T19:26:03+00:00"
   category:
   - scrobble
@@ -47,4 +23,28 @@
     text: ' \ud83c\udfa7 Listened to 130. AOL, AIM, Chat Rooms, The Time Warner Merger...
       AOL''s History with Joe Schober by Brian McCullough @brianmcc From Internet
       History Podcast'
+- type: entry
+  published: "2018-02-23T17:43:50+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/RPznW_52U58/129._Michael_March_on_the_Indie_ISP_Industry_and_the_Birth_of_Online_Spam.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/129_Michael_March_on_the_Indie_ISP_Industry_and_the_Birth_of_Online_Spam.mp3
+      name: 129. Michael March on the Indie ISP Industry, and the Birth of Online
+        Spam
+      author: Brian McCullough @brianmcc
+      content: A history of the Internet Era from Netscape to the iPad. Oral histories
+        from the people that made the technology happen. "Chapter" episodes providing
+        background on the history of the companies.
+  content:
+    text: ' \ud83c\udfa7 Listened to 129. Michael March on the Indie ISP Industry,
+      and the Birth of Online Spam by Brian McCullough @brianmcc From Internet History
+      Podcast'
 ...

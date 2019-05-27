@@ -1,31 +1,5 @@
 ---
 - type: entry
-  published: "2018-03-11T13:11:22+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/409668675-techdirt-the-worst-of-both-worlds-sesta-fosta-together.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/409668675-techdirt-the-worst-of-both-worlds-sesta-fosta-together.mp3
-      name: 'The Worst Of Both Worlds: SESTA & FOSTA Together'
-      author: Techdirt
-      content: "It wasn't very long ago that we last discussed SESTA on the podcast,
-        but now that the House has voted to approve its version of the bill with SESTA
-        tacked on, it's unfortunately time to dig into the issues again. So this week
-        we're joined by returning guest Emma Llans\xF3 from the Center for Democracy
-        and Technology and, for the first time, law professor Eric Goldman to talk
-        about why the combination of SESTA and FOSTA has resulted in the worst of
-        both worlds."
-  content:
-    text: ' \ud83c\udfa7 Listened to The Worst Of Both Worlds: SESTA & FOSTA Together
-      by Techdirt From Techdirt'
-- type: entry
   published: "2018-03-11T12:31:30+00:00"
   category:
   - scrobble
@@ -68,6 +42,32 @@
   content:
     text: ' \ud83c\udfa7 Listened to Should Kids Be Forced To Learn Coding? Or Economics?
       Or Stats? by Techdirt From Techdirt'
+- type: entry
+  published: "2018-03-11T13:11:22+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/409668675-techdirt-the-worst-of-both-worlds-sesta-fosta-together.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/409668675-techdirt-the-worst-of-both-worlds-sesta-fosta-together.mp3
+      name: 'The Worst Of Both Worlds: SESTA & FOSTA Together'
+      author: Techdirt
+      content: "It wasn't very long ago that we last discussed SESTA on the podcast,
+        but now that the House has voted to approve its version of the bill with SESTA
+        tacked on, it's unfortunately time to dig into the issues again. So this week
+        we're joined by returning guest Emma Llans\xF3 from the Center for Democracy
+        and Technology and, for the first time, law professor Eric Goldman to talk
+        about why the combination of SESTA and FOSTA has resulted in the worst of
+        both worlds."
+  content:
+    text: ' \ud83c\udfa7 Listened to The Worst Of Both Worlds: SESTA & FOSTA Together
+      by Techdirt From Techdirt'
 - type: entry
   published: "2018-03-11T11:44:16+00:00"
   category:

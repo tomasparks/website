@@ -1,25 +1,24 @@
 ---
 - type: entry
-  published: "2019-04-30T22:23:01+00:00"
+  published: "2019-04-30T02:09:40+00:00"
   category:
   - scrobble
   - audio
-  - Great Moments In Science - with Dr Karl Kruszelnicki
-  - ABC Radio National
+  - RPGMP3 Actual Play Podcast
+  - Hal
   listen-of:
     h-cite:
-      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      url: http://rpgmp3.com/v5/feed/podcast/
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2019/04/gms_20190430.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Easter_and_the_Equinox.mp3
-      name: Easter and the Equinox
-      author: ABC Radio National
-      content: Easter Sunday can fall in March or April, but the date is definitely
-        not random.
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_61.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_61.mp3
+      name: Kingmaker Session 61
+      author: Hal
+      content: "Episode 61 \u2013 in which Stagthorne faces the Log Chopping, a test
+        of strength; and the Boulder Challenge, a test of cunning."
   content:
-    text: ' \ud83c\udfa7 Listened to Easter and the Equinox by ABC Radio National
-      From Great Moments In Science - with Dr Karl Kruszelnicki'
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 61 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
 - type: entry
   published: "2019-04-30T22:16:45+00:00"
   category:
@@ -51,23 +50,24 @@
     text: ' \ud83c\udfa7 Listened to The Infocom Source Code Episode by @textfiles
       From #JasonScottTalksHisWayOutofIt'
 - type: entry
-  published: "2019-04-30T02:09:40+00:00"
+  published: "2019-04-30T22:23:01+00:00"
   category:
   - scrobble
   - audio
-  - RPGMP3 Actual Play Podcast
-  - Hal
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
   listen-of:
     h-cite:
-      url: http://rpgmp3.com/v5/feed/podcast/
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
       photo: ""
       audio:
-      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_61.mp3
-      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_61.mp3
-      name: Kingmaker Session 61
-      author: Hal
-      content: "Episode 61 \u2013 in which Stagthorne faces the Log Chopping, a test
-        of strength; and the Boulder Challenge, a test of cunning."
+      - http://mpegmedia.abc.net.au/rn/podcast/2019/04/gms_20190430.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Easter_and_the_Equinox.mp3
+      name: Easter and the Equinox
+      author: ABC Radio National
+      content: Easter Sunday can fall in March or April, but the date is definitely
+        not random.
   content:
-    text: ' \ud83c\udfa7 Listened to Kingmaker Session 61 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+    text: ' \ud83c\udfa7 Listened to Easter and the Equinox by ABC Radio National
+      From Great Moments In Science - with Dr Karl Kruszelnicki'
 ...

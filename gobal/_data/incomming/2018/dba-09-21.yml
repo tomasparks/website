@@ -1,5 +1,27 @@
 ---
 - type: entry
+  published: "2018-09-21T16:27:49+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/d7ZZTpMojWY/178._On_Googles_20th_Birthday_-_The_History_of_Google.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/178_On_Googles_20th_Birthday_The_History_of_Google.mp3
+      name: 178. On Google's 20th Birthday - The History of Google
+      author: Brian McCullough @brianmcc
+      content: On Google's 20th Birthday (September 4th) a re-cutting and re-airing
+        of my comprehensive history of Google, from it's inception through its IPO.
+        Happy Birthday, Google!
+  content:
+    text: ' \ud83c\udfa7 Listened to 178. On Google''s 20th Birthday - The History
+      of Google by Brian McCullough @brianmcc From Internet History Podcast'
+- type: entry
   published: "2018-09-21T11:02:52+00:00"
   category:
   - scrobble
@@ -25,28 +47,6 @@
   content:
     text: ' \ud83c\udfa7 Listened to 177. NandO.net with Fraser Van Asch by Brian
       McCullough @brianmcc From Internet History Podcast'
-- type: entry
-  published: "2018-09-21T16:27:49+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough @brianmcc
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/d7ZZTpMojWY/178._On_Googles_20th_Birthday_-_The_History_of_Google.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/178_On_Googles_20th_Birthday_The_History_of_Google.mp3
-      name: 178. On Google's 20th Birthday - The History of Google
-      author: Brian McCullough @brianmcc
-      content: On Google's 20th Birthday (September 4th) a re-cutting and re-airing
-        of my comprehensive history of Google, from it's inception through its IPO.
-        Happy Birthday, Google!
-  content:
-    text: ' \ud83c\udfa7 Listened to 178. On Google''s 20th Birthday - The History
-      of Google by Brian McCullough @brianmcc From Internet History Podcast'
 - type: entry
   published: "2018-09-21T03:33:51+00:00"
   category:

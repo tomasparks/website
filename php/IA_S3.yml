@@ -109,6 +109,11 @@ RPGMP3_Actual_Play_Podcast-by-Hal:
   kingmaker_session_66.mp3: true
   kingmaker_session_67.mp3: true
   kingmaker_session_68.mp3: true
+  kingmaker_session_72.mp3: false
+  Kingmaker_Session_73.mp3: false
+  kingmaker_session_70.mp3: true
+  kingmaker_session_69.mp3: true
+  kingmaker_session_71.mp3: false
 Indieweb_Podcast-by-David_Shanske_and_Chris_Aldrich:
   Indieweb9.mp3: true
   Indieweb10.mp3: true
@@ -196,6 +201,7 @@ Jeenas_Excellent_Encounters-Poodcast-by-Jeena:
   p06cwsrq.mp3: true
   p070t7dg.mp3: true
   p06821d6.mp3: true
+  p07b2141.mp3: false
 Percolator-Podcast-by-Aaron_Parecki:
   redirect.php: true
   Episode_8_Back_from_the_Woods.mp3: true
@@ -334,7 +340,7 @@ Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott:
   The_Infocom_Source_Code_Episode.mp3: true
   The_Sorting_Episode.mp3: true
   Jerome_Johnson.mp3: true
-  The_Conference_Episode.mp3: false
+  The_Conference_Episode.mp3: true
 Relative_Paths_Web_Development_and_stuff_like_that-Podcast-by-Mark_Phoenix_and_Ben_Hutchings:
   438217815-relativepaths-52-going-offline-with-jeremy-keith.mp3: true
 Cory_Doctorows-Podcast-by-Cory_Doctorow:
@@ -1256,10 +1262,10 @@ Dr_Karl_on_triplej-Podcast-by-triplej:
 Future_Tense_ABC_RN-by-ABC_Radio_National:
   fte_20190512.mp3: true
   fte_20190519.mp3: true
-  fte_20190526.mp3: false
+  fte_20190526.mp3: true
 Dr_Karl_Podcast-by-triple_j:
   Beard_hairballs_purring_pussies_and_green_boogers.mp3: true
-  Sympathy_spews_chubby_rain_and_fullmoon_craziness.mp3: false
+  Sympathy_spews_chubby_rain_and_fullmoon_craziness.mp3: true
 An_Indieweb_Podcast_Chris_Aldrich-by-httpswordpressorgv511:
   Indieweb14.mp3: true
 ...

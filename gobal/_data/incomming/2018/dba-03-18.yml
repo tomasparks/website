@@ -24,59 +24,6 @@
     text: ' \ud83c\udfa7 Listened to 157. Rob Malda (@cmdrtaco) on SlashDot and Social
       Media by Brian McCullough @brianmcc From Internet History Podcast'
 - type: entry
-  published: "2018-03-18T16:18:14+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough @brianmcc
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/kLNWk4OP4nA/161._Jeff_Bussgang_on_Open_Market_and_early_eCommerce.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/161_Jeff_Bussgang_on_Open_Market_and_early_eCommerce.mp3
-      name: 161. Jeff Bussgang on Open Market and early eCommerce
-      author: Brian McCullough @brianmcc
-      content: It gets my goat that these days, the history of ecommerce begins and
-        ends with Amazon. There were so many companies and big ideas that got us where
-        we are today, and one of the most important companies was Open Market. Jeff
-        Bussgang is here to tell us the (today) often overlooked story of the earliest
-        days of trying to sell stuff on the web. Today, Jeff is a General Partner
-        at Flybridge Capital Partners.
-  content:
-    text: ' \ud83c\udfa7 Listened to 161. Jeff Bussgang on Open Market and early eCommerce
-      by Brian McCullough @brianmcc From Internet History Podcast'
-- type: entry
-  published: "2018-03-18T16:59:50+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough @brianmcc
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/jupS4gsqm3Y/162._Venrocks_David_Pakman_on_Apples_Music_Group_N2K_eMusic_and_Dollar_Shave_Club.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/162_Venrocks_David_Pakman_on_Apples_Music_Group_N2K_eMusic_and_Dollar_Shave_Club.mp3
-      name: 162. Venrock's David Pakman on Apple's Music Group, N2K, eMusic and Dollar
-        Shave Club
-      author: Brian McCullough @brianmcc
-      content: "David Pakman is a well respected venture capitalist at Venrock, but
-        also a lifelong musician and music fan. Earlier in his career he played a
-        significant role in bringing music to the web. David tells us about cofounding
-        Apple\u2019s Music Group, his role in facilitating the first digital sales
-        of music online at dotcom-era companies N2K and MyPlay, and competing directly
-        against iTunes when he was at eMusic. As a bonus, he gives us some background
-        on the more recent founding story of Dollar Shave Club."
-  content:
-    text: ' \ud83c\udfa7 Listened to 162. Venrock''s David Pakman on Apple''s Music
-      Group, N2K, eMusic and Dollar Shave Club by Brian McCullough @brianmcc From
-      Internet History Podcast'
-- type: entry
   published: "2018-03-18T14:52:19+00:00"
   category:
   - scrobble
@@ -102,6 +49,31 @@
   content:
     text: ' \ud83c\udfa7 Listened to 159. The Forgotten Story of PLATO, with Brian
       Dear by Brian McCullough @brianmcc From Internet History Podcast'
+- type: entry
+  published: "2018-03-18T16:18:14+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/kLNWk4OP4nA/161._Jeff_Bussgang_on_Open_Market_and_early_eCommerce.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/161_Jeff_Bussgang_on_Open_Market_and_early_eCommerce.mp3
+      name: 161. Jeff Bussgang on Open Market and early eCommerce
+      author: Brian McCullough @brianmcc
+      content: It gets my goat that these days, the history of ecommerce begins and
+        ends with Amazon. There were so many companies and big ideas that got us where
+        we are today, and one of the most important companies was Open Market. Jeff
+        Bussgang is here to tell us the (today) often overlooked story of the earliest
+        days of trying to sell stuff on the web. Today, Jeff is a General Partner
+        at Flybridge Capital Partners.
+  content:
+    text: ' \ud83c\udfa7 Listened to 161. Jeff Bussgang on Open Market and early eCommerce
+      by Brian McCullough @brianmcc From Internet History Podcast'
 - type: entry
   published: "2018-03-18T10:09:21+00:00"
   category:
@@ -146,6 +118,34 @@
   content:
     text: ' \ud83c\udfa7 Listened to 160. Growing Up With The Web With Desi Garcia
       by Brian McCullough @brianmcc From Internet History Podcast'
+- type: entry
+  published: "2018-03-18T16:59:50+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/jupS4gsqm3Y/162._Venrocks_David_Pakman_on_Apples_Music_Group_N2K_eMusic_and_Dollar_Shave_Club.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/162_Venrocks_David_Pakman_on_Apples_Music_Group_N2K_eMusic_and_Dollar_Shave_Club.mp3
+      name: 162. Venrock's David Pakman on Apple's Music Group, N2K, eMusic and Dollar
+        Shave Club
+      author: Brian McCullough @brianmcc
+      content: "David Pakman is a well respected venture capitalist at Venrock, but
+        also a lifelong musician and music fan. Earlier in his career he played a
+        significant role in bringing music to the web. David tells us about cofounding
+        Apple\u2019s Music Group, his role in facilitating the first digital sales
+        of music online at dotcom-era companies N2K and MyPlay, and competing directly
+        against iTunes when he was at eMusic. As a bonus, he gives us some background
+        on the more recent founding story of Dollar Shave Club."
+  content:
+    text: ' \ud83c\udfa7 Listened to 162. Venrock''s David Pakman on Apple''s Music
+      Group, N2K, eMusic and Dollar Shave Club by Brian McCullough @brianmcc From
+      Internet History Podcast'
 - type: entry
   published: "2018-03-18T18:26:14+00:00"
   category:

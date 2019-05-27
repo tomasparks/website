@@ -22,6 +22,29 @@
     text: " \\ud83c\\udfa7 Listened to \u2018The Many Lives Of The Alt-Right\u2019,
       with Elizabeth Sandifer by @steal_this_show From @steal_this_show"
 - type: entry
+  published: "2018-04-18T12:14:12+00:00"
+  category:
+  - scrobble
+  - audio
+  - clevercast
+  - []
+  listen-of:
+    h-cite:
+      url: http://cleverca.st/podcast.xml
+      photo: ""
+      audio:
+      - http://cleverca.st/uploads/2018/a6b60caf2f.mp3
+      - http://archive.org/download/clevercast-by-Array/a6b60caf2f.mp3
+      name: 'Episode 2: Restoration'
+      author: []
+      content: |+
+        This time, on clevercast, I reminisce about one of my earliest personal websites. What happened to its content? How did I create it? Is there any chance of restoring it back to greatness?
+
+
+
+  content:
+    text: ' \ud83c\udfa7 Listened to Episode 2: Restoration by Array From clevercast'
+- type: entry
   published: "2018-04-18T13:02:59+00:00"
   category:
   - scrobble
@@ -46,29 +69,6 @@
   content:
     text: ' \ud83c\udfa7 Listened to Episode 3: Freedom from Facebook by Array From
       clevercast'
-- type: entry
-  published: "2018-04-18T12:14:12+00:00"
-  category:
-  - scrobble
-  - audio
-  - clevercast
-  - []
-  listen-of:
-    h-cite:
-      url: http://cleverca.st/podcast.xml
-      photo: ""
-      audio:
-      - http://cleverca.st/uploads/2018/a6b60caf2f.mp3
-      - http://archive.org/download/clevercast-by-Array/a6b60caf2f.mp3
-      name: 'Episode 2: Restoration'
-      author: []
-      content: |+
-        This time, on clevercast, I reminisce about one of my earliest personal websites. What happened to its content? How did I create it? Is there any chance of restoring it back to greatness?
-
-
-
-  content:
-    text: ' \ud83c\udfa7 Listened to Episode 2: Restoration by Array From clevercast'
 - type: entry
   published: "2018-04-18T12:57:08+00:00"
   category:

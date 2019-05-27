@@ -1,5 +1,26 @@
 ---
 - type: entry
+  published: "2018-04-22T19:57:18+00:00"
+  category:
+  - scrobble
+  - audio
+  - Adam Ruins Everything
+  - Adam Ruins Everything
+  listen-of:
+    h-cite:
+      url: http://maximumfun.org/feeds/are.xml
+      photo: ""
+      audio:
+      - http://media.adknit.com/a/f/90/adam-ruins-everything/ifix6b.1-1.mp3
+      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_15_Ethan_Zuckerman_On_Why_the_Internet_is_a_Less_Creative_Place.mp3
+      name: 'Ep 15: Ethan Zuckerman On Why the Internet is a Less Creative Place'
+      author: Adam Ruins Everything
+      content: On this week's podcast, Adam talks to Ethan Zuckerman from the MIT
+        Media Lab.
+  content:
+    text: ' \ud83c\udfa7 Listened to Ep 15: Ethan Zuckerman On Why the Internet is
+      a Less Creative Place by Adam Ruins Everything From Adam Ruins Everything'
+- type: entry
   published: "2018-04-22T18:19:52+00:00"
   category:
   - scrobble
@@ -22,27 +43,6 @@
     text: ' \ud83c\udfa7 Listened to Ep 17: Dale Jamieson Tells Us Why ''Going Green''
       Won''t Stop Global Warming (And Why He Still Has Hope for Our Planet) by Adam
       Ruins Everything From Adam Ruins Everything'
-- type: entry
-  published: "2018-04-22T19:57:18+00:00"
-  category:
-  - scrobble
-  - audio
-  - Adam Ruins Everything
-  - Adam Ruins Everything
-  listen-of:
-    h-cite:
-      url: http://maximumfun.org/feeds/are.xml
-      photo: ""
-      audio:
-      - http://media.adknit.com/a/f/90/adam-ruins-everything/ifix6b.1-1.mp3
-      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_15_Ethan_Zuckerman_On_Why_the_Internet_is_a_Less_Creative_Place.mp3
-      name: 'Ep 15: Ethan Zuckerman On Why the Internet is a Less Creative Place'
-      author: Adam Ruins Everything
-      content: On this week's podcast, Adam talks to Ethan Zuckerman from the MIT
-        Media Lab.
-  content:
-    text: ' \ud83c\udfa7 Listened to Ep 15: Ethan Zuckerman On Why the Internet is
-      a Less Creative Place by Adam Ruins Everything From Adam Ruins Everything'
 - type: entry
   published: "2018-04-22T19:16:50+00:00"
   category:

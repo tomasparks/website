@@ -61,7 +61,7 @@
   artist: ABC Radio National
   album: []
   location: https://www.abc.net.au/radionational/feed/2883726/podcast.xml
-  last-seen: "1558716322"
+  last-seen: "1558802765"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -80,7 +80,7 @@
   artist: ABC Radio National
   album: []
   location: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
-  last-seen: "1558716324"
+  last-seen: "1558802755"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -117,7 +117,7 @@
   artist: 5by5
   album: []
   location: http://feeds.5by5.tv/bigwebshow
-  last-seen: "1558715529"
+  last-seen: "1558802764"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -135,7 +135,7 @@
   artist: BBC Radio 5 live
   album: []
   location: http://podcasts.files.bbci.co.uk/p02pc9ny.rss
-  last-seen: "1558716323"
+  last-seen: "1558802751"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -155,7 +155,7 @@
   artist: https://wordpress.org/?v=5.2.1
   album: []
   location: https://david.shanske.com/feed/
-  last-seen: "1558716331"
+  last-seen: "1558802764"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -173,7 +173,7 @@
   artist: https://wordpress.org/?v=5.2.1
   album: []
   location: https://david.shanske.com/series/indieweb-podcast/feed/
-  last-seen: "1558716330"
+  last-seen: "1558802763"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -230,7 +230,7 @@
   artist: Cato Institute
   album: []
   location: https://www.libertarianism.org/rss/podcast/building-tomorrow
-  last-seen: "1558716326"
+  last-seen: "1558802764"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -249,7 +249,7 @@
   artist: triple j
   album: []
   location: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
-  last-seen: "1558716326"
+  last-seen: "1558802752"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -289,7 +289,7 @@
   artist: Stephen Fry | SamFry Ltd
   album: []
   location: https://rss.acast.com/greatleapyears
-  last-seen: "1558716331"
+  last-seen: "1558802765"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -307,7 +307,7 @@
   artist: CheapShow Pod
   album: []
   location: http://feeds.soundcloud.com/users/soundcloud:users:157831157/sounds.rss
-  last-seen: "1558716332"
+  last-seen: "1558802762"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -325,7 +325,7 @@
   artist: Hal
   album: []
   location: http://rpgmp3.com/v5/feed/podcast/
-  last-seen: "1558716330"
+  last-seen: "1558802758"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -344,10 +344,10 @@
   artist: Hal
   album: []
   location: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
-  last-seen: "1550745098"
+  last-seen: "1558802762"
   date: "0"
   media-type: application/octet-stream
-  status: "2"
+  status: "1"
   description: Epic tabletop RPGs played through by experienced players and gamesmasters.
     Listen to every cut, every spell, every roll!
   subtitle: []
@@ -355,7 +355,7 @@
   lang: en-US
   copyright: "\xA9 Copyright 2004-2018 RPGMP3.com"
   image: []
-  post-time: "1550632366"
+  post-time: "1558186928"
 - '@attributes':
     type: podcast-feed
   title: "An Indieweb Podcast \u2013 Chris Aldrich"
@@ -363,7 +363,7 @@
   artist: https://wordpress.org/?v=5.1.1
   album: []
   location: http://boffosocko.com/tag/an-indieweb-podcast/feed/
-  last-seen: "1558716338"
+  last-seen: "1558802770"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -373,7 +373,7 @@
   lang: en-US
   copyright: []
   image: []
-  post-time: "1558659776"
+  post-time: "1558727377"
 - '@attributes':
     type: podcast-feed
   title: Shirtloads of Science
@@ -435,7 +435,7 @@
   artist: Emojipedia
   album: []
   location: https://rss.simplecast.com/podcasts/2218/rss
-  last-seen: "1558716326"
+  last-seen: "1558802769"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -455,7 +455,7 @@
   artist: Jamie King
   album: []
   location: http://stealthisshow.com/feed/podcast
-  last-seen: "1558716333"
+  last-seen: "1558802759"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -473,7 +473,7 @@
   artist: Daniel J. Lewis
   album: []
   location: https://theaudacitytopodcast.com/feed/
-  last-seen: "1558716332"
+  last-seen: "1558802770"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -484,7 +484,7 @@
   lang: en-US
   copyright: "\xA9 2010\u20132019 D.Joseph Design LLC"
   image: []
-  post-time: "1558709002"
+  post-time: "1558753436"
 - '@attributes':
     type: podcast-feed
   title: Internet History Podcast
@@ -492,7 +492,7 @@
   artist: Brian McCullough
   album: []
   location: http://feeds.feedburner.com/InternetHistoryPodcast
-  last-seen: "1558716334"
+  last-seen: "1558802770"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -510,7 +510,7 @@
   artist: The Art of Manliness
   album: []
   location: https://rss.art19.com/art-of-manliness
-  last-seen: "1558716327"
+  last-seen: "1558802763"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -528,7 +528,7 @@
   artist: Jeena
   album: []
   location: https://jeena.net/pods.rss
-  last-seen: "1558716332"
+  last-seen: "1558802770"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -548,7 +548,7 @@
   artist: Relay FM
   album: []
   location: https://www.relay.fm/automators/feed
-  last-seen: "1558716331"
+  last-seen: "1558802768"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -567,7 +567,7 @@
   artist: Ars Technica
   album: []
   location: http://arstechnica.libsyn.com/rss
-  last-seen: "1558716326"
+  last-seen: "1558802764"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -642,7 +642,7 @@
   artist: Aaron Parecki
   album: []
   location: https://percolator.today/podcast.xml
-  last-seen: "1558716331"
+  last-seen: "1558802758"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -660,7 +660,7 @@
   artist: HeadGum
   album: []
   location: https://warp.gumballcdn.com/v1/rss?uuid=5fac20eeb4&rss=https://rss.art19.com/not-another-d-and-d-podcast
-  last-seen: "1558716332"
+  last-seen: "1558802765"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -701,44 +701,8 @@
   genre: []
   artist: Unknown
   album: []
-  location: https://huffduffer.com/tags/indieweb/rss
-  last-seen: "1558716337"
-  date: "0"
-  media-type: application/octet-stream
-  status: "1"
-  description: indieweb
-  subtitle: []
-  summary: []
-  lang: en
-  copyright: []
-  image: []
-  post-time: "1525460194"
-- '@attributes':
-    type: podcast-feed
-  title: BitJam Podcast
-  genre: []
-  artist: Unknown
-  album: []
-  location: http://www.bitfellas.org/podcast/podcast.xml
-  last-seen: "1530620012"
-  date: "0"
-  media-type: application/octet-stream
-  status: "2"
-  description: []
-  subtitle: []
-  summary: []
-  lang: en-us
-  copyright: 2006-2018 (c) BitFellas
-  image: http://www.bitfellas.org/podcast/bitjam_cover.jpg
-  post-time: "1525113157"
-- '@attributes':
-    type: podcast-feed
-  title: indieweb on Huffduffer
-  genre: []
-  artist: Unknown
-  album: []
   location: https://huffduffer.com/search/rss?q=indieweb&sort=date
-  last-seen: "1558716338"
+  last-seen: "1558802762"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -749,60 +713,6 @@
   copyright: []
   image: []
   post-time: "1528735323"
-- '@attributes':
-    type: podcast-feed
-  title: web standards on Huffduffer
-  genre: []
-  artist: Unknown
-  album: []
-  location: https://huffduffer.com/tags/web+standards/rss
-  last-seen: "1530619981"
-  date: "0"
-  media-type: application/octet-stream
-  status: "2"
-  description: web standards
-  subtitle: []
-  summary: []
-  lang: en
-  copyright: []
-  image: []
-  post-time: "1524821487"
-- '@attributes':
-    type: podcast-feed
-  title: jekyll on Huffduffer
-  genre: []
-  artist: Unknown
-  album: []
-  location: https://huffduffer.com/search/rss?q=jekyll
-  last-seen: "1558716338"
-  date: "0"
-  media-type: application/octet-stream
-  status: "1"
-  description: jekyll
-  subtitle: []
-  summary: []
-  lang: en
-  copyright: []
-  image: []
-  post-time: "1487440225"
-- '@attributes':
-    type: podcast-feed
-  title: The Linux Link Tech Show Opus Feed
-  genre: []
-  artist: Unknown
-  album: []
-  location: http://feeds.feedburner.com/TheLinuxLinkTechShowOpusFeed
-  last-seen: "1558716331"
-  date: "0"
-  media-type: application/octet-stream
-  status: "1"
-  description: The Linux Link Tech Show
-  subtitle: []
-  summary: []
-  lang: en-us
-  copyright: Creative Commons License Some Rights Reserved
-  image: []
-  post-time: "1558535400"
 - '@attributes':
     type: podcast-feed
   title: snarfed on Huffduffer
@@ -823,6 +733,24 @@
   post-time: "1524116169"
 - '@attributes':
     type: podcast-feed
+  title: jekyll on Huffduffer
+  genre: []
+  artist: Unknown
+  album: []
+  location: https://huffduffer.com/search/rss?q=jekyll
+  last-seen: "1558802769"
+  date: "0"
+  media-type: application/octet-stream
+  status: "1"
+  description: jekyll
+  subtitle: []
+  summary: []
+  lang: en
+  copyright: []
+  image: []
+  post-time: "1487440225"
+- '@attributes':
+    type: podcast-feed
   title: web design on Huffduffer
   genre: []
   artist: Unknown
@@ -841,12 +769,84 @@
   post-time: "1525164379"
 - '@attributes':
     type: podcast-feed
+  title: indieweb on Huffduffer
+  genre: []
+  artist: Unknown
+  album: []
+  location: https://huffduffer.com/tags/indieweb/rss
+  last-seen: "1558802769"
+  date: "0"
+  media-type: application/octet-stream
+  status: "1"
+  description: indieweb
+  subtitle: []
+  summary: []
+  lang: en
+  copyright: []
+  image: []
+  post-time: "1525460194"
+- '@attributes':
+    type: podcast-feed
+  title: web standards on Huffduffer
+  genre: []
+  artist: Unknown
+  album: []
+  location: https://huffduffer.com/tags/web+standards/rss
+  last-seen: "1530619981"
+  date: "0"
+  media-type: application/octet-stream
+  status: "2"
+  description: web standards
+  subtitle: []
+  summary: []
+  lang: en
+  copyright: []
+  image: []
+  post-time: "1524821487"
+- '@attributes':
+    type: podcast-feed
+  title: BitJam Podcast
+  genre: []
+  artist: Unknown
+  album: []
+  location: http://www.bitfellas.org/podcast/podcast.xml
+  last-seen: "1530620012"
+  date: "0"
+  media-type: application/octet-stream
+  status: "2"
+  description: []
+  subtitle: []
+  summary: []
+  lang: en-us
+  copyright: 2006-2018 (c) BitFellas
+  image: http://www.bitfellas.org/podcast/bitjam_cover.jpg
+  post-time: "1525113157"
+- '@attributes':
+    type: podcast-feed
+  title: The Linux Link Tech Show Opus Feed
+  genre: []
+  artist: Unknown
+  album: []
+  location: http://feeds.feedburner.com/TheLinuxLinkTechShowOpusFeed
+  last-seen: "1558802765"
+  date: "0"
+  media-type: application/octet-stream
+  status: "1"
+  description: The Linux Link Tech Show
+  subtitle: []
+  summary: []
+  lang: en-us
+  copyright: Creative Commons License Some Rights Reserved
+  image: []
+  post-time: "1558535400"
+- '@attributes':
+    type: podcast-feed
   title: IRL - Online Life Is Real Life
   genre: []
   artist: Firefox, backed by Mozilla
   album: []
   location: https://feeds.mozilla-podcasts.org/irl
-  last-seen: "1558716333"
+  last-seen: "1558802763"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -890,7 +890,7 @@
   artist: PodcastOne Australia
   album: []
   location: http://handa.hamishandandy.libsynpro.com/rss
-  last-seen: "1558716334"
+  last-seen: "1558802755"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -912,7 +912,7 @@
   artist: Late Night Toast
   album: []
   location: http://latenighttoast.com/xml-feed/
-  last-seen: "1558716334"
+  last-seen: "1558802752"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -974,7 +974,7 @@
   artist: Will Smith, Norman Chan, Jeremy Williams
   album: []
   location: http://www.tested.com/podcast-xml/this-is-only-a-test/
-  last-seen: "1558716350"
+  last-seen: "1558802774"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -1012,7 +1012,7 @@
   artist: Bret Comnes and Jim Pick
   album: []
   location: https://dat-cast.hashbase.io/feed.xml
-  last-seen: "1558716332"
+  last-seen: "1558802763"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -1030,7 +1030,7 @@
   artist: Eddie Hinkle
   album: []
   location: http://feeds.myurlis.com/podcast
-  last-seen: "1558716331"
+  last-seen: "1558802754"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -1051,7 +1051,7 @@
   artist: Daniel Jalkut and Manton Reece
   album: []
   location: https://coreint.org/podcast.xml
-  last-seen: "1558716338"
+  last-seen: "1558802769"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -1069,7 +1069,7 @@
   artist: Dr Karl Kruszelnicki and Adam Spencer
   album: []
   location: http://drkarl.com/Podcasts/sleekgeeks.xml
-  last-seen: "1558716332"
+  last-seen: "1558802763"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -1091,7 +1091,7 @@
   artist: Techdirt
   album: []
   location: https://www.techdirt.com/podcast.xml
-  last-seen: "1558716337"
+  last-seen: "1558802768"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -1109,7 +1109,7 @@
   artist: Jason Scott
   album: []
   location: http://textfiles.libsyn.com/rss
-  last-seen: "1558716333"
+  last-seen: "1558802754"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -1127,7 +1127,7 @@
   artist: Benjamin J Heckendorn
   album: []
   location: https://benheck.com/?feed=podcast
-  last-seen: "1558716334"
+  last-seen: "1558802769"
   date: "0"
   media-type: application/octet-stream
   status: "1"
