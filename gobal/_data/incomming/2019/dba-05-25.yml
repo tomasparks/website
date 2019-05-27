@@ -1,0 +1,83 @@
+---
+- type: entry
+  published: "2019-05-25T16:57:19+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://rpgmp3.com/v5/feed/podcast/
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_72.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_72.mp3
+      name: Kingmaker Session 72
+      author: Hal
+      content: "Episode 72 \u2013 in which Lady Quintessa Maray plays her hand and
+        Kundal\u2019s fate is revealed."
+  content:
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 72 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+- type: entry
+  published: "2019-05-25T18:50:14+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://rpgmp3.com/v5/feed/podcast/
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/Kingmaker_Session_73.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/Kingmaker_Session_73.mp3
+      name: Kingmaker Session 73
+      author: Hal
+      content: "Episode 73 \u2013 in which the spectre of Goody Niska continues to
+        haunt Svetlana\u2019s life, Kaylen\u2019s imaginary harem expands, and Armag\u2019s
+        army is found. Originally recorded 27 June 2018."
+  content:
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 73 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+- type: entry
+  published: "2019-05-25T09:37:56+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://rpgmp3.com/v5/feed/podcast/
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_70.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_70.mp3
+      name: Kingmaker Session 70
+      author: Hal
+      content: "Episode 70 \u2013 in which we have weddings, paladins, and disguises,
+        oh my!"
+  content:
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 70 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+- type: entry
+  published: "2019-05-25T14:54:20+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://rpgmp3.com/v5/feed/podcast/
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_71.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_71.mp3
+      name: Kingmaker Session 71
+      author: Hal
+      content: "Episode 71 \u2013 in which Kaylen and Michaela infiltrate Fort Drelev,
+        and discover just how much Drelev\u2019s kingdom stinks."
+  content:
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 71 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+...
