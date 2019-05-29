@@ -1,0 +1,25 @@
+---
+- type: entry
+  published: "2019-05-29T00:02:44+00:00"
+  url: https://twitter.com/tomasparksts/status/1133524034258235392
+  repost-of:
+  - https://twitter.com/badnetworker/status/1133363823728091136
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/badnetworker/status/1133363823728091136:
+      type: entry
+      published: "2019-05-28T13:26:07+00:00"
+      url: https://twitter.com/badnetworker/status/1133363823728091136
+      content:
+        text: "1999: there are millions of websites all hyperlinked together \n2019:
+          there are four websites, each filled with screenshots of the other three."
+      author:
+        type: card
+        name: David Masad
+        url: https://twitter.com/badnetworker
+        photo: https://pbs.twimg.com/profile_images/1553373736/Masad_David_CSSSA_2011.jpg
+...

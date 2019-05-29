@@ -1,0 +1,36 @@
+---
+- type: entry
+  published: "2019-05-28T17:55:44+00:00"
+  url: https://twitter.com/tomasparksts/status/1133431676439130112
+  category:
+  - https://twitter.com/Octav1usKitten
+  - https://twitter.com/chipspeech
+  - https://twitter.com/OttoMozer
+  in-reply-to:
+  - https://twitter.com/Octav1usKitten/status/1133414351115837446
+  content:
+    text: "\"40 years after my creation I am back!\" - EVIL OTTO @chipspeech @OttoMozeryoutube.com/watch?v=-Skiek\u2026"
+    html: "\"40 years after my creation I am back!\" - EVIL OTTO <a href=\"https://twitter.com/chipspeech\">@chipspeech</a>
+      <a href=\"https://twitter.com/OttoMozer\">@OttoMozer</a><a href=\"https://www.youtube.com/watch?v=-SkiekH5oRk\">youtube.com/watch?v=-Skiek\u2026</a>"
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/Octav1usKitten:
+      type: card
+      name: "Queen Octav1us \U0001F4FA"
+      url: https://twitter.com/Octav1usKitten
+      photo: ~
+    https://twitter.com/chipspeech:
+      type: card
+      name: chipspeech
+      url: https://twitter.com/chipspeech
+      photo: ~
+    https://twitter.com/OttoMozer:
+      type: card
+      name: Otto Mozer
+      url: https://twitter.com/OttoMozer
+      photo: ~
+...
