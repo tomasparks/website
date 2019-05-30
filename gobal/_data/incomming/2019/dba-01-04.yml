@@ -1,5 +1,31 @@
 ---
 - type: entry
+  published: "2019-01-04T05:00:16+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/522317304-techdirt-ai-free-speech-human-rights.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/522317304-techdirt-ai-free-speech-human-rights.mp3
+      name: AI, Free Speech & Human Rights
+      author: Techdirt
+      content: As artificial intelligence technology marches onwards, it's raising
+        a lot of complicated questions about free speech, privacy, and important rights.
+        One person who's been thinking a lot about these questions is David Kaye,
+        the UN Special Rapporteur on the promotion and protection of the right to
+        freedom of opinion and expression, who recently published a thorough report
+        [pdf] on the subject. This week, David joins us on the podcast to discuss
+        artificial intelligence and its implications for human rights.
+  content:
+    text: ' \ud83c\udfa7 Listened to AI, Free Speech & Human Rights by Techdirt From
+      Techdirt'
+- type: entry
   published: "2019-01-04T06:03:20+00:00"
   category:
   - scrobble
@@ -47,32 +73,6 @@
   content:
     text: ' \ud83c\udfa7 Listened to Building New Senses (Plus The Possible End Of
       The World) by Techdirt From Techdirt'
-- type: entry
-  published: "2019-01-04T05:00:16+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/522317304-techdirt-ai-free-speech-human-rights.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/522317304-techdirt-ai-free-speech-human-rights.mp3
-      name: AI, Free Speech & Human Rights
-      author: Techdirt
-      content: As artificial intelligence technology marches onwards, it's raising
-        a lot of complicated questions about free speech, privacy, and important rights.
-        One person who's been thinking a lot about these questions is David Kaye,
-        the UN Special Rapporteur on the promotion and protection of the right to
-        freedom of opinion and expression, who recently published a thorough report
-        [pdf] on the subject. This week, David joins us on the podcast to discuss
-        artificial intelligence and its implications for human rights.
-  content:
-    text: ' \ud83c\udfa7 Listened to AI, Free Speech & Human Rights by Techdirt From
-      Techdirt'
 - type: entry
   published: "2019-01-04T02:15:53+00:00"
   category:

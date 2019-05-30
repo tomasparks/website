@@ -1,35 +1,5 @@
 ---
 - type: entry
-  published: "2019-03-19T11:08:01+00:00"
-  category:
-  - scrobble
-  - audio
-  - IRL - Online Life Is Real Life
-  - Mozilla
-  listen-of:
-    h-cite:
-      url: https://feeds.mozilla-podcasts.org/irl
-      photo: ""
-      audio:
-      - https://tracking.feedpress.it/link/17512/10157903/4758d08e.mp3
-      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/4758d08e.mp3
-      name: Bullying and Bonding Online
-      author: Mozilla
-      content: "It\u2019s a problem when tribalism divides us, online or in real life.
-        Join Veronica Belmont and Franchesca Ramsey as they meet the people working
-        to make the web \u2014 and world \u2014 friendlier places. Jhamel Robinson
-        discusses how he used social media to organize a massive BBQ in Oakland after
-        a racial altercation went viral; Dr. Meredith Clark sheds light on the need
-        for social media platforms to hire members of vulnerable communities; Jon
-        Ronson talks about snap judgements; Professor Kip Williams speaks to the effects
-        of ostracism online and off; and recent high school graduate Natalie Hampton
-        shares her story of surviving extreme bullying and what she's doing now to
-        help others.\n\nIRL is an original podcast from Mozilla. For more on the series
-        go to irlpodcast.org\n"
-  content:
-    text: ' \ud83c\udfa7 Listened to Bullying and Bonding Online by Mozilla From IRL
-      - Online Life Is Real Life'
-- type: entry
   published: "2019-03-19T20:48:16+00:00"
   category:
   - scrobble
@@ -86,4 +56,34 @@
   content:
     text: ' \ud83c\udfa7 Listened to Virtual Connections by Mozilla From IRL - Online
       Life Is Real Life'
+- type: entry
+  published: "2019-03-19T11:08:01+00:00"
+  category:
+  - scrobble
+  - audio
+  - IRL - Online Life Is Real Life
+  - Mozilla
+  listen-of:
+    h-cite:
+      url: https://feeds.mozilla-podcasts.org/irl
+      photo: ""
+      audio:
+      - https://tracking.feedpress.it/link/17512/10157903/4758d08e.mp3
+      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/4758d08e.mp3
+      name: Bullying and Bonding Online
+      author: Mozilla
+      content: "It\u2019s a problem when tribalism divides us, online or in real life.
+        Join Veronica Belmont and Franchesca Ramsey as they meet the people working
+        to make the web \u2014 and world \u2014 friendlier places. Jhamel Robinson
+        discusses how he used social media to organize a massive BBQ in Oakland after
+        a racial altercation went viral; Dr. Meredith Clark sheds light on the need
+        for social media platforms to hire members of vulnerable communities; Jon
+        Ronson talks about snap judgements; Professor Kip Williams speaks to the effects
+        of ostracism online and off; and recent high school graduate Natalie Hampton
+        shares her story of surviving extreme bullying and what she's doing now to
+        help others.\n\nIRL is an original podcast from Mozilla. For more on the series
+        go to irlpodcast.org\n"
+  content:
+    text: ' \ud83c\udfa7 Listened to Bullying and Bonding Online by Mozilla From IRL
+      - Online Life Is Real Life'
 ...

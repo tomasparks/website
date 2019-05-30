@@ -1,27 +1,5 @@
 ---
 - type: entry
-  published: "2018-05-28T21:07:01+00:00"
-  category:
-  - scrobble
-  - audio
-  - STEAL THIS SHOW
-  - STEAL THIS SHOW
-  listen-of:
-    h-cite:
-      url: http://stealthisshow.com/feed/podcast
-      photo: ""
-      audio:
-      - https://media.blubrry.com/stealthisshow/content.blubrry.com/stealthisshow/STEAL_THIS_SHOW_SE01_E02.mp3
-      - http://archive.org/download/STEAL_THIS_SHOW-Podcast-by-STEAL_THIS_SHOW/STEAL_THIS_SHOW_SE01_E02.mp3
-      name: "STEAL THIS SHOW S01E02 \u2013 Rebel Librarians & Pirate Academics"
-      author: STEAL THIS SHOW
-      content: Radical librarians Lawrence Liang (Alternative Law Forum, Bangalore)
-        and Tomislav Medak (MAMA, Zagreb), discuss the recent release of the Megaupload
-        programmer sentenced to a year in a US jail, and why pirates have always attracted...
-  content:
-    text: " \\ud83c\\udfa7 Listened to STEAL THIS SHOW S01E02 \u2013 Rebel Librarians
-      & Pirate Academics by @steal_this_show From @steal_this_show"
-- type: entry
   published: "2018-05-28T20:43:12+00:00"
   category:
   - scrobble
@@ -45,28 +23,27 @@
     text: " \\ud83c\\udfa7 Listened to STEAL THIS SHOW S01E01 \u2013 With Fight For
       The Future by @steal_this_show From @steal_this_show"
 - type: entry
-  published: "2018-05-28T03:15:06+00:00"
+  published: "2018-05-28T21:07:01+00:00"
   category:
   - scrobble
   - audio
-  - Techdirt
-  - Techdirt
+  - STEAL THIS SHOW
+  - STEAL THIS SHOW
   listen-of:
     h-cite:
-      url: https://www.techdirt.com/podcast.xml
+      url: http://stealthisshow.com/feed/podcast
       photo: ""
       audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/313654702-techdirt-alexa-play-this-podcast.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/313654702-techdirt-alexa-play-this-podcast.mp3
-      name: Alexa, Play This Podcast
-      author: Techdirt
-      content: Always-on, voice-operated assistants are on the rise, and most of the
-        industry seems to have agreed that Amazon's Alexa is at the top of the pack.
-        Podcast host Dennis Yang was and is an early adopter of these devices, so
-        this week he's brought along Alexa, Google Now and Siri as guests for a discussion
-        about the future of this technology.
+      - https://media.blubrry.com/stealthisshow/content.blubrry.com/stealthisshow/STEAL_THIS_SHOW_SE01_E02.mp3
+      - http://archive.org/download/STEAL_THIS_SHOW-Podcast-by-STEAL_THIS_SHOW/STEAL_THIS_SHOW_SE01_E02.mp3
+      name: "STEAL THIS SHOW S01E02 \u2013 Rebel Librarians & Pirate Academics"
+      author: STEAL THIS SHOW
+      content: Radical librarians Lawrence Liang (Alternative Law Forum, Bangalore)
+        and Tomislav Medak (MAMA, Zagreb), discuss the recent release of the Megaupload
+        programmer sentenced to a year in a US jail, and why pirates have always attracted...
   content:
-    text: ' \ud83c\udfa7 Listened to Alexa, Play This Podcast by Techdirt From Techdirt'
+    text: " \\ud83c\\udfa7 Listened to STEAL THIS SHOW S01E02 \u2013 Rebel Librarians
+      & Pirate Academics by @steal_this_show From @steal_this_show"
 - type: entry
   published: "2018-05-28T14:44:15+00:00"
   category:
@@ -115,4 +92,27 @@
   content:
     text: ' \ud83c\udfa7 Listened to Will Regulations Ground Drone Innovation? by
       Techdirt From Techdirt'
+- type: entry
+  published: "2018-05-28T03:15:06+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/313654702-techdirt-alexa-play-this-podcast.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/313654702-techdirt-alexa-play-this-podcast.mp3
+      name: Alexa, Play This Podcast
+      author: Techdirt
+      content: Always-on, voice-operated assistants are on the rise, and most of the
+        industry seems to have agreed that Amazon's Alexa is at the top of the pack.
+        Podcast host Dennis Yang was and is an early adopter of these devices, so
+        this week he's brought along Alexa, Google Now and Siri as guests for a discussion
+        about the future of this technology.
+  content:
+    text: ' \ud83c\udfa7 Listened to Alexa, Play This Podcast by Techdirt From Techdirt'
 ...

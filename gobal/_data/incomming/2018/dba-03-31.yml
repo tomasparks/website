@@ -1,5 +1,31 @@
 ---
 - type: entry
+  published: "2018-03-31T00:18:41+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/343121347-techdirt-when-godwins-law-met-the-streisand-effect.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/343121347-techdirt-when-godwins-law-met-the-streisand-effect.mp3
+      name: When Godwin's Law Met The Streisand Effect
+      author: Techdirt
+      content: "Last Friday on Techdirt, we posted video from the World Hosting Days,
+        in which Mike Masnick sat down for a talk with Mike Godwin \u2014 a.k.a. the
+        originator of \"the Streisand Effect\" meeting the creator of \"Godwin's Law\".
+        As promised, we've got the audio from the event for this week's podcast, so
+        if you haven't watched the video (or you just want to revisit it) tune in
+        for a fun discussion about the history and changing meaning of these now-famous
+        terms.\r\n\r\nWatch the video: https://www.techdirt.com/articles/20170915/16541938217/when-godwins-law-met-streisand-effect.shtml"
+  content:
+    text: ' \ud83c\udfa7 Listened to When Godwin''s Law Met The Streisand Effect by
+      Techdirt From Techdirt'
+- type: entry
   published: "2018-03-31T06:26:48+00:00"
   category:
   - scrobble
@@ -47,30 +73,4 @@
         whether mass customization is finally approaching critical mass.'
   content:
     text: ' \ud83c\udfa7 Listened to Customize Everything! by Techdirt From Techdirt'
-- type: entry
-  published: "2018-03-31T00:18:41+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/343121347-techdirt-when-godwins-law-met-the-streisand-effect.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/343121347-techdirt-when-godwins-law-met-the-streisand-effect.mp3
-      name: When Godwin's Law Met The Streisand Effect
-      author: Techdirt
-      content: "Last Friday on Techdirt, we posted video from the World Hosting Days,
-        in which Mike Masnick sat down for a talk with Mike Godwin \u2014 a.k.a. the
-        originator of \"the Streisand Effect\" meeting the creator of \"Godwin's Law\".
-        As promised, we've got the audio from the event for this week's podcast, so
-        if you haven't watched the video (or you just want to revisit it) tune in
-        for a fun discussion about the history and changing meaning of these now-famous
-        terms.\r\n\r\nWatch the video: https://www.techdirt.com/articles/20170915/16541938217/when-godwins-law-met-streisand-effect.shtml"
-  content:
-    text: ' \ud83c\udfa7 Listened to When Godwin''s Law Met The Streisand Effect by
-      Techdirt From Techdirt'
 ...

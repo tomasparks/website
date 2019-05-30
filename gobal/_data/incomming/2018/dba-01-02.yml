@@ -1,27 +1,5 @@
 ---
 - type: entry
-  published: "2018-01-02T16:31:02+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough @brianmcc
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/0V5yewrYnIM/49._Lycos_Founder_and_CEO_Bob_Davis_BobDavisHCP.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/49_Lycos_Founder_and_CEO_Bob_Davis_BobDavisHCP.mp3
-      name: 49. Lycos Founder and CEO Bob Davis @BobDavisHCP
-      author: Brian McCullough @brianmcc
-      content: A history of the Internet Era from Netscape to the iPad. Oral histories
-        from the people that made the technology happen. "Chapter" episodes providing
-        background on the history of the companies.
-  content:
-    text: ' \ud83c\udfa7 Listened to 49. Lycos Founder and CEO Bob Davis @BobDavisHCP
-      by Brian McCullough @brianmcc From Internet History Podcast'
-- type: entry
   published: "2018-01-02T13:37:47+00:00"
   category:
   - scrobble
@@ -45,28 +23,6 @@
       Mashable.com @film_girl by Brian McCullough @brianmcc From Internet History
       Podcast'
 - type: entry
-  published: "2018-01-02T05:20:00+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough @brianmcc
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/isAj8q91Bco/46._A_History_Of_Internet_Porn.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/46_Ch_6_A_History_of_Internet_Porn.mp3
-      name: 46. (Ch 6) A History of Internet Porn
-      author: Brian McCullough @brianmcc
-      content: A history of the Internet Era from Netscape to the iPad. Oral histories
-        from the people that made the technology happen. "Chapter" episodes providing
-        background on the history of the companies.
-  content:
-    text: ' \ud83c\udfa7 Listened to 46. (Ch 6) A History of Internet Porn by Brian
-      McCullough @brianmcc From Internet History Podcast'
-- type: entry
   published: "2018-01-02T04:07:39+00:00"
   category:
   - scrobble
@@ -87,6 +43,28 @@
         background on the history of the companies.
   content:
     text: ' \ud83c\udfa7 Listened to 45. Excite Co-Founder Ryan McIntyre by Brian
+      McCullough @brianmcc From Internet History Podcast'
+- type: entry
+  published: "2018-01-02T05:20:00+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/isAj8q91Bco/46._A_History_Of_Internet_Porn.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/46_Ch_6_A_History_of_Internet_Porn.mp3
+      name: 46. (Ch 6) A History of Internet Porn
+      author: Brian McCullough @brianmcc
+      content: A history of the Internet Era from Netscape to the iPad. Oral histories
+        from the people that made the technology happen. "Chapter" episodes providing
+        background on the history of the companies.
+  content:
+    text: ' \ud83c\udfa7 Listened to 46. (Ch 6) A History of Internet Porn by Brian
       McCullough @brianmcc From Internet History Podcast'
 - type: entry
   published: "2018-01-02T16:01:22+00:00"
@@ -110,6 +88,28 @@
   content:
     text: ' \ud83c\udfa7 Listened to 48. Amazon Director, Customer Service Strategy,
       Jane Slade by Brian McCullough @brianmcc From Internet History Podcast'
+- type: entry
+  published: "2018-01-02T16:31:02+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/0V5yewrYnIM/49._Lycos_Founder_and_CEO_Bob_Davis_BobDavisHCP.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/49_Lycos_Founder_and_CEO_Bob_Davis_BobDavisHCP.mp3
+      name: 49. Lycos Founder and CEO Bob Davis @BobDavisHCP
+      author: Brian McCullough @brianmcc
+      content: A history of the Internet Era from Netscape to the iPad. Oral histories
+        from the people that made the technology happen. "Chapter" episodes providing
+        background on the history of the companies.
+  content:
+    text: ' \ud83c\udfa7 Listened to 49. Lycos Founder and CEO Bob Davis @BobDavisHCP
+      by Brian McCullough @brianmcc From Internet History Podcast'
 - type: entry
   published: "2018-01-02T22:31:04+00:00"
   category:

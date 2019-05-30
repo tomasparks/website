@@ -109,11 +109,21 @@ RPGMP3_Actual_Play_Podcast-by-Hal:
   kingmaker_session_66.mp3: true
   kingmaker_session_67.mp3: true
   kingmaker_session_68.mp3: true
-  kingmaker_session_72.mp3: false
-  Kingmaker_Session_73.mp3: false
+  kingmaker_session_72.mp3: true
+  Kingmaker_Session_73.mp3: true
   kingmaker_session_70.mp3: true
   kingmaker_session_69.mp3: true
-  kingmaker_session_71.mp3: false
+  kingmaker_session_71.mp3: true
+  Kingmaker_Session_75.mp3: false
+  Kingmaker_Session_80.mp3: false
+  Kingmaker_Session_74.mp3: false
+  Kingmaker_Session_79.mp3: false
+  Kingmaker_Session_82.mp3: false
+  Kingmaker_Session_78.mp3: false
+  Kingmaker_Session_81.mp3: false
+  Kingmaker_Session_76.mp3: false
+  kingmaker_session_83.mp3: false
+  Kingmaker_Session_77.mp3: false
 Indieweb_Podcast-by-David_Shanske_and_Chris_Aldrich:
   Indieweb9.mp3: true
   Indieweb10.mp3: true
@@ -201,7 +211,7 @@ Jeenas_Excellent_Encounters-Poodcast-by-Jeena:
   p06cwsrq.mp3: true
   p070t7dg.mp3: true
   p06821d6.mp3: true
-  p07b2141.mp3: false
+  p07b2141.mp3: true
 Percolator-Podcast-by-Aaron_Parecki:
   redirect.php: true
   Episode_8_Back_from_the_Woods.mp3: true
@@ -774,6 +784,7 @@ Techdirt-Podcast-by-Techdirt:
   613775241-techdirt-cory-doctorow-on-anti-circumvention-and-more.mp3: true
   617145219-techdirt-politicians-usually-dont-understand-technology.mp3: true
   624337320-techdirt-breaking-facebook-with-mike-godwin-and-david-kaye.mp3: true
+  628035237-techdirt-what-if-congress-actually-understood-technology.mp3: false
 Not_Another_DD_Podcast-by-HeadGum:
   mp3: true
 clevercast-by-Jonathan_LaCour:

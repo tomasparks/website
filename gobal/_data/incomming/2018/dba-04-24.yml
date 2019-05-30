@@ -1,28 +1,5 @@
 ---
 - type: entry
-  published: "2018-04-24T16:15:15+00:00"
-  category:
-  - scrobble
-  - audio
-  - Adam Ruins Everything
-  - Adam Ruins Everything
-  listen-of:
-    h-cite:
-      url: http://maximumfun.org/feeds/are.xml
-      photo: ""
-      audio:
-      - http://media.adknit.com/a/f/90/adam-ruins-everything/9zlpe4.1-1.mp3
-      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_13_Trophy_Hunting_with_Rosie_Cooney.mp3
-      name: 'Ep 13: Trophy Hunting with Rosie Cooney'
-      author: Adam Ruins Everything
-      content: On this week's podcast, Adam and guest Rosie Cooney discuss how trophy
-        hunting can actually preserve wild species. It sounds insane and paradoxical,
-        but countries that actually manage trophy hunting well can save species like
-        rhinos from extinction....
-  content:
-    text: ' \ud83c\udfa7 Listened to Ep 13: Trophy Hunting with Rosie Cooney by Adam
-      Ruins Everything From Adam Ruins Everything'
-- type: entry
   published: "2018-04-24T15:22:26+00:00"
   category:
   - scrobble
@@ -67,4 +44,27 @@
   content:
     text: ' \ud83c\udfa7 Listened to Ep 12: Solving Homelessness with Rudy Salinas
       and Dorothy Edwards by Adam Ruins Everything From Adam Ruins Everything'
+- type: entry
+  published: "2018-04-24T16:15:15+00:00"
+  category:
+  - scrobble
+  - audio
+  - Adam Ruins Everything
+  - Adam Ruins Everything
+  listen-of:
+    h-cite:
+      url: http://maximumfun.org/feeds/are.xml
+      photo: ""
+      audio:
+      - http://media.adknit.com/a/f/90/adam-ruins-everything/9zlpe4.1-1.mp3
+      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_13_Trophy_Hunting_with_Rosie_Cooney.mp3
+      name: 'Ep 13: Trophy Hunting with Rosie Cooney'
+      author: Adam Ruins Everything
+      content: On this week's podcast, Adam and guest Rosie Cooney discuss how trophy
+        hunting can actually preserve wild species. It sounds insane and paradoxical,
+        but countries that actually manage trophy hunting well can save species like
+        rhinos from extinction....
+  content:
+    text: ' \ud83c\udfa7 Listened to Ep 13: Trophy Hunting with Rosie Cooney by Adam
+      Ruins Everything From Adam Ruins Everything'
 ...

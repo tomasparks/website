@@ -1,30 +1,5 @@
 ---
 - type: entry
-  published: "2018-05-31T03:55:33+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/289938859-techdirt-death-knell-for-software-patents.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/289938859-techdirt-death-knell-for-software-patents.mp3
-      name: Death Knell For Software Patents
-      author: Techdirt
-      content: "Software patents have been dubious since their inception \u2014 not
-        just in principle, but legally too. Past rulings have called their validity
-        into serious question, and now an opinion from a prominent pro-patent judge
-        has called for people to admit that they simply shouldn't exist. This week,
-        we discuss what this opinion means for the (hopefully short) future of software
-        patents."
-  content:
-    text: ' \ud83c\udfa7 Listened to Death Knell For Software Patents by Techdirt
-      From Techdirt'
-- type: entry
   published: "2018-05-31T01:22:20+00:00"
   category:
   - scrobble
@@ -77,6 +52,31 @@
   content:
     text: ' \ud83c\udfa7 Listened to Debating The Facebook Filter Bubble, With Mathew
       Ingram by Techdirt From Techdirt'
+- type: entry
+  published: "2018-05-31T03:55:33+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/289938859-techdirt-death-knell-for-software-patents.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/289938859-techdirt-death-knell-for-software-patents.mp3
+      name: Death Knell For Software Patents
+      author: Techdirt
+      content: "Software patents have been dubious since their inception \u2014 not
+        just in principle, but legally too. Past rulings have called their validity
+        into serious question, and now an opinion from a prominent pro-patent judge
+        has called for people to admit that they simply shouldn't exist. This week,
+        we discuss what this opinion means for the (hopefully short) future of software
+        patents."
+  content:
+    text: ' \ud83c\udfa7 Listened to Death Knell For Software Patents by Techdirt
+      From Techdirt'
 - type: entry
   published: "2018-05-31T02:18:59+00:00"
   category:

@@ -1,29 +1,5 @@
 ---
 - type: entry
-  published: "2018-05-09T04:01:25+00:00"
-  category:
-  - scrobble
-  - audio
-  - Acquired
-  - Ben Gilbert & David Rosenthal
-  listen-of:
-    h-cite:
-      url: http://www.acquired.fm/episodes?format=RSS
-      photo: ""
-      audio:
-      - http://traffic.libsyn.com/acquired/Acquired_-_PowerPoint_edit2.mp3
-      - http://archive.org/download/Acquired-Podcast-by-Ben_Gilbert_and_David_Rosenthal/Season_2_Episode_7PowerPoint.mp3
-      name: "Season 2, Episode 7:\_PowerPoint"
-      author: Ben Gilbert & David Rosenthal
-      content: "Acquired returns with a classic, delving into Microsoft\u2019s first
-        acquisition ever: Forethought Inc, the makers of PowerPoint. Hate it or love
-        it, you can\u2019t deny the combined companies\u2019 impact: by the early
-        90\u2019s PowerPoint had transformed the way businesses, educators and governments
-        communicate, ensuring job security for pointy-haired Dilbert bosses everywhere."
-  content:
-    text: " \\ud83c\\udfa7 Listened to Season 2, Episode 7:\_PowerPoint by @gilbert
-      & @djrosent From @AcquiredFM"
-- type: entry
   published: "2018-05-09T13:02:52+00:00"
   category:
   - scrobble
@@ -49,6 +25,30 @@
   content:
     text: ' \ud83c\udfa7 Listened to How The Courts Created The Surveillance State
       by Techdirt From Techdirt'
+- type: entry
+  published: "2018-05-09T04:01:25+00:00"
+  category:
+  - scrobble
+  - audio
+  - Acquired
+  - Ben Gilbert & David Rosenthal
+  listen-of:
+    h-cite:
+      url: http://www.acquired.fm/episodes?format=RSS
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/acquired/Acquired_-_PowerPoint_edit2.mp3
+      - http://archive.org/download/Acquired-Podcast-by-Ben_Gilbert_and_David_Rosenthal/Season_2_Episode_7PowerPoint.mp3
+      name: "Season 2, Episode 7:\_PowerPoint"
+      author: Ben Gilbert & David Rosenthal
+      content: "Acquired returns with a classic, delving into Microsoft\u2019s first
+        acquisition ever: Forethought Inc, the makers of PowerPoint. Hate it or love
+        it, you can\u2019t deny the combined companies\u2019 impact: by the early
+        90\u2019s PowerPoint had transformed the way businesses, educators and governments
+        communicate, ensuring job security for pointy-haired Dilbert bosses everywhere."
+  content:
+    text: " \\ud83c\\udfa7 Listened to Season 2, Episode 7:\_PowerPoint by @gilbert
+      & @djrosent From @AcquiredFM"
 - type: entry
   published: "2018-05-09T10:53:49+00:00"
   category:

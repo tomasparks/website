@@ -1,5 +1,27 @@
 ---
 - type: entry
+  published: "2018-11-16T17:26:09+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/SQsoZirXRPc/184._Selling_the_First_Facebook_Ads_With_Matt_Britton.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/184_Selling_the_First_Facebook_Ads_With_Matt_Britton.mp3
+      name: 184. Selling the First Facebook Ads, With Matt Britton
+      author: Brian McCullough @brianmcc
+      content: Matt Britton not only sold the first ads to and for Facebook, way back
+        in 2004, he gives us a really insightful and, frankly, unbiased look at what
+        Facebook was like as a company in its very earliest days.
+  content:
+    text: ' \ud83c\udfa7 Listened to 184. Selling the First Facebook Ads, With Matt
+      Britton by Brian McCullough @brianmcc From Internet History Podcast'
+- type: entry
   published: "2018-11-16T16:55:36+00:00"
   category:
   - scrobble
@@ -25,28 +47,6 @@
   content:
     text: ' \ud83c\udfa7 Listened to 182. Google''s Matt Cutts @mattcutts by Brian
       McCullough @brianmcc From Internet History Podcast'
-- type: entry
-  published: "2018-11-16T17:26:09+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough @brianmcc
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/SQsoZirXRPc/184._Selling_the_First_Facebook_Ads_With_Matt_Britton.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/184_Selling_the_First_Facebook_Ads_With_Matt_Britton.mp3
-      name: 184. Selling the First Facebook Ads, With Matt Britton
-      author: Brian McCullough @brianmcc
-      content: Matt Britton not only sold the first ads to and for Facebook, way back
-        in 2004, he gives us a really insightful and, frankly, unbiased look at what
-        Facebook was like as a company in its very earliest days.
-  content:
-    text: ' \ud83c\udfa7 Listened to 184. Selling the First Facebook Ads, With Matt
-      Britton by Brian McCullough @brianmcc From Internet History Podcast'
 - type: entry
   published: "2018-11-16T16:57:24+00:00"
   category:

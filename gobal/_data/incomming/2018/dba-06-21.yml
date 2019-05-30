@@ -1,83 +1,5 @@
 ---
 - type: entry
-  published: "2018-06-21T18:01:23+00:00"
-  category:
-  - scrobble
-  - audio
-  - Acquired - Technology Acquisitions & IPOs
-  - Ben Gilbert & David Rosenthal
-  listen-of:
-    h-cite:
-      url: http://www.acquired.fm/episodes?format=RSS
-      photo: ""
-      audio:
-      - http://traffic.libsyn.com/acquired/Android.mp3
-      - http://archive.org/download/Acquired-Podcast-by-Ben_Gilbert_and_David_Rosenthal/Episode_20_Android.mp3
-      name: 'Episode 20: Android'
-      author: Ben Gilbert & David Rosenthal
-      content: "Topics covered include:  - Welcome new listeners! We quickly review
-        the show format for newbies. - Community spotlight: Patagonia on a Budget
-        from community member Matt Morgante (@mattm on Slack) - Andy Rubin\u2019s
-        career trajectory and what made him \u201Cborn to start Android\" - The undeniable
-        \u201Ccool factor\u201D of the Danger Sidekick in the early/mid-2000\u2019s,
-        including fans such as Larry Page, Sergey Brin and\u2026 Turtle from Entourage
-        - Android\u2019s original ambition to build an operating system for\u2026
-        digital cameras - WebTV founder Steve Perlman is pretty much the best friend
-        ever - Google\u2019s own perspective on Android as their \u201Cbest deal ever\"
-        - The Android team\u2019s reaction to Steve Jobs unveiling the iPhone in January
-        2007, and redesigning the initial launch hardware - Announcing Android and\u2014equally
-        importantly\u2014the Open Handset Alliance (\u201COHA\u201D) - The much-talked-about
-        \"mobile holy wars\", between Android\u2019s \u201Copen\u201D platform and
-        Apple\u2019s \u201Cclosed\u201D platform - The less-talked-about US carrier
-        wars with the iPhone + AT&T in one camp, and everyone else in the Google /
-        OHA camp (including \u201CDroid Does\u201D) - A quirk of history: HTC at one
-        point acquires a majority share in Beats, resulting a short-lived period of
-        Beats-branded Android phones (still available on Amazon!) - The real battleground
-        for Google in the mobile platform wars: the economics of \u201Cdefault search\u201D
-        (briefly known thanks to the Oracle/Java lawsuit against Google) - Google\u2019s
-        detour into smartphone hardware with the acquisition (and subsequent divestiture)
-        of Motorola - The \u201Cfork-ability\u201D of Android via the Android Open
-        Source Project (versus \u201CGoogle Android\u201D), and the rise of Xiaomi,
-        Cyanogen, Kindle Fire and other platforms - The ecosystem economics of the
-        Android business for Google - \u201CDefensive\u201D versus \u201Coffensive\u201D
-        acquisitions, and protecting Google\u2019s core search business - Could (or
-        would) Google have built an Android-like platform without acquiring Android
-        the company (or having Andy Rubin)? - Framing the technology world\u2019s
-        shift to mobile within (surprise) Ben Thompson\u2019s Aggregation Theory -
-        The current \u201Cmoving up the stack\u201D of the competitive playing field
-        as the mobile landscape matures - Grading: Android versus Instagram?  Followups:
-        \ - Waze launches Carpool in the Bay Area. Much consternation ensues on the
-        Uber board.  Hot Takes:  - The iPhone 7 (and AirPods) announcement  The Carve
-        Out:  - Ben: Business Adventures by John Brooks, Bill Gates\u2019 favorite
-        business book - David: Ezra Edelman's fantastic 5-part ESPN documentary on
-        O.J. Simpson, O.J.: Made in America"
-  content:
-    text: ' \ud83c\udfa7 Listened to Episode 20: Android by @gilbert & @djrosent From
-      @AcquiredFM'
-- type: entry
-  published: "2018-06-21T19:47:44+00:00"
-  category:
-  - scrobble
-  - audio
-  - Acquired - Tech Acquisitions & IPOs
-  - Ben Gilbert & David Rosenthal
-  listen-of:
-    h-cite:
-      url: http://www.acquired.fm/episodes?format=RSS
-      photo: ""
-      audio:
-      - http://traffic.libsyn.com/acquired/Acquired_Episode_21_-__Inside_the_MA_Press_with_Bloombergs_Alex_Sherman.mp3
-      - http://archive.org/download/Acquired-Podcast-by-Ben_Gilbert_and_David_Rosenthal/Episode_21_Inside_the_MA_Press_with_Bloombergs_Alex_Sherman.mp3
-      name: 'Episode 21: Inside the M&A Press with Bloomberg''s Alex Sherman'
-      author: Ben Gilbert & David Rosenthal
-      content: "Ben and David go inside the M&A press with Bloomberg\u2019s technology
-        M&A reporter and host of the Deal of the Week Podcast, Alex Sherman. We explore
-        how stories about big deals get broken or what \u201Caccording to people familiar
-        with the matter\u201D really means."
-  content:
-    text: ' \ud83c\udfa7 Listened to Episode 21: Inside the M&A Press with Bloomberg''s
-      Alex Sherman by @gilbert & @djrosent From @AcquiredFM'
-- type: entry
   published: "2018-06-21T20:21:34+00:00"
   category:
   - scrobble
@@ -175,4 +97,82 @@
   content:
     text: ' \ud83c\udfa7 Listened to Episode 19: Jet by Ben Gilbert and David Rosenthal
       From @AcquiredFM'
+- type: entry
+  published: "2018-06-21T18:01:23+00:00"
+  category:
+  - scrobble
+  - audio
+  - Acquired - Technology Acquisitions & IPOs
+  - Ben Gilbert & David Rosenthal
+  listen-of:
+    h-cite:
+      url: http://www.acquired.fm/episodes?format=RSS
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/acquired/Android.mp3
+      - http://archive.org/download/Acquired-Podcast-by-Ben_Gilbert_and_David_Rosenthal/Episode_20_Android.mp3
+      name: 'Episode 20: Android'
+      author: Ben Gilbert & David Rosenthal
+      content: "Topics covered include:  - Welcome new listeners! We quickly review
+        the show format for newbies. - Community spotlight: Patagonia on a Budget
+        from community member Matt Morgante (@mattm on Slack) - Andy Rubin\u2019s
+        career trajectory and what made him \u201Cborn to start Android\" - The undeniable
+        \u201Ccool factor\u201D of the Danger Sidekick in the early/mid-2000\u2019s,
+        including fans such as Larry Page, Sergey Brin and\u2026 Turtle from Entourage
+        - Android\u2019s original ambition to build an operating system for\u2026
+        digital cameras - WebTV founder Steve Perlman is pretty much the best friend
+        ever - Google\u2019s own perspective on Android as their \u201Cbest deal ever\"
+        - The Android team\u2019s reaction to Steve Jobs unveiling the iPhone in January
+        2007, and redesigning the initial launch hardware - Announcing Android and\u2014equally
+        importantly\u2014the Open Handset Alliance (\u201COHA\u201D) - The much-talked-about
+        \"mobile holy wars\", between Android\u2019s \u201Copen\u201D platform and
+        Apple\u2019s \u201Cclosed\u201D platform - The less-talked-about US carrier
+        wars with the iPhone + AT&T in one camp, and everyone else in the Google /
+        OHA camp (including \u201CDroid Does\u201D) - A quirk of history: HTC at one
+        point acquires a majority share in Beats, resulting a short-lived period of
+        Beats-branded Android phones (still available on Amazon!) - The real battleground
+        for Google in the mobile platform wars: the economics of \u201Cdefault search\u201D
+        (briefly known thanks to the Oracle/Java lawsuit against Google) - Google\u2019s
+        detour into smartphone hardware with the acquisition (and subsequent divestiture)
+        of Motorola - The \u201Cfork-ability\u201D of Android via the Android Open
+        Source Project (versus \u201CGoogle Android\u201D), and the rise of Xiaomi,
+        Cyanogen, Kindle Fire and other platforms - The ecosystem economics of the
+        Android business for Google - \u201CDefensive\u201D versus \u201Coffensive\u201D
+        acquisitions, and protecting Google\u2019s core search business - Could (or
+        would) Google have built an Android-like platform without acquiring Android
+        the company (or having Andy Rubin)? - Framing the technology world\u2019s
+        shift to mobile within (surprise) Ben Thompson\u2019s Aggregation Theory -
+        The current \u201Cmoving up the stack\u201D of the competitive playing field
+        as the mobile landscape matures - Grading: Android versus Instagram?  Followups:
+        \ - Waze launches Carpool in the Bay Area. Much consternation ensues on the
+        Uber board.  Hot Takes:  - The iPhone 7 (and AirPods) announcement  The Carve
+        Out:  - Ben: Business Adventures by John Brooks, Bill Gates\u2019 favorite
+        business book - David: Ezra Edelman's fantastic 5-part ESPN documentary on
+        O.J. Simpson, O.J.: Made in America"
+  content:
+    text: ' \ud83c\udfa7 Listened to Episode 20: Android by @gilbert & @djrosent From
+      @AcquiredFM'
+- type: entry
+  published: "2018-06-21T19:47:44+00:00"
+  category:
+  - scrobble
+  - audio
+  - Acquired - Tech Acquisitions & IPOs
+  - Ben Gilbert & David Rosenthal
+  listen-of:
+    h-cite:
+      url: http://www.acquired.fm/episodes?format=RSS
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/acquired/Acquired_Episode_21_-__Inside_the_MA_Press_with_Bloombergs_Alex_Sherman.mp3
+      - http://archive.org/download/Acquired-Podcast-by-Ben_Gilbert_and_David_Rosenthal/Episode_21_Inside_the_MA_Press_with_Bloombergs_Alex_Sherman.mp3
+      name: 'Episode 21: Inside the M&A Press with Bloomberg''s Alex Sherman'
+      author: Ben Gilbert & David Rosenthal
+      content: "Ben and David go inside the M&A press with Bloomberg\u2019s technology
+        M&A reporter and host of the Deal of the Week Podcast, Alex Sherman. We explore
+        how stories about big deals get broken or what \u201Caccording to people familiar
+        with the matter\u201D really means."
+  content:
+    text: ' \ud83c\udfa7 Listened to Episode 21: Inside the M&A Press with Bloomberg''s
+      Alex Sherman by @gilbert & @djrosent From @AcquiredFM'
 ...

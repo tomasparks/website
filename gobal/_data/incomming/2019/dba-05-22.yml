@@ -1,32 +1,5 @@
 ---
 - type: entry
-  published: "2019-05-22T19:18:02+00:00"
-  category:
-  - scrobble
-  - audio
-  - "An Indieweb Podcast \u2013 Chris Aldrich"
-  - https://wordpress.org/?v=5.1.1
-  listen-of:
-    h-cite:
-      url: http://boffosocko.com/tag/an-indieweb-podcast/feed/
-      photo: ""
-      audio:
-      - https://david.shanske.com/wp-content/uploads/2019/05/Indieweb14.mp3#t=4384
-      - http://archive.org/download/An_Indieweb_Podcast_Chris_Aldrich-by-httpswordpressorgv511/Indieweb14.mp3
-      name: 'An IndieWeb Podcast: Episode 14 A loose collective of developers and
-        techno-utopians'
-      author: https://wordpress.org/?v=5.1.1
-      content: 'If possible, click to play, otherwise your browser may be unable to
-        play this audio file. Running time: 1h 19m 57s &#124; Download (37.5MB) &#124;
-        Subscribe by RSS &#124; Huffduff Summary: Our first episode since January.
-        David Shanske and Chris Aldrich get caught up on some recent IndieWebCamps,
-        an article about IndieWeb in The New &#8230; Continue reading "An IndieWeb
-        Podcast: Episode 14 A loose collective of developers and techno-utopians"'
-  content:
-    text: " \\ud83c\\udfa7 Listened to An IndieWeb Podcast: Episode 14 A loose collective
-      of developers and techno-utopians by https://wordpress.org/?v=5.1.1 From An
-      Indieweb Podcast \u2013 Chris Aldrich"
-- type: entry
   published: "2019-05-22T16:20:21+00:00"
   category:
   - scrobble
@@ -110,4 +83,31 @@
   content:
     text: ' \ud83c\udfa7 Listened to 195. Microsoft CTO Kevin Scott by Brian McCullough
       From Internet History Podcast'
+- type: entry
+  published: "2019-05-22T19:18:02+00:00"
+  category:
+  - scrobble
+  - audio
+  - "An Indieweb Podcast \u2013 Chris Aldrich"
+  - https://wordpress.org/?v=5.1.1
+  listen-of:
+    h-cite:
+      url: http://boffosocko.com/tag/an-indieweb-podcast/feed/
+      photo: ""
+      audio:
+      - https://david.shanske.com/wp-content/uploads/2019/05/Indieweb14.mp3#t=4384
+      - http://archive.org/download/An_Indieweb_Podcast_Chris_Aldrich-by-httpswordpressorgv511/Indieweb14.mp3
+      name: 'An IndieWeb Podcast: Episode 14 A loose collective of developers and
+        techno-utopians'
+      author: https://wordpress.org/?v=5.1.1
+      content: 'If possible, click to play, otherwise your browser may be unable to
+        play this audio file. Running time: 1h 19m 57s &#124; Download (37.5MB) &#124;
+        Subscribe by RSS &#124; Huffduff Summary: Our first episode since January.
+        David Shanske and Chris Aldrich get caught up on some recent IndieWebCamps,
+        an article about IndieWeb in The New &#8230; Continue reading "An IndieWeb
+        Podcast: Episode 14 A loose collective of developers and techno-utopians"'
+  content:
+    text: " \\ud83c\\udfa7 Listened to An IndieWeb Podcast: Episode 14 A loose collective
+      of developers and techno-utopians by https://wordpress.org/?v=5.1.1 From An
+      Indieweb Podcast \u2013 Chris Aldrich"
 ...

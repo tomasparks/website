@@ -1,6 +1,6 @@
 ---
 - type: entry
-  published: "2018-08-28T14:33:17+00:00"
+  published: "2018-08-28T06:07:16+00:00"
   category:
   - scrobble
   - audio
@@ -11,14 +11,14 @@
       url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
       photo: ""
       audio:
-      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/lost_and_forgotten_session_11.mp3
-      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/lost_and_forgotten_session_11.mp3
-      name: Lost and Forgotten Session 11
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/lost_and_forgotten_session_10.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/lost_and_forgotten_session_10.mp3
+      name: Lost and Forgotten Session 10
       author: Hal
-      content: "Episode 11 \u2013 in which our castaways have their final grand melee
-        with the cannibal tribe \u2013 will they all make it out alive?"
+      content: "Episode 10 \u2013 in which our castaways face mass combat, and we
+        break out every combat subsystem imaginable."
   content:
-    text: ' \ud83c\udfa7 Listened to Lost and Forgotten Session 11 by @rpgmp3 From
+    text: ' \ud83c\udfa7 Listened to Lost and Forgotten Session 10 by @rpgmp3 From
       #RPGMP3ActualPlayPodcast'
 - type: entry
   published: "2018-08-28T01:51:48+00:00"
@@ -43,7 +43,7 @@
     text: ' \ud83c\udfa7 Listened to Lost and Forgotten Session 09 by @rpgmp3 From
       #RPGMP3ActualPlayPodcast'
 - type: entry
-  published: "2018-08-28T06:07:16+00:00"
+  published: "2018-08-28T14:33:17+00:00"
   category:
   - scrobble
   - audio
@@ -54,13 +54,13 @@
       url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
       photo: ""
       audio:
-      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/lost_and_forgotten_session_10.mp3
-      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/lost_and_forgotten_session_10.mp3
-      name: Lost and Forgotten Session 10
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/lost_and_forgotten_session_11.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/lost_and_forgotten_session_11.mp3
+      name: Lost and Forgotten Session 11
       author: Hal
-      content: "Episode 10 \u2013 in which our castaways face mass combat, and we
-        break out every combat subsystem imaginable."
+      content: "Episode 11 \u2013 in which our castaways have their final grand melee
+        with the cannibal tribe \u2013 will they all make it out alive?"
   content:
-    text: ' \ud83c\udfa7 Listened to Lost and Forgotten Session 10 by @rpgmp3 From
+    text: ' \ud83c\udfa7 Listened to Lost and Forgotten Session 11 by @rpgmp3 From
       #RPGMP3ActualPlayPodcast'
 ...

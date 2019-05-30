@@ -1,25 +1,5 @@
 ---
 - type: entry
-  published: "2019-04-24T01:21:15+00:00"
-  category:
-  - scrobble
-  - audio
-  - RPGMP3 Actual Play Podcast
-  - Hal
-  listen-of:
-    h-cite:
-      url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
-      photo: ""
-      audio:
-      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_51.mp3
-      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_51.mp3
-      name: Kingmaker Session 51
-      author: Hal
-      content: "Episode 51 \u2013 in which Kaylen and Michaela face a complex trap
-        in Vordekai\u2019s lair, and find the fate of Varn Thorne."
-  content:
-    text: ' \ud83c\udfa7 Listened to Kingmaker Session 51 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
-- type: entry
   published: "2019-04-24T08:53:51+00:00"
   category:
   - scrobble
@@ -45,4 +25,24 @@
   content:
     text: ' \ud83c\udfa7 Listened to The Past & Future Of Section 230 by Techdirt
       From Techdirt'
+- type: entry
+  published: "2019-04-24T01:21:15+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_51.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_51.mp3
+      name: Kingmaker Session 51
+      author: Hal
+      content: "Episode 51 \u2013 in which Kaylen and Michaela face a complex trap
+        in Vordekai\u2019s lair, and find the fate of Varn Thorne."
+  content:
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 51 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
 ...

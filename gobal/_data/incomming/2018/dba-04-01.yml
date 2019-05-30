@@ -1,57 +1,5 @@
 ---
 - type: entry
-  published: "2018-04-01T09:54:13+00:00"
-  category:
-  - scrobble
-  - audio
-  - Jason Scott Talks His Way Out of It
-  - Jason Scott
-  listen-of:
-    h-cite:
-      url: http://textfiles.libsyn.com/rss
-      photo: ""
-      audio:
-      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_24.mp3?dest-id=574323
-      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Indexing_Episode.mp3
-      name: The Indexing Episode
-      author: Jason Scott
-      content: "The Indexing Episode: The Most Critical Emotional Story, Our Digital
-        History, Any Label Will Do, The Works Before The Works, The Indexes We Build,
-        David W. Niven, Crap From The Past, Who Is This For, A Straighter Spine.\r\n\r\nThe
-        David W. Niven Collection: https://archive.org/details/davidwnivenjazz\r\n\r\nCrap
-        From The Past: https://archive.org/details/crapfromthepast\r\n\r\nThanks for
-        all your feedback and insight. I will continue to refine the subject matter!"
-  content:
-    text: ' \ud83c\udfa7 Listened to The Indexing Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
-- type: entry
-  published: "2018-04-01T12:57:22+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/337031141-techdirt-these-scammers-picked-the-wrong-guy.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/337031141-techdirt-these-scammers-picked-the-wrong-guy.mp3
-      name: These Scammers Picked The Wrong Guy
-      author: Techdirt
-      content: "If you're a fan of the Reply All podcast, then you're probably still
-        processing the story they told in a recent two-part episode about the insane
-        lengths that host Alex Goldman went to track down a phone scammer. If you
-        haven't heard the story, and you think you've seen all there is to see on
-        the \"messing with scammers\" front... well, you're in for a surprise. We
-        strongly suggest you listen to the Reply All story first \u2014 then listen
-        to our conversation with Alex about the whole saga on this week's episode
-        of the Techdirt Podcast.\r\n\r\nReply All Episode 102, \"Long Distance\" -
-        https://gimletmedia.com/episode/long-distance/"
-  content:
-    text: ' \ud83c\udfa7 Listened to These Scammers Picked The Wrong Guy by Techdirt
-      From Techdirt'
-- type: entry
   published: "2018-04-01T10:05:50+00:00"
   category:
   - scrobble
@@ -100,4 +48,56 @@
   content:
     text: ' \ud83c\udfa7 Listened to The Problems With SESTA And Why Section 230 Matters
       by Techdirt From Techdirt'
+- type: entry
+  published: "2018-04-01T12:57:22+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/337031141-techdirt-these-scammers-picked-the-wrong-guy.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/337031141-techdirt-these-scammers-picked-the-wrong-guy.mp3
+      name: These Scammers Picked The Wrong Guy
+      author: Techdirt
+      content: "If you're a fan of the Reply All podcast, then you're probably still
+        processing the story they told in a recent two-part episode about the insane
+        lengths that host Alex Goldman went to track down a phone scammer. If you
+        haven't heard the story, and you think you've seen all there is to see on
+        the \"messing with scammers\" front... well, you're in for a surprise. We
+        strongly suggest you listen to the Reply All story first \u2014 then listen
+        to our conversation with Alex about the whole saga on this week's episode
+        of the Techdirt Podcast.\r\n\r\nReply All Episode 102, \"Long Distance\" -
+        https://gimletmedia.com/episode/long-distance/"
+  content:
+    text: ' \ud83c\udfa7 Listened to These Scammers Picked The Wrong Guy by Techdirt
+      From Techdirt'
+- type: entry
+  published: "2018-04-01T09:54:13+00:00"
+  category:
+  - scrobble
+  - audio
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
+  listen-of:
+    h-cite:
+      url: http://textfiles.libsyn.com/rss
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_24.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Indexing_Episode.mp3
+      name: The Indexing Episode
+      author: Jason Scott
+      content: "The Indexing Episode: The Most Critical Emotional Story, Our Digital
+        History, Any Label Will Do, The Works Before The Works, The Indexes We Build,
+        David W. Niven, Crap From The Past, Who Is This For, A Straighter Spine.\r\n\r\nThe
+        David W. Niven Collection: https://archive.org/details/davidwnivenjazz\r\n\r\nCrap
+        From The Past: https://archive.org/details/crapfromthepast\r\n\r\nThanks for
+        all your feedback and insight. I will continue to refine the subject matter!"
+  content:
+    text: ' \ud83c\udfa7 Listened to The Indexing Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
 ...

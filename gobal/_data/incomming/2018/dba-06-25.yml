@@ -1,49 +1,5 @@
 ---
 - type: entry
-  published: "2018-06-25T04:26:31+00:00"
-  category:
-  - scrobble
-  - audio
-  - BitJam Podcast
-  - []
-  listen-of:
-    h-cite:
-      url: http://www.bitfellas.org/podcast/podcast.xml
-      photo: ""
-      audio:
-      - http://files.exotica.org.uk/?http&mname=h18http&file=bitfellas/podcast/bitjam_217.mp3
-      - http://archive.org/download/BitJam_Podcast-by-Array/
-      name: 'BitJam Episode #217 - Evoke is 20 - Best of Selection'
-      author: []
-      content: "Episode #217 \u2013 Best of Evoke\r\nEvoke is 20 this year, so here
-        comes another selection with our favourite tracks.\r\n\r\nMixed by Vincenzo,
-        logo by Oni, compiled by Teo"
-  content:
-    text: ' \ud83c\udfa7 Listened to BitJam Episode #217 - Evoke is 20 - Best of Selection
-      by Array From BitJamPodcast'
-- type: entry
-  published: "2018-06-25T03:09:12+00:00"
-  category:
-  - scrobble
-  - audio
-  - BitJam Podcast
-  - []
-  listen-of:
-    h-cite:
-      url: http://www.bitfellas.org/podcast/podcast.xml
-      photo: ""
-      audio:
-      - http://files.exotica.org.uk/?http&mname=h18http&file=bitfellas/podcast/bitjam_218.mp3
-      - http://archive.org/download/BitJam_Podcast-by-Array/
-      name: 'BitJam Episode #218 - 2016 In The Mix - Demo Tracks'
-      author: []
-      content: "Episode #218 \u2013 2016 In The Mix - Demo Tracks\r\nBitJam Podcast
-        is back with the In The Mix series. Tune in and enjoy Demo Tracks from the
-        year 2016.\r\n\r\nMixed and compiled by Salinga, logo by KF"
-  content:
-    text: ' \ud83c\udfa7 Listened to BitJam Episode #218 - 2016 In The Mix - Demo
-      Tracks by Array From BitJamPodcast'
-- type: entry
   published: "2018-06-25T06:04:38+00:00"
   category:
   - scrobble
@@ -72,5 +28,49 @@
         by Vincenzo, logo by Oni, compiled by Bobic"
   content:
     text: ' \ud83c\udfa7 Listened to BitJam Episode #215 - Evoke is 20 - Compotracks
+      by Array From BitJamPodcast'
+- type: entry
+  published: "2018-06-25T03:09:12+00:00"
+  category:
+  - scrobble
+  - audio
+  - BitJam Podcast
+  - []
+  listen-of:
+    h-cite:
+      url: http://www.bitfellas.org/podcast/podcast.xml
+      photo: ""
+      audio:
+      - http://files.exotica.org.uk/?http&mname=h18http&file=bitfellas/podcast/bitjam_218.mp3
+      - http://archive.org/download/BitJam_Podcast-by-Array/
+      name: 'BitJam Episode #218 - 2016 In The Mix - Demo Tracks'
+      author: []
+      content: "Episode #218 \u2013 2016 In The Mix - Demo Tracks\r\nBitJam Podcast
+        is back with the In The Mix series. Tune in and enjoy Demo Tracks from the
+        year 2016.\r\n\r\nMixed and compiled by Salinga, logo by KF"
+  content:
+    text: ' \ud83c\udfa7 Listened to BitJam Episode #218 - 2016 In The Mix - Demo
+      Tracks by Array From BitJamPodcast'
+- type: entry
+  published: "2018-06-25T04:26:31+00:00"
+  category:
+  - scrobble
+  - audio
+  - BitJam Podcast
+  - []
+  listen-of:
+    h-cite:
+      url: http://www.bitfellas.org/podcast/podcast.xml
+      photo: ""
+      audio:
+      - http://files.exotica.org.uk/?http&mname=h18http&file=bitfellas/podcast/bitjam_217.mp3
+      - http://archive.org/download/BitJam_Podcast-by-Array/
+      name: 'BitJam Episode #217 - Evoke is 20 - Best of Selection'
+      author: []
+      content: "Episode #217 \u2013 Best of Evoke\r\nEvoke is 20 this year, so here
+        comes another selection with our favourite tracks.\r\n\r\nMixed by Vincenzo,
+        logo by Oni, compiled by Teo"
+  content:
+    text: ' \ud83c\udfa7 Listened to BitJam Episode #217 - Evoke is 20 - Best of Selection
       by Array From BitJamPodcast'
 ...

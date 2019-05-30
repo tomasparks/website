@@ -1,5 +1,37 @@
 ---
 - type: entry
+  published: "2018-12-31T19:37:36+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/UmLJraFTR0U/media.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/186_TheGlobecom_Story_with_Stephan_Paternot.mp3
+      name: 186. TheGlobe.com Story with Stephan Paternot
+      author: Brian McCullough @brianmcc
+      content: "I said in the book, I think TheGlobe.com was the quintessential dot-com
+        company. We spoke to one of the cofounders previously, Todd Krizelman. Todd
+        was great, but he was time constrained and he didn\u2019t quite get as personal
+        about the story as I would have hoped. Well, I finally got to talk to the
+        other founder of TheGlobe, Stephan Paternot. And Stephan was\u2026 AMAZING.
+        He shared the whole story, the whole wild ride, from a historical angle, from
+        a business angle, from an entrepreneurial angle and also, from a very personal
+        angle. THIS the dot-com era story I\u2019ve been looking for for years. It\u2019s
+        also the story of probably the most important pioneer of social media before
+        there was even a term for such a thing. And by the way\u2026 that TV Show
+        that just came out on NAT GEO, Valley of the Boom? THIS IS THAT STORY. Stephan
+        just re-released his book, A Very Public Offering: The Story of theglobe.com
+        and the First Internet Revolution."
+  content:
+    text: ' \ud83c\udfa7 Listened to 186. TheGlobe.com Story with Stephan Paternot
+      by Brian McCullough @brianmcc From Internet History Podcast'
+- type: entry
   published: "2018-12-31T06:57:41+00:00"
   category:
   - scrobble
@@ -49,36 +81,4 @@
   content:
     text: ' \ud83c\udfa7 Listened to The Leisure Suit Larry Episode by @textfiles
       From #JasonScottTalksHisWayOutofIt'
-- type: entry
-  published: "2018-12-31T19:37:36+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough @brianmcc
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/UmLJraFTR0U/media.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/186_TheGlobecom_Story_with_Stephan_Paternot.mp3
-      name: 186. TheGlobe.com Story with Stephan Paternot
-      author: Brian McCullough @brianmcc
-      content: "I said in the book, I think TheGlobe.com was the quintessential dot-com
-        company. We spoke to one of the cofounders previously, Todd Krizelman. Todd
-        was great, but he was time constrained and he didn\u2019t quite get as personal
-        about the story as I would have hoped. Well, I finally got to talk to the
-        other founder of TheGlobe, Stephan Paternot. And Stephan was\u2026 AMAZING.
-        He shared the whole story, the whole wild ride, from a historical angle, from
-        a business angle, from an entrepreneurial angle and also, from a very personal
-        angle. THIS the dot-com era story I\u2019ve been looking for for years. It\u2019s
-        also the story of probably the most important pioneer of social media before
-        there was even a term for such a thing. And by the way\u2026 that TV Show
-        that just came out on NAT GEO, Valley of the Boom? THIS IS THAT STORY. Stephan
-        just re-released his book, A Very Public Offering: The Story of theglobe.com
-        and the First Internet Revolution."
-  content:
-    text: ' \ud83c\udfa7 Listened to 186. TheGlobe.com Story with Stephan Paternot
-      by Brian McCullough @brianmcc From Internet History Podcast'
 ...

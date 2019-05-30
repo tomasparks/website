@@ -1,5 +1,31 @@
 ---
 - type: entry
+  published: "2018-06-11T15:10:19+00:00"
+  category:
+  - scrobble
+  - audio
+  - clevercast
+  - Jonathan LaCour
+  listen-of:
+    h-cite:
+      url: http://cleverca.st/podcast.xml
+      photo: ""
+      audio:
+      - http://cleverca.st/uploads/2018/c6b019d351.mp3
+      - http://archive.org/download/clevercast-by-Jonathan_LaCour/c6b019d351.mp3
+      name: 'Episode 7: Owning My Location'
+      author: Jonathan LaCour
+      content: "In this episode, I talk a bit about building out a location tracking
+        service for my own personal use, and some new features for my website that
+        I built on top of it. This is another dive into the world of \u201Cserverless
+        computing,\u201D which I am having a blast with.\n\nSome links from today\u2019s
+        show:\n\n\n  Swarm\n  Aaron Parecki\u2019s OwnYourSwarm\n  Aaron Parecki\u2019s
+        Overland iOS app\n  Zappa - Serverless Python Web Services\n  Amazon Athena\n
+        \ My \u201Cnow\u201D page\n  My \u201Cmap\u201D page\n\n\nEnjoy!\n\n\n\n"
+  content:
+    text: ' \ud83c\udfa7 Listened to Episode 7: Owning My Location by Jonathan LaCour
+      From clevercast'
+- type: entry
   published: "2018-06-11T15:06:29+00:00"
   category:
   - scrobble
@@ -28,32 +54,6 @@
   content:
     text: ' \ud83c\udfa7 Listened to Ep. 18: Strike True (The Galaderon Saga) by HeadGum
       From Not Another D&D Podcast'
-- type: entry
-  published: "2018-06-11T15:10:19+00:00"
-  category:
-  - scrobble
-  - audio
-  - clevercast
-  - Jonathan LaCour
-  listen-of:
-    h-cite:
-      url: http://cleverca.st/podcast.xml
-      photo: ""
-      audio:
-      - http://cleverca.st/uploads/2018/c6b019d351.mp3
-      - http://archive.org/download/clevercast-by-Jonathan_LaCour/c6b019d351.mp3
-      name: 'Episode 7: Owning My Location'
-      author: Jonathan LaCour
-      content: "In this episode, I talk a bit about building out a location tracking
-        service for my own personal use, and some new features for my website that
-        I built on top of it. This is another dive into the world of \u201Cserverless
-        computing,\u201D which I am having a blast with.\n\nSome links from today\u2019s
-        show:\n\n\n  Swarm\n  Aaron Parecki\u2019s OwnYourSwarm\n  Aaron Parecki\u2019s
-        Overland iOS app\n  Zappa - Serverless Python Web Services\n  Amazon Athena\n
-        \ My \u201Cnow\u201D page\n  My \u201Cmap\u201D page\n\n\nEnjoy!\n\n\n\n"
-  content:
-    text: ' \ud83c\udfa7 Listened to Episode 7: Owning My Location by Jonathan LaCour
-      From clevercast'
 - type: entry
   published: "2018-06-11T16:03:54+00:00"
   category:

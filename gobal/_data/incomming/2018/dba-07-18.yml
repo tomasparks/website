@@ -1,26 +1,25 @@
 ---
 - type: entry
-  published: "2018-07-18T00:04:08+00:00"
+  published: "2018-07-18T00:38:47+00:00"
   category:
   - scrobble
   - audio
-  - RPGMP3 Actual Play Podcast
-  - Hal
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
   listen-of:
     h-cite:
-      url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
       photo: ""
       audio:
-      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/lost_and_forgotten_session_03.mp3
-      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/lost_and_forgotten_session_03.mp3
-      name: Lost and Forgotten Session 03
-      author: Hal
-      content: "Episode 3 \u2013 in which our castaways make friends and enemies,
-        track down a cannibal\_village and find alcohol and drugs. Life on the island
-        is improving\u2026"
+      - http://mpegmedia.abc.net.au/rn/podcast/2018/07/gms_20180717.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Daddy_long_legs.mp3
+      name: Daddy long legs
+      author: ABC Radio National
+      content: 'Fact or fiction: Daddy-long-legs are the most poisonous spiders in
+        the world?'
   content:
-    text: ' \ud83c\udfa7 Listened to Lost and Forgotten Session 03 by @rpgmp3 From
-      #RPGMP3ActualPlayPodcast'
+    text: ' \ud83c\udfa7 Listened to Daddy long legs by ABC Radio National From Great
+      Moments In Science - with Dr Karl Kruszelnicki'
 - type: entry
   published: "2018-07-18T00:57:09+00:00"
   category:
@@ -46,26 +45,27 @@
     text: ' \ud83c\udfa7 Listened to Micro Monday - 18: @EddieHinkle by Array From
       indieweb on Huffduffer'
 - type: entry
-  published: "2018-07-18T00:38:47+00:00"
+  published: "2018-07-18T00:04:08+00:00"
   category:
   - scrobble
   - audio
-  - Great Moments In Science - with Dr Karl Kruszelnicki
-  - ABC Radio National
+  - RPGMP3 Actual Play Podcast
+  - Hal
   listen-of:
     h-cite:
-      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2018/07/gms_20180717.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Daddy_long_legs.mp3
-      name: Daddy long legs
-      author: ABC Radio National
-      content: 'Fact or fiction: Daddy-long-legs are the most poisonous spiders in
-        the world?'
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/lost_and_forgotten_session_03.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/lost_and_forgotten_session_03.mp3
+      name: Lost and Forgotten Session 03
+      author: Hal
+      content: "Episode 3 \u2013 in which our castaways make friends and enemies,
+        track down a cannibal\_village and find alcohol and drugs. Life on the island
+        is improving\u2026"
   content:
-    text: ' \ud83c\udfa7 Listened to Daddy long legs by ABC Radio National From Great
-      Moments In Science - with Dr Karl Kruszelnicki'
+    text: ' \ud83c\udfa7 Listened to Lost and Forgotten Session 03 by @rpgmp3 From
+      #RPGMP3ActualPlayPodcast'
 - type: entry
   published: "2018-07-18T02:20:50+00:00"
   category:

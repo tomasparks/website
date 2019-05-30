@@ -1,5 +1,29 @@
 ---
 - type: entry
+  published: "2018-06-13T15:34:57+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/457460136-techdirt-are-e-scooters-a-problem.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/457460136-techdirt-are-e-scooters-a-problem.mp3
+      name: Are E-Scooters A Problem?
+      author: Techdirt
+      content: The latest entrant on the decentralized transportation scene is the
+        suddenly-ubiquitous electric scooters that are taking over San Francisco and
+        other cities. Their appearance has triggered the inevitable controversy, with
+        some saying they are ruining cities while others laud their convenience for
+        urbanites. And, of course, a regulatory battle wasn't far behind. On this
+        week's episode, we discuss the e-scooter trend and its many pros and cons.
+  content:
+    text: ' \ud83c\udfa7 Listened to Are E-Scooters A Problem? by Techdirt From Techdirt'
+- type: entry
   published: "2018-06-13T09:59:10+00:00"
   category:
   - scrobble
@@ -80,28 +104,4 @@
     text: " \\ud83c\\udfa7 Listened to Announcing \u201CPetard,\u201D a new science
       fiction story reading on my podcast by Cory Doctorow From Podcast \u2013 Cory
       Doctorow's craphound.com"
-- type: entry
-  published: "2018-06-13T15:34:57+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/457460136-techdirt-are-e-scooters-a-problem.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/457460136-techdirt-are-e-scooters-a-problem.mp3
-      name: Are E-Scooters A Problem?
-      author: Techdirt
-      content: The latest entrant on the decentralized transportation scene is the
-        suddenly-ubiquitous electric scooters that are taking over San Francisco and
-        other cities. Their appearance has triggered the inevitable controversy, with
-        some saying they are ruining cities while others laud their convenience for
-        urbanites. And, of course, a regulatory battle wasn't far behind. On this
-        week's episode, we discuss the e-scooter trend and its many pros and cons.
-  content:
-    text: ' \ud83c\udfa7 Listened to Are E-Scooters A Problem? by Techdirt From Techdirt'
 ...
