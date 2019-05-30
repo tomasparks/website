@@ -1,0 +1,43 @@
+---
+- type: entry
+  published: "2019-05-26T15:07:19+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://rpgmp3.com/v5/feed/podcast/
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/Kingmaker_Session_75.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/Kingmaker_Session_75.mp3
+      name: Kingmaker Session 75
+      author: Hal
+      content: "Episode 75 \u2013 in which Korwin and Kaylen take on King Drelev\u2019s
+        job and patrol his kingdom for monsters to slay. Originally recorded 15 July
+        2018."
+  content:
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 75 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+- type: entry
+  published: "2019-05-26T20:31:35+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://rpgmp3.com/v5/feed/podcast/
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/Kingmaker_Session_76.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/Kingmaker_Session_76.mp3
+      name: Kingmaker Session 76
+      author: Hal
+      content: "Episode 76 \u2013 in which Bryn and Kaylen throw down with a seven
+        on the Gygax-weird-monster-o-meter. Originally recorded 19 July 2018."
+  content:
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 76 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+...

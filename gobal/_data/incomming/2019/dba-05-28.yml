@@ -1,0 +1,42 @@
+---
+- type: entry
+  published: "2019-05-28T20:56:02+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://rpgmp3.com/v5/feed/podcast/
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/Kingmaker_Session_80.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/Kingmaker_Session_80.mp3
+      name: Kingmaker Session 80
+      author: Hal
+      content: In which Kaylen faces Malgorazata Niska and Armag Twice-Born. Which
+        of the duo is a bigger threat to Stagthorn? Originally recorded 4 August 2018.
+  content:
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 80 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+- type: entry
+  published: "2019-05-28T00:30:16+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://rpgmp3.com/v5/feed/podcast/
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/Kingmaker_Session_79.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/Kingmaker_Session_79.mp3
+      name: Kingmaker Session 79
+      author: Hal
+      content: "Episode 79 \u2013 in which Kaylen Tests His Might against Gorum\u2019s
+        Herald. Originally recorded 30 July 2018."
+  content:
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 79 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+...

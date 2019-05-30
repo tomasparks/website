@@ -1,0 +1,48 @@
+---
+- type: entry
+  published: "2019-05-29T09:59:10+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/628035237-techdirt-what-if-congress-actually-understood-technology.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/628035237-techdirt-what-if-congress-actually-understood-technology.mp3
+      name: What If Congress Actually Understood Technology?
+      author: Techdirt
+      content: "Once upon a time, there was something called the Office of Technology
+        Assessment, charged with the critical if unenviable task of educating members
+        of congress about issues related to technology. Since that seems like a pretty
+        good thing to have, recently some people have been pushing to re-establish
+        the office. This week, we're joined by two of those people \u2014 Daniel Schuman
+        from Demand Progress and returning guest Zach Graves from the Lincoln Network
+        \u2014 for a discussion about bringing back the OTA."
+  content:
+    text: ' \ud83c\udfa7 Listened to What If Congress Actually Understood Technology?
+      by Techdirt From Techdirt'
+- type: entry
+  published: "2019-05-29T14:35:50+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://rpgmp3.com/v5/feed/podcast/
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/Kingmaker_Session_81.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/Kingmaker_Session_81.mp3
+      name: Kingmaker Session 81
+      author: Hal
+      content: In which Kaylen passes the trial and lives the lie. Kaylen Twice-Born
+        will never die. Originally recorded 9 August 2018.
+  content:
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 81 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+...

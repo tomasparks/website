@@ -1,0 +1,44 @@
+---
+- type: entry
+  published: "2019-05-30T01:52:51+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://rpgmp3.com/v5/feed/podcast/
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/Kingmaker_Session_82.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/Kingmaker_Session_82.mp3
+      name: Kingmaker Session 82
+      author: Hal
+      content: "Episode 82 \u2013 in which Niska\u2019s last surprise endeavours to
+        consume Svetlana and Varn. Can hate ever truly die? Starring:- Helen as Varn
+        Thorne, Second Son of House Thorne and Aldori Swordlord Jared as Svetlana
+        Leveton, Ex-cultist of Gyronna"
+  content:
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 82 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+- type: entry
+  published: "2019-05-30T16:35:35+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://rpgmp3.com/v5/feed/podcast/
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_83.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_83.mp3
+      name: Kingmaker Session 83
+      author: Hal
+      content: "To the Boneyard they must go\u2026 to face each man\u2019s final foe.
+        Originally recorded 21 August 2018."
+  content:
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 83 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+...
