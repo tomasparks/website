@@ -1,0 +1,63 @@
+---
+- type: entry
+  published: "2019-05-31T02:17:20+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://rpgmp3.com/v5/feed/podcast/
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_85.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_85.mp3
+      name: Kingmaker Session 85
+      author: Hal
+      content: In which we finally return to kingdom turns, and Svetlana proves the
+        fireball is mightier than the giant. Originally recorded 14 September 2018
+  content:
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 85 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+- type: entry
+  published: "2019-05-31T03:42:30+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl Podcast
+  - triple j
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/radio/triplej/audio/scienceontriplej20190530.mp3
+      - http://archive.org/download/Dr_Karl_Podcast-by-triple_j/Generic_faces_slushie_beers_and_5G.mp3
+      name: Generic faces, slushie beers and 5G
+      author: triple j
+      content: "Does spraying deodorant in your pits effect your health? Why don't
+        I dream? How can I tell if I'm a loud chewer?\n                    \n                "
+  content:
+    text: ' \ud83c\udfa7 Listened to Generic faces, slushie beers and 5G by triple
+      j From Dr Karl Podcast'
+- type: entry
+  published: "2019-05-31T03:06:07+00:00"
+  category:
+  - scrobble
+  - audio
+  - 5 live Science Podcast
+  - BBC Radio 5 live
+  listen-of:
+    h-cite:
+      url: http://podcasts.files.bbci.co.uk/p02pc9ny.rss
+      photo: ""
+      audio:
+      - http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07bqcp3.mp3
+      - http://archive.org/download/5_live_Science_Podcast-by-BBC_Radio_5_live/p07bqcp3.mp3
+      name: Dr Karl
+      author: BBC Radio 5 live
+      content: Rhod and Dr Karl answer questions about red cars, the amazon and the
+        universe.
+  content:
+    text: ' \ud83c\udfa7 Listened to Dr Karl by @bbc5live From 5 live Science Podcast'
+...
