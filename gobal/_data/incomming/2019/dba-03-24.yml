@@ -1,29 +1,5 @@
 ---
 - type: entry
-  published: "2019-03-24T06:08:41+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - https://media.acast.com/internethistorypodcast/192.hulusfoundinganddigitaldesignwithdanmaccarone/media.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/192_Hulus_Founding_and_Digital_Design_With_Dan_Maccarone.mp3
-      name: 192. Hulu's Founding and Digital Design With Dan Maccarone
-      author: Brian McCullough
-      content: Dan Maccarone is a digital design veteran, websites, products, strategy.
-        He's got some amazing stories about the dotcom bubble, about the aftermath,
-        and the rise of Web 2.0. He shares some unique design lessons but also, the
-        story of the birth of Hulu, which I don't think has really been covered anywhere
-        before.
-  content:
-    text: ' \ud83c\udfa7 Listened to 192. Hulu''s Founding and Digital Design With
-      Dan Maccarone by Brian McCullough From Internet History Podcast'
-- type: entry
   published: "2019-03-24T08:09:26+00:00"
   category:
   - scrobble
@@ -44,6 +20,64 @@
         raided."
   content:
     text: ' \ud83c\udfa7 Listened to Kingmaker Session 11 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+- type: entry
+  published: "2019-03-24T03:57:54+00:00"
+  category:
+  - scrobble
+  - audio
+  - IRL - Online Life Is Real Life
+  - Mozilla
+  listen-of:
+    h-cite:
+      url: https://feeds.mozilla-podcasts.org/irl
+      photo: ""
+      audio:
+      - https://tracking.feedpress.it/link/17512/11079825/857f7522.mp3
+      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/857f7522.mp3
+      name: Decentralize It
+      author: Mozilla
+      content: "Some people believe that decentralization is the inevitable future
+        of the web. They believe that internet users will start to demand more privacy
+        and authenticity of information online and that they\u2019ll look to decentralized
+        platforms to get those things. But would decentralization be as utopian as
+        advocates say it could be?\n\nHost Manoush Zomorodi  speaks to Eugen Rochko
+        of Mastodon, an ad-free alternative to Twitter; Justin Hunter of Graphite
+        docs, a decentralized alternative to GoogleDocs; Maria Bustillos who hopes
+        to help eliminate fake news online through the Blockchain; David Irvine, the
+        co-founder of MaidSafe who plans to make the centralized internet as we know
+        it redundant; and Tom Simonite of WIRED, who comments on both the promise
+        and also the pitfalls of decentralization.\n\nIRL is an original podcast from
+        Mozilla, maker of Firefox and always fighting for you. For more on the series
+        go to irlpodcast.org\n"
+  content:
+    text: ' \ud83c\udfa7 Listened to Decentralize It by Mozilla From IRL - Online
+      Life Is Real Life'
+- type: entry
+  published: "2019-03-24T03:04:25+00:00"
+  category:
+  - scrobble
+  - audio
+  - IRL - Online Life Is Real Life
+  - Mozilla
+  listen-of:
+    h-cite:
+      url: https://feeds.mozilla-podcasts.org/irl
+      photo: ""
+      audio:
+      - https://tracking.feedpress.it/link/17512/11000823/2f129d69.mp3
+      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/2f129d69.mp3
+      name: The Human Costs of Content Moderation
+      author: Mozilla
+      content: "What, if anything, should be banned from online media? And who should
+        review violent and explicit content, in order to decide if it\u2019s okay
+        for the public? Thousands of people around the world are working long, difficult
+        hours as content moderators in support of sites like Facebook, Twitter, and
+        YouTube. They are guided by complex and shifting guidelines, and their work
+        can sometimes lead to psychological trauma. But the practice of content moderation
+        also raises questions about censorship and free expression online.\n"
+  content:
+    text: ' \ud83c\udfa7 Listened to The Human Costs of Content Moderation by Mozilla
+      From IRL - Online Life Is Real Life'
 - type: entry
   published: "2019-03-24T06:34:09+00:00"
   category:
@@ -76,32 +110,6 @@
         and tells us why diversifying the boardroom is great for business and innovation.\n"
   content:
     text: ' \ud83c\udfa7 Listened to What if women built the internet? by Mozilla
-      From IRL - Online Life Is Real Life'
-- type: entry
-  published: "2019-03-24T03:04:25+00:00"
-  category:
-  - scrobble
-  - audio
-  - IRL - Online Life Is Real Life
-  - Mozilla
-  listen-of:
-    h-cite:
-      url: https://feeds.mozilla-podcasts.org/irl
-      photo: ""
-      audio:
-      - https://tracking.feedpress.it/link/17512/11000823/2f129d69.mp3
-      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/2f129d69.mp3
-      name: The Human Costs of Content Moderation
-      author: Mozilla
-      content: "What, if anything, should be banned from online media? And who should
-        review violent and explicit content, in order to decide if it\u2019s okay
-        for the public? Thousands of people around the world are working long, difficult
-        hours as content moderators in support of sites like Facebook, Twitter, and
-        YouTube. They are guided by complex and shifting guidelines, and their work
-        can sometimes lead to psychological trauma. But the practice of content moderation
-        also raises questions about censorship and free expression online.\n"
-  content:
-    text: ' \ud83c\udfa7 Listened to The Human Costs of Content Moderation by Mozilla
       From IRL - Online Life Is Real Life'
 - type: entry
   published: "2019-03-24T03:32:37+00:00"
@@ -137,38 +145,6 @@
     text: ' \ud83c\udfa7 Listened to The Surveillance Economy by Mozilla From IRL
       - Online Life Is Real Life'
 - type: entry
-  published: "2019-03-24T03:57:54+00:00"
-  category:
-  - scrobble
-  - audio
-  - IRL - Online Life Is Real Life
-  - Mozilla
-  listen-of:
-    h-cite:
-      url: https://feeds.mozilla-podcasts.org/irl
-      photo: ""
-      audio:
-      - https://tracking.feedpress.it/link/17512/11079825/857f7522.mp3
-      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/857f7522.mp3
-      name: Decentralize It
-      author: Mozilla
-      content: "Some people believe that decentralization is the inevitable future
-        of the web. They believe that internet users will start to demand more privacy
-        and authenticity of information online and that they\u2019ll look to decentralized
-        platforms to get those things. But would decentralization be as utopian as
-        advocates say it could be?\n\nHost Manoush Zomorodi  speaks to Eugen Rochko
-        of Mastodon, an ad-free alternative to Twitter; Justin Hunter of Graphite
-        docs, a decentralized alternative to GoogleDocs; Maria Bustillos who hopes
-        to help eliminate fake news online through the Blockchain; David Irvine, the
-        co-founder of MaidSafe who plans to make the centralized internet as we know
-        it redundant; and Tom Simonite of WIRED, who comments on both the promise
-        and also the pitfalls of decentralization.\n\nIRL is an original podcast from
-        Mozilla, maker of Firefox and always fighting for you. For more on the series
-        go to irlpodcast.org\n"
-  content:
-    text: ' \ud83c\udfa7 Listened to Decentralize It by Mozilla From IRL - Online
-      Life Is Real Life'
-- type: entry
   published: "2019-03-24T02:36:08+00:00"
   category:
   - scrobble
@@ -200,4 +176,28 @@
   content:
     text: ' \ud83c\udfa7 Listened to TL;DR by Mozilla From IRL - Online Life Is Real
       Life'
+- type: entry
+  published: "2019-03-24T06:08:41+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - https://media.acast.com/internethistorypodcast/192.hulusfoundinganddigitaldesignwithdanmaccarone/media.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/192_Hulus_Founding_and_Digital_Design_With_Dan_Maccarone.mp3
+      name: 192. Hulu's Founding and Digital Design With Dan Maccarone
+      author: Brian McCullough
+      content: Dan Maccarone is a digital design veteran, websites, products, strategy.
+        He's got some amazing stories about the dotcom bubble, about the aftermath,
+        and the rise of Web 2.0. He shares some unique design lessons but also, the
+        story of the birth of Hulu, which I don't think has really been covered anywhere
+        before.
+  content:
+    text: ' \ud83c\udfa7 Listened to 192. Hulu''s Founding and Digital Design With
+      Dan Maccarone by Brian McCullough From Internet History Podcast'
 ...

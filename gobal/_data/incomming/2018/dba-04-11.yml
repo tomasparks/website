@@ -25,6 +25,48 @@
     text: ' \ud83c\udfa7 Listened to Can The Blockchain Save Publishers? by Techdirt
       From Techdirt'
 - type: entry
+  published: "2018-04-11T15:23:03+00:00"
+  category:
+  - scrobble
+  - audio
+  - Adam Ruins Everything
+  - Adam Ruins Everything
+  listen-of:
+    h-cite:
+      url: http://maximumfun.org/feeds/are.xml
+      photo: ""
+      audio:
+      - http://media.adknit.com/a/f/90/adam-ruins-everything/6xyzx9.1-1.mp3
+      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_31_Courtney_Jung_on_the_History_of_Formula_Feeding_and_Why_It_Gets_a_Bad_Rap.mp3
+      name: 'Ep 31: Courtney Jung on the History of Formula Feeding and Why It Gets
+        a Bad Rap'
+      author: Adam Ruins Everything
+      content: "\_"
+  content:
+    text: ' \ud83c\udfa7 Listened to Ep 31: Courtney Jung on the History of Formula
+      Feeding and Why It Gets a Bad Rap by Adam Ruins Everything From Adam Ruins Everything'
+- type: entry
+  published: "2018-04-11T18:47:20+00:00"
+  category:
+  - scrobble
+  - audio
+  - Adam Ruins Everything
+  - Adam Ruins Everything
+  listen-of:
+    h-cite:
+      url: http://maximumfun.org/feeds/are.xml
+      photo: ""
+      audio:
+      - http://media.adknit.com/a/f/90/adam-ruins-everything/yymb9o.1-1.mp3
+      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_29_Pete_Hammond_Pulls_Back_the_Curtain_on_Awards_Shows.mp3
+      name: 'Ep 29: Pete Hammond Pulls Back the Curtain on Awards Shows'
+      author: Adam Ruins Everything
+      content: On Adam Ruins Hollywood, Pete Hammond explained how behind every award
+        show is a whole lot of campaigning.
+  content:
+    text: ' \ud83c\udfa7 Listened to Ep 29: Pete Hammond Pulls Back the Curtain on
+      Awards Shows by Adam Ruins Everything From Adam Ruins Everything'
+- type: entry
   published: "2018-04-11T16:42:47+00:00"
   category:
   - scrobble
@@ -48,27 +90,6 @@
       of Immigrations Courts and Detention Centers by Adam Ruins Everything From Adam
       Ruins Everything'
 - type: entry
-  published: "2018-04-11T15:23:03+00:00"
-  category:
-  - scrobble
-  - audio
-  - Adam Ruins Everything
-  - Adam Ruins Everything
-  listen-of:
-    h-cite:
-      url: http://maximumfun.org/feeds/are.xml
-      photo: ""
-      audio:
-      - http://media.adknit.com/a/f/90/adam-ruins-everything/6xyzx9.1-1.mp3
-      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_31_Courtney_Jung_on_the_History_of_Formula_Feeding_and_Why_It_Gets_a_Bad_Rap.mp3
-      name: 'Ep 31: Courtney Jung on the History of Formula Feeding and Why It Gets
-        a Bad Rap'
-      author: Adam Ruins Everything
-      content: "\_"
-  content:
-    text: ' \ud83c\udfa7 Listened to Ep 31: Courtney Jung on the History of Formula
-      Feeding and Why It Gets a Bad Rap by Adam Ruins Everything From Adam Ruins Everything'
-- type: entry
   published: "2018-04-11T19:58:44+00:00"
   category:
   - scrobble
@@ -89,25 +110,4 @@
   content:
     text: ' \ud83c\udfa7 Listened to Ep 28: Jean Twenge and Adam Discuss Their Differences
       on Generational Differences by Adam Ruins Everything From Adam Ruins Everything'
-- type: entry
-  published: "2018-04-11T18:47:20+00:00"
-  category:
-  - scrobble
-  - audio
-  - Adam Ruins Everything
-  - Adam Ruins Everything
-  listen-of:
-    h-cite:
-      url: http://maximumfun.org/feeds/are.xml
-      photo: ""
-      audio:
-      - http://media.adknit.com/a/f/90/adam-ruins-everything/yymb9o.1-1.mp3
-      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_29_Pete_Hammond_Pulls_Back_the_Curtain_on_Awards_Shows.mp3
-      name: 'Ep 29: Pete Hammond Pulls Back the Curtain on Awards Shows'
-      author: Adam Ruins Everything
-      content: On Adam Ruins Hollywood, Pete Hammond explained how behind every award
-        show is a whole lot of campaigning.
-  content:
-    text: ' \ud83c\udfa7 Listened to Ep 29: Pete Hammond Pulls Back the Curtain on
-      Awards Shows by Adam Ruins Everything From Adam Ruins Everything'
 ...

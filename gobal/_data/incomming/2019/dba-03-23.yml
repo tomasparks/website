@@ -1,5 +1,32 @@
 ---
 - type: entry
+  published: "2019-03-23T10:38:47+00:00"
+  category:
+  - scrobble
+  - audio
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
+  listen-of:
+    h-cite:
+      url: http://textfiles.libsyn.com/rss
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_58.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Acting_Episode.mp3
+      name: The Acting Episode
+      author: Jason Scott
+      content: "The Acting Episode: Johannes and a Restaurant, Electricity and Christmas
+        Lights, Acting, Pages, Out of Order, Tourist Trap, Editing. The Wikipedia
+        entry for the film is here: https://en.wikipedia.org/wiki/Je_Suis_Auto\_ While
+        editing up the episode, I'm not 100% sure I make clear that the primary director
+        of the \"Je Suis Auto\" film is Juliana Neuhuber (https://www.juliananeuhuber.com/)
+        and Johannes is co-director but mostly in the role of main actor and writer.
+        Johannes (and I and others) had ideas but Juliana was the final word on set.
+        The casino/tourist trap I mentioned is called Excalibur City and the home
+        page for it is here: http://www.excaliburcity.com/en/ \_"
+  content:
+    text: ' \ud83c\udfa7 Listened to The Acting Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
+- type: entry
   published: "2019-03-23T19:54:57+00:00"
   category:
   - scrobble
@@ -90,32 +117,6 @@
     text: ' \ud83c\udfa7 Listened to What to Expect When You''re Electing by Mozilla
       From IRL - Online Life Is Real Life'
 - type: entry
-  published: "2019-03-23T22:05:48+00:00"
-  category:
-  - scrobble
-  - audio
-  - IRL - Online Life Is Real Life
-  - Mozilla
-  listen-of:
-    h-cite:
-      url: https://feeds.mozilla-podcasts.org/irl
-      photo: ""
-      audio:
-      - https://tracking.feedpress.it/link/17512/10761049/08924a79.mp3
-      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/08924a79.mp3
-      name: Introducing Season 4 of IRL - Online Life is Real Life
-      author: Mozilla
-      content: "Can \u2018ethical tech\u2019 be a thing? We think so. Season 4 of
-        Mozilla\u2019s IRL podcast will explore all the ways tech can have a more
-        positive influence on people, communities, and societies at large. And, we\u2019re
-        delighted to welcome our new host Manoush Zomorodi, who will keep the season
-        nerdy, human, and \u2014 importantly \u2014 fun, for all of us as we listen
-        in.\n\nIRL is an original podcast from Mozilla. For more on the series go
-        to irlpodcast.org\n"
-  content:
-    text: ' \ud83c\udfa7 Listened to Introducing Season 4 of IRL - Online Life is
-      Real Life by Mozilla From IRL - Online Life Is Real Life'
-- type: entry
   published: "2019-03-23T22:35:29+00:00"
   category:
   - scrobble
@@ -145,30 +146,29 @@
     text: ' \ud83c\udfa7 Listened to Checking Out Online Shopping by Mozilla From
       IRL - Online Life Is Real Life'
 - type: entry
-  published: "2019-03-23T10:38:47+00:00"
+  published: "2019-03-23T22:05:48+00:00"
   category:
   - scrobble
   - audio
-  - Jason Scott Talks His Way Out of It
-  - Jason Scott
+  - IRL - Online Life Is Real Life
+  - Mozilla
   listen-of:
     h-cite:
-      url: http://textfiles.libsyn.com/rss
+      url: https://feeds.mozilla-podcasts.org/irl
       photo: ""
       audio:
-      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_58.mp3?dest-id=574323
-      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Acting_Episode.mp3
-      name: The Acting Episode
-      author: Jason Scott
-      content: "The Acting Episode: Johannes and a Restaurant, Electricity and Christmas
-        Lights, Acting, Pages, Out of Order, Tourist Trap, Editing. The Wikipedia
-        entry for the film is here: https://en.wikipedia.org/wiki/Je_Suis_Auto\_ While
-        editing up the episode, I'm not 100% sure I make clear that the primary director
-        of the \"Je Suis Auto\" film is Juliana Neuhuber (https://www.juliananeuhuber.com/)
-        and Johannes is co-director but mostly in the role of main actor and writer.
-        Johannes (and I and others) had ideas but Juliana was the final word on set.
-        The casino/tourist trap I mentioned is called Excalibur City and the home
-        page for it is here: http://www.excaliburcity.com/en/ \_"
+      - https://tracking.feedpress.it/link/17512/10761049/08924a79.mp3
+      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/08924a79.mp3
+      name: Introducing Season 4 of IRL - Online Life is Real Life
+      author: Mozilla
+      content: "Can \u2018ethical tech\u2019 be a thing? We think so. Season 4 of
+        Mozilla\u2019s IRL podcast will explore all the ways tech can have a more
+        positive influence on people, communities, and societies at large. And, we\u2019re
+        delighted to welcome our new host Manoush Zomorodi, who will keep the season
+        nerdy, human, and \u2014 importantly \u2014 fun, for all of us as we listen
+        in.\n\nIRL is an original podcast from Mozilla. For more on the series go
+        to irlpodcast.org\n"
   content:
-    text: ' \ud83c\udfa7 Listened to The Acting Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
+    text: ' \ud83c\udfa7 Listened to Introducing Season 4 of IRL - Online Life is
+      Real Life by Mozilla From IRL - Online Life Is Real Life'
 ...

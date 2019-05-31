@@ -29,25 +29,25 @@
     text: " \\ud83c\\udfa7 Listened to 5by5 | The Big Web Show #186: Tantek \xC7elik\u2014web
       standards, toolchains, and the decentralized web by Array From indieweb on Huffduffer"
 - type: entry
-  published: "2019-03-29T00:55:18+00:00"
+  published: "2019-03-29T01:07:48+00:00"
   category:
   - scrobble
   - audio
-  - RPGMP3 Actual Play Podcast
-  - Hal
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
   listen-of:
     h-cite:
-      url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
+      url: http://textfiles.libsyn.com/rss
       photo: ""
       audio:
-      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_16.mp3
-      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_16.mp3
-      name: Kingmaker Session 16
-      author: Hal
-      content: "Episode 16 \u2013 in which the battle of Fangberry Farm and the battle
-        of Elk\u2019s Rest take place."
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_59.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/Joes_Offer.mp3
+      name: Joe's Offer
+      author: Jason Scott
+      content: "Joe's Offer. An episode about a single gesture that blossomed into
+        a life-changing moment.\_ For Joe Sherman (1917-2010)."
   content:
-    text: ' \ud83c\udfa7 Listened to Kingmaker Session 16 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+    text: ' \ud83c\udfa7 Listened to Joe''s Offer by @textfiles From #JasonScottTalksHisWayOutofIt'
 - type: entry
   published: "2019-03-29T02:32:56+00:00"
   category:
@@ -70,23 +70,23 @@
   content:
     text: ' \ud83c\udfa7 Listened to Kingmaker Session 17 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
 - type: entry
-  published: "2019-03-29T01:07:48+00:00"
+  published: "2019-03-29T00:55:18+00:00"
   category:
   - scrobble
   - audio
-  - Jason Scott Talks His Way Out of It
-  - Jason Scott
+  - RPGMP3 Actual Play Podcast
+  - Hal
   listen-of:
     h-cite:
-      url: http://textfiles.libsyn.com/rss
+      url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
       photo: ""
       audio:
-      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_59.mp3?dest-id=574323
-      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/Joes_Offer.mp3
-      name: Joe's Offer
-      author: Jason Scott
-      content: "Joe's Offer. An episode about a single gesture that blossomed into
-        a life-changing moment.\_ For Joe Sherman (1917-2010)."
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_16.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_16.mp3
+      name: Kingmaker Session 16
+      author: Hal
+      content: "Episode 16 \u2013 in which the battle of Fangberry Farm and the battle
+        of Elk\u2019s Rest take place."
   content:
-    text: ' \ud83c\udfa7 Listened to Joe''s Offer by @textfiles From #JasonScottTalksHisWayOutofIt'
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 16 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
 ...

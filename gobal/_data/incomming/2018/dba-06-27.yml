@@ -28,28 +28,6 @@
     text: ' \ud83c\udfa7 Listened to BitJam Episode #211a + #211b - Analysis Special
       by Array From BitJamPodcast'
 - type: entry
-  published: "2018-06-27T05:42:45+00:00"
-  category:
-  - scrobble
-  - audio
-  - BitJam Podcast
-  - []
-  listen-of:
-    h-cite:
-      url: http://www.bitfellas.org/podcast/podcast.xml
-      photo: ""
-      audio:
-      - http://files.exotica.org.uk/?http&mname=h18http&file=bitfellas/podcast/bitjam_199.mp3
-      - http://archive.org/download/BitJam_Podcast-by-Array/
-      name: 'BitJam Episode #199 - 2014 EDM Bits - Part 1'
-      author: []
-      content: "Episode #199 - 2014 EDM Bits - Part 1.\r\nIt's time to look back to
-        demoscene music releases of the year 2014. Enjoy the first part of selected
-        EDM tracks!\r\n\r\nMixed and compiled by 64odore, logo by KF"
-  content:
-    text: ' \ud83c\udfa7 Listened to BitJam Episode #199 - 2014 EDM Bits - Part 1
-      by Array From BitJamPodcast'
-- type: entry
   published: "2018-06-27T10:24:38+00:00"
   category:
   - scrobble
@@ -79,4 +57,26 @@
   content:
     text: ' \ud83c\udfa7 Listened to BitJam Episode #200a - 2014 In The Mix - We Are
       Unstoppable by Array From BitJamPodcast'
+- type: entry
+  published: "2018-06-27T05:42:45+00:00"
+  category:
+  - scrobble
+  - audio
+  - BitJam Podcast
+  - []
+  listen-of:
+    h-cite:
+      url: http://www.bitfellas.org/podcast/podcast.xml
+      photo: ""
+      audio:
+      - http://files.exotica.org.uk/?http&mname=h18http&file=bitfellas/podcast/bitjam_199.mp3
+      - http://archive.org/download/BitJam_Podcast-by-Array/
+      name: 'BitJam Episode #199 - 2014 EDM Bits - Part 1'
+      author: []
+      content: "Episode #199 - 2014 EDM Bits - Part 1.\r\nIt's time to look back to
+        demoscene music releases of the year 2014. Enjoy the first part of selected
+        EDM tracks!\r\n\r\nMixed and compiled by 64odore, logo by KF"
+  content:
+    text: ' \ud83c\udfa7 Listened to BitJam Episode #199 - 2014 EDM Bits - Part 1
+      by Array From BitJamPodcast'
 ...

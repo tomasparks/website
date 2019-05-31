@@ -22,6 +22,28 @@
     text: ' \ud83c\udfa7 Listened to 85. Evan Kirstel @evankirstel Discusses The Wireless
       Industry and Broadband by Brian McCullough @brianmcc From Internet History Podcast'
 - type: entry
+  published: "2018-01-17T12:55:12+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/X9VKc0QJ54Q/84._Analysis_Ep._4__Clutching_Pearls__With_Chris_Higgins.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/84_Analysis_Ep_4_Clutching_Pearls_With_Chris_Higgins.mp3
+      name: 84. Analysis Ep. 4 "Clutching Pearls" With Chris Higgins
+      author: Brian McCullough @brianmcc
+      content: A history of the Internet Era from Netscape to the iPad. Oral histories
+        from the people that made the technology happen. "Chapter" episodes providing
+        background on the history of the companies.
+  content:
+    text: ' \ud83c\udfa7 Listened to 84. Analysis Ep. 4 "Clutching Pearls" With Chris
+      Higgins by Brian McCullough @brianmcc From Internet History Podcast'
+- type: entry
   published: "2018-01-17T21:20:14+00:00"
   category:
   - scrobble
@@ -43,28 +65,6 @@
   content:
     text: ' \ud83c\udfa7 Listened to 86. Martin Nisenholtz on Bringing the New York
       Times Online by Brian McCullough @brianmcc From Internet History Podcast'
-- type: entry
-  published: "2018-01-17T03:38:33+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough @brianmcc
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/0xZD3L5wW1A/82._Ch._7.4_eBay_Wins_the_Auction_Wars.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/82_Ch_74_eBay_Wins_the_Auction_Wars.mp3
-      name: 82. (Ch. 7.4) eBay Wins the Auction Wars
-      author: Brian McCullough @brianmcc
-      content: A history of the Internet Era from Netscape to the iPad. Oral histories
-        from the people that made the technology happen. "Chapter" episodes providing
-        background on the history of the companies.
-  content:
-    text: ' \ud83c\udfa7 Listened to 82. (Ch. 7.4) eBay Wins the Auction Wars by Brian
-      McCullough @brianmcc From Internet History Podcast'
 - type: entry
   published: "2018-01-17T11:11:52+00:00"
   category:
@@ -88,7 +88,7 @@
     text: ' \ud83c\udfa7 Listened to 83. Founder of Travelocity, Terry Jones by Brian
       McCullough @brianmcc From Internet History Podcast'
 - type: entry
-  published: "2018-01-17T12:55:12+00:00"
+  published: "2018-01-17T03:38:33+00:00"
   category:
   - scrobble
   - audio
@@ -99,14 +99,14 @@
       url: http://feeds.feedburner.com/InternetHistoryPodcast
       photo: ""
       audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/X9VKc0QJ54Q/84._Analysis_Ep._4__Clutching_Pearls__With_Chris_Higgins.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/84_Analysis_Ep_4_Clutching_Pearls_With_Chris_Higgins.mp3
-      name: 84. Analysis Ep. 4 "Clutching Pearls" With Chris Higgins
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/0xZD3L5wW1A/82._Ch._7.4_eBay_Wins_the_Auction_Wars.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/82_Ch_74_eBay_Wins_the_Auction_Wars.mp3
+      name: 82. (Ch. 7.4) eBay Wins the Auction Wars
       author: Brian McCullough @brianmcc
       content: A history of the Internet Era from Netscape to the iPad. Oral histories
         from the people that made the technology happen. "Chapter" episodes providing
         background on the history of the companies.
   content:
-    text: ' \ud83c\udfa7 Listened to 84. Analysis Ep. 4 "Clutching Pearls" With Chris
-      Higgins by Brian McCullough @brianmcc From Internet History Podcast'
+    text: ' \ud83c\udfa7 Listened to 82. (Ch. 7.4) eBay Wins the Auction Wars by Brian
+      McCullough @brianmcc From Internet History Podcast'
 ...

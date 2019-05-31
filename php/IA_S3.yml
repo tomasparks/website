@@ -114,16 +114,18 @@ RPGMP3_Actual_Play_Podcast-by-Hal:
   kingmaker_session_70.mp3: true
   kingmaker_session_69.mp3: true
   kingmaker_session_71.mp3: true
-  Kingmaker_Session_75.mp3: false
-  Kingmaker_Session_80.mp3: false
-  Kingmaker_Session_74.mp3: false
-  Kingmaker_Session_79.mp3: false
-  Kingmaker_Session_82.mp3: false
-  Kingmaker_Session_78.mp3: false
-  Kingmaker_Session_81.mp3: false
-  Kingmaker_Session_76.mp3: false
-  kingmaker_session_83.mp3: false
-  Kingmaker_Session_77.mp3: false
+  Kingmaker_Session_75.mp3: true
+  Kingmaker_Session_80.mp3: true
+  Kingmaker_Session_74.mp3: true
+  Kingmaker_Session_79.mp3: true
+  Kingmaker_Session_82.mp3: true
+  Kingmaker_Session_78.mp3: true
+  Kingmaker_Session_81.mp3: true
+  Kingmaker_Session_76.mp3: true
+  kingmaker_session_83.mp3: true
+  Kingmaker_Session_77.mp3: true
+  kingmaker_session_85.mp3: true
+  kingmaker_session_84.mp3: true
 Indieweb_Podcast-by-David_Shanske_and_Chris_Aldrich:
   Indieweb9.mp3: true
   Indieweb10.mp3: true
@@ -212,6 +214,7 @@ Jeenas_Excellent_Encounters-Poodcast-by-Jeena:
   p070t7dg.mp3: true
   p06821d6.mp3: true
   p07b2141.mp3: true
+  p07bqcp3.mp3: false
 Percolator-Podcast-by-Aaron_Parecki:
   redirect.php: true
   Episode_8_Back_from_the_Woods.mp3: true
@@ -784,7 +787,7 @@ Techdirt-Podcast-by-Techdirt:
   613775241-techdirt-cory-doctorow-on-anti-circumvention-and-more.mp3: true
   617145219-techdirt-politicians-usually-dont-understand-technology.mp3: true
   624337320-techdirt-breaking-facebook-with-mike-godwin-and-david-kaye.mp3: true
-  628035237-techdirt-what-if-congress-actually-understood-technology.mp3: false
+  628035237-techdirt-what-if-congress-actually-understood-technology.mp3: true
 Not_Another_DD_Podcast-by-HeadGum:
   mp3: true
 clevercast-by-Jonathan_LaCour:
@@ -1277,6 +1280,7 @@ Future_Tense_ABC_RN-by-ABC_Radio_National:
 Dr_Karl_Podcast-by-triple_j:
   Beard_hairballs_purring_pussies_and_green_boogers.mp3: true
   Sympathy_spews_chubby_rain_and_fullmoon_craziness.mp3: true
+  Generic_faces_slushie_beers_and_5G.mp3: false
 An_Indieweb_Podcast_Chris_Aldrich-by-httpswordpressorgv511:
   Indieweb14.mp3: true
 ...

@@ -1,5 +1,27 @@
 ---
 - type: entry
+  published: "2018-05-28T21:07:01+00:00"
+  category:
+  - scrobble
+  - audio
+  - STEAL THIS SHOW
+  - STEAL THIS SHOW
+  listen-of:
+    h-cite:
+      url: http://stealthisshow.com/feed/podcast
+      photo: ""
+      audio:
+      - https://media.blubrry.com/stealthisshow/content.blubrry.com/stealthisshow/STEAL_THIS_SHOW_SE01_E02.mp3
+      - http://archive.org/download/STEAL_THIS_SHOW-Podcast-by-STEAL_THIS_SHOW/STEAL_THIS_SHOW_SE01_E02.mp3
+      name: "STEAL THIS SHOW S01E02 \u2013 Rebel Librarians & Pirate Academics"
+      author: STEAL THIS SHOW
+      content: Radical librarians Lawrence Liang (Alternative Law Forum, Bangalore)
+        and Tomislav Medak (MAMA, Zagreb), discuss the recent release of the Megaupload
+        programmer sentenced to a year in a US jail, and why pirates have always attracted...
+  content:
+    text: " \\ud83c\\udfa7 Listened to STEAL THIS SHOW S01E02 \u2013 Rebel Librarians
+      & Pirate Academics by @steal_this_show From @steal_this_show"
+- type: entry
   published: "2018-05-28T20:43:12+00:00"
   category:
   - scrobble
@@ -23,27 +45,28 @@
     text: " \\ud83c\\udfa7 Listened to STEAL THIS SHOW S01E01 \u2013 With Fight For
       The Future by @steal_this_show From @steal_this_show"
 - type: entry
-  published: "2018-05-28T21:07:01+00:00"
+  published: "2018-05-28T13:49:32+00:00"
   category:
   - scrobble
   - audio
-  - STEAL THIS SHOW
-  - STEAL THIS SHOW
+  - Techdirt
+  - Techdirt
   listen-of:
     h-cite:
-      url: http://stealthisshow.com/feed/podcast
+      url: https://www.techdirt.com/podcast.xml
       photo: ""
       audio:
-      - https://media.blubrry.com/stealthisshow/content.blubrry.com/stealthisshow/STEAL_THIS_SHOW_SE01_E02.mp3
-      - http://archive.org/download/STEAL_THIS_SHOW-Podcast-by-STEAL_THIS_SHOW/STEAL_THIS_SHOW_SE01_E02.mp3
-      name: "STEAL THIS SHOW S01E02 \u2013 Rebel Librarians & Pirate Academics"
-      author: STEAL THIS SHOW
-      content: Radical librarians Lawrence Liang (Alternative Law Forum, Bangalore)
-        and Tomislav Medak (MAMA, Zagreb), discuss the recent release of the Megaupload
-        programmer sentenced to a year in a US jail, and why pirates have always attracted...
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/312396927-techdirt-will-regulations-ground-drone-innovation.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/312396927-techdirt-will-regulations-ground-drone-innovation.mp3
+      name: Will Regulations Ground Drone Innovation?
+      author: Techdirt
+      content: The rise of drones in both the personal and commercial spheres has
+        happened with stunning speed, and its created a whole bunch of hard-to-answer
+        regulatory questions. This week we're joined by Notifleet's Siggi Hindrichs
+        to discuss the current state and future of drone regulation by the FAA.
   content:
-    text: " \\ud83c\\udfa7 Listened to STEAL THIS SHOW S01E02 \u2013 Rebel Librarians
-      & Pirate Academics by @steal_this_show From @steal_this_show"
+    text: ' \ud83c\udfa7 Listened to Will Regulations Ground Drone Innovation? by
+      Techdirt From Techdirt'
 - type: entry
   published: "2018-05-28T14:44:15+00:00"
   category:
@@ -69,29 +92,6 @@
   content:
     text: ' \ud83c\udfa7 Listened to When A Typo Breaks The Internet by Techdirt From
       Techdirt'
-- type: entry
-  published: "2018-05-28T13:49:32+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/312396927-techdirt-will-regulations-ground-drone-innovation.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/312396927-techdirt-will-regulations-ground-drone-innovation.mp3
-      name: Will Regulations Ground Drone Innovation?
-      author: Techdirt
-      content: The rise of drones in both the personal and commercial spheres has
-        happened with stunning speed, and its created a whole bunch of hard-to-answer
-        regulatory questions. This week we're joined by Notifleet's Siggi Hindrichs
-        to discuss the current state and future of drone regulation by the FAA.
-  content:
-    text: ' \ud83c\udfa7 Listened to Will Regulations Ground Drone Innovation? by
-      Techdirt From Techdirt'
 - type: entry
   published: "2018-05-28T03:15:06+00:00"
   category:

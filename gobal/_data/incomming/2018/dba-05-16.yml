@@ -22,7 +22,7 @@
     text: ' \ud83c\udfa7 Listened to Armpit smells, blurry headstands, homing pigeons
       by ABC Science From Dr Karl on triplej'
 - type: entry
-  published: "2018-05-16T12:46:53+00:00"
+  published: "2018-05-16T14:44:41+00:00"
   category:
   - scrobble
   - audio
@@ -33,15 +33,15 @@
       url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20170622.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Itching_faraday_cages_mermaids.mp3
-      name: Itching, faraday cages, mermaids
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20170601.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/3D_movie_sickness_natural_crystals_melting_wood.mp3
+      name: 3D movie sickness, natural crystals, melting wood
       author: ABC Science
-      content: Is there a way i can prove the earth is spinning? Where would a helium
-        balloon go in space? Can you eat spider venom?
+      content: Why can birds stand of electrical wires, without getting shocked? Why
+        do I get sick from video games and 3D movies? Can you melt wood?
   content:
-    text: ' \ud83c\udfa7 Listened to Itching, faraday cages, mermaids by ABC Science
-      From Dr Karl on triplej'
+    text: ' \ud83c\udfa7 Listened to 3D movie sickness, natural crystals, melting
+      wood by ABC Science From Dr Karl on triplej'
 - type: entry
   published: "2018-05-16T14:09:14+00:00"
   category:
@@ -64,7 +64,7 @@
     text: ' \ud83c\udfa7 Listened to Faster than light speed, screaming in pain, Earth
       mass by ABC Science From Dr Karl on triplej'
 - type: entry
-  published: "2018-05-16T14:44:41+00:00"
+  published: "2018-05-16T16:32:21+00:00"
   category:
   - scrobble
   - audio
@@ -75,15 +75,37 @@
       url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20170601.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/3D_movie_sickness_natural_crystals_melting_wood.mp3
-      name: 3D movie sickness, natural crystals, melting wood
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20170511.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Why_we_fear_the_speed_of_smell_moon_crash.mp3
+      name: Why we fear, the speed of smell, moon crash
       author: ABC Science
-      content: Why can birds stand of electrical wires, without getting shocked? Why
-        do I get sick from video games and 3D movies? Can you melt wood?
+      content: What is the evolutionary purpose of having a facial reaction when seeing
+        others in pain? Why doesn't the moon crash into the Earth? Can you measure
+        the speed of smell?
   content:
-    text: ' \ud83c\udfa7 Listened to 3D movie sickness, natural crystals, melting
-      wood by ABC Science From Dr Karl on triplej'
+    text: ' \ud83c\udfa7 Listened to Why we fear, the speed of smell, moon crash by
+      ABC Science From Dr Karl on triplej'
+- type: entry
+  published: "2018-05-16T12:46:53+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl on triplej
+  - ABC Science
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20170622.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Itching_faraday_cages_mermaids.mp3
+      name: Itching, faraday cages, mermaids
+      author: ABC Science
+      content: Is there a way i can prove the earth is spinning? Where would a helium
+        balloon go in space? Can you eat spider venom?
+  content:
+    text: ' \ud83c\udfa7 Listened to Itching, faraday cages, mermaids by ABC Science
+      From Dr Karl on triplej'
 - type: entry
   published: "2018-05-16T15:56:32+00:00"
   category:
@@ -127,27 +149,5 @@
         that are inedible?
   content:
     text: ' \ud83c\udfa7 Listened to Stomach butterflies, baby hair, making gold by
-      ABC Science From Dr Karl on triplej'
-- type: entry
-  published: "2018-05-16T16:32:21+00:00"
-  category:
-  - scrobble
-  - audio
-  - Dr Karl on triplej
-  - ABC Science
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20170511.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Why_we_fear_the_speed_of_smell_moon_crash.mp3
-      name: Why we fear, the speed of smell, moon crash
-      author: ABC Science
-      content: What is the evolutionary purpose of having a facial reaction when seeing
-        others in pain? Why doesn't the moon crash into the Earth? Can you measure
-        the speed of smell?
-  content:
-    text: ' \ud83c\udfa7 Listened to Why we fear, the speed of smell, moon crash by
       ABC Science From Dr Karl on triplej'
 ...

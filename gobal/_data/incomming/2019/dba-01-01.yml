@@ -1,49 +1,5 @@
 ---
 - type: entry
-  published: "2019-01-01T07:08:59+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/543594189-techdirt-section-230-and-political-bias.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/543594189-techdirt-section-230-and-political-bias.mp3
-      name: Section 230 And Political Bias
-      author: Techdirt
-      content: 'We''ve got another panel discussion from the Lincoln Network''s Reboot
-        conference this week, all about the law on everyone''s minds lately: Section
-        230 of the CDA. The debate includes law professor Eric Goldman, the EFF''s
-        Corynne McSherry, and Dr. Jerry A. Johnson from National Religious Broadcasters,
-        offering up a wide spectrum of opinions on Section 230 and political bias.'
-  content:
-    text: ' \ud83c\udfa7 Listened to Section 230 And Political Bias by Techdirt From
-      Techdirt'
-- type: entry
-  published: "2019-01-01T05:27:28+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/546916341-techdirt-can-anyone-disrupt-the-disruptors.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/546916341-techdirt-can-anyone-disrupt-the-disruptors.mp3
-      name: Can Anyone Disrupt The Disruptors?
-      author: Techdirt
-      content: Can Anyone Disrupt The Disruptors? by Techdirt
-  content:
-    text: ' \ud83c\udfa7 Listened to Can Anyone Disrupt The Disruptors? by Techdirt
-      From Techdirt'
-- type: entry
   published: "2019-01-01T06:03:08+00:00"
   category:
   - scrobble
@@ -93,4 +49,48 @@
         those happen first.  Thank you again.'
   content:
     text: ' \ud83c\udfa7 Listened to The 50th Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
+- type: entry
+  published: "2019-01-01T07:08:59+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/543594189-techdirt-section-230-and-political-bias.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/543594189-techdirt-section-230-and-political-bias.mp3
+      name: Section 230 And Political Bias
+      author: Techdirt
+      content: 'We''ve got another panel discussion from the Lincoln Network''s Reboot
+        conference this week, all about the law on everyone''s minds lately: Section
+        230 of the CDA. The debate includes law professor Eric Goldman, the EFF''s
+        Corynne McSherry, and Dr. Jerry A. Johnson from National Religious Broadcasters,
+        offering up a wide spectrum of opinions on Section 230 and political bias.'
+  content:
+    text: ' \ud83c\udfa7 Listened to Section 230 And Political Bias by Techdirt From
+      Techdirt'
+- type: entry
+  published: "2019-01-01T05:27:28+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/546916341-techdirt-can-anyone-disrupt-the-disruptors.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/546916341-techdirt-can-anyone-disrupt-the-disruptors.mp3
+      name: Can Anyone Disrupt The Disruptors?
+      author: Techdirt
+      content: Can Anyone Disrupt The Disruptors? by Techdirt
+  content:
+    text: ' \ud83c\udfa7 Listened to Can Anyone Disrupt The Disruptors? by Techdirt
+      From Techdirt'
 ...

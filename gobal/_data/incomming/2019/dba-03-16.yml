@@ -1,29 +1,5 @@
 ---
 - type: entry
-  published: "2019-03-16T08:57:59+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/589078674-techdirt-crying-wolf-over-conservative-censorship.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/589078674-techdirt-crying-wolf-over-conservative-censorship.mp3
-      name: Crying Wolf Over Conservative Censorship
-      author: Techdirt
-      content: "You've heard the uproar \u2014 conservatives are being censored on
-        social media! But... are they? The short answer is no. The long answer is
-        this week's podcast, with Lincoln Network policy head Zach Graves joining
-        us for a discussion about the misinformation, hyperbole and general ridiculousness
-        surrounding supposed social media bias."
-  content:
-    text: ' \ud83c\udfa7 Listened to Crying Wolf Over Conservative Censorship by Techdirt
-      From Techdirt'
-- type: entry
   published: "2019-03-16T09:49:03+00:00"
   category:
   - scrobble
@@ -48,4 +24,28 @@
         can learn from the Valley."
   content:
     text: ' \ud83c\udfa7 Listened to Delivery-Driven Government by Techdirt From Techdirt'
+- type: entry
+  published: "2019-03-16T08:57:59+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/589078674-techdirt-crying-wolf-over-conservative-censorship.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/589078674-techdirt-crying-wolf-over-conservative-censorship.mp3
+      name: Crying Wolf Over Conservative Censorship
+      author: Techdirt
+      content: "You've heard the uproar \u2014 conservatives are being censored on
+        social media! But... are they? The short answer is no. The long answer is
+        this week's podcast, with Lincoln Network policy head Zach Graves joining
+        us for a discussion about the misinformation, hyperbole and general ridiculousness
+        surrounding supposed social media bias."
+  content:
+    text: ' \ud83c\udfa7 Listened to Crying Wolf Over Conservative Censorship by Techdirt
+      From Techdirt'
 ...

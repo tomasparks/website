@@ -1,28 +1,5 @@
 ---
 - type: entry
-  published: "2018-06-24T10:56:36+00:00"
-  category:
-  - scrobble
-  - audio
-  - Acquired - Tech Acquisitions & IPOs
-  - Ben Gilbert & David Rosenthal
-  listen-of:
-    h-cite:
-      url: http://www.acquired.fm/episodes?format=RSS
-      photo: ""
-      audio:
-      - http://traffic.libsyn.com/acquired/Acquired_Episode_27_-_Special_-_Interview_with_Microsofts_Head_of_Strategic_Investments_Brian_Schultz.mp3
-      - http://archive.org/download/Acquired-Podcast-by-Ben_Gilbert_and_David_Rosenthal/Episode_27_SpecialA_Conversation_with_Microsofts_Head_of_Strategic_Investments_Brian_Schultz.mp3
-      name: "Episode 27: Special\u2014A Conversation with Microsoft's Head of Strategic
-        Investments Brian Schultz"
-      author: Ben Gilbert & David Rosenthal
-      content: Ben & David chat with Brian Schultz, the Managing Director of Strategic
-        Investments & Corporate Development at Microsoft.
-  content:
-    text: " \\ud83c\\udfa7 Listened to Episode 27: Special\u2014A Conversation with
-      Microsoft's Head of Strategic Investments Brian Schultz by @gilbert & @djrosent
-      From @AcquiredFM"
-- type: entry
   published: "2018-06-24T20:19:09+00:00"
   category:
   - scrobble
@@ -53,6 +30,29 @@
   content:
     text: " \\ud83c\\udfa7 Listened to Episode 29: Special\u20142016 Review and 2017
       Predictions by @gilbert & @djrosent From @AcquiredFM"
+- type: entry
+  published: "2018-06-24T10:56:36+00:00"
+  category:
+  - scrobble
+  - audio
+  - Acquired - Tech Acquisitions & IPOs
+  - Ben Gilbert & David Rosenthal
+  listen-of:
+    h-cite:
+      url: http://www.acquired.fm/episodes?format=RSS
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/acquired/Acquired_Episode_27_-_Special_-_Interview_with_Microsofts_Head_of_Strategic_Investments_Brian_Schultz.mp3
+      - http://archive.org/download/Acquired-Podcast-by-Ben_Gilbert_and_David_Rosenthal/Episode_27_SpecialA_Conversation_with_Microsofts_Head_of_Strategic_Investments_Brian_Schultz.mp3
+      name: "Episode 27: Special\u2014A Conversation with Microsoft's Head of Strategic
+        Investments Brian Schultz"
+      author: Ben Gilbert & David Rosenthal
+      content: Ben & David chat with Brian Schultz, the Managing Director of Strategic
+        Investments & Corporate Development at Microsoft.
+  content:
+    text: " \\ud83c\\udfa7 Listened to Episode 27: Special\u2014A Conversation with
+      Microsoft's Head of Strategic Investments Brian Schultz by @gilbert & @djrosent
+      From @AcquiredFM"
 - type: entry
   published: "2018-06-24T19:07:25+00:00"
   category:

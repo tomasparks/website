@@ -1,31 +1,5 @@
 ---
 - type: entry
-  published: "2018-03-19T13:55:35+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough @brianmcc
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/JZaccD9yZIU/166._Amazon_Hulu_and_Oculus_with_Eugene_Wei.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/166_Amazon_Hulu_and_Oculus_with_Eugene_Wei.mp3
-      name: 166. Amazon, Hulu and Oculus with Eugene Wei
-      author: Brian McCullough @brianmcc
-      content: 'No joke, this is one of my favorite episodes we''ve ever done. Eugene
-        Wei was an early employee at Hulu, so we get some details on that company
-        for the first time, and he also worked at Flipboard and Oculus, so we get
-        some important context especially on the future of VR and the like. But the
-        most fascinating stories you''ll hear will be about Amazon, where Eugene was
-        the first analyst in the strategic planning department. As you''ll hear, Eugene
-        had a unique perspective on Amazon''s early '
-  content:
-    text: ' \ud83c\udfa7 Listened to 166. Amazon, Hulu and Oculus with Eugene Wei
-      by Brian McCullough @brianmcc From Internet History Podcast'
-- type: entry
   published: "2018-03-19T12:01:08+00:00"
   category:
   - scrobble
@@ -53,6 +27,32 @@
     text: ' \ud83c\udfa7 Listened to 165. Claire L. Evans, Author of Broad Band- The
       Untold Story of the Women Who Made the Internet by Brian McCullough @brianmcc
       From Internet History Podcast'
+- type: entry
+  published: "2018-03-19T13:55:35+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/JZaccD9yZIU/166._Amazon_Hulu_and_Oculus_with_Eugene_Wei.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/166_Amazon_Hulu_and_Oculus_with_Eugene_Wei.mp3
+      name: 166. Amazon, Hulu and Oculus with Eugene Wei
+      author: Brian McCullough @brianmcc
+      content: 'No joke, this is one of my favorite episodes we''ve ever done. Eugene
+        Wei was an early employee at Hulu, so we get some details on that company
+        for the first time, and he also worked at Flipboard and Oculus, so we get
+        some important context especially on the future of VR and the like. But the
+        most fascinating stories you''ll hear will be about Amazon, where Eugene was
+        the first analyst in the strategic planning department. As you''ll hear, Eugene
+        had a unique perspective on Amazon''s early '
+  content:
+    text: ' \ud83c\udfa7 Listened to 166. Amazon, Hulu and Oculus with Eugene Wei
+      by Brian McCullough @brianmcc From Internet History Podcast'
 - type: entry
   published: "2018-03-19T10:54:05+00:00"
   category:

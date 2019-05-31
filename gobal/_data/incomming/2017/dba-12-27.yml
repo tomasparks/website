@@ -22,6 +22,28 @@
     text: ' \ud83c\udfa7 Listened to 2. (Ch 1.2) The Creation of Netscape by Brian
       McCullough @brianmcc From Internet History Podcast'
 - type: entry
+  published: "2017-12-27T16:28:56+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/M4JaRE9Nrs0/Chapter_2_Part_1_-_Microsoft_At_The_Birth_Of_The_Internet_Era.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/4_Ch_21_Microsoft_At_The_Dawn_Of_The_Internet_Era.mp3
+      name: 4. (Ch 2.1) Microsoft At The Dawn Of The Internet Era
+      author: Brian McCullough @brianmcc
+      content: A history of the Internet Era from Netscape to the iPad. Oral histories
+        from the people that made the technology happen. "Chapter" episodes providing
+        background on the history of the companies.
+  content:
+    text: ' \ud83c\udfa7 Listened to 4. (Ch 2.1) Microsoft At The Dawn Of The Internet
+      Era by Brian McCullough @brianmcc From Internet History Podcast'
+- type: entry
   published: "2017-12-27T15:31:44+00:00"
   category:
   - scrobble
@@ -65,26 +87,4 @@
   content:
     text: ' \ud83c\udfa7 Listened to 1. (Ch 1.1) Mosaic - The "First" Web Browser
       by Brian McCullough @brianmcc From Internet History Podcast'
-- type: entry
-  published: "2017-12-27T16:28:56+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough @brianmcc
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/M4JaRE9Nrs0/Chapter_2_Part_1_-_Microsoft_At_The_Birth_Of_The_Internet_Era.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/4_Ch_21_Microsoft_At_The_Dawn_Of_The_Internet_Era.mp3
-      name: 4. (Ch 2.1) Microsoft At The Dawn Of The Internet Era
-      author: Brian McCullough @brianmcc
-      content: A history of the Internet Era from Netscape to the iPad. Oral histories
-        from the people that made the technology happen. "Chapter" episodes providing
-        background on the history of the companies.
-  content:
-    text: ' \ud83c\udfa7 Listened to 4. (Ch 2.1) Microsoft At The Dawn Of The Internet
-      Era by Brian McCullough @brianmcc From Internet History Podcast'
 ...

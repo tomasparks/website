@@ -23,78 +23,6 @@
   content:
     text: ' \ud83c\udfa7 Listened to No, The MP3 Isn''t Dead by Techdirt From Techdirt'
 - type: entry
-  published: "2018-05-25T19:55:16+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/327909544-techdirt-talking-freedom-of-information-with-a-foia-terrorist.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/327909544-techdirt-talking-freedom-of-information-with-a-foia-terrorist.mp3
-      name: Talking Freedom Of Information With A "FOIA Terrorist"
-      author: Techdirt
-      content: "We've made FOIA requests several times over the years, with varying
-        results \u2014 but there are others out there who have dedicated their careers
-        to understanding and using the FOIA process. One such person is Jason Leopold,
-        a Buzzfeed reporter and FOIA litigator who was dubbed a \"FOIA terrorist\"
-        by the government. He joins us this week on the podcast to discuss the ins
-        and outs of Freedom Of Information."
-  content:
-    text: ' \ud83c\udfa7 Listened to Talking Freedom Of Information With A "FOIA Terrorist"
-      by Techdirt From Techdirt'
-- type: entry
-  published: "2018-05-25T18:18:33+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/330399767-techdirt-patent-trolls-with-cloudflares-general-counsel.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/330399767-techdirt-patent-trolls-with-cloudflares-general-counsel.mp3
-      name: Patent Trolls, With Cloudflare's General Counsel
-      author: Techdirt
-      content: As we reported last month, CDN provider Cloudflare has decided to hit
-        back against patent troll Blackbird Technologies with an aggressive strategy.
-        Leading this charge is Doug Kramer, Cloudflare's General Counsel, who joins
-        us this week to discuss the current situation with Blackbird and the broader
-        patent landscape.
-  content:
-    text: ' \ud83c\udfa7 Listened to Patent Trolls, With Cloudflare''s General Counsel
-      by Techdirt From Techdirt'
-- type: entry
-  published: "2018-05-25T23:06:47+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/322939002-techdirt-truth-and-fiction-with-cory-doctorow.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/322939002-techdirt-truth-and-fiction-with-cory-doctorow.mp3
-      name: Truth And Fiction With Cory Doctorow
-      author: Techdirt
-      content: Most Techdirt readers are already familiar with Cory Doctorow, whether
-        via his EFF work, the BoingBoing blog, his novels, or all of the above. This
-        week, he joins us on the podcast to discuss his new book Walkaway and much,
-        much more.
-  content:
-    text: ' \ud83c\udfa7 Listened to Truth And Fiction With Cory Doctorow by Techdirt
-      From Techdirt'
-- type: entry
   published: "2018-05-25T20:48:52+00:00"
   category:
   - scrobble
@@ -117,6 +45,63 @@
         efforts to restore the decentralization of the web.
   content:
     text: ' \ud83c\udfa7 Listened to Re-Decentralizing The Web by Techdirt From Techdirt'
+- type: entry
+  published: "2018-05-25T16:46:53+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/333766433-techdirt-is-it-bad-if-facebook-copies-everything-snapchat-does.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/333766433-techdirt-is-it-bad-if-facebook-copies-everything-snapchat-does.mp3
+      name: Is It Bad If Facebook Copies Everything Snapchat Does?
+      author: Techdirt
+      content: 'You may have heard the joke: the best way to do product design for
+        Facebook is to get a job at Snapchat. We''ve all seen how, after failing to
+        buy the company, Facebook has wasted little time in building its own versions
+        of most of Snapchat''s key features. So... is this a problem? That''s the
+        subject on this week''s episode, were we discuss the ins and outs of this
+        kind of copying and what it might mean for the future of social media.'
+  content:
+    text: ' \ud83c\udfa7 Listened to Is It Bad If Facebook Copies Everything Snapchat
+      Does? by Techdirt From Techdirt'
+- type: entry
+  published: "2018-05-25T19:14:37+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/329057704-techdirt-copyright-music-theft.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/329057704-techdirt-copyright-music-theft.mp3
+      name: Copyright, Music & 'Theft'
+      author: Techdirt
+      content: "This week's episode is all about copyright and culture, with a pair
+        of the best guests you could ask for on the subject. Almost ten years ago,
+        law professors Keith Aoki, James Boyle and Jennifer Jenkins released a comic
+        book about copyright called Bound By Law, and now they are back with a sequel:
+        Theft: A History of Music. This week, James and Jennifer join us to discuss
+        the new comic and the history of copyright and music (with lots of fair use
+        music snippets to demonstrate the legacy of 'theft')!\r\n\r\nYou should also
+        be sure to check out the comic itself! You can download a digital copy for
+        free of course, but for those who want to get their hands on the beautiful
+        paperback edition, we've got a limited time offer for Techdirt fans: you can
+        get it for only $8.99 at Createspace (that's 40% off!) when you use the discount
+        code 2FESBPRQ within the next two weeks. It's also available on Amazon with
+        a free Kindle edition included when you buy."
+  content:
+    text: ' \ud83c\udfa7 Listened to Copyright, Music & ''Theft'' by Techdirt From
+      Techdirt'
 - type: entry
   published: "2018-05-25T11:36:33+00:00"
   category:
@@ -167,7 +152,7 @@
     text: ' \ud83c\udfa7 Listened to Rob Reid On Writing & Publishing A SciFi Novel
       In 2017 by Techdirt From Techdirt'
 - type: entry
-  published: "2018-05-25T19:14:37+00:00"
+  published: "2018-05-25T23:06:47+00:00"
   category:
   - scrobble
   - audio
@@ -178,28 +163,19 @@
       url: https://www.techdirt.com/podcast.xml
       photo: ""
       audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/329057704-techdirt-copyright-music-theft.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/329057704-techdirt-copyright-music-theft.mp3
-      name: Copyright, Music & 'Theft'
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/322939002-techdirt-truth-and-fiction-with-cory-doctorow.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/322939002-techdirt-truth-and-fiction-with-cory-doctorow.mp3
+      name: Truth And Fiction With Cory Doctorow
       author: Techdirt
-      content: "This week's episode is all about copyright and culture, with a pair
-        of the best guests you could ask for on the subject. Almost ten years ago,
-        law professors Keith Aoki, James Boyle and Jennifer Jenkins released a comic
-        book about copyright called Bound By Law, and now they are back with a sequel:
-        Theft: A History of Music. This week, James and Jennifer join us to discuss
-        the new comic and the history of copyright and music (with lots of fair use
-        music snippets to demonstrate the legacy of 'theft')!\r\n\r\nYou should also
-        be sure to check out the comic itself! You can download a digital copy for
-        free of course, but for those who want to get their hands on the beautiful
-        paperback edition, we've got a limited time offer for Techdirt fans: you can
-        get it for only $8.99 at Createspace (that's 40% off!) when you use the discount
-        code 2FESBPRQ within the next two weeks. It's also available on Amazon with
-        a free Kindle edition included when you buy."
+      content: Most Techdirt readers are already familiar with Cory Doctorow, whether
+        via his EFF work, the BoingBoing blog, his novels, or all of the above. This
+        week, he joins us on the podcast to discuss his new book Walkaway and much,
+        much more.
   content:
-    text: ' \ud83c\udfa7 Listened to Copyright, Music & ''Theft'' by Techdirt From
-      Techdirt'
+    text: ' \ud83c\udfa7 Listened to Truth And Fiction With Cory Doctorow by Techdirt
+      From Techdirt'
 - type: entry
-  published: "2018-05-25T16:46:53+00:00"
+  published: "2018-05-25T19:55:16+00:00"
   category:
   - scrobble
   - audio
@@ -210,19 +186,19 @@
       url: https://www.techdirt.com/podcast.xml
       photo: ""
       audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/333766433-techdirt-is-it-bad-if-facebook-copies-everything-snapchat-does.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/333766433-techdirt-is-it-bad-if-facebook-copies-everything-snapchat-does.mp3
-      name: Is It Bad If Facebook Copies Everything Snapchat Does?
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/327909544-techdirt-talking-freedom-of-information-with-a-foia-terrorist.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/327909544-techdirt-talking-freedom-of-information-with-a-foia-terrorist.mp3
+      name: Talking Freedom Of Information With A "FOIA Terrorist"
       author: Techdirt
-      content: 'You may have heard the joke: the best way to do product design for
-        Facebook is to get a job at Snapchat. We''ve all seen how, after failing to
-        buy the company, Facebook has wasted little time in building its own versions
-        of most of Snapchat''s key features. So... is this a problem? That''s the
-        subject on this week''s episode, were we discuss the ins and outs of this
-        kind of copying and what it might mean for the future of social media.'
+      content: "We've made FOIA requests several times over the years, with varying
+        results \u2014 but there are others out there who have dedicated their careers
+        to understanding and using the FOIA process. One such person is Jason Leopold,
+        a Buzzfeed reporter and FOIA litigator who was dubbed a \"FOIA terrorist\"
+        by the government. He joins us this week on the podcast to discuss the ins
+        and outs of Freedom Of Information."
   content:
-    text: ' \ud83c\udfa7 Listened to Is It Bad If Facebook Copies Everything Snapchat
-      Does? by Techdirt From Techdirt'
+    text: ' \ud83c\udfa7 Listened to Talking Freedom Of Information With A "FOIA Terrorist"
+      by Techdirt From Techdirt'
 - type: entry
   published: "2018-05-25T21:34:31+00:00"
   category:
@@ -245,6 +221,30 @@
         the conversation as an episode of the Techdirt Podcast too.
   content:
     text: ' \ud83c\udfa7 Listened to The Future Of Internet Copyright, With TechFreedom
+      by Techdirt From Techdirt'
+- type: entry
+  published: "2018-05-25T18:18:33+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/330399767-techdirt-patent-trolls-with-cloudflares-general-counsel.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/330399767-techdirt-patent-trolls-with-cloudflares-general-counsel.mp3
+      name: Patent Trolls, With Cloudflare's General Counsel
+      author: Techdirt
+      content: As we reported last month, CDN provider Cloudflare has decided to hit
+        back against patent troll Blackbird Technologies with an aggressive strategy.
+        Leading this charge is Doug Kramer, Cloudflare's General Counsel, who joins
+        us this week to discuss the current situation with Blackbird and the broader
+        patent landscape.
+  content:
+    text: ' \ud83c\udfa7 Listened to Patent Trolls, With Cloudflare''s General Counsel
       by Techdirt From Techdirt'
 - type: entry
   published: "2018-05-25T02:41:31+00:00"

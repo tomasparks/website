@@ -1,5 +1,30 @@
 ---
 - type: entry
+  published: "2018-03-13T12:50:11+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/368619833-techdirt-games-that-tell-stories.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/368619833-techdirt-games-that-tell-stories.mp3
+      name: Games That Tell Stories
+      author: Techdirt
+      content: "Gaming is changing the nature of storytelling. Video games of course
+        \u2014 but also the modern rise of board games, tabletop RPGs and other forms
+        of analog gaming. A good game does more than just arbitrarily pair play with
+        a veneer of narrative, it marries the mechanics and the ideas to enable interesting
+        new ways of conveying and exploring complex ideas. This week, we're joined
+        by game designer Randy Lubin to discuss how games can tell stories in a way
+        nothing else can."
+  content:
+    text: ' \ud83c\udfa7 Listened to Games That Tell Stories by Techdirt From Techdirt'
+- type: entry
   published: "2018-03-13T13:22:14+00:00"
   category:
   - scrobble
@@ -51,30 +76,27 @@
     text: ' \ud83c\udfa7 Listened to The Lost Art Of Productive Debate by Techdirt
       From Techdirt'
 - type: entry
-  published: "2018-03-13T12:50:11+00:00"
+  published: "2018-03-13T14:08:29+00:00"
   category:
   - scrobble
   - audio
-  - Techdirt
-  - Techdirt
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
   listen-of:
     h-cite:
-      url: https://www.techdirt.com/podcast.xml
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
       photo: ""
       audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/368619833-techdirt-games-that-tell-stories.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/368619833-techdirt-games-that-tell-stories.mp3
-      name: Games That Tell Stories
-      author: Techdirt
-      content: "Gaming is changing the nature of storytelling. Video games of course
-        \u2014 but also the modern rise of board games, tabletop RPGs and other forms
-        of analog gaming. A good game does more than just arbitrarily pair play with
-        a veneer of narrative, it marries the mechanics and the ideas to enable interesting
-        new ways of conveying and exploring complex ideas. This week, we're joined
-        by game designer Randy Lubin to discuss how games can tell stories in a way
-        nothing else can."
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/q2mj0VFHkow/141._Nathan_Latka_NathanLatka_of_the_Top_Entrepreneurs_Podcast.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/141_Nathan_Latka_NathanLatka_of_the_Top_Entrepreneurs_Podcast.mp3
+      name: 141. Nathan Latka @NathanLatka of the Top Entrepreneurs Podcast
+      author: Brian McCullough @brianmcc
+      content: A history of the Internet Era from Netscape to the iPad. Oral histories
+        from the people that made the technology happen. "Chapter" episodes providing
+        background on the history of the companies.
   content:
-    text: ' \ud83c\udfa7 Listened to Games That Tell Stories by Techdirt From Techdirt'
+    text: ' \ud83c\udfa7 Listened to 141. Nathan Latka @NathanLatka of the Top Entrepreneurs
+      Podcast by Brian McCullough @brianmcc From Internet History Podcast'
 - type: entry
   published: "2018-03-13T14:55:40+00:00"
   category:
@@ -98,26 +120,4 @@
   content:
     text: ' \ud83c\udfa7 Listened to 142. Andy Rachleff @arachleff co-founder of Benchmark
       and Wealthfront by Brian McCullough @brianmcc From Internet History Podcast'
-- type: entry
-  published: "2018-03-13T14:08:29+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough @brianmcc
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/q2mj0VFHkow/141._Nathan_Latka_NathanLatka_of_the_Top_Entrepreneurs_Podcast.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/141_Nathan_Latka_NathanLatka_of_the_Top_Entrepreneurs_Podcast.mp3
-      name: 141. Nathan Latka @NathanLatka of the Top Entrepreneurs Podcast
-      author: Brian McCullough @brianmcc
-      content: A history of the Internet Era from Netscape to the iPad. Oral histories
-        from the people that made the technology happen. "Chapter" episodes providing
-        background on the history of the companies.
-  content:
-    text: ' \ud83c\udfa7 Listened to 141. Nathan Latka @NathanLatka of the Top Entrepreneurs
-      Podcast by Brian McCullough @brianmcc From Internet History Podcast'
 ...
