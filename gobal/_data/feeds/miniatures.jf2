@@ -26,10 +26,10 @@
   },
   "name": "Myst Island",
 				"summary": {
-					"html": "<blockquote>\n  <p><a href=\"https://en.wikipedia.org/wiki/Myst\">Myst</a> is a graphic adventure puzzle video game designed by the Miller brothers, Robyn and Rand.\nIt was developed by <a href=\"https://cyan.com/\">Cyan, Inc</a>., published by Brøderbund, and released as a PC game for the Macintosh platform in 1993.\nIn the game, players are told that a special book has caused them to travel to Myst Island.\nThere, players solve puzzles and, by doing so, travel to four other worlds, known as Ages, which reveal the backstory of the game’s characters.</p>\n</blockquote>\n\n",
-					"value": "\n  Myst is a graphic adventure puzzle video game designed by the Miller brothers, Robyn and Rand.\nIt was developed by Cyan, Inc., published by Brøderbund, and released as a PC game for the Macintosh platform in 1993.\nIn the game, players are told that a special book has caused them to travel to Myst Island.\nThere, players solve puzzles and, by doing so, travel to four other worlds, known as Ages, which reveal the backstory of the game’s characters.\n\n\n"
+					"html": "\n<div class=\"polaroid\">\n<img class=\"u-photo\" src=\"/miniatures/assets/images/Mystisland.jpg\" alt=\"Myst Island from the computer game Myst\" srcset=\" /miniatures/assets/images/Mystisland.jpg 640w\" style=\"width:100%\" />\n  <div class=\"container\">\n    <p>Myst Island from the computer game Myst</p>\n  </div>\n</div>\n\n",
+					"value": "\n\n\n  \n    Myst Island from the computer game Myst\n  \n\n\n"
 				},
-							"value": "\n  Myst is a graphic adventure puzzle video game designed by the Miller brothers, Robyn and Rand.\nIt was developed by Cyan, Inc., published by Brøderbund, and released as a PC game for the Macintosh platform in 1993.\nIn the game, players are told that a special book has caused them to travel to Myst Island.\nThere, players solve puzzles and, by doing so, travel to four other worlds, known as Ages, which reveal the backstory of the game’s characters.\n\n\n",
+							"value": "\n\n\n  \n    Myst Island from the computer game Myst\n  \n\n\n",
 "category": ["myst-island"],
 "tags": [],
 
