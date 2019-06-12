@@ -1,23 +1,26 @@
 ---
 - type: entry
-  published: "2019-02-03T12:49:39+00:00"
+  published: "2019-02-03T10:06:13+00:00"
   category:
   - scrobble
   - audio
-  - Jason Scott Talks His Way Out of It
-  - Jason Scott
+  - Techdirt
+  - Techdirt
   listen-of:
     h-cite:
-      url: http://textfiles.libsyn.com/rss
+      url: https://www.techdirt.com/podcast.xml
       photo: ""
       audio:
-      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_55.mp3?dest-id=574323
-      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Time_Episode.mp3
-      name: The Time Episode
-      author: Jason Scott
-      content: The Time Episode. Was it all worth it?
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/563091471-techdirt-the-ces-2019-post-mortem.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/563091471-techdirt-the-ces-2019-post-mortem.mp3
+      name: The CES 2019 Post-Mortem
+      author: Techdirt
+      content: It's that time again! Mike spent the week before last at this year's
+        Consumer Electronics Show, checking out all the latest technology that companies
+        are most eager to show off, and now once again he's joined on the podcast
+        by CES veteran Rob Pegoraro for the CES 2019 Post-Mortem.
   content:
-    text: ' \ud83c\udfa7 Listened to The Time Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
+    text: ' \ud83c\udfa7 Listened to The CES 2019 Post-Mortem by Techdirt From Techdirt'
 - type: entry
   published: "2019-02-03T11:44:25+00:00"
   category:
@@ -48,6 +51,50 @@
     text: ' \ud83c\udfa7 Listened to The Robert Hoquim Extra Episode by @textfiles
       From #JasonScottTalksHisWayOutofIt'
 - type: entry
+  published: "2019-02-03T10:34:00+00:00"
+  category:
+  - scrobble
+  - audio
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
+  listen-of:
+    h-cite:
+      url: http://textfiles.libsyn.com/rss
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_52.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_EsnesnoN_Episode.mp3
+      name: The EsnesnoN Episode
+      author: Jason Scott
+      content: "The EsnesnoN Episode: High School Reboot, Humor Magazines, Nonsense,
+        A Fun and Saturated Publication Landscape, John, 30 Mile Commute, Humor Column,
+        Ripoff Photo, EsnesnoN, Janitor, Ed Barlow, Printing With a 3 Day Delay, 3
+        Issues, Beyond Highschool, 10th Anniversary, Collaboration's Shadow.\r\n\r\nThe
+        first issue of EsnesnoN is here: https://archive.org/details/1987-esnesnon\r\n\r\nYou'd
+        think I'd have all the issues up, but I never got around to it! When I get
+        my hands on them, they'll all go up."
+  content:
+    text: ' \ud83c\udfa7 Listened to The EsnesnoN Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
+- type: entry
+  published: "2019-02-03T12:49:39+00:00"
+  category:
+  - scrobble
+  - audio
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
+  listen-of:
+    h-cite:
+      url: http://textfiles.libsyn.com/rss
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_55.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Time_Episode.mp3
+      name: The Time Episode
+      author: Jason Scott
+      content: The Time Episode. Was it all worth it?
+  content:
+    text: ' \ud83c\udfa7 Listened to The Time Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
+- type: entry
   published: "2019-02-03T12:35:14+00:00"
   category:
   - scrobble
@@ -75,53 +122,6 @@
         We even have a pretty zesty Loompanics catalog: https://archive.org/details/Loompanics_Catalog_2003'
   content:
     text: ' \ud83c\udfa7 Listened to The Postal Zine Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
-- type: entry
-  published: "2019-02-03T10:34:00+00:00"
-  category:
-  - scrobble
-  - audio
-  - Jason Scott Talks His Way Out of It
-  - Jason Scott
-  listen-of:
-    h-cite:
-      url: http://textfiles.libsyn.com/rss
-      photo: ""
-      audio:
-      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_52.mp3?dest-id=574323
-      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_EsnesnoN_Episode.mp3
-      name: The EsnesnoN Episode
-      author: Jason Scott
-      content: "The EsnesnoN Episode: High School Reboot, Humor Magazines, Nonsense,
-        A Fun and Saturated Publication Landscape, John, 30 Mile Commute, Humor Column,
-        Ripoff Photo, EsnesnoN, Janitor, Ed Barlow, Printing With a 3 Day Delay, 3
-        Issues, Beyond Highschool, 10th Anniversary, Collaboration's Shadow.\r\n\r\nThe
-        first issue of EsnesnoN is here: https://archive.org/details/1987-esnesnon\r\n\r\nYou'd
-        think I'd have all the issues up, but I never got around to it! When I get
-        my hands on them, they'll all go up."
-  content:
-    text: ' \ud83c\udfa7 Listened to The EsnesnoN Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
-- type: entry
-  published: "2019-02-03T10:06:13+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/563091471-techdirt-the-ces-2019-post-mortem.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/563091471-techdirt-the-ces-2019-post-mortem.mp3
-      name: The CES 2019 Post-Mortem
-      author: Techdirt
-      content: It's that time again! Mike spent the week before last at this year's
-        Consumer Electronics Show, checking out all the latest technology that companies
-        are most eager to show off, and now once again he's joined on the podcast
-        by CES veteran Rob Pegoraro for the CES 2019 Post-Mortem.
-  content:
-    text: ' \ud83c\udfa7 Listened to The CES 2019 Post-Mortem by Techdirt From Techdirt'
 - type: entry
   published: "2019-02-03T12:15:55+00:00"
   category:

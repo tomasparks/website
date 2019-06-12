@@ -1,6 +1,6 @@
 ---
 - type: entry
-  published: "2018-08-29T11:37:55+00:00"
+  published: "2018-08-29T03:41:28+00:00"
   category:
   - scrobble
   - audio
@@ -11,14 +11,39 @@
       url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
       photo: ""
       audio:
-      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/lost_and_forgotten_session_13.mp3
-      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/lost_and_forgotten_session_13.mp3
-      name: Lost and Forgotten Session 13
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/lost_and_forgotten_session_12.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/lost_and_forgotten_session_12.mp3
+      name: Lost and Forgotten Session 12
       author: Hal
-      content: "Episode 13 \u2013 in which our castaways face off with Mother Thrunefang,
-        creepy dolls, the Flensing Room, and the need to feed."
+      content: "Episode 12 \u2013 in which our castaways find what the Tide Stones
+        are built to hide, discover the fate of the Jenivere\u2019s Captain and the
+        remaining cannibals, and receive an invitation to let their greed drive them
+        onwards."
   content:
-    text: ' \ud83c\udfa7 Listened to Lost and Forgotten Session 13 by @rpgmp3 From
+    text: ' \ud83c\udfa7 Listened to Lost and Forgotten Session 12 by @rpgmp3 From
+      #RPGMP3ActualPlayPodcast'
+- type: entry
+  published: "2018-08-29T14:33:13+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/lost_and_forgotten_session_14.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/lost_and_forgotten_session_14.mp3
+      name: Lost and Forgotten Session 14
+      author: Hal
+      content: "Episode 14 \u2013 in which our castaways discover just how much treasure
+        Captain Quint left behind. Will they escape the island, or will their greed
+        lead them to ruin? This is the conclusion of our Lost and Forgotten campaign.
+        Thank you very much for listening through!"
+  content:
+    text: ' \ud83c\udfa7 Listened to Lost and Forgotten Session 14 by @rpgmp3 From
       #RPGMP3ActualPlayPodcast'
 - type: entry
   published: "2018-08-29T16:07:50+00:00"
@@ -45,7 +70,7 @@
     text: ' \ud83c\udfa7 Listened to Mutants and Masterminds Quickstart: Superboy
       vs Knockout by @rpgmp3 From #RPGMP3ActualPlayPodcast'
 - type: entry
-  published: "2018-08-29T14:33:13+00:00"
+  published: "2018-08-29T11:37:55+00:00"
   category:
   - scrobble
   - audio
@@ -56,38 +81,13 @@
       url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
       photo: ""
       audio:
-      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/lost_and_forgotten_session_14.mp3
-      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/lost_and_forgotten_session_14.mp3
-      name: Lost and Forgotten Session 14
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/lost_and_forgotten_session_13.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/lost_and_forgotten_session_13.mp3
+      name: Lost and Forgotten Session 13
       author: Hal
-      content: "Episode 14 \u2013 in which our castaways discover just how much treasure
-        Captain Quint left behind. Will they escape the island, or will their greed
-        lead them to ruin? This is the conclusion of our Lost and Forgotten campaign.
-        Thank you very much for listening through!"
+      content: "Episode 13 \u2013 in which our castaways face off with Mother Thrunefang,
+        creepy dolls, the Flensing Room, and the need to feed."
   content:
-    text: ' \ud83c\udfa7 Listened to Lost and Forgotten Session 14 by @rpgmp3 From
-      #RPGMP3ActualPlayPodcast'
-- type: entry
-  published: "2018-08-29T03:41:28+00:00"
-  category:
-  - scrobble
-  - audio
-  - RPGMP3 Actual Play Podcast
-  - Hal
-  listen-of:
-    h-cite:
-      url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
-      photo: ""
-      audio:
-      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/lost_and_forgotten_session_12.mp3
-      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/lost_and_forgotten_session_12.mp3
-      name: Lost and Forgotten Session 12
-      author: Hal
-      content: "Episode 12 \u2013 in which our castaways find what the Tide Stones
-        are built to hide, discover the fate of the Jenivere\u2019s Captain and the
-        remaining cannibals, and receive an invitation to let their greed drive them
-        onwards."
-  content:
-    text: ' \ud83c\udfa7 Listened to Lost and Forgotten Session 12 by @rpgmp3 From
+    text: ' \ud83c\udfa7 Listened to Lost and Forgotten Session 13 by @rpgmp3 From
       #RPGMP3ActualPlayPodcast'
 ...

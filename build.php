@@ -49,7 +49,7 @@ $BuildConfig = array
 );
 
 
-$who ="main"; 
+$who ="miniatures"; 
 $building = $BuildConfig[$who];
 $building = array_merge($building,$builddefualts);
 

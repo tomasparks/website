@@ -1,35 +1,5 @@
 ---
 - type: entry
-  published: "2018-07-03T01:25:14+00:00"
-  category:
-  - scrobble
-  - audio
-  - Jason Scott Talks His Way Out of It
-  - Jason Scott
-  listen-of:
-    h-cite:
-      url: http://textfiles.libsyn.com/rss
-      photo: ""
-      audio:
-      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_32.mp3?dest-id=574323
-      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Amateur_Episode.mp3
-      name: The Amateur Episode
-      author: Jason Scott
-      content: 'The Amateur Episode: Question Not Question, Stumbling into Librarian,
-        Emerson College, Zero Sum Games, The Early Web, TEXTFILES.COM as Library,
-        Your Amateur Moment. I''ve tried to take a (minor) sour moment and turn it
-        into something positive. I also got to give some thoughts on some generalized
-        criticisms that are usually subtweeted in my direction, although how much
-        this episode moves the needle, I''ll likely never know.  The presentation,
-        by the way, was a lot of fun and I got to meet some really great folks who
-        I''d never had the chance to meet. I found out about some long-memory examples
-        held up in in the professional spheres, and I hope to research those to have
-        what other lessons could have learned. Also, lunch was amazing and someone
-        handed me a stack of hard drives.  Also, now you know why "Rank Amateur" is
-        in my twitter bio!'
-  content:
-    text: ' \ud83c\udfa7 Listened to The Amateur Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
-- type: entry
   published: "2018-07-03T00:17:30+00:00"
   category:
   - scrobble
@@ -82,6 +52,36 @@
         taken such a load off.'
   content:
     text: ' \ud83c\udfa7 Listened to The User Group Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
+- type: entry
+  published: "2018-07-03T01:25:14+00:00"
+  category:
+  - scrobble
+  - audio
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
+  listen-of:
+    h-cite:
+      url: http://textfiles.libsyn.com/rss
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_32.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Amateur_Episode.mp3
+      name: The Amateur Episode
+      author: Jason Scott
+      content: 'The Amateur Episode: Question Not Question, Stumbling into Librarian,
+        Emerson College, Zero Sum Games, The Early Web, TEXTFILES.COM as Library,
+        Your Amateur Moment. I''ve tried to take a (minor) sour moment and turn it
+        into something positive. I also got to give some thoughts on some generalized
+        criticisms that are usually subtweeted in my direction, although how much
+        this episode moves the needle, I''ll likely never know.  The presentation,
+        by the way, was a lot of fun and I got to meet some really great folks who
+        I''d never had the chance to meet. I found out about some long-memory examples
+        held up in in the professional spheres, and I hope to research those to have
+        what other lessons could have learned. Also, lunch was amazing and someone
+        handed me a stack of hard drives.  Also, now you know why "Rank Amateur" is
+        in my twitter bio!'
+  content:
+    text: ' \ud83c\udfa7 Listened to The Amateur Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
 - type: entry
   published: "2018-07-03T13:02:18+00:00"
   category:

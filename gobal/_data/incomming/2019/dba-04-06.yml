@@ -25,25 +25,6 @@
     text: ' \ud83c\udfa7 Listened to The Fortress of Solitude Episode by @textfiles
       From #JasonScottTalksHisWayOutofIt'
 - type: entry
-  published: "2019-04-06T16:46:47+00:00"
-  category:
-  - scrobble
-  - audio
-  - RPGMP3 Actual Play Podcast
-  - Hal
-  listen-of:
-    h-cite:
-      url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
-      photo: ""
-      audio:
-      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_27.mp3
-      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_27.mp3
-      name: Kingmaker Session 27
-      author: Hal
-      content: "Episode 27 \u2013 in which a million million kingdom turns occur."
-  content:
-    text: ' \ud83c\udfa7 Listened to Kingmaker Session 27 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
-- type: entry
   published: "2019-04-06T18:58:30+00:00"
   category:
   - scrobble
@@ -82,4 +63,23 @@
       content: "Episode 26 \u2013 in which wedding bells ring. Will anyone object?"
   content:
     text: ' \ud83c\udfa7 Listened to Kingmaker Session 26 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+- type: entry
+  published: "2019-04-06T16:46:47+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_27.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_27.mp3
+      name: Kingmaker Session 27
+      author: Hal
+      content: "Episode 27 \u2013 in which a million million kingdom turns occur."
+  content:
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 27 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
 ...

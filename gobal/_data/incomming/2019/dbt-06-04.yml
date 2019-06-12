@@ -1,0 +1,108 @@
+---
+- type: entry
+  published: "2019-06-04T21:18:32+00:00"
+  url: https://twitter.com/tomasparksts/status/1136019428875747328
+  category:
+  - https://twitter.com/DragonOrca
+  - https://twitter.com/lazygamereviews
+  - https://twitter.com/PushinUpRoses
+  in-reply-to:
+  - https://twitter.com/DragonOrca/status/1135970800161308673
+  content:
+    text: this more of a @PushinUpRoses thing
+    html: this more of a <a href="https://twitter.com/PushinUpRoses">@PushinUpRoses</a>
+      thing
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/DragonOrca:
+      type: card
+      name: D.O., Fragon Fur Hire
+      url: https://twitter.com/DragonOrca
+      photo: ~
+    https://twitter.com/lazygamereviews:
+      type: card
+      name: LGR
+      url: https://twitter.com/lazygamereviews
+      photo: ~
+    https://twitter.com/PushinUpRoses:
+      type: card
+      name: "PushingUpRoses \U0001F987"
+      url: https://twitter.com/PushinUpRoses
+      photo: ~
+- type: entry
+  published: "2019-06-04T20:02:58+00:00"
+  url: https://twitter.com/tomasparksts/status/1136000411502952448
+  category:
+  - https://twitter.com/RPGMP3
+  - https://twitter.com/ygguild
+  in-reply-to:
+  - https://twitter.com/RPGMP3/status/1135976507661324289
+  content:
+    text: 'I''ve been listening to the #YorktonGamerGuildActualPlayPodcast from the
+      beginning @ygguild'
+    html: I've been listening to the <a href="https://twitter.com/search?q=%23YorktonGamerGuildActualPlayPodcast">#YorktonGamerGuildActualPlayPodcast</a>
+      from the beginning <a href="https://twitter.com/ygguild">@ygguild</a>
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/RPGMP3:
+      type: card
+      name: RPGMP3
+      url: https://twitter.com/RPGMP3
+      photo: ~
+    https://twitter.com/ygguild:
+      type: card
+      name: Yorkton GamerGuild
+      url: https://twitter.com/ygguild
+      photo: ~
+- type: entry
+  published: "2019-06-04T01:55:35+00:00"
+  url: https://twitter.com/tomasparksts/status/1135726763042938880
+  category:
+  - https://twitter.com/Adobe
+  - https://twitter.com/autodesk
+  - https://twitter.com/EFF
+  - https://twitter.com/fsf
+  in-reply-to:
+  - https://twitter.com/tomasparksts/status/1135632934478569473
+  content:
+    text: 'I am questioning if I #should #buy #software #anymore and go #100% #Floss
+      @fsf'
+    html: 'I am questioning if I <a href="https://twitter.com/search?q=%23should">#should</a>
+      <a href="https://twitter.com/search?q=%23buy">#buy</a> <a href="https://twitter.com/search?q=%23software">#software</a>
+      <a href="https://twitter.com/search?q=%23anymore">#anymore</a> and go #100%
+      <a href="https://twitter.com/search?q=%23Floss">#Floss</a> <a href="https://twitter.com/fsf">@fsf</a>'
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/Adobe:
+      type: card
+      name: Adobe
+      url: https://twitter.com/Adobe
+      photo: ~
+    https://twitter.com/autodesk:
+      type: card
+      name: Autodesk
+      url: https://twitter.com/autodesk
+      photo: ~
+    https://twitter.com/EFF:
+      type: card
+      name: EFF
+      url: https://twitter.com/EFF
+      photo: ~
+    https://twitter.com/fsf:
+      type: card
+      name: Free Software Fndn.
+      url: https://twitter.com/fsf
+      photo: ~
+...

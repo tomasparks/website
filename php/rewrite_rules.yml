@@ -41,6 +41,7 @@ BucketName:
     Dr Karl Podcast: Dr_Karl_Podcast
     Future Tense - ABC RN: Future_Tense_ABC_RN
     "An Indieweb Podcast \u2013 Chris Aldrich": An_Indieweb_Podcast_Chris_Aldrich
+    'RPGMP3: Yorkton Gamer Guild Actual Play Podcast': RPGMP3_Actual_Play_Podcast
   author:
     Hal: Hal
     https://wordpress.org/?v=4.9.8: David_Shanske_and_Chris_Aldrich
@@ -81,6 +82,7 @@ BucketName:
     triplejA[: triplej
     triple j: triple_j
     https://wordpress.org/?v=5.1.1: httpswordpressorgv511
+    Yorkton Gamer Guild: Hal
 twitter:
   author:
     Hal: '@rpgmp3'
@@ -123,6 +125,7 @@ twitter:
     triplejA[: triplejA[
     triple j: triple j
     https://wordpress.org/?v=5.1.1: https://wordpress.org/?v=5.1.1
+    Yorkton Gamer Guild: '@rpgmp3 , @GM_Lockhart & @ygguild'
   album:
     RPGMP3 Actual Play Podcast: '#RPGMP3ActualPlayPodcast'
     "Indieweb Podcast \u2013 David Shanske": '#IndiewebPodcast'
@@ -170,6 +173,7 @@ twitter:
     Future Tense - ABC RN: Future Tense - ABC RN
     "An Indieweb Podcast \u2013 Chris Aldrich": "An Indieweb Podcast \u2013 Chris
       Aldrich"
+    'RPGMP3: Yorkton Gamer Guild Actual Play Podcast': '#RPGMP3ActualPlayPodcast #YorktonGamerGuildActualPlayPodcast'
 HowToRewrite:
   media.blubrry.com:
     BucketName:

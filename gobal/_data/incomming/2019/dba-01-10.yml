@@ -25,7 +25,7 @@
     text: ' \ud83c\udfa7 Listened to Ninja Future, With Gary Shapiro by Techdirt From
       Techdirt'
 - type: entry
-  published: "2019-01-10T12:44:42+00:00"
+  published: "2019-01-10T03:07:16+00:00"
   category:
   - scrobble
   - audio
@@ -36,18 +36,19 @@
       url: https://www.techdirt.com/podcast.xml
       photo: ""
       audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/489148548-techdirt-emoji-the-law.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/489148548-techdirt-emoji-the-law.mp3
-      name: Emoji & The Law
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/495223974-techdirt-theres-always-something-new-to-learn-about-copyright.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/495223974-techdirt-theres-always-something-new-to-learn-about-copyright.mp3
+      name: There's Always Something New To Learn About Copyright
       author: Techdirt
-      content: "Have you ever thought about the legal issues surrounding emoji? Don't
-        worry, most people haven't. But they are myriad and interesting, with roots
-        nearly two decades ago following the emergence of emoticons \u2014 and two
-        people who definitely have thought a lot about it are Eric Goldman and Gabriella
-        Ziccarelli, who join us on this week's episode to talk about the various intersections
-        of emoji and the law."
+      content: "Copyright is a big, complicated monster of a law, composed of patchwork
+        updates and shaped by international agreements \u2014 which is, in fact, the
+        source of a lot of its problems. But fixing copyright means understanding
+        it, so this week we've got a conversation with UCLA professor Neil Netanel,
+        author of the new book Copyright: What Everyone Needs To Know, because there's
+        always something new to learn about copyright."
   content:
-    text: ' \ud83c\udfa7 Listened to Emoji & The Law by Techdirt From Techdirt'
+    text: ' \ud83c\udfa7 Listened to There''s Always Something New To Learn About
+      Copyright by Techdirt From Techdirt'
 - type: entry
   published: "2019-01-10T14:42:41+00:00"
   category:
@@ -72,32 +73,6 @@
   content:
     text: ' \ud83c\udfa7 Listened to Why People Don''t Trust Capitalism Anymore by
       Techdirt From Techdirt'
-- type: entry
-  published: "2019-01-10T22:48:50+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/476188611-techdirt-building-communities-outside-facebook.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/476188611-techdirt-building-communities-outside-facebook.mp3
-      name: Building Communities Outside Facebook
-      author: Techdirt
-      content: "One thing we've talked about for a long time at Techdirt is the importance
-        communities for media outlets, including our own. These days, it feels like
-        a lot of media companies are giving up on this work altogether and outsourcing
-        it to social media platforms \u2014 but that means foregoing some of the most
-        powerful aspects of the internet. This week, we're joined by Josh Millard,
-        who recently took over MetaFilter, to talk about building online communities
-        and not relying on Facebook."
-  content:
-    text: ' \ud83c\udfa7 Listened to Building Communities Outside Facebook by Techdirt
-      From Techdirt'
 - type: entry
   published: "2019-01-10T13:35:05+00:00"
   category:
@@ -125,54 +100,6 @@
     text: ' \ud83c\udfa7 Listened to Old Tweets & Your Permanent Record by Techdirt
       From Techdirt'
 - type: entry
-  published: "2019-01-10T15:28:38+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/479360508-techdirt-the-eus-copyright-threat-to-the-open-internet.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/479360508-techdirt-the-eus-copyright-threat-to-the-open-internet.mp3
-      name: The EU's Copyright Threat To The Open Internet
-      author: Techdirt
-      content: We've got a crossover episode this week, all about the EU's disastrous
-        moves on the copyright front. Mike recently joined the Building Tomorrow podcast
-        to discuss the subject with Paul Matzko and Will Duffield, and now you can
-        listen to it here on this week's episode of the Techdirt Podcast.
-  content:
-    text: ' \ud83c\udfa7 Listened to The EU''s Copyright Threat To The Open Internet
-      by Techdirt From Techdirt'
-- type: entry
-  published: "2019-01-10T03:07:16+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/495223974-techdirt-theres-always-something-new-to-learn-about-copyright.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/495223974-techdirt-theres-always-something-new-to-learn-about-copyright.mp3
-      name: There's Always Something New To Learn About Copyright
-      author: Techdirt
-      content: "Copyright is a big, complicated monster of a law, composed of patchwork
-        updates and shaped by international agreements \u2014 which is, in fact, the
-        source of a lot of its problems. But fixing copyright means understanding
-        it, so this week we've got a conversation with UCLA professor Neil Netanel,
-        author of the new book Copyright: What Everyone Needs To Know, because there's
-        always something new to learn about copyright."
-  content:
-    text: ' \ud83c\udfa7 Listened to There''s Always Something New To Learn About
-      Copyright by Techdirt From Techdirt'
-- type: entry
   published: "2019-01-10T05:55:32+00:00"
   category:
   - scrobble
@@ -198,6 +125,79 @@
   content:
     text: ' \ud83c\udfa7 Listened to Do Short-Term Profits Hurt Long-Term Innovation?
       by Techdirt From Techdirt'
+- type: entry
+  published: "2019-01-10T15:28:38+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/479360508-techdirt-the-eus-copyright-threat-to-the-open-internet.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/479360508-techdirt-the-eus-copyright-threat-to-the-open-internet.mp3
+      name: The EU's Copyright Threat To The Open Internet
+      author: Techdirt
+      content: We've got a crossover episode this week, all about the EU's disastrous
+        moves on the copyright front. Mike recently joined the Building Tomorrow podcast
+        to discuss the subject with Paul Matzko and Will Duffield, and now you can
+        listen to it here on this week's episode of the Techdirt Podcast.
+  content:
+    text: ' \ud83c\udfa7 Listened to The EU''s Copyright Threat To The Open Internet
+      by Techdirt From Techdirt'
+- type: entry
+  published: "2019-01-10T12:44:42+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/489148548-techdirt-emoji-the-law.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/489148548-techdirt-emoji-the-law.mp3
+      name: Emoji & The Law
+      author: Techdirt
+      content: "Have you ever thought about the legal issues surrounding emoji? Don't
+        worry, most people haven't. But they are myriad and interesting, with roots
+        nearly two decades ago following the emergence of emoticons \u2014 and two
+        people who definitely have thought a lot about it are Eric Goldman and Gabriella
+        Ziccarelli, who join us on this week's episode to talk about the various intersections
+        of emoji and the law."
+  content:
+    text: ' \ud83c\udfa7 Listened to Emoji & The Law by Techdirt From Techdirt'
+- type: entry
+  published: "2019-01-10T22:48:50+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/476188611-techdirt-building-communities-outside-facebook.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/476188611-techdirt-building-communities-outside-facebook.mp3
+      name: Building Communities Outside Facebook
+      author: Techdirt
+      content: "One thing we've talked about for a long time at Techdirt is the importance
+        communities for media outlets, including our own. These days, it feels like
+        a lot of media companies are giving up on this work altogether and outsourcing
+        it to social media platforms \u2014 but that means foregoing some of the most
+        powerful aspects of the internet. This week, we're joined by Josh Millard,
+        who recently took over MetaFilter, to talk about building online communities
+        and not relying on Facebook."
+  content:
+    text: ' \ud83c\udfa7 Listened to Building Communities Outside Facebook by Techdirt
+      From Techdirt'
 - type: entry
   published: "2019-01-10T02:21:29+00:00"
   category:

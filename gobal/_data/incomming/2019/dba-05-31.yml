@@ -1,24 +1,116 @@
 ---
 - type: entry
-  published: "2019-05-31T02:17:20+00:00"
+  published: "2019-05-31T09:43:31+00:00"
   category:
   - scrobble
   - audio
-  - RPGMP3 Actual Play Podcast
-  - Hal
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
   listen-of:
     h-cite:
-      url: http://rpgmp3.com/v5/feed/podcast/
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
       photo: ""
       audio:
-      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_85.mp3
-      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_85.mp3
-      name: Kingmaker Session 85
-      author: Hal
-      content: In which we finally return to kingdom turns, and Svetlana proves the
-        fireball is mightier than the giant. Originally recorded 14 September 2018
+      - http://mpegmedia.abc.net.au/rn/podcast/2019/05/gms_20190521.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Where_gold_comes_from_part_one.mp3
+      name: 'Where gold comes from: part one'
+      author: ABC Radio National
+      content: Gold can come from jewellery shops, bank heists, Mints and mines. But
+        where is gold made?
   content:
-    text: ' \ud83c\udfa7 Listened to Kingmaker Session 85 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+    text: ' \ud83c\udfa7 Listened to Where gold comes from: part one by ABC Radio
+      National From Great Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2019-05-31T09:36:31+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2019/05/gms_20190514.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Balloon_popping.mp3
+      name: Balloon popping
+      author: ABC Radio National
+      content: When a balloon pops, sometimes it leaves lots of small fragments of
+        rubber, and sometimes it leaves just a couple of larger pieces. What's going
+        on?
+  content:
+    text: ' \ud83c\udfa7 Listened to Balloon popping by ABC Radio National From Great
+      Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2019-05-31T09:51:01+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2019/05/gms_20190528.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Where_gold_comes_from_part_two.mp3
+      name: 'Where gold comes from: part two'
+      author: ABC Radio National
+      content: When it comes to making gold, alchemists never stood a chance. For
+        that magic you need cataclysmic collisions, dying megastars and black holes.
+  content:
+    text: ' \ud83c\udfa7 Listened to Where gold comes from: part two by ABC Radio
+      National From Great Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2019-05-31T10:20:07+00:00"
+  category:
+  - scrobble
+  - audio
+  - Future Tense - ABC RN
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: https://www.abc.net.au/radionational/feed/2883726/podcast.xml
+      photo: ""
+      audio:
+      - https://abcmedia.akamaized.net/rn/podcast/2019/06/fte_20190602.mp3
+      - http://archive.org/download/Future_Tense_ABC_RN-by-ABC_Radio_National/fte_20190602.mp3
+      name: Capitalism without profit
+      author: ABC Radio National
+      content: "Some of the world\u2019s largest and most influential companies make
+        no profit. They are monopolistic in intent and very future focussed - they
+        favour growth over profitability. So, do they represent a new stage of capitalism,
+        or a dangerous aberration?"
+  content:
+    text: ' \ud83c\udfa7 Listened to Capitalism without profit by ABC Radio National
+      From Future Tense - ABC RN'
+- type: entry
+  published: "2019-05-31T21:26:58+00:00"
+  category:
+  - scrobble
+  - audio
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
+  listen-of:
+    h-cite:
+      url: http://textfiles.libsyn.com/rss
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_66.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Energy_Drink_Episode.mp3
+      name: The Energy Drink Episode
+      author: Jason Scott
+      content: "The Energy Drink Episode: \_All the Caffeine and Twice the Sugar,
+        Teenage Beverages, Wipeout, Red Bull, Diet, Zero, Taurine, Saving Red Bull
+        Music Academy, What Caffeine Brings, A Lost Collection, A Wide-Eyed Doctor,
+        Stress Test. An episode about me and the classification of beverages called
+        Energy Drinks. And a little unexpected event. The Internet Archive mirror
+        of Red Bull Music Academy is here: https://archive.org/details/redbullacademy\_
+        A picture of the original Jolt can as I saw it in 1985: https://www.reddit.com/r/nostalgia/comments/48xndr/jolt_cola_all_the_sugar_and_twice_the_caffeine/\_"
+  content:
+    text: ' \ud83c\udfa7 Listened to The Energy Drink Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
 - type: entry
   published: "2019-05-31T03:42:30+00:00"
   category:
@@ -40,6 +132,87 @@
   content:
     text: ' \ud83c\udfa7 Listened to Generic faces, slushie beers and 5G by triple
       j From Dr Karl Podcast'
+- type: entry
+  published: "2019-05-31T18:38:47+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://rpgmp3.com/v5/feed/podcast/
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_87.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_87.mp3
+      name: Kingmaker Session 87
+      author: Hal
+      content: In which Kaylen has the ride of his life. Originally recorded 11 October
+        2018.
+  content:
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 87 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+- type: entry
+  published: "2019-05-31T21:09:24+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://rpgmp3.com/v5/feed/podcast/
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_88.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_88.mp3
+      name: Kingmaker Session 88
+      author: Hal
+      content: In which Kaylen plans the taking of Fort Drelev, and runs afoul of
+        the Clockwork King over an issue of morals again. Originally recorded 24 October
+        2018.
+  content:
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 88 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+- type: entry
+  published: "2019-05-31T16:44:31+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://rpgmp3.com/v5/feed/podcast/
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_86.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_86.mp3
+      name: Kingmaker Session 86
+      author: Hal
+      content: In which we have a chuul of a good time. Originally recorded 5 October
+        2018.
+  content:
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 86 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+- type: entry
+  published: "2019-05-31T02:17:20+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://rpgmp3.com/v5/feed/podcast/
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_85.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_85.mp3
+      name: Kingmaker Session 85
+      author: Hal
+      content: In which we finally return to kingdom turns, and Svetlana proves the
+        fireball is mightier than the giant. Originally recorded 14 September 2018
+  content:
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 85 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
 - type: entry
   published: "2019-05-31T03:06:07+00:00"
   category:

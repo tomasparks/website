@@ -137,6 +137,32 @@
       the Space Station? by @exploreplanets From Planetary Radio: Space Exploration,
       Astronomy and Science'
 - type: entry
+  published: "2018-05-07T15:20:07+00:00"
+  category:
+  - scrobble
+  - audio
+  - Not Another D&D Podcast
+  - HeadGum
+  listen-of:
+    h-cite:
+      url: https://warp.gumballcdn.com/v1/rss?uuid=5fac20eeb4&rss=https://rss.art19.com/not-another-d-and-d-podcast
+      photo: ""
+      audio:
+      - https://warp.gumballcdn.com/v1/mp3?uuid=5fac20eeb4&show=3468b795cd&mp3=http://rss.art19.com/episodes/4a1dc303-d2af-4b39-99db-f3e7e690d2e8.mp3
+      - http://archive.org/download/Not_Another_DD_Podcast-by-HeadGum/mp3
+      name: 'Ep. 13: The City in the Clouds (The Galaderon Saga)'
+      author: HeadGum
+      content: "Beverly is badly injured after his fall, so his scoutmasters hustle
+        to get him home to Galaderon. Hardwon competes with a new rival for Bev's
+        affection, Moonshine tracks down someone she thinks to be the legendary Thiala,
+        and Beverly comes face to face with his greatest fear: his dad. \n\n\n\n\nMusic/Sound
+        Effects include:\n\n\"City in the Clouds\" by Emily Axford.\n\n\"Beverly's
+        House\" by Emily Axford.\n\n\"The Widow\" by Emily Axford.\n\n\"Crackling
+        Fire\" by sagetyrtle at Freesound.org.\n\n\n"
+  content:
+    text: ' \ud83c\udfa7 Listened to Ep. 13: The City in the Clouds (The Galaderon
+      Saga) by HeadGum From Not Another D&D Podcast'
+- type: entry
   published: "2018-05-07T04:57:40+00:00"
   category:
   - scrobble
@@ -175,30 +201,4 @@
   content:
     text: ' \ud83c\udfa7 Listened to Ep. 12: The Watchman (The Road to Galaderon with
       Nathan Yaffe) by HeadGum From Not Another D&D Podcast'
-- type: entry
-  published: "2018-05-07T15:20:07+00:00"
-  category:
-  - scrobble
-  - audio
-  - Not Another D&D Podcast
-  - HeadGum
-  listen-of:
-    h-cite:
-      url: https://warp.gumballcdn.com/v1/rss?uuid=5fac20eeb4&rss=https://rss.art19.com/not-another-d-and-d-podcast
-      photo: ""
-      audio:
-      - https://warp.gumballcdn.com/v1/mp3?uuid=5fac20eeb4&show=3468b795cd&mp3=http://rss.art19.com/episodes/4a1dc303-d2af-4b39-99db-f3e7e690d2e8.mp3
-      - http://archive.org/download/Not_Another_DD_Podcast-by-HeadGum/mp3
-      name: 'Ep. 13: The City in the Clouds (The Galaderon Saga)'
-      author: HeadGum
-      content: "Beverly is badly injured after his fall, so his scoutmasters hustle
-        to get him home to Galaderon. Hardwon competes with a new rival for Bev's
-        affection, Moonshine tracks down someone she thinks to be the legendary Thiala,
-        and Beverly comes face to face with his greatest fear: his dad. \n\n\n\n\nMusic/Sound
-        Effects include:\n\n\"City in the Clouds\" by Emily Axford.\n\n\"Beverly's
-        House\" by Emily Axford.\n\n\"The Widow\" by Emily Axford.\n\n\"Crackling
-        Fire\" by sagetyrtle at Freesound.org.\n\n\n"
-  content:
-    text: ' \ud83c\udfa7 Listened to Ep. 13: The City in the Clouds (The Galaderon
-      Saga) by HeadGum From Not Another D&D Podcast'
 ...

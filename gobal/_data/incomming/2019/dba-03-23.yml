@@ -1,5 +1,31 @@
 ---
 - type: entry
+  published: "2019-03-23T19:54:57+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/592660035-techdirt-the-failure-of-high-tech-policing.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/592660035-techdirt-the-failure-of-high-tech-policing.mp3
+      name: The Failure Of High Tech Policing
+      author: Techdirt
+      content: 'Sometimes people ask us why we write so much about the police on Techdirt.
+        Though our coverage has grown somewhat beyond the boundaries of incidents
+        directly involving technology, the reality is that the problems with law enforcement
+        persistently intersect with the same technological and legal issues we''ve
+        always discussed here. But this week the focus is squarely on cops and technology:
+        Mike is joined by Matt Stroud, author of the new book Thin Blue Lie, as well
+        as our own Tim Cushing, to talk about the failure of high-tech policing.'
+  content:
+    text: ' \ud83c\udfa7 Listened to The Failure Of High Tech Policing by Techdirt
+      From Techdirt'
+- type: entry
   published: "2019-03-23T10:38:47+00:00"
   category:
   - scrobble
@@ -27,31 +53,64 @@
   content:
     text: ' \ud83c\udfa7 Listened to The Acting Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
 - type: entry
-  published: "2019-03-23T19:54:57+00:00"
+  published: "2019-03-23T22:35:29+00:00"
   category:
   - scrobble
   - audio
-  - Techdirt
-  - Techdirt
+  - IRL - Online Life Is Real Life
+  - Mozilla
   listen-of:
     h-cite:
-      url: https://www.techdirt.com/podcast.xml
+      url: https://feeds.mozilla-podcasts.org/irl
       photo: ""
       audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/592660035-techdirt-the-failure-of-high-tech-policing.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/592660035-techdirt-the-failure-of-high-tech-policing.mp3
-      name: The Failure Of High Tech Policing
-      author: Techdirt
-      content: 'Sometimes people ask us why we write so much about the police on Techdirt.
-        Though our coverage has grown somewhat beyond the boundaries of incidents
-        directly involving technology, the reality is that the problems with law enforcement
-        persistently intersect with the same technological and legal issues we''ve
-        always discussed here. But this week the focus is squarely on cops and technology:
-        Mike is joined by Matt Stroud, author of the new book Thin Blue Lie, as well
-        as our own Tim Cushing, to talk about the failure of high-tech policing.'
+      - https://tracking.feedpress.it/link/17512/10833529/01102940.mp3
+      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/01102940.mp3
+      name: Checking Out Online Shopping
+      author: Mozilla
+      content: "When you shop, your data may be the most valuable thing for sale.
+        This isn\u2019t just true online \u2014 your data follows you into brick and
+        mortar stores now as well. Manoush Zomorodi explores the hidden costs of shopping,
+        online and off. Meet Meta Brown, a data scientist who unveils the information
+        Amazon captures about you when you make an online purchase; Joseph Turow,
+        who discusses how retailers are stripping us of our privacy; and Alana Semuels,
+        who talks about becoming a hoarder with the advent of online shopping. Plus,
+        learn about a college coffee shop where you can actually buy a drink with
+        your data. (Is it worth it?)\n\nIRL is an original podcast from Mozilla. For
+        more on the series go to irlpodcast.org\n"
   content:
-    text: ' \ud83c\udfa7 Listened to The Failure Of High Tech Policing by Techdirt
-      From Techdirt'
+    text: ' \ud83c\udfa7 Listened to Checking Out Online Shopping by Mozilla From
+      IRL - Online Life Is Real Life'
+- type: entry
+  published: "2019-03-23T22:03:26+00:00"
+  category:
+  - scrobble
+  - audio
+  - IRL - Online Life Is Real Life
+  - Mozilla
+  listen-of:
+    h-cite:
+      url: https://feeds.mozilla-podcasts.org/irl
+      photo: ""
+      audio:
+      - https://tracking.feedpress.it/link/17512/10478520/97e209a6.mp3
+      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/97e209a6.mp3
+      name: What to Expect When You're Electing
+      author: Mozilla
+      content: "The 2016 U.S. presidential election blew up our ideas about influence
+        campaigns in the age of screens. Two years later, Veronica Belmont and Baratunde
+        Thurston examine how the internet is changing our minds, our votes, and our
+        democracies \u2013 all over the world.\n\nPulitzer Prize-winning New York
+        Times reporter Scott Shane details the United States' long history with election
+        meddling. Paris correspondent for the Washington Post, James McAuley, shines
+        a light on how other countries are managing the changing dynamics of online
+        political campaigns. And speculative fiction authors Malka Older and Genevieve
+        Valentine describe what elections may look like in the future, with advances
+        in technology.\n\nIRL is an original podcast from Mozilla. For more on the
+        series go to irlpodcast.org\n"
+  content:
+    text: ' \ud83c\udfa7 Listened to What to Expect When You''re Electing by Mozilla
+      From IRL - Online Life Is Real Life'
 - type: entry
   published: "2019-03-23T23:07:33+00:00"
   category:
@@ -86,65 +145,6 @@
   content:
     text: ' \ud83c\udfa7 Listened to Your Password is the Worst by Mozilla From IRL
       - Online Life Is Real Life'
-- type: entry
-  published: "2019-03-23T22:03:26+00:00"
-  category:
-  - scrobble
-  - audio
-  - IRL - Online Life Is Real Life
-  - Mozilla
-  listen-of:
-    h-cite:
-      url: https://feeds.mozilla-podcasts.org/irl
-      photo: ""
-      audio:
-      - https://tracking.feedpress.it/link/17512/10478520/97e209a6.mp3
-      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/97e209a6.mp3
-      name: What to Expect When You're Electing
-      author: Mozilla
-      content: "The 2016 U.S. presidential election blew up our ideas about influence
-        campaigns in the age of screens. Two years later, Veronica Belmont and Baratunde
-        Thurston examine how the internet is changing our minds, our votes, and our
-        democracies \u2013 all over the world.\n\nPulitzer Prize-winning New York
-        Times reporter Scott Shane details the United States' long history with election
-        meddling. Paris correspondent for the Washington Post, James McAuley, shines
-        a light on how other countries are managing the changing dynamics of online
-        political campaigns. And speculative fiction authors Malka Older and Genevieve
-        Valentine describe what elections may look like in the future, with advances
-        in technology.\n\nIRL is an original podcast from Mozilla. For more on the
-        series go to irlpodcast.org\n"
-  content:
-    text: ' \ud83c\udfa7 Listened to What to Expect When You''re Electing by Mozilla
-      From IRL - Online Life Is Real Life'
-- type: entry
-  published: "2019-03-23T22:35:29+00:00"
-  category:
-  - scrobble
-  - audio
-  - IRL - Online Life Is Real Life
-  - Mozilla
-  listen-of:
-    h-cite:
-      url: https://feeds.mozilla-podcasts.org/irl
-      photo: ""
-      audio:
-      - https://tracking.feedpress.it/link/17512/10833529/01102940.mp3
-      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/01102940.mp3
-      name: Checking Out Online Shopping
-      author: Mozilla
-      content: "When you shop, your data may be the most valuable thing for sale.
-        This isn\u2019t just true online \u2014 your data follows you into brick and
-        mortar stores now as well. Manoush Zomorodi explores the hidden costs of shopping,
-        online and off. Meet Meta Brown, a data scientist who unveils the information
-        Amazon captures about you when you make an online purchase; Joseph Turow,
-        who discusses how retailers are stripping us of our privacy; and Alana Semuels,
-        who talks about becoming a hoarder with the advent of online shopping. Plus,
-        learn about a college coffee shop where you can actually buy a drink with
-        your data. (Is it worth it?)\n\nIRL is an original podcast from Mozilla. For
-        more on the series go to irlpodcast.org\n"
-  content:
-    text: ' \ud83c\udfa7 Listened to Checking Out Online Shopping by Mozilla From
-      IRL - Online Life Is Real Life'
 - type: entry
   published: "2019-03-23T22:05:48+00:00"
   category:

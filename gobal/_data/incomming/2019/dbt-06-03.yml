@@ -1,0 +1,116 @@
+---
+- type: entry
+  published: "2019-06-03T20:30:15+00:00"
+  url: https://twitter.com/tomasparksts/status/1135644890333757440
+  category:
+  - https://twitter.com/Octav1usKitten
+  - https://twitter.com/WELollygagger
+  - https://twitter.com/namco_
+  - https://twitter.com/gamingmuso
+  photo:
+  - https://pbs.twimg.com/media/D8KfAIcUYAIsbqZ.jpg
+  in-reply-to:
+  - https://twitter.com/tomasparksts/status/1135640212896247808
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/Octav1usKitten:
+      type: card
+      name: "Queen Octav1us \U0001F3F3\uFE0F\u200D\U0001F308"
+      url: https://twitter.com/Octav1usKitten
+      photo: ~
+    https://twitter.com/WELollygagger:
+      type: card
+      name: Weekend Lollygagger
+      url: https://twitter.com/WELollygagger
+      photo: ~
+    https://twitter.com/namco_:
+      type: card
+      name: James Dunn
+      url: https://twitter.com/namco_
+      photo: ~
+    https://twitter.com/gamingmuso:
+      type: card
+      name: The Gaming Muso
+      url: https://twitter.com/gamingmuso
+      photo: ~
+- type: entry
+  published: "2019-06-03T20:11:40+00:00"
+  url: https://twitter.com/tomasparksts/status/1135640212896247808
+  category:
+  - https://twitter.com/Octav1usKitten
+  - https://twitter.com/WELollygagger
+  - https://twitter.com/namco_
+  - https://twitter.com/gamingmuso
+  photo:
+  - https://pbs.twimg.com/media/D8Kav7EVUAAzqMY.jpg
+  in-reply-to:
+  - https://twitter.com/Octav1usKitten/status/1135636566464978946
+  content:
+    text: '"there''s your problem" Radeon GPUs are shit'
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/Octav1usKitten:
+      type: card
+      name: "Queen Octav1us \U0001F3F3\uFE0F\u200D\U0001F308"
+      url: https://twitter.com/Octav1usKitten
+      photo: ~
+    https://twitter.com/WELollygagger:
+      type: card
+      name: Weekend Lollygagger
+      url: https://twitter.com/WELollygagger
+      photo: ~
+    https://twitter.com/namco_:
+      type: card
+      name: James Dunn
+      url: https://twitter.com/namco_
+      photo: ~
+    https://twitter.com/gamingmuso:
+      type: card
+      name: The Gaming Muso
+      url: https://twitter.com/gamingmuso
+      photo: ~
+- type: entry
+  published: "2019-06-03T19:42:45+00:00"
+  url: https://twitter.com/tomasparksts/status/1135632934478569473
+  category:
+  - https://twitter.com/Adobe
+  - https://twitter.com/autodesk
+  - https://twitter.com/EFF
+  content:
+    text: 'I am getting #sickandtired of #finding #software under #SaaS #agreement  @adobe
+      @autodesk  @EFF'
+    html: I am getting <a href="https://twitter.com/search?q=%23sickandtired">#sickandtired</a>
+      of <a href="https://twitter.com/search?q=%23finding">#finding</a> <a href="https://twitter.com/search?q=%23software">#software</a>
+      under <a href="https://twitter.com/search?q=%23SaaS">#SaaS</a> <a href="https://twitter.com/search?q=%23agreement">#agreement</a>  <a
+      href="https://twitter.com/Adobe">@adobe</a> <a href="https://twitter.com/autodesk">@autodesk</a>  <a
+      href="https://twitter.com/EFF">@EFF</a>
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/Adobe:
+      type: card
+      name: Adobe
+      url: https://twitter.com/Adobe
+      photo: ~
+    https://twitter.com/autodesk:
+      type: card
+      name: Autodesk
+      url: https://twitter.com/autodesk
+      photo: ~
+    https://twitter.com/EFF:
+      type: card
+      name: EFF
+      url: https://twitter.com/EFF
+      photo: ~
+...

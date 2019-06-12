@@ -1,6 +1,6 @@
 ---
 - type: entry
-  published: "2018-01-26T06:20:56+00:00"
+  published: "2018-01-26T13:01:58+00:00"
   category:
   - scrobble
   - audio
@@ -11,16 +11,16 @@
       url: http://feeds.feedburner.com/InternetHistoryPodcast
       photo: ""
       audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/_R1bFZvTbaA/95._Pathfinder_Executive_Paul_Sagan.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/95_Pathfinder_Executive_Paul_Sagan.mp3
-      name: 95. Pathfinder Executive Paul Sagan
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/DfJ_36J110c/97._Chris_Fralic_chrisfralic_Discusses_Half.com_and_Del.icio.us.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/97_Chris_Fralic_chrisfralic_Discusses_Halfcom_and_Delicious.mp3
+      name: 97. Chris Fralic @chrisfralic Discusses Half.com and Del.icio.us
       author: Brian McCullough @brianmcc
       content: A history of the Internet Era from Netscape to the iPad. Oral histories
         from the people that made the technology happen. "Chapter" episodes providing
         background on the history of the companies.
   content:
-    text: ' \ud83c\udfa7 Listened to 95. Pathfinder Executive Paul Sagan by Brian
-      McCullough @brianmcc From Internet History Podcast'
+    text: ' \ud83c\udfa7 Listened to 97. Chris Fralic @chrisfralic Discusses Half.com
+      and Del.icio.us by Brian McCullough @brianmcc From Internet History Podcast'
 - type: entry
   published: "2018-01-26T16:27:38+00:00"
   category:
@@ -44,6 +44,28 @@
     text: ' \ud83c\udfa7 Listened to 98. Rob Lord, Founder of the Internet Underground
       Music Archive by Brian McCullough @brianmcc From Internet History Podcast'
 - type: entry
+  published: "2018-01-26T06:20:56+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/_R1bFZvTbaA/95._Pathfinder_Executive_Paul_Sagan.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/95_Pathfinder_Executive_Paul_Sagan.mp3
+      name: 95. Pathfinder Executive Paul Sagan
+      author: Brian McCullough @brianmcc
+      content: A history of the Internet Era from Netscape to the iPad. Oral histories
+        from the people that made the technology happen. "Chapter" episodes providing
+        background on the history of the companies.
+  content:
+    text: ' \ud83c\udfa7 Listened to 95. Pathfinder Executive Paul Sagan by Brian
+      McCullough @brianmcc From Internet History Podcast'
+- type: entry
   published: "2018-01-26T07:32:39+00:00"
   category:
   - scrobble
@@ -65,26 +87,4 @@
   content:
     text: ' \ud83c\udfa7 Listened to 96. The First "Web" Cam With Quentin Stafford-Fraser
       by Brian McCullough @brianmcc From Internet History Podcast'
-- type: entry
-  published: "2018-01-26T13:01:58+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough @brianmcc
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/DfJ_36J110c/97._Chris_Fralic_chrisfralic_Discusses_Half.com_and_Del.icio.us.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/97_Chris_Fralic_chrisfralic_Discusses_Halfcom_and_Delicious.mp3
-      name: 97. Chris Fralic @chrisfralic Discusses Half.com and Del.icio.us
-      author: Brian McCullough @brianmcc
-      content: A history of the Internet Era from Netscape to the iPad. Oral histories
-        from the people that made the technology happen. "Chapter" episodes providing
-        background on the history of the companies.
-  content:
-    text: ' \ud83c\udfa7 Listened to 97. Chris Fralic @chrisfralic Discusses Half.com
-      and Del.icio.us by Brian McCullough @brianmcc From Internet History Podcast'
 ...

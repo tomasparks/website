@@ -1,49 +1,45 @@
 ---
 - type: entry
-  published: "2018-03-02T00:04:46+00:00"
+  published: "2018-03-02T21:35:13+00:00"
   category:
   - scrobble
   - audio
-  - Jason Scott Talks His Way Out of It
-  - Jason Scott
+  - Techdirt
+  - Techdirt
   listen-of:
     h-cite:
-      url: http://textfiles.libsyn.com/rss
+      url: https://www.techdirt.com/podcast.xml
       photo: ""
       audio:
-      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_20.mp3?dest-id=574323
-      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_John_Romero_Episode.mp3
-      name: The John Romero Episode
-      author: Jason Scott
-      content: " The John Romero Episode: Meeting John Romero Twice, Doom, Deathmatch,
-        Interviewing John, History and Historian, Apple II Reunion II, Taco Truck,
-        A Most Difficult Debt. \_   I mention a great architecture walkthrough John
-        Romero gave it can be watched here: https://vimeo.com/156288044 "
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/181063632-techdirt-in-defense-of-advertising.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/181063632-techdirt-in-defense-of-advertising.mp3
+      name: In Defense Of Advertising
+      author: Techdirt
+      content: Mike Masnick, Hersh Reddy and Dennis Yang look beyond the kneejerk
+        reaction that "all advertising is bad" in Episode 4 of the Techdirt Podcast.
   content:
-    text: ' \ud83c\udfa7 Listened to The John Romero Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
+    text: ' \ud83c\udfa7 Listened to In Defense Of Advertising by Techdirt From Techdirt'
 - type: entry
-  published: "2018-03-02T00:26:13+00:00"
+  published: "2018-03-02T18:40:15+00:00"
   category:
   - scrobble
   - audio
-  - Jason Scott Talks His Way Out of It
-  - Jason Scott
+  - Techdirt
+  - Techdirt
   listen-of:
     h-cite:
-      url: http://textfiles.libsyn.com/rss
+      url: https://www.techdirt.com/podcast.xml
       photo: ""
       audio:
-      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_21.mp3?dest-id=574323
-      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Phone_Phreak_Episode.mp3
-      name: The Phone Phreak Episode
-      author: Jason Scott
-      content: 'The Phone Phreak Episode: The Woods, To All Who Dare, Phreak Philes,
-        The Office, My Ship In The Darkness, The Next Generation, Exploding the Phone.
-        I really push the book "Exploding the Phone" by Phil Lapsley in this episode.
-        If you''ve not heard of it or you''ve always been on the fence about it...
-        if the history of Phreaking interests you, this is the book.'
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/176640963-techdirt-can-you-increase-privacy-by-increasing-surveillance.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/176640963-techdirt-can-you-increase-privacy-by-increasing-surveillance.mp3
+      name: Can You Increase Privacy By Increasing Surveillance?
+      author: Techdirt
+      content: Michael Masnick, Hersh Reddy and Dennis Yang discuss the paradox of
+        privacy in the digital age.
   content:
-    text: ' \ud83c\udfa7 Listened to The Phone Phreak Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
+    text: ' \ud83c\udfa7 Listened to Can You Increase Privacy By Increasing Surveillance?
+      by Techdirt From Techdirt'
 - type: entry
   published: "2018-03-02T19:07:35+00:00"
   category:
@@ -87,44 +83,48 @@
     text: ' \ud83c\udfa7 Listened to Amanda Palmer And The Art Of Asking by Techdirt
       From Techdirt'
 - type: entry
-  published: "2018-03-02T18:40:15+00:00"
+  published: "2018-03-02T00:26:13+00:00"
   category:
   - scrobble
   - audio
-  - Techdirt
-  - Techdirt
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
   listen-of:
     h-cite:
-      url: https://www.techdirt.com/podcast.xml
+      url: http://textfiles.libsyn.com/rss
       photo: ""
       audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/176640963-techdirt-can-you-increase-privacy-by-increasing-surveillance.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/176640963-techdirt-can-you-increase-privacy-by-increasing-surveillance.mp3
-      name: Can You Increase Privacy By Increasing Surveillance?
-      author: Techdirt
-      content: Michael Masnick, Hersh Reddy and Dennis Yang discuss the paradox of
-        privacy in the digital age.
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_21.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Phone_Phreak_Episode.mp3
+      name: The Phone Phreak Episode
+      author: Jason Scott
+      content: 'The Phone Phreak Episode: The Woods, To All Who Dare, Phreak Philes,
+        The Office, My Ship In The Darkness, The Next Generation, Exploding the Phone.
+        I really push the book "Exploding the Phone" by Phil Lapsley in this episode.
+        If you''ve not heard of it or you''ve always been on the fence about it...
+        if the history of Phreaking interests you, this is the book.'
   content:
-    text: ' \ud83c\udfa7 Listened to Can You Increase Privacy By Increasing Surveillance?
-      by Techdirt From Techdirt'
+    text: ' \ud83c\udfa7 Listened to The Phone Phreak Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
 - type: entry
-  published: "2018-03-02T21:35:13+00:00"
+  published: "2018-03-02T00:04:46+00:00"
   category:
   - scrobble
   - audio
-  - Techdirt
-  - Techdirt
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
   listen-of:
     h-cite:
-      url: https://www.techdirt.com/podcast.xml
+      url: http://textfiles.libsyn.com/rss
       photo: ""
       audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/181063632-techdirt-in-defense-of-advertising.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/181063632-techdirt-in-defense-of-advertising.mp3
-      name: In Defense Of Advertising
-      author: Techdirt
-      content: Mike Masnick, Hersh Reddy and Dennis Yang look beyond the kneejerk
-        reaction that "all advertising is bad" in Episode 4 of the Techdirt Podcast.
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_20.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_John_Romero_Episode.mp3
+      name: The John Romero Episode
+      author: Jason Scott
+      content: " The John Romero Episode: Meeting John Romero Twice, Doom, Deathmatch,
+        Interviewing John, History and Historian, Apple II Reunion II, Taco Truck,
+        A Most Difficult Debt. \_   I mention a great architecture walkthrough John
+        Romero gave it can be watched here: https://vimeo.com/156288044 "
   content:
-    text: ' \ud83c\udfa7 Listened to In Defense Of Advertising by Techdirt From Techdirt'
+    text: ' \ud83c\udfa7 Listened to The John Romero Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
 ...

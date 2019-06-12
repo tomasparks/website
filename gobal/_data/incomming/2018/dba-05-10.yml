@@ -23,28 +23,6 @@
     text: ' \ud83c\udfa7 Listened to Exclusive: How Microsoft CEO Satya Nadella is
       rethinking Windows by Array From snarfed on Huffduffer'
 - type: entry
-  published: "2018-05-10T04:55:39+00:00"
-  category:
-  - scrobble
-  - audio
-  - Jason Scott Talks His Way Out of It
-  - Jason Scott
-  listen-of:
-    h-cite:
-      url: http://textfiles.libsyn.com/rss
-      photo: ""
-      audio:
-      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_26.mp3?dest-id=574323
-      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Living_Computer_Episode.mp3
-      name: The Living Computer Episode
-      author: Jason Scott
-      content: 'The Living Computers Episode: Talking of the Present, The Living Computers
-        Museum, A Basement Returns, Archives in a Fishbowl, Emulation, World Champion,
-        Presentations, The Future of Disk Packs, I Can''t Do Everything, Thanks Again.'
-  content:
-    text: ' \ud83c\udfa7 Listened to The Living Computer Episode by @textfiles From
-      #JasonScottTalksHisWayOutofIt'
-- type: entry
   published: "2018-05-10T13:11:41+00:00"
   category:
   - scrobble
@@ -66,6 +44,28 @@
   content:
     text: ' \ud83c\udfa7 Listened to Hemp, nicotine and underwater spiders by ABC
       Science From Dr Karl on triplej'
+- type: entry
+  published: "2018-05-10T04:55:39+00:00"
+  category:
+  - scrobble
+  - audio
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
+  listen-of:
+    h-cite:
+      url: http://textfiles.libsyn.com/rss
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_26.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Living_Computer_Episode.mp3
+      name: The Living Computer Episode
+      author: Jason Scott
+      content: 'The Living Computers Episode: Talking of the Present, The Living Computers
+        Museum, A Basement Returns, Archives in a Fishbowl, Emulation, World Champion,
+        Presentations, The Future of Disk Packs, I Can''t Do Everything, Thanks Again.'
+  content:
+    text: ' \ud83c\udfa7 Listened to The Living Computer Episode by @textfiles From
+      #JasonScottTalksHisWayOutofIt'
 - type: entry
   published: "2018-05-10T06:55:29+00:00"
   category:

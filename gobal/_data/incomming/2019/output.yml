@@ -1,5 +1,291 @@
 ---
 2019:
+  "06":
+    09:
+    - type: entry
+      published: "2019-06-09T06:09:41+00:00"
+      url: https://twitter.com/tomasparksts/status/1137602646540312577
+      category:
+      - https://twitter.com/Octav1usKitten
+      in-reply-to:
+      - https://twitter.com/Octav1usKitten/status/1137601072535670785
+      content:
+        text: 'forget Kim Kardashian, octy #breakstheinternet'
+        html: forget Kim Kardashian, octy <a href="https://twitter.com/search?q=%23breakstheinternet">#breakstheinternet</a>
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/Octav1usKitten:
+          type: card
+          name: "Queen Octav1us \U0001F3F3\uFE0F\u200D\U0001F308"
+          url: https://twitter.com/Octav1usKitten
+          photo: ~
+    "05":
+    - type: entry
+      published: "2019-06-05T21:15:24+00:00"
+      url: https://twitter.com/tomasparksts/status/1136381026333220864
+      category:
+      - https://twitter.com/Octav1usKitten
+      in-reply-to:
+      - https://twitter.com/Octav1usKitten/status/1136290568135483393
+      content:
+        text: it makes me think of an escort service
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/Octav1usKitten:
+          type: card
+          name: "Queen Octav1us \U0001F3F3\uFE0F\u200D\U0001F308"
+          url: https://twitter.com/Octav1usKitten
+          photo: ~
+    - type: entry
+      published: "2019-06-05T06:06:40+00:00"
+      url: https://twitter.com/tomasparksts/status/1136152335468515328
+      category:
+      - https://twitter.com/PushinUpRoses
+      video:
+      - https://video.twimg.com/tweet_video/D8RshEZUIAAJB7T.mp4
+      in-reply-to:
+      - https://twitter.com/PushinUpRoses/status/1136151212355723264
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/PushinUpRoses:
+          type: card
+          name: "PushingUpRoses \U0001F987"
+          url: https://twitter.com/PushinUpRoses
+          photo: ~
+    "04":
+    - type: entry
+      published: "2019-06-04T21:18:32+00:00"
+      url: https://twitter.com/tomasparksts/status/1136019428875747328
+      category:
+      - https://twitter.com/DragonOrca
+      - https://twitter.com/lazygamereviews
+      - https://twitter.com/PushinUpRoses
+      in-reply-to:
+      - https://twitter.com/DragonOrca/status/1135970800161308673
+      content:
+        text: this more of a @PushinUpRoses thing
+        html: this more of a <a href="https://twitter.com/PushinUpRoses">@PushinUpRoses</a>
+          thing
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/DragonOrca:
+          type: card
+          name: D.O., Fragon Fur Hire
+          url: https://twitter.com/DragonOrca
+          photo: ~
+        https://twitter.com/lazygamereviews:
+          type: card
+          name: LGR
+          url: https://twitter.com/lazygamereviews
+          photo: ~
+        https://twitter.com/PushinUpRoses:
+          type: card
+          name: "PushingUpRoses \U0001F987"
+          url: https://twitter.com/PushinUpRoses
+          photo: ~
+    - type: entry
+      published: "2019-06-04T20:02:58+00:00"
+      url: https://twitter.com/tomasparksts/status/1136000411502952448
+      category:
+      - https://twitter.com/RPGMP3
+      - https://twitter.com/ygguild
+      in-reply-to:
+      - https://twitter.com/RPGMP3/status/1135976507661324289
+      content:
+        text: 'I''ve been listening to the #YorktonGamerGuildActualPlayPodcast from
+          the beginning @ygguild'
+        html: I've been listening to the <a href="https://twitter.com/search?q=%23YorktonGamerGuildActualPlayPodcast">#YorktonGamerGuildActualPlayPodcast</a>
+          from the beginning <a href="https://twitter.com/ygguild">@ygguild</a>
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/RPGMP3:
+          type: card
+          name: RPGMP3
+          url: https://twitter.com/RPGMP3
+          photo: ~
+        https://twitter.com/ygguild:
+          type: card
+          name: Yorkton GamerGuild
+          url: https://twitter.com/ygguild
+          photo: ~
+    - type: entry
+      published: "2019-06-04T01:55:35+00:00"
+      url: https://twitter.com/tomasparksts/status/1135726763042938880
+      category:
+      - https://twitter.com/Adobe
+      - https://twitter.com/autodesk
+      - https://twitter.com/EFF
+      - https://twitter.com/fsf
+      in-reply-to:
+      - https://twitter.com/tomasparksts/status/1135632934478569473
+      content:
+        text: 'I am questioning if I #should #buy #software #anymore and go #100%
+          #Floss @fsf'
+        html: 'I am questioning if I <a href="https://twitter.com/search?q=%23should">#should</a>
+          <a href="https://twitter.com/search?q=%23buy">#buy</a> <a href="https://twitter.com/search?q=%23software">#software</a>
+          <a href="https://twitter.com/search?q=%23anymore">#anymore</a> and go #100%
+          <a href="https://twitter.com/search?q=%23Floss">#Floss</a> <a href="https://twitter.com/fsf">@fsf</a>'
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/Adobe:
+          type: card
+          name: Adobe
+          url: https://twitter.com/Adobe
+          photo: ~
+        https://twitter.com/autodesk:
+          type: card
+          name: Autodesk
+          url: https://twitter.com/autodesk
+          photo: ~
+        https://twitter.com/EFF:
+          type: card
+          name: EFF
+          url: https://twitter.com/EFF
+          photo: ~
+        https://twitter.com/fsf:
+          type: card
+          name: Free Software Fndn.
+          url: https://twitter.com/fsf
+          photo: ~
+    "03":
+    - type: entry
+      published: "2019-06-03T20:30:15+00:00"
+      url: https://twitter.com/tomasparksts/status/1135644890333757440
+      category:
+      - https://twitter.com/Octav1usKitten
+      - https://twitter.com/WELollygagger
+      - https://twitter.com/namco_
+      - https://twitter.com/gamingmuso
+      photo:
+      - https://pbs.twimg.com/media/D8KfAIcUYAIsbqZ.jpg
+      in-reply-to:
+      - https://twitter.com/tomasparksts/status/1135640212896247808
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/Octav1usKitten:
+          type: card
+          name: "Queen Octav1us \U0001F3F3\uFE0F\u200D\U0001F308"
+          url: https://twitter.com/Octav1usKitten
+          photo: ~
+        https://twitter.com/WELollygagger:
+          type: card
+          name: Weekend Lollygagger
+          url: https://twitter.com/WELollygagger
+          photo: ~
+        https://twitter.com/namco_:
+          type: card
+          name: James Dunn
+          url: https://twitter.com/namco_
+          photo: ~
+        https://twitter.com/gamingmuso:
+          type: card
+          name: The Gaming Muso
+          url: https://twitter.com/gamingmuso
+          photo: ~
+    - type: entry
+      published: "2019-06-03T20:11:40+00:00"
+      url: https://twitter.com/tomasparksts/status/1135640212896247808
+      category:
+      - https://twitter.com/Octav1usKitten
+      - https://twitter.com/WELollygagger
+      - https://twitter.com/namco_
+      - https://twitter.com/gamingmuso
+      photo:
+      - https://pbs.twimg.com/media/D8Kav7EVUAAzqMY.jpg
+      in-reply-to:
+      - https://twitter.com/Octav1usKitten/status/1135636566464978946
+      content:
+        text: '"there''s your problem" Radeon GPUs are shit'
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/Octav1usKitten:
+          type: card
+          name: "Queen Octav1us \U0001F3F3\uFE0F\u200D\U0001F308"
+          url: https://twitter.com/Octav1usKitten
+          photo: ~
+        https://twitter.com/WELollygagger:
+          type: card
+          name: Weekend Lollygagger
+          url: https://twitter.com/WELollygagger
+          photo: ~
+        https://twitter.com/namco_:
+          type: card
+          name: James Dunn
+          url: https://twitter.com/namco_
+          photo: ~
+        https://twitter.com/gamingmuso:
+          type: card
+          name: The Gaming Muso
+          url: https://twitter.com/gamingmuso
+          photo: ~
+    - type: entry
+      published: "2019-06-03T19:42:45+00:00"
+      url: https://twitter.com/tomasparksts/status/1135632934478569473
+      category:
+      - https://twitter.com/Adobe
+      - https://twitter.com/autodesk
+      - https://twitter.com/EFF
+      content:
+        text: 'I am getting #sickandtired of #finding #software under #SaaS #agreement  @adobe
+          @autodesk  @EFF'
+        html: I am getting <a href="https://twitter.com/search?q=%23sickandtired">#sickandtired</a>
+          of <a href="https://twitter.com/search?q=%23finding">#finding</a> <a href="https://twitter.com/search?q=%23software">#software</a>
+          under <a href="https://twitter.com/search?q=%23SaaS">#SaaS</a> <a href="https://twitter.com/search?q=%23agreement">#agreement</a>  <a
+          href="https://twitter.com/Adobe">@adobe</a> <a href="https://twitter.com/autodesk">@autodesk</a>  <a
+          href="https://twitter.com/EFF">@EFF</a>
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/Adobe:
+          type: card
+          name: Adobe
+          url: https://twitter.com/Adobe
+          photo: ~
+        https://twitter.com/autodesk:
+          type: card
+          name: Autodesk
+          url: https://twitter.com/autodesk
+          photo: ~
+        https://twitter.com/EFF:
+          type: card
+          name: EFF
+          url: https://twitter.com/EFF
+          photo: ~
   "05":
     29:
     - type: entry
@@ -25,230 +311,4 @@
             name: David Masad
             url: https://twitter.com/badnetworker
             photo: https://pbs.twimg.com/profile_images/1553373736/Masad_David_CSSSA_2011.jpg
-    28:
-    - type: entry
-      published: "2019-05-28T17:55:44+00:00"
-      url: https://twitter.com/tomasparksts/status/1133431676439130112
-      category:
-      - https://twitter.com/Octav1usKitten
-      - https://twitter.com/chipspeech
-      - https://twitter.com/OttoMozer
-      in-reply-to:
-      - https://twitter.com/Octav1usKitten/status/1133414351115837446
-      content:
-        text: "\"40 years after my creation I am back!\" - EVIL OTTO @chipspeech @OttoMozeryoutube.com/watch?v=-Skiek\u2026"
-        html: "\"40 years after my creation I am back!\" - EVIL OTTO <a href=\"https://twitter.com/chipspeech\">@chipspeech</a>
-          <a href=\"https://twitter.com/OttoMozer\">@OttoMozer</a><a href=\"https://www.youtube.com/watch?v=-SkiekH5oRk\">youtube.com/watch?v=-Skiek\u2026</a>"
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-      refs:
-        https://twitter.com/Octav1usKitten:
-          type: card
-          name: "Queen Octav1us \U0001F4FA"
-          url: https://twitter.com/Octav1usKitten
-          photo: ~
-        https://twitter.com/chipspeech:
-          type: card
-          name: chipspeech
-          url: https://twitter.com/chipspeech
-          photo: ~
-        https://twitter.com/OttoMozer:
-          type: card
-          name: Otto Mozer
-          url: https://twitter.com/OttoMozer
-          photo: ~
-    23:
-    - type: entry
-      published: "2019-05-23T19:57:50+00:00"
-      url: https://twitter.com/tomasparksts/status/1131650462862651392
-      category:
-      - https://twitter.com/RPGMP3
-      - https://twitter.com/TwitchSupport
-      in-reply-to:
-      - https://twitter.com/RPGMP3/status/1131647847080845312
-      content:
-        text: "\U0001F620"
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-      refs:
-        https://twitter.com/RPGMP3:
-          type: card
-          name: Hal
-          url: https://twitter.com/RPGMP3
-          photo: ~
-        https://twitter.com/TwitchSupport:
-          type: card
-          name: Twitch Support
-          url: https://twitter.com/TwitchSupport
-          photo: ~
-    22:
-    - type: entry
-      published: "2019-05-22T20:19:41+00:00"
-      url: https://twitter.com/tomasparksts/status/1131293575587586048
-      category:
-      - https://twitter.com/NetHistoryPod
-      content:
-        text: the ads on @NetHistoryPod are becoming annoying
-        html: the ads on <a href="https://twitter.com/NetHistoryPod">@NetHistoryPod</a>
-          are becoming annoying
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-      refs:
-        https://twitter.com/NetHistoryPod:
-          type: card
-          name: InternetHistoryPod
-          url: https://twitter.com/NetHistoryPod
-          photo: ~
-    - type: entry
-      published: "2019-05-22T19:50:23+00:00"
-      url: https://twitter.com/tomasparksts/status/1131286203230113792
-      category:
-      - https://twitter.com/lazygamereviews
-      - https://twitter.com/nostalnerd
-      - https://twitter.com/GeezerD205
-      - https://twitter.com/textfiles
-      in-reply-to:
-      - https://twitter.com/lazygamereviews/status/1131283734534209541
-      content:
-        text: cc @textfiles
-        html: cc <a href="https://twitter.com/textfiles">@textfiles</a>
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-      refs:
-        https://twitter.com/lazygamereviews:
-          type: card
-          name: LGR
-          url: https://twitter.com/lazygamereviews
-          photo: ~
-        https://twitter.com/nostalnerd:
-          type: card
-          name: Nostalgia Nerd
-          url: https://twitter.com/nostalnerd
-          photo: ~
-        https://twitter.com/GeezerD205:
-          type: card
-          name: Matthew J Scott
-          url: https://twitter.com/GeezerD205
-          photo: ~
-        https://twitter.com/textfiles:
-          type: card
-          name: Jason Scott
-          url: https://twitter.com/textfiles
-          photo: ~
-    - type: entry
-      published: "2019-05-22T19:31:42+00:00"
-      url: https://twitter.com/tomasparksts/status/1131281498978471937
-      category:
-      - https://twitter.com/PushinUpRoses
-      video:
-      - https://video.twimg.com/tweet_video/D7MehMzVsAApI3t.mp4
-      in-reply-to:
-      - https://twitter.com/PushinUpRoses/status/1131279146867408896
-      content:
-        text: have you tried winding it up? :)
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-      refs:
-        https://twitter.com/PushinUpRoses:
-          type: card
-          name: "PushingUpRoses \U0001F987"
-          url: https://twitter.com/PushinUpRoses
-          photo: ~
-    - type: entry
-      published: "2019-05-22T16:43:05+00:00"
-      url: https://twitter.com/tomasparksts/status/1131239068275109888
-      category:
-      - https://twitter.com/RPGMP3
-      - https://twitter.com/GM_Lockhart
-      in-reply-to:
-      - https://twitter.com/RPGMP3/status/1093255101173694477
-      content:
-        text: "\U0001F622"
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-      refs:
-        https://twitter.com/RPGMP3:
-          type: card
-          name: RPGMP3
-          url: https://twitter.com/RPGMP3
-          photo: ~
-        https://twitter.com/GM_Lockhart:
-          type: card
-          name: Game Master Lockhart
-          url: https://twitter.com/GM_Lockhart
-          photo: ~
-    - type: entry
-      published: "2019-05-22T16:10:09+00:00"
-      url: https://twitter.com/tomasparksts/status/1131230777876701185
-      in-reply-to:
-      - https://twitter.com/tomasparksts/status/1128486432102731776
-      content:
-        text: 'it may not be dead but renamed to #ImageMatchGraph #ImageMatchingGraph'
-        html: it may not be dead but renamed to <a href="https://twitter.com/search?q=%23ImageMatchGraph">#ImageMatchGraph</a>
-          <a href="https://twitter.com/search?q=%23ImageMatchingGraph">#ImageMatchingGraph</a>
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-    20:
-    - type: entry
-      published: "2019-05-20T15:11:50+00:00"
-      url: https://twitter.com/tomasparksts/status/1130491325072138240
-      category:
-      - https://twitter.com/nostalnerd
-      - https://twitter.com/lazygamereviews
-      in-reply-to:
-      - https://twitter.com/nostalnerd/status/1130490754562973696
-      content:
-        text: cc @lazygamereviews
-        html: cc <a href="https://twitter.com/lazygamereviews">@lazygamereviews</a>
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-      refs:
-        https://twitter.com/nostalnerd:
-          type: card
-          name: Nostalgia Nerd
-          url: https://twitter.com/nostalnerd
-          photo: ~
-        https://twitter.com/lazygamereviews:
-          type: card
-          name: LGR
-          url: https://twitter.com/lazygamereviews
-          photo: ~
-    - type: entry
-      published: "2019-05-20T05:29:58+00:00"
-      url: https://twitter.com/tomasparksts/status/1130344894252298240
-      in-reply-to:
-      - https://twitter.com/tomasparksts/status/1130344631298920448
-      content:
-        text: '#Blockchain *throwsup*'
-        html: <a href="https://twitter.com/search?q=%23Blockchain">#Blockchain</a>
-          *throwsup*
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
 ...

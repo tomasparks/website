@@ -1,5 +1,29 @@
 ---
 - type: entry
+  published: "2019-03-24T06:08:41+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - https://media.acast.com/internethistorypodcast/192.hulusfoundinganddigitaldesignwithdanmaccarone/media.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/192_Hulus_Founding_and_Digital_Design_With_Dan_Maccarone.mp3
+      name: 192. Hulu's Founding and Digital Design With Dan Maccarone
+      author: Brian McCullough
+      content: Dan Maccarone is a digital design veteran, websites, products, strategy.
+        He's got some amazing stories about the dotcom bubble, about the aftermath,
+        and the rise of Web 2.0. He shares some unique design lessons but also, the
+        story of the birth of Hulu, which I don't think has really been covered anywhere
+        before.
+  content:
+    text: ' \ud83c\udfa7 Listened to 192. Hulu''s Founding and Digital Design With
+      Dan Maccarone by Brian McCullough From Internet History Podcast'
+- type: entry
   published: "2019-03-24T08:09:26+00:00"
   category:
   - scrobble
@@ -176,28 +200,4 @@
   content:
     text: ' \ud83c\udfa7 Listened to TL;DR by Mozilla From IRL - Online Life Is Real
       Life'
-- type: entry
-  published: "2019-03-24T06:08:41+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - https://media.acast.com/internethistorypodcast/192.hulusfoundinganddigitaldesignwithdanmaccarone/media.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/192_Hulus_Founding_and_Digital_Design_With_Dan_Maccarone.mp3
-      name: 192. Hulu's Founding and Digital Design With Dan Maccarone
-      author: Brian McCullough
-      content: Dan Maccarone is a digital design veteran, websites, products, strategy.
-        He's got some amazing stories about the dotcom bubble, about the aftermath,
-        and the rise of Web 2.0. He shares some unique design lessons but also, the
-        story of the birth of Hulu, which I don't think has really been covered anywhere
-        before.
-  content:
-    text: ' \ud83c\udfa7 Listened to 192. Hulu''s Founding and Digital Design With
-      Dan Maccarone by Brian McCullough From Internet History Podcast'
 ...

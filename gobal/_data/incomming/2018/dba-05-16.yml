@@ -1,6 +1,6 @@
 ---
 - type: entry
-  published: "2018-05-16T15:22:26+00:00"
+  published: "2018-05-16T14:09:14+00:00"
   category:
   - scrobble
   - audio
@@ -11,16 +11,15 @@
       url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/triplej/scienceontriplej/scienceontriplej20170525.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Armpit_smells_blurry_headstands_homing_pigeons.mp3
-      name: Armpit smells, blurry headstands, homing pigeons
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20170608.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Faster_than_light_speed_screaming_in_pain_Earth_mass.mp3
+      name: Faster than light speed, screaming in pain, Earth mass
       author: ABC Science
-      content: Does shaving your armpits make them less smelly? Why can we eat mouldy
-        cheese, but not mouldy bread? How do homing pigeons know where to fly home
-        to?
+      content: Where does all the poo in the world go? Why do we scream when we're
+        in pain? What would happen if something went faster than light speed?
   content:
-    text: ' \ud83c\udfa7 Listened to Armpit smells, blurry headstands, homing pigeons
-      by ABC Science From Dr Karl on triplej'
+    text: ' \ud83c\udfa7 Listened to Faster than light speed, screaming in pain, Earth
+      mass by ABC Science From Dr Karl on triplej'
 - type: entry
   published: "2018-05-16T14:44:41+00:00"
   category:
@@ -42,27 +41,6 @@
   content:
     text: ' \ud83c\udfa7 Listened to 3D movie sickness, natural crystals, melting
       wood by ABC Science From Dr Karl on triplej'
-- type: entry
-  published: "2018-05-16T14:09:14+00:00"
-  category:
-  - scrobble
-  - audio
-  - Dr Karl on triplej
-  - ABC Science
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20170608.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Faster_than_light_speed_screaming_in_pain_Earth_mass.mp3
-      name: Faster than light speed, screaming in pain, Earth mass
-      author: ABC Science
-      content: Where does all the poo in the world go? Why do we scream when we're
-        in pain? What would happen if something went faster than light speed?
-  content:
-    text: ' \ud83c\udfa7 Listened to Faster than light speed, screaming in pain, Earth
-      mass by ABC Science From Dr Karl on triplej'
 - type: entry
   published: "2018-05-16T16:32:21+00:00"
   category:
@@ -107,28 +85,6 @@
     text: ' \ud83c\udfa7 Listened to Itching, faraday cages, mermaids by ABC Science
       From Dr Karl on triplej'
 - type: entry
-  published: "2018-05-16T15:56:32+00:00"
-  category:
-  - scrobble
-  - audio
-  - Dr Karl on triplej
-  - ABC Science
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20170518.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Doggie_memories_laughing_fits_fish_energy.mp3
-      name: Doggie memories, laughing fits, fish energy
-      author: ABC Science
-      content: How do dogs remember, or learn, that they've misbehaved? Why doesn't
-        rainwater collected from a roof go bad? When sucking air out of a bottle,
-        why does it form a vaccum?
-  content:
-    text: ' \ud83c\udfa7 Listened to Doggie memories, laughing fits, fish energy by
-      ABC Science From Dr Karl on triplej'
-- type: entry
   published: "2018-05-16T13:43:05+00:00"
   category:
   - scrobble
@@ -149,5 +105,49 @@
         that are inedible?
   content:
     text: ' \ud83c\udfa7 Listened to Stomach butterflies, baby hair, making gold by
+      ABC Science From Dr Karl on triplej'
+- type: entry
+  published: "2018-05-16T15:22:26+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl on triplej
+  - ABC Science
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/triplej/scienceontriplej/scienceontriplej20170525.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Armpit_smells_blurry_headstands_homing_pigeons.mp3
+      name: Armpit smells, blurry headstands, homing pigeons
+      author: ABC Science
+      content: Does shaving your armpits make them less smelly? Why can we eat mouldy
+        cheese, but not mouldy bread? How do homing pigeons know where to fly home
+        to?
+  content:
+    text: ' \ud83c\udfa7 Listened to Armpit smells, blurry headstands, homing pigeons
+      by ABC Science From Dr Karl on triplej'
+- type: entry
+  published: "2018-05-16T15:56:32+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl on triplej
+  - ABC Science
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20170518.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Doggie_memories_laughing_fits_fish_energy.mp3
+      name: Doggie memories, laughing fits, fish energy
+      author: ABC Science
+      content: How do dogs remember, or learn, that they've misbehaved? Why doesn't
+        rainwater collected from a roof go bad? When sucking air out of a bottle,
+        why does it form a vaccum?
+  content:
+    text: ' \ud83c\udfa7 Listened to Doggie memories, laughing fits, fish energy by
       ABC Science From Dr Karl on triplej'
 ...

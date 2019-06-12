@@ -1,6 +1,6 @@
 ---
 - type: entry
-  published: "2019-04-14T17:53:21+00:00"
+  published: "2019-04-14T15:22:12+00:00"
   category:
   - scrobble
   - audio
@@ -11,15 +11,14 @@
       url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
       photo: ""
       audio:
-      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_44.mp3
-      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_44.mp3
-      name: Kingmaker Session 44
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_43.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_43.mp3
+      name: Kingmaker Session 43
       author: Hal
-      content: "Episode 44 \u2013 in which Vordekai\u2019s army moves upon Kesten\u2019s
-        Bowmen and Mikmik\u2019s Kobolds. Can two armies stand up against the Zombie
-        Cyclops Horde?"
+      content: "Episode 43 \u2013 in which the mighty castle Thorn is finally built\u2026
+        and immediately, someone comes along to smash it down."
   content:
-    text: ' \ud83c\udfa7 Listened to Kingmaker Session 44 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 43 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
 - type: entry
   published: "2019-04-14T09:26:57+00:00"
   category:
@@ -82,7 +81,7 @@
   content:
     text: ' \ud83c\udfa7 Listened to Kingmaker Session 41 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
 - type: entry
-  published: "2019-04-14T15:22:12+00:00"
+  published: "2019-04-14T17:53:21+00:00"
   category:
   - scrobble
   - audio
@@ -93,12 +92,13 @@
       url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
       photo: ""
       audio:
-      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_43.mp3
-      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_43.mp3
-      name: Kingmaker Session 43
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_44.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_44.mp3
+      name: Kingmaker Session 44
       author: Hal
-      content: "Episode 43 \u2013 in which the mighty castle Thorn is finally built\u2026
-        and immediately, someone comes along to smash it down."
+      content: "Episode 44 \u2013 in which Vordekai\u2019s army moves upon Kesten\u2019s
+        Bowmen and Mikmik\u2019s Kobolds. Can two armies stand up against the Zombie
+        Cyclops Horde?"
   content:
-    text: ' \ud83c\udfa7 Listened to Kingmaker Session 43 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 44 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
 ...

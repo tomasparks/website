@@ -1,0 +1,49 @@
+---
+- type: entry
+  published: "2019-06-05T06:33:28+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/631753314-techdirt-blame-fox-news-before-facebook.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/631753314-techdirt-blame-fox-news-before-facebook.mp3
+      name: Blame Fox News Before Facebook
+      author: Techdirt
+      content: "In all the attempts to understand just what happened with the 2016
+        election, a lot of blame has fallen on the internet and especially on Facebook.
+        The attention, which often focuses on the Cambridge Analytica scandal and
+        Russian interference, is not unwarranted \u2014 but it often seems to lose
+        track of the fact that Facebook is just one part of a broader media ecosystem,
+        and not necessarily the most important one. This week, we're joined by Yochai
+        Benkler of the Berkman Klein Center to discuss why Fox News, not Facebook,
+        might deserve the lion's share of scrutiny."
+  content:
+    text: ' \ud83c\udfa7 Listened to Blame Fox News Before Facebook by Techdirt From
+      Techdirt'
+- type: entry
+  published: "2019-06-05T05:35:09+00:00"
+  category:
+  - scrobble
+  - audio
+  - 'RPGMP3: Yorkton Gamer Guild Actual Play Podcast'
+  - Yorkton Gamer Guild
+  listen-of:
+    h-cite:
+      url: http://rpgmp3.com/v5/category/group/yorktongamerguild/feed/
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Yorkton_Gamer_Guild/pathfinder_dragons_delve_part_02.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/pathfinder_dragons_delve_part_02.mp3
+      name: "Dragon\u2019s Delve Session 02"
+      author: Yorkton Gamer Guild
+      content: 'Session 02 - Episode 2: Blood for the Blood God!'
+  content:
+    text: " \\ud83c\\udfa7 Listened to Dragon\u2019s Delve Session 02 by @rpgmp3 ,
+      @GM_Lockhart & @ygguild From #RPGMP3ActualPlayPodcast #YorktonGamerGuildActualPlayPodcast"
+...

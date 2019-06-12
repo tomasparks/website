@@ -1,5 +1,34 @@
 ---
 - type: entry
+  published: "2019-03-19T20:48:16+00:00"
+  category:
+  - scrobble
+  - audio
+  - IRL - Online Life Is Real Life
+  - Mozilla
+  listen-of:
+    h-cite:
+      url: https://feeds.mozilla-podcasts.org/irl
+      photo: ""
+      audio:
+      - https://tracking.feedpress.it/link/17512/10277382/71b5ec34.mp3
+      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/71b5ec34.mp3
+      name: Kids These Days
+      author: Mozilla
+      content: "Today\u2019s teens are the first humans who have spent their entire
+        lives online. Join Veronica Belmont and Manoush Zomorodi as they explore what
+        kids are facing on the interwebs, how they\u2019re using social media for
+        good, how they\u2019re handling cyberbullying, and how parents can keep up.\n\nParkland,
+        Florida\u2019s Cameron Kasky discusses how he uses social media as a platform
+        for activism; tech journalist Alexandra Samuel talks about Lil Tay and  the
+        role parents can play as they help their children navigate the internet; and
+        Common Sense Media's Sierra Filucci gives us an exclusive look at data from
+        a new study about technology's impact on our youth.\n\nIRL is an original
+        podcast from Mozilla. For more on the series go to irlpodcast.org\n"
+  content:
+    text: ' \ud83c\udfa7 Listened to Kids These Days by Mozilla From IRL - Online
+      Life Is Real Life'
+- type: entry
   published: "2019-03-19T11:08:01+00:00"
   category:
   - scrobble
@@ -56,34 +85,5 @@
         is an original podcast from Mozilla. For more on the series go to irlpodcast.org\n"
   content:
     text: ' \ud83c\udfa7 Listened to Virtual Connections by Mozilla From IRL - Online
-      Life Is Real Life'
-- type: entry
-  published: "2019-03-19T20:48:16+00:00"
-  category:
-  - scrobble
-  - audio
-  - IRL - Online Life Is Real Life
-  - Mozilla
-  listen-of:
-    h-cite:
-      url: https://feeds.mozilla-podcasts.org/irl
-      photo: ""
-      audio:
-      - https://tracking.feedpress.it/link/17512/10277382/71b5ec34.mp3
-      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/71b5ec34.mp3
-      name: Kids These Days
-      author: Mozilla
-      content: "Today\u2019s teens are the first humans who have spent their entire
-        lives online. Join Veronica Belmont and Manoush Zomorodi as they explore what
-        kids are facing on the interwebs, how they\u2019re using social media for
-        good, how they\u2019re handling cyberbullying, and how parents can keep up.\n\nParkland,
-        Florida\u2019s Cameron Kasky discusses how he uses social media as a platform
-        for activism; tech journalist Alexandra Samuel talks about Lil Tay and  the
-        role parents can play as they help their children navigate the internet; and
-        Common Sense Media's Sierra Filucci gives us an exclusive look at data from
-        a new study about technology's impact on our youth.\n\nIRL is an original
-        podcast from Mozilla. For more on the series go to irlpodcast.org\n"
-  content:
-    text: ' \ud83c\udfa7 Listened to Kids These Days by Mozilla From IRL - Online
       Life Is Real Life'
 ...

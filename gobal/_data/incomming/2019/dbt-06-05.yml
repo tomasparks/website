@@ -1,0 +1,42 @@
+---
+- type: entry
+  published: "2019-06-05T21:15:24+00:00"
+  url: https://twitter.com/tomasparksts/status/1136381026333220864
+  category:
+  - https://twitter.com/Octav1usKitten
+  in-reply-to:
+  - https://twitter.com/Octav1usKitten/status/1136290568135483393
+  content:
+    text: it makes me think of an escort service
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/Octav1usKitten:
+      type: card
+      name: "Queen Octav1us \U0001F3F3\uFE0F\u200D\U0001F308"
+      url: https://twitter.com/Octav1usKitten
+      photo: ~
+- type: entry
+  published: "2019-06-05T06:06:40+00:00"
+  url: https://twitter.com/tomasparksts/status/1136152335468515328
+  category:
+  - https://twitter.com/PushinUpRoses
+  video:
+  - https://video.twimg.com/tweet_video/D8RshEZUIAAJB7T.mp4
+  in-reply-to:
+  - https://twitter.com/PushinUpRoses/status/1136151212355723264
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/PushinUpRoses:
+      type: card
+      name: "PushingUpRoses \U0001F987"
+      url: https://twitter.com/PushinUpRoses
+      photo: ~
+...

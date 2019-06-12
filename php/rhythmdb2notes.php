@@ -181,7 +181,6 @@ function ias3($src,$dest,$bucket,$filename) {
 				elseif ($retcode ==200) {
 					echo "OK (".$retcode.")\n";
 					$GLOBALS["IA_S3"][$bucket]["$filename"] = true;
-					//ias3_upload($src,$bucket,$filename);
 				
 	}
 	

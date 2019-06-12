@@ -36,6 +36,33 @@
     text: ' \ud83c\udfa7 Listened to My Url Is rosemaryorchard.com (Episode 2) by
       Array From indieweb on Huffduffer'
 - type: entry
+  published: "2018-10-27T04:14:54+00:00"
+  category:
+  - scrobble
+  - audio
+  - Stephen Fry's Great Leap Years
+  - Stephen Fry | SamFry Ltd
+  listen-of:
+    h-cite:
+      url: https://rss.acast.com/greatleapyears
+      photo: ""
+      audio:
+      - https://media.acast.com/greatleapyears/6-theionatronthatwasn-t/media.mp3
+      - http://archive.org/download/Stephen_Frys_Great_Leap_Years-Podcast-by-Stephen_Fry/6_The_Iotatron_that_Wasnt.mp3
+      name: 6 - The Iotatron that Wasn't
+      author: Stephen Fry | SamFry Ltd
+      content: "Series 1 Finale! Across the ocean of discovery the swells are building
+        with ever increasing mass and speed. The swells of robotics, AI, nano science,
+        the internet of things, quantum computing, genomics, gene editing, bio-augmentation,
+        bionics, autonomous weaponry and transport, brain machine interfacing \u2013
+        all these existentially transformative developments are gathering pace and
+        momentum now and a remarkable future beckons.Researched, written &amp; read
+        by&nbsp;Stephen Fry. Music composed and conducted by&nbsp;Guy Farley&nbsp;with
+        The Chamber Orchestra of London."
+  content:
+    text: ' \ud83c\udfa7 Listened to 6 - The Iotatron that Wasn''t by Stephen Fry
+      | SamFry Ltd From Stephen Fry''s Great Leap Years'
+- type: entry
   published: "2018-10-27T11:31:07+00:00"
   category:
   - scrobble
@@ -97,31 +124,4 @@
   content:
     text: ' \ud83c\udfa7 Listened to 180. (Ch. 7.5) The Story of craigslist by Brian
       McCullough @brianmcc From Internet History Podcast'
-- type: entry
-  published: "2018-10-27T04:14:54+00:00"
-  category:
-  - scrobble
-  - audio
-  - Stephen Fry's Great Leap Years
-  - Stephen Fry | SamFry Ltd
-  listen-of:
-    h-cite:
-      url: https://rss.acast.com/greatleapyears
-      photo: ""
-      audio:
-      - https://media.acast.com/greatleapyears/6-theionatronthatwasn-t/media.mp3
-      - http://archive.org/download/Stephen_Frys_Great_Leap_Years-Podcast-by-Stephen_Fry/6_The_Iotatron_that_Wasnt.mp3
-      name: 6 - The Iotatron that Wasn't
-      author: Stephen Fry | SamFry Ltd
-      content: "Series 1 Finale! Across the ocean of discovery the swells are building
-        with ever increasing mass and speed. The swells of robotics, AI, nano science,
-        the internet of things, quantum computing, genomics, gene editing, bio-augmentation,
-        bionics, autonomous weaponry and transport, brain machine interfacing \u2013
-        all these existentially transformative developments are gathering pace and
-        momentum now and a remarkable future beckons.Researched, written &amp; read
-        by&nbsp;Stephen Fry. Music composed and conducted by&nbsp;Guy Farley&nbsp;with
-        The Chamber Orchestra of London."
-  content:
-    text: ' \ud83c\udfa7 Listened to 6 - The Iotatron that Wasn''t by Stephen Fry
-      | SamFry Ltd From Stephen Fry''s Great Leap Years'
 ...
