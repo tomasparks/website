@@ -1,6 +1,64 @@
 ---
 2019:
   "06":
+    11:
+    - type: entry
+      published: "2019-06-11T00:10:43+00:00"
+      url: https://twitter.com/tomasparksts/status/1138237086866083840
+      category:
+      - https://twitter.com/cyanworlds
+      content:
+        text: 'I am debating doing the #Myst #island by @cyanworlds as a #PaperModel
+          #diorama #miniature'
+        html: I am debating doing the <a href="https://twitter.com/search?q=%23Myst">#Myst</a>
+          <a href="https://twitter.com/search?q=%23island">#island</a> by <a href="https://twitter.com/cyanworlds">@cyanworlds</a>
+          as a <a href="https://twitter.com/search?q=%23PaperModel">#PaperModel</a>
+          <a href="https://twitter.com/search?q=%23diorama">#diorama</a> <a href="https://twitter.com/search?q=%23miniature">#miniature</a>
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/cyanworlds:
+          type: card
+          name: Cyan Inc.
+          url: https://twitter.com/cyanworlds
+          photo: ~
+    10:
+    - type: entry
+      published: "2019-06-10T12:46:22+00:00"
+      url: https://twitter.com/tomasparksts/status/1138064863081558018
+      category:
+      - https://twitter.com/davejavupride
+      - https://twitter.com/Raspberry_Pi
+      - https://twitter.com/TheMagPi
+      in-reply-to:
+      - https://twitter.com/davejavupride/status/1138057466107895808
+      content:
+        text: '#plottertwitter'
+        html: <a href="https://twitter.com/search?q=%23plottertwitter">#plottertwitter</a>
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/davejavupride:
+          type: card
+          name: David Pride
+          url: https://twitter.com/davejavupride
+          photo: ~
+        https://twitter.com/Raspberry_Pi:
+          type: card
+          name: Raspberry Pi
+          url: https://twitter.com/Raspberry_Pi
+          photo: ~
+        https://twitter.com/TheMagPi:
+          type: card
+          name: The MagPi magazine
+          url: https://twitter.com/TheMagPi
+          photo: ~
     09:
     - type: entry
       published: "2019-06-09T06:09:41+00:00"
@@ -250,65 +308,4 @@
           name: The Gaming Muso
           url: https://twitter.com/gamingmuso
           photo: ~
-    - type: entry
-      published: "2019-06-03T19:42:45+00:00"
-      url: https://twitter.com/tomasparksts/status/1135632934478569473
-      category:
-      - https://twitter.com/Adobe
-      - https://twitter.com/autodesk
-      - https://twitter.com/EFF
-      content:
-        text: 'I am getting #sickandtired of #finding #software under #SaaS #agreement  @adobe
-          @autodesk  @EFF'
-        html: I am getting <a href="https://twitter.com/search?q=%23sickandtired">#sickandtired</a>
-          of <a href="https://twitter.com/search?q=%23finding">#finding</a> <a href="https://twitter.com/search?q=%23software">#software</a>
-          under <a href="https://twitter.com/search?q=%23SaaS">#SaaS</a> <a href="https://twitter.com/search?q=%23agreement">#agreement</a>  <a
-          href="https://twitter.com/Adobe">@adobe</a> <a href="https://twitter.com/autodesk">@autodesk</a>  <a
-          href="https://twitter.com/EFF">@EFF</a>
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-      refs:
-        https://twitter.com/Adobe:
-          type: card
-          name: Adobe
-          url: https://twitter.com/Adobe
-          photo: ~
-        https://twitter.com/autodesk:
-          type: card
-          name: Autodesk
-          url: https://twitter.com/autodesk
-          photo: ~
-        https://twitter.com/EFF:
-          type: card
-          name: EFF
-          url: https://twitter.com/EFF
-          photo: ~
-  "05":
-    29:
-    - type: entry
-      published: "2019-05-29T00:02:44+00:00"
-      url: https://twitter.com/tomasparksts/status/1133524034258235392
-      repost-of:
-      - https://twitter.com/badnetworker/status/1133363823728091136
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-      refs:
-        https://twitter.com/badnetworker/status/1133363823728091136:
-          type: entry
-          published: "2019-05-28T13:26:07+00:00"
-          url: https://twitter.com/badnetworker/status/1133363823728091136
-          content:
-            text: "1999: there are millions of websites all hyperlinked together \n2019:
-              there are four websites, each filled with screenshots of the other three."
-          author:
-            type: card
-            name: David Masad
-            url: https://twitter.com/badnetworker
-            photo: https://pbs.twimg.com/profile_images/1553373736/Masad_David_CSSSA_2011.jpg
 ...

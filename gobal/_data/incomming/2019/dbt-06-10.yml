@@ -1,0 +1,35 @@
+---
+- type: entry
+  published: "2019-06-10T12:46:22+00:00"
+  url: https://twitter.com/tomasparksts/status/1138064863081558018
+  category:
+  - https://twitter.com/davejavupride
+  - https://twitter.com/Raspberry_Pi
+  - https://twitter.com/TheMagPi
+  in-reply-to:
+  - https://twitter.com/davejavupride/status/1138057466107895808
+  content:
+    text: '#plottertwitter'
+    html: <a href="https://twitter.com/search?q=%23plottertwitter">#plottertwitter</a>
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/davejavupride:
+      type: card
+      name: David Pride
+      url: https://twitter.com/davejavupride
+      photo: ~
+    https://twitter.com/Raspberry_Pi:
+      type: card
+      name: Raspberry Pi
+      url: https://twitter.com/Raspberry_Pi
+      photo: ~
+    https://twitter.com/TheMagPi:
+      type: card
+      name: The MagPi magazine
+      url: https://twitter.com/TheMagPi
+      photo: ~
+...

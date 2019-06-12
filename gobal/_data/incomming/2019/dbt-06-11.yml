@@ -1,0 +1,25 @@
+---
+- type: entry
+  published: "2019-06-11T00:10:43+00:00"
+  url: https://twitter.com/tomasparksts/status/1138237086866083840
+  category:
+  - https://twitter.com/cyanworlds
+  content:
+    text: 'I am debating doing the #Myst #island by @cyanworlds as a #PaperModel #diorama
+      #miniature'
+    html: I am debating doing the <a href="https://twitter.com/search?q=%23Myst">#Myst</a>
+      <a href="https://twitter.com/search?q=%23island">#island</a> by <a href="https://twitter.com/cyanworlds">@cyanworlds</a>
+      as a <a href="https://twitter.com/search?q=%23PaperModel">#PaperModel</a> <a
+      href="https://twitter.com/search?q=%23diorama">#diorama</a> <a href="https://twitter.com/search?q=%23miniature">#miniature</a>
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/cyanworlds:
+      type: card
+      name: Cyan Inc.
+      url: https://twitter.com/cyanworlds
+      photo: ~
+...

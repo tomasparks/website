@@ -1,5 +1,6 @@
 ---
-- type: entry
+0:
+  type: entry
   published: "2019-06-03T20:30:15+00:00"
   url: https://twitter.com/tomasparksts/status/1135644890333757440
   category:
@@ -37,7 +38,8 @@
       name: The Gaming Muso
       url: https://twitter.com/gamingmuso
       photo: ~
-- type: entry
+1:
+  type: entry
   published: "2019-06-03T20:11:40+00:00"
   url: https://twitter.com/tomasparksts/status/1135640212896247808
   category:
@@ -77,7 +79,8 @@
       name: The Gaming Muso
       url: https://twitter.com/gamingmuso
       photo: ~
-- type: entry
+4:
+  type: entry
   published: "2019-06-03T19:42:45+00:00"
   url: https://twitter.com/tomasparksts/status/1135632934478569473
   category:

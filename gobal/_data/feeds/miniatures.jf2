@@ -15,6 +15,37 @@
 		    
 	{
   "type": "entry",
+  "published": "2019-06-11T00:00:00+10:00",
+  "url": "https://tomasparks.name/miniatures/build-log/myst-island/2019/06/11/myst-island.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "https://tomasparks.name/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "Myst Island",
+				"summary": {
+					"html": "<blockquote>\n  <p><a href=\"https://en.wikipedia.org/wiki/Myst\">Myst</a> is a graphic adventure puzzle video game designed by the Miller brothers, Robyn and Rand.\nIt was developed by <a href=\"https://cyan.com/\">Cyan, Inc</a>., published by Brøderbund, and released as a PC game for the Macintosh platform in 1993.\nIn the game, players are told that a special book has caused them to travel to Myst Island.\nThere, players solve puzzles and, by doing so, travel to four other worlds, known as Ages, which reveal the backstory of the game’s characters.</p>\n</blockquote>\n\n",
+					"value": "\n  Myst is a graphic adventure puzzle video game designed by the Miller brothers, Robyn and Rand.\nIt was developed by Cyan, Inc., published by Brøderbund, and released as a PC game for the Macintosh platform in 1993.\nIn the game, players are told that a special book has caused them to travel to Myst Island.\nThere, players solve puzzles and, by doing so, travel to four other worlds, known as Ages, which reveal the backstory of the game’s characters.\n\n\n"
+				},
+							"value": "\n  Myst is a graphic adventure puzzle video game designed by the Miller brothers, Robyn and Rand.\nIt was developed by Cyan, Inc., published by Brøderbund, and released as a PC game for the Macintosh platform in 1993.\nIn the game, players are told that a special book has caused them to travel to Myst Island.\nThere, players solve puzzles and, by doing so, travel to four other worlds, known as Ages, which reveal the backstory of the game’s characters.\n\n\n",
+"category": ["myst-island"],
+"tags": [],
+
+
+
+
+
+
+
+
+
+
+"syndication": []
+},
+	{
+  "type": "entry",
   "published": "2019-05-10T00:00:00+10:00",
   "url": "https://tomasparks.name/miniatures/notebook/2019/05/slashdot.html",
   "author": {
