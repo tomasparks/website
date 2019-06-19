@@ -24,7 +24,7 @@
     "photo": "https://tomasparks.name/about-me/photo.png",
     "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
   },
-  "name": "Convet Library stl to papermodel",
+  "name": "Convet Library model stl to papermodel",
 				"summary": {
 					"html": "<p>My Model unfolding <a href=\"https://tamasoft.co.jp/pepakura-en/index.html\">software</a> did not like the stl file uploaded to <a href=\"https://www.thingiverse.com/Cyan_Inc/designs\">thingiverse</a> by @cyanworlds.</p>\n",
 					"value": "My Model unfolding software did not like the stl file uploaded to thingiverse by @cyanworlds.\n"

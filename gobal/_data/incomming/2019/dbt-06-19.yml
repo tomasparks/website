@@ -1,0 +1,28 @@
+---
+- type: entry
+  published: "2019-06-19T20:56:12+00:00"
+  url: https://twitter.com/tomasparksts/status/1141449623942377479
+  category:
+  - https://twitter.com/cyanworlds
+  content:
+    text: "(\U0001F916) My Model unfolding software did not like the stl file uploaded
+      to thingiverse by @cyanworlds. #BuildLog #miniatures #mystisland #Library #pepakura
+      (\U0001F916) (tomasparks.name/miniatures/bui\u2026)"
+    html: "(\U0001F916) My Model unfolding software did not like the stl file uploaded
+      to thingiverse by <a href=\"https://twitter.com/cyanworlds\">@cyanworlds</a>.
+      <a href=\"https://twitter.com/search?q=%23BuildLog\">#BuildLog</a> <a href=\"https://twitter.com/search?q=%23miniatures\">#miniatures</a>
+      <a href=\"https://twitter.com/search?q=%23mystisland\">#mystisland</a> <a href=\"https://twitter.com/search?q=%23Library\">#Library</a>
+      <a href=\"https://twitter.com/search?q=%23pepakura\">#pepakura</a> (\U0001F916)
+      (<a href=\"https://tomasparks.name/miniatures/build-log/myst-island/2019/06/19/library.html\">tomasparks.name/miniatures/bui\u2026</a>)"
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/cyanworlds:
+      type: card
+      name: Cyan Inc.
+      url: https://twitter.com/cyanworlds
+      photo: ~
+...
