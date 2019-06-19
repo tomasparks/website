@@ -26,10 +26,10 @@
   },
   "name": "Convet Library stl to papermodel",
 				"summary": {
-					"html": "<p>My Model unfolding <a href=\"https://tamasoft.co.jp/pepakura-en/index.html\">software</a> did not like the stl uploaded to <a href=\"https://www.thingiverse.com/Cyan_Inc/designs\">thingiverse</a> by @cyan</p>\n",
-					"value": "My Model unfolding software did not like the stl uploaded to thingiverse by @cyan\n"
+					"html": "<p>My Model unfolding <a href=\"https://tamasoft.co.jp/pepakura-en/index.html\">software</a> did not like the stl file uploaded to <a href=\"https://www.thingiverse.com/Cyan_Inc/designs\">thingiverse</a> by @cyanworlds.</p>\n",
+					"value": "My Model unfolding software did not like the stl file uploaded to thingiverse by @cyanworlds.\n"
 				},
-							"value": "My Model unfolding software did not like the stl uploaded to thingiverse by @cyan\n",
+							"value": "My Model unfolding software did not like the stl file uploaded to thingiverse by @cyanworlds.\n",
 "category": ["myst-island"],
 "tags": ["Library","pepakura"],
 
