@@ -1,0 +1,22 @@
+---
+- type: entry
+  published: "2019-06-14T23:48:12+00:00"
+  url: https://twitter.com/tomasparksts/status/1139680972566171649
+  category:
+  - https://twitter.com/Octav1usKitten
+  in-reply-to:
+  - https://twitter.com/Octav1usKitten/status/1139561052037947392
+  content:
+    text: the hair over your eye did annoy me, but it has become your signature
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/Octav1usKitten:
+      type: card
+      name: "Queen Octav1us \U0001F3F3\uFE0F\u200D\U0001F308"
+      url: https://twitter.com/Octav1usKitten
+      photo: ~
+...

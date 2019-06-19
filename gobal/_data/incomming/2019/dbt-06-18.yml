@@ -1,0 +1,21 @@
+---
+- type: entry
+  published: "2019-06-18T06:49:29+00:00"
+  url: https://twitter.com/tomasparksts/status/1140874155702702081
+  category:
+  - https://twitter.com/wwwtxt
+  content:
+    text: looking for my NOV 83 prophecy from @wwwtxt
+    html: looking for my NOV 83 prophecy from <a href="https://twitter.com/wwwtxt">@wwwtxt</a>
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/wwwtxt:
+      type: card
+      name: WWWTXT (1980-94)
+      url: https://twitter.com/wwwtxt
+      photo: ~
+...

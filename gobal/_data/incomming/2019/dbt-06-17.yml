@@ -1,0 +1,29 @@
+---
+- type: entry
+  published: "2019-06-17T13:54:47+00:00"
+  url: https://twitter.com/tomasparksts/status/1140618795465072640
+  category:
+  - https://twitter.com/MATLAB
+  - https://twitter.com/arduino
+  in-reply-to:
+  - https://twitter.com/MATLAB/status/1140575016578424834
+  content:
+    text: '#plottertwitter'
+    html: <a href="https://twitter.com/search?q=%23plottertwitter">#plottertwitter</a>
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/MATLAB:
+      type: card
+      name: MATLAB
+      url: https://twitter.com/MATLAB
+      photo: ~
+    https://twitter.com/arduino:
+      type: card
+      name: Arduino
+      url: https://twitter.com/arduino
+      photo: ~
+...

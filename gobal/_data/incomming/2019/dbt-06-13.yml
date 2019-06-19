@@ -1,0 +1,79 @@
+---
+- type: entry
+  published: "2019-06-13T14:13:57+00:00"
+  url: https://twitter.com/tomasparksts/status/1139174067452334080
+  category:
+  - https://twitter.com/Octav1usKitten
+  photo:
+  - https://pbs.twimg.com/media/D88oxAoUcAAN1e5.jpg
+  in-reply-to:
+  - https://twitter.com/Octav1usKitten/status/1138875358776909824
+  content:
+    text: 'review idea: turtle robot #logo  modern hardware:  terrapinlogo.com'
+    html: 'review idea: turtle robot <a href="https://twitter.com/search?q=%23logo">#logo</a>  modern
+      hardware:  <a href="https://www.terrapinlogo.com/">terrapinlogo.com</a>'
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/Octav1usKitten:
+      type: card
+      name: "Queen Octav1us \U0001F3F3\uFE0F\u200D\U0001F308"
+      url: https://twitter.com/Octav1usKitten
+      photo: ~
+- type: entry
+  published: "2019-06-13T03:47:15+00:00"
+  url: https://twitter.com/tomasparksts/status/1139016355514949632
+  category:
+  - https://twitter.com/jkosseff
+  - https://twitter.com/ericgoldman
+  - https://twitter.com/internetarchive
+  - https://twitter.com/textfiles
+  - https://twitter.com/archiveteam
+  - https://twitter.com/archivecorps
+  in-reply-to:
+  - https://twitter.com/jkosseff/status/1138488887268052997
+  content:
+    text: 'please #archivethis @internetarchive @textfiles @archiveteam @archivecorps'
+    html: please <a href="https://twitter.com/search?q=%23archivethis">#archivethis</a>
+      <a href="https://twitter.com/internetarchive">@internetarchive</a> <a href="https://twitter.com/textfiles">@textfiles</a>
+      <a href="https://twitter.com/archiveteam">@archiveteam</a> <a href="https://twitter.com/archivecorps">@archivecorps</a>
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/jkosseff:
+      type: card
+      name: Jeff Kosseff
+      url: https://twitter.com/jkosseff
+      photo: ~
+    https://twitter.com/ericgoldman:
+      type: card
+      name: Eric Goldman
+      url: https://twitter.com/ericgoldman
+      photo: ~
+    https://twitter.com/internetarchive:
+      type: card
+      name: Internet Archive
+      url: https://twitter.com/internetarchive
+      photo: ~
+    https://twitter.com/textfiles:
+      type: card
+      name: Jason Scott
+      url: https://twitter.com/textfiles
+      photo: ~
+    https://twitter.com/archiveteam:
+      type: card
+      name: Archive Team
+      url: https://twitter.com/archiveteam
+      photo: ~
+    https://twitter.com/archivecorps:
+      type: card
+      name: Archive Corps
+      url: https://twitter.com/archivecorps
+      photo: ~
+...
