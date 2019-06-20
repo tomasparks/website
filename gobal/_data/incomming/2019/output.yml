@@ -1,7 +1,56 @@
 ---
 2019:
   "06":
+    20:
+    - type: entry
+      published: "2019-06-20T03:21:52+00:00"
+      url: https://twitter.com/tomasparksts/status/1141546683592916992
+      category:
+      - https://twitter.com/80sNostalgia
+      - https://twitter.com/Octav1usKitten
+      in-reply-to:
+      - https://twitter.com/80sNostalgia/status/1141231221298647040
+      content:
+        text: 'where is the #RSS #Feed ?'
+        html: where is the <a href="https://twitter.com/search?q=%23RSS">#RSS</a>
+          <a href="https://twitter.com/search?q=%23Feed">#Feed</a> ?
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/80sNostalgia:
+          type: card
+          name: '80sNostalgia #80sNosPodcast'
+          url: https://twitter.com/80sNostalgia
+          photo: ~
+        https://twitter.com/Octav1usKitten:
+          type: card
+          name: "Queen Octav1us \U0001F3F3\uFE0F\u200D\U0001F308"
+          url: https://twitter.com/Octav1usKitten
+          photo: ~
     19:
+    - type: entry
+      published: "2019-06-19T22:25:44+00:00"
+      url: https://twitter.com/tomasparksts/status/1141472155315531776
+      category:
+      - https://twitter.com/EgotasticFT
+      in-reply-to:
+      - https://twitter.com/EgotasticFT/status/1141199478323580928
+      content:
+        text: all of them
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/EgotasticFT:
+          type: card
+          name: "JP's Egotastic FunTime - Talking The Orville\u2601\uFE0F"
+          url: https://twitter.com/EgotasticFT
+          photo: ~
     - type: entry
       published: "2019-06-19T20:56:12+00:00"
       url: https://twitter.com/tomasparksts/status/1141449623942377479
@@ -218,63 +267,5 @@
           type: card
           name: Archive Corps
           url: https://twitter.com/archivecorps
-          photo: ~
-    11:
-    - type: entry
-      published: "2019-06-11T00:10:43+00:00"
-      url: https://twitter.com/tomasparksts/status/1138237086866083840
-      category:
-      - https://twitter.com/cyanworlds
-      content:
-        text: 'I am debating doing the #Myst #island by @cyanworlds as a #PaperModel
-          #diorama #miniature'
-        html: I am debating doing the <a href="https://twitter.com/search?q=%23Myst">#Myst</a>
-          <a href="https://twitter.com/search?q=%23island">#island</a> by <a href="https://twitter.com/cyanworlds">@cyanworlds</a>
-          as a <a href="https://twitter.com/search?q=%23PaperModel">#PaperModel</a>
-          <a href="https://twitter.com/search?q=%23diorama">#diorama</a> <a href="https://twitter.com/search?q=%23miniature">#miniature</a>
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-      refs:
-        https://twitter.com/cyanworlds:
-          type: card
-          name: Cyan Inc.
-          url: https://twitter.com/cyanworlds
-          photo: ~
-    10:
-    - type: entry
-      published: "2019-06-10T12:46:22+00:00"
-      url: https://twitter.com/tomasparksts/status/1138064863081558018
-      category:
-      - https://twitter.com/davejavupride
-      - https://twitter.com/Raspberry_Pi
-      - https://twitter.com/TheMagPi
-      in-reply-to:
-      - https://twitter.com/davejavupride/status/1138057466107895808
-      content:
-        text: '#plottertwitter'
-        html: <a href="https://twitter.com/search?q=%23plottertwitter">#plottertwitter</a>
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-      refs:
-        https://twitter.com/davejavupride:
-          type: card
-          name: David Pride
-          url: https://twitter.com/davejavupride
-          photo: ~
-        https://twitter.com/Raspberry_Pi:
-          type: card
-          name: Raspberry Pi
-          url: https://twitter.com/Raspberry_Pi
-          photo: ~
-        https://twitter.com/TheMagPi:
-          type: card
-          name: The MagPi magazine
-          url: https://twitter.com/TheMagPi
           photo: ~
 ...

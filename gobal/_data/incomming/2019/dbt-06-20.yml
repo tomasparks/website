@@ -1,0 +1,30 @@
+---
+- type: entry
+  published: "2019-06-20T03:21:52+00:00"
+  url: https://twitter.com/tomasparksts/status/1141546683592916992
+  category:
+  - https://twitter.com/80sNostalgia
+  - https://twitter.com/Octav1usKitten
+  in-reply-to:
+  - https://twitter.com/80sNostalgia/status/1141231221298647040
+  content:
+    text: 'where is the #RSS #Feed ?'
+    html: where is the <a href="https://twitter.com/search?q=%23RSS">#RSS</a> <a href="https://twitter.com/search?q=%23Feed">#Feed</a>
+      ?
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/80sNostalgia:
+      type: card
+      name: '80sNostalgia #80sNosPodcast'
+      url: https://twitter.com/80sNostalgia
+      photo: ~
+    https://twitter.com/Octav1usKitten:
+      type: card
+      name: "Queen Octav1us \U0001F3F3\uFE0F\u200D\U0001F308"
+      url: https://twitter.com/Octav1usKitten
+      photo: ~
+...

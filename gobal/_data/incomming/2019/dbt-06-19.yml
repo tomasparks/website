@@ -1,5 +1,25 @@
 ---
 - type: entry
+  published: "2019-06-19T22:25:44+00:00"
+  url: https://twitter.com/tomasparksts/status/1141472155315531776
+  category:
+  - https://twitter.com/EgotasticFT
+  in-reply-to:
+  - https://twitter.com/EgotasticFT/status/1141199478323580928
+  content:
+    text: all of them
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/EgotasticFT:
+      type: card
+      name: "JP's Egotastic FunTime - Talking The Orville\u2601\uFE0F"
+      url: https://twitter.com/EgotasticFT
+      photo: ~
+- type: entry
   published: "2019-06-19T20:56:12+00:00"
   url: https://twitter.com/tomasparksts/status/1141449623942377479
   category:
