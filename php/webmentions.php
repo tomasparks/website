@@ -69,7 +69,7 @@ case "archive":
             			$value = array_unique(array_merge($value,$tmp_db), SORT_REGULAR);
             			}
 	                     //   yaml_emit_file( "/home/tom/github/website/sources/gobal/_data/webmention/".$path.".yml", $value);
-	                        $json_data = json_encode($value,JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES);
+	                        $json_data = json_encode($value,JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
                             file_put_contents("/home/tom/github/website/sources/gobal/_data/webmention/".$path.".json", $json_data);
 	                     
 	  }
