@@ -24,30 +24,6 @@
     text: ' \ud83c\udfa7 Listened to Is There Any Smartphone Innovation Left? by Techdirt
       From Techdirt'
 - type: entry
-  published: "2018-05-25T18:18:33+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/330399767-techdirt-patent-trolls-with-cloudflares-general-counsel.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/330399767-techdirt-patent-trolls-with-cloudflares-general-counsel.mp3
-      name: Patent Trolls, With Cloudflare's General Counsel
-      author: Techdirt
-      content: As we reported last month, CDN provider Cloudflare has decided to hit
-        back against patent troll Blackbird Technologies with an aggressive strategy.
-        Leading this charge is Doug Kramer, Cloudflare's General Counsel, who joins
-        us this week to discuss the current situation with Blackbird and the broader
-        patent landscape.
-  content:
-    text: ' \ud83c\udfa7 Listened to Patent Trolls, With Cloudflare''s General Counsel
-      by Techdirt From Techdirt'
-- type: entry
   published: "2018-05-25T17:39:24+00:00"
   category:
   - scrobble
@@ -73,7 +49,7 @@
     text: ' \ud83c\udfa7 Listened to Rob Reid On Writing & Publishing A SciFi Novel
       In 2017 by Techdirt From Techdirt'
 - type: entry
-  published: "2018-05-25T22:18:07+00:00"
+  published: "2018-05-25T21:34:31+00:00"
   category:
   - scrobble
   - audio
@@ -84,17 +60,64 @@
       url: https://www.techdirt.com/podcast.xml
       photo: ""
       audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/324153636-techdirt-no-the-mp3-isnt-dead.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/324153636-techdirt-no-the-mp3-isnt-dead.mp3
-      name: No, The MP3 Isn't Dead
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/325238061-techdirt-the-future-of-internet-copyright-with-techfreedom.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/325238061-techdirt-the-future-of-internet-copyright-with-techfreedom.mp3
+      name: The Future Of Internet Copyright, With TechFreedom
       author: Techdirt
-      content: "When the \"death of the MP3\" started being reported, we were among
-        the very few blogs that said umm, no \u2014 but the deluge of eulogies for
-        the still-thriving format has been overwhelming and quite surprising. This
-        week I join the podcast to discuss why the MP3 isn't dead, and how so much
-        of the tech press got it so wrong."
+      content: This week we've got a special crossover episode with our friends at
+        TechFreedom. Mike joined their Tech Policy Podcast recently to discuss notice
+        and takedown systems and the future of internet copyright, and we're cross-posting
+        the conversation as an episode of the Techdirt Podcast too.
   content:
-    text: ' \ud83c\udfa7 Listened to No, The MP3 Isn''t Dead by Techdirt From Techdirt'
+    text: ' \ud83c\udfa7 Listened to The Future Of Internet Copyright, With TechFreedom
+      by Techdirt From Techdirt'
+- type: entry
+  published: "2018-05-25T18:18:33+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/330399767-techdirt-patent-trolls-with-cloudflares-general-counsel.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/330399767-techdirt-patent-trolls-with-cloudflares-general-counsel.mp3
+      name: Patent Trolls, With Cloudflare's General Counsel
+      author: Techdirt
+      content: As we reported last month, CDN provider Cloudflare has decided to hit
+        back against patent troll Blackbird Technologies with an aggressive strategy.
+        Leading this charge is Doug Kramer, Cloudflare's General Counsel, who joins
+        us this week to discuss the current situation with Blackbird and the broader
+        patent landscape.
+  content:
+    text: ' \ud83c\udfa7 Listened to Patent Trolls, With Cloudflare''s General Counsel
+      by Techdirt From Techdirt'
+- type: entry
+  published: "2018-05-25T23:06:47+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/322939002-techdirt-truth-and-fiction-with-cory-doctorow.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/322939002-techdirt-truth-and-fiction-with-cory-doctorow.mp3
+      name: Truth And Fiction With Cory Doctorow
+      author: Techdirt
+      content: Most Techdirt readers are already familiar with Cory Doctorow, whether
+        via his EFF work, the BoingBoing blog, his novels, or all of the above. This
+        week, he joins us on the podcast to discuss his new book Walkaway and much,
+        much more.
+  content:
+    text: ' \ud83c\udfa7 Listened to Truth And Fiction With Cory Doctorow by Techdirt
+      From Techdirt'
 - type: entry
   published: "2018-05-25T19:14:37+00:00"
   category:
@@ -127,29 +150,6 @@
   content:
     text: ' \ud83c\udfa7 Listened to Copyright, Music & ''Theft'' by Techdirt From
       Techdirt'
-- type: entry
-  published: "2018-05-25T21:34:31+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/325238061-techdirt-the-future-of-internet-copyright-with-techfreedom.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/325238061-techdirt-the-future-of-internet-copyright-with-techfreedom.mp3
-      name: The Future Of Internet Copyright, With TechFreedom
-      author: Techdirt
-      content: This week we've got a special crossover episode with our friends at
-        TechFreedom. Mike joined their Tech Policy Podcast recently to discuss notice
-        and takedown systems and the future of internet copyright, and we're cross-posting
-        the conversation as an episode of the Techdirt Podcast too.
-  content:
-    text: ' \ud83c\udfa7 Listened to The Future Of Internet Copyright, With TechFreedom
-      by Techdirt From Techdirt'
 - type: entry
   published: "2018-05-25T19:55:16+00:00"
   category:
@@ -199,7 +199,7 @@
   content:
     text: ' \ud83c\udfa7 Listened to Re-Decentralizing The Web by Techdirt From Techdirt'
 - type: entry
-  published: "2018-05-25T23:06:47+00:00"
+  published: "2018-05-25T22:18:07+00:00"
   category:
   - scrobble
   - audio
@@ -210,17 +210,17 @@
       url: https://www.techdirt.com/podcast.xml
       photo: ""
       audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/322939002-techdirt-truth-and-fiction-with-cory-doctorow.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/322939002-techdirt-truth-and-fiction-with-cory-doctorow.mp3
-      name: Truth And Fiction With Cory Doctorow
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/324153636-techdirt-no-the-mp3-isnt-dead.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/324153636-techdirt-no-the-mp3-isnt-dead.mp3
+      name: No, The MP3 Isn't Dead
       author: Techdirt
-      content: Most Techdirt readers are already familiar with Cory Doctorow, whether
-        via his EFF work, the BoingBoing blog, his novels, or all of the above. This
-        week, he joins us on the podcast to discuss his new book Walkaway and much,
-        much more.
+      content: "When the \"death of the MP3\" started being reported, we were among
+        the very few blogs that said umm, no \u2014 but the deluge of eulogies for
+        the still-thriving format has been overwhelming and quite surprising. This
+        week I join the podcast to discuss why the MP3 isn't dead, and how so much
+        of the tech press got it so wrong."
   content:
-    text: ' \ud83c\udfa7 Listened to Truth And Fiction With Cory Doctorow by Techdirt
-      From Techdirt'
+    text: ' \ud83c\udfa7 Listened to No, The MP3 Isn''t Dead by Techdirt From Techdirt'
 - type: entry
   published: "2018-05-25T16:46:53+00:00"
   category:

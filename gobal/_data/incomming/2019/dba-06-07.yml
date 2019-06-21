@@ -21,26 +21,6 @@
     text: ' \ud83c\udfa7 Listened to 5G hysteria is coming ... by ABC Radio National
       From Great Moments In Science - with Dr Karl Kruszelnicki'
 - type: entry
-  published: "2019-06-07T22:05:54+00:00"
-  category:
-  - scrobble
-  - audio
-  - 'RPGMP3: Yorkton Gamer Guild Actual Play Podcast'
-  - Yorkton Gamer Guild
-  listen-of:
-    h-cite:
-      url: http://rpgmp3.com/v5/category/group/yorktongamerguild/feed/
-      photo: ""
-      audio:
-      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Yorkton_Gamer_Guild/pathfinder_dragons_delve_part_03.mp3
-      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/pathfinder_dragons_delve_part_03.mp3
-      name: "Dragon\u2019s Delve Session 03"
-      author: Yorkton Gamer Guild
-      content: Session 03 - 21 Years of Bad Luck to Follow
-  content:
-    text: " \\ud83c\\udfa7 Listened to Dragon\u2019s Delve Session 03 by @rpgmp3 ,
-      @GM_Lockhart & @ygguild From #RPGMP3ActualPlayPodcast #YorktonGamerGuildActualPlayPodcast"
-- type: entry
   published: "2019-06-07T22:48:12+00:00"
   category:
   - scrobble
@@ -82,4 +62,24 @@
   content:
     text: ' \ud83c\udfa7 Listened to Rhod and Dr. Karl talk Starlink satellites, red
       wine & more. by @bbc5live From 5 live Science Podcast'
+- type: entry
+  published: "2019-06-07T22:05:54+00:00"
+  category:
+  - scrobble
+  - audio
+  - 'RPGMP3: Yorkton Gamer Guild Actual Play Podcast'
+  - Yorkton Gamer Guild
+  listen-of:
+    h-cite:
+      url: http://rpgmp3.com/v5/category/group/yorktongamerguild/feed/
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Yorkton_Gamer_Guild/pathfinder_dragons_delve_part_03.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/pathfinder_dragons_delve_part_03.mp3
+      name: "Dragon\u2019s Delve Session 03"
+      author: Yorkton Gamer Guild
+      content: Session 03 - 21 Years of Bad Luck to Follow
+  content:
+    text: " \\ud83c\\udfa7 Listened to Dragon\u2019s Delve Session 03 by @rpgmp3 ,
+      @GM_Lockhart & @ygguild From #RPGMP3ActualPlayPodcast #YorktonGamerGuildActualPlayPodcast"
 ...

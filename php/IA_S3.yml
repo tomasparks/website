@@ -142,6 +142,7 @@ Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National
   Brain_freeze.mp3: true
   The_real_cost_of_air_pollution.mp3: true
   5G_hysteria_is_coming_.mp3: true
+  5G_hysteria_is_coming_part_2.mp3: true
 Future_Tense_ABC_RN-by-ABC_Radio_National:
   fte_20190512.mp3: true
   fte_20190526.mp3: true
@@ -894,7 +895,13 @@ RPGMP3_Actual_Play_Podcast-by-Hal:
   inspectres_team_america_ghost_police_part_01.mp3: true
   pathfinder_dragons_delve_part_03.mp3: true
   pathfinder_dragons_delve_part_04.mp3: true
-  pathfinder_dragons_delve_part_05.mp3: false
+  pathfinder_dragons_delve_part_05.mp3: true
+  pathfinder_dragons_delve_part_06.mp3: true
+  pathfinder_dragons_delve_part_08.mp3: true
+  pathfinder_dragons_delve_part_10.mp3: true
+  pathfinder_dragons_delve_part_09.mp3: true
+  pathfinder_dragons_delve_part_11.mp3: true
+  pathfinder_dragons_delve_part_07.mp3: true
 Automators-Podcast-by-David_Sparks_and_Rose_Orchard:
   automators000.mp3: true
 DatCast-Podcast-by-Bret_Comnes_and_Jim_Pick:
@@ -1257,4 +1264,6 @@ Relative_Paths_Web_Development_and_stuff_like_that-by-Mark_Phoenix_and_Ben_Hutch
   438217815-relativepaths-52-going-offline-with-jeremy-keith.mp3: true
 STEAL_THIS_SHOW-by-STEAL_THIS_SHOW:
   S03_E012_Propaganda_Bots_with_Sam_Woolley.mp3: false
+Reality_20-by-Linux_Journal:
+  LinuxJournal_Reality2.0_Episode20.mp3: true
 ...

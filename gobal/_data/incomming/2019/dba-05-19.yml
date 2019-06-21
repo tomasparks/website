@@ -22,35 +22,6 @@
     text: ' \ud83c\udfa7 Listened to Robots in the classroom and news on Wikipedia
       by ABC Radio National From Future Tense - ABC RN'
 - type: entry
-  published: "2019-05-19T15:15:52+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - https://media.acast.com/internethistorypodcast/196.google-twitterandmorewithkarenwickre/media.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/196_Google_Twitter_and_More_With_Karen_Wickre.mp3
-      name: 196. Google, Twitter and More With Karen Wickre
-      author: Brian McCullough
-      content: "Everyone knows Karen Wickre, because she\u2019s one of those classic
-        connectors. Once we finally got in touch, I wasn\u2019t surprised to learn
-        we knew about half a dozen of the same people though we had never remotely
-        crossed paths. But Karen knows everyone because she\u2019s popped up Zelig-like
-        in a bunch of interesting places over the course of tech history over the
-        last 30 years or so. Early tech journalism. Planet Out. Early Google employee.
-        Early blogger. Early tweeter. Editorial Director at Twitter. Karen has a great
-        book out that you should read, explaining how to do what she does so successfully,
-        called Take The Work Out of Networking: An Introvert\u2019s Guide To Making
-        Connections That Count."
-  content:
-    text: ' \ud83c\udfa7 Listened to 196. Google, Twitter and More With Karen Wickre
-      by Brian McCullough From Internet History Podcast'
-- type: entry
   published: "2019-05-19T13:45:06+00:00"
   category:
   - scrobble
@@ -92,4 +63,33 @@
         and treachery."
   content:
     text: ' \ud83c\udfa7 Listened to Kingmaker Session 65 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+- type: entry
+  published: "2019-05-19T15:15:52+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - https://media.acast.com/internethistorypodcast/196.google-twitterandmorewithkarenwickre/media.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/196_Google_Twitter_and_More_With_Karen_Wickre.mp3
+      name: 196. Google, Twitter and More With Karen Wickre
+      author: Brian McCullough
+      content: "Everyone knows Karen Wickre, because she\u2019s one of those classic
+        connectors. Once we finally got in touch, I wasn\u2019t surprised to learn
+        we knew about half a dozen of the same people though we had never remotely
+        crossed paths. But Karen knows everyone because she\u2019s popped up Zelig-like
+        in a bunch of interesting places over the course of tech history over the
+        last 30 years or so. Early tech journalism. Planet Out. Early Google employee.
+        Early blogger. Early tweeter. Editorial Director at Twitter. Karen has a great
+        book out that you should read, explaining how to do what she does so successfully,
+        called Take The Work Out of Networking: An Introvert\u2019s Guide To Making
+        Connections That Count."
+  content:
+    text: ' \ud83c\udfa7 Listened to 196. Google, Twitter and More With Karen Wickre
+      by Brian McCullough From Internet History Podcast'
 ...

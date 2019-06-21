@@ -1,5 +1,39 @@
 ---
 - type: entry
+  published: "2018-04-06T02:47:08+00:00"
+  category:
+  - scrobble
+  - audio
+  - Adam Ruins Everything
+  - Adam Ruins Everything
+  listen-of:
+    h-cite:
+      url: http://maximumfun.org/feeds/are.xml
+      photo: ""
+      audio:
+      - http://media.adknit.com/a/f/90/adam-ruins-everything/mytgy4.1-1.mp3
+      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_45_Dr_Kathryn_Hall_on_the_Surprising_Power_of_Placebos.mp3
+      name: 'Ep 45: Dr. Kathryn Hall on the Surprising Power of Placebos'
+      author: Adam Ruins Everything
+      content: "Placebos are commonly dismissed as \"fake\" treatments that have no
+        real power on you or your body. But scientists are realizing more and more
+        that placebos are more powerful than we realized. New research shows that
+        while placebos may not cure diseases, they can reduce symptoms of our ailments
+        like irritable bowel syndrome and even Parkinson's disease, and in the process
+        actually make us feel better. Even traditional medicine takes advantage of
+        the placebo effect, which could mean the placebo effect could play a significant
+        role in treating diseases. On this episode we talk to Dr. Kathryn Hall, who
+        appeared on Adam Ruins Spa Day, about how placebos can have such powerful
+        effects on our brains and how placebos are changing the way we conduct science
+        and treat patients. Kathryn is a molecular biologist and Director of Placebo
+        Genetics at Harvard Medical School's Program in Placebo Studies.\r\n\r\nAdam
+        is on Twitter @AdamConover and you can find past episodes and bonus content
+        from the TruTV show at AdamRuinsEverything.com.\r\n\r\nProduced by Shara Morris
+        for MaximumFun.org."
+  content:
+    text: ' \ud83c\udfa7 Listened to Ep 45: Dr. Kathryn Hall on the Surprising Power
+      of Placebos by Adam Ruins Everything From Adam Ruins Everything'
+- type: entry
   published: "2018-04-06T12:15:02+00:00"
   category:
   - scrobble
@@ -63,38 +97,4 @@
   content:
     text: ' \ud83c\udfa7 Listened to Ep 44: Dr. Daniel Jolley on Why Conspiracy Theories
       Are Harmful by Adam Ruins Everything From Adam Ruins Everything'
-- type: entry
-  published: "2018-04-06T02:47:08+00:00"
-  category:
-  - scrobble
-  - audio
-  - Adam Ruins Everything
-  - Adam Ruins Everything
-  listen-of:
-    h-cite:
-      url: http://maximumfun.org/feeds/are.xml
-      photo: ""
-      audio:
-      - http://media.adknit.com/a/f/90/adam-ruins-everything/mytgy4.1-1.mp3
-      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_45_Dr_Kathryn_Hall_on_the_Surprising_Power_of_Placebos.mp3
-      name: 'Ep 45: Dr. Kathryn Hall on the Surprising Power of Placebos'
-      author: Adam Ruins Everything
-      content: "Placebos are commonly dismissed as \"fake\" treatments that have no
-        real power on you or your body. But scientists are realizing more and more
-        that placebos are more powerful than we realized. New research shows that
-        while placebos may not cure diseases, they can reduce symptoms of our ailments
-        like irritable bowel syndrome and even Parkinson's disease, and in the process
-        actually make us feel better. Even traditional medicine takes advantage of
-        the placebo effect, which could mean the placebo effect could play a significant
-        role in treating diseases. On this episode we talk to Dr. Kathryn Hall, who
-        appeared on Adam Ruins Spa Day, about how placebos can have such powerful
-        effects on our brains and how placebos are changing the way we conduct science
-        and treat patients. Kathryn is a molecular biologist and Director of Placebo
-        Genetics at Harvard Medical School's Program in Placebo Studies.\r\n\r\nAdam
-        is on Twitter @AdamConover and you can find past episodes and bonus content
-        from the TruTV show at AdamRuinsEverything.com.\r\n\r\nProduced by Shara Morris
-        for MaximumFun.org."
-  content:
-    text: ' \ud83c\udfa7 Listened to Ep 45: Dr. Kathryn Hall on the Surprising Power
-      of Placebos by Adam Ruins Everything From Adam Ruins Everything'
 ...

@@ -1,30 +1,5 @@
 ---
 - type: entry
-  published: "2019-01-02T03:21:39+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/536409852-techdirt-should-we-break-up-big-tech.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/536409852-techdirt-should-we-break-up-big-tech.mp3
-      name: Should We Break Up Big Tech?
-      author: Techdirt
-      content: "A few weeks ago, we featured a panel discussion with Mike and others
-        at the Lincoln Network's Reboot conference on the podcast. This week we're
-        doing something a little different and featuring another panel discussion
-        from that conference, but one in which Mike wasn't involved. Instead, it's
-        an interesting \u2014 and at times contentious \u2014 debate about one big
-        question: do the big tech firms need to be broken up?"
-  content:
-    text: ' \ud83c\udfa7 Listened to Should We Break Up Big Tech? by Techdirt From
-      Techdirt'
-- type: entry
   published: "2019-01-02T04:33:18+00:00"
   category:
   - scrobble
@@ -74,4 +49,29 @@
   content:
     text: ' \ud83c\udfa7 Listened to Free Speech Disorder, With Mike Godwin by Techdirt
       From Techdirt'
+- type: entry
+  published: "2019-01-02T03:21:39+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/536409852-techdirt-should-we-break-up-big-tech.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/536409852-techdirt-should-we-break-up-big-tech.mp3
+      name: Should We Break Up Big Tech?
+      author: Techdirt
+      content: "A few weeks ago, we featured a panel discussion with Mike and others
+        at the Lincoln Network's Reboot conference on the podcast. This week we're
+        doing something a little different and featuring another panel discussion
+        from that conference, but one in which Mike wasn't involved. Instead, it's
+        an interesting \u2014 and at times contentious \u2014 debate about one big
+        question: do the big tech firms need to be broken up?"
+  content:
+    text: ' \ud83c\udfa7 Listened to Should We Break Up Big Tech? by Techdirt From
+      Techdirt'
 ...

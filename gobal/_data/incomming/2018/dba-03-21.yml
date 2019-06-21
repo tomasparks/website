@@ -1,27 +1,5 @@
 ---
 - type: entry
-  published: "2018-03-21T11:20:15+00:00"
-  category:
-  - scrobble
-  - audio
-  - STEAL THIS SHOW
-  - STEAL THIS SHOW
-  listen-of:
-    h-cite:
-      url: http://stealthisshow.com/feed/podcast
-      photo: ""
-      audio:
-      - http://media.blubrry.com/stealthisshow/content.blubrry.com/stealthisshow/s03_e11_The_Nerd_Reich_with_Vinay_Gupta_mp3.mp3
-      - http://archive.org/download/STEAL_THIS_SHOW-Podcast-by-STEAL_THIS_SHOW/s03_e11_The_Nerd_Reich_with_Vinay_Gupta_mp3.mp3
-      name: "\u2018The Nerd Reich\u2019, with Vinay Gupta"
-      author: STEAL THIS SHOW
-      content: "In this episode we meet Vinay Gupta: software engineer, disaster consultant
-        and global resilience guru. Vinay served as Release Co-ordinator for the Ethereum
-        project, and is now CEO of Mattereum, \u2018the first Internet of Agreements..."
-  content:
-    text: " \\ud83c\\udfa7 Listened to \u2018The Nerd Reich\u2019, with Vinay Gupta
-      by @steal_this_show From @steal_this_show"
-- type: entry
   published: "2018-03-21T10:35:52+00:00"
   category:
   - scrobble
@@ -46,4 +24,26 @@
   content:
     text: ' \ud83c\udfa7 Listened to What Does It Mean For Social Media To Be Held
       Accountable? by Techdirt From Techdirt'
+- type: entry
+  published: "2018-03-21T11:20:15+00:00"
+  category:
+  - scrobble
+  - audio
+  - STEAL THIS SHOW
+  - STEAL THIS SHOW
+  listen-of:
+    h-cite:
+      url: http://stealthisshow.com/feed/podcast
+      photo: ""
+      audio:
+      - http://media.blubrry.com/stealthisshow/content.blubrry.com/stealthisshow/s03_e11_The_Nerd_Reich_with_Vinay_Gupta_mp3.mp3
+      - http://archive.org/download/STEAL_THIS_SHOW-Podcast-by-STEAL_THIS_SHOW/s03_e11_The_Nerd_Reich_with_Vinay_Gupta_mp3.mp3
+      name: "\u2018The Nerd Reich\u2019, with Vinay Gupta"
+      author: STEAL THIS SHOW
+      content: "In this episode we meet Vinay Gupta: software engineer, disaster consultant
+        and global resilience guru. Vinay served as Release Co-ordinator for the Ethereum
+        project, and is now CEO of Mattereum, \u2018the first Internet of Agreements..."
+  content:
+    text: " \\ud83c\\udfa7 Listened to \u2018The Nerd Reich\u2019, with Vinay Gupta
+      by @steal_this_show From @steal_this_show"
 ...

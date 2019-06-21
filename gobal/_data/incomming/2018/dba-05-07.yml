@@ -55,6 +55,35 @@
       Phoenix and Ben Hutchings From Relative Paths | Web Development and stuff like
       that'
 - type: entry
+  published: "2018-05-07T07:48:44+00:00"
+  category:
+  - scrobble
+  - audio
+  - 'Planetary Radio: Space Exploration, Astronomy and Science'
+  - The Planetary Society
+  listen-of:
+    h-cite:
+      url: https://feeds.megaphone.fm/PPY3921129017
+      photo: ""
+      audio:
+      - https://traffic.megaphone.fm/PPY6819343296.mp3
+      - http://archive.org/download/Planetary_Radio_Space_Exploration_Astronomy_and_Science-Podcast-by-The_Planetary_Society/Space_Policy_Edition_A_Commercial_Future_for_the_Space_Station.mp3
+      name: 'Space Policy Edition: A Commercial Future for the Space Station?'
+      author: The Planetary Society
+      content: "After announcing it intends to divest from the International Space
+        Station in 2025, NASA quietly released a new report on its transition plans,
+        laying out a series of principles that will set the future of U.S. astronauts
+        in low-Earth orbit. Can a private entity really take over the space station?
+        Where did this idea come from anyway? Will there be new commercial space stations
+        in the near future, and will they serve NASA's needs? Also, the confirmation
+        of Jim Bridenstine as NASA Administrator. More resources to explore this month\u2019s
+        topics are at &nbsp;http://www.planetary.org/multimedia/planetary-radio/show/2018/space-policy-edition-25.html&nbsp;\n
+        \     "
+  content:
+    text: ' \ud83c\udfa7 Listened to Space Policy Edition: A Commercial Future for
+      the Space Station? by @exploreplanets From Planetary Radio: Space Exploration,
+      Astronomy and Science'
+- type: entry
   published: "2018-05-07T05:05:51+00:00"
   category:
   - scrobble
@@ -107,35 +136,6 @@
   content:
     text: ' \ud83c\udfa7 Listened to Episode 48 - Progressive Enhancement | With Aaron
       Gustafson - Relative Paths by Array From web design on Huffduffer'
-- type: entry
-  published: "2018-05-07T07:48:44+00:00"
-  category:
-  - scrobble
-  - audio
-  - 'Planetary Radio: Space Exploration, Astronomy and Science'
-  - The Planetary Society
-  listen-of:
-    h-cite:
-      url: https://feeds.megaphone.fm/PPY3921129017
-      photo: ""
-      audio:
-      - https://traffic.megaphone.fm/PPY6819343296.mp3
-      - http://archive.org/download/Planetary_Radio_Space_Exploration_Astronomy_and_Science-Podcast-by-The_Planetary_Society/Space_Policy_Edition_A_Commercial_Future_for_the_Space_Station.mp3
-      name: 'Space Policy Edition: A Commercial Future for the Space Station?'
-      author: The Planetary Society
-      content: "After announcing it intends to divest from the International Space
-        Station in 2025, NASA quietly released a new report on its transition plans,
-        laying out a series of principles that will set the future of U.S. astronauts
-        in low-Earth orbit. Can a private entity really take over the space station?
-        Where did this idea come from anyway? Will there be new commercial space stations
-        in the near future, and will they serve NASA's needs? Also, the confirmation
-        of Jim Bridenstine as NASA Administrator. More resources to explore this month\u2019s
-        topics are at &nbsp;http://www.planetary.org/multimedia/planetary-radio/show/2018/space-policy-edition-25.html&nbsp;\n
-        \     "
-  content:
-    text: ' \ud83c\udfa7 Listened to Space Policy Edition: A Commercial Future for
-      the Space Station? by @exploreplanets From Planetary Radio: Space Exploration,
-      Astronomy and Science'
 - type: entry
   published: "2018-05-07T15:20:07+00:00"
   category:

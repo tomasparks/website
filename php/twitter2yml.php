@@ -53,7 +53,7 @@ foreach ($db as $ykey => $year){
             		
             		if (file_exists("dbt-".str_pad($mkey, 2, '0', STR_PAD_LEFT)."-".str_pad($dkey, 2, '0', STR_PAD_LEFT).".yml")) {
             			$tmp_db = yaml_parse_file("dbt-".str_pad($mkey, 2, '0', STR_PAD_LEFT)."-".str_pad($dkey, 2, '0', STR_PAD_LEFT).".yml");
-            			$day = array_merge($day,$tmp_db);
+            			//$day = array_merge($day,$tmp_db);
             			$day = array_unique(array_merge($day,$tmp_db), SORT_REGULAR);
            		}
            		yaml_emit_file ("dbt-".str_pad($mkey, 2, '0', STR_PAD_LEFT)."-".str_pad($dkey, 2, '0', STR_PAD_LEFT).".yml" , $day);

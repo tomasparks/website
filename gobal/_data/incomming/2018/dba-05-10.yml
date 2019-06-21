@@ -1,27 +1,54 @@
 ---
 - type: entry
-  published: "2018-05-10T03:14:34+00:00"
+  published: "2018-05-10T12:32:42+00:00"
   category:
   - scrobble
   - audio
-  - snarfed on Huffduffer
-  - []
+  - Acquired - Tech Acquisitions & IPOs
+  - Ben Gilbert & David Rosenthal
   listen-of:
     h-cite:
-      url: https://huffduffer.com/snarfed/rss
+      url: http://www.acquired.fm/episodes?format=RSS
       photo: ""
       audio:
-      - https://huffduff-video.s3-us-west-2.amazonaws.com/theverge.com_2018_5_7_17324920_microsoft-ceo-satya-nadella-interview-windows-10-build-2018.mp3
-      - http://archive.org/download/snarfed_on_Huffduffer-by-Array/theverge.com_2018_5_7_17324920_microsoft-ceo-satya-nadella-interview-windows-10-build-2018.mp3
-      name: 'Exclusive: How Microsoft CEO Satya Nadella is rethinking Windows'
-      author: []
-      content: "On Windows, AI, and the ethics of cloud computing.\r\n\r\n===\r\nOriginal
-        video: https://www.theverge.com/2018/5/7/17324920/microsoft-ceo-satya-nadella-interview-windows-10-build-2018\r\nDownloaded
-        by http://huffduff-video.snarfed.org/ on Tue, 08 May 2018 02:22:52 GMT\r\nAvailable
-        for 30 days after download"
+      - http://traffic.libsyn.com/acquired/Acquired_Season_2_Episode_5-_The_Dropbox_IPO.mp3
+      - http://archive.org/download/Acquired-Podcast-by-Ben_Gilbert_and_David_Rosenthal/Season_2_Episode_5The_Dropbox_IPO.mp3
+      name: "Season 2, Episode 5:\_The Dropbox IPO"
+      author: Ben Gilbert & David Rosenthal
+      content: "Acquired is live on the scene following Dropbox\u2019s public market
+        debut. From playing a central role in the early days of Y Combinator, to having
+        Steve Jobs famously label the company a \u201Cfeature not a product\u201D,
+        to pivoting from consumers to enterprise to developers and back again, the
+        silicon valley history runs deep with this one. What twists and turns lie
+        ahead for Dropbox as a public company? We speculate!"
   content:
-    text: ' \ud83c\udfa7 Listened to Exclusive: How Microsoft CEO Satya Nadella is
-      rethinking Windows by Array From snarfed on Huffduffer'
+    text: " \\ud83c\\udfa7 Listened to Season 2, Episode 5:\_The Dropbox IPO by @gilbert
+      & @djrosent From @AcquiredFM"
+- type: entry
+  published: "2018-05-10T09:35:46+00:00"
+  category:
+  - scrobble
+  - audio
+  - Acquired - Tech Acquisitions & IPOs
+  - Ben Gilbert & David Rosenthal
+  listen-of:
+    h-cite:
+      url: http://www.acquired.fm/episodes?format=RSS
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/acquired/Acquired_Season_2_Episode_6_-_The_Spotify_Direct_Listing.mp3
+      - http://archive.org/download/Acquired-Podcast-by-Ben_Gilbert_and_David_Rosenthal/Season_2_Episode_6Spotifys_Direct_Listing.mp3
+      name: "Season 2, Episode 6:\_Spotify\u2019s Direct Listing"
+      author: Ben Gilbert & David Rosenthal
+      content: "Acquired wraps up a big few weeks of coverage with not an IPO or an
+        M&A or a fundraising round, but what\u2019s still the largest tech exit in
+        recent memory: Spotify\u2019s $30B direct public listing. We dive into what
+        it all means and how we got here: from Napster to iTunes to Facebook (and
+        even some Justin Timberlake thrown in for good measure). Acquired FM is on
+        the scene and spinning all the hits from this new wave music industry titan!"
+  content:
+    text: " \\ud83c\\udfa7 Listened to Season 2, Episode 6:\_Spotify\u2019s Direct
+      Listing by @gilbert & @djrosent From @AcquiredFM"
 - type: entry
   published: "2018-05-10T13:11:41+00:00"
   category:
@@ -44,6 +71,29 @@
   content:
     text: ' \ud83c\udfa7 Listened to Hemp, nicotine and underwater spiders by ABC
       Science From Dr Karl on triplej'
+- type: entry
+  published: "2018-05-10T03:14:34+00:00"
+  category:
+  - scrobble
+  - audio
+  - snarfed on Huffduffer
+  - []
+  listen-of:
+    h-cite:
+      url: https://huffduffer.com/snarfed/rss
+      photo: ""
+      audio:
+      - https://huffduff-video.s3-us-west-2.amazonaws.com/theverge.com_2018_5_7_17324920_microsoft-ceo-satya-nadella-interview-windows-10-build-2018.mp3
+      - http://archive.org/download/snarfed_on_Huffduffer-by-Array/theverge.com_2018_5_7_17324920_microsoft-ceo-satya-nadella-interview-windows-10-build-2018.mp3
+      name: 'Exclusive: How Microsoft CEO Satya Nadella is rethinking Windows'
+      author: []
+      content: "On Windows, AI, and the ethics of cloud computing.\r\n\r\n===\r\nOriginal
+        video: https://www.theverge.com/2018/5/7/17324920/microsoft-ceo-satya-nadella-interview-windows-10-build-2018\r\nDownloaded
+        by http://huffduff-video.snarfed.org/ on Tue, 08 May 2018 02:22:52 GMT\r\nAvailable
+        for 30 days after download"
+  content:
+    text: ' \ud83c\udfa7 Listened to Exclusive: How Microsoft CEO Satya Nadella is
+      rethinking Windows by Array From snarfed on Huffduffer'
 - type: entry
   published: "2018-05-10T04:55:39+00:00"
   category:
@@ -98,54 +148,4 @@
   content:
     text: ' \ud83c\udfa7 Listened to Ep. 14: Trial by Combat (The Galaderon Saga)
       by HeadGum From Not Another D&D Podcast'
-- type: entry
-  published: "2018-05-10T09:35:46+00:00"
-  category:
-  - scrobble
-  - audio
-  - Acquired - Tech Acquisitions & IPOs
-  - Ben Gilbert & David Rosenthal
-  listen-of:
-    h-cite:
-      url: http://www.acquired.fm/episodes?format=RSS
-      photo: ""
-      audio:
-      - http://traffic.libsyn.com/acquired/Acquired_Season_2_Episode_6_-_The_Spotify_Direct_Listing.mp3
-      - http://archive.org/download/Acquired-Podcast-by-Ben_Gilbert_and_David_Rosenthal/Season_2_Episode_6Spotifys_Direct_Listing.mp3
-      name: "Season 2, Episode 6:\_Spotify\u2019s Direct Listing"
-      author: Ben Gilbert & David Rosenthal
-      content: "Acquired wraps up a big few weeks of coverage with not an IPO or an
-        M&A or a fundraising round, but what\u2019s still the largest tech exit in
-        recent memory: Spotify\u2019s $30B direct public listing. We dive into what
-        it all means and how we got here: from Napster to iTunes to Facebook (and
-        even some Justin Timberlake thrown in for good measure). Acquired FM is on
-        the scene and spinning all the hits from this new wave music industry titan!"
-  content:
-    text: " \\ud83c\\udfa7 Listened to Season 2, Episode 6:\_Spotify\u2019s Direct
-      Listing by @gilbert & @djrosent From @AcquiredFM"
-- type: entry
-  published: "2018-05-10T12:32:42+00:00"
-  category:
-  - scrobble
-  - audio
-  - Acquired - Tech Acquisitions & IPOs
-  - Ben Gilbert & David Rosenthal
-  listen-of:
-    h-cite:
-      url: http://www.acquired.fm/episodes?format=RSS
-      photo: ""
-      audio:
-      - http://traffic.libsyn.com/acquired/Acquired_Season_2_Episode_5-_The_Dropbox_IPO.mp3
-      - http://archive.org/download/Acquired-Podcast-by-Ben_Gilbert_and_David_Rosenthal/Season_2_Episode_5The_Dropbox_IPO.mp3
-      name: "Season 2, Episode 5:\_The Dropbox IPO"
-      author: Ben Gilbert & David Rosenthal
-      content: "Acquired is live on the scene following Dropbox\u2019s public market
-        debut. From playing a central role in the early days of Y Combinator, to having
-        Steve Jobs famously label the company a \u201Cfeature not a product\u201D,
-        to pivoting from consumers to enterprise to developers and back again, the
-        silicon valley history runs deep with this one. What twists and turns lie
-        ahead for Dropbox as a public company? We speculate!"
-  content:
-    text: " \\ud83c\\udfa7 Listened to Season 2, Episode 5:\_The Dropbox IPO by @gilbert
-      & @djrosent From @AcquiredFM"
 ...

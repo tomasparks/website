@@ -60,16 +60,15 @@ case "archive":
 	                        if (file_exists("/home/tom/github/website/sources/gobal/_data/webmention/".$path.".json"))  {
 	                      
 	                            $file = file_get_contents("/home/tom/github/website/sources/gobal/_data/webmention/".$path.".json");
-	                            $tmp_db = json_decode($file);
-	                     
-	                     
+	                            $tmp_db = json_decode($file, true);                   
 	                   //  print_r($tmp_db);
 	                  //  $tmp_db = yaml_parse_file("/home/tom/github/website/sources/gobal/_data/webmention/".$path.".yml");
-            			$value = array_merge($value,$tmp_db);
-            			$value = array_unique(array_merge($value,$tmp_db), SORT_REGULAR);
+            			//$newdb = array_merge($value,$tmp_db);
+            			$newdb = array_unique(array_merge($value,$tmp_db), SORT_REGULAR);
             			}
 	                     //   yaml_emit_file( "/home/tom/github/website/sources/gobal/_data/webmention/".$path.".yml", $value);
-	                        $json_data = json_encode($value,JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
+	                        $json_data = json_encode($newdb,JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
+
                             file_put_contents("/home/tom/github/website/sources/gobal/_data/webmention/".$path.".json", $json_data);
 	                     
 	  }

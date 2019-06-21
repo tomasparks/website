@@ -1,71 +1,5 @@
 ---
 - type: entry
-  published: "2018-05-23T16:21:47+00:00"
-  category:
-  - scrobble
-  - audio
-  - Dr Karl on triplej
-  - ABC Science
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20110714.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Sunburnt_nipples_and_global_warming.mp3
-      name: Sunburnt nipples and global warming
-      author: ABC Science
-      content: Why doesn't the skin around nipples get sunburnt? Would global warming
-        interrupt the Atlantic conveyer current and cause an ice age in the northern
-        hemisphere?
-  content:
-    text: ' \ud83c\udfa7 Listened to Sunburnt nipples and global warming by ABC Science
-      From Dr Karl on triplej'
-- type: entry
-  published: "2018-05-23T15:02:57+00:00"
-  category:
-  - scrobble
-  - audio
-  - Dr Karl on triplej
-  - ABC Science
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20110721.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Upset_apples_brain_capacity_and_caffeine_sickness.mp3
-      name: Upset apples, brain capacity and caffeine sickness
-      author: ABC Science
-      content: 'Why does a bruised apple taste differently to an unbruised one? Plus:
-        is it possible to evaluate the capacity of the brain in gigabytes? And why
-        does caffeine make you feel sick in the stomach?'
-  content:
-    text: ' \ud83c\udfa7 Listened to Upset apples, brain capacity and caffeine sickness
-      by ABC Science From Dr Karl on triplej'
-- type: entry
-  published: "2018-05-23T12:35:14+00:00"
-  category:
-  - scrobble
-  - audio
-  - Dr Karl on triplej
-  - ABC Science
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20110811.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Seeing_spots_white_rainbows_and_ghosts.mp3
-      name: Seeing spots, white rainbows and ghosts
-      author: ABC Science
-      content: "Why do some people see thousands of tiny spots when they look up at
-        the sky or a bright light? What causes a white rainbow? And is there any science
-        to explain ghosts? \r\n"
-  content:
-    text: ' \ud83c\udfa7 Listened to Seeing spots, white rainbows and ghosts by ABC
-      Science From Dr Karl on triplej'
-- type: entry
   published: "2018-05-23T14:24:35+00:00"
   category:
   - scrobble
@@ -108,6 +42,72 @@
   content:
     text: ' \ud83c\udfa7 Listened to Space special with NASA astronaut Dr Gregory
       Chamitoff by ABC Science From Dr Karl on triplej'
+- type: entry
+  published: "2018-05-23T16:21:47+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl on triplej
+  - ABC Science
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20110714.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Sunburnt_nipples_and_global_warming.mp3
+      name: Sunburnt nipples and global warming
+      author: ABC Science
+      content: Why doesn't the skin around nipples get sunburnt? Would global warming
+        interrupt the Atlantic conveyer current and cause an ice age in the northern
+        hemisphere?
+  content:
+    text: ' \ud83c\udfa7 Listened to Sunburnt nipples and global warming by ABC Science
+      From Dr Karl on triplej'
+- type: entry
+  published: "2018-05-23T12:35:14+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl on triplej
+  - ABC Science
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20110811.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Seeing_spots_white_rainbows_and_ghosts.mp3
+      name: Seeing spots, white rainbows and ghosts
+      author: ABC Science
+      content: "Why do some people see thousands of tiny spots when they look up at
+        the sky or a bright light? What causes a white rainbow? And is there any science
+        to explain ghosts? \r\n"
+  content:
+    text: ' \ud83c\udfa7 Listened to Seeing spots, white rainbows and ghosts by ABC
+      Science From Dr Karl on triplej'
+- type: entry
+  published: "2018-05-23T15:02:57+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl on triplej
+  - ABC Science
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20110721.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Upset_apples_brain_capacity_and_caffeine_sickness.mp3
+      name: Upset apples, brain capacity and caffeine sickness
+      author: ABC Science
+      content: 'Why does a bruised apple taste differently to an unbruised one? Plus:
+        is it possible to evaluate the capacity of the brain in gigabytes? And why
+        does caffeine make you feel sick in the stomach?'
+  content:
+    text: ' \ud83c\udfa7 Listened to Upset apples, brain capacity and caffeine sickness
+      by ABC Science From Dr Karl on triplej'
 - type: entry
   published: "2018-05-23T17:13:06+00:00"
   category:

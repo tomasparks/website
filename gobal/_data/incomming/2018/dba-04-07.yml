@@ -1,27 +1,5 @@
 ---
 - type: entry
-  published: "2018-04-07T09:25:31+00:00"
-  category:
-  - scrobble
-  - audio
-  - Adam Ruins Everything
-  - Adam Ruins Everything
-  listen-of:
-    h-cite:
-      url: http://maximumfun.org/feeds/are.xml
-      photo: ""
-      audio:
-      - http://media.adknit.com/a/f/90/adam-ruins-everything/x5mh9x.1-1.mp3
-      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_40_Dr_Arjun_Srinivasan_on_Antibiotic_Resistance.mp3
-      name: 'Ep 40: Dr. Arjun Srinivasan on Antibiotic Resistance'
-      author: Adam Ruins Everything
-      content: "Is the antibiotic resistance apocalypse\_approaching? This week's
-        guest,\_Dr. Arjun Srinivasan, who appeared on\_Adam Ruins the Hospital, says
-        yes.\_"
-  content:
-    text: ' \ud83c\udfa7 Listened to Ep 40: Dr. Arjun Srinivasan on Antibiotic Resistance
-      by Adam Ruins Everything From Adam Ruins Everything'
-- type: entry
   published: "2018-04-07T14:05:37+00:00"
   category:
   - scrobble
@@ -97,6 +75,28 @@
   content:
     text: ' \ud83c\udfa7 Listened to Ep. 41: Heather Jarvis on the Unsustainability
       of Student Loans by Adam Ruins Everything From Adam Ruins Everything'
+- type: entry
+  published: "2018-04-07T09:25:31+00:00"
+  category:
+  - scrobble
+  - audio
+  - Adam Ruins Everything
+  - Adam Ruins Everything
+  listen-of:
+    h-cite:
+      url: http://maximumfun.org/feeds/are.xml
+      photo: ""
+      audio:
+      - http://media.adknit.com/a/f/90/adam-ruins-everything/x5mh9x.1-1.mp3
+      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_40_Dr_Arjun_Srinivasan_on_Antibiotic_Resistance.mp3
+      name: 'Ep 40: Dr. Arjun Srinivasan on Antibiotic Resistance'
+      author: Adam Ruins Everything
+      content: "Is the antibiotic resistance apocalypse\_approaching? This week's
+        guest,\_Dr. Arjun Srinivasan, who appeared on\_Adam Ruins the Hospital, says
+        yes.\_"
+  content:
+    text: ' \ud83c\udfa7 Listened to Ep 40: Dr. Arjun Srinivasan on Antibiotic Resistance
+      by Adam Ruins Everything From Adam Ruins Everything'
 - type: entry
   published: "2018-04-07T13:04:02+00:00"
   category:

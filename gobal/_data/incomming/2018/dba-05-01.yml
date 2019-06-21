@@ -28,51 +28,6 @@
   content:
     text: ' \ud83c\udfa7 Listened to Is "Free" Bad? by Techdirt From Techdirt'
 - type: entry
-  published: "2018-05-01T23:45:01+00:00"
-  category:
-  - scrobble
-  - audio
-  - Jason Scott Talks His Way Out of It
-  - Jason Scott
-  listen-of:
-    h-cite:
-      url: http://textfiles.libsyn.com/rss
-      photo: ""
-      audio:
-      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_25.mp3?dest-id=574323
-      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Psygnosis_Episode.mp3
-      name: The Psygnosis Episode
-      author: Jason Scott
-      content: "The Psygnosis Episode: The First Support Call, Life as a Support Tech,
-        The Dream, The Inside View, Playstation Gossip, Psygnosis Gossip, Mail Call,
-        A:, Blotter, Shrinkwrap, Rest in Peace.\r\n\r\nThanks to everyone who contributes
-        through the Patreon and other sources! It makes an enormous difference in
-        my life.\_\r\n\r\nI run the Psygnosis fan-site at http://www.psygnosis.org."
-  content:
-    text: ' \ud83c\udfa7 Listened to The Psygnosis Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
-- type: entry
-  published: "2018-05-01T09:54:21+00:00"
-  category:
-  - scrobble
-  - audio
-  - Adam Ruins Everything
-  - Adam Ruins Everything
-  listen-of:
-    h-cite:
-      url: http://maximumfun.org/feeds/are.xml
-      photo: ""
-      audio:
-      - http://media.adknit.com/a/f/90/adam-ruins-everything/u7qgis.1-1.mp3
-      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_7_Elections_and_Voting_Rights_with_Ed_Ayers.mp3
-      name: 'Ep 7: Elections and Voting Rights with Ed Ayers'
-      author: Adam Ruins Everything
-      content: Adam is joined by historian Ed Ayers to talk about our forefathers'
-        democratic vision for the United States, the historical implications of our
-        current election, and misconceptions about the discipline of history.
-  content:
-    text: ' \ud83c\udfa7 Listened to Ep 7: Elections and Voting Rights with Ed Ayers
-      by Adam Ruins Everything From Adam Ruins Everything'
-- type: entry
   published: "2018-05-01T05:41:22+00:00"
   category:
   - scrobble
@@ -117,4 +72,49 @@
   content:
     text: ' \ud83c\udfa7 Listened to Ep 8: Hydration and Hyponatremia with Tamara
       Hew-Butler by Adam Ruins Everything From Adam Ruins Everything'
+- type: entry
+  published: "2018-05-01T09:54:21+00:00"
+  category:
+  - scrobble
+  - audio
+  - Adam Ruins Everything
+  - Adam Ruins Everything
+  listen-of:
+    h-cite:
+      url: http://maximumfun.org/feeds/are.xml
+      photo: ""
+      audio:
+      - http://media.adknit.com/a/f/90/adam-ruins-everything/u7qgis.1-1.mp3
+      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_7_Elections_and_Voting_Rights_with_Ed_Ayers.mp3
+      name: 'Ep 7: Elections and Voting Rights with Ed Ayers'
+      author: Adam Ruins Everything
+      content: Adam is joined by historian Ed Ayers to talk about our forefathers'
+        democratic vision for the United States, the historical implications of our
+        current election, and misconceptions about the discipline of history.
+  content:
+    text: ' \ud83c\udfa7 Listened to Ep 7: Elections and Voting Rights with Ed Ayers
+      by Adam Ruins Everything From Adam Ruins Everything'
+- type: entry
+  published: "2018-05-01T23:45:01+00:00"
+  category:
+  - scrobble
+  - audio
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
+  listen-of:
+    h-cite:
+      url: http://textfiles.libsyn.com/rss
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_25.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Psygnosis_Episode.mp3
+      name: The Psygnosis Episode
+      author: Jason Scott
+      content: "The Psygnosis Episode: The First Support Call, Life as a Support Tech,
+        The Dream, The Inside View, Playstation Gossip, Psygnosis Gossip, Mail Call,
+        A:, Blotter, Shrinkwrap, Rest in Peace.\r\n\r\nThanks to everyone who contributes
+        through the Patreon and other sources! It makes an enormous difference in
+        my life.\_\r\n\r\nI run the Psygnosis fan-site at http://www.psygnosis.org."
+  content:
+    text: ' \ud83c\udfa7 Listened to The Psygnosis Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
 ...

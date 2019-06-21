@@ -1,31 +1,5 @@
 ---
 - type: entry
-  published: "2018-03-17T10:02:22+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough @brianmcc
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/Ih1MSU5JlHQ/152._David_Shen_on_Early_Yahoo_and_the_Maturation_of_Online_Advertising.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/152_David_Shen_on_Early_Yahoo_and_the_Maturation_of_Online_Advertising.mp3
-      name: 152. David Shen on Early Yahoo and the Maturation of Online Advertising
-      author: Brian McCullough @brianmcc
-      content: "David Shen was employee #17 at Yahoo, where he eventually had a hand
-        in, not only the birth of advertising as the primary business model for the
-        web but, eventually, the development of digital ads into their more modern,
-        interactive form. As you\u2019ll hear, David recounts the early days of Yahoo,
-        surviving the dotcom bust and taking advertising beyond the simple banner
-        ad.\r\n\r\nAnd he recounts all of this in his recently published new book:
-        Takeover! The Inside Story of the Yahoo! Ad Revolution"
-  content:
-    text: ' \ud83c\udfa7 Listened to 152. David Shen on Early Yahoo and the Maturation
-      of Online Advertising by Brian McCullough @brianmcc From Internet History Podcast'
-- type: entry
   published: "2018-03-17T14:24:12+00:00"
   category:
   - scrobble
@@ -72,6 +46,28 @@
     text: ' \ud83c\udfa7 Listened to 154. Om Malik on Blogging and Web 2.0 by Brian
       McCullough @brianmcc From Internet History Podcast'
 - type: entry
+  published: "2018-03-17T15:58:55+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/IjGBZROKB7I/155._Giphy_with_Nicole_LaPorte.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/155_Giphy_with_Nicole_LaPorte.mp3
+      name: 155. Giphy with Nicole LaPorte
+      author: Brian McCullough @brianmcc
+      content: "Nicole Laporte has a cover story in Fast Company magazine this month
+        about Giphy, potentially the next big story in online advertising and marketing,
+        as well as\u2026 search?"
+  content:
+    text: ' \ud83c\udfa7 Listened to 155. Giphy with Nicole LaPorte by Brian McCullough
+      @brianmcc From Internet History Podcast'
+- type: entry
   published: "2018-03-17T17:47:42+00:00"
   category:
   - scrobble
@@ -97,7 +93,7 @@
     text: ' \ud83c\udfa7 Listened to 156. Dave Winer on The Open Web, Blogging, Podcasting
       and More by Brian McCullough @brianmcc From Internet History Podcast'
 - type: entry
-  published: "2018-03-17T15:58:55+00:00"
+  published: "2018-03-17T10:02:22+00:00"
   category:
   - scrobble
   - audio
@@ -108,14 +104,18 @@
       url: http://feeds.feedburner.com/InternetHistoryPodcast
       photo: ""
       audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/IjGBZROKB7I/155._Giphy_with_Nicole_LaPorte.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/155_Giphy_with_Nicole_LaPorte.mp3
-      name: 155. Giphy with Nicole LaPorte
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/Ih1MSU5JlHQ/152._David_Shen_on_Early_Yahoo_and_the_Maturation_of_Online_Advertising.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/152_David_Shen_on_Early_Yahoo_and_the_Maturation_of_Online_Advertising.mp3
+      name: 152. David Shen on Early Yahoo and the Maturation of Online Advertising
       author: Brian McCullough @brianmcc
-      content: "Nicole Laporte has a cover story in Fast Company magazine this month
-        about Giphy, potentially the next big story in online advertising and marketing,
-        as well as\u2026 search?"
+      content: "David Shen was employee #17 at Yahoo, where he eventually had a hand
+        in, not only the birth of advertising as the primary business model for the
+        web but, eventually, the development of digital ads into their more modern,
+        interactive form. As you\u2019ll hear, David recounts the early days of Yahoo,
+        surviving the dotcom bust and taking advertising beyond the simple banner
+        ad.\r\n\r\nAnd he recounts all of this in his recently published new book:
+        Takeover! The Inside Story of the Yahoo! Ad Revolution"
   content:
-    text: ' \ud83c\udfa7 Listened to 155. Giphy with Nicole LaPorte by Brian McCullough
-      @brianmcc From Internet History Podcast'
+    text: ' \ud83c\udfa7 Listened to 152. David Shen on Early Yahoo and the Maturation
+      of Online Advertising by Brian McCullough @brianmcc From Internet History Podcast'
 ...

@@ -42,6 +42,7 @@ BucketName:
     Future Tense - ABC RN: Future_Tense_ABC_RN
     "An Indieweb Podcast \u2013 Chris Aldrich": An_Indieweb_Podcast_Chris_Aldrich
     'RPGMP3: Yorkton Gamer Guild Actual Play Podcast': RPGMP3_Actual_Play_Podcast
+    Reality 2.0: Reality_20
   author:
     Hal: Hal
     https://wordpress.org/?v=4.9.8: David_Shanske_and_Chris_Aldrich
@@ -83,6 +84,7 @@ BucketName:
     triple j: triple_j
     https://wordpress.org/?v=5.1.1: httpswordpressorgv511
     Yorkton Gamer Guild: Hal
+    Linux Journal: Linux_Journal
 twitter:
   author:
     Hal: '@rpgmp3'
@@ -126,6 +128,7 @@ twitter:
     triple j: triple j
     https://wordpress.org/?v=5.1.1: https://wordpress.org/?v=5.1.1
     Yorkton Gamer Guild: '@rpgmp3 , @GM_Lockhart & @ygguild'
+    Linux Journal: Linux Journal
   album:
     RPGMP3 Actual Play Podcast: '#RPGMP3ActualPlayPodcast'
     "Indieweb Podcast \u2013 David Shanske": '#IndiewebPodcast'
@@ -174,6 +177,7 @@ twitter:
     "An Indieweb Podcast \u2013 Chris Aldrich": "An Indieweb Podcast \u2013 Chris
       Aldrich"
     'RPGMP3: Yorkton Gamer Guild Actual Play Podcast': '#RPGMP3ActualPlayPodcast #YorktonGamerGuildActualPlayPodcast'
+    Reality 2.0: Reality 2.0
 HowToRewrite:
   media.blubrry.com:
     BucketName:
@@ -374,6 +378,12 @@ HowToRewrite:
     url: false
     fielname: true
   abcmedia.akamaized.net:
+    BucketName:
+      author: rewrite
+      album: rewrite
+    url: false
+    fielname: false
+  www.linuxjournal.com:
     BucketName:
       author: rewrite
       album: rewrite

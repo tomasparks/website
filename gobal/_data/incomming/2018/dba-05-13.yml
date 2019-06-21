@@ -1,6 +1,6 @@
 ---
 - type: entry
-  published: "2018-05-13T14:58:57+00:00"
+  published: "2018-05-13T15:35:23+00:00"
   category:
   - scrobble
   - audio
@@ -11,16 +11,16 @@
       url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20171130.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Cold_beer_hail_storms_stuttering.mp3
-      name: Cold beer, hail storms, stuttering
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20171123.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Before_dinosaurs_sense_of_direction_migraines.mp3
+      name: Before dinosaurs, sense of direction, migraines
       author: ABC Science
-      content: Does a beer can get colder than when in a stubby bottle? Do ice cubes
-        freeze faster when you use hot water? Why is rainfall measured in millimeters
-        not milliliters?
+      content: Does baby oil amplify the sun's rays and give you worse sunburn? What's
+        outside the circle of the universe? Does your internal sense of direction
+        change between the southern and northern hemispheres?
   content:
-    text: ' \ud83c\udfa7 Listened to Cold beer, hail storms, stuttering by ABC Science
-      From Dr Karl on triplej'
+    text: ' \ud83c\udfa7 Listened to Before dinosaurs, sense of direction, migraines
+      by ABC Science From Dr Karl on triplej'
 - type: entry
   published: "2018-05-13T05:29:36+00:00"
   category:
@@ -43,6 +43,28 @@
     text: ' \ud83c\udfa7 Listened to Rollercoasters, white dog poo, wormholes by ABC
       Science From Dr Karl on triplej'
 - type: entry
+  published: "2018-05-13T14:58:57+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl on triplej
+  - ABC Science
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20171130.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Cold_beer_hail_storms_stuttering.mp3
+      name: Cold beer, hail storms, stuttering
+      author: ABC Science
+      content: Does a beer can get colder than when in a stubby bottle? Do ice cubes
+        freeze faster when you use hot water? Why is rainfall measured in millimeters
+        not milliliters?
+  content:
+    text: ' \ud83c\udfa7 Listened to Cold beer, hail storms, stuttering by ABC Science
+      From Dr Karl on triplej'
+- type: entry
   published: "2018-05-13T14:21:04+00:00"
   category:
   - scrobble
@@ -63,71 +85,6 @@
   content:
     text: ' \ud83c\udfa7 Listened to Tap vs Bottled water, voices, the golden ratio
       by ABC Science From Dr Karl on triplej'
-- type: entry
-  published: "2018-05-13T16:47:23+00:00"
-  category:
-  - scrobble
-  - audio
-  - Dr Karl on triplej
-  - ABC Science
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20171109.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Bitcoin_mining_AI_algorithms_data_diamonds.mp3
-      name: Bitcoin mining, AI algorithms, data diamonds
-      author: ABC Science
-      content: Professor David Reilly joins Dr Karl to answer your questions about
-        quantum computing, AI and nanoscience.
-  content:
-    text: ' \ud83c\udfa7 Listened to Bitcoin mining, AI algorithms, data diamonds
-      by ABC Science From Dr Karl on triplej'
-- type: entry
-  published: "2018-05-13T16:11:33+00:00"
-  category:
-  - scrobble
-  - audio
-  - Dr Karl on triplej
-  - ABC Science
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20171116.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Animal_camouflage_artificial_organs_blocked_noses.mp3
-      name: Animal camouflage, artificial organs, blocked noses
-      author: ABC Science
-      content: What happens to your brain when you're dizzy? Why do I get goosebumps
-        when I need to poo? Why does it feel weird when you lay on the opposite side
-        of the bed?
-  content:
-    text: ' \ud83c\udfa7 Listened to Animal camouflage, artificial organs, blocked
-      noses by ABC Science From Dr Karl on triplej'
-- type: entry
-  published: "2018-05-13T06:05:17+00:00"
-  category:
-  - scrobble
-  - audio
-  - Dr Karl on triplej
-  - ABC Science
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20171214.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Fossil_fuels_cruise_control_tears_of_joy_vs_sadness.mp3
-      name: Fossil fuels, cruise control, tears of joy vs sadness
-      author: ABC Science
-      content: Does Cruise Control use more petrol than regular driving? Do we have
-        UV sensors in our skin? Is there any physical difference between tears of
-        joy and tears of sadness?
-  content:
-    text: ' \ud83c\udfa7 Listened to Fossil fuels, cruise control, tears of joy vs
-      sadness by ABC Science From Dr Karl on triplej'
 - type: entry
   published: "2018-05-13T00:30:19+00:00"
   category:
@@ -151,7 +108,7 @@
     text: ' \ud83c\udfa7 Listened to Stress dreams, morning people, period syncing
       by ABC Science From Dr Karl on triplej'
 - type: entry
-  published: "2018-05-13T15:35:23+00:00"
+  published: "2018-05-13T16:47:23+00:00"
   category:
   - scrobble
   - audio
@@ -162,14 +119,57 @@
       url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20171123.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Before_dinosaurs_sense_of_direction_migraines.mp3
-      name: Before dinosaurs, sense of direction, migraines
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20171109.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Bitcoin_mining_AI_algorithms_data_diamonds.mp3
+      name: Bitcoin mining, AI algorithms, data diamonds
       author: ABC Science
-      content: Does baby oil amplify the sun's rays and give you worse sunburn? What's
-        outside the circle of the universe? Does your internal sense of direction
-        change between the southern and northern hemispheres?
+      content: Professor David Reilly joins Dr Karl to answer your questions about
+        quantum computing, AI and nanoscience.
   content:
-    text: ' \ud83c\udfa7 Listened to Before dinosaurs, sense of direction, migraines
+    text: ' \ud83c\udfa7 Listened to Bitcoin mining, AI algorithms, data diamonds
       by ABC Science From Dr Karl on triplej'
+- type: entry
+  published: "2018-05-13T06:05:17+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl on triplej
+  - ABC Science
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20171214.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Fossil_fuels_cruise_control_tears_of_joy_vs_sadness.mp3
+      name: Fossil fuels, cruise control, tears of joy vs sadness
+      author: ABC Science
+      content: Does Cruise Control use more petrol than regular driving? Do we have
+        UV sensors in our skin? Is there any physical difference between tears of
+        joy and tears of sadness?
+  content:
+    text: ' \ud83c\udfa7 Listened to Fossil fuels, cruise control, tears of joy vs
+      sadness by ABC Science From Dr Karl on triplej'
+- type: entry
+  published: "2018-05-13T16:11:33+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl on triplej
+  - ABC Science
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20171116.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Animal_camouflage_artificial_organs_blocked_noses.mp3
+      name: Animal camouflage, artificial organs, blocked noses
+      author: ABC Science
+      content: What happens to your brain when you're dizzy? Why do I get goosebumps
+        when I need to poo? Why does it feel weird when you lay on the opposite side
+        of the bed?
+  content:
+    text: ' \ud83c\udfa7 Listened to Animal camouflage, artificial organs, blocked
+      noses by ABC Science From Dr Karl on triplej'
 ...

@@ -1,38 +1,5 @@
 ---
 - type: entry
-  published: "2019-05-22T16:20:21+00:00"
-  category:
-  - scrobble
-  - audio
-  - indieweb on Huffduffer
-  - []
-  listen-of:
-    h-cite:
-      url: https://huffduffer.com/search/rss?q=indieweb&sort=date
-      photo: ""
-      audio:
-      - https://huffduff-video.s3-us-west-2.amazonaws.com/vimeo.com_336343886.mp3
-      - http://archive.org/download/indieweb_on_Huffduffer-by-Array/vimeo.com_336343886.mp3
-      name: "Take Back Your Web - Tantek \xC7elik"
-      author: []
-      content: "We used to control our online identities, content, and experience.
-        We now share Twitter names instead of domains; even web developers tweet and
-        post on Medium instead of their own sites. We scroll social media and feel
-        empty instead of reading news & blogs to feel informed and connected. Algorithmic
-        feeds amplify rage & conspiracies, enabling tribal ad-targeting to polarise
-        and spread misinformation, threatening democracy itself.\r\nWhat happened?
-        And what are we doing to fix it?\r\nThat's a big question that will require
-        all of us, our communities, our employers, to shift. I don't want to wait,
-        and you probably don't either.\r\nWhat can you do for yourself, today?\r\nOwn
-        your domain. Own your content. Own your social connections. Own your reading
-        experience. IndieWeb services, tools, and standards enable you to take back
-        your web.\r\n\r\n===\r\nOriginal video: https://vimeo.com/336343886\r\nDownloaded
-        by http://huffduff-video.snarfed.org/ on Sun, 19 May 2019 21:10:12 GMT\r\nAvailable
-        for 30 days after download"
-  content:
-    text: " \\ud83c\\udfa7 Listened to Take Back Your Web - Tantek \xC7elik by Array
-      From indieweb on Huffduffer"
-- type: entry
   published: "2019-05-22T17:19:55+00:00"
   category:
   - scrobble
@@ -110,4 +77,37 @@
   content:
     text: ' \ud83c\udfa7 Listened to 195. Microsoft CTO Kevin Scott by Brian McCullough
       From Internet History Podcast'
+- type: entry
+  published: "2019-05-22T16:20:21+00:00"
+  category:
+  - scrobble
+  - audio
+  - indieweb on Huffduffer
+  - []
+  listen-of:
+    h-cite:
+      url: https://huffduffer.com/search/rss?q=indieweb&sort=date
+      photo: ""
+      audio:
+      - https://huffduff-video.s3-us-west-2.amazonaws.com/vimeo.com_336343886.mp3
+      - http://archive.org/download/indieweb_on_Huffduffer-by-Array/vimeo.com_336343886.mp3
+      name: "Take Back Your Web - Tantek \xC7elik"
+      author: []
+      content: "We used to control our online identities, content, and experience.
+        We now share Twitter names instead of domains; even web developers tweet and
+        post on Medium instead of their own sites. We scroll social media and feel
+        empty instead of reading news & blogs to feel informed and connected. Algorithmic
+        feeds amplify rage & conspiracies, enabling tribal ad-targeting to polarise
+        and spread misinformation, threatening democracy itself.\r\nWhat happened?
+        And what are we doing to fix it?\r\nThat's a big question that will require
+        all of us, our communities, our employers, to shift. I don't want to wait,
+        and you probably don't either.\r\nWhat can you do for yourself, today?\r\nOwn
+        your domain. Own your content. Own your social connections. Own your reading
+        experience. IndieWeb services, tools, and standards enable you to take back
+        your web.\r\n\r\n===\r\nOriginal video: https://vimeo.com/336343886\r\nDownloaded
+        by http://huffduff-video.snarfed.org/ on Sun, 19 May 2019 21:10:12 GMT\r\nAvailable
+        for 30 days after download"
+  content:
+    text: " \\ud83c\\udfa7 Listened to Take Back Your Web - Tantek \xC7elik by Array
+      From indieweb on Huffduffer"
 ...

@@ -1,28 +1,5 @@
 ---
 - type: entry
-  published: "2018-04-01T10:05:50+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/339042152-techdirt-20-years-of-techdirt.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/339042152-techdirt-20-years-of-techdirt.mp3
-      name: 20 Years Of Techdirt
-      author: Techdirt
-      content: Can you believe it? Tomorrow is our 20th anniversary! Techdirt has
-        come a long way since Mike started it as a newsletter on August 23rd, 1997,
-        and this week's episode of the podcast is a celebration and exploration of
-        that history. Mike and Dennis are joined by Medium's Alex Feerst acting as
-        moderator/interviewer to discuss the past 20 years of Techdirt.
-  content:
-    text: ' \ud83c\udfa7 Listened to 20 Years Of Techdirt by Techdirt From Techdirt'
-- type: entry
   published: "2018-04-01T10:51:08+00:00"
   category:
   - scrobble
@@ -76,6 +53,29 @@
   content:
     text: ' \ud83c\udfa7 Listened to These Scammers Picked The Wrong Guy by Techdirt
       From Techdirt'
+- type: entry
+  published: "2018-04-01T10:05:50+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/339042152-techdirt-20-years-of-techdirt.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/339042152-techdirt-20-years-of-techdirt.mp3
+      name: 20 Years Of Techdirt
+      author: Techdirt
+      content: Can you believe it? Tomorrow is our 20th anniversary! Techdirt has
+        come a long way since Mike started it as a newsletter on August 23rd, 1997,
+        and this week's episode of the podcast is a celebration and exploration of
+        that history. Mike and Dennis are joined by Medium's Alex Feerst acting as
+        moderator/interviewer to discuss the past 20 years of Techdirt.
+  content:
+    text: ' \ud83c\udfa7 Listened to 20 Years Of Techdirt by Techdirt From Techdirt'
 - type: entry
   published: "2018-04-01T09:54:13+00:00"
   category:

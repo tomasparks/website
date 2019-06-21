@@ -1,27 +1,5 @@
 ---
 - type: entry
-  published: "2018-06-17T03:06:54+00:00"
-  category:
-  - scrobble
-  - audio
-  - Jason Scott Talks His Way Out of It
-  - Jason Scott
-  listen-of:
-    h-cite:
-      url: http://textfiles.libsyn.com/rss
-      photo: ""
-      audio:
-      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_30.mp3?dest-id=574323
-      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Sven_Wallin_Wynn_Wagner_Episode.mp3
-      name: The Sven Wallin / Wynn Wagner Episode
-      author: Jason Scott
-      content: 'An episode of the life of and my experiences knowing Sven Wallin /
-        Wynn Wagner III. Fidonet, OPUS, Fossil, YOOHOO, The Interview and Dinner,
-        Archbishop, Goodbye, The Journey. Note: A Mention of Suicide.'
-  content:
-    text: ' \ud83c\udfa7 Listened to The Sven Wallin / Wynn Wagner Episode by @textfiles
-      From #JasonScottTalksHisWayOutofIt'
-- type: entry
   published: "2018-06-17T02:50:54+00:00"
   category:
   - scrobble
@@ -115,4 +93,26 @@
   content:
     text: ' \ud83c\udfa7 Listened to Episode 12: Snapchat (?!) by Ben Gilbert and
       David Rosenthal From @AcquiredFM'
+- type: entry
+  published: "2018-06-17T03:06:54+00:00"
+  category:
+  - scrobble
+  - audio
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
+  listen-of:
+    h-cite:
+      url: http://textfiles.libsyn.com/rss
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_30.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Sven_Wallin_Wynn_Wagner_Episode.mp3
+      name: The Sven Wallin / Wynn Wagner Episode
+      author: Jason Scott
+      content: 'An episode of the life of and my experiences knowing Sven Wallin /
+        Wynn Wagner III. Fidonet, OPUS, Fossil, YOOHOO, The Interview and Dinner,
+        Archbishop, Goodbye, The Journey. Note: A Mention of Suicide.'
+  content:
+    text: ' \ud83c\udfa7 Listened to The Sven Wallin / Wynn Wagner Episode by @textfiles
+      From #JasonScottTalksHisWayOutofIt'
 ...

@@ -21,31 +21,6 @@
       Session 02 by @rpgmp3 , @GM_Lockhart & @ygguild From #RPGMP3ActualPlayPodcast
       #YorktonGamerGuildActualPlayPodcast"
 - type: entry
-  published: "2019-06-03T01:09:55+00:00"
-  category:
-  - scrobble
-  - audio
-  - Jason Scott Talks His Way Out of It
-  - Jason Scott
-  listen-of:
-    h-cite:
-      url: http://textfiles.libsyn.com/rss
-      photo: ""
-      audio:
-      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_67.mp3?dest-id=574323
-      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Blorb_Episode.mp3
-      name: The Blorb Episode
-      author: Jason Scott
-      content: "The Blorb Episode: Ingestion of the Archive, The Library Goal, Some
-        Odd Books and Items, The Blorb. Some links of items I mentioned: https://archive.org/details/retro_future_Pepsi
-        http://unifiedpoptheory.com/visualization-of-19th-century-ship-routes-from-publicly-available-noaa-data-set/
-        https://archive.org/details/TNM_Hitachi_505_Analog_Computer_Brochure https://archive.org/details/TNM_Hitachi_505_analog_computer_-_Hitachi_Ltd_196_20180302_0149
-        https://igl.ethz.ch/projects/make-it-stand/ https://arcadeblogger.com/2016/02/13/atari-arcade-concept-art-a-glimpe-of-the-future/
-        https://archive.org/details/bub_gb_IdUuPX8s84IC\_ https://en.wikipedia.org/wiki/Bartolomeo_Scappi
-        https://archive.org/details/journeyroundmyro00maisrich"
-  content:
-    text: ' \ud83c\udfa7 Listened to The Blorb Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
-- type: entry
   published: "2019-06-03T02:00:10+00:00"
   category:
   - scrobble
@@ -79,4 +54,29 @@
   content:
     text: ' \ud83c\udfa7 Listened to 197. The Internet Bookshop Story With the Tech
       Business History Podcast by Brian McCullough From Internet History Podcast'
+- type: entry
+  published: "2019-06-03T01:09:55+00:00"
+  category:
+  - scrobble
+  - audio
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
+  listen-of:
+    h-cite:
+      url: http://textfiles.libsyn.com/rss
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_67.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Blorb_Episode.mp3
+      name: The Blorb Episode
+      author: Jason Scott
+      content: "The Blorb Episode: Ingestion of the Archive, The Library Goal, Some
+        Odd Books and Items, The Blorb. Some links of items I mentioned: https://archive.org/details/retro_future_Pepsi
+        http://unifiedpoptheory.com/visualization-of-19th-century-ship-routes-from-publicly-available-noaa-data-set/
+        https://archive.org/details/TNM_Hitachi_505_Analog_Computer_Brochure https://archive.org/details/TNM_Hitachi_505_analog_computer_-_Hitachi_Ltd_196_20180302_0149
+        https://igl.ethz.ch/projects/make-it-stand/ https://arcadeblogger.com/2016/02/13/atari-arcade-concept-art-a-glimpe-of-the-future/
+        https://archive.org/details/bub_gb_IdUuPX8s84IC\_ https://en.wikipedia.org/wiki/Bartolomeo_Scappi
+        https://archive.org/details/journeyroundmyro00maisrich"
+  content:
+    text: ' \ud83c\udfa7 Listened to The Blorb Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
 ...

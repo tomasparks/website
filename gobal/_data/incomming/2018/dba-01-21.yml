@@ -1,27 +1,5 @@
 ---
 - type: entry
-  published: "2018-01-21T12:46:29+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough @brianmcc
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/YYIzNxlH6h4/89._How_Tom_Hadfield_Founded_Soccernet_At_Age_13.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/89_How_Tom_Hadfield_Founded_Soccernet_At_Age_13.mp3
-      name: 89. How Tom Hadfield Founded Soccernet At Age 13
-      author: Brian McCullough @brianmcc
-      content: A history of the Internet Era from Netscape to the iPad. Oral histories
-        from the people that made the technology happen. "Chapter" episodes providing
-        background on the history of the companies.
-  content:
-    text: ' \ud83c\udfa7 Listened to 89. How Tom Hadfield Founded Soccernet At Age
-      13 by Brian McCullough @brianmcc From Internet History Podcast'
-- type: entry
   published: "2018-01-21T21:18:08+00:00"
   category:
   - scrobble
@@ -45,4 +23,26 @@
     text: ' \ud83c\udfa7 Listened to 90. CEO of MapQuest, Barry Glick, Discusses the
       History and Future of Location Tech by Brian McCullough @brianmcc From Internet
       History Podcast'
+- type: entry
+  published: "2018-01-21T12:46:29+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/YYIzNxlH6h4/89._How_Tom_Hadfield_Founded_Soccernet_At_Age_13.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/89_How_Tom_Hadfield_Founded_Soccernet_At_Age_13.mp3
+      name: 89. How Tom Hadfield Founded Soccernet At Age 13
+      author: Brian McCullough @brianmcc
+      content: A history of the Internet Era from Netscape to the iPad. Oral histories
+        from the people that made the technology happen. "Chapter" episodes providing
+        background on the history of the companies.
+  content:
+    text: ' \ud83c\udfa7 Listened to 89. How Tom Hadfield Founded Soccernet At Age
+      13 by Brian McCullough @brianmcc From Internet History Podcast'
 ...

@@ -1,5 +1,33 @@
 ---
 - type: entry
+  published: "2019-06-21T13:33:02+00:00"
+  url: https://twitter.com/tomasparksts/status/1142062874443091968
+  category:
+  - https://twitter.com/autodesk
+  content:
+    text: "(\U0001F916) After the failed attempt with the Library model, I tried @autodesk\u2019s
+      fusion 360 slicer on the Planetarium base model. I have had great success. :)
+      #BuildLog #miniatures #mystisland #Planetarium #Sliceform #Library (\U0001F916)
+      (tomasparks.name/miniatures/bui\u2026)"
+    html: "(\U0001F916) After the failed attempt with the Library model, I tried <a
+      href=\"https://twitter.com/autodesk\">@autodesk</a>\u2019s fusion 360 slicer
+      on the Planetarium base model. I have had great success. :) <a href=\"https://twitter.com/search?q=%23BuildLog\">#BuildLog</a>
+      <a href=\"https://twitter.com/search?q=%23miniatures\">#miniatures</a> <a href=\"https://twitter.com/search?q=%23mystisland\">#mystisland</a>
+      <a href=\"https://twitter.com/search?q=%23Planetarium\">#Planetarium</a> <a
+      href=\"https://twitter.com/search?q=%23Sliceform\">#Sliceform</a> <a href=\"https://twitter.com/search?q=%23Library\">#Library</a>
+      (\U0001F916) (<a href=\"https://tomasparks.name/miniatures/build-log/myst-island/2019/06/21/planetarium.html\">tomasparks.name/miniatures/bui\u2026</a>)"
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/autodesk:
+      type: card
+      name: Autodesk
+      url: https://twitter.com/autodesk
+      photo: ~
+- type: entry
   published: "2019-06-21T06:46:15+00:00"
   url: https://twitter.com/tomasparksts/status/1141960504149045248
   category:

@@ -1,0 +1,63 @@
+---
+- type: entry
+  published: "2019-06-12T11:20:22+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2019/06/gms_20190611.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/5G_hysteria_is_coming_part_2.mp3
+      name: '5G hysteria is coming: part 2'
+      author: ABC Radio National
+      content: If mobile phones don't cause cancer, why did two US studies show they
+        do?
+  content:
+    text: ' \ud83c\udfa7 Listened to 5G hysteria is coming: part 2 by ABC Radio National
+      From Great Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2019-06-12T11:12:34+00:00"
+  category:
+  - scrobble
+  - audio
+  - 'RPGMP3: Yorkton Gamer Guild Actual Play Podcast'
+  - Yorkton Gamer Guild
+  listen-of:
+    h-cite:
+      url: http://rpgmp3.com/v5/category/group/yorktongamerguild/feed/
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Yorkton_Gamer_Guild/pathfinder_dragons_delve_part_06.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/pathfinder_dragons_delve_part_06.mp3
+      name: "Dragon\u2019s Delve Session 06"
+      author: Yorkton Gamer Guild
+      content: Session 06 - Rub-a-dub-dub, half-orc in a tub
+  content:
+    text: " \\ud83c\\udfa7 Listened to Dragon\u2019s Delve Session 06 by @rpgmp3 ,
+      @GM_Lockhart & @ygguild From #RPGMP3ActualPlayPodcast #YorktonGamerGuildActualPlayPodcast"
+- type: entry
+  published: "2019-06-12T12:24:05+00:00"
+  category:
+  - scrobble
+  - audio
+  - Reality 2.0
+  - Linux Journal
+  listen-of:
+    h-cite:
+      url: https://www.linuxjournal.com/podcast.xml
+      photo: ""
+      audio:
+      - https://www.linuxjournal.com/sites/default/files/2019-06/LinuxJournal_Reality2.0_Episode20.mp3
+      - http://archive.org/download/Reality_20-by-Linux_Journal/LinuxJournal_Reality2.0_Episode20.mp3
+      name: 'Episode 20: Advertising is Broken, but Linux Isn''t.'
+      author: Linux Journal
+      content: ~
+  content:
+    text: ' \ud83c\udfa7 Listened to Episode 20: Advertising is Broken, but Linux
+      Isn''t. by Linux Journal From Reality 2.0'
+...

@@ -22,7 +22,7 @@
     text: ' \ud83c\udfa7 Listened to 67. Journalist Maggie Mahar Discusses the Dot-Com
       Bubble by Brian McCullough @brianmcc From Internet History Podcast'
 - type: entry
-  published: "2018-01-07T16:46:30+00:00"
+  published: "2018-01-07T13:11:38+00:00"
   category:
   - scrobble
   - audio
@@ -33,16 +33,16 @@
       url: http://feeds.feedburner.com/InternetHistoryPodcast
       photo: ""
       audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/wKMiZy_wp_4/70._The_Forgotten_Story_of_the_Original_iPhone_Released_in_1998.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/70_The_Forgotten_Story_Of_The_Original_IPhone_Released_In_1998.mp3
-      name: 70. The Forgotten Story Of The Original IPhone Released In 1998
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/9EVRyqQY6AY/69._Steve_Yelvington_Discusses_Newspapers_and_the_Early_Web.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/69_Steve_Yelvington_Discusses_Newspapers_and_the_Early_Web.mp3
+      name: 69. Steve Yelvington Discusses Newspapers and the Early Web
       author: Brian McCullough @brianmcc
       content: A history of the Internet Era from Netscape to the iPad. Oral histories
         from the people that made the technology happen. "Chapter" episodes providing
         background on the history of the companies.
   content:
-    text: ' \ud83c\udfa7 Listened to 70. The Forgotten Story Of The Original IPhone
-      Released In 1998 by Brian McCullough @brianmcc From Internet History Podcast'
+    text: ' \ud83c\udfa7 Listened to 69. Steve Yelvington Discusses Newspapers and
+      the Early Web by Brian McCullough @brianmcc From Internet History Podcast'
 - type: entry
   published: "2018-01-07T12:11:26+00:00"
   category:
@@ -66,7 +66,7 @@
     text: ' \ud83c\udfa7 Listened to 68. Founder of When.com, Ted Barnett by Brian
       McCullough @brianmcc From Internet History Podcast'
 - type: entry
-  published: "2018-01-07T13:11:38+00:00"
+  published: "2018-01-07T16:46:30+00:00"
   category:
   - scrobble
   - audio
@@ -77,14 +77,14 @@
       url: http://feeds.feedburner.com/InternetHistoryPodcast
       photo: ""
       audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/9EVRyqQY6AY/69._Steve_Yelvington_Discusses_Newspapers_and_the_Early_Web.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/69_Steve_Yelvington_Discusses_Newspapers_and_the_Early_Web.mp3
-      name: 69. Steve Yelvington Discusses Newspapers and the Early Web
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/wKMiZy_wp_4/70._The_Forgotten_Story_of_the_Original_iPhone_Released_in_1998.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/70_The_Forgotten_Story_Of_The_Original_IPhone_Released_In_1998.mp3
+      name: 70. The Forgotten Story Of The Original IPhone Released In 1998
       author: Brian McCullough @brianmcc
       content: A history of the Internet Era from Netscape to the iPad. Oral histories
         from the people that made the technology happen. "Chapter" episodes providing
         background on the history of the companies.
   content:
-    text: ' \ud83c\udfa7 Listened to 69. Steve Yelvington Discusses Newspapers and
-      the Early Web by Brian McCullough @brianmcc From Internet History Podcast'
+    text: ' \ud83c\udfa7 Listened to 70. The Forgotten Story Of The Original IPhone
+      Released In 1998 by Brian McCullough @brianmcc From Internet History Podcast'
 ...

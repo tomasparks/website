@@ -1,28 +1,49 @@
 ---
 - type: entry
-  published: "2018-10-21T06:12:29+00:00"
+  published: "2018-10-21T03:07:10+00:00"
   category:
   - scrobble
   - audio
-  - Stephen Fry's Great Leap Years
-  - Stephen Fry | SamFry Ltd
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
   listen-of:
     h-cite:
-      url: https://rss.acast.com/greatleapyears
+      url: http://textfiles.libsyn.com/rss
       photo: ""
       audio:
-      - https://media.acast.com/greatleapyears/3-bells-nobels-morebellsandprizes/media.mp3
-      - http://archive.org/download/Stephen_Frys_Great_Leap_Years-Podcast-by-Stephen_Fry/3_Bells_Nobels_More_Bells_and_Prizes.mp3
-      name: 3 - Bells, Nobels, More Bells and Prizes
-      author: Stephen Fry | SamFry Ltd
-      content: The spark that Napoleon sent across the century from Paris to New York
-        with the prize fund that seeded the Bell Labs energised the next century's,
-        in ways that the emperor could never have guessed at.Researched, written &amp;
-        read by&nbsp;Stephen Fry. Music composed and conducted by&nbsp;Guy Farley&nbsp;with
-        The Chamber Orchestra of London.&nbsp;
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_42.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Personal_Philosophy_Episode.mp3
+      name: The Personal Philosophy Episode
+      author: Jason Scott
+      content: 'The Personal Philosophy Episode: Fan Mail, Philosophy, Life Changes,
+        Sharing Information, Vulnerability, The Commodore Pet, Narratives, The Hidden
+        and Unhidden, A Lost Month, 50, This Life.'
   content:
-    text: ' \ud83c\udfa7 Listened to 3 - Bells, Nobels, More Bells and Prizes by Stephen
-      Fry | SamFry Ltd From Stephen Fry''s Great Leap Years'
+    text: ' \ud83c\udfa7 Listened to The Personal Philosophy Episode by @textfiles
+      From #JasonScottTalksHisWayOutofIt'
+- type: entry
+  published: "2018-10-21T03:32:54+00:00"
+  category:
+  - scrobble
+  - audio
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
+  listen-of:
+    h-cite:
+      url: http://textfiles.libsyn.com/rss
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_43.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Radio_Radio_Episode.mp3
+      name: The Radio Radio Episode
+      author: Jason Scott
+      content: "The Radio Radio Episode: WECB and WERS, Emerson College, 1980 Radio
+        Visit, WECB and the 18 Hour Shift, Fired, WERS, Alternative Parameters and
+        Kelly Rafuse, Live Music Week, A Little Over the Top With The Sorting. An
+        episode about my radio days, thoughts on radio, and the most radical sort
+        I think I've ever done.\_"
+  content:
+    text: ' \ud83c\udfa7 Listened to The Radio Radio Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
 - type: entry
   published: "2018-10-21T04:17:12+00:00"
   category:
@@ -77,29 +98,6 @@
     text: ' \ud83c\udfa7 Listened to 2 - A Faustian Pact by Stephen Fry | SamFry Ltd
       From Stephen Fry''s Great Leap Years'
 - type: entry
-  published: "2018-10-21T11:34:51+00:00"
-  category:
-  - scrobble
-  - audio
-  - Stephen Fry's Great Leap Years
-  - Stephen Fry | SamFry Ltd
-  listen-of:
-    h-cite:
-      url: https://rss.acast.com/greatleapyears
-      photo: ""
-      audio:
-      - https://media.acast.com/greatleapyears/raisingthevailandcatchingthetube/media.mp3
-      - http://archive.org/download/Stephen_Frys_Great_Leap_Years-Podcast-by-Stephen_Fry/4_Raising_the_Vail_and_Catching_the_Tube.mp3
-      name: 4 - Raising the Vail and Catching the Tube
-      author: Stephen Fry | SamFry Ltd
-      content: The sperm whale, Bell Labs, vacuum tubes and the dawning age of information
-        at the speed of light.Researched, written &amp; read by&nbsp;Stephen Fry.
-        Music composed and conducted by&nbsp;Guy Farley&nbsp;with The Chamber Orchestra
-        of London.
-  content:
-    text: ' \ud83c\udfa7 Listened to 4 - Raising the Vail and Catching the Tube by
-      Stephen Fry | SamFry Ltd From Stephen Fry''s Great Leap Years'
-- type: entry
   published: "2018-10-21T12:34:34+00:00"
   category:
   - scrobble
@@ -125,6 +123,53 @@
     text: ' \ud83c\udfa7 Listened to 5 - Let''s Play Monopoly by Stephen Fry | SamFry
       Ltd From Stephen Fry''s Great Leap Years'
 - type: entry
+  published: "2018-10-21T06:12:29+00:00"
+  category:
+  - scrobble
+  - audio
+  - Stephen Fry's Great Leap Years
+  - Stephen Fry | SamFry Ltd
+  listen-of:
+    h-cite:
+      url: https://rss.acast.com/greatleapyears
+      photo: ""
+      audio:
+      - https://media.acast.com/greatleapyears/3-bells-nobels-morebellsandprizes/media.mp3
+      - http://archive.org/download/Stephen_Frys_Great_Leap_Years-Podcast-by-Stephen_Fry/3_Bells_Nobels_More_Bells_and_Prizes.mp3
+      name: 3 - Bells, Nobels, More Bells and Prizes
+      author: Stephen Fry | SamFry Ltd
+      content: The spark that Napoleon sent across the century from Paris to New York
+        with the prize fund that seeded the Bell Labs energised the next century's,
+        in ways that the emperor could never have guessed at.Researched, written &amp;
+        read by&nbsp;Stephen Fry. Music composed and conducted by&nbsp;Guy Farley&nbsp;with
+        The Chamber Orchestra of London.&nbsp;
+  content:
+    text: ' \ud83c\udfa7 Listened to 3 - Bells, Nobels, More Bells and Prizes by Stephen
+      Fry | SamFry Ltd From Stephen Fry''s Great Leap Years'
+- type: entry
+  published: "2018-10-21T11:34:51+00:00"
+  category:
+  - scrobble
+  - audio
+  - Stephen Fry's Great Leap Years
+  - Stephen Fry | SamFry Ltd
+  listen-of:
+    h-cite:
+      url: https://rss.acast.com/greatleapyears
+      photo: ""
+      audio:
+      - https://media.acast.com/greatleapyears/raisingthevailandcatchingthetube/media.mp3
+      - http://archive.org/download/Stephen_Frys_Great_Leap_Years-Podcast-by-Stephen_Fry/4_Raising_the_Vail_and_Catching_the_Tube.mp3
+      name: 4 - Raising the Vail and Catching the Tube
+      author: Stephen Fry | SamFry Ltd
+      content: The sperm whale, Bell Labs, vacuum tubes and the dawning age of information
+        at the speed of light.Researched, written &amp; read by&nbsp;Stephen Fry.
+        Music composed and conducted by&nbsp;Guy Farley&nbsp;with The Chamber Orchestra
+        of London.
+  content:
+    text: ' \ud83c\udfa7 Listened to 4 - Raising the Vail and Catching the Tube by
+      Stephen Fry | SamFry Ltd From Stephen Fry''s Great Leap Years'
+- type: entry
   published: "2018-10-21T03:35:25+00:00"
   category:
   - scrobble
@@ -145,49 +190,4 @@
   content:
     text: ' \ud83c\udfa7 Listened to Trailer by Stephen Fry | SamFry Ltd From Stephen
       Fry''s Great Leap Years'
-- type: entry
-  published: "2018-10-21T03:07:10+00:00"
-  category:
-  - scrobble
-  - audio
-  - Jason Scott Talks His Way Out of It
-  - Jason Scott
-  listen-of:
-    h-cite:
-      url: http://textfiles.libsyn.com/rss
-      photo: ""
-      audio:
-      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_42.mp3?dest-id=574323
-      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Personal_Philosophy_Episode.mp3
-      name: The Personal Philosophy Episode
-      author: Jason Scott
-      content: 'The Personal Philosophy Episode: Fan Mail, Philosophy, Life Changes,
-        Sharing Information, Vulnerability, The Commodore Pet, Narratives, The Hidden
-        and Unhidden, A Lost Month, 50, This Life.'
-  content:
-    text: ' \ud83c\udfa7 Listened to The Personal Philosophy Episode by @textfiles
-      From #JasonScottTalksHisWayOutofIt'
-- type: entry
-  published: "2018-10-21T03:32:54+00:00"
-  category:
-  - scrobble
-  - audio
-  - Jason Scott Talks His Way Out of It
-  - Jason Scott
-  listen-of:
-    h-cite:
-      url: http://textfiles.libsyn.com/rss
-      photo: ""
-      audio:
-      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_43.mp3?dest-id=574323
-      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Radio_Radio_Episode.mp3
-      name: The Radio Radio Episode
-      author: Jason Scott
-      content: "The Radio Radio Episode: WECB and WERS, Emerson College, 1980 Radio
-        Visit, WECB and the 18 Hour Shift, Fired, WERS, Alternative Parameters and
-        Kelly Rafuse, Live Music Week, A Little Over the Top With The Sorting. An
-        episode about my radio days, thoughts on radio, and the most radical sort
-        I think I've ever done.\_"
-  content:
-    text: ' \ud83c\udfa7 Listened to The Radio Radio Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
 ...

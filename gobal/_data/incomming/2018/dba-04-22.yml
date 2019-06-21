@@ -1,27 +1,5 @@
 ---
 - type: entry
-  published: "2018-04-22T19:16:50+00:00"
-  category:
-  - scrobble
-  - audio
-  - Adam Ruins Everything
-  - Adam Ruins Everything
-  listen-of:
-    h-cite:
-      url: http://maximumfun.org/feeds/are.xml
-      photo: ""
-      audio:
-      - http://media.adknit.com/a/f/90/adam-ruins-everything/5bojk9.1-1.mp3
-      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_16_The_Failure_of_the_War_on_Drugs.mp3
-      name: 'Ep 16: The Failure of the War on Drugs'
-      author: Adam Ruins Everything
-      content: Just say no...to the War on Drugs! On this week's Adam Ruins Everything,
-        we talk to Sheriff John Urquhart who appeared on the Drugs episode of the
-        TV show.
-  content:
-    text: ' \ud83c\udfa7 Listened to Ep 16: The Failure of the War on Drugs by Adam
-      Ruins Everything From Adam Ruins Everything'
-- type: entry
   published: "2018-04-22T18:19:52+00:00"
   category:
   - scrobble
@@ -65,4 +43,26 @@
   content:
     text: ' \ud83c\udfa7 Listened to Ep 15: Ethan Zuckerman On Why the Internet is
       a Less Creative Place by Adam Ruins Everything From Adam Ruins Everything'
+- type: entry
+  published: "2018-04-22T19:16:50+00:00"
+  category:
+  - scrobble
+  - audio
+  - Adam Ruins Everything
+  - Adam Ruins Everything
+  listen-of:
+    h-cite:
+      url: http://maximumfun.org/feeds/are.xml
+      photo: ""
+      audio:
+      - http://media.adknit.com/a/f/90/adam-ruins-everything/5bojk9.1-1.mp3
+      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_16_The_Failure_of_the_War_on_Drugs.mp3
+      name: 'Ep 16: The Failure of the War on Drugs'
+      author: Adam Ruins Everything
+      content: Just say no...to the War on Drugs! On this week's Adam Ruins Everything,
+        we talk to Sheriff John Urquhart who appeared on the Drugs episode of the
+        TV show.
+  content:
+    text: ' \ud83c\udfa7 Listened to Ep 16: The Failure of the War on Drugs by Adam
+      Ruins Everything From Adam Ruins Everything'
 ...

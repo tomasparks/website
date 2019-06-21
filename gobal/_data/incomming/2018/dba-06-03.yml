@@ -1,5 +1,80 @@
 ---
 - type: entry
+  published: "2018-06-03T23:12:01+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/264599157-techdirt-why-is-tesla-so-successful.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/264599157-techdirt-why-is-tesla-so-successful.mp3
+      name: Why Is Tesla So Successful?
+      author: Techdirt
+      content: 'Consumers looking for an electric car have several options to consider,
+        but the buzz and excitement around Tesla continues to dwarf everything else.
+        It''s hardly unfounded, but the scale of the company''s success is staggering,
+        and there''s no single reason for it. This week, we discuss that simple question:
+        just why is Tesla so successful?'
+  content:
+    text: ' \ud83c\udfa7 Listened to Why Is Tesla So Successful? by Techdirt From
+      Techdirt'
+- type: entry
+  published: "2018-06-03T04:26:21+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/267998991-techdirt-tech-policy-goes-local.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/267998991-techdirt-tech-policy-goes-local.mp3
+      name: Tech Policy Goes Local
+      author: Techdirt
+      content: "The conversation around tech policy has traditionally happened at
+        the federal level, but more recently we've seen a change in that trend, and
+        some of the most interesting experiments \u2014 both good and bad \u2014 have
+        started happening in state and municipal arenas. This week, we're joined by
+        Tech:NYC Executive Director Julie Samuels to discuss why this is happening
+        and what it means."
+  content:
+    text: ' \ud83c\udfa7 Listened to Tech Policy Goes Local by Techdirt From Techdirt'
+- type: entry
+  published: "2018-06-03T03:46:04+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/269087654-techdirt-the-link-between-credit-and-surveillance.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/269087654-techdirt-the-link-between-credit-and-surveillance.mp3
+      name: The Link Between Credit And Surveillance
+      author: Techdirt
+      content: Both surveillance and the digitization of money are heavily-discussed
+        topics, but the intersection between the two often goes overlooked. Historically,
+        credit agencies have been trailblazers in the world of surveillance, and today
+        we face the fact that the government can use payment providers and other financial
+        tools as a means of enforcing its wishes. On this week's episode, we're joined
+        by lawyer and writer Sarah Jeong, who recently wrote a four-part series on
+        the subject, to discuss the past and future of credit, money, surveillance
+        and the way they work together.
+  content:
+    text: ' \ud83c\udfa7 Listened to The Link Between Credit And Surveillance by Techdirt
+      From Techdirt'
+- type: entry
   published: "2018-06-03T02:59:44+00:00"
   category:
   - scrobble
@@ -50,80 +125,27 @@
     text: ' \ud83c\udfa7 Listened to What Happened At The Oracle Google Trial? by
       Techdirt From Techdirt'
 - type: entry
-  published: "2018-06-03T04:26:21+00:00"
+  published: "2018-06-03T05:17:21+00:00"
   category:
   - scrobble
   - audio
-  - Techdirt
-  - Techdirt
+  - 5 live Science Podcast
+  - BBC Radio 5 live
   listen-of:
     h-cite:
-      url: https://www.techdirt.com/podcast.xml
+      url: http://podcasts.files.bbci.co.uk/p02pc9ny.rss
       photo: ""
       audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/267998991-techdirt-tech-policy-goes-local.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/267998991-techdirt-tech-policy-goes-local.mp3
-      name: Tech Policy Goes Local
-      author: Techdirt
-      content: "The conversation around tech policy has traditionally happened at
-        the federal level, but more recently we've seen a change in that trend, and
-        some of the most interesting experiments \u2014 both good and bad \u2014 have
-        started happening in state and municipal arenas. This week, we're joined by
-        Tech:NYC Executive Director Julie Samuels to discuss why this is happening
-        and what it means."
+      - http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p068v1bw.mp3
+      - http://archive.org/download/5_live_Science_Podcast-by-BBC_Radio_5_live/p068v1bw.mp3
+      name: Leaving Planet Earth
+      author: BBC Radio 5 live
+      content: "Izzie Clarke from the Naked Scientists looks into the science of leaving
+        planet Earth. \n\n\n\nShe also experiences some of the g-forces that astronauts
+        go through to get into orbit."
   content:
-    text: ' \ud83c\udfa7 Listened to Tech Policy Goes Local by Techdirt From Techdirt'
-- type: entry
-  published: "2018-06-03T23:12:01+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/264599157-techdirt-why-is-tesla-so-successful.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/264599157-techdirt-why-is-tesla-so-successful.mp3
-      name: Why Is Tesla So Successful?
-      author: Techdirt
-      content: 'Consumers looking for an electric car have several options to consider,
-        but the buzz and excitement around Tesla continues to dwarf everything else.
-        It''s hardly unfounded, but the scale of the company''s success is staggering,
-        and there''s no single reason for it. This week, we discuss that simple question:
-        just why is Tesla so successful?'
-  content:
-    text: ' \ud83c\udfa7 Listened to Why Is Tesla So Successful? by Techdirt From
-      Techdirt'
-- type: entry
-  published: "2018-06-03T03:46:04+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/269087654-techdirt-the-link-between-credit-and-surveillance.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/269087654-techdirt-the-link-between-credit-and-surveillance.mp3
-      name: The Link Between Credit And Surveillance
-      author: Techdirt
-      content: Both surveillance and the digitization of money are heavily-discussed
-        topics, but the intersection between the two often goes overlooked. Historically,
-        credit agencies have been trailblazers in the world of surveillance, and today
-        we face the fact that the government can use payment providers and other financial
-        tools as a means of enforcing its wishes. On this week's episode, we're joined
-        by lawyer and writer Sarah Jeong, who recently wrote a four-part series on
-        the subject, to discuss the past and future of credit, money, surveillance
-        and the way they work together.
-  content:
-    text: ' \ud83c\udfa7 Listened to The Link Between Credit And Surveillance by Techdirt
-      From Techdirt'
+    text: ' \ud83c\udfa7 Listened to Leaving Planet Earth by @bbc5live From 5 live
+      Science Podcast'
 - type: entry
   published: "2018-06-03T06:31:02+00:00"
   category:
@@ -175,26 +197,4 @@
         (Original broadcast date: June 10, 2016)'
   content:
     text: ' \ud83c\udfa7 Listened to Becoming Wise by NPR From TED Radio Hour'
-- type: entry
-  published: "2018-06-03T05:17:21+00:00"
-  category:
-  - scrobble
-  - audio
-  - 5 live Science Podcast
-  - BBC Radio 5 live
-  listen-of:
-    h-cite:
-      url: http://podcasts.files.bbci.co.uk/p02pc9ny.rss
-      photo: ""
-      audio:
-      - http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p068v1bw.mp3
-      - http://archive.org/download/5_live_Science_Podcast-by-BBC_Radio_5_live/p068v1bw.mp3
-      name: Leaving Planet Earth
-      author: BBC Radio 5 live
-      content: "Izzie Clarke from the Naked Scientists looks into the science of leaving
-        planet Earth. \n\n\n\nShe also experiences some of the g-forces that astronauts
-        go through to get into orbit."
-  content:
-    text: ' \ud83c\udfa7 Listened to Leaving Planet Earth by @bbc5live From 5 live
-      Science Podcast'
 ...

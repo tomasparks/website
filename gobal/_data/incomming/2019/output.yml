@@ -3,6 +3,35 @@
   "06":
     21:
     - type: entry
+      published: "2019-06-21T13:33:02+00:00"
+      url: https://twitter.com/tomasparksts/status/1142062874443091968
+      category:
+      - https://twitter.com/autodesk
+      content:
+        text: "(\U0001F916) After the failed attempt with the Library model, I tried
+          @autodesk\u2019s fusion 360 slicer on the Planetarium base model. I have
+          had great success. :) #BuildLog #miniatures #mystisland #Planetarium #Sliceform
+          #Library (\U0001F916) (tomasparks.name/miniatures/bui\u2026)"
+        html: "(\U0001F916) After the failed attempt with the Library model, I tried
+          <a href=\"https://twitter.com/autodesk\">@autodesk</a>\u2019s fusion 360
+          slicer on the Planetarium base model. I have had great success. :) <a href=\"https://twitter.com/search?q=%23BuildLog\">#BuildLog</a>
+          <a href=\"https://twitter.com/search?q=%23miniatures\">#miniatures</a> <a
+          href=\"https://twitter.com/search?q=%23mystisland\">#mystisland</a> <a href=\"https://twitter.com/search?q=%23Planetarium\">#Planetarium</a>
+          <a href=\"https://twitter.com/search?q=%23Sliceform\">#Sliceform</a> <a
+          href=\"https://twitter.com/search?q=%23Library\">#Library</a> (\U0001F916)
+          (<a href=\"https://tomasparks.name/miniatures/build-log/myst-island/2019/06/21/planetarium.html\">tomasparks.name/miniatures/bui\u2026</a>)"
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/autodesk:
+          type: card
+          name: Autodesk
+          url: https://twitter.com/autodesk
+          photo: ~
+    - type: entry
       published: "2019-06-21T06:46:15+00:00"
       url: https://twitter.com/tomasparksts/status/1141960504149045248
       category:
@@ -215,31 +244,6 @@
       - https://twitter.com/Octav1usKitten/status/1139561052037947392
       content:
         text: the hair over your eye did annoy me, but it has become your signature
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-      refs:
-        https://twitter.com/Octav1usKitten:
-          type: card
-          name: "Queen Octav1us \U0001F3F3\uFE0F\u200D\U0001F308"
-          url: https://twitter.com/Octav1usKitten
-          photo: ~
-    13:
-    - type: entry
-      published: "2019-06-13T14:13:57+00:00"
-      url: https://twitter.com/tomasparksts/status/1139174067452334080
-      category:
-      - https://twitter.com/Octav1usKitten
-      photo:
-      - https://pbs.twimg.com/media/D88oxAoUcAAN1e5.jpg
-      in-reply-to:
-      - https://twitter.com/Octav1usKitten/status/1138875358776909824
-      content:
-        text: 'review idea: turtle robot #logo  modern hardware:  terrapinlogo.com'
-        html: 'review idea: turtle robot <a href="https://twitter.com/search?q=%23logo">#logo</a>  modern
-          hardware:  <a href="https://www.terrapinlogo.com/">terrapinlogo.com</a>'
       author:
         type: card
         name: Tom Sparks

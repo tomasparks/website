@@ -1,27 +1,5 @@
 ---
 - type: entry
-  published: "2018-06-21T20:21:34+00:00"
-  category:
-  - scrobble
-  - audio
-  - Dr Karl on triplej
-  - ABC Science
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20180621.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Animal_echolocation_salt_and_vinegar_sweats_peeing_when_you_get_home.mp3
-      name: Animal echolocation, salt and vinegar sweats, peeing when you get home.
-      author: ABC Science
-      content: How do animals that use echolocation travel in packs without it getting
-        confusing? What's salt and vinegar chip-induced eyelid sweat about? Why do
-        you need to go to the toilet when you get home, but not before?
-  content:
-    text: ' \ud83c\udfa7 Listened to Animal echolocation, salt and vinegar sweats,
-      peeing when you get home. by ABC Science From Dr Karl on triplej'
-- type: entry
   published: "2018-06-21T18:01:23+00:00"
   category:
   - scrobble
@@ -99,6 +77,28 @@
   content:
     text: ' \ud83c\udfa7 Listened to Episode 21: Inside the M&A Press with Bloomberg''s
       Alex Sherman by @gilbert & @djrosent From @AcquiredFM'
+- type: entry
+  published: "2018-06-21T20:21:34+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl on triplej
+  - ABC Science
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20180621.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Animal_echolocation_salt_and_vinegar_sweats_peeing_when_you_get_home.mp3
+      name: Animal echolocation, salt and vinegar sweats, peeing when you get home.
+      author: ABC Science
+      content: How do animals that use echolocation travel in packs without it getting
+        confusing? What's salt and vinegar chip-induced eyelid sweat about? Why do
+        you need to go to the toilet when you get home, but not before?
+  content:
+    text: ' \ud83c\udfa7 Listened to Animal echolocation, salt and vinegar sweats,
+      peeing when you get home. by ABC Science From Dr Karl on triplej'
 - type: entry
   published: "2018-06-21T20:41:50+00:00"
   category:

@@ -24,29 +24,6 @@
   content:
     text: ' \ud83c\udfa7 Listened to How MoviePass Makes Money by Techdirt From Techdirt'
 - type: entry
-  published: "2018-03-15T06:17:28+00:00"
-  category:
-  - scrobble
-  - audio
-  - Jason Scott Talks His Way Out of It
-  - Jason Scott
-  listen-of:
-    h-cite:
-      url: http://textfiles.libsyn.com/rss
-      photo: ""
-      audio:
-      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_22.mp3?dest-id=574323
-      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_BBS_Tapes_Episode.mp3
-      name: The BBS Tapes Episode
-      author: Jason Scott
-      content: "The BBS Tapes Episode: Release the Tapes, The Four Kinds of Remaining
-        Storage, Mini-DV Tapes: Our Flaky Little Friends, A Generous Tape Deck, Interviewing
-        Jack Rickard, Make Them Pay For Your Mistakes, Oh Jack, So Many Interviews,
-        Thom Henderson is Doing Fine, Goodbye Robert Fowkes, A Better Person, Get
-        Out There. Thanks, everyone, for your patience.\_"
-  content:
-    text: ' \ud83c\udfa7 Listened to The BBS Tapes Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
-- type: entry
   published: "2018-03-15T15:39:38+00:00"
   category:
   - scrobble
@@ -67,6 +44,30 @@
         on the iMac, the iPod and the iPhone and more!
   content:
     text: ' \ud83c\udfa7 Listened to 146. Mike Slade on Steve Jobs'' Return To Apple
+      by Brian McCullough @brianmcc From Internet History Podcast'
+- type: entry
+  published: "2018-03-15T07:19:15+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/8fJy1G63JNM/145._Brian_Merchant_Author_of_The_One_Device.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/145_Brian_Merchant_Author_of_The_One_Device.mp3
+      name: 145. Brian Merchant, Author of The One Device
+      author: Brian McCullough @brianmcc
+      content: "Finally! A detailed history of the development of the iPhone inside
+        Apple. But not only that, an extensive history of all the technologies that
+        came together to make the iPhone possible. Lithium ion battery technology,
+        touchscreen technology, Gorilla Glass, GPS, digital photography, maps\u2026
+        everything. This is the book I\u2019ve been waiting for for about ten years."
+  content:
+    text: ' \ud83c\udfa7 Listened to 145. Brian Merchant, Author of The One Device
       by Brian McCullough @brianmcc From Internet History Podcast'
 - type: entry
   published: "2018-03-15T16:09:04+00:00"
@@ -116,27 +117,26 @@
     text: ' \ud83c\udfa7 Listened to 148. Don Melton on Apple, Safari, WebKit and
       Netscape by Brian McCullough @brianmcc From Internet History Podcast'
 - type: entry
-  published: "2018-03-15T07:19:15+00:00"
+  published: "2018-03-15T06:17:28+00:00"
   category:
   - scrobble
   - audio
-  - Internet History Podcast
-  - Brian McCullough @brianmcc
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
   listen-of:
     h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      url: http://textfiles.libsyn.com/rss
       photo: ""
       audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/8fJy1G63JNM/145._Brian_Merchant_Author_of_The_One_Device.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/145_Brian_Merchant_Author_of_The_One_Device.mp3
-      name: 145. Brian Merchant, Author of The One Device
-      author: Brian McCullough @brianmcc
-      content: "Finally! A detailed history of the development of the iPhone inside
-        Apple. But not only that, an extensive history of all the technologies that
-        came together to make the iPhone possible. Lithium ion battery technology,
-        touchscreen technology, Gorilla Glass, GPS, digital photography, maps\u2026
-        everything. This is the book I\u2019ve been waiting for for about ten years."
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_22.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_BBS_Tapes_Episode.mp3
+      name: The BBS Tapes Episode
+      author: Jason Scott
+      content: "The BBS Tapes Episode: Release the Tapes, The Four Kinds of Remaining
+        Storage, Mini-DV Tapes: Our Flaky Little Friends, A Generous Tape Deck, Interviewing
+        Jack Rickard, Make Them Pay For Your Mistakes, Oh Jack, So Many Interviews,
+        Thom Henderson is Doing Fine, Goodbye Robert Fowkes, A Better Person, Get
+        Out There. Thanks, everyone, for your patience.\_"
   content:
-    text: ' \ud83c\udfa7 Listened to 145. Brian Merchant, Author of The One Device
-      by Brian McCullough @brianmcc From Internet History Podcast'
+    text: ' \ud83c\udfa7 Listened to The BBS Tapes Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
 ...

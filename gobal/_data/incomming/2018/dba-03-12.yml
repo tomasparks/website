@@ -1,56 +1,5 @@
 ---
 - type: entry
-  published: "2018-03-12T12:54:32+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/388085843-techdirt-facebook-wont-save-democracy.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/388085843-techdirt-facebook-wont-save-democracy.mp3
-      name: Facebook Won't Save Democracy
-      author: Techdirt
-      content: In the midst of the political chaos in America and the world at large,
-        a whole lot of attention has been turned to Facebook and its role in modern
-        democracy. The social network has responded by announcing another round of
-        news feed changes, the true impact of which (if any) remains far from clear.
-        This week, we're joined by Mathew Ingram from the Columbia Journalism Review
-        to talk about Facebook's changes, and whether we can or should expect them
-        to fix anything.
-  content:
-    text: ' \ud83c\udfa7 Listened to Facebook Won''t Save Democracy by Techdirt From
-      Techdirt'
-- type: entry
-  published: "2018-03-12T02:41:54+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/406104957-techdirt-disrupting-google.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/406104957-techdirt-disrupting-google.mp3
-      name: Disrupting Google
-      author: Techdirt
-      content: "When a tech company is huge and dominant, it can feel like competing
-        with them is impossible. Worse still, it can sometimes feel like innovating
-        is impossible, since they might just step in and take over as soon as someone
-        executes on a good idea. Once upon a time this was how startups felt about
-        Microsoft, while today it's more likely to be Google or Facebook. But no company,
-        no matter how mighty, is immune to being disrupted \u2014 and figuring out
-        how is the subject of this week's episode."
-  content:
-    text: ' \ud83c\udfa7 Listened to Disrupting Google by Techdirt From Techdirt'
-- type: entry
   published: "2018-03-12T13:48:53+00:00"
   category:
   - scrobble
@@ -72,33 +21,6 @@
         Rob Pegoraro \u2014 so without any further preamble, here's the CES 2018 Post-Mortem."
   content:
     text: ' \ud83c\udfa7 Listened to The CES 2018 Post-Mortem by Techdirt From Techdirt'
-- type: entry
-  published: "2018-03-12T11:07:36+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/395492907-techdirt-an-interview-with-rep-zoe-lofgren.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/395492907-techdirt-an-interview-with-rep-zoe-lofgren.mp3
-      name: An Interview With Rep Zoe Lofgren
-      author: Techdirt
-      content: 'When it comes to many of the legislative issues of interest to us
-        here at Techdirt, we''ve always been able to count on at least one voice of
-        reason amidst the congressional chaos: Representative Zoe Lofgren from California.
-        In addition to playing a critical role in the fight against SOPA, she continues
-        to be a voice of reason against bad copyright policy, expansive government
-        surveillance, and the broken CFAA, among many other things. This week, she
-        joins Mike on the podcast for a wide-ranging discussion about these topics
-        and more.'
-  content:
-    text: ' \ud83c\udfa7 Listened to An Interview With Rep Zoe Lofgren by Techdirt
-      From Techdirt'
 - type: entry
   published: "2018-03-12T14:44:33+00:00"
   category:
@@ -203,4 +125,82 @@
   content:
     text: ' \ud83c\udfa7 Listened to Truth, Trust, Transparency & Tribalism by Techdirt
       From Techdirt'
+- type: entry
+  published: "2018-03-12T11:07:36+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/395492907-techdirt-an-interview-with-rep-zoe-lofgren.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/395492907-techdirt-an-interview-with-rep-zoe-lofgren.mp3
+      name: An Interview With Rep Zoe Lofgren
+      author: Techdirt
+      content: 'When it comes to many of the legislative issues of interest to us
+        here at Techdirt, we''ve always been able to count on at least one voice of
+        reason amidst the congressional chaos: Representative Zoe Lofgren from California.
+        In addition to playing a critical role in the fight against SOPA, she continues
+        to be a voice of reason against bad copyright policy, expansive government
+        surveillance, and the broken CFAA, among many other things. This week, she
+        joins Mike on the podcast for a wide-ranging discussion about these topics
+        and more.'
+  content:
+    text: ' \ud83c\udfa7 Listened to An Interview With Rep Zoe Lofgren by Techdirt
+      From Techdirt'
+- type: entry
+  published: "2018-03-12T12:54:32+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/388085843-techdirt-facebook-wont-save-democracy.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/388085843-techdirt-facebook-wont-save-democracy.mp3
+      name: Facebook Won't Save Democracy
+      author: Techdirt
+      content: In the midst of the political chaos in America and the world at large,
+        a whole lot of attention has been turned to Facebook and its role in modern
+        democracy. The social network has responded by announcing another round of
+        news feed changes, the true impact of which (if any) remains far from clear.
+        This week, we're joined by Mathew Ingram from the Columbia Journalism Review
+        to talk about Facebook's changes, and whether we can or should expect them
+        to fix anything.
+  content:
+    text: ' \ud83c\udfa7 Listened to Facebook Won''t Save Democracy by Techdirt From
+      Techdirt'
+- type: entry
+  published: "2018-03-12T02:41:54+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/406104957-techdirt-disrupting-google.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/406104957-techdirt-disrupting-google.mp3
+      name: Disrupting Google
+      author: Techdirt
+      content: "When a tech company is huge and dominant, it can feel like competing
+        with them is impossible. Worse still, it can sometimes feel like innovating
+        is impossible, since they might just step in and take over as soon as someone
+        executes on a good idea. Once upon a time this was how startups felt about
+        Microsoft, while today it's more likely to be Google or Facebook. But no company,
+        no matter how mighty, is immune to being disrupted \u2014 and figuring out
+        how is the subject of this week's episode."
+  content:
+    text: ' \ud83c\udfa7 Listened to Disrupting Google by Techdirt From Techdirt'
 ...

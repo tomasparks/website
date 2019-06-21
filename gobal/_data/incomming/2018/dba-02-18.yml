@@ -22,28 +22,6 @@
     text: ' \ud83c\udfa7 Listened to 107. Founder of Marketwatch, Larry Kramer @lkramer
       by Brian McCullough @brianmcc From Internet History Podcast'
 - type: entry
-  published: "2018-02-18T12:19:21+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough @brianmcc
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/OHpbfCd7HIY/106._Co-Founder_of_Tesla_Marc_Tarpenning.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/106_CoFounder_of_Tesla_Marc_Tarpenning.mp3
-      name: 106. Co-Founder of Tesla, Marc Tarpenning
-      author: Brian McCullough @brianmcc
-      content: A history of the Internet Era from Netscape to the iPad. Oral histories
-        from the people that made the technology happen. "Chapter" episodes providing
-        background on the history of the companies.
-  content:
-    text: ' \ud83c\udfa7 Listened to 106. Co-Founder of Tesla, Marc Tarpenning by
-      Brian McCullough @brianmcc From Internet History Podcast'
-- type: entry
   published: "2018-02-18T10:16:41+00:00"
   category:
   - scrobble
@@ -65,4 +43,26 @@
   content:
     text: ' \ud83c\udfa7 Listened to 105. Tom Rielly, Founder of PlanetOut by Brian
       McCullough @brianmcc From Internet History Podcast'
+- type: entry
+  published: "2018-02-18T12:19:21+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/OHpbfCd7HIY/106._Co-Founder_of_Tesla_Marc_Tarpenning.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/106_CoFounder_of_Tesla_Marc_Tarpenning.mp3
+      name: 106. Co-Founder of Tesla, Marc Tarpenning
+      author: Brian McCullough @brianmcc
+      content: A history of the Internet Era from Netscape to the iPad. Oral histories
+        from the people that made the technology happen. "Chapter" episodes providing
+        background on the history of the companies.
+  content:
+    text: ' \ud83c\udfa7 Listened to 106. Co-Founder of Tesla, Marc Tarpenning by
+      Brian McCullough @brianmcc From Internet History Podcast'
 ...

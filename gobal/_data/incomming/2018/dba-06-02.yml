@@ -1,29 +1,5 @@
 ---
 - type: entry
-  published: "2018-06-02T03:15:06+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/274422051-techdirt-chatbots-fad-or-the-future.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/274422051-techdirt-chatbots-fad-or-the-future.mp3
-      name: 'Chatbots: Fad Or The Future?'
-      author: Techdirt
-      content: "Chatbots have been around for a very long time in some form or another,
-        but now they appear to be making a comeback \u2014 or at least attempting
-        one. This week, Mike and regular co-host Dennis (who is working on a chatbot
-        startup) are joined by special guest Veronica Belmont to discuss the potential
-        of chatbots and just how much skepticism is warranted."
-  content:
-    text: ' \ud83c\udfa7 Listened to Chatbots: Fad Or The Future? by Techdirt From
-      Techdirt'
-- type: entry
   published: "2018-06-02T00:45:18+00:00"
   category:
   - scrobble
@@ -69,6 +45,32 @@
         on the surprising results of the Brexit referendum."
   content:
     text: ' \ud83c\udfa7 Listened to Can Direct Democracy Work? by Techdirt From Techdirt'
+- type: entry
+  published: "2018-06-02T03:39:19+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/273351773-techdirt-senator-wyden-on-the-expansion-of-fbi-surveillance.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/273351773-techdirt-senator-wyden-on-the-expansion-of-fbi-surveillance.mp3
+      name: Senator Wyden On The Expansion Of FBI Surveillance
+      author: Techdirt
+      content: It should surprise nobody that the FBI is seeking even broader digital
+        surveillance powers by changing the warrant requirements and expanding the
+        power of national security letters. If you're a regular Techdirt reader, it
+        also won't surprise you to learn that Senator Ron Wyden is working hard to
+        hold the line against this kind of expansion. This week, we're joined by Senator
+        Wyden to discuss what the FBI is up to and what the public needs to know about
+        it.
+  content:
+    text: ' \ud83c\udfa7 Listened to Senator Wyden On The Expansion Of FBI Surveillance
+      by Techdirt From Techdirt'
 - type: entry
   published: "2018-06-02T09:43:00+00:00"
   category:
@@ -119,32 +121,6 @@
     text: " \\ud83c\\udfa7 Listened to Is It The 'Pok\xE9mon' Or The 'Go' That Matters?
       by Techdirt From Techdirt"
 - type: entry
-  published: "2018-06-02T03:39:19+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/273351773-techdirt-senator-wyden-on-the-expansion-of-fbi-surveillance.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/273351773-techdirt-senator-wyden-on-the-expansion-of-fbi-surveillance.mp3
-      name: Senator Wyden On The Expansion Of FBI Surveillance
-      author: Techdirt
-      content: It should surprise nobody that the FBI is seeking even broader digital
-        surveillance powers by changing the warrant requirements and expanding the
-        power of national security letters. If you're a regular Techdirt reader, it
-        also won't surprise you to learn that Senator Ron Wyden is working hard to
-        hold the line against this kind of expansion. This week, we're joined by Senator
-        Wyden to discuss what the FBI is up to and what the public needs to know about
-        it.
-  content:
-    text: ' \ud83c\udfa7 Listened to Senator Wyden On The Expansion Of FBI Surveillance
-      by Techdirt From Techdirt'
-- type: entry
   published: "2018-06-02T02:31:29+00:00"
   category:
   - scrobble
@@ -169,4 +145,28 @@
   content:
     text: ' \ud83c\udfa7 Listened to ''Disruption'' Is Not An Excuse For Lying by
       Techdirt From Techdirt'
+- type: entry
+  published: "2018-06-02T03:15:06+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/274422051-techdirt-chatbots-fad-or-the-future.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/274422051-techdirt-chatbots-fad-or-the-future.mp3
+      name: 'Chatbots: Fad Or The Future?'
+      author: Techdirt
+      content: "Chatbots have been around for a very long time in some form or another,
+        but now they appear to be making a comeback \u2014 or at least attempting
+        one. This week, Mike and regular co-host Dennis (who is working on a chatbot
+        startup) are joined by special guest Veronica Belmont to discuss the potential
+        of chatbots and just how much skepticism is warranted."
+  content:
+    text: ' \ud83c\udfa7 Listened to Chatbots: Fad Or The Future? by Techdirt From
+      Techdirt'
 ...
