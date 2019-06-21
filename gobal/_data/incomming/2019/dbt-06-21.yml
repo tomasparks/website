@@ -1,0 +1,37 @@
+---
+- type: entry
+  published: "2019-06-21T06:46:15+00:00"
+  url: https://twitter.com/tomasparksts/status/1141960504149045248
+  category:
+  - https://twitter.com/AndyMit50810190
+  - https://twitter.com/Octav1usKitten
+  - https://twitter.com/tvtropes
+  in-reply-to:
+  - https://twitter.com/AndyMit50810190/status/1141864021689339904
+  content:
+    text: "checkout @tvtropes  on #chainmailBikini @ tvtropes.org/pmwiki/pmwiki.\u2026"
+    html: "checkout <a href=\"https://twitter.com/tvtropes\">@tvtropes</a>  on <a
+      href=\"https://twitter.com/search?q=%23chainmailBikini\">#chainmailBikini</a>
+      @ <a href=\"https://tvtropes.org/pmwiki/pmwiki.php/Main/ChainmailBikini\">tvtropes.org/pmwiki/pmwiki.\u2026</a>"
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/AndyMit50810190:
+      type: card
+      name: Andy Mitchell
+      url: https://twitter.com/AndyMit50810190
+      photo: ~
+    https://twitter.com/Octav1usKitten:
+      type: card
+      name: "Queen Octav1us \U0001F3F3\uFE0F\u200D\U0001F308"
+      url: https://twitter.com/Octav1usKitten
+      photo: ~
+    https://twitter.com/tvtropes:
+      type: card
+      name: tvtropes
+      url: https://twitter.com/tvtropes
+      photo: ~
+...

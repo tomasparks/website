@@ -1,5 +1,6 @@
 ---
-- type: entry
+0:
+  type: entry
   published: "2019-06-13T14:13:57+00:00"
   url: https://twitter.com/tomasparksts/status/1139174067452334080
   category:
@@ -23,7 +24,8 @@
       name: "Queen Octav1us \U0001F3F3\uFE0F\u200D\U0001F308"
       url: https://twitter.com/Octav1usKitten
       photo: ~
-- type: entry
+2:
+  type: entry
   published: "2019-06-13T03:47:15+00:00"
   url: https://twitter.com/tomasparksts/status/1139016355514949632
   category:
