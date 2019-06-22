@@ -7,6 +7,28 @@
             "photo": "https://webmention.io/avatar/pbs.twimg.com/84a01d68484d1a83502b69db5b2aa85a2dfe38afcf79c86e6e588b7c8e775351.jpg",
             "url": "https://twitter.com/tomasparksts"
         },
+        "url": "https://twitter.com/tomasparksts/status/1142062874443091968",
+        "published": "2019-06-21T13:33:02+00:00",
+        "wm-received": "2019-06-22T08:53:22Z",
+        "wm-id": 630896,
+        "wm-source": "https://brid-gy.appspot.com/post/twitter/tomasparksts/1142062874443091968",
+        "wm-target": "https://tomasparks.name/miniatures/build-log/myst-island/2019/06/21/planetarium.html",
+        "content": {
+            "html": "(🤖) After the failed attempt with the Library model, I tried <a href=\"https://twitter.com/autodesk\">@autodesk</a>’s fusion 360 slicer on the Planetarium base model. I have had great success. :) <a href=\"https://twitter.com/search?q=%23BuildLog\">#BuildLog</a> <a href=\"https://twitter.com/search?q=%23miniatures\">#miniatures</a> <a href=\"https://twitter.com/search?q=%23mystisland\">#mystisland</a> <a href=\"https://twitter.com/search?q=%23Planetarium\">#Planetarium</a> <a href=\"https://twitter.com/search?q=%23Sliceform\">#Sliceform</a> <a href=\"https://twitter.com/search?q=%23Library\">#Library</a> (🤖) (<a href=\"https://tomasparks.name/miniatures/build-log/myst-island/2019/06/21/planetarium.html\">tomasparks.name/miniatures/bui…</a>)",
+            "text": "(🤖) After the failed attempt with the Library model, I tried @autodesk’s fusion 360 slicer on the Planetarium base model. I have had great success. :) #BuildLog #miniatures #mystisland #Planetarium #Sliceform #Library (🤖) (tomasparks.name/miniatures/bui…)"
+        },
+        "mention-of": "https://tomasparks.name/miniatures/build-log/myst-island/2019/06/21/planetarium.html",
+        "wm-property": "mention-of",
+        "wm-private": false
+    },
+    {
+        "type": "entry",
+        "author": {
+            "type": "card",
+            "name": "Tom Sparks",
+            "photo": "https://webmention.io/avatar/pbs.twimg.com/84a01d68484d1a83502b69db5b2aa85a2dfe38afcf79c86e6e588b7c8e775351.jpg",
+            "url": "https://twitter.com/tomasparksts"
+        },
         "url": "https://twitter.com/tomasparksts/status/1141449623942377479",
         "published": "2019-06-19T20:56:12+00:00",
         "wm-received": "2019-06-19T21:35:47Z",

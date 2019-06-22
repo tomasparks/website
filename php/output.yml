@@ -5888,6 +5888,27 @@
       content:
         text: " \\ud83c\\udfa7 Listened to Dragon\u2019s Delve Session 04 by @rpgmp3
           , @GM_Lockhart & @ygguild From #RPGMP3ActualPlayPodcast #YorktonGamerGuildActualPlayPodcast"
+    21:
+    - type: entry
+      published: "2019-06-21T17:02:28+00:00"
+      category:
+      - scrobble
+      - audio
+      - 'RPGMP3: Yorkton Gamer Guild Actual Play Podcast'
+      - Yorkton Gamer Guild
+      listen-of:
+        h-cite:
+          url: http://rpgmp3.com/v5/category/group/yorktongamerguild/feed/
+          photo: ""
+          audio:
+          - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Yorkton_Gamer_Guild/pathfinder_dragons_delve_part_12.mp3
+          - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/pathfinder_dragons_delve_part_12.mp3
+          name: "Dragon\u2019s Delve Session 12"
+          author: Yorkton Gamer Guild
+          content: 'Session 12 - Episode 12: In which nothing much happens'
+      content:
+        text: " \\ud83c\\udfa7 Listened to Dragon\u2019s Delve Session 12 by @rpgmp3
+          , @GM_Lockhart & @ygguild From #RPGMP3ActualPlayPodcast #YorktonGamerGuildActualPlayPodcast"
     "02":
     - type: entry
       published: "2019-06-02T21:04:07+00:00"
