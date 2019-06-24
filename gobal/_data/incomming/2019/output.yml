@@ -1,6 +1,103 @@
 ---
 2019:
   "06":
+    24:
+    - type: entry
+      published: "2019-06-24T04:12:01+00:00"
+      url: https://twitter.com/tomasparksts/status/1143008852956205056
+      category:
+      - https://twitter.com/david_malouin
+      - https://twitter.com/WilliamShatner
+      in-reply-to:
+      - https://twitter.com/david_malouin/status/1142984868328030213
+      content:
+        text: it was budget per episode ST:TOS ($190,635) ST:TNG ($1.3 million) and
+          Worf
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/david_malouin:
+          type: card
+          name: David Malouin
+          url: https://twitter.com/david_malouin
+          photo: ~
+        https://twitter.com/WilliamShatner:
+          type: card
+          name: William Shatner
+          url: https://twitter.com/WilliamShatner
+          photo: ~
+    23:
+    - type: entry
+      published: "2019-06-23T16:49:29+00:00"
+      url: https://twitter.com/tomasparksts/status/1142837089391656965
+      category:
+      - https://twitter.com/nostalnerd
+      in-reply-to:
+      - https://twitter.com/nostalnerd/status/1142780177820397569
+      content:
+        text: "I love how the sellers call it a console when it is clearly a computer
+          \U0001F621"
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/nostalnerd:
+          type: card
+          name: Nostalgia Nerd
+          url: https://twitter.com/nostalnerd
+          photo: ~
+    - type: entry
+      published: "2019-06-23T05:59:12+00:00"
+      url: https://twitter.com/tomasparksts/status/1142673438315646979
+      category:
+      - https://twitter.com/Da_Real_Mikey_K
+      - https://twitter.com/Octav1usKitten
+      in-reply-to:
+      - https://twitter.com/Da_Real_Mikey_K/status/1142668258144915456
+      content:
+        text: "smol\nAdjective: (Internet slang) Tiny and cute. \nen.wiktionary.org/wiki/smol"
+        html: "smol\nAdjective: (Internet slang) Tiny and cute. \n<a href=\"https://en.wiktionary.org/wiki/smol\">en.wiktionary.org/wiki/smol</a>"
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/Da_Real_Mikey_K:
+          type: card
+          name: '#LetsGoBucs Mike'
+          url: https://twitter.com/Da_Real_Mikey_K
+          photo: ~
+        https://twitter.com/Octav1usKitten:
+          type: card
+          name: "Queen Octav1us \U0001F3F3\uFE0F\u200D\U0001F308"
+          url: https://twitter.com/Octav1usKitten
+          photo: ~
+    22:
+    - type: entry
+      published: "2019-06-22T16:02:36+00:00"
+      url: https://twitter.com/tomasparksts/status/1142462902827270144
+      content:
+        text: |-
+          The #iWalk #treadmill has a #bultin #computer, but can it run #CanItRunCrysis?, #CanItRunDOOM? or #CanItRunwolf3D? no then its not a computer
+          #tvshop
+
+          tvshop.com.au/products/iwalk
+        html: |-
+          The <a href="https://twitter.com/search?q=%23iWalk">#iWalk</a> <a href="https://twitter.com/search?q=%23treadmill">#treadmill</a> has a <a href="https://twitter.com/search?q=%23bultin">#bultin</a> <a href="https://twitter.com/search?q=%23computer">#computer</a>, but can it run <a href="https://twitter.com/search?q=%23CanItRunCrysis">#CanItRunCrysis</a>?, <a href="https://twitter.com/search?q=%23CanItRunDOOM">#CanItRunDOOM</a>? or <a href="https://twitter.com/search?q=%23CanItRunwolf3D">#CanItRunwolf3D</a>? no then its not a computer
+          <a href="https://twitter.com/search?q=%23tvshop">#tvshop</a>
+
+          <a href="https://tvshop.com.au/products/iwalk">tvshop.com.au/products/iwalk</a>
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
     21:
     - type: entry
       published: "2019-06-21T13:33:02+00:00"
@@ -161,98 +258,5 @@
           type: card
           name: WWWTXT (1980-94)
           url: https://twitter.com/wwwtxt
-          photo: ~
-    17:
-    - type: entry
-      published: "2019-06-17T13:54:47+00:00"
-      url: https://twitter.com/tomasparksts/status/1140618795465072640
-      category:
-      - https://twitter.com/MATLAB
-      - https://twitter.com/arduino
-      in-reply-to:
-      - https://twitter.com/MATLAB/status/1140575016578424834
-      content:
-        text: '#plottertwitter'
-        html: <a href="https://twitter.com/search?q=%23plottertwitter">#plottertwitter</a>
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-      refs:
-        https://twitter.com/MATLAB:
-          type: card
-          name: MATLAB
-          url: https://twitter.com/MATLAB
-          photo: ~
-        https://twitter.com/arduino:
-          type: card
-          name: Arduino
-          url: https://twitter.com/arduino
-          photo: ~
-    15:
-    - type: entry
-      published: "2019-06-15T10:33:05+00:00"
-      url: https://twitter.com/tomasparksts/status/1139843263215521793
-      category:
-      - https://twitter.com/gamingmuso
-      photo:
-      - https://pbs.twimg.com/media/D9GJZmGVUAAjsh1.jpg
-      in-reply-to:
-      - https://twitter.com/gamingmuso/status/1139836709338660864
-      content:
-        text: bring to my lair......
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-      refs:
-        https://twitter.com/gamingmuso:
-          type: card
-          name: The Gaming Muso
-          url: https://twitter.com/gamingmuso
-          photo: ~
-    - type: entry
-      published: "2019-06-15T06:10:43+00:00"
-      url: https://twitter.com/tomasparksts/status/1139777235538214913
-      category:
-      - https://twitter.com/cyanworlds
-      in-reply-to:
-      - https://twitter.com/cyanworlds/status/1139617691239682049
-      content:
-        text: 'I got two issues:  legal permission from @cyanworlds (emailed Asset
-          Request Form) and a 3D model of the island'
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-      refs:
-        https://twitter.com/cyanworlds:
-          type: card
-          name: Cyan Inc.
-          url: https://twitter.com/cyanworlds
-          photo: ~
-    14:
-    - type: entry
-      published: "2019-06-14T23:48:12+00:00"
-      url: https://twitter.com/tomasparksts/status/1139680972566171649
-      category:
-      - https://twitter.com/Octav1usKitten
-      in-reply-to:
-      - https://twitter.com/Octav1usKitten/status/1139561052037947392
-      content:
-        text: the hair over your eye did annoy me, but it has become your signature
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-      refs:
-        https://twitter.com/Octav1usKitten:
-          type: card
-          name: "Queen Octav1us \U0001F3F3\uFE0F\u200D\U0001F308"
-          url: https://twitter.com/Octav1usKitten
           photo: ~
 ...

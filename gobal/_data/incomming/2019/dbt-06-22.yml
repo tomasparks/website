@@ -1,0 +1,21 @@
+---
+- type: entry
+  published: "2019-06-22T16:02:36+00:00"
+  url: https://twitter.com/tomasparksts/status/1142462902827270144
+  content:
+    text: |-
+      The #iWalk #treadmill has a #bultin #computer, but can it run #CanItRunCrysis?, #CanItRunDOOM? or #CanItRunwolf3D? no then its not a computer
+      #tvshop
+
+      tvshop.com.au/products/iwalk
+    html: |-
+      The <a href="https://twitter.com/search?q=%23iWalk">#iWalk</a> <a href="https://twitter.com/search?q=%23treadmill">#treadmill</a> has a <a href="https://twitter.com/search?q=%23bultin">#bultin</a> <a href="https://twitter.com/search?q=%23computer">#computer</a>, but can it run <a href="https://twitter.com/search?q=%23CanItRunCrysis">#CanItRunCrysis</a>?, <a href="https://twitter.com/search?q=%23CanItRunDOOM">#CanItRunDOOM</a>? or <a href="https://twitter.com/search?q=%23CanItRunwolf3D">#CanItRunwolf3D</a>? no then its not a computer
+      <a href="https://twitter.com/search?q=%23tvshop">#tvshop</a>
+
+      <a href="https://tvshop.com.au/products/iwalk">tvshop.com.au/products/iwalk</a>
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+...
