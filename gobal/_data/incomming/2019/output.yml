@@ -3,6 +3,28 @@
   "06":
     24:
     - type: entry
+      published: "2019-06-24T20:47:39+00:00"
+      url: https://twitter.com/tomasparksts/status/1143259414100451329
+      category:
+      - https://twitter.com/Octav1usKitten
+      in-reply-to:
+      - https://twitter.com/Octav1usKitten/status/1143254303001497602
+      content:
+        text: "\U0001F913 the cable your looking is a \" #IEC #c13  cable\""
+        html: "\U0001F913 the cable your looking is a \" <a href=\"https://twitter.com/search?q=%23IEC\">#IEC</a>
+          <a href=\"https://twitter.com/search?q=%23c13\">#c13</a>  cable\""
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/Octav1usKitten:
+          type: card
+          name: "Queen Octav1us \U0001F3F3\uFE0F\u200D\U0001F308"
+          url: https://twitter.com/Octav1usKitten
+          photo: ~
+    - type: entry
       published: "2019-06-24T04:12:01+00:00"
       url: https://twitter.com/tomasparksts/status/1143008852956205056
       category:
@@ -238,25 +260,5 @@
           type: card
           name: Cyan Inc.
           url: https://twitter.com/cyanworlds
-          photo: ~
-    18:
-    - type: entry
-      published: "2019-06-18T06:49:29+00:00"
-      url: https://twitter.com/tomasparksts/status/1140874155702702081
-      category:
-      - https://twitter.com/wwwtxt
-      content:
-        text: looking for my NOV 83 prophecy from @wwwtxt
-        html: looking for my NOV 83 prophecy from <a href="https://twitter.com/wwwtxt">@wwwtxt</a>
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-      refs:
-        https://twitter.com/wwwtxt:
-          type: card
-          name: WWWTXT (1980-94)
-          url: https://twitter.com/wwwtxt
           photo: ~
 ...

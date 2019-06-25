@@ -26,7 +26,7 @@ BucketName:
     "Emoji Wrap \u2014 The Emoji Podcast from Emojipedia": Emoji_Wrap_The_Emoji_Podcast
     Great Moments In Science - with Dr Karl Kruszelnicki: Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast
     Stephen Fry's Great Leap Years: Stephen_Frys_Great_Leap_Years-Podcast
-    Dr Karl on triplej: Dr_Karl_on_triplej-Podcast
+    Dr Karl on triplej: Dr_Karl_Podcast
     Techdirt: Techdirt-Podcast
     Not Another D&D Podcast: Not_Another_DD_Podcast
     Automators: Automators-Podcast
@@ -80,9 +80,9 @@ BucketName:
     Brian McCullough: Brian_McCullough
     Adam Ruins Everything: Adam_Ruins_Everything
     internethistorypodcast@gmail.com (Brian McCullough @brianmcc): Brian_McCullough
-    triplejA[: triplej
-    triple j: triple_j
-    https://wordpress.org/?v=5.1.1: httpswordpressorgv511
+    triplejA[: ABC_Science
+    triple j: ABC_Science
+    https://wordpress.org/?v=5.1.1: David_Shanske_and_Chris_Aldrich
     Yorkton Gamer Guild: Hal
     Linux Journal: Linux_Journal
 twitter:
@@ -160,7 +160,7 @@ twitter:
     Great Moments In Science - with Dr Karl Kruszelnicki: Great Moments In Science
       - with Dr Karl Kruszelnicki
     Stephen Fry's Great Leap Years: Stephen Fry's Great Leap Years
-    Dr Karl on triplej: Dr Karl on triplej
+    Dr Karl on triplej: Dr_Karl_Podcast
     Techdirt: Techdirt
     Not Another D&D Podcast: Not Another D&D Podcast
     Automators: Automators
@@ -172,7 +172,7 @@ twitter:
     DatCastA[: DatCastA[
     Adam Ruins Everything: Adam Ruins Everything
     Future Tense - ABC - RN: Future Tense - ABC - RN
-    Dr Karl Podcast: Dr Karl Podcast
+    Dr Karl Podcast: Dr_Karl_Podcast
     Future Tense - ABC RN: Future Tense - ABC RN
     "An Indieweb Podcast \u2013 Chris Aldrich": "An Indieweb Podcast \u2013 Chris
       Aldrich"

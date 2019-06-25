@@ -15,37 +15,6 @@
 		    
 	{
   "type": "entry",
-  "published": "2019-06-21T00:00:00+10:00",
-  "url": "https://tomasparks.name/miniatures/build-log/myst-island/2019/06/21/planetarium.html",
-  "author": {
-    "type": "card",
-    "name": "Tom Sparks",
-    "url": "https://tomasparks.name",
-    "photo": "https://tomasparks.name/about-me/photo.png",
-    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
-  },
-  "name": "Convert Planetarium model stl to sliceform papermodel",
-				"summary": {
-					"html": "<p>After the failed attempt with the Library model, I tried @autodesk’s fusion 360 <a href=\"https://apps.autodesk.com/FUSION/en/Detail/Index?id=8699194120463301363\">slicer</a> on the Planetarium base model.\nI have had great success. :)</p>\n",
-					"value": "After the failed attempt with the Library model, I tried @autodesk’s fusion 360 slicer on the Planetarium base model.\nI have had great success. :)\n"
-				},
-							"value": "After the failed attempt with the Library model, I tried @autodesk’s fusion 360 slicer on the Planetarium base model.\nI have had great success. :)\n",
-"category": ["myst-island"],
-"tags": ["Planetarium","Sliceform","Library"],
-
-
-
-
-
-
-
-
-
-
-"syndication": ["https://twitter.com/tomasparksts/status/1142062874443091968"]
-},
-	{
-  "type": "entry",
   "published": "2019-06-19T00:00:00+10:00",
   "url": "https://tomasparks.name/miniatures/build-log/myst-island/2019/06/19/library.html",
   "author": {
@@ -136,6 +105,37 @@
 
 
 "syndication": ["https://twitter.com/tomasparksts/status/1127175106265067520"]
+},
+	{
+  "type": "entry",
+  "published": "2019-05-01T00:00:00+10:00",
+  "url": "https://tomasparks.name/miniatures/build-log/work-area/2019/05/01/planetarium.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "https://tomasparks.name/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "Settting up my working area",
+				"summary": {
+					"html": "<p>I have two tables and a wire storage shelf arranged in a U-shape.</p>\n",
+					"value": "I have two tables and a wire storage shelf arranged in a U-shape.\n"
+				},
+							"value": "I have two tables and a wire storage shelf arranged in a U-shape.\n",
+"category": ["work-area"],
+"tags": [],
+
+
+
+
+
+
+
+
+
+
+"syndication": []
 },
 	{
   "type": "entry",
