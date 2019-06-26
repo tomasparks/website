@@ -1,6 +1,6 @@
 ---
 - type: entry
-  published: "2018-03-31T06:26:48+00:00"
+  published: "2018-03-31T01:05:03+00:00"
   category:
   - scrobble
   - audio
@@ -11,19 +11,17 @@
       url: https://www.techdirt.com/podcast.xml
       photo: ""
       audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/340038992-techdirt-pokemon-gone.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/340038992-techdirt-pokemon-gone.mp3
-      name: "Pok\xE9mon Gone?"
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/342065321-techdirt-customize-everything.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/342065321-techdirt-customize-everything.mp3
+      name: Customize Everything!
       author: Techdirt
-      content: "Just over a year ago, when Pok\xE9mon Go was taking the world by storm,
-        we dedicated an episode of the podcast to discussing what made it so successful,
-        and ended up with some differing predictions about what its future would be.
-        Now, with the hype long and truly over but the game still far from dead (though
-        just how far is up for debate), it's time to revisit the subject and figure
-        out who, if anyone, was right about the future of Pok\xE9mon Go.\r\n\r\nHear
-        the original episode: https://soundcloud.com/techdirt/is-it-the-pokemon-or-the-go-that-matters"
+      content: 'While the 20th century was defined by mass production, since the digital
+        revolution there has been talk about what might be the main trend of the 21st
+        century: mass customization. Today, we''re starting to see customizable mass-produced
+        offerings pop up in a number of spaces such as apparel, and this week we discuss
+        whether mass customization is finally approaching critical mass.'
   content:
-    text: " \\ud83c\\udfa7 Listened to Pok\xE9mon Gone? by Techdirt From Techdirt"
+    text: ' \ud83c\udfa7 Listened to Customize Everything! by Techdirt From Techdirt'
 - type: entry
   published: "2018-03-31T00:18:41+00:00"
   category:
@@ -51,7 +49,7 @@
     text: ' \ud83c\udfa7 Listened to When Godwin''s Law Met The Streisand Effect by
       Techdirt From Techdirt'
 - type: entry
-  published: "2018-03-31T01:05:03+00:00"
+  published: "2018-03-31T06:26:48+00:00"
   category:
   - scrobble
   - audio
@@ -62,15 +60,17 @@
       url: https://www.techdirt.com/podcast.xml
       photo: ""
       audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/342065321-techdirt-customize-everything.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/342065321-techdirt-customize-everything.mp3
-      name: Customize Everything!
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/340038992-techdirt-pokemon-gone.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/340038992-techdirt-pokemon-gone.mp3
+      name: "Pok\xE9mon Gone?"
       author: Techdirt
-      content: 'While the 20th century was defined by mass production, since the digital
-        revolution there has been talk about what might be the main trend of the 21st
-        century: mass customization. Today, we''re starting to see customizable mass-produced
-        offerings pop up in a number of spaces such as apparel, and this week we discuss
-        whether mass customization is finally approaching critical mass.'
+      content: "Just over a year ago, when Pok\xE9mon Go was taking the world by storm,
+        we dedicated an episode of the podcast to discussing what made it so successful,
+        and ended up with some differing predictions about what its future would be.
+        Now, with the hype long and truly over but the game still far from dead (though
+        just how far is up for debate), it's time to revisit the subject and figure
+        out who, if anyone, was right about the future of Pok\xE9mon Go.\r\n\r\nHear
+        the original episode: https://soundcloud.com/techdirt/is-it-the-pokemon-or-the-go-that-matters"
   content:
-    text: ' \ud83c\udfa7 Listened to Customize Everything! by Techdirt From Techdirt'
+    text: " \\ud83c\\udfa7 Listened to Pok\xE9mon Gone? by Techdirt From Techdirt"
 ...

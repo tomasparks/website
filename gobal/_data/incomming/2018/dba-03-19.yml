@@ -1,33 +1,5 @@
 ---
 - type: entry
-  published: "2018-03-19T12:01:08+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough @brianmcc
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/w_uP83uqWnU/165._Claire_L._Evans_Author_of_Broad_Band-_The_Untold_Story_of_the_Women_Who_Made_the_Internet.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/165_Claire_L_Evans_Author_of_Broad_Band_The_Untold_Story_of_the_Women_Who_Made_the_Internet.mp3
-      name: 165. Claire L. Evans, Author of Broad Band- The Untold Story of the Women
-        Who Made the Internet
-      author: Brian McCullough @brianmcc
-      content: "Claire Evans is the author of the new book: Broad Band The Untold
-        Story of the Women Who Made the Internet. This is the best tech history book
-        I\u2019ve read in a while and you know I read them all. Of special note, considering
-        our 90s-heavy focus on this podcast, the book includes the stories of Word.com,
-        which was a competitor to Feed.com (which we\u2019ve previously covered) and
-        Women.com which was a competitor to Ivillage (which, again, we\u2019ve spoke
-        at length about). "
-  content:
-    text: ' \ud83c\udfa7 Listened to 165. Claire L. Evans, Author of Broad Band- The
-      Untold Story of the Women Who Made the Internet by Brian McCullough @brianmcc
-      From Internet History Podcast'
-- type: entry
   published: "2018-03-19T10:54:05+00:00"
   category:
   - scrobble
@@ -74,4 +46,32 @@
   content:
     text: ' \ud83c\udfa7 Listened to 166. Amazon, Hulu and Oculus with Eugene Wei
       by Brian McCullough @brianmcc From Internet History Podcast'
+- type: entry
+  published: "2018-03-19T12:01:08+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/w_uP83uqWnU/165._Claire_L._Evans_Author_of_Broad_Band-_The_Untold_Story_of_the_Women_Who_Made_the_Internet.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/165_Claire_L_Evans_Author_of_Broad_Band_The_Untold_Story_of_the_Women_Who_Made_the_Internet.mp3
+      name: 165. Claire L. Evans, Author of Broad Band- The Untold Story of the Women
+        Who Made the Internet
+      author: Brian McCullough @brianmcc
+      content: "Claire Evans is the author of the new book: Broad Band The Untold
+        Story of the Women Who Made the Internet. This is the best tech history book
+        I\u2019ve read in a while and you know I read them all. Of special note, considering
+        our 90s-heavy focus on this podcast, the book includes the stories of Word.com,
+        which was a competitor to Feed.com (which we\u2019ve previously covered) and
+        Women.com which was a competitor to Ivillage (which, again, we\u2019ve spoke
+        at length about). "
+  content:
+    text: ' \ud83c\udfa7 Listened to 165. Claire L. Evans, Author of Broad Band- The
+      Untold Story of the Women Who Made the Internet by Brian McCullough @brianmcc
+      From Internet History Podcast'
 ...

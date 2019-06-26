@@ -1,5 +1,6 @@
 ---
-- type: entry
+0:
+  type: entry
   published: "2019-05-19T15:45:02+00:00"
   category:
   - scrobble
@@ -21,7 +22,8 @@
   content:
     text: ' \ud83c\udfa7 Listened to Robots in the classroom and news on Wikipedia
       by ABC Radio National From Future Tense - ABC RN'
-- type: entry
+1:
+  type: entry
   published: "2019-05-19T13:45:06+00:00"
   category:
   - scrobble
@@ -34,7 +36,7 @@
       photo: ""
       audio:
       - http://mpegmedia.abc.net.au/radio/triplej/audio/scienceontriplej20190516.mp3
-      - http://archive.org/download/Dr_Karl_Podcast-by-triple_j/Beard_hairballs_purring_pussies_and_green_boogers.mp3
+      - http://archive.org/download/Dr_Karl_Podcast-by-ABC_Science/Beard_hairballs_purring_pussies_and_green_boogers.mp3
       name: Beard hairballs, purring pussies and green boogers
       author: triple j
       content: "Do bees know they'll die if they sting someone? Why do I feel hungry
@@ -42,8 +44,9 @@
         \               "
   content:
     text: ' \ud83c\udfa7 Listened to Beard hairballs, purring pussies and green boogers
-      by triple j From Dr Karl Podcast'
-- type: entry
+      by triple j From Dr_Karl_Podcast'
+2:
+  type: entry
   published: "2019-05-19T13:06:54+00:00"
   category:
   - scrobble
@@ -63,7 +66,8 @@
         and treachery."
   content:
     text: ' \ud83c\udfa7 Listened to Kingmaker Session 65 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
-- type: entry
+3:
+  type: entry
   published: "2019-05-19T15:15:52+00:00"
   category:
   - scrobble
@@ -92,4 +96,27 @@
   content:
     text: ' \ud83c\udfa7 Listened to 196. Google, Twitter and More With Karen Wickre
       by Brian McCullough From Internet History Podcast'
+8:
+  type: entry
+  published: "2019-05-19T13:45:06+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl Podcast
+  - triple j
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/radio/triplej/audio/scienceontriplej20190516.mp3
+      - http://archive.org/download/Dr_Karl_Podcast-by-triple_j/Beard_hairballs_purring_pussies_and_green_boogers.mp3
+      name: Beard hairballs, purring pussies and green boogers
+      author: triple j
+      content: "Do bees know they'll die if they sting someone? Why do I feel hungry
+        after eating fruit? What material makes the best reusable coffee cup?\n                    \n
+        \               "
+  content:
+    text: ' \ud83c\udfa7 Listened to Beard hairballs, purring pussies and green boogers
+      by triple j From Dr Karl Podcast'
 ...

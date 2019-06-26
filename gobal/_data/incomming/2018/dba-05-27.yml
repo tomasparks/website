@@ -1,81 +1,5 @@
 ---
 - type: entry
-  published: "2018-05-27T09:49:14+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/318340432-techdirt-the-evolution-of-the-office.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/318340432-techdirt-the-evolution-of-the-office.mp3
-      name: The Evolution Of The Office
-      author: Techdirt
-      content: "We've talked before about how the very nature of work is changing
-        thanks to technology, with telecommuting being an obvious trend \u2014 but
-        despite some early predictions about the death of the physical office, the
-        reality is offices have been evolving and changing thanks to technology and
-        innovation too. This week, we discuss co-working spaces and other trends in
-        the evolution of offices."
-  content:
-    text: ' \ud83c\udfa7 Listened to The Evolution Of The Office by Techdirt From
-      Techdirt'
-- type: entry
-  published: "2018-05-27T21:20:14+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/314925967-techdirt-the-end-of-ownership.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/314925967-techdirt-the-end-of-ownership.mp3
-      name: The End Of Ownership
-      author: Techdirt
-      content: 'The basic impetus behind DRM is obvious: a frantic, misguided desire
-        to make digital products behave like physical ones. But the truth is DRM goes
-        far, far beyond that, restricting all sorts of activities that are intrinsic
-        to the idea of "owning" something. Two people who have thought a lot about
-        this are law professors Aaron Perzanowski and Jason Schultz, authors of the
-        new book The End Of Ownership. This week, Aaron and Jason join the podcast
-        to discuss the book and the worrying status of DRM today.'
-  content:
-    text: ' \ud83c\udfa7 Listened to The End Of Ownership by Techdirt From Techdirt'
-- type: entry
-  published: "2018-05-27T13:27:02+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/317237497-techdirt-why-this-isp-supports-net-neutrality-privacy-rules-and-more.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/317237497-techdirt-why-this-isp-supports-net-neutrality-privacy-rules-and-more.mp3
-      name: Why This ISP Supports Net Neutrality, Privacy Rules And More
-      author: Techdirt
-      content: Since Congress threw out new privacy rules for ISPs that were supposed
-        to come into effect soon, there's been a renewed uproar on all sides of the
-        debate about internet regulation. While the big ISPs generally want to be
-        able to do as they please, there are smaller service providers out there that
-        fully understand and embrace the need for privacy, net neutrality and more.
-        One such ISP is Sonic, and this week we're joined by CEO Dane Jasper to discuss
-        why these rules are a good thing.
-  content:
-    text: ' \ud83c\udfa7 Listened to Why This ISP Supports Net Neutrality, Privacy
-      Rules And More by Techdirt From Techdirt'
-- type: entry
   published: "2018-05-27T20:34:10+00:00"
   category:
   - scrobble
@@ -105,6 +29,56 @@
   content:
     text: ' \ud83c\udfa7 Listened to The Truth About VPNs by Techdirt From Techdirt'
 - type: entry
+  published: "2018-05-27T21:20:14+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/314925967-techdirt-the-end-of-ownership.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/314925967-techdirt-the-end-of-ownership.mp3
+      name: The End Of Ownership
+      author: Techdirt
+      content: 'The basic impetus behind DRM is obvious: a frantic, misguided desire
+        to make digital products behave like physical ones. But the truth is DRM goes
+        far, far beyond that, restricting all sorts of activities that are intrinsic
+        to the idea of "owning" something. Two people who have thought a lot about
+        this are law professors Aaron Perzanowski and Jason Schultz, authors of the
+        new book The End Of Ownership. This week, Aaron and Jason join the podcast
+        to discuss the book and the worrying status of DRM today.'
+  content:
+    text: ' \ud83c\udfa7 Listened to The End Of Ownership by Techdirt From Techdirt'
+- type: entry
+  published: "2018-05-27T09:49:14+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/318340432-techdirt-the-evolution-of-the-office.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/318340432-techdirt-the-evolution-of-the-office.mp3
+      name: The Evolution Of The Office
+      author: Techdirt
+      content: "We've talked before about how the very nature of work is changing
+        thanks to technology, with telecommuting being an obvious trend \u2014 but
+        despite some early predictions about the death of the physical office, the
+        reality is offices have been evolving and changing thanks to technology and
+        innovation too. This week, we discuss co-working spaces and other trends in
+        the evolution of offices."
+  content:
+    text: ' \ud83c\udfa7 Listened to The Evolution Of The Office by Techdirt From
+      Techdirt'
+- type: entry
   published: "2018-05-27T06:50:34+00:00"
   category:
   - scrobble
@@ -131,6 +105,32 @@
   content:
     text: ' \ud83c\udfa7 Listened to Does Pharma Really Need Patents? by Techdirt
       From Techdirt'
+- type: entry
+  published: "2018-05-27T13:27:02+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/317237497-techdirt-why-this-isp-supports-net-neutrality-privacy-rules-and-more.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/317237497-techdirt-why-this-isp-supports-net-neutrality-privacy-rules-and-more.mp3
+      name: Why This ISP Supports Net Neutrality, Privacy Rules And More
+      author: Techdirt
+      content: Since Congress threw out new privacy rules for ISPs that were supposed
+        to come into effect soon, there's been a renewed uproar on all sides of the
+        debate about internet regulation. While the big ISPs generally want to be
+        able to do as they please, there are smaller service providers out there that
+        fully understand and embrace the need for privacy, net neutrality and more.
+        One such ISP is Sonic, and this week we're joined by CEO Dane Jasper to discuss
+        why these rules are a good thing.
+  content:
+    text: ' \ud83c\udfa7 Listened to Why This ISP Supports Net Neutrality, Privacy
+      Rules And More by Techdirt From Techdirt'
 - type: entry
   published: "2018-05-27T19:52:12+00:00"
   category:

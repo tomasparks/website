@@ -24,7 +24,7 @@
   content:
     text: ' \ud83c\udfa7 Listened to How MoviePass Makes Money by Techdirt From Techdirt'
 - type: entry
-  published: "2018-03-15T15:39:38+00:00"
+  published: "2018-03-15T16:09:04+00:00"
   category:
   - scrobble
   - audio
@@ -35,15 +35,16 @@
       url: http://feeds.feedburner.com/InternetHistoryPodcast
       photo: ""
       audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/hLrlQiHhL54/146._Mike_Slade_on_Steve_Jobs_Return_To_Apple.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/146_Mike_Slade_on_Steve_Jobs_Return_To_Apple.mp3
-      name: 146. Mike Slade on Steve Jobs' Return To Apple
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/QJWP-VHI-4I/147._The_First_Text_Message_With_Neil_Papworth.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/147_The_First_Text_Message_With_Neil_Papworth.mp3
+      name: 147. The First Text Message With Neil Papworth
       author: Brian McCullough @brianmcc
-      content: As promised, Mike Slade is back to tell stories from the period 1998
-        through 2004, when he was Special Assistant to Steve Jobs. Background details
-        on the iMac, the iPod and the iPhone and more!
+      content: "The first text message (or, to be accurate, SMS message) was sent
+        on December 3, 1992. It was sent by Neil Papworth, and it said, \u201CMerry
+        Christmas.\u201D This is the story of that first text, recorded for the first
+        time."
   content:
-    text: ' \ud83c\udfa7 Listened to 146. Mike Slade on Steve Jobs'' Return To Apple
+    text: ' \ud83c\udfa7 Listened to 147. The First Text Message With Neil Papworth
       by Brian McCullough @brianmcc From Internet History Podcast'
 - type: entry
   published: "2018-03-15T07:19:15+00:00"
@@ -70,7 +71,7 @@
     text: ' \ud83c\udfa7 Listened to 145. Brian Merchant, Author of The One Device
       by Brian McCullough @brianmcc From Internet History Podcast'
 - type: entry
-  published: "2018-03-15T16:09:04+00:00"
+  published: "2018-03-15T15:39:38+00:00"
   category:
   - scrobble
   - audio
@@ -81,16 +82,15 @@
       url: http://feeds.feedburner.com/InternetHistoryPodcast
       photo: ""
       audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/QJWP-VHI-4I/147._The_First_Text_Message_With_Neil_Papworth.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/147_The_First_Text_Message_With_Neil_Papworth.mp3
-      name: 147. The First Text Message With Neil Papworth
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/hLrlQiHhL54/146._Mike_Slade_on_Steve_Jobs_Return_To_Apple.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/146_Mike_Slade_on_Steve_Jobs_Return_To_Apple.mp3
+      name: 146. Mike Slade on Steve Jobs' Return To Apple
       author: Brian McCullough @brianmcc
-      content: "The first text message (or, to be accurate, SMS message) was sent
-        on December 3, 1992. It was sent by Neil Papworth, and it said, \u201CMerry
-        Christmas.\u201D This is the story of that first text, recorded for the first
-        time."
+      content: As promised, Mike Slade is back to tell stories from the period 1998
+        through 2004, when he was Special Assistant to Steve Jobs. Background details
+        on the iMac, the iPod and the iPhone and more!
   content:
-    text: ' \ud83c\udfa7 Listened to 147. The First Text Message With Neil Papworth
+    text: ' \ud83c\udfa7 Listened to 146. Mike Slade on Steve Jobs'' Return To Apple
       by Brian McCullough @brianmcc From Internet History Podcast'
 - type: entry
   published: "2018-03-15T18:16:06+00:00"

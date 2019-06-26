@@ -24,6 +24,32 @@
     text: ' \ud83c\udfa7 Listened to Lost and Forgotten Session 02 by @rpgmp3 From
       #RPGMP3ActualPlayPodcast'
 - type: entry
+  published: "2018-07-17T01:50:33+00:00"
+  category:
+  - scrobble
+  - audio
+  - indieweb on Huffduffer
+  - []
+  listen-of:
+    h-cite:
+      url: https://huffduffer.com/tags/indieweb/rss
+      photo: ""
+      audio:
+      - http://30andcounting.me/uploads/2018/d04ac83adf.mp3
+      - http://archive.org/download/indieweb_on_Huffduffer-by-Array/d04ac83adf.mp3
+      name: '30 and Counting, Episode 11: Re-thinking my Homepage'
+      author: []
+      content: "In this episode, I talk about some nice minimalistic homepages I\u2019ve
+        seen recently as well as some other inspiration pages I\u2019ve looked at.
+        Thinking through some pros and cons of my website and how it could look.\r\n\r\nYou
+        can get the full show notes at https://eddiehinkle.com/2018/07/12/39/podcast/\r\n\r\nYou
+        can find all past and future episodes at http://30andcounting.me.\r\n\r\nYou
+        can find all my content at my digital home, https://eddiehinkle.com.\r\n\r\nThe
+        theme music is Day 90 of Aaron Parecki\u2019s 100 Days of Music project."
+  content:
+    text: ' \ud83c\udfa7 Listened to 30 and Counting, Episode 11: Re-thinking my Homepage
+      by Array From indieweb on Huffduffer'
+- type: entry
   published: "2018-07-17T00:33:15+00:00"
   category:
   - scrobble
@@ -57,30 +83,4 @@
   content:
     text: " \\ud83c\\udfa7 Listened to Core Intuition \xBB Episode 336: Bringing Webrings
       Back by Array From indieweb on Huffduffer"
-- type: entry
-  published: "2018-07-17T01:50:33+00:00"
-  category:
-  - scrobble
-  - audio
-  - indieweb on Huffduffer
-  - []
-  listen-of:
-    h-cite:
-      url: https://huffduffer.com/tags/indieweb/rss
-      photo: ""
-      audio:
-      - http://30andcounting.me/uploads/2018/d04ac83adf.mp3
-      - http://archive.org/download/indieweb_on_Huffduffer-by-Array/d04ac83adf.mp3
-      name: '30 and Counting, Episode 11: Re-thinking my Homepage'
-      author: []
-      content: "In this episode, I talk about some nice minimalistic homepages I\u2019ve
-        seen recently as well as some other inspiration pages I\u2019ve looked at.
-        Thinking through some pros and cons of my website and how it could look.\r\n\r\nYou
-        can get the full show notes at https://eddiehinkle.com/2018/07/12/39/podcast/\r\n\r\nYou
-        can find all past and future episodes at http://30andcounting.me.\r\n\r\nYou
-        can find all my content at my digital home, https://eddiehinkle.com.\r\n\r\nThe
-        theme music is Day 90 of Aaron Parecki\u2019s 100 Days of Music project."
-  content:
-    text: ' \ud83c\udfa7 Listened to 30 and Counting, Episode 11: Re-thinking my Homepage
-      by Array From indieweb on Huffduffer'
 ...

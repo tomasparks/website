@@ -1,6 +1,6 @@
 ---
 - type: entry
-  published: "2019-03-19T10:11:03+00:00"
+  published: "2019-03-19T11:08:01+00:00"
   category:
   - scrobble
   - audio
@@ -11,22 +11,24 @@
       url: https://feeds.mozilla-podcasts.org/irl
       photo: ""
       audio:
-      - https://tracking.feedpress.it/link/17512/10016570/588ea281.mp3
-      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/588ea281.mp3
-      name: Virtual Connections
+      - https://tracking.feedpress.it/link/17512/10157903/4758d08e.mp3
+      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/4758d08e.mp3
+      name: Bullying and Bonding Online
       author: Mozilla
-      content: ":'-) Ever wonder why emoticons exist? They popped up in the 1980s
-        to make online connections feel a little less digital and a little more personal
-        :D. In this episode of IRL, host Veronica Belmont and special guest Peter
-        Rojas explore how the Internet is both building and also confusing our relationships
-        every day. Chloe Stuart-Ulin gives a first-hand account of her life as a \u201Ccloser\u201D
-        for an online-dating service; we hear a dramatic, real-life story about a
-        woman who finds her biological parent online; and Emma Brockes talks about
-        how we can all maintain humanity while interacting with others on the internet.\n\nIRL
-        is an original podcast from Mozilla. For more on the series go to irlpodcast.org\n"
+      content: "It\u2019s a problem when tribalism divides us, online or in real life.
+        Join Veronica Belmont and Franchesca Ramsey as they meet the people working
+        to make the web \u2014 and world \u2014 friendlier places. Jhamel Robinson
+        discusses how he used social media to organize a massive BBQ in Oakland after
+        a racial altercation went viral; Dr. Meredith Clark sheds light on the need
+        for social media platforms to hire members of vulnerable communities; Jon
+        Ronson talks about snap judgements; Professor Kip Williams speaks to the effects
+        of ostracism online and off; and recent high school graduate Natalie Hampton
+        shares her story of surviving extreme bullying and what she's doing now to
+        help others.\n\nIRL is an original podcast from Mozilla. For more on the series
+        go to irlpodcast.org\n"
   content:
-    text: ' \ud83c\udfa7 Listened to Virtual Connections by Mozilla From IRL - Online
-      Life Is Real Life'
+    text: ' \ud83c\udfa7 Listened to Bullying and Bonding Online by Mozilla From IRL
+      - Online Life Is Real Life'
 - type: entry
   published: "2019-03-19T20:48:16+00:00"
   category:
@@ -57,7 +59,7 @@
     text: ' \ud83c\udfa7 Listened to Kids These Days by Mozilla From IRL - Online
       Life Is Real Life'
 - type: entry
-  published: "2019-03-19T11:08:01+00:00"
+  published: "2019-03-19T10:11:03+00:00"
   category:
   - scrobble
   - audio
@@ -68,22 +70,20 @@
       url: https://feeds.mozilla-podcasts.org/irl
       photo: ""
       audio:
-      - https://tracking.feedpress.it/link/17512/10157903/4758d08e.mp3
-      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/4758d08e.mp3
-      name: Bullying and Bonding Online
+      - https://tracking.feedpress.it/link/17512/10016570/588ea281.mp3
+      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/588ea281.mp3
+      name: Virtual Connections
       author: Mozilla
-      content: "It\u2019s a problem when tribalism divides us, online or in real life.
-        Join Veronica Belmont and Franchesca Ramsey as they meet the people working
-        to make the web \u2014 and world \u2014 friendlier places. Jhamel Robinson
-        discusses how he used social media to organize a massive BBQ in Oakland after
-        a racial altercation went viral; Dr. Meredith Clark sheds light on the need
-        for social media platforms to hire members of vulnerable communities; Jon
-        Ronson talks about snap judgements; Professor Kip Williams speaks to the effects
-        of ostracism online and off; and recent high school graduate Natalie Hampton
-        shares her story of surviving extreme bullying and what she's doing now to
-        help others.\n\nIRL is an original podcast from Mozilla. For more on the series
-        go to irlpodcast.org\n"
+      content: ":'-) Ever wonder why emoticons exist? They popped up in the 1980s
+        to make online connections feel a little less digital and a little more personal
+        :D. In this episode of IRL, host Veronica Belmont and special guest Peter
+        Rojas explore how the Internet is both building and also confusing our relationships
+        every day. Chloe Stuart-Ulin gives a first-hand account of her life as a \u201Ccloser\u201D
+        for an online-dating service; we hear a dramatic, real-life story about a
+        woman who finds her biological parent online; and Emma Brockes talks about
+        how we can all maintain humanity while interacting with others on the internet.\n\nIRL
+        is an original podcast from Mozilla. For more on the series go to irlpodcast.org\n"
   content:
-    text: ' \ud83c\udfa7 Listened to Bullying and Bonding Online by Mozilla From IRL
-      - Online Life Is Real Life'
+    text: ' \ud83c\udfa7 Listened to Virtual Connections by Mozilla From IRL - Online
+      Life Is Real Life'
 ...

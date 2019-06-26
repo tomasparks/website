@@ -1,31 +1,5 @@
 ---
 - type: entry
-  published: "2018-12-23T19:31:54+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough @brianmcc
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/7fVpMEN4TbY/185._Ripples_David_Schwartz.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/185_Ripples_David_Schwartz.mp3
-      name: 185. Ripple's David Schwartz
-      author: Brian McCullough @brianmcc
-      content: "David Schwartz is the Chief Technology Officer at Ripple, the company
-        behind the cryptocurrency XRP. What is it like to start, build and build out
-        a crypto startup? Is it different than the web and internet startups that
-        we\u2019ve covered on this show for years? What is Ripple? How is it unique
-        in the crypto ecosystem? What is it trying to do for the world? All of this\u2026
-        and yes, why is crypto so tribal\u2026 and yes\u2026 where is the crypto space
-        even at in this moment in time (December 9th, 2018, btw, for poste"
-  content:
-    text: ' \ud83c\udfa7 Listened to 185. Ripple''s David Schwartz by Brian McCullough
-      @brianmcc From Internet History Podcast'
-- type: entry
   published: "2018-12-23T18:50:24+00:00"
   category:
   - scrobble
@@ -52,30 +26,31 @@
     text: ' \ud83c\udfa7 Listened to 184. GV''s Ken Norton by Brian McCullough @brianmcc
       From Internet History Podcast'
 - type: entry
-  published: "2018-12-23T21:02:29+00:00"
+  published: "2018-12-23T19:31:54+00:00"
   category:
   - scrobble
   - audio
-  - Jason Scott Talks His Way Out of It
-  - Jason Scott
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
   listen-of:
     h-cite:
-      url: http://textfiles.libsyn.com/rss
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
       photo: ""
       audio:
-      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_47.mp3?dest-id=574323
-      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Technical_Interview_Episode.mp3
-      name: The Technical Interview Episode
-      author: Jason Scott
-      content: "The Technical Interview Episode: Answering your requests, the nature
-        of an interview, the ultimate meaning of your interviews, quality check, pre-interview,
-        the 10 questions, like two musicians, post-interview, the final destination,
-        Apple II crack screens forever.\r\nFolks asked me to talk a little more about
-        the lessons I've learned doing about 400 interviews over the years. Here it
-        is in a brain dump the density of a salt lick.\r\n\r\nAny other questions?"
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/7fVpMEN4TbY/185._Ripples_David_Schwartz.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/185_Ripples_David_Schwartz.mp3
+      name: 185. Ripple's David Schwartz
+      author: Brian McCullough @brianmcc
+      content: "David Schwartz is the Chief Technology Officer at Ripple, the company
+        behind the cryptocurrency XRP. What is it like to start, build and build out
+        a crypto startup? Is it different than the web and internet startups that
+        we\u2019ve covered on this show for years? What is Ripple? How is it unique
+        in the crypto ecosystem? What is it trying to do for the world? All of this\u2026
+        and yes, why is crypto so tribal\u2026 and yes\u2026 where is the crypto space
+        even at in this moment in time (December 9th, 2018, btw, for poste"
   content:
-    text: ' \ud83c\udfa7 Listened to The Technical Interview Episode by @textfiles
-      From #JasonScottTalksHisWayOutofIt'
+    text: ' \ud83c\udfa7 Listened to 185. Ripple''s David Schwartz by Brian McCullough
+      @brianmcc From Internet History Podcast'
 - type: entry
   published: "2018-12-23T20:39:43+00:00"
   category:
@@ -120,4 +95,29 @@
         Downfall, The Crazy Leap. Also: The Two-Story Internet.'
   content:
     text: ' \ud83c\udfa7 Listened to The Failed ISP Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
+- type: entry
+  published: "2018-12-23T21:02:29+00:00"
+  category:
+  - scrobble
+  - audio
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
+  listen-of:
+    h-cite:
+      url: http://textfiles.libsyn.com/rss
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_47.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Technical_Interview_Episode.mp3
+      name: The Technical Interview Episode
+      author: Jason Scott
+      content: "The Technical Interview Episode: Answering your requests, the nature
+        of an interview, the ultimate meaning of your interviews, quality check, pre-interview,
+        the 10 questions, like two musicians, post-interview, the final destination,
+        Apple II crack screens forever.\r\nFolks asked me to talk a little more about
+        the lessons I've learned doing about 400 interviews over the years. Here it
+        is in a brain dump the density of a salt lick.\r\n\r\nAny other questions?"
+  content:
+    text: ' \ud83c\udfa7 Listened to The Technical Interview Episode by @textfiles
+      From #JasonScottTalksHisWayOutofIt'
 ...

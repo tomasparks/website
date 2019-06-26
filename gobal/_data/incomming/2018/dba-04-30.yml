@@ -45,26 +45,6 @@
     text: ' \ud83c\udfa7 Listened to An Indieweb Podcast Episode 0 by https://wordpress.org/?v=4.9.5
       From #IndiewebPodcast'
 - type: entry
-  published: "2018-04-30T12:02:26+00:00"
-  category:
-  - scrobble
-  - audio
-  - David Shanske
-  - https://wordpress.org/?v=4.9.5
-  listen-of:
-    h-cite:
-      url: https://david.shanske.com/feed/
-      photo: ""
-      audio:
-      - https://david.shanske.com/wp-content/uploads/2018/04/Indieweb2.mp3
-      - http://archive.org/download/Indieweb_Podcast-by-David_Shanske_and_Chris_Aldrich/Indieweb2.mp3
-      name: 'An Indieweb Podcast- Episode 2: IndieAuth'
-      author: https://wordpress.org/?v=4.9.5
-      content: ""
-  content:
-    text: ' \ud83c\udfa7 Listened to An Indieweb Podcast- Episode 2: IndieAuth by
-      https://wordpress.org/?v=4.9.5 From #IndiewebPodcast'
-- type: entry
   published: "2018-04-30T20:48:24+00:00"
   category:
   - scrobble
@@ -84,6 +64,26 @@
   content:
     text: " \\ud83c\\udfa7 Listened to An Indieweb Podcast \u2013 Episode 3: Syndication
       by https://wordpress.org/?v=4.9.5 From #IndiewebPodcast"
+- type: entry
+  published: "2018-04-30T12:02:26+00:00"
+  category:
+  - scrobble
+  - audio
+  - David Shanske
+  - https://wordpress.org/?v=4.9.5
+  listen-of:
+    h-cite:
+      url: https://david.shanske.com/feed/
+      photo: ""
+      audio:
+      - https://david.shanske.com/wp-content/uploads/2018/04/Indieweb2.mp3
+      - http://archive.org/download/Indieweb_Podcast-by-David_Shanske_and_Chris_Aldrich/Indieweb2.mp3
+      name: 'An Indieweb Podcast- Episode 2: IndieAuth'
+      author: https://wordpress.org/?v=4.9.5
+      content: ""
+  content:
+    text: ' \ud83c\udfa7 Listened to An Indieweb Podcast- Episode 2: IndieAuth by
+      https://wordpress.org/?v=4.9.5 From #IndiewebPodcast'
 - type: entry
   published: "2018-04-30T11:11:02+00:00"
   category:

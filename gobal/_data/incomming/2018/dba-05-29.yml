@@ -24,30 +24,6 @@
     text: ' \ud83c\udfa7 Listened to Luck In Silicon Valley, With Robert Frank by
       Techdirt From Techdirt'
 - type: entry
-  published: "2018-05-29T19:09:51+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/310014907-techdirt-the-miracle-of-booking-flights.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/310014907-techdirt-the-miracle-of-booking-flights.mp3
-      name: The Miracle Of Booking Flights
-      author: Techdirt
-      content: The finding and booking of flights is a massive and elaborate global
-        mechanism that contains both fascinating technology and useful secrets. This
-        week, we're joined by Adam Fletcher, co-founder of Gyroscope Software and
-        an architect of Google's airline reservation system, to talk about all the
-        technology behind commercial air travel today.
-  content:
-    text: ' \ud83c\udfa7 Listened to The Miracle Of Booking Flights by Techdirt From
-      Techdirt'
-- type: entry
   published: "2018-05-29T23:25:10+00:00"
   category:
   - scrobble
@@ -73,6 +49,30 @@
   content:
     text: ' \ud83c\udfa7 Listened to Rob Reid''s Mind-Bending Podcast by Techdirt
       From Techdirt'
+- type: entry
+  published: "2018-05-29T19:09:51+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/310014907-techdirt-the-miracle-of-booking-flights.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/310014907-techdirt-the-miracle-of-booking-flights.mp3
+      name: The Miracle Of Booking Flights
+      author: Techdirt
+      content: The finding and booking of flights is a massive and elaborate global
+        mechanism that contains both fascinating technology and useful secrets. This
+        week, we're joined by Adam Fletcher, co-founder of Gyroscope Software and
+        an architect of Google's airline reservation system, to talk about all the
+        technology behind commercial air travel today.
+  content:
+    text: ' \ud83c\udfa7 Listened to The Miracle Of Booking Flights by Techdirt From
+      Techdirt'
 - type: entry
   published: "2018-05-29T10:50:34+00:00"
   category:

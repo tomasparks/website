@@ -1,5 +1,6 @@
 ---
-- type: entry
+0:
+  type: entry
   published: "2019-05-24T18:16:40+00:00"
   category:
   - scrobble
@@ -24,7 +25,8 @@
     text: ' \ud83c\udfa7 Listened to Turning aircon into a climate fighter; Open-source
       seeds; Otlet; and the truth about tiny houses by ABC Radio National From Future
       Tense - ABC RN'
-- type: entry
+1:
+  type: entry
   published: "2019-05-24T17:47:29+00:00"
   category:
   - scrobble
@@ -37,7 +39,7 @@
       photo: ""
       audio:
       - http://mpegmedia.abc.net.au/radio/triplej/audio/scienceontriplej20190523.mp3
-      - http://archive.org/download/Dr_Karl_Podcast-by-triple_j/Sympathy_spews_chubby_rain_and_fullmoon_craziness.mp3
+      - http://archive.org/download/Dr_Karl_Podcast-by-ABC_Science/Sympathy_spews_chubby_rain_and_fullmoon_craziness.mp3
       name: Sympathy spews, chubby rain and full-moon craziness
       author: triple j
       content: "Could you make off milk drinkable by boiling it? Are you heavier after
@@ -45,8 +47,9 @@
         \               "
   content:
     text: ' \ud83c\udfa7 Listened to Sympathy spews, chubby rain and full-moon craziness
-      by triple j From Dr Karl Podcast'
-- type: entry
+      by triple j From Dr_Karl_Podcast'
+2:
+  type: entry
   published: "2019-05-24T16:46:11+00:00"
   category:
   - scrobble
@@ -66,7 +69,28 @@
         the Hooktongue Slough, and Katapesh comes knocking on Stagthorn\u2019s doors."
   content:
     text: ' \ud83c\udfa7 Listened to Kingmaker Session 68 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
-- type: entry
+3:
+  type: entry
+  published: "2019-05-24T23:21:44+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://rpgmp3.com/v5/feed/podcast/
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_69.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_69.mp3
+      name: Kingmaker Session 69
+      author: Hal
+      content: "Episode 69 \u2013 in which Kaylen and Korwin bear heavy burdens."
+  content:
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 69 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+4:
+  type: entry
   published: "2019-05-24T14:00:07+00:00"
   category:
   - scrobble
@@ -86,26 +110,8 @@
         begins exploring the Hooktongue Slough."
   content:
     text: ' \ud83c\udfa7 Listened to Kingmaker Session 67 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
-- type: entry
-  published: "2019-05-24T23:21:44+00:00"
-  category:
-  - scrobble
-  - audio
-  - RPGMP3 Actual Play Podcast
-  - Hal
-  listen-of:
-    h-cite:
-      url: http://rpgmp3.com/v5/feed/podcast/
-      photo: ""
-      audio:
-      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_69.mp3
-      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_69.mp3
-      name: Kingmaker Session 69
-      author: Hal
-      content: "Episode 69 \u2013 in which Kaylen and Korwin bear heavy burdens."
-  content:
-    text: ' \ud83c\udfa7 Listened to Kingmaker Session 69 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
-- type: entry
+5:
+  type: entry
   published: "2019-05-24T19:21:57+00:00"
   category:
   - scrobble
@@ -125,7 +131,8 @@
   content:
     text: ' \ud83c\udfa7 Listened to Dr Karl answers your science questions. by @bbc5live
       From 5 live Science Podcast'
-- type: entry
+6:
+  type: entry
   published: "2019-05-24T17:07:49+00:00"
   category:
   - scrobble
@@ -154,4 +161,27 @@
         https://archive.org/details/confcon2010audio That was a close one!'
   content:
     text: ' \ud83c\udfa7 Listened to The Conference Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
+14:
+  type: entry
+  published: "2019-05-24T17:47:29+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl Podcast
+  - triple j
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/radio/triplej/audio/scienceontriplej20190523.mp3
+      - http://archive.org/download/Dr_Karl_Podcast-by-triple_j/Sympathy_spews_chubby_rain_and_fullmoon_craziness.mp3
+      name: Sympathy spews, chubby rain and full-moon craziness
+      author: triple j
+      content: "Could you make off milk drinkable by boiling it? Are you heavier after
+        taking a shower? Can computer viruses become real life viruses?\n                    \n
+        \               "
+  content:
+    text: ' \ud83c\udfa7 Listened to Sympathy spews, chubby rain and full-moon craziness
+      by triple j From Dr Karl Podcast'
 ...

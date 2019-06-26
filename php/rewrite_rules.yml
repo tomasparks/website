@@ -40,7 +40,7 @@ BucketName:
     Future Tense - ABC - RN: Future_Tense_ABC_RN
     Dr Karl Podcast: Dr_Karl_Podcast
     Future Tense - ABC RN: Future_Tense_ABC_RN
-    "An Indieweb Podcast \u2013 Chris Aldrich": An_Indieweb_Podcast_Chris_Aldrich
+    "An Indieweb Podcast \u2013 Chris Aldrich": Indieweb_Podcast
     'RPGMP3: Yorkton Gamer Guild Actual Play Podcast': RPGMP3_Actual_Play_Podcast
     Reality 2.0: Reality_20
   author:
@@ -169,13 +169,12 @@ twitter:
     Internet History Podcast: Internet History Podcast
     TED Radio Hour: TED Radio Hour
     Hamish & Andy: Hamish & Andy
-    DatCastA[: DatCastA[
+    DatCastA[: DatCast
     Adam Ruins Everything: Adam Ruins Everything
     Future Tense - ABC - RN: Future Tense - ABC - RN
     Dr Karl Podcast: Dr_Karl_Podcast
     Future Tense - ABC RN: Future Tense - ABC RN
-    "An Indieweb Podcast \u2013 Chris Aldrich": "An Indieweb Podcast \u2013 Chris
-      Aldrich"
+    "An Indieweb Podcast \u2013 Chris Aldrich": '#IndiewebPodcast'
     'RPGMP3: Yorkton Gamer Guild Actual Play Podcast': '#RPGMP3ActualPlayPodcast #YorktonGamerGuildActualPlayPodcast'
     Reality 2.0: Reality 2.0
 HowToRewrite:

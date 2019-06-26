@@ -1,5 +1,26 @@
 ---
 - type: entry
+  published: "2018-06-23T19:19:20+00:00"
+  category:
+  - scrobble
+  - audio
+  - Acquired - Technology Acquisitions & IPOs
+  - Ben Gilbert and David Rosenthal
+  listen-of:
+    h-cite:
+      url: http://www.acquired.fm/episodes?format=RSS
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/acquired/Acquired_Episode_26_-_Marvel.mp3
+      - http://archive.org/download/Acquired-Podcast-by-Ben_Gilbert_and_David_Rosenthal/Episode_26_Marvel.mp3
+      name: 'Episode 26: Marvel'
+      author: Ben Gilbert and David Rosenthal
+      content: Ben and David complete the Disney acquisition trilogy, covering the
+        "house that Mickey built"'s 2009 acquisition of Marvel Entertainment.
+  content:
+    text: ' \ud83c\udfa7 Listened to Episode 26: Marvel by Ben Gilbert and David Rosenthal
+      From @AcquiredFM'
+- type: entry
   published: "2018-06-23T15:56:01+00:00"
   category:
   - scrobble
@@ -46,27 +67,6 @@
         starring our very own Acquired listener, the brilliant and talented Jake Saper! "
   content:
     text: ' \ud83c\udfa7 Listened to Episode 24: Skype by Ben Gilbert and David Rosenthal
-      From @AcquiredFM'
-- type: entry
-  published: "2018-06-23T19:19:20+00:00"
-  category:
-  - scrobble
-  - audio
-  - Acquired - Technology Acquisitions & IPOs
-  - Ben Gilbert and David Rosenthal
-  listen-of:
-    h-cite:
-      url: http://www.acquired.fm/episodes?format=RSS
-      photo: ""
-      audio:
-      - http://traffic.libsyn.com/acquired/Acquired_Episode_26_-_Marvel.mp3
-      - http://archive.org/download/Acquired-Podcast-by-Ben_Gilbert_and_David_Rosenthal/Episode_26_Marvel.mp3
-      name: 'Episode 26: Marvel'
-      author: Ben Gilbert and David Rosenthal
-      content: Ben and David complete the Disney acquisition trilogy, covering the
-        "house that Mickey built"'s 2009 acquisition of Marvel Entertainment.
-  content:
-    text: ' \ud83c\udfa7 Listened to Episode 26: Marvel by Ben Gilbert and David Rosenthal
       From @AcquiredFM'
 - type: entry
   published: "2018-06-23T17:39:06+00:00"

@@ -1,5 +1,6 @@
 ---
-- type: entry
+0:
+  type: entry
   published: "2019-05-18T08:43:58+00:00"
   category:
   - scrobble
@@ -28,7 +29,8 @@
   content:
     text: ' \ud83c\udfa7 Listened to Politicians (Usually) Don''t Understand Technology
       by Techdirt From Techdirt'
-- type: entry
+1:
+  type: entry
   published: "2019-05-18T07:46:37+00:00"
   category:
   - scrobble
@@ -49,7 +51,8 @@
   content:
     text: ' \ud83c\udfa7 Listened to Say cheese by ABC Radio National From Great Moments
       In Science - with Dr Karl Kruszelnicki'
-- type: entry
+2:
+  type: entry
   published: "2019-05-18T13:59:05+00:00"
   category:
   - scrobble
@@ -72,7 +75,8 @@
   content:
     text: ' \ud83c\udfa7 Listened to As the Internet divides by ABC Radio National
       From Future Tense - ABC - RN'
-- type: entry
+3:
+  type: entry
   published: "2019-05-18T14:33:43+00:00"
   category:
   - scrobble
@@ -85,15 +89,16 @@
       photo: ""
       audio:
       - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20190509.mp3
-      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Muscle_memory_buttery_sweat_and_our_robot_overlords.mp3
+      - http://archive.org/download/Dr_Karl_Podcast-by-ABC_Science/Muscle_memory_buttery_sweat_and_our_robot_overlords.mp3
       name: Muscle memory, buttery sweat and our robot overlords
       author: ABC Science
       content: Where does the wind come from? Can we affect other peoples dreams?
         Why do some people smell like butter when they sweat?
   content:
     text: ' \ud83c\udfa7 Listened to Muscle memory, buttery sweat and our robot overlords
-      by ABC Science From Dr Karl on triplej'
-- type: entry
+      by ABC Science From Dr_Karl_Podcast'
+4:
+  type: entry
   published: "2019-05-18T08:06:56+00:00"
   category:
   - scrobble
@@ -115,4 +120,26 @@
         \_https://wagingnonviolence.org/2012/10/a-dream-that-grew-in-brooklyn-faces-foreclosure/\_"
   content:
     text: ' \ud83c\udfa7 Listened to Jerome Johnson by @textfiles From #JasonScottTalksHisWayOutofIt'
+10:
+  type: entry
+  published: "2019-05-18T14:33:43+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl on triplej
+  - ABC Science
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20190509.mp3
+      - http://archive.org/download/Dr_Karl_on_triplej-Podcast-by-ABC_Science/Muscle_memory_buttery_sweat_and_our_robot_overlords.mp3
+      name: Muscle memory, buttery sweat and our robot overlords
+      author: ABC Science
+      content: Where does the wind come from? Can we affect other peoples dreams?
+        Why do some people smell like butter when they sweat?
+  content:
+    text: ' \ud83c\udfa7 Listened to Muscle memory, buttery sweat and our robot overlords
+      by ABC Science From Dr Karl on triplej'
 ...

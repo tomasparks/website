@@ -1,46 +1,6 @@
 ---
-- type: entry
-  published: "2018-05-20T09:48:36+00:00"
-  category:
-  - scrobble
-  - audio
-  - Percolator
-  - Aaron Parecki
-  listen-of:
-    h-cite:
-      url: https://percolator.today/podcast.xml
-      photo: ""
-      audio:
-      - https://percolator.today/redirect.php?url=https%3A%2F%2Fpercolator.today%2Fmedia%2FPercolator_Episode_7.mp3
-      - http://archive.org/download/Percolator-Podcast-by-Aaron_Parecki/Episode_7_Making_Micropub_More_Useful.mp3
-      name: 'Episode 7: Making Micropub More Useful'
-      author: Aaron Parecki
-      content: Thinking about what is needed for the Micropub spec for it to be even
-        more useful.
-  content:
-    text: ' \ud83c\udfa7 Listened to Episode 7: Making Micropub More Useful by @aaronpk
-      From Percolator'
-- type: entry
-  published: "2018-05-20T09:43:03+00:00"
-  category:
-  - scrobble
-  - audio
-  - Percolator
-  - Aaron Parecki
-  listen-of:
-    h-cite:
-      url: https://percolator.today/podcast.xml
-      photo: ""
-      audio:
-      - https://percolator.today/redirect.php?url=https%3A%2F%2Fpercolator.today%2Fmedia%2FEpisode_8.mp3
-      - http://archive.org/download/Percolator-Podcast-by-Aaron_Parecki/Episode_8_Back_from_the_Woods.mp3
-      name: 'Episode 8: Back from the Woods'
-      author: Aaron Parecki
-      content: Reflections on how I control what I consume online
-  content:
-    text: ' \ud83c\udfa7 Listened to Episode 8: Back from the Woods by @aaronpk From
-      Percolator'
-- type: entry
+0:
+  type: entry
   published: "2018-05-20T09:52:02+00:00"
   category:
   - scrobble
@@ -60,86 +20,8 @@
   content:
     text: ' \ud83c\udfa7 Listened to Episode 6: My New Superpower by @aaronpk From
       Percolator'
-- type: entry
-  published: "2018-05-20T09:24:42+00:00"
-  category:
-  - scrobble
-  - audio
-  - Percolator
-  - Aaron Parecki
-  listen-of:
-    h-cite:
-      url: https://percolator.today/podcast.xml
-      photo: ""
-      audio:
-      - https://percolator.today/redirect.php?url=https%3A%2F%2Fpercolator.today%2Fmedia%2FEpisode_14.mp3
-      - http://archive.org/download/Percolator-Podcast-by-Aaron_Parecki/Episode_14_DROP_DATABASE_irclog.mp3
-      name: 'Episode 14: DROP DATABASE irclog;'
-      author: Aaron Parecki
-      content: Working on migrating the IndieWeb chat logs
-  content:
-    text: ' \ud83c\udfa7 Listened to Episode 14: DROP DATABASE irclog; by @aaronpk
-      From Percolator'
-- type: entry
-  published: "2018-05-20T10:18:03+00:00"
-  category:
-  - scrobble
-  - audio
-  - Percolator
-  - Aaron Parecki
-  listen-of:
-    h-cite:
-      url: https://percolator.today/podcast.xml
-      photo: ""
-      audio:
-      - https://percolator.today/redirect.php?url=https%3A%2F%2Fpercolator.today%2Fmedia%2FPercolator_Episode_1.mp3
-      - http://archive.org/download/Percolator-Podcast-by-Aaron_Parecki/Episode_1_Welcome.mp3
-      name: 'Episode 1: Welcome'
-      author: Aaron Parecki
-      content: What is Percolator? Some thoughts about multi-photos in Instagram.
-  content:
-    text: ' \ud83c\udfa7 Listened to Episode 1: Welcome by @aaronpk From Percolator'
-- type: entry
-  published: "2018-05-20T09:32:08+00:00"
-  category:
-  - scrobble
-  - audio
-  - Percolator
-  - Aaron Parecki
-  listen-of:
-    h-cite:
-      url: https://percolator.today/podcast.xml
-      photo: ""
-      audio:
-      - https://percolator.today/redirect.php?url=https%3A%2F%2Fpercolator.today%2Fmedia%2FEpisode_12.mp3
-      - http://archive.org/download/Percolator-Podcast-by-Aaron_Parecki/Episode_12_To_Poll_or_Not_to_Poll.mp3
-      name: 'Episode 12: To Poll or Not to Poll'
-      author: Aaron Parecki
-      content: Building out a feed polling infrastructure is daunting.
-  content:
-    text: ' \ud83c\udfa7 Listened to Episode 12: To Poll or Not to Poll by @aaronpk
-      From Percolator'
-- type: entry
-  published: "2018-05-20T10:00:56+00:00"
-  category:
-  - scrobble
-  - audio
-  - Percolator
-  - Aaron Parecki
-  listen-of:
-    h-cite:
-      url: https://percolator.today/podcast.xml
-      photo: ""
-      audio:
-      - https://percolator.today/redirect.php?url=https%3A%2F%2Fpercolator.today%2Fmedia%2FPercolator_Episode_4.mp3
-      - http://archive.org/download/Percolator-Podcast-by-Aaron_Parecki/Episode_4_Pretending_to_be_an_iOS_Developer.mp3
-      name: 'Episode 4: Pretending to be an iOS Developer'
-      author: Aaron Parecki
-      content: Talking about what it takes to publish an app on the iOS app store.
-  content:
-    text: ' \ud83c\udfa7 Listened to Episode 4: Pretending to be an iOS Developer
-      by @aaronpk From Percolator'
-- type: entry
+1:
+  type: entry
   published: "2018-05-20T09:55:31+00:00"
   category:
   - scrobble
@@ -159,8 +41,9 @@
   content:
     text: ' \ud83c\udfa7 Listened to Episode 5: Homebrew Website Club by @aaronpk
       From Percolator'
-- type: entry
-  published: "2018-05-20T09:39:37+00:00"
+2:
+  type: entry
+  published: "2018-05-20T09:21:54+00:00"
   category:
   - scrobble
   - audio
@@ -171,35 +54,37 @@
       url: https://percolator.today/podcast.xml
       photo: ""
       audio:
-      - https://percolator.today/redirect.php?url=https%3A%2F%2Fpercolator.today%2Fmedia%2FEpisode_9.mp3
-      - http://archive.org/download/Percolator-Podcast-by-Aaron_Parecki/Episode_9_Streamlining_my_Microcast_Workflow.mp3
-      name: 'Episode 9: Streamlining my Microcast Workflow'
+      - https://percolator.today/redirect.php?url=https%3A%2F%2Fpercolator.today%2Fmedia%2FEpisode_15.mp3
+      - http://archive.org/download/Percolator-Podcast-by-Aaron_Parecki/Episode_15_The_IndieWeb_Wiki_and_IndieAuth.mp3
+      name: 'Episode 15: The IndieWeb Wiki and IndieAuth'
       author: Aaron Parecki
-      content: I wrote a new Micropub app to help me publish Microcast episodes quicker
+      content: Wikis, backups, chat logs, and the IndieAuth spec
   content:
-    text: ' \ud83c\udfa7 Listened to Episode 9: Streamlining my Microcast Workflow
+    text: ' \ud83c\udfa7 Listened to Episode 15: The IndieWeb Wiki and IndieAuth by
+      @aaronpk From Percolator'
+3:
+  type: entry
+  published: "2018-05-20T10:00:56+00:00"
+  category:
+  - scrobble
+  - audio
+  - Percolator
+  - Aaron Parecki
+  listen-of:
+    h-cite:
+      url: https://percolator.today/podcast.xml
+      photo: ""
+      audio:
+      - https://percolator.today/redirect.php?url=https%3A%2F%2Fpercolator.today%2Fmedia%2FPercolator_Episode_4.mp3
+      - http://archive.org/download/Percolator-Podcast-by-Aaron_Parecki/Episode_4_Pretending_to_be_an_iOS_Developer.mp3
+      name: 'Episode 4: Pretending to be an iOS Developer'
+      author: Aaron Parecki
+      content: Talking about what it takes to publish an app on the iOS app store.
+  content:
+    text: ' \ud83c\udfa7 Listened to Episode 4: Pretending to be an iOS Developer
       by @aaronpk From Percolator'
-- type: entry
-  published: "2018-05-20T09:12:06+00:00"
-  category:
-  - scrobble
-  - audio
-  - Percolator
-  - Aaron Parecki
-  listen-of:
-    h-cite:
-      url: https://percolator.today/podcast.xml
-      photo: ""
-      audio:
-      - https://percolator.today/redirect.php?url=https%3A%2F%2Fpercolator.today%2Fmedia%2FEpisode_17.mp3
-      - http://archive.org/download/Percolator-Podcast-by-Aaron_Parecki/Episode_17_Its_2018.mp3
-      name: 'Episode 17: It''s 2018!'
-      author: Aaron Parecki
-      content: Getting back in the swing of things, working on Monocle, looking forward
-        to IndieWebCamp Baltimore!
-  content:
-    text: ' \ud83c\udfa7 Listened to Episode 17: It''s 2018! by @aaronpk From Percolator'
-- type: entry
+4:
+  type: entry
   published: "2018-05-20T09:35:09+00:00"
   category:
   - scrobble
@@ -220,8 +105,9 @@
   content:
     text: ' \ud83c\udfa7 Listened to Episode 11: What are Instagram Stories? by @aaronpk
       From Percolator'
-- type: entry
-  published: "2018-05-20T09:21:54+00:00"
+5:
+  type: entry
+  published: "2018-05-20T09:32:08+00:00"
   category:
   - scrobble
   - audio
@@ -232,36 +118,16 @@
       url: https://percolator.today/podcast.xml
       photo: ""
       audio:
-      - https://percolator.today/redirect.php?url=https%3A%2F%2Fpercolator.today%2Fmedia%2FEpisode_15.mp3
-      - http://archive.org/download/Percolator-Podcast-by-Aaron_Parecki/Episode_15_The_IndieWeb_Wiki_and_IndieAuth.mp3
-      name: 'Episode 15: The IndieWeb Wiki and IndieAuth'
+      - https://percolator.today/redirect.php?url=https%3A%2F%2Fpercolator.today%2Fmedia%2FEpisode_12.mp3
+      - http://archive.org/download/Percolator-Podcast-by-Aaron_Parecki/Episode_12_To_Poll_or_Not_to_Poll.mp3
+      name: 'Episode 12: To Poll or Not to Poll'
       author: Aaron Parecki
-      content: Wikis, backups, chat logs, and the IndieAuth spec
+      content: Building out a feed polling infrastructure is daunting.
   content:
-    text: ' \ud83c\udfa7 Listened to Episode 15: The IndieWeb Wiki and IndieAuth by
-      @aaronpk From Percolator'
-- type: entry
-  published: "2018-05-20T09:19:05+00:00"
-  category:
-  - scrobble
-  - audio
-  - Percolator
-  - Aaron Parecki
-  listen-of:
-    h-cite:
-      url: https://percolator.today/podcast.xml
-      photo: ""
-      audio:
-      - https://percolator.today/redirect.php?url=https%3A%2F%2Fpercolator.today%2Fmedia%2FEpisode_16.mp3
-      - http://archive.org/download/Percolator-Podcast-by-Aaron_Parecki/Episode_16_IndieWebCamp_Austin.mp3
-      name: 'Episode 16: IndieWebCamp Austin!'
-      author: Aaron Parecki
-      content: IndieWebCamp Austin, Patreon, and some thoughts about payments and
-        patronage on the indie web
-  content:
-    text: ' \ud83c\udfa7 Listened to Episode 16: IndieWebCamp Austin! by @aaronpk
+    text: ' \ud83c\udfa7 Listened to Episode 12: To Poll or Not to Poll by @aaronpk
       From Percolator'
-- type: entry
+6:
+  type: entry
   published: "2018-05-20T10:05:56+00:00"
   category:
   - scrobble
@@ -280,7 +146,8 @@
       content: Thinking about how I want to follow people on the IndieWeb.
   content:
     text: ' \ud83c\udfa7 Listened to Episode 3: Following by @aaronpk From Percolator'
-- type: entry
+7:
+  type: entry
   published: "2018-05-20T09:36:54+00:00"
   category:
   - scrobble
@@ -300,7 +167,8 @@
   content:
     text: ' \ud83c\udfa7 Listened to Episode 10: Microsub for Readers by @aaronpk
       From Percolator'
-- type: entry
+8:
+  type: entry
   published: "2018-05-20T09:29:00+00:00"
   category:
   - scrobble
@@ -321,7 +189,29 @@
   content:
     text: ' \ud83c\udfa7 Listened to Episode 13: Trains, Feeds, and a Small Polling
       Infrastructure by @aaronpk From Percolator'
-- type: entry
+9:
+  type: entry
+  published: "2018-05-20T09:12:06+00:00"
+  category:
+  - scrobble
+  - audio
+  - Percolator
+  - Aaron Parecki
+  listen-of:
+    h-cite:
+      url: https://percolator.today/podcast.xml
+      photo: ""
+      audio:
+      - https://percolator.today/redirect.php?url=https%3A%2F%2Fpercolator.today%2Fmedia%2FEpisode_17.mp3
+      - http://archive.org/download/Percolator-Podcast-by-Aaron_Parecki/Episode_17_Its_2018.mp3
+      name: 'Episode 17: It''s 2018!'
+      author: Aaron Parecki
+      content: Getting back in the swing of things, working on Monocle, looking forward
+        to IndieWebCamp Baltimore!
+  content:
+    text: ' \ud83c\udfa7 Listened to Episode 17: It''s 2018! by @aaronpk From Percolator'
+10:
+  type: entry
   published: "2018-05-20T10:09:59+00:00"
   category:
   - scrobble
@@ -341,7 +231,228 @@
   content:
     text: ' \ud83c\udfa7 Listened to Episode 2: Publishing a Podcast by @aaronpk From
       Percolator'
-- type: entry
+11:
+  type: entry
+  published: "2018-05-20T09:19:05+00:00"
+  category:
+  - scrobble
+  - audio
+  - Percolator
+  - Aaron Parecki
+  listen-of:
+    h-cite:
+      url: https://percolator.today/podcast.xml
+      photo: ""
+      audio:
+      - https://percolator.today/redirect.php?url=https%3A%2F%2Fpercolator.today%2Fmedia%2FEpisode_16.mp3
+      - http://archive.org/download/Percolator-Podcast-by-Aaron_Parecki/Episode_16_IndieWebCamp_Austin.mp3
+      name: 'Episode 16: IndieWebCamp Austin!'
+      author: Aaron Parecki
+      content: IndieWebCamp Austin, Patreon, and some thoughts about payments and
+        patronage on the indie web
+  content:
+    text: ' \ud83c\udfa7 Listened to Episode 16: IndieWebCamp Austin! by @aaronpk
+      From Percolator'
+12:
+  type: entry
+  published: "2018-05-20T10:18:03+00:00"
+  category:
+  - scrobble
+  - audio
+  - Percolator
+  - Aaron Parecki
+  listen-of:
+    h-cite:
+      url: https://percolator.today/podcast.xml
+      photo: ""
+      audio:
+      - https://percolator.today/redirect.php?url=https%3A%2F%2Fpercolator.today%2Fmedia%2FPercolator_Episode_1.mp3
+      - http://archive.org/download/Percolator-Podcast-by-Aaron_Parecki/Episode_1_Welcome.mp3
+      name: 'Episode 1: Welcome'
+      author: Aaron Parecki
+      content: What is Percolator? Some thoughts about multi-photos in Instagram.
+  content:
+    text: ' \ud83c\udfa7 Listened to Episode 1: Welcome by @aaronpk From Percolator'
+13:
+  type: entry
+  published: "2018-05-20T09:39:37+00:00"
+  category:
+  - scrobble
+  - audio
+  - Percolator
+  - Aaron Parecki
+  listen-of:
+    h-cite:
+      url: https://percolator.today/podcast.xml
+      photo: ""
+      audio:
+      - https://percolator.today/redirect.php?url=https%3A%2F%2Fpercolator.today%2Fmedia%2FEpisode_9.mp3
+      - http://archive.org/download/Percolator-Podcast-by-Aaron_Parecki/Episode_9_Streamlining_my_Microcast_Workflow.mp3
+      name: 'Episode 9: Streamlining my Microcast Workflow'
+      author: Aaron Parecki
+      content: I wrote a new Micropub app to help me publish Microcast episodes quicker
+  content:
+    text: ' \ud83c\udfa7 Listened to Episode 9: Streamlining my Microcast Workflow
+      by @aaronpk From Percolator'
+14:
+  type: entry
+  published: "2018-05-20T09:43:03+00:00"
+  category:
+  - scrobble
+  - audio
+  - Percolator
+  - Aaron Parecki
+  listen-of:
+    h-cite:
+      url: https://percolator.today/podcast.xml
+      photo: ""
+      audio:
+      - https://percolator.today/redirect.php?url=https%3A%2F%2Fpercolator.today%2Fmedia%2FEpisode_8.mp3
+      - http://archive.org/download/Percolator-Podcast-by-Aaron_Parecki/Episode_8_Back_from_the_Woods.mp3
+      name: 'Episode 8: Back from the Woods'
+      author: Aaron Parecki
+      content: Reflections on how I control what I consume online
+  content:
+    text: ' \ud83c\udfa7 Listened to Episode 8: Back from the Woods by @aaronpk From
+      Percolator'
+15:
+  type: entry
+  published: "2018-05-20T09:24:42+00:00"
+  category:
+  - scrobble
+  - audio
+  - Percolator
+  - Aaron Parecki
+  listen-of:
+    h-cite:
+      url: https://percolator.today/podcast.xml
+      photo: ""
+      audio:
+      - https://percolator.today/redirect.php?url=https%3A%2F%2Fpercolator.today%2Fmedia%2FEpisode_14.mp3
+      - http://archive.org/download/Percolator-Podcast-by-Aaron_Parecki/Episode_14_DROP_DATABASE_irclog.mp3
+      name: 'Episode 14: DROP DATABASE irclog;'
+      author: Aaron Parecki
+      content: Working on migrating the IndieWeb chat logs
+  content:
+    text: ' \ud83c\udfa7 Listened to Episode 14: DROP DATABASE irclog; by @aaronpk
+      From Percolator'
+16:
+  type: entry
+  published: "2018-05-20T09:48:36+00:00"
+  category:
+  - scrobble
+  - audio
+  - Percolator
+  - Aaron Parecki
+  listen-of:
+    h-cite:
+      url: https://percolator.today/podcast.xml
+      photo: ""
+      audio:
+      - https://percolator.today/redirect.php?url=https%3A%2F%2Fpercolator.today%2Fmedia%2FPercolator_Episode_7.mp3
+      - http://archive.org/download/Percolator-Podcast-by-Aaron_Parecki/Episode_7_Making_Micropub_More_Useful.mp3
+      name: 'Episode 7: Making Micropub More Useful'
+      author: Aaron Parecki
+      content: Thinking about what is needed for the Micropub spec for it to be even
+        more useful.
+  content:
+    text: ' \ud83c\udfa7 Listened to Episode 7: Making Micropub More Useful by @aaronpk
+      From Percolator'
+17:
+  type: entry
+  published: "2018-05-20T11:34:51+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl on triplej
+  - ABC Science
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20111124.mp3
+      - http://archive.org/download/Dr_Karl_Podcast-by-ABC_Science/Celebrating_30_years_of_science_talkback_with_Dr_Karl.mp3
+      name: Celebrating 30 years of science talkback with Dr Karl
+      author: ABC Science
+      content: 'Previous ''Mornings'' presenters drop by to share their favourite
+        Dr Karl moments from the last 30 years on triplej. Plus: Karl''s favourite
+        organ; his first comments on radio re-enacted; and the five most-common science
+        questions asked by listeners.'
+  content:
+    text: ' \ud83c\udfa7 Listened to Celebrating 30 years of science talkback with
+      Dr Karl by ABC Science From Dr_Karl_Podcast'
+18:
+  type: entry
+  published: "2018-05-20T10:55:04+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl on triplej
+  - ABC Science
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20111201.mp3
+      - http://archive.org/download/Dr_Karl_Podcast-by-ABC_Science/Head_spins_granite_cookware_and_bullets_fired_in_the_air.mp3
+      name: Head spins, granite cookware and bullets fired in the air
+      author: ABC Science
+      content: Why does your head seem to spin when you lie down if drunk? What are
+        the differences between various cookwares and are any types dangerous? What
+        happens to bullets that are fired into the air?
+  content:
+    text: ' \ud83c\udfa7 Listened to Head spins, granite cookware and bullets fired
+      in the air by ABC Science From Dr_Karl_Podcast'
+19:
+  type: entry
+  published: "2018-05-20T16:13:03+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl on triplej
+  - ABC Science
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20111110.mp3
+      - http://archive.org/download/Dr_Karl_Podcast-by-ABC_Science/Bad_apples_and_the_strange_sounds_our_body_can_make.mp3
+      name: Bad apples and the strange sounds our body can make
+      author: ABC Science
+      content: 'Does cold storage affect how food metabolises and germinates? Plus:
+        why do some people''s eyes squeak when they rub them?; and why can some people
+        make their ears ''crack'' when they press them?'
+  content:
+    text: ' \ud83c\udfa7 Listened to Bad apples and the strange sounds our body can
+      make by ABC Science From Dr_Karl_Podcast'
+20:
+  type: entry
+  published: "2018-05-20T15:36:27+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl on triplej
+  - ABC Science
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20111117.mp3
+      - http://archive.org/download/Dr_Karl_Podcast-by-ABC_Science/Cannabis_use_and_psychosis_with_Dr_Matthew_Large.mp3
+      name: Cannabis use and psychosis, with Dr Matthew Large
+      author: ABC Science
+      content: In a special triplej listener talkback, Zan Rowe and Dr Karl discuss
+        the link between mental illness and marijuana use with psychiatrist Dr Matthew
+        Large, from the University of New South Wales.
+  content:
+    text: ' \ud83c\udfa7 Listened to Cannabis use and psychosis, with Dr Matthew Large
+      by ABC Science From Dr_Karl_Podcast'
+42:
+  type: entry
   published: "2018-05-20T10:55:04+00:00"
   category:
   - scrobble
@@ -363,7 +474,8 @@
   content:
     text: ' \ud83c\udfa7 Listened to Head spins, granite cookware and bullets fired
       in the air by ABC Science From Dr Karl on triplej'
-- type: entry
+43:
+  type: entry
   published: "2018-05-20T16:13:03+00:00"
   category:
   - scrobble
@@ -385,7 +497,8 @@
   content:
     text: ' \ud83c\udfa7 Listened to Bad apples and the strange sounds our body can
       make by ABC Science From Dr Karl on triplej'
-- type: entry
+44:
+  type: entry
   published: "2018-05-20T15:36:27+00:00"
   category:
   - scrobble
@@ -407,7 +520,8 @@
   content:
     text: ' \ud83c\udfa7 Listened to Cannabis use and psychosis, with Dr Matthew Large
       by ABC Science From Dr Karl on triplej'
-- type: entry
+45:
+  type: entry
   published: "2018-05-20T11:34:51+00:00"
   category:
   - scrobble

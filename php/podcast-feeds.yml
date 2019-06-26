@@ -6,7 +6,7 @@
   artist: Firefox, backed by Mozilla
   album: []
   location: https://feeds.mozilla-podcasts.org/irl
-  last-seen: "1561182296"
+  last-seen: "1561441487"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -27,23 +27,25 @@
   post-time: "1561156190"
 - '@attributes':
     type: podcast-feed
-  title: "Podcast \u2013 Cory Doctorow's craphound.com"
+  title: TED Radio Hour
   genre: []
-  artist: Cory Doctorow
+  artist: NPR
   album: []
-  location: http://feeds.feedburner.com/doctorow_podcast
-  last-seen: "1530619935"
+  location: https://www.npr.org/rss/podcast.php?id=510298
+  last-seen: "1530619971"
   date: "0"
   media-type: application/octet-stream
   status: "2"
-  description: Articles, speeches, stories and novels by an award-winning science
-    fiction writer, read aloud in small regular chunks
+  description: Guy Raz explores the emotions, insights, and discoveries that make
+    us human. The <em>TED Radio Hour</em> is a narrative journey through fascinating
+    ideas, astonishing inventions, fresh approaches to old problems, and new ways
+    to think and create.
   subtitle: []
   summary: []
-  lang: en-US
-  copyright: Creative Commons by-nc-sa http://creativecommons.org/licenses/by-nc-sa/2.5/
-  image: http://craphound.com/images/Craphound300.png
-  post-time: "1530568010"
+  lang: en
+  copyright: 'Copyright:  Copyright 2012 NPR - For Personal Use Only'
+  image: []
+  post-time: "1530244860"
 - '@attributes':
     type: podcast-feed
   title: Benheck.com Podcast
@@ -51,7 +53,7 @@
   artist: Benjamin J Heckendorn
   album: []
   location: https://benheck.com/?feed=podcast
-  last-seen: "1561182296"
+  last-seen: "1561441484"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -87,7 +89,7 @@
   artist: Daniel J. Lewis
   album: []
   location: https://theaudacitytopodcast.com/feed/
-  last-seen: "1561182302"
+  last-seen: "1561441486"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -106,7 +108,7 @@
   artist: Cato Institute
   album: []
   location: https://www.libertarianism.org/rss/podcast/building-tomorrow
-  last-seen: "1561182298"
+  last-seen: "1561441485"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -125,7 +127,7 @@
   artist: Ars Technica
   album: []
   location: http://arstechnica.libsyn.com/rss
-  last-seen: "1561182310"
+  last-seen: "1561441481"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -140,25 +142,23 @@
   post-time: "1561098856"
 - '@attributes':
     type: podcast-feed
-  title: TED Radio Hour
+  title: "Podcast \u2013 Cory Doctorow's craphound.com"
   genre: []
-  artist: NPR
+  artist: Cory Doctorow
   album: []
-  location: https://www.npr.org/rss/podcast.php?id=510298
-  last-seen: "1530619971"
+  location: http://feeds.feedburner.com/doctorow_podcast
+  last-seen: "1530619935"
   date: "0"
   media-type: application/octet-stream
   status: "2"
-  description: Guy Raz explores the emotions, insights, and discoveries that make
-    us human. The <em>TED Radio Hour</em> is a narrative journey through fascinating
-    ideas, astonishing inventions, fresh approaches to old problems, and new ways
-    to think and create.
+  description: Articles, speeches, stories and novels by an award-winning science
+    fiction writer, read aloud in small regular chunks
   subtitle: []
   summary: []
-  lang: en
-  copyright: 'Copyright:  Copyright 2012 NPR - For Personal Use Only'
-  image: []
-  post-time: "1530244860"
+  lang: en-US
+  copyright: Creative Commons by-nc-sa http://creativecommons.org/licenses/by-nc-sa/2.5/
+  image: http://craphound.com/images/Craphound300.png
+  post-time: "1530568010"
 - '@attributes':
     type: podcast-feed
   title: Not Another D&D Podcast
@@ -166,7 +166,7 @@
   artist: HeadGum
   album: []
   location: https://warp.gumballcdn.com/v1/rss?uuid=5fac20eeb4&rss=https://rss.art19.com/not-another-d-and-d-podcast
-  last-seen: "1561182315"
+  last-seen: "1561441490"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -205,7 +205,7 @@
   artist: Dr Karl Kruszelnicki and Adam Spencer
   album: []
   location: http://drkarl.com/Podcasts/sleekgeeks.xml
-  last-seen: "1561182294"
+  last-seen: "1561441479"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -241,12 +241,30 @@
   post-time: "1528894801"
 - '@attributes':
     type: podcast-feed
+  title: clevercast
+  genre: []
+  artist: Jonathan LaCour
+  album: []
+  location: http://cleverca.st/podcast.xml
+  last-seen: "1530619928"
+  date: "0"
+  media-type: application/octet-stream
+  status: "2"
+  description: Follow <a href="https://micro.blog/cleverdevil">@cleverdevil on Micro.blog</a>.
+  subtitle: []
+  summary: []
+  lang: en
+  copyright: []
+  image: https://micro.blog/cleverdevil/podcast.png
+  post-time: "1530347973"
+- '@attributes':
+    type: podcast-feed
   title: DatCastA[
   genre: []
   artist: Bret Comnes and Jim Pick
   album: []
   location: https://dat-cast.hashbase.io/feed.xml
-  last-seen: "1561182309"
+  last-seen: "1561441486"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -264,7 +282,7 @@
   artist: Jamie King
   album: []
   location: http://stealthisshow.com/feed/podcast
-  last-seen: "1561182304"
+  last-seen: "1561441497"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -274,7 +292,25 @@
   lang: en
   copyright: Calico Media
   image: []
-  post-time: "1561109565"
+  post-time: "1561369765"
+- '@attributes':
+    type: podcast-feed
+  title: This Should Work
+  genre: []
+  artist: This Should Work
+  album: []
+  location: http://feeds.soundcloud.com/users/soundcloud:users:494514153/sounds.rss
+  last-seen: "1561441483"
+  date: "0"
+  media-type: application/octet-stream
+  status: "1"
+  description: "Makers, doers, the creators of things. Jay Margal\u2026"
+  subtitle: []
+  summary: []
+  lang: en
+  copyright: All rights reserved
+  image: []
+  post-time: "1560304189"
 - '@attributes':
     type: podcast-feed
   title: "Emoji Wrap \u2014 The Emoji Podcast from Emojipedia"
@@ -282,7 +318,7 @@
   artist: Emojipedia
   album: []
   location: https://rss.simplecast.com/podcasts/2218/rss
-  last-seen: "1561182306"
+  last-seen: "1561441500"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -297,30 +333,12 @@
   post-time: "1558475994"
 - '@attributes':
     type: podcast-feed
-  title: This Should Work
-  genre: []
-  artist: This Should Work
-  album: []
-  location: http://feeds.soundcloud.com/users/soundcloud:users:494514153/sounds.rss
-  last-seen: "1561182297"
-  date: "0"
-  media-type: application/octet-stream
-  status: "1"
-  description: "Makers, doers, the creators of things. Jay Margal\u2026"
-  subtitle: []
-  summary: []
-  lang: en
-  copyright: All rights reserved
-  image: []
-  post-time: "1560304189"
-- '@attributes':
-    type: podcast-feed
   title: 5 live Science Podcast
   genre: []
   artist: BBC Radio 5 live
   album: []
   location: http://podcasts.files.bbci.co.uk/p02pc9ny.rss
-  last-seen: "1561182305"
+  last-seen: "1561441483"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -332,7 +350,7 @@
   lang: en
   copyright: (C) BBC 2019
   image: http://ichef.bbci.co.uk/images/ic/3000x3000/p02h1m20.jpg
-  post-time: "1561002480"
+  post-time: "1561260360"
 - '@attributes':
     type: podcast-feed
   title: Jeena's Excellent Encounters
@@ -340,7 +358,7 @@
   artist: Jeena
   album: []
   location: https://jeena.net/pods.rss
-  last-seen: "1561182307"
+  last-seen: "1561441503"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -353,6 +371,60 @@
   copyright: []
   image: https://jeena.net/images/jeenas-excellent-encounters.jpg
   post-time: "1556453653"
+- '@attributes':
+    type: podcast-feed
+  title: David Shanske
+  genre: []
+  artist: https://wordpress.org/?v=5.2.2
+  album: []
+  location: https://david.shanske.com/feed/
+  last-seen: "1561441483"
+  date: "0"
+  media-type: application/octet-stream
+  status: "1"
+  description: The Definitive Location
+  subtitle: []
+  summary: []
+  lang: en-US
+  copyright: []
+  image: []
+  post-time: "1561433893"
+- '@attributes':
+    type: podcast-feed
+  title: "An Indieweb Podcast \u2013 Chris Aldrich"
+  genre: []
+  artist: https://wordpress.org/?v=5.2.2
+  album: []
+  location: http://boffosocko.com/tag/an-indieweb-podcast/feed/
+  last-seen: "1561441514"
+  date: "0"
+  media-type: application/octet-stream
+  status: "1"
+  description: Musings of a Modern Day Cyberneticist
+  subtitle: []
+  summary: []
+  lang: en-US
+  copyright: []
+  image: []
+  post-time: "1559238820"
+- '@attributes':
+    type: podcast-feed
+  title: "Indieweb Podcast \u2013 David Shanske"
+  genre: []
+  artist: https://wordpress.org/?v=5.2.2
+  album: []
+  location: https://david.shanske.com/series/indieweb-podcast/feed/
+  last-seen: "1561441485"
+  date: "0"
+  media-type: application/octet-stream
+  status: "1"
+  description: The Definitive Location
+  subtitle: []
+  summary: []
+  lang: en-US
+  copyright: []
+  image: []
+  post-time: "1561264954"
 - '@attributes':
     type: podcast-feed
   title: Reply All
@@ -373,42 +445,6 @@
   copyright: All rights reserved
   image: http://static.megaphone.fm/podcasts/05f71746-a825-11e5-aeb5-a7a572df575e/image/uploads_2F1516902193862-jqkml22bswo-cee641b4533ddb31a5a7ab656fe45116_2FCURRENT_Reply%2BAll%2BLogo.png
   post-time: "1516878000"
-- '@attributes':
-    type: podcast-feed
-  title: Techdirt
-  genre: []
-  artist: Techdirt
-  album: []
-  location: https://www.techdirt.com/podcast.xml
-  last-seen: "1561182319"
-  date: "0"
-  media-type: application/octet-stream
-  status: "1"
-  description: The Techdirt Podcast, hosted by Michael Masnick.
-  subtitle: []
-  summary: []
-  lang: en
-  copyright: All rights reserved
-  image: []
-  post-time: "1560886316"
-- '@attributes':
-    type: podcast-feed
-  title: clevercast
-  genre: []
-  artist: Jonathan LaCour
-  album: []
-  location: http://cleverca.st/podcast.xml
-  last-seen: "1530619928"
-  date: "0"
-  media-type: application/octet-stream
-  status: "2"
-  description: Follow <a href="https://micro.blog/cleverdevil">@cleverdevil on Micro.blog</a>.
-  subtitle: []
-  summary: []
-  lang: en
-  copyright: []
-  image: https://micro.blog/cleverdevil/podcast.png
-  post-time: "1530347973"
 - '@attributes':
     type: podcast-feed
   title: 8 Bit Book Club
@@ -435,7 +471,7 @@
   artist: CheapShow Pod
   album: []
   location: http://feeds.soundcloud.com/users/soundcloud:users:157831157/sounds.rss
-  last-seen: "1561182320"
+  last-seen: "1561441484"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -469,66 +505,12 @@
   post-time: "1529291000"
 - '@attributes':
     type: podcast-feed
-  title: David Shanske
-  genre: []
-  artist: https://wordpress.org/?v=5.2.2
-  album: []
-  location: https://david.shanske.com/feed/
-  last-seen: "1561182301"
-  date: "0"
-  media-type: application/octet-stream
-  status: "1"
-  description: The Definitive Location
-  subtitle: []
-  summary: []
-  lang: en-US
-  copyright: []
-  image: []
-  post-time: "1560663531"
-- '@attributes':
-    type: podcast-feed
-  title: "Indieweb Podcast \u2013 David Shanske"
-  genre: []
-  artist: https://wordpress.org/?v=5.2.2
-  album: []
-  location: https://david.shanske.com/series/indieweb-podcast/feed/
-  last-seen: "1561182302"
-  date: "0"
-  media-type: application/octet-stream
-  status: "1"
-  description: The Definitive Location
-  subtitle: []
-  summary: []
-  lang: en-US
-  copyright: []
-  image: []
-  post-time: "1558486824"
-- '@attributes':
-    type: podcast-feed
-  title: "An Indieweb Podcast \u2013 Chris Aldrich"
-  genre: []
-  artist: https://wordpress.org/?v=5.2.2
-  album: []
-  location: http://boffosocko.com/tag/an-indieweb-podcast/feed/
-  last-seen: "1561182330"
-  date: "0"
-  media-type: application/octet-stream
-  status: "1"
-  description: Musings of a Modern Day Cyberneticist
-  subtitle: []
-  summary: []
-  lang: en-US
-  copyright: []
-  image: []
-  post-time: "1559238820"
-- '@attributes':
-    type: podcast-feed
   title: Dr Karl Podcast
   genre: []
   artist: triple j
   album: []
   location: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
-  last-seen: "1561182304"
+  last-seen: "1561441481"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -543,22 +525,63 @@
   post-time: "1561002187"
 - '@attributes':
     type: podcast-feed
-  title: Timetable
+  title: Techdirt
   genre: []
-  artist: Manton Reece
+  artist: Techdirt
   album: []
-  location: http://timetable.manton.org/feed/podcast
-  last-seen: "1530619977"
+  location: https://www.techdirt.com/podcast.xml
+  last-seen: "1561441512"
   date: "0"
   media-type: application/octet-stream
-  status: "2"
-  description: a microcast with Manton Reece
+  status: "1"
+  description: The Techdirt Podcast, hosted by Michael Masnick.
   subtitle: []
   summary: []
-  lang: en-US
-  copyright: "\xA9 2016 Manton Reece"
+  lang: en
+  copyright: All rights reserved
   image: []
-  post-time: "1526411977"
+  post-time: "1560886316"
+- '@attributes':
+    type: podcast-feed
+  title: Tech Business History
+  genre: []
+  artist: Charles Miller
+  album: []
+  location: https://feeds.buzzsprout.com/281456.rss
+  last-seen: "1561441490"
+  date: "0"
+  media-type: application/octet-stream
+  status: "1"
+  description: 'TBH explores how tech businesses got started, how they succeeded or
+    failed and what it was like to work in them. Presenter Charles Miller is a former
+    BBC producer who specialised in documentaries about technology and business. In
+    TBH he continues his research, meeting key people whose stories tell us how technology
+    found its way into our lives. In this first series, he talks to those behind the
+    dot com boom and bust in the UK in the late 1990s.  '
+  subtitle: []
+  summary: []
+  lang: en-us
+  copyright: "\u2117 & \xA9 2019 Tech Business History"
+  image: https://storage.buzzsprout.com/variants/JYiSPvDfxUjFRuH4L2b3NN9G/8d66eb17bb7d02ca4856ab443a78f2148cafbb129f58a3c81282007c6fe24ff2?.jpg
+  post-time: "1561441476"
+- '@attributes':
+    type: podcast-feed
+  title: The Art of Manliness
+  genre: []
+  artist: The Art of Manliness
+  album: []
+  location: https://rss.art19.com/art-of-manliness
+  last-seen: "1561441514"
+  date: "0"
+  media-type: application/octet-stream
+  status: "1"
+  description: "Podcast by The Art of Manliness\n    "
+  subtitle: []
+  summary: []
+  lang: en
+  copyright: "\xA9 All rights reserved"
+  image: []
+  post-time: "1551089658"
 - '@attributes':
     type: podcast-feed
   title: Adam Ruins Everything
@@ -580,24 +603,6 @@
   copyright: 2018 truTV, Turner Broadcasting Inc.
   image: http://pg-act-90.s3-us-west-2.amazonaws.com/90/artwork/show.94.audioart.original.5sshp.jpg
   post-time: "1520469841"
-- '@attributes':
-    type: podcast-feed
-  title: The Art of Manliness
-  genre: []
-  artist: The Art of Manliness
-  album: []
-  location: https://rss.art19.com/art-of-manliness
-  last-seen: "1561182326"
-  date: "0"
-  media-type: application/octet-stream
-  status: "1"
-  description: "Podcast by The Art of Manliness\n    "
-  subtitle: []
-  summary: []
-  lang: en
-  copyright: "\xA9 All rights reserved"
-  image: []
-  post-time: "1551089658"
 - '@attributes':
     type: podcast-feed
   title: The Retrobits Podcast
@@ -641,7 +646,7 @@
   artist: Brian McCullough
   album: []
   location: http://feeds.feedburner.com/InternetHistoryPodcast
-  last-seen: "1561182310"
+  last-seen: "1561441487"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -654,31 +659,12 @@
   post-time: "1560695918"
 - '@attributes':
     type: podcast-feed
-  title: 'RPGMP3: Yorkton Gamer Guild Actual Play Podcast'
-  genre: []
-  artist: Hal
-  album: []
-  location: http://rpgmp3.com/v5/category/group/yorktongamerguild/feed/
-  last-seen: "1561182315"
-  date: "0"
-  media-type: application/octet-stream
-  status: "1"
-  description: Epic tabletop RPGs played through by experienced players and gamesmasters.
-    Listen to every cut, every spell, every roll!
-  subtitle: []
-  summary: []
-  lang: en-US
-  copyright: "\xA9 Copyright 2004-2018 RPGMP3.com"
-  image: []
-  post-time: "1541046017"
-- '@attributes':
-    type: podcast-feed
   title: 'RPGMP3: RPGMP3 Main Group Tabletop Gaming Podcast'
   genre: []
   artist: Hal
   album: []
   location: http://rpgmp3.com/v5/category/group/rpgmp3/feed/
-  last-seen: "1561182325"
+  last-seen: "1561441497"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -697,7 +683,7 @@
   artist: Hal
   album: []
   location: http://rpgmp3.com/v5/feed/podcast/
-  last-seen: "1561182314"
+  last-seen: "1561441503"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -711,12 +697,31 @@
   post-time: "1561168748"
 - '@attributes':
     type: podcast-feed
+  title: 'RPGMP3: Yorkton Gamer Guild Actual Play Podcast'
+  genre: []
+  artist: Hal
+  album: []
+  location: http://rpgmp3.com/v5/category/group/yorktongamerguild/feed/
+  last-seen: "1561441492"
+  date: "0"
+  media-type: application/octet-stream
+  status: "1"
+  description: Epic tabletop RPGs played through by experienced players and gamesmasters.
+    Listen to every cut, every spell, every roll!
+  subtitle: []
+  summary: []
+  lang: en-US
+  copyright: "\xA9 Copyright 2004-2018 RPGMP3.com"
+  image: []
+  post-time: "1541046017"
+- '@attributes':
+    type: podcast-feed
   title: RPGMP3 Actual Play Podcast
   genre: []
   artist: Hal
   album: []
   location: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
-  last-seen: "1561182330"
+  last-seen: "1561441508"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -735,7 +740,7 @@
   artist: Late Night Toast
   album: []
   location: http://latenighttoast.com/xml-feed/
-  last-seen: "1561182306"
+  last-seen: "1561441485"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -755,7 +760,7 @@
   artist: Will Smith, Norman Chan, Jeremy Williams
   album: []
   location: http://www.tested.com/podcast-xml/this-is-only-a-test/
-  last-seen: "1561182332"
+  last-seen: "1561441515"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -773,7 +778,7 @@
   artist: Linux Journal
   album: []
   location: https://www.linuxjournal.com/podcast.xml
-  last-seen: "1561182302"
+  last-seen: "1561441484"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -791,7 +796,7 @@
   artist: Eddie Hinkle
   album: []
   location: http://feeds.myurlis.com/podcast
-  last-seen: "1561182301"
+  last-seen: "1561441484"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -812,7 +817,7 @@
   artist: ABC Radio National
   album: []
   location: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
-  last-seen: "1561182305"
+  last-seen: "1561441482"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -823,7 +828,7 @@
   lang: en-AU
   copyright: Copyright 2019, Australian Broadcasting Corporation. All Rights Reserved.
   image: http://www.abc.net.au/radionational/image/7417206-1x1-1400x1400.jpg
-  post-time: "1560821434"
+  post-time: "1561426200"
 - '@attributes':
     type: podcast-feed
   title: Future Tense - ABC RN
@@ -831,7 +836,7 @@
   artist: ABC Radio National
   album: []
   location: https://www.abc.net.au/radionational/feed/2883726/podcast.xml
-  last-seen: "1561182321"
+  last-seen: "1561441486"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -868,7 +873,7 @@
   artist: Stephen Fry | SamFry Ltd
   album: []
   location: https://rss.acast.com/greatleapyears
-  last-seen: "1561182295"
+  last-seen: "1561441488"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -906,7 +911,7 @@
   artist: Relay FM
   album: []
   location: https://www.relay.fm/automators/feed
-  last-seen: "1561182306"
+  last-seen: "1561441491"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -920,43 +925,22 @@
   post-time: "1561141800"
 - '@attributes':
     type: podcast-feed
-  title: CHM Live
+  title: Percolator
   genre: []
-  artist: Computer History Museum
+  artist: Aaron Parecki
   album: []
-  location: http://www.computerhistory.org/podcast/chm-live/rss/
-  last-seen: "1561182315"
+  location: https://percolator.today/podcast.xml
+  last-seen: "1561441486"
   date: "0"
   media-type: application/octet-stream
   status: "1"
-  description: The CHM Live podcast brings the best of our events to your ears. We
-    explore the ongoing transformation of computing and its impact on society.
+  description: []
   subtitle: []
   summary: []
-  lang: en-us
-  copyright: Computer History Museum 2018
-  image: https://www.computerhistory.org/podcast/_media/img/rss/chm_podcasts_live_3000x3000.png
-  post-time: "1561181724"
-- '@attributes':
-    type: podcast-feed
-  title: From the Archives
-  genre: []
-  artist: Computer History Museum
-  album: []
-  location: http://www.computerhistory.org/podcast/from-the-archives/rss/
-  last-seen: "1561182310"
-  date: "0"
-  media-type: application/octet-stream
-  status: "1"
-  description: "From the Archives bring you a curated tour of CHM\u2019s extensive
-    media holdings. Hear early lectures and talks given by computing pioneers, and
-    discover interviews with some of technology's most influential and creative people."
-  subtitle: []
-  summary: []
-  lang: en-us
-  copyright: Computer History Museum 2018
-  image: https://www.computerhistory.org/podcast/_media/img/rss/chm_podcasts_archives_3000x3000.png
-  post-time: "1561178954"
+  lang: en-US
+  copyright: 2019 Aaron Parecki
+  image: https://percolator.today/images/cover.jpg
+  post-time: "1524009600"
 - '@attributes':
     type: podcast-feed
   title: Core Intuition
@@ -964,7 +948,7 @@
   artist: Daniel Jalkut and Manton Reece
   album: []
   location: https://coreint.org/podcast.xml
-  last-seen: "1561182320"
+  last-seen: "1561441513"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -975,6 +959,42 @@
   copyright: []
   image: http://coreint.org/images/newlogo_1400.png
   post-time: "1561057755"
+- '@attributes':
+    type: podcast-feed
+  title: indieweb on Huffduffer
+  genre: []
+  artist: Unknown
+  album: []
+  location: https://huffduffer.com/tags/indieweb/rss
+  last-seen: "1561441488"
+  date: "0"
+  media-type: application/octet-stream
+  status: "1"
+  description: indieweb
+  subtitle: []
+  summary: []
+  lang: en
+  copyright: []
+  image: []
+  post-time: "1525460194"
+- '@attributes':
+    type: podcast-feed
+  title: jekyll on Huffduffer
+  genre: []
+  artist: Unknown
+  album: []
+  location: https://huffduffer.com/search/rss?q=jekyll
+  last-seen: "1561441487"
+  date: "0"
+  media-type: application/octet-stream
+  status: "1"
+  description: jekyll
+  subtitle: []
+  summary: []
+  lang: en
+  copyright: []
+  image: []
+  post-time: "1487440225"
 - '@attributes':
     type: podcast-feed
   title: BitJam Podcast
@@ -995,6 +1015,24 @@
   post-time: "1525113157"
 - '@attributes':
     type: podcast-feed
+  title: The Linux Link Tech Show Opus Feed
+  genre: []
+  artist: Unknown
+  album: []
+  location: http://feeds.feedburner.com/TheLinuxLinkTechShowOpusFeed
+  last-seen: "1561441483"
+  date: "0"
+  media-type: application/octet-stream
+  status: "1"
+  description: The Linux Link Tech Show
+  subtitle: []
+  summary: []
+  lang: en-us
+  copyright: Creative Commons License Some Rights Reserved
+  image: []
+  post-time: "1560954600"
+- '@attributes':
+    type: podcast-feed
   title: web standards on Huffduffer
   genre: []
   artist: Unknown
@@ -1013,22 +1051,22 @@
   post-time: "1524821487"
 - '@attributes':
     type: podcast-feed
-  title: The Linux Link Tech Show Opus Feed
+  title: indieweb on Huffduffer
   genre: []
   artist: Unknown
   album: []
-  location: http://feeds.feedburner.com/TheLinuxLinkTechShowOpusFeed
-  last-seen: "1561182297"
+  location: https://huffduffer.com/search/rss?q=indieweb&sort=date
+  last-seen: "1561441487"
   date: "0"
   media-type: application/octet-stream
   status: "1"
-  description: The Linux Link Tech Show
+  description: indieweb
   subtitle: []
   summary: []
-  lang: en-us
-  copyright: Creative Commons License Some Rights Reserved
+  lang: en
+  copyright: []
   image: []
-  post-time: "1560954600"
+  post-time: "1528735323"
 - '@attributes':
     type: podcast-feed
   title: snarfed on Huffduffer
@@ -1047,60 +1085,6 @@
   copyright: []
   image: []
   post-time: "1524116169"
-- '@attributes':
-    type: podcast-feed
-  title: indieweb on Huffduffer
-  genre: []
-  artist: Unknown
-  album: []
-  location: https://huffduffer.com/search/rss?q=indieweb&sort=date
-  last-seen: "1561182306"
-  date: "0"
-  media-type: application/octet-stream
-  status: "1"
-  description: indieweb
-  subtitle: []
-  summary: []
-  lang: en
-  copyright: []
-  image: []
-  post-time: "1528735323"
-- '@attributes':
-    type: podcast-feed
-  title: indieweb on Huffduffer
-  genre: []
-  artist: Unknown
-  album: []
-  location: https://huffduffer.com/tags/indieweb/rss
-  last-seen: "1561182302"
-  date: "0"
-  media-type: application/octet-stream
-  status: "1"
-  description: indieweb
-  subtitle: []
-  summary: []
-  lang: en
-  copyright: []
-  image: []
-  post-time: "1525460194"
-- '@attributes':
-    type: podcast-feed
-  title: jekyll on Huffduffer
-  genre: []
-  artist: Unknown
-  album: []
-  location: https://huffduffer.com/search/rss?q=jekyll
-  last-seen: "1561182309"
-  date: "0"
-  media-type: application/octet-stream
-  status: "1"
-  description: jekyll
-  subtitle: []
-  summary: []
-  lang: en
-  copyright: []
-  image: []
-  post-time: "1487440225"
 - '@attributes':
     type: podcast-feed
   title: web design on Huffduffer
@@ -1126,7 +1110,7 @@
   artist: PodcastOne Australia
   album: []
   location: http://handa.hamishandandy.libsynpro.com/rss
-  last-seen: "1561182307"
+  last-seen: "1561441505"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -1148,7 +1132,7 @@
   artist: Jason Scott
   album: []
   location: http://textfiles.libsyn.com/rss
-  last-seen: "1561182308"
+  last-seen: "1561441490"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -1202,7 +1186,7 @@
   artist: 5by5
   album: []
   location: http://feeds.5by5.tv/bigwebshow
-  last-seen: "1561182299"
+  last-seen: "1561441487"
   date: "0"
   media-type: application/octet-stream
   status: "1"
@@ -1236,6 +1220,63 @@
   post-time: "1521278969"
 - '@attributes':
     type: podcast-feed
+  title: Timetable
+  genre: []
+  artist: Manton Reece
+  album: []
+  location: http://timetable.manton.org/feed/podcast
+  last-seen: "1530619977"
+  date: "0"
+  media-type: application/octet-stream
+  status: "2"
+  description: a microcast with Manton Reece
+  subtitle: []
+  summary: []
+  lang: en-US
+  copyright: "\xA9 2016 Manton Reece"
+  image: []
+  post-time: "1526411977"
+- '@attributes':
+    type: podcast-feed
+  title: From the Archives
+  genre: []
+  artist: Computer History Museum
+  album: []
+  location: http://www.computerhistory.org/podcast/from-the-archives/rss/
+  last-seen: "1561441488"
+  date: "0"
+  media-type: application/octet-stream
+  status: "1"
+  description: "From the Archives bring you a curated tour of CHM\u2019s extensive
+    media holdings. Hear early lectures and talks given by computing pioneers, and
+    discover interviews with some of technology's most influential and creative people."
+  subtitle: []
+  summary: []
+  lang: en-us
+  copyright: Computer History Museum 2018
+  image: https://www.computerhistory.org/podcast/_media/img/rss/chm_podcasts_archives_3000x3000.png
+  post-time: "1561439324"
+- '@attributes':
+    type: podcast-feed
+  title: CHM Live
+  genre: []
+  artist: Computer History Museum
+  album: []
+  location: http://www.computerhistory.org/podcast/chm-live/rss/
+  last-seen: "1561441488"
+  date: "0"
+  media-type: application/octet-stream
+  status: "1"
+  description: The CHM Live podcast brings the best of our events to your ears. We
+    explore the ongoing transformation of computing and its impact on society.
+  subtitle: []
+  summary: []
+  lang: en-us
+  copyright: Computer History Museum 2018
+  image: https://www.computerhistory.org/podcast/_media/img/rss/chm_podcasts_live_3000x3000.png
+  post-time: "1561437259"
+- '@attributes':
+    type: podcast-feed
   title: Completely Unnecessary Podcast
   genre: []
   artist: Pat Contri
@@ -1252,45 +1293,4 @@
   copyright: Copyright 2017. All rights reserved.
   image: []
   post-time: "1529076766"
-- '@attributes':
-    type: podcast-feed
-  title: Tech Business History
-  genre: []
-  artist: Charles Miller
-  album: []
-  location: https://feeds.buzzsprout.com/281456.rss
-  last-seen: "1561182299"
-  date: "0"
-  media-type: application/octet-stream
-  status: "1"
-  description: 'TBH explores how tech businesses got started, how they succeeded or
-    failed and what it was like to work in them. Presenter Charles Miller is a former
-    BBC producer who specialised in documentaries about technology and business. In
-    TBH he continues his research, meeting key people whose stories tell us how technology
-    found its way into our lives. In this first series, he talks to those behind the
-    dot com boom and bust in the UK in the late 1990s.  '
-  subtitle: []
-  summary: []
-  lang: en-us
-  copyright: "\u2117 & \xA9 2019 Tech Business History"
-  image: https://storage.buzzsprout.com/variants/JYiSPvDfxUjFRuH4L2b3NN9G/8d66eb17bb7d02ca4856ab443a78f2148cafbb129f58a3c81282007c6fe24ff2?.jpg
-  post-time: "1561182289"
-- '@attributes':
-    type: podcast-feed
-  title: Percolator
-  genre: []
-  artist: Aaron Parecki
-  album: []
-  location: https://percolator.today/podcast.xml
-  last-seen: "1561182309"
-  date: "0"
-  media-type: application/octet-stream
-  status: "1"
-  description: []
-  subtitle: []
-  summary: []
-  lang: en-US
-  copyright: 2019 Aaron Parecki
-  image: https://percolator.today/images/cover.jpg
-  post-time: "1524009600"
 ...

@@ -1,27 +1,5 @@
 ---
 - type: entry
-  published: "2018-02-19T13:39:04+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough @brianmcc
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/8snCJgsiB9M/Announcing_the_Podcast_Book.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/Announcing_the_Podcast_Book.mp3
-      name: Announcing the Podcast Book!
-      author: Brian McCullough @brianmcc
-      content: A history of the Internet Era from Netscape to the iPad. Oral histories
-        from the people that made the technology happen. "Chapter" episodes providing
-        background on the history of the companies.
-  content:
-    text: ' \ud83c\udfa7 Listened to Announcing the Podcast Book! by Brian McCullough
-      @brianmcc From Internet History Podcast'
-- type: entry
   published: "2018-02-19T12:31:46+00:00"
   category:
   - scrobble
@@ -44,7 +22,7 @@
     text: ' \ud83c\udfa7 Listened to 110. Hunter Walk Talks Second Life, Google Adsense
       and YouTube by Brian McCullough @brianmcc From Internet History Podcast'
 - type: entry
-  published: "2018-02-19T05:40:02+00:00"
+  published: "2018-02-19T13:27:36+00:00"
   category:
   - scrobble
   - audio
@@ -55,16 +33,16 @@
       url: http://feeds.feedburner.com/InternetHistoryPodcast
       photo: ""
       audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/j5zauLZ8hzo/109._The_History_of_Sierra_Online_with_Laine_Nooney.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/109_The_History_of_Sierra_Online_with_Laine_Nooney.mp3
-      name: 109. The History of Sierra Online with Laine Nooney
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/hZ_LmSUE1JE/111._CompuServe_Founder_Jeff_Wilkins.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/111_CompuServe_Founder_Jeff_Wilkins.mp3
+      name: 111. CompuServe Founder Jeff Wilkins
       author: Brian McCullough @brianmcc
       content: A history of the Internet Era from Netscape to the iPad. Oral histories
         from the people that made the technology happen. "Chapter" episodes providing
         background on the history of the companies.
   content:
-    text: ' \ud83c\udfa7 Listened to 109. The History of Sierra Online with Laine
-      Nooney by Brian McCullough @brianmcc From Internet History Podcast'
+    text: ' \ud83c\udfa7 Listened to 111. CompuServe Founder Jeff Wilkins by Brian
+      McCullough @brianmcc From Internet History Podcast'
 - type: entry
   published: "2018-02-19T15:37:55+00:00"
   category:
@@ -110,7 +88,7 @@
     text: ' \ud83c\udfa7 Listened to 108. BabyCenter.com Founders Mark Selcow and
       Matt Glickman by Brian McCullough @brianmcc From Internet History Podcast'
 - type: entry
-  published: "2018-02-19T13:27:36+00:00"
+  published: "2018-02-19T13:39:04+00:00"
   category:
   - scrobble
   - audio
@@ -121,14 +99,36 @@
       url: http://feeds.feedburner.com/InternetHistoryPodcast
       photo: ""
       audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/hZ_LmSUE1JE/111._CompuServe_Founder_Jeff_Wilkins.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/111_CompuServe_Founder_Jeff_Wilkins.mp3
-      name: 111. CompuServe Founder Jeff Wilkins
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/8snCJgsiB9M/Announcing_the_Podcast_Book.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/Announcing_the_Podcast_Book.mp3
+      name: Announcing the Podcast Book!
       author: Brian McCullough @brianmcc
       content: A history of the Internet Era from Netscape to the iPad. Oral histories
         from the people that made the technology happen. "Chapter" episodes providing
         background on the history of the companies.
   content:
-    text: ' \ud83c\udfa7 Listened to 111. CompuServe Founder Jeff Wilkins by Brian
-      McCullough @brianmcc From Internet History Podcast'
+    text: ' \ud83c\udfa7 Listened to Announcing the Podcast Book! by Brian McCullough
+      @brianmcc From Internet History Podcast'
+- type: entry
+  published: "2018-02-19T05:40:02+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/j5zauLZ8hzo/109._The_History_of_Sierra_Online_with_Laine_Nooney.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/109_The_History_of_Sierra_Online_with_Laine_Nooney.mp3
+      name: 109. The History of Sierra Online with Laine Nooney
+      author: Brian McCullough @brianmcc
+      content: A history of the Internet Era from Netscape to the iPad. Oral histories
+        from the people that made the technology happen. "Chapter" episodes providing
+        background on the history of the companies.
+  content:
+    text: ' \ud83c\udfa7 Listened to 109. The History of Sierra Online with Laine
+      Nooney by Brian McCullough @brianmcc From Internet History Podcast'
 ...

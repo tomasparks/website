@@ -45,6 +45,54 @@
   content:
     text: ' \ud83c\udfa7 Listened to The Radio Radio Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
 - type: entry
+  published: "2018-10-21T11:34:51+00:00"
+  category:
+  - scrobble
+  - audio
+  - Stephen Fry's Great Leap Years
+  - Stephen Fry | SamFry Ltd
+  listen-of:
+    h-cite:
+      url: https://rss.acast.com/greatleapyears
+      photo: ""
+      audio:
+      - https://media.acast.com/greatleapyears/raisingthevailandcatchingthetube/media.mp3
+      - http://archive.org/download/Stephen_Frys_Great_Leap_Years-Podcast-by-Stephen_Fry/4_Raising_the_Vail_and_Catching_the_Tube.mp3
+      name: 4 - Raising the Vail and Catching the Tube
+      author: Stephen Fry | SamFry Ltd
+      content: The sperm whale, Bell Labs, vacuum tubes and the dawning age of information
+        at the speed of light.Researched, written &amp; read by&nbsp;Stephen Fry.
+        Music composed and conducted by&nbsp;Guy Farley&nbsp;with The Chamber Orchestra
+        of London.
+  content:
+    text: ' \ud83c\udfa7 Listened to 4 - Raising the Vail and Catching the Tube by
+      Stephen Fry | SamFry Ltd From Stephen Fry''s Great Leap Years'
+- type: entry
+  published: "2018-10-21T12:34:34+00:00"
+  category:
+  - scrobble
+  - audio
+  - Stephen Fry's Great Leap Years
+  - Stephen Fry | SamFry Ltd
+  listen-of:
+    h-cite:
+      url: https://rss.acast.com/greatleapyears
+      photo: ""
+      audio:
+      - https://media.acast.com/greatleapyears/5-letsplaymonopoly/media.mp3
+      - http://archive.org/download/Stephen_Frys_Great_Leap_Years-Podcast-by-Stephen_Fry/5_Lets_Play_Monopoly.mp3
+      name: 5 - Let's Play Monopoly
+      author: Stephen Fry | SamFry Ltd
+      content: The War of the Currents and a new type of person arises, an almost
+        wholly American invention - the salesman. The foundations are set for the
+        rise of one of the mightiest company's the world had ever seen - International
+        Business Machines.&nbsp;Or as we all know it today, IBM. Researched, written
+        &amp; read by&nbsp;Stephen Fry. Music composed and conducted by&nbsp;Guy Farley&nbsp;with
+        The Chamber Orchestra of London
+  content:
+    text: ' \ud83c\udfa7 Listened to 5 - Let''s Play Monopoly by Stephen Fry | SamFry
+      Ltd From Stephen Fry''s Great Leap Years'
+- type: entry
   published: "2018-10-21T04:17:12+00:00"
   category:
   - scrobble
@@ -98,31 +146,6 @@
     text: ' \ud83c\udfa7 Listened to 2 - A Faustian Pact by Stephen Fry | SamFry Ltd
       From Stephen Fry''s Great Leap Years'
 - type: entry
-  published: "2018-10-21T12:34:34+00:00"
-  category:
-  - scrobble
-  - audio
-  - Stephen Fry's Great Leap Years
-  - Stephen Fry | SamFry Ltd
-  listen-of:
-    h-cite:
-      url: https://rss.acast.com/greatleapyears
-      photo: ""
-      audio:
-      - https://media.acast.com/greatleapyears/5-letsplaymonopoly/media.mp3
-      - http://archive.org/download/Stephen_Frys_Great_Leap_Years-Podcast-by-Stephen_Fry/5_Lets_Play_Monopoly.mp3
-      name: 5 - Let's Play Monopoly
-      author: Stephen Fry | SamFry Ltd
-      content: The War of the Currents and a new type of person arises, an almost
-        wholly American invention - the salesman. The foundations are set for the
-        rise of one of the mightiest company's the world had ever seen - International
-        Business Machines.&nbsp;Or as we all know it today, IBM. Researched, written
-        &amp; read by&nbsp;Stephen Fry. Music composed and conducted by&nbsp;Guy Farley&nbsp;with
-        The Chamber Orchestra of London
-  content:
-    text: ' \ud83c\udfa7 Listened to 5 - Let''s Play Monopoly by Stephen Fry | SamFry
-      Ltd From Stephen Fry''s Great Leap Years'
-- type: entry
   published: "2018-10-21T06:12:29+00:00"
   category:
   - scrobble
@@ -146,29 +169,6 @@
   content:
     text: ' \ud83c\udfa7 Listened to 3 - Bells, Nobels, More Bells and Prizes by Stephen
       Fry | SamFry Ltd From Stephen Fry''s Great Leap Years'
-- type: entry
-  published: "2018-10-21T11:34:51+00:00"
-  category:
-  - scrobble
-  - audio
-  - Stephen Fry's Great Leap Years
-  - Stephen Fry | SamFry Ltd
-  listen-of:
-    h-cite:
-      url: https://rss.acast.com/greatleapyears
-      photo: ""
-      audio:
-      - https://media.acast.com/greatleapyears/raisingthevailandcatchingthetube/media.mp3
-      - http://archive.org/download/Stephen_Frys_Great_Leap_Years-Podcast-by-Stephen_Fry/4_Raising_the_Vail_and_Catching_the_Tube.mp3
-      name: 4 - Raising the Vail and Catching the Tube
-      author: Stephen Fry | SamFry Ltd
-      content: The sperm whale, Bell Labs, vacuum tubes and the dawning age of information
-        at the speed of light.Researched, written &amp; read by&nbsp;Stephen Fry.
-        Music composed and conducted by&nbsp;Guy Farley&nbsp;with The Chamber Orchestra
-        of London.
-  content:
-    text: ' \ud83c\udfa7 Listened to 4 - Raising the Vail and Catching the Tube by
-      Stephen Fry | SamFry Ltd From Stephen Fry''s Great Leap Years'
 - type: entry
   published: "2018-10-21T03:35:25+00:00"
   category:

@@ -1,6 +1,6 @@
 ---
 - type: entry
-  published: "2018-05-30T20:39:18+00:00"
+  published: "2018-05-30T23:54:44+00:00"
   category:
   - scrobble
   - audio
@@ -11,120 +11,16 @@
       url: https://www.techdirt.com/podcast.xml
       photo: ""
       audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/297746401-techdirt-can-we-really-colonize-mars.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/297746401-techdirt-can-we-really-colonize-mars.mp3
-      name: Can We Really Colonize Mars?
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/295566457-techdirt-supporting-creators-with-patreon-founder-jack-conte.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/295566457-techdirt-supporting-creators-with-patreon-founder-jack-conte.mp3
+      name: Supporting Creators, With Patreon Founder Jack Conte
       author: Techdirt
-      content: "Elon Musk got plenty of attention recently for announcing his plans
-        to colonize Mars. But that's not exactly a new idea \u2014 so we wondered
-        if it was really a different, exciting and realistic plan, or just a reiteration
-        of the standard far-flung dream. To answer that question, we brought in three
-        experts: Amy Shira Teitel (a space and flight historian and creator of YouTube's
-        Vintage Space videos), JPL's Fred Calef (a Mars geologist and \"keeper of
-        the maps\" for Mars rovers), and the New Space Intiative's Tanya Harrison
-        (who worked on Curiosity and several other Mars missions). The result was
-        a fascinating discussion about Mars and whether or not we're actually headed
-        there any time soon."
+      content: It's our 100th episode! And to celebrate, we're not only talking with
+        Patreon founder Jack Conte, we're announcing that the Techdirt Podcast is
+        now on Patreon too!
   content:
-    text: ' \ud83c\udfa7 Listened to Can We Really Colonize Mars? by Techdirt From
-      Techdirt'
-- type: entry
-  published: "2018-05-30T19:20:14+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/298856416-techdirt-is-the-internet-of-things-the-future-a-total-mess-or-both.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/298856416-techdirt-is-the-internet-of-things-the-future-a-total-mess-or-both.mp3
-      name: Is The Internet Of Things The Future, A Total Mess, Or Both?
-      author: Techdirt
-      content: "The internet of things has been taking plenty of flack ever since
-        the first time someone floated the idea of a connected fridge or some-such
-        in the 90s \u2014 but despite the knee-jerk instinct to scoff at some things,
-        the truth is there are all sorts of interesting possibilities emerging from
-        all these \"pointless\" connected devices. Of course, there are also some
-        serious security concerns... This week, we discuss IoT and what the ever-increasing
-        presence of such devices means for the future."
-  content:
-    text: ' \ud83c\udfa7 Listened to Is The Internet Of Things The Future, A Total
-      Mess, Or Both? by Techdirt From Techdirt'
-- type: entry
-  published: "2018-05-30T10:40:46+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/304333875-techdirt-an-office-in-a-bag.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/304333875-techdirt-an-office-in-a-bag.mp3
-      name: An Office In A Bag
-      author: Techdirt
-      content: "After years of working on the go, Mike has the mobile office down
-        to a science \u2014 and wherever he sets it up, nearby gadget geeks have plenty
-        of questions and comments. So this week we're joined by Espree Devora, host
-        of the podcasts Women In Tech and We Are L.A. Tech, for a fun discussion about
-        today's high-tech offices-in-bags."
-  content:
-    text: ' \ud83c\udfa7 Listened to An Office In A Bag by Techdirt From Techdirt'
-- type: entry
-  published: "2018-05-30T22:51:26+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/296562232-techdirt-where-do-you-get-your-news.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/296562232-techdirt-where-do-you-get-your-news.mp3
-      name: Where Do You Get Your News?
-      author: Techdirt
-      content: The news industry has been in an ongoing state of upheaval ever since
-        the dawn of the internet. In addition to the many ways that technology changes
-        reporting and publishing, there has also been a profound effect on how people
-        find their news. This week, we step away from the big debate about echo chambers
-        and filter bubbles, and talk about evolving news-finding habits and what they
-        mean for the industry.
-  content:
-    text: ' \ud83c\udfa7 Listened to Where Do You Get Your News? by Techdirt From
-      Techdirt'
-- type: entry
-  published: "2018-05-30T18:29:19+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/301923082-techdirt-the-pros-and-cons-of-pros-and-cons.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/301923082-techdirt-the-pros-and-cons-of-pros-and-cons.mp3
-      name: The Pros And Cons Of Pros And Cons
-      author: Techdirt
-      content: On the surface, the idea of "pro and con" debates seems like a good
-        way to ensure an issue is fully explored. But is it truly a productive approach?
-        This week, we debate the nature of debates and possible alternatives to the
-        adversarial approach.
-  content:
-    text: ' \ud83c\udfa7 Listened to The Pros And Cons Of Pros And Cons by Techdirt
-      From Techdirt'
+    text: ' \ud83c\udfa7 Listened to Supporting Creators, With Patreon Founder Jack
+      Conte by Techdirt From Techdirt'
 - type: entry
   published: "2018-05-30T06:27:31+00:00"
   category:
@@ -201,6 +97,132 @@
   content:
     text: ' \ud83c\udfa7 Listened to The CES 2017 Post-Mortem by Techdirt From Techdirt'
 - type: entry
+  published: "2018-05-30T18:29:19+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/301923082-techdirt-the-pros-and-cons-of-pros-and-cons.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/301923082-techdirt-the-pros-and-cons-of-pros-and-cons.mp3
+      name: The Pros And Cons Of Pros And Cons
+      author: Techdirt
+      content: On the surface, the idea of "pro and con" debates seems like a good
+        way to ensure an issue is fully explored. But is it truly a productive approach?
+        This week, we debate the nature of debates and possible alternatives to the
+        adversarial approach.
+  content:
+    text: ' \ud83c\udfa7 Listened to The Pros And Cons Of Pros And Cons by Techdirt
+      From Techdirt'
+- type: entry
+  published: "2018-05-30T10:40:46+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/304333875-techdirt-an-office-in-a-bag.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/304333875-techdirt-an-office-in-a-bag.mp3
+      name: An Office In A Bag
+      author: Techdirt
+      content: "After years of working on the go, Mike has the mobile office down
+        to a science \u2014 and wherever he sets it up, nearby gadget geeks have plenty
+        of questions and comments. So this week we're joined by Espree Devora, host
+        of the podcasts Women In Tech and We Are L.A. Tech, for a fun discussion about
+        today's high-tech offices-in-bags."
+  content:
+    text: ' \ud83c\udfa7 Listened to An Office In A Bag by Techdirt From Techdirt'
+- type: entry
+  published: "2018-05-30T22:51:26+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/296562232-techdirt-where-do-you-get-your-news.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/296562232-techdirt-where-do-you-get-your-news.mp3
+      name: Where Do You Get Your News?
+      author: Techdirt
+      content: The news industry has been in an ongoing state of upheaval ever since
+        the dawn of the internet. In addition to the many ways that technology changes
+        reporting and publishing, there has also been a profound effect on how people
+        find their news. This week, we step away from the big debate about echo chambers
+        and filter bubbles, and talk about evolving news-finding habits and what they
+        mean for the industry.
+  content:
+    text: ' \ud83c\udfa7 Listened to Where Do You Get Your News? by Techdirt From
+      Techdirt'
+- type: entry
+  published: "2018-05-30T19:20:14+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/298856416-techdirt-is-the-internet-of-things-the-future-a-total-mess-or-both.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/298856416-techdirt-is-the-internet-of-things-the-future-a-total-mess-or-both.mp3
+      name: Is The Internet Of Things The Future, A Total Mess, Or Both?
+      author: Techdirt
+      content: "The internet of things has been taking plenty of flack ever since
+        the first time someone floated the idea of a connected fridge or some-such
+        in the 90s \u2014 but despite the knee-jerk instinct to scoff at some things,
+        the truth is there are all sorts of interesting possibilities emerging from
+        all these \"pointless\" connected devices. Of course, there are also some
+        serious security concerns... This week, we discuss IoT and what the ever-increasing
+        presence of such devices means for the future."
+  content:
+    text: ' \ud83c\udfa7 Listened to Is The Internet Of Things The Future, A Total
+      Mess, Or Both? by Techdirt From Techdirt'
+- type: entry
+  published: "2018-05-30T20:39:18+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/297746401-techdirt-can-we-really-colonize-mars.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/297746401-techdirt-can-we-really-colonize-mars.mp3
+      name: Can We Really Colonize Mars?
+      author: Techdirt
+      content: "Elon Musk got plenty of attention recently for announcing his plans
+        to colonize Mars. But that's not exactly a new idea \u2014 so we wondered
+        if it was really a different, exciting and realistic plan, or just a reiteration
+        of the standard far-flung dream. To answer that question, we brought in three
+        experts: Amy Shira Teitel (a space and flight historian and creator of YouTube's
+        Vintage Space videos), JPL's Fred Calef (a Mars geologist and \"keeper of
+        the maps\" for Mars rovers), and the New Space Intiative's Tanya Harrison
+        (who worked on Curiosity and several other Mars missions). The result was
+        a fascinating discussion about Mars and whether or not we're actually headed
+        there any time soon."
+  content:
+    text: ' \ud83c\udfa7 Listened to Can We Really Colonize Mars? by Techdirt From
+      Techdirt'
+- type: entry
   published: "2018-05-30T03:53:55+00:00"
   category:
   - scrobble
@@ -223,26 +245,4 @@
         to discuss what's happening at the FCC and what needs to be done in response.
   content:
     text: ' \ud83c\udfa7 Listened to The New FCC by Techdirt From Techdirt'
-- type: entry
-  published: "2018-05-30T23:54:44+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/295566457-techdirt-supporting-creators-with-patreon-founder-jack-conte.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/295566457-techdirt-supporting-creators-with-patreon-founder-jack-conte.mp3
-      name: Supporting Creators, With Patreon Founder Jack Conte
-      author: Techdirt
-      content: It's our 100th episode! And to celebrate, we're not only talking with
-        Patreon founder Jack Conte, we're announcing that the Techdirt Podcast is
-        now on Patreon too!
-  content:
-    text: ' \ud83c\udfa7 Listened to Supporting Creators, With Patreon Founder Jack
-      Conte by Techdirt From Techdirt'
 ...

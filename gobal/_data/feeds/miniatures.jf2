@@ -139,6 +139,37 @@
 },
 	{
   "type": "entry",
+  "published": "2019-05-14T00:00:00+10:00",
+  "url": "https://tomasparks.name/miniatures/build-log/work-area/2019/05/14/setup-workarea.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "https://tomasparks.name/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "Settting up my working area",
+				"summary": {
+					"html": "<p>I have two tables and a wire storage shelf arranged in a U-shape.\nI am using a mattress as a wall divider.</p>\n",
+					"value": "I have two tables and a wire storage shelf arranged in a U-shape.\nI am using a mattress as a wall divider.\n"
+				},
+							"value": "I have two tables and a wire storage shelf arranged in a U-shape.\nI am using a mattress as a wall divider.\n",
+"category": ["work-area"],
+"tags": [],
+
+
+
+
+
+
+
+
+
+
+"syndication": []
+},
+	{
+  "type": "entry",
   "published": "2019-05-10T00:00:00+10:00",
   "url": "https://tomasparks.name/miniatures/notebook/2019/05/slashdot.html",
   "author": {
@@ -167,37 +198,6 @@
 
 
 "syndication": ["https://twitter.com/tomasparksts/status/1127175106265067520"]
-},
-	{
-  "type": "entry",
-  "published": "2019-05-01T00:00:00+10:00",
-  "url": "https://tomasparks.name/miniatures/build-log/work-area/2019/05/01/setup-workarea.html",
-  "author": {
-    "type": "card",
-    "name": "Tom Sparks",
-    "url": "https://tomasparks.name",
-    "photo": "https://tomasparks.name/about-me/photo.png",
-    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
-  },
-  "name": "Settting up my working area",
-				"summary": {
-					"html": "<p>I have two tables and a wire storage shelf arranged in a U-shape.\nI am using a mattress as a wall divider.</p>\n",
-					"value": "I have two tables and a wire storage shelf arranged in a U-shape.\nI am using a mattress as a wall divider.\n"
-				},
-							"value": "I have two tables and a wire storage shelf arranged in a U-shape.\nI am using a mattress as a wall divider.\n",
-"category": ["work-area"],
-"tags": [],
-
-
-
-
-
-
-
-
-
-
-"syndication": []
 },
 	{
   "type": "entry",
