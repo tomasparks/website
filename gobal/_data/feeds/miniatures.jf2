@@ -46,6 +46,37 @@
 },
 	{
   "type": "entry",
+  "published": "2019-06-20T00:00:00+10:00",
+  "url": "https://tomasparks.name/miniatures/build-log/work-area/2019/06/20/delivers.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "https://tomasparks.name/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "Delivers",
+				"summary": {
+					"html": "<p>Yay, Delivers</p>\n",
+					"value": "Yay, Delivers\n"
+				},
+							"value": "Yay, Delivers\n",
+"category": ["work-area"],
+"tags": [],
+
+
+
+
+
+
+
+
+
+
+"syndication": []
+},
+	{
+  "type": "entry",
   "published": "2019-06-19T00:00:00+10:00",
   "url": "https://tomasparks.name/miniatures/build-log/myst-island/2019/06/19/library.html",
   "author": {
@@ -249,37 +280,6 @@
 							"value": "Why did I buy Krpano?\n\n",
 "category": ["photograph"],
 "tags": ["Streetview","FPV","VR","Virtual tour"],
-
-
-
-
-
-
-
-
-
-
-"syndication": []
-},
-	{
-  "type": "entry",
-  "published": "2018-12-23T00:00:00+10:00",
-  "url": "https://tomasparks.name/miniatures/build-log/work-area/2018/12/23/delivers.html",
-  "author": {
-    "type": "card",
-    "name": "Tom Sparks",
-    "url": "https://tomasparks.name",
-    "photo": "https://tomasparks.name/about-me/photo.png",
-    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
-  },
-  "name": "Software",
-				"summary": {
-					"html": "<ul>\n  <li><a href=\"https://krpano.com/\">krpano</a></li>\n  <li><a href=\"https://www.tamasoft.co.jp/pepakura-en/\">Pepakura Designer 4</a></li>\n</ul>\n",
-					"value": "\n  krpano\n  Pepakura Designer 4\n\n"
-				},
-							"value": "\n  krpano\n  Pepakura Designer 4\n\n",
-"category": ["work-area"],
-"tags": [],
 
 
 
