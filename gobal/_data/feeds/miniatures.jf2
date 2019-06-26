@@ -57,10 +57,10 @@
   },
   "name": "Delivers",
 				"summary": {
-					"html": "<p>Yay, Delivers</p>\n",
-					"value": "Yay, Delivers\n"
+					"html": "<p>Yay, Delivers</p>\n\n",
+					"value": "Yay, Delivers\n\n"
 				},
-							"value": "Yay, Delivers\n",
+							"value": "Yay, Delivers\n\n",
 "category": ["work-area"],
 "tags": [],
 
