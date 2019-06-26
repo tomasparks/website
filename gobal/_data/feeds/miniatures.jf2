@@ -150,10 +150,10 @@
   },
   "name": "Settting up my working area",
 				"summary": {
-					"html": "<p>I have two tables and a wire storage shelf arranged in a U-shape.\nI am using a mattress as a wall divider.</p>\n",
-					"value": "I have two tables and a wire storage shelf arranged in a U-shape.\nI am using a mattress as a wall divider.\n"
+					"html": "<p>I have two tables and a wire storage shelf arranged in a U-shape. <br />\nI am retooling two tower computers: \\</p>\n\n",
+					"value": "I have two tables and a wire storage shelf arranged in a U-shape. \nI am retooling two tower computers: \\\n\n"
 				},
-							"value": "I have two tables and a wire storage shelf arranged in a U-shape.\nI am using a mattress as a wall divider.\n",
+							"value": "I have two tables and a wire storage shelf arranged in a U-shape. \nI am retooling two tower computers: \\\n\n",
 "category": ["work-area"],
 "tags": [],
 
