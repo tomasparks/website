@@ -1,6 +1,55 @@
 ---
 2019:
   "06":
+    27:
+    - type: entry
+      published: "2019-06-27T19:12:56+00:00"
+      url: https://twitter.com/tomasparksts/status/1144322739051696133
+      category:
+      - https://twitter.com/Octav1usKitten
+      in-reply-to:
+      - https://twitter.com/Octav1usKitten/status/1144276443872026625
+      content:
+        text: I like what your doing,  you could do long plays of games you enjoy
+          and/or reviews games you enjoy
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/Octav1usKitten:
+          type: card
+          name: "Queen Octav1us \U0001F3F3\uFE0F\u200D\U0001F308"
+          url: https://twitter.com/Octav1usKitten
+          photo: ~
+    - type: entry
+      published: "2019-06-27T18:46:37+00:00"
+      url: https://twitter.com/tomasparksts/status/1144316115738230784
+      category:
+      - https://twitter.com/itsDanBull
+      - https://twitter.com/Octav1usKitten
+      in-reply-to:
+      - https://twitter.com/itsDanBull/status/1144310315032514560
+      content:
+        text: 'cc: @Octav1usKitten'
+        html: 'cc: <a href="https://twitter.com/Octav1usKitten">@Octav1usKitten</a>'
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/itsDanBull:
+          type: card
+          name: "Dan Bull \U0001F350"
+          url: https://twitter.com/itsDanBull
+          photo: ~
+        https://twitter.com/Octav1usKitten:
+          type: card
+          name: "Queen Octav1us \U0001F3F3\uFE0F\u200D\U0001F308"
+          url: https://twitter.com/Octav1usKitten
+          photo: ~
     24:
     - type: entry
       published: "2019-06-24T20:47:39+00:00"
@@ -213,52 +262,5 @@
           type: card
           name: "Queen Octav1us \U0001F3F3\uFE0F\u200D\U0001F308"
           url: https://twitter.com/Octav1usKitten
-          photo: ~
-    19:
-    - type: entry
-      published: "2019-06-19T22:25:44+00:00"
-      url: https://twitter.com/tomasparksts/status/1141472155315531776
-      category:
-      - https://twitter.com/EgotasticFT
-      in-reply-to:
-      - https://twitter.com/EgotasticFT/status/1141199478323580928
-      content:
-        text: all of them
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-      refs:
-        https://twitter.com/EgotasticFT:
-          type: card
-          name: "JP's Egotastic FunTime - Talking The Orville\u2601\uFE0F"
-          url: https://twitter.com/EgotasticFT
-          photo: ~
-    - type: entry
-      published: "2019-06-19T20:56:12+00:00"
-      url: https://twitter.com/tomasparksts/status/1141449623942377479
-      category:
-      - https://twitter.com/cyanworlds
-      content:
-        text: "(\U0001F916) My Model unfolding software did not like the stl file
-          uploaded to thingiverse by @cyanworlds. #BuildLog #miniatures #mystisland
-          #Library #pepakura (\U0001F916) (tomasparks.name/miniatures/bui\u2026)"
-        html: "(\U0001F916) My Model unfolding software did not like the stl file
-          uploaded to thingiverse by <a href=\"https://twitter.com/cyanworlds\">@cyanworlds</a>.
-          <a href=\"https://twitter.com/search?q=%23BuildLog\">#BuildLog</a> <a href=\"https://twitter.com/search?q=%23miniatures\">#miniatures</a>
-          <a href=\"https://twitter.com/search?q=%23mystisland\">#mystisland</a> <a
-          href=\"https://twitter.com/search?q=%23Library\">#Library</a> <a href=\"https://twitter.com/search?q=%23pepakura\">#pepakura</a>
-          (\U0001F916) (<a href=\"https://tomasparks.name/miniatures/build-log/myst-island/2019/06/19/library.html\">tomasparks.name/miniatures/bui\u2026</a>)"
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-      refs:
-        https://twitter.com/cyanworlds:
-          type: card
-          name: Cyan Inc.
-          url: https://twitter.com/cyanworlds
           photo: ~
 ...
