@@ -1,0 +1,29 @@
+---
+- type: entry
+  published: "2019-06-28T14:23:09+00:00"
+  url: https://twitter.com/tomasparksts/status/1144612200977276929
+  category:
+  - https://twitter.com/autodesk
+  content:
+    text: "(\U0001F916) After looking at the exported plans from @autodesk\u2019s
+      fusion 360 slicer, they are unusable :( Stacked: too few layers Interlocked:
+      only half the model had both vertical and horizontal interlocking parts #BuildLog
+      #miniatures #mystisland #Planetarium\u2026 tomasparks.name/miniatures/bui\u2026"
+    html: "(\U0001F916) After looking at the exported plans from <a href=\"https://twitter.com/autodesk\">@autodesk</a>\u2019s
+      fusion 360 slicer, they are unusable :( Stacked: too few layers Interlocked:
+      only half the model had both vertical and horizontal interlocking parts <a href=\"https://twitter.com/search?q=%23BuildLog\">#BuildLog</a>
+      <a href=\"https://twitter.com/search?q=%23miniatures\">#miniatures</a> <a href=\"https://twitter.com/search?q=%23mystisland\">#mystisland</a>
+      <a href=\"https://twitter.com/search?q=%23Planetarium\">#Planetarium</a>\u2026
+      <a href=\"https://tomasparks.name/miniatures/build-log/myst-island/2019/06/28/sliceform-part-2.html\">tomasparks.name/miniatures/bui\u2026</a>"
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/autodesk:
+      type: card
+      name: Autodesk
+      url: https://twitter.com/autodesk
+      photo: ~
+...
