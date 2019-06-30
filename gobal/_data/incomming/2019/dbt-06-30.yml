@@ -1,0 +1,68 @@
+---
+- type: entry
+  published: "2019-06-30T10:02:07+00:00"
+  url: https://twitter.com/tomasparksts/status/1145271285791903745
+  category:
+  - https://twitter.com/mmasnick
+  - https://twitter.com/SwiftOnSecurity
+  - https://twitter.com/techdirt
+  in-reply-to:
+  - https://twitter.com/mmasnick/status/1145244662619181057
+  content:
+    text: "bloomberg.com/news/articles/\u2026"
+    html: "<a href=\"https://www.bloomberg.com/news/articles/2019-06-28/boeing-s-737-max-software-outsourced-to-9-an-hour-engineers\">bloomberg.com/news/articles/\u2026</a>"
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/mmasnick:
+      type: card
+      name: Mike Masnick
+      url: https://twitter.com/mmasnick
+      photo: ~
+    https://twitter.com/SwiftOnSecurity:
+      type: card
+      name: SwiftOnSecurity
+      url: https://twitter.com/SwiftOnSecurity
+      photo: ~
+    https://twitter.com/techdirt:
+      type: card
+      name: techdirt
+      url: https://twitter.com/techdirt
+      photo: ~
+- type: entry
+  published: "2019-06-30T05:15:12+00:00"
+  url: https://twitter.com/tomasparksts/status/1145199080152293376
+  category:
+  - https://twitter.com/SwiftOnSecurity
+  - https://twitter.com/techdirt
+  - https://twitter.com/mmasnick
+  in-reply-to:
+  - https://twitter.com/SwiftOnSecurity/status/1145022662000951296
+  content:
+    text: cc @techdirt  @mmasnick
+    html: cc <a href="https://twitter.com/techdirt">@techdirt</a>  <a href="https://twitter.com/mmasnick">@mmasnick</a>
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/SwiftOnSecurity:
+      type: card
+      name: SwiftOnSecurity
+      url: https://twitter.com/SwiftOnSecurity
+      photo: ~
+    https://twitter.com/techdirt:
+      type: card
+      name: techdirt
+      url: https://twitter.com/techdirt
+      photo: ~
+    https://twitter.com/mmasnick:
+      type: card
+      name: Mike Masnick
+      url: https://twitter.com/mmasnick
+      photo: ~
+...

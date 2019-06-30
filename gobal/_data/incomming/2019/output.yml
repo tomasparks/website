@@ -1,6 +1,73 @@
 ---
 2019:
   "06":
+    30:
+    - type: entry
+      published: "2019-06-30T10:02:07+00:00"
+      url: https://twitter.com/tomasparksts/status/1145271285791903745
+      category:
+      - https://twitter.com/mmasnick
+      - https://twitter.com/SwiftOnSecurity
+      - https://twitter.com/techdirt
+      in-reply-to:
+      - https://twitter.com/mmasnick/status/1145244662619181057
+      content:
+        text: "bloomberg.com/news/articles/\u2026"
+        html: "<a href=\"https://www.bloomberg.com/news/articles/2019-06-28/boeing-s-737-max-software-outsourced-to-9-an-hour-engineers\">bloomberg.com/news/articles/\u2026</a>"
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/mmasnick:
+          type: card
+          name: Mike Masnick
+          url: https://twitter.com/mmasnick
+          photo: ~
+        https://twitter.com/SwiftOnSecurity:
+          type: card
+          name: SwiftOnSecurity
+          url: https://twitter.com/SwiftOnSecurity
+          photo: ~
+        https://twitter.com/techdirt:
+          type: card
+          name: techdirt
+          url: https://twitter.com/techdirt
+          photo: ~
+    - type: entry
+      published: "2019-06-30T05:15:12+00:00"
+      url: https://twitter.com/tomasparksts/status/1145199080152293376
+      category:
+      - https://twitter.com/SwiftOnSecurity
+      - https://twitter.com/techdirt
+      - https://twitter.com/mmasnick
+      in-reply-to:
+      - https://twitter.com/SwiftOnSecurity/status/1145022662000951296
+      content:
+        text: cc @techdirt  @mmasnick
+        html: cc <a href="https://twitter.com/techdirt">@techdirt</a>  <a href="https://twitter.com/mmasnick">@mmasnick</a>
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/SwiftOnSecurity:
+          type: card
+          name: SwiftOnSecurity
+          url: https://twitter.com/SwiftOnSecurity
+          photo: ~
+        https://twitter.com/techdirt:
+          type: card
+          name: techdirt
+          url: https://twitter.com/techdirt
+          photo: ~
+        https://twitter.com/mmasnick:
+          type: card
+          name: Mike Masnick
+          url: https://twitter.com/mmasnick
+          photo: ~
     28:
     - type: entry
       published: "2019-06-28T14:23:09+00:00"
@@ -198,69 +265,4 @@
         name: Tom Sparks
         url: https://twitter.com/tomasparksts
         photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-    21:
-    - type: entry
-      published: "2019-06-21T13:33:02+00:00"
-      url: https://twitter.com/tomasparksts/status/1142062874443091968
-      category:
-      - https://twitter.com/autodesk
-      content:
-        text: "(\U0001F916) After the failed attempt with the Library model, I tried
-          @autodesk\u2019s fusion 360 slicer on the Planetarium base model. I have
-          had great success. :) #BuildLog #miniatures #mystisland #Planetarium #Sliceform
-          #Library (\U0001F916) (tomasparks.name/miniatures/bui\u2026)"
-        html: "(\U0001F916) After the failed attempt with the Library model, I tried
-          <a href=\"https://twitter.com/autodesk\">@autodesk</a>\u2019s fusion 360
-          slicer on the Planetarium base model. I have had great success. :) <a href=\"https://twitter.com/search?q=%23BuildLog\">#BuildLog</a>
-          <a href=\"https://twitter.com/search?q=%23miniatures\">#miniatures</a> <a
-          href=\"https://twitter.com/search?q=%23mystisland\">#mystisland</a> <a href=\"https://twitter.com/search?q=%23Planetarium\">#Planetarium</a>
-          <a href=\"https://twitter.com/search?q=%23Sliceform\">#Sliceform</a> <a
-          href=\"https://twitter.com/search?q=%23Library\">#Library</a> (\U0001F916)
-          (<a href=\"https://tomasparks.name/miniatures/build-log/myst-island/2019/06/21/planetarium.html\">tomasparks.name/miniatures/bui\u2026</a>)"
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-      refs:
-        https://twitter.com/autodesk:
-          type: card
-          name: Autodesk
-          url: https://twitter.com/autodesk
-          photo: ~
-    - type: entry
-      published: "2019-06-21T06:46:15+00:00"
-      url: https://twitter.com/tomasparksts/status/1141960504149045248
-      category:
-      - https://twitter.com/AndyMit50810190
-      - https://twitter.com/Octav1usKitten
-      - https://twitter.com/tvtropes
-      in-reply-to:
-      - https://twitter.com/AndyMit50810190/status/1141864021689339904
-      content:
-        text: "checkout @tvtropes  on #chainmailBikini @ tvtropes.org/pmwiki/pmwiki.\u2026"
-        html: "checkout <a href=\"https://twitter.com/tvtropes\">@tvtropes</a>  on
-          <a href=\"https://twitter.com/search?q=%23chainmailBikini\">#chainmailBikini</a>
-          @ <a href=\"https://tvtropes.org/pmwiki/pmwiki.php/Main/ChainmailBikini\">tvtropes.org/pmwiki/pmwiki.\u2026</a>"
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-      refs:
-        https://twitter.com/AndyMit50810190:
-          type: card
-          name: Andy Mitchell
-          url: https://twitter.com/AndyMit50810190
-          photo: ~
-        https://twitter.com/Octav1usKitten:
-          type: card
-          name: "Queen Octav1us \U0001F3F3\uFE0F\u200D\U0001F308"
-          url: https://twitter.com/Octav1usKitten
-          photo: ~
-        https://twitter.com/tvtropes:
-          type: card
-          name: tvtropes
-          url: https://twitter.com/tvtropes
-          photo: ~
 ...
