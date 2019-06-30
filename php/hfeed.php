@@ -90,7 +90,7 @@ $article->addAttribute('class', 'h-feed');
 
 // loop start
 foreach ($database as $value) {
-//print_r($value);
+print_r($value);
 if (isset($value['published'])) {
 
 
