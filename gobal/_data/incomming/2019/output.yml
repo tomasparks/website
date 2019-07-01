@@ -1,7 +1,69 @@
 ---
 2019:
+  "07":
+    "01":
+    - type: entry
+      published: "2019-07-01T06:12:50+00:00"
+      url: https://twitter.com/tomasparksts/status/1145575972910989312
+      category:
+      - https://twitter.com/HardDriveMag
+      - https://twitter.com/textfiles
+      - https://twitter.com/lazygamereviews
+      in-reply-to:
+      - https://twitter.com/HardDriveMag/status/1145406686145974272
+      content:
+        text: cc @textfiles @lazygamereviews
+        html: cc <a href="https://twitter.com/textfiles">@textfiles</a> <a href="https://twitter.com/lazygamereviews">@lazygamereviews</a>
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/HardDriveMag:
+          type: card
+          name: Hard Drive
+          url: https://twitter.com/HardDriveMag
+          photo: ~
+        https://twitter.com/textfiles:
+          type: card
+          name: Jason Scott
+          url: https://twitter.com/textfiles
+          photo: ~
+        https://twitter.com/lazygamereviews:
+          type: card
+          name: LGR
+          url: https://twitter.com/lazygamereviews
+          photo: ~
   "06":
     30:
+    - type: entry
+      published: "2019-06-30T17:29:01+00:00"
+      url: https://twitter.com/tomasparksts/status/1145383752400437248
+      category:
+      - https://twitter.com/Foone
+      - https://twitter.com/lazygamereviews
+      in-reply-to:
+      - https://twitter.com/Foone/status/1145382957328171013
+      content:
+        text: '@lazygamereviews'
+        html: <a href="https://twitter.com/lazygamereviews">@lazygamereviews</a>
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/Foone:
+          type: card
+          name: foone
+          url: https://twitter.com/Foone
+          photo: ~
+        https://twitter.com/lazygamereviews:
+          type: card
+          name: LGR
+          url: https://twitter.com/lazygamereviews
+          photo: ~
     - type: entry
       published: "2019-06-30T10:02:07+00:00"
       url: https://twitter.com/tomasparksts/status/1145271285791903745
@@ -218,51 +280,4 @@
           name: Nostalgia Nerd
           url: https://twitter.com/nostalnerd
           photo: ~
-    - type: entry
-      published: "2019-06-23T05:59:12+00:00"
-      url: https://twitter.com/tomasparksts/status/1142673438315646979
-      category:
-      - https://twitter.com/Da_Real_Mikey_K
-      - https://twitter.com/Octav1usKitten
-      in-reply-to:
-      - https://twitter.com/Da_Real_Mikey_K/status/1142668258144915456
-      content:
-        text: "smol\nAdjective: (Internet slang) Tiny and cute. \nen.wiktionary.org/wiki/smol"
-        html: "smol\nAdjective: (Internet slang) Tiny and cute. \n<a href=\"https://en.wiktionary.org/wiki/smol\">en.wiktionary.org/wiki/smol</a>"
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-      refs:
-        https://twitter.com/Da_Real_Mikey_K:
-          type: card
-          name: '#LetsGoBucs Mike'
-          url: https://twitter.com/Da_Real_Mikey_K
-          photo: ~
-        https://twitter.com/Octav1usKitten:
-          type: card
-          name: "Queen Octav1us \U0001F3F3\uFE0F\u200D\U0001F308"
-          url: https://twitter.com/Octav1usKitten
-          photo: ~
-    22:
-    - type: entry
-      published: "2019-06-22T16:02:36+00:00"
-      url: https://twitter.com/tomasparksts/status/1142462902827270144
-      content:
-        text: |-
-          The #iWalk #treadmill has a #bultin #computer, but can it run #CanItRunCrysis?, #CanItRunDOOM? or #CanItRunwolf3D? no then its not a computer
-          #tvshop
-
-          tvshop.com.au/products/iwalk
-        html: |-
-          The <a href="https://twitter.com/search?q=%23iWalk">#iWalk</a> <a href="https://twitter.com/search?q=%23treadmill">#treadmill</a> has a <a href="https://twitter.com/search?q=%23bultin">#bultin</a> <a href="https://twitter.com/search?q=%23computer">#computer</a>, but can it run <a href="https://twitter.com/search?q=%23CanItRunCrysis">#CanItRunCrysis</a>?, <a href="https://twitter.com/search?q=%23CanItRunDOOM">#CanItRunDOOM</a>? or <a href="https://twitter.com/search?q=%23CanItRunwolf3D">#CanItRunwolf3D</a>? no then its not a computer
-          <a href="https://twitter.com/search?q=%23tvshop">#tvshop</a>
-
-          <a href="https://tvshop.com.au/products/iwalk">tvshop.com.au/products/iwalk</a>
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
 ...

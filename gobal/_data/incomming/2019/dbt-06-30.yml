@@ -1,5 +1,32 @@
 ---
 - type: entry
+  published: "2019-06-30T17:29:01+00:00"
+  url: https://twitter.com/tomasparksts/status/1145383752400437248
+  category:
+  - https://twitter.com/Foone
+  - https://twitter.com/lazygamereviews
+  in-reply-to:
+  - https://twitter.com/Foone/status/1145382957328171013
+  content:
+    text: '@lazygamereviews'
+    html: <a href="https://twitter.com/lazygamereviews">@lazygamereviews</a>
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/Foone:
+      type: card
+      name: foone
+      url: https://twitter.com/Foone
+      photo: ~
+    https://twitter.com/lazygamereviews:
+      type: card
+      name: LGR
+      url: https://twitter.com/lazygamereviews
+      photo: ~
+- type: entry
   published: "2019-06-30T10:02:07+00:00"
   url: https://twitter.com/tomasparksts/status/1145271285791903745
   category:

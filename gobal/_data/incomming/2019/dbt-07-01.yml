@@ -1,0 +1,35 @@
+---
+- type: entry
+  published: "2019-07-01T06:12:50+00:00"
+  url: https://twitter.com/tomasparksts/status/1145575972910989312
+  category:
+  - https://twitter.com/HardDriveMag
+  - https://twitter.com/textfiles
+  - https://twitter.com/lazygamereviews
+  in-reply-to:
+  - https://twitter.com/HardDriveMag/status/1145406686145974272
+  content:
+    text: cc @textfiles @lazygamereviews
+    html: cc <a href="https://twitter.com/textfiles">@textfiles</a> <a href="https://twitter.com/lazygamereviews">@lazygamereviews</a>
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/HardDriveMag:
+      type: card
+      name: Hard Drive
+      url: https://twitter.com/HardDriveMag
+      photo: ~
+    https://twitter.com/textfiles:
+      type: card
+      name: Jason Scott
+      url: https://twitter.com/textfiles
+      photo: ~
+    https://twitter.com/lazygamereviews:
+      type: card
+      name: LGR
+      url: https://twitter.com/lazygamereviews
+      photo: ~
+...
