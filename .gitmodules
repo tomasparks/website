@@ -10,3 +10,6 @@
 [submodule "miniatures-src"]
 	path = miniatures-src
 	url = git@github.com:tomasparks/miniatures-src.git
+[submodule "notes-src"]
+	path = notes-src
+	url = git@github.com:tomasparks/notes-src.git
