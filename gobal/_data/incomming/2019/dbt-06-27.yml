@@ -1,5 +1,6 @@
 ---
-- type: entry
+0:
+  type: entry
   published: "2019-06-27T19:12:56+00:00"
   url: https://twitter.com/tomasparksts/status/1144322739051696133
   category:
@@ -17,10 +18,11 @@
   refs:
     https://twitter.com/Octav1usKitten:
       type: card
-      name: "Queen Octav1us \U0001F3F3\uFE0F\u200D\U0001F308"
+      name: Queen Octav1us
       url: https://twitter.com/Octav1usKitten
       photo: ~
-- type: entry
+1:
+  type: entry
   published: "2019-06-27T18:46:37+00:00"
   url: https://twitter.com/tomasparksts/status/1144316115738230784
   category:
@@ -42,6 +44,28 @@
       name: "Dan Bull \U0001F350"
       url: https://twitter.com/itsDanBull
       photo: ~
+    https://twitter.com/Octav1usKitten:
+      type: card
+      name: "Queen Octav1us \U0001F3F3\uFE0F\u200D\U0001F308"
+      url: https://twitter.com/Octav1usKitten
+      photo: ~
+4:
+  type: entry
+  published: "2019-06-27T19:12:56+00:00"
+  url: https://twitter.com/tomasparksts/status/1144322739051696133
+  category:
+  - https://twitter.com/Octav1usKitten
+  in-reply-to:
+  - https://twitter.com/Octav1usKitten/status/1144276443872026625
+  content:
+    text: I like what your doing,  you could do long plays of games you enjoy and/or
+      reviews games you enjoy
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
     https://twitter.com/Octav1usKitten:
       type: card
       name: "Queen Octav1us \U0001F3F3\uFE0F\u200D\U0001F308"

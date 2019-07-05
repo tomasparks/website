@@ -1,6 +1,6 @@
 ---
 Dr_Karl_Podcast-by-ABC_Science:
-  Hot_and_cold_breath_tilting_dog_heads_and_an_infuriating_itch.mp3: false
+  Hot_and_cold_breath_tilting_dog_heads_and_an_infuriating_itch.mp3: true
   Beard_hairballs_purring_pussies_and_green_boogers.mp3: true
   Sympathy_spews_chubby_rain_and_fullmoon_craziness.mp3: true
   Car_napping_stinging_pineapple_and_your_IQ.mp3: true
@@ -674,6 +674,7 @@ Internet_History_Podcast-by-Brian_McCullough:
   192_Hulus_Founding_and_Digital_Design_With_Dan_Maccarone.mp3: true
   191_Bringing_The_WSJ_Online_With_Rich_Jaroslovsky_Part_2.mp3: true
   195_Microsoft_CTO_Kevin_Scott.mp3: true
+  198_Inventor_of_the_Hashtag_Chris_Messina.mp3: true
 clevercast-by-Jonathan_LaCour:
   2c94f008a9.mp3: true
   c6b019d351.mp3: true
@@ -871,6 +872,10 @@ RPGMP3_Actual_Play_Podcast-by-Hal:
   pathfinder_dragons_delve_part_12.mp3: true
   bg_arabian_nights_01.MP3: true
   pathfinder_dragons_delve_part_05.mp3: true
+  pathfinder_dragons_delve_part_18.mp3: true
+  pathfinder_dragons_delve_part_16.mp3: true
+  pathfinder_dragons_delve_part_17.mp3: true
+  pathfinder_dragons_delve_part_19.mp3: true
 5_live_Science_Podcast-by-BBC_Radio_5_live:
   p068pk6z.mp3: true
   p068v1bw.mp3: true
@@ -1007,7 +1012,7 @@ Indieweb_Podcast-by-David_Shanske_and_Chris_Aldrich:
   Indieweb9.mp3: true
   Indieweb10.mp3: true
   Indieweb11.mp3: true
-  Indieweb14.mp3: false
+  Indieweb14.mp3: true
 BitJam_Podcast-by-Array:
   "": false
 clevercast-by-Array:
@@ -1106,6 +1111,8 @@ Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott:
   The_Don_Joyce_and_Negativland_Episode.mp3: true
   The_Podcasting_Episode.mp3: true
   The_Games_Episode.mp3: true
+  The_Long_Drive_Episode.mp3: true
+  The_PUBG_and_Life_Strats_Episode.mp3: true
 Not_Another_DD_Podcast-by-HeadGum:
   mp3: true
 Stephen_Frys_Great_Leap_Years-Podcast-by-Stephen_Fry:

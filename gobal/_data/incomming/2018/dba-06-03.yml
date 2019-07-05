@@ -1,6 +1,6 @@
 ---
 - type: entry
-  published: "2018-06-03T11:58:48+00:00"
+  published: "2018-06-03T03:46:04+00:00"
   category:
   - scrobble
   - audio
@@ -11,44 +11,21 @@
       url: https://www.techdirt.com/podcast.xml
       photo: ""
       audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/266804621-techdirt-what-happened-at-the-oracle-google-trial.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/266804621-techdirt-what-happened-at-the-oracle-google-trial.mp3
-      name: What Happened At The Oracle Google Trial?
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/269087654-techdirt-the-link-between-credit-and-surveillance.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/269087654-techdirt-the-link-between-credit-and-surveillance.mp3
+      name: The Link Between Credit And Surveillance
       author: Techdirt
-      content: Over the past few weeks, a jury heard the second round of the copyright
-        fight between Oracle and Google over whether Google's use of the Java APIs
-        in Android constituted copyright infringement, or whether it was fair use.  In
-        the end, the jury went with fair use.  Reporter Sarah Jeong watched the entire
-        trial from the courtroom and joins us on the Techdirt podcast this week to
-        discuss both the legal details and the various oddities of this particular
-        trial.
+      content: Both surveillance and the digitization of money are heavily-discussed
+        topics, but the intersection between the two often goes overlooked. Historically,
+        credit agencies have been trailblazers in the world of surveillance, and today
+        we face the fact that the government can use payment providers and other financial
+        tools as a means of enforcing its wishes. On this week's episode, we're joined
+        by lawyer and writer Sarah Jeong, who recently wrote a four-part series on
+        the subject, to discuss the past and future of credit, money, surveillance
+        and the way they work together.
   content:
-    text: ' \ud83c\udfa7 Listened to What Happened At The Oracle Google Trial? by
-      Techdirt From Techdirt'
-- type: entry
-  published: "2018-06-03T02:59:44+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/270214972-techdirt-whats-next-for-online-video.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/270214972-techdirt-whats-next-for-online-video.mp3
-      name: What's Next For Online Video?
-      author: Techdirt
-      content: "Netflix, HBO Go, Amazon Prime, YouTube, Twitch \u2014 online video
-        is still booming. But it also still struggles under the weight of exclusive
-        deals and content silos, and it feels like there's still plenty of innovation
-        to be done. But where will that innovation come from? This week, we discuss
-        the future of online video."
-  content:
-    text: ' \ud83c\udfa7 Listened to What''s Next For Online Video? by Techdirt From
-      Techdirt'
+    text: ' \ud83c\udfa7 Listened to The Link Between Credit And Surveillance by Techdirt
+      From Techdirt'
 - type: entry
   published: "2018-06-03T23:12:01+00:00"
   category:
@@ -98,7 +75,7 @@
   content:
     text: ' \ud83c\udfa7 Listened to Tech Policy Goes Local by Techdirt From Techdirt'
 - type: entry
-  published: "2018-06-03T03:46:04+00:00"
+  published: "2018-06-03T11:58:48+00:00"
   category:
   - scrobble
   - audio
@@ -109,21 +86,44 @@
       url: https://www.techdirt.com/podcast.xml
       photo: ""
       audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/269087654-techdirt-the-link-between-credit-and-surveillance.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/269087654-techdirt-the-link-between-credit-and-surveillance.mp3
-      name: The Link Between Credit And Surveillance
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/266804621-techdirt-what-happened-at-the-oracle-google-trial.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/266804621-techdirt-what-happened-at-the-oracle-google-trial.mp3
+      name: What Happened At The Oracle Google Trial?
       author: Techdirt
-      content: Both surveillance and the digitization of money are heavily-discussed
-        topics, but the intersection between the two often goes overlooked. Historically,
-        credit agencies have been trailblazers in the world of surveillance, and today
-        we face the fact that the government can use payment providers and other financial
-        tools as a means of enforcing its wishes. On this week's episode, we're joined
-        by lawyer and writer Sarah Jeong, who recently wrote a four-part series on
-        the subject, to discuss the past and future of credit, money, surveillance
-        and the way they work together.
+      content: Over the past few weeks, a jury heard the second round of the copyright
+        fight between Oracle and Google over whether Google's use of the Java APIs
+        in Android constituted copyright infringement, or whether it was fair use.  In
+        the end, the jury went with fair use.  Reporter Sarah Jeong watched the entire
+        trial from the courtroom and joins us on the Techdirt podcast this week to
+        discuss both the legal details and the various oddities of this particular
+        trial.
   content:
-    text: ' \ud83c\udfa7 Listened to The Link Between Credit And Surveillance by Techdirt
-      From Techdirt'
+    text: ' \ud83c\udfa7 Listened to What Happened At The Oracle Google Trial? by
+      Techdirt From Techdirt'
+- type: entry
+  published: "2018-06-03T02:59:44+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/270214972-techdirt-whats-next-for-online-video.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/270214972-techdirt-whats-next-for-online-video.mp3
+      name: What's Next For Online Video?
+      author: Techdirt
+      content: "Netflix, HBO Go, Amazon Prime, YouTube, Twitch \u2014 online video
+        is still booming. But it also still struggles under the weight of exclusive
+        deals and content silos, and it feels like there's still plenty of innovation
+        to be done. But where will that innovation come from? This week, we discuss
+        the future of online video."
+  content:
+    text: ' \ud83c\udfa7 Listened to What''s Next For Online Video? by Techdirt From
+      Techdirt'
 - type: entry
   published: "2018-06-03T05:17:21+00:00"
   category:

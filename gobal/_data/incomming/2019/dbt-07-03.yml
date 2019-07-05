@@ -1,0 +1,36 @@
+---
+- type: entry
+  published: "2019-07-03T19:09:18+00:00"
+  url: https://twitter.com/tomasparksts/status/1146496151685718021
+  category:
+  - https://twitter.com/Octav1usKitten
+  - https://twitter.com/PHunted
+  - https://twitter.com/lazygamereviews
+  in-reply-to:
+  - https://twitter.com/Octav1usKitten/status/1146432158116044801
+  content:
+    text: "@lazygamereviews did a review on one youtube.com/watch?v=UtRqgs\u2026"
+    html: "<a href=\"https://twitter.com/lazygamereviews\">@lazygamereviews</a> did
+      a review on one <a href=\"https://www.youtube.com/watch?v=UtRqgszxZlg\">youtube.com/watch?v=UtRqgs\u2026</a>"
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/Octav1usKitten:
+      type: card
+      name: Queen Octav1us
+      url: https://twitter.com/Octav1usKitten
+      photo: ~
+    https://twitter.com/PHunted:
+      type: card
+      name: Pixel Hunted
+      url: https://twitter.com/PHunted
+      photo: ~
+    https://twitter.com/lazygamereviews:
+      type: card
+      name: LGR
+      url: https://twitter.com/lazygamereviews
+      photo: ~
+...

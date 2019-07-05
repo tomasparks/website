@@ -23,6 +23,28 @@
       infuriating itch by triplejA[ From Dr_Karl_Podcast'
 1:
   type: entry
+  published: "2019-04-29T04:45:13+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2019/04/gms_20190416.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Washing_clothes_part_one.mp3
+      name: 'Washing clothes: part one'
+      author: ABC Radio National
+      content: Until recently, scientists couldn't work out how a washing machine
+        actually lifted the dirt out of clothes.
+  content:
+    text: ' \ud83c\udfa7 Listened to Washing clothes: part one by ABC Radio National
+      From Great Moments In Science - with Dr Karl Kruszelnicki'
+2:
+  type: entry
   published: "2019-04-29T04:59:41+00:00"
   category:
   - scrobble
@@ -43,7 +65,7 @@
   content:
     text: ' \ud83c\udfa7 Listened to Vaping, e-cigarettes, and big tobacco by ABC
       Radio National From Great Moments In Science - with Dr Karl Kruszelnicki'
-2:
+3:
   type: entry
   published: "2019-04-29T04:51:58+00:00"
   category:
@@ -64,28 +86,6 @@
         And that's where the dirt hides.
   content:
     text: ' \ud83c\udfa7 Listened to Washing clothes: part two by ABC Radio National
-      From Great Moments In Science - with Dr Karl Kruszelnicki'
-3:
-  type: entry
-  published: "2019-04-29T04:45:13+00:00"
-  category:
-  - scrobble
-  - audio
-  - Great Moments In Science - with Dr Karl Kruszelnicki
-  - ABC Radio National
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2019/04/gms_20190416.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Washing_clothes_part_one.mp3
-      name: 'Washing clothes: part one'
-      author: ABC Radio National
-      content: Until recently, scientists couldn't work out how a washing machine
-        actually lifted the dirt out of clothes.
-  content:
-    text: ' \ud83c\udfa7 Listened to Washing clothes: part one by ABC Radio National
       From Great Moments In Science - with Dr Karl Kruszelnicki'
 4:
   type: entry

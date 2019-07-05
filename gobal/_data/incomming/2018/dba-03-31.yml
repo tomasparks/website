@@ -1,28 +1,5 @@
 ---
 - type: entry
-  published: "2018-03-31T01:05:03+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/342065321-techdirt-customize-everything.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/342065321-techdirt-customize-everything.mp3
-      name: Customize Everything!
-      author: Techdirt
-      content: 'While the 20th century was defined by mass production, since the digital
-        revolution there has been talk about what might be the main trend of the 21st
-        century: mass customization. Today, we''re starting to see customizable mass-produced
-        offerings pop up in a number of spaces such as apparel, and this week we discuss
-        whether mass customization is finally approaching critical mass.'
-  content:
-    text: ' \ud83c\udfa7 Listened to Customize Everything! by Techdirt From Techdirt'
-- type: entry
   published: "2018-03-31T00:18:41+00:00"
   category:
   - scrobble
@@ -73,4 +50,27 @@
         the original episode: https://soundcloud.com/techdirt/is-it-the-pokemon-or-the-go-that-matters"
   content:
     text: " \\ud83c\\udfa7 Listened to Pok\xE9mon Gone? by Techdirt From Techdirt"
+- type: entry
+  published: "2018-03-31T01:05:03+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/342065321-techdirt-customize-everything.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/342065321-techdirt-customize-everything.mp3
+      name: Customize Everything!
+      author: Techdirt
+      content: 'While the 20th century was defined by mass production, since the digital
+        revolution there has been talk about what might be the main trend of the 21st
+        century: mass customization. Today, we''re starting to see customizable mass-produced
+        offerings pop up in a number of spaces such as apparel, and this week we discuss
+        whether mass customization is finally approaching critical mass.'
+  content:
+    text: ' \ud83c\udfa7 Listened to Customize Everything! by Techdirt From Techdirt'
 ...

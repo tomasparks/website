@@ -1,6 +1,6 @@
 ---
 - type: entry
-  published: "2019-03-18T02:22:18+00:00"
+  published: "2019-03-18T21:39:05+00:00"
   category:
   - scrobble
   - audio
@@ -11,19 +11,17 @@
       url: https://feeds.mozilla-podcasts.org/irl
       photo: ""
       audio:
-      - https://tracking.feedpress.it/link/17512/6384459/558fffa7.mp3
-      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/558fffa7.mp3
-      name: Hack Jobs
+      - https://tracking.feedpress.it/link/17512/9485414/5c7fc3e8.mp3
+      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/5c7fc3e8.mp3
+      name: 'Introducing Season 3 of IRL: Because Online Life is Real Life'
       author: Mozilla
-      content: "Have you been hacked, or been the victim of malware or ransomware?
-        Humans make the internet vibrant, but we're also the weakest link \u2014 we're
-        predictable and often easily fooled. This episode of IRL focuses on our internet
-        insecurity. Meet the unsung heroes fighting to keep us safe.\n"
+      content: |
+        In Season 3 of IRL, we're exploring the bargains we make online every day, and how we might approach striking better deals with the powers that be. You'll find out what happened when the U.S. Army got into the video game business, what it's like to be a professional flirter on Tinder (for real), and how a super cute pig transformed a person's life one Instagram post at a time. Episode 1 launches July 2nd. Subscribe via Apple podcasts or Spotify, or wherever you get your ear candy.
   content:
-    text: ' \ud83c\udfa7 Listened to Hack Jobs by Mozilla From IRL - Online Life Is
-      Real Life'
+    text: ' \ud83c\udfa7 Listened to Introducing Season 3 of IRL: Because Online Life
+      is Real Life by Mozilla From IRL - Online Life Is Real Life'
 - type: entry
-  published: "2019-03-18T03:49:31+00:00"
+  published: "2019-03-18T22:31:45+00:00"
   category:
   - scrobble
   - audio
@@ -34,17 +32,21 @@
       url: https://feeds.mozilla-podcasts.org/irl
       photo: ""
       audio:
-      - https://tracking.feedpress.it/link/17512/6547098/62690553.mp3
-      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/62690553.mp3
-      name: I Spy With My Digital Eye
+      - https://tracking.feedpress.it/link/17512/9619766/7a906834.mp3
+      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/7a906834.mp3
+      name: The Grand Bargain
       author: Mozilla
-      content: "We react against the idea of surveillance, but it turns out that we\u2019ve
-        invited it into our homes through devices like digital assistants, connected
-        toys, and baby monitors. Are you comfortable with the idea that someone might
-        be watching you or listening to you right now?\n"
+      content: "We\u2019re told from a young age to \u201Caccept the things we cannot
+        change.\u201D But should this be the case online as well? We click \u201CAccept\u201D
+        every day, but often don\u2019t know what we\u2019re giving away. Is it a
+        fair trade, and should we demand a better bargain? Veronica Belmont and special
+        guest Dave Pell explore if what we get for what we give online is a good deal.
+        We hear how one man\u2019s HIV status was exposed without permission, how
+        a massive data-mining company is using our information to predict how we'll
+        behave, and why on earth our email inboxes are filling up with privacy policies.\n"
   content:
-    text: ' \ud83c\udfa7 Listened to I Spy With My Digital Eye by Mozilla From IRL
-      - Online Life Is Real Life'
+    text: ' \ud83c\udfa7 Listened to The Grand Bargain by Mozilla From IRL - Online
+      Life Is Real Life'
 - type: entry
   published: "2019-03-18T06:01:30+00:00"
   category:
@@ -71,134 +73,6 @@
   content:
     text: ' \ud83c\udfa7 Listened to Net Neutrality Emergency by Mozilla From IRL
       - Online Life Is Real Life'
-- type: entry
-  published: "2019-03-18T13:19:47+00:00"
-  category:
-  - scrobble
-  - audio
-  - IRL - Online Life Is Real Life
-  - Mozilla
-  listen-of:
-    h-cite:
-      url: https://feeds.mozilla-podcasts.org/irl
-      photo: ""
-      audio:
-      - https://tracking.feedpress.it/link/17512/8172255/10dbc4e6.mp3
-      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/10dbc4e6.mp3
-      name: Face Value
-      author: Mozilla
-      content: "From Snapchat filters to Google\u2019s art selfies, biometric technology
-        plays a growing role in our everyday lives. What do we actually give up when
-        we upload our face to these apps? Steven Talley shares his experience as the
-        victim of mistaken identity. Artist Adam Harvey investigates how racial bias
-        seeps into big data sets. Emily Kennedy and Glynnis MacNicol talk about the
-        power and risks of recognition for marginalized communities. Joseph Atick,
-        a forefather of facial recognition technology, reckons with its future. And
-        we head to China, where you\u2019ll need your face to use the bathroom.\n"
-  content:
-    text: ' \ud83c\udfa7 Listened to Face Value by Mozilla From IRL - Online Life
-      Is Real Life'
-- type: entry
-  published: "2019-03-18T06:30:58+00:00"
-  category:
-  - scrobble
-  - audio
-  - IRL - Online Life Is Real Life
-  - Mozilla
-  listen-of:
-    h-cite:
-      url: https://feeds.mozilla-podcasts.org/irl
-      photo: ""
-      audio:
-      - https://tracking.feedpress.it/link/17512/7983958/17f3cc4b.mp3
-      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/17f3cc4b.mp3
-      name: Bot or Not
-      author: Mozilla
-      content: "Most website visitors aren\u2019t human. They\u2019re bots. And these
-        automated accounts are having serious, real-world impact; from the 2016 election
-        to the FCC\u2019s recent, controversial net neutrality vote. Veronica Belmont
-        investigates the rise of social media bots with Lauren Kunze and Jenn Schiffer.
-        Lisa-Maria Neudert measures how bots influence politics. Butter.ai\u2019s
-        Jack Hirsch talks about what happens when your profile is stolen by a political
-        bot. Ben Nimmo teaches us how to spot and take down bot armies. And Tim Hwang
-        explores how bots can connect us in surprising, and meaningful, new ways.\n"
-  content:
-    text: ' \ud83c\udfa7 Listened to Bot or Not by Mozilla From IRL - Online Life
-      Is Real Life'
-- type: entry
-  published: "2019-03-18T12:51:11+00:00"
-  category:
-  - scrobble
-  - audio
-  - IRL - Online Life Is Real Life
-  - Mozilla
-  listen-of:
-    h-cite:
-      url: https://feeds.mozilla-podcasts.org/irl
-      photo: ""
-      audio:
-      - https://tracking.feedpress.it/link/17512/8067502/3e74ce73.mp3
-      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/3e74ce73.mp3
-      name: Digital Overload
-      author: Mozilla
-      content: |
-        What does it mean to grow up online? Veronica Belmont investigates how the www is changing us: our personalities, our bodies, and our brains. A college student shares his experience at rehab for Internet addiction. Bestselling author Nir Eyal breaks down what apps borrow from gambling technology. Writer Heather Schwedel talks about taking a cue from Kanye and breaking up with Twitter. Blogger Joshua Cousins talks about the Internet as a lifeline, in the wake of recent natural disasters. And we challenge a group of brave volunteers with a no-smartphone challenge.
-
-        IRL is an original podcast from Mozilla. For more on the series go to irlpodcast.org.
-  content:
-    text: ' \ud83c\udfa7 Listened to Digital Overload by Mozilla From IRL - Online
-      Life Is Real Life'
-- type: entry
-  published: "2019-03-18T21:37:06+00:00"
-  category:
-  - scrobble
-  - audio
-  - IRL - Online Life Is Real Life
-  - Mozilla
-  listen-of:
-    h-cite:
-      url: https://feeds.mozilla-podcasts.org/irl
-      photo: ""
-      audio:
-      - https://tracking.feedpress.it/link/17512/8734259/a5bb8cd8.mp3
-      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/a5bb8cd8.mp3
-      name: Ctrl+Alt+Facts
-      author: Mozilla
-      content: "From campaign bots to conspiracy videos, it\u2019s harder than ever
-        to discover the truth online. In conversation with The New York Times\u2019
-        Sheera Frenkel, Data For Democracy Policy Lead and Mozilla Fellow Renee DiResta,
-        and DisInfoMedia founder Jestin Coler, we navigate the age of disinformation.
-        It\u2019s the season finale of IRL, recorded live in San Francisco on March
-        18th, 2018.\n"
-  content:
-    text: ' \ud83c\udfa7 Listened to Ctrl+Alt+Facts by Mozilla From IRL - Online Life
-      Is Real Life'
-- type: entry
-  published: "2019-03-18T05:44:35+00:00"
-  category:
-  - scrobble
-  - audio
-  - IRL - Online Life Is Real Life
-  - Mozilla
-  listen-of:
-    h-cite:
-      url: https://feeds.mozilla-podcasts.org/irl
-      photo: ""
-      audio:
-      - https://tracking.feedpress.it/link/17512/7403900/e6985bbc.mp3
-      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/e6985bbc.mp3
-      name: Status Update
-      author: Mozilla
-      content: "In this bonus episode, we check in on some of Season One\u2019s stories
-        and see how they\u2019ve evolved. Activist Amanda Werner talks about their
-        turn as the Monopoly Man at the Equifax hearings, and how to create visibility
-        for victims of identity theft. Investigative journalist Marcy Wheeler follows
-        the case of hacker Marcus Hutchins, and tries to make sense of why he was
-        arrested. Troy Hunt argues that IoT devices need warning labels. And, drumroll,
-        we hear back from a troll we sent a cake to last season.\n"
-  content:
-    text: ' \ud83c\udfa7 Listened to Status Update by Mozilla From IRL - Online Life
-      Is Real Life'
 - type: entry
   published: "2019-03-18T23:28:33+00:00"
   category:
@@ -228,7 +102,7 @@
     text: ' \ud83c\udfa7 Listened to Paid Attention by Mozilla From IRL - Online Life
       Is Real Life'
 - type: entry
-  published: "2019-03-18T04:16:49+00:00"
+  published: "2019-03-18T21:37:06+00:00"
   category:
   - scrobble
   - audio
@@ -239,186 +113,42 @@
       url: https://feeds.mozilla-podcasts.org/irl
       photo: ""
       audio:
-      - https://tracking.feedpress.it/link/17512/6676819/037277dd.mp3
-      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/037277dd.mp3
-      name: All Access Pass
+      - https://tracking.feedpress.it/link/17512/8734259/a5bb8cd8.mp3
+      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/a5bb8cd8.mp3
+      name: Ctrl+Alt+Facts
       author: Mozilla
-      content: |
-        What is life like without fast Internet, and how does life change once a person has it? Should Internet access be a right, rather than a luxury? Veronica Belmont explores these questions as she talks to people about joining the digital economy. Inspiring stories of access are surfaced by members of a small Minnesota community and by a Syrian refugee who found hope in Amsterdam.
+      content: "From campaign bots to conspiracy videos, it\u2019s harder than ever
+        to discover the truth online. In conversation with The New York Times\u2019
+        Sheera Frenkel, Data For Democracy Policy Lead and Mozilla Fellow Renee DiResta,
+        and DisInfoMedia founder Jestin Coler, we navigate the age of disinformation.
+        It\u2019s the season finale of IRL, recorded live in San Francisco on March
+        18th, 2018.\n"
   content:
-    text: ' \ud83c\udfa7 Listened to All Access Pass by Mozilla From IRL - Online
-      Life Is Real Life'
-- type: entry
-  published: "2019-03-18T00:57:50+00:00"
-  category:
-  - scrobble
-  - audio
-  - IRL - Online Life Is Real Life
-  - Mozilla
-  listen-of:
-    h-cite:
-      url: https://feeds.mozilla-podcasts.org/irl
-      photo: ""
-      audio:
-      - https://tracking.feedpress.it/link/17512/6384462/a89abdf8.mp3
-      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/a89abdf8.mp3
-      name: 'Introducing IRL: Because Online Life is Real Life'
-      author: Mozilla
-      content: "Our online life is real life. We walk, talk, work, LOL and even love
-        on the Internet \u2013 but we don\u2019t always treat it like real life. Host
-        Veronica Belmont explores this disconnect with stories from the wilds of the
-        Web \u2013 and gets to the bottom of online issues that affect us all. Whether
-        it\u2019s privacy breaches, closed platforms, hacking, fake news, or cyber
-        bullying, we the people have the power to change the course of the Internet,
-        keeping it healthy, weird, and wonderful for everyone.\n"
-  content:
-    text: ' \ud83c\udfa7 Listened to Introducing IRL: Because Online Life is Real
-      Life by Mozilla From IRL - Online Life Is Real Life'
-- type: entry
-  published: "2019-03-18T01:55:59+00:00"
-  category:
-  - scrobble
-  - audio
-  - IRL - Online Life Is Real Life
-  - Mozilla
-  listen-of:
-    h-cite:
-      url: https://feeds.mozilla-podcasts.org/irl
-      photo: ""
-      audio:
-      - https://tracking.feedpress.it/link/17512/6384460/0cb629a8.mp3
-      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/0cb629a8.mp3
-      name: 'The Neutral Zone: The Future of Net Neutrality'
-      author: Mozilla
-      content: |
-        The Internet (at least in the US) is at a crossroads as the FCC is considering rolling back the net neutrality regulations it adopted in 2015.  If net neutrality is abolished, the Internet could shift from an essential service that all consumers can access to a product that can be packaged and sold to the highest bidders. Get to know the potential winners and losers on both sides of the issue.
-  content:
-    text: ' \ud83c\udfa7 Listened to The Neutral Zone: The Future of Net Neutrality
-      by Mozilla From IRL - Online Life Is Real Life'
-- type: entry
-  published: "2019-03-18T22:31:45+00:00"
-  category:
-  - scrobble
-  - audio
-  - IRL - Online Life Is Real Life
-  - Mozilla
-  listen-of:
-    h-cite:
-      url: https://feeds.mozilla-podcasts.org/irl
-      photo: ""
-      audio:
-      - https://tracking.feedpress.it/link/17512/9619766/7a906834.mp3
-      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/7a906834.mp3
-      name: The Grand Bargain
-      author: Mozilla
-      content: "We\u2019re told from a young age to \u201Caccept the things we cannot
-        change.\u201D But should this be the case online as well? We click \u201CAccept\u201D
-        every day, but often don\u2019t know what we\u2019re giving away. Is it a
-        fair trade, and should we demand a better bargain? Veronica Belmont and special
-        guest Dave Pell explore if what we get for what we give online is a good deal.
-        We hear how one man\u2019s HIV status was exposed without permission, how
-        a massive data-mining company is using our information to predict how we'll
-        behave, and why on earth our email inboxes are filling up with privacy policies.\n"
-  content:
-    text: ' \ud83c\udfa7 Listened to The Grand Bargain by Mozilla From IRL - Online
-      Life Is Real Life'
-- type: entry
-  published: "2019-03-18T21:39:05+00:00"
-  category:
-  - scrobble
-  - audio
-  - IRL - Online Life Is Real Life
-  - Mozilla
-  listen-of:
-    h-cite:
-      url: https://feeds.mozilla-podcasts.org/irl
-      photo: ""
-      audio:
-      - https://tracking.feedpress.it/link/17512/9485414/5c7fc3e8.mp3
-      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/5c7fc3e8.mp3
-      name: 'Introducing Season 3 of IRL: Because Online Life is Real Life'
-      author: Mozilla
-      content: |
-        In Season 3 of IRL, we're exploring the bargains we make online every day, and how we might approach striking better deals with the powers that be. You'll find out what happened when the U.S. Army got into the video game business, what it's like to be a professional flirter on Tinder (for real), and how a super cute pig transformed a person's life one Instagram post at a time. Episode 1 launches July 2nd. Subscribe via Apple podcasts or Spotify, or wherever you get your ear candy.
-  content:
-    text: ' \ud83c\udfa7 Listened to Introducing Season 3 of IRL: Because Online Life
-      is Real Life by Mozilla From IRL - Online Life Is Real Life'
-- type: entry
-  published: "2019-03-18T01:25:58+00:00"
-  category:
-  - scrobble
-  - audio
-  - IRL - Online Life Is Real Life
-  - Mozilla
-  listen-of:
-    h-cite:
-      url: https://feeds.mozilla-podcasts.org/irl
-      photo: ""
-      audio:
-      - https://tracking.feedpress.it/link/17512/6384461/52b4d81c.mp3
-      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/52b4d81c.mp3
-      name: All Your Data Are Belong To Us
-      author: Mozilla
-      content: "You\u2019ve heard the expression, \u201CWhen something is free, you\u2019re
-        the product.\u201D And, while you may think it\u2019s no big deal to give
-        away your personal data in exchange for free online services, how can you
-        know that what you get for what you give is a fair trade? Meet some of the
-        people determined to shape the reality (or lack thereof) of privacy online.\n"
-  content:
-    text: ' \ud83c\udfa7 Listened to All Your Data Are Belong To Us by Mozilla From
-      IRL - Online Life Is Real Life'
-- type: entry
-  published: "2019-03-18T05:16:45+00:00"
-  category:
-  - scrobble
-  - audio
-  - IRL - Online Life Is Real Life
-  - Mozilla
-  listen-of:
-    h-cite:
-      url: https://feeds.mozilla-podcasts.org/irl
-      photo: ""
-      audio:
-      - https://tracking.feedpress.it/link/17512/6823925/a3d1c6fb.mp3
-      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/a3d1c6fb.mp3
-      name: Free Speech, Limited?
-      author: Mozilla
-      content: "In our final episode of season 1, we break from our usual format to
-        host a big conversation. Recent events like the Charlottesville, VA rally
-        have revealed the Internet\u2019s role in helping spread IRL threats and violence.
-        Leaders in the tech world have represented varying positions on both protecting
-        free speech and also reducing hate speech online.  Should tech companies regulate
-        who says what on the Internet? Brandi Collins of Color of Change, Anil Dash
-        of Fog Creek Software and Jillian York of the Electronic Frontier Foundation
-        address this question and more with Veronica Belmont.\n"
-  content:
-    text: ' \ud83c\udfa7 Listened to Free Speech, Limited? by Mozilla From IRL - Online
-      Life Is Real Life'
-- type: entry
-  published: "2019-03-18T23:04:35+00:00"
-  category:
-  - scrobble
-  - audio
-  - IRL - Online Life Is Real Life
-  - Mozilla
-  listen-of:
-    h-cite:
-      url: https://feeds.mozilla-podcasts.org/irl
-      photo: ""
-      audio:
-      - https://tracking.feedpress.it/link/17512/9763731/74071418.mp3
-      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/74071418.mp3
-      name: Press Play
-      author: Mozilla
-      content: "One of the most successful recruitment tools the U.S. Army ever made
-        was\u2026a video game? Sometimes without even knowing it, gaming elements
-        in technology \u2014 often designed for addiction \u2014  are incentivizing
-        you to think certain ways and do certain things. Join Veronica Belmont and
-        co-pilot Ashley Carman as they explore the rise of gamification in our everyday
-        lives, its positives and negatives, and its future.\n"
-  content:
-    text: ' \ud83c\udfa7 Listened to Press Play by Mozilla From IRL - Online Life
+    text: ' \ud83c\udfa7 Listened to Ctrl+Alt+Facts by Mozilla From IRL - Online Life
       Is Real Life'
+- type: entry
+  published: "2019-03-18T12:51:11+00:00"
+  category:
+  - scrobble
+  - audio
+  - IRL - Online Life Is Real Life
+  - Mozilla
+  listen-of:
+    h-cite:
+      url: https://feeds.mozilla-podcasts.org/irl
+      photo: ""
+      audio:
+      - https://tracking.feedpress.it/link/17512/8067502/3e74ce73.mp3
+      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/3e74ce73.mp3
+      name: Digital Overload
+      author: Mozilla
+      content: |
+        What does it mean to grow up online? Veronica Belmont investigates how the www is changing us: our personalities, our bodies, and our brains. A college student shares his experience at rehab for Internet addiction. Bestselling author Nir Eyal breaks down what apps borrow from gambling technology. Writer Heather Schwedel talks about taking a cue from Kanye and breaking up with Twitter. Blogger Joshua Cousins talks about the Internet as a lifeline, in the wake of recent natural disasters. And we challenge a group of brave volunteers with a no-smartphone challenge.
+
+        IRL is an original podcast from Mozilla. For more on the series go to irlpodcast.org.
+  content:
+    text: ' \ud83c\udfa7 Listened to Digital Overload by Mozilla From IRL - Online
+      Life Is Real Life'
 - type: entry
   published: "2019-03-18T21:00:00+00:00"
   category:
@@ -448,7 +178,7 @@
     text: ' \ud83c\udfa7 Listened to Social Bubble Bath by Mozilla From IRL - Online
       Life Is Real Life'
 - type: entry
-  published: "2019-03-18T03:08:06+00:00"
+  published: "2019-03-18T13:19:47+00:00"
   category:
   - scrobble
   - audio
@@ -459,15 +189,88 @@
       url: https://feeds.mozilla-podcasts.org/irl
       photo: ""
       audio:
-      - https://tracking.feedpress.it/link/17512/6431718/f4d354b4.mp3
-      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/f4d354b4.mp3
-      name: The Care and Feeding of Your Troll
+      - https://tracking.feedpress.it/link/17512/8172255/10dbc4e6.mp3
+      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/10dbc4e6.mp3
+      name: Face Value
+      author: Mozilla
+      content: "From Snapchat filters to Google\u2019s art selfies, biometric technology
+        plays a growing role in our everyday lives. What do we actually give up when
+        we upload our face to these apps? Steven Talley shares his experience as the
+        victim of mistaken identity. Artist Adam Harvey investigates how racial bias
+        seeps into big data sets. Emily Kennedy and Glynnis MacNicol talk about the
+        power and risks of recognition for marginalized communities. Joseph Atick,
+        a forefather of facial recognition technology, reckons with its future. And
+        we head to China, where you\u2019ll need your face to use the bathroom.\n"
+  content:
+    text: ' \ud83c\udfa7 Listened to Face Value by Mozilla From IRL - Online Life
+      Is Real Life'
+- type: entry
+  published: "2019-03-18T01:55:59+00:00"
+  category:
+  - scrobble
+  - audio
+  - IRL - Online Life Is Real Life
+  - Mozilla
+  listen-of:
+    h-cite:
+      url: https://feeds.mozilla-podcasts.org/irl
+      photo: ""
+      audio:
+      - https://tracking.feedpress.it/link/17512/6384460/0cb629a8.mp3
+      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/0cb629a8.mp3
+      name: 'The Neutral Zone: The Future of Net Neutrality'
       author: Mozilla
       content: |
-        Trolls. You'll find them in every corner of the Internet. During this episode, explore the landscape of trolling online, its impact on individuals, and its impact on the Web. Some people are fighting back in new and tasty ways. Baked goods included.
+        The Internet (at least in the US) is at a crossroads as the FCC is considering rolling back the net neutrality regulations it adopted in 2015.  If net neutrality is abolished, the Internet could shift from an essential service that all consumers can access to a product that can be packaged and sold to the highest bidders. Get to know the potential winners and losers on both sides of the issue.
   content:
-    text: ' \ud83c\udfa7 Listened to The Care and Feeding of Your Troll by Mozilla
-      From IRL - Online Life Is Real Life'
+    text: ' \ud83c\udfa7 Listened to The Neutral Zone: The Future of Net Neutrality
+      by Mozilla From IRL - Online Life Is Real Life'
+- type: entry
+  published: "2019-03-18T23:04:35+00:00"
+  category:
+  - scrobble
+  - audio
+  - IRL - Online Life Is Real Life
+  - Mozilla
+  listen-of:
+    h-cite:
+      url: https://feeds.mozilla-podcasts.org/irl
+      photo: ""
+      audio:
+      - https://tracking.feedpress.it/link/17512/9763731/74071418.mp3
+      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/74071418.mp3
+      name: Press Play
+      author: Mozilla
+      content: "One of the most successful recruitment tools the U.S. Army ever made
+        was\u2026a video game? Sometimes without even knowing it, gaming elements
+        in technology \u2014 often designed for addiction \u2014  are incentivizing
+        you to think certain ways and do certain things. Join Veronica Belmont and
+        co-pilot Ashley Carman as they explore the rise of gamification in our everyday
+        lives, its positives and negatives, and its future.\n"
+  content:
+    text: ' \ud83c\udfa7 Listened to Press Play by Mozilla From IRL - Online Life
+      Is Real Life'
+- type: entry
+  published: "2019-03-18T04:16:49+00:00"
+  category:
+  - scrobble
+  - audio
+  - IRL - Online Life Is Real Life
+  - Mozilla
+  listen-of:
+    h-cite:
+      url: https://feeds.mozilla-podcasts.org/irl
+      photo: ""
+      audio:
+      - https://tracking.feedpress.it/link/17512/6676819/037277dd.mp3
+      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/037277dd.mp3
+      name: All Access Pass
+      author: Mozilla
+      content: |
+        What is life like without fast Internet, and how does life change once a person has it? Should Internet access be a right, rather than a luxury? Veronica Belmont explores these questions as she talks to people about joining the digital economy. Inspiring stories of access are surfaced by members of a small Minnesota community and by a Syrian refugee who found hope in Amsterdam.
+  content:
+    text: ' \ud83c\udfa7 Listened to All Access Pass by Mozilla From IRL - Online
+      Life Is Real Life'
 - type: entry
   published: "2019-03-18T14:15:47+00:00"
   category:
@@ -497,6 +300,133 @@
     text: ' \ud83c\udfa7 Listened to Algorisky by Mozilla From IRL - Online Life Is
       Real Life'
 - type: entry
+  published: "2019-03-18T05:44:35+00:00"
+  category:
+  - scrobble
+  - audio
+  - IRL - Online Life Is Real Life
+  - Mozilla
+  listen-of:
+    h-cite:
+      url: https://feeds.mozilla-podcasts.org/irl
+      photo: ""
+      audio:
+      - https://tracking.feedpress.it/link/17512/7403900/e6985bbc.mp3
+      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/e6985bbc.mp3
+      name: Status Update
+      author: Mozilla
+      content: "In this bonus episode, we check in on some of Season One\u2019s stories
+        and see how they\u2019ve evolved. Activist Amanda Werner talks about their
+        turn as the Monopoly Man at the Equifax hearings, and how to create visibility
+        for victims of identity theft. Investigative journalist Marcy Wheeler follows
+        the case of hacker Marcus Hutchins, and tries to make sense of why he was
+        arrested. Troy Hunt argues that IoT devices need warning labels. And, drumroll,
+        we hear back from a troll we sent a cake to last season.\n"
+  content:
+    text: ' \ud83c\udfa7 Listened to Status Update by Mozilla From IRL - Online Life
+      Is Real Life'
+- type: entry
+  published: "2019-03-18T01:25:58+00:00"
+  category:
+  - scrobble
+  - audio
+  - IRL - Online Life Is Real Life
+  - Mozilla
+  listen-of:
+    h-cite:
+      url: https://feeds.mozilla-podcasts.org/irl
+      photo: ""
+      audio:
+      - https://tracking.feedpress.it/link/17512/6384461/52b4d81c.mp3
+      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/52b4d81c.mp3
+      name: All Your Data Are Belong To Us
+      author: Mozilla
+      content: "You\u2019ve heard the expression, \u201CWhen something is free, you\u2019re
+        the product.\u201D And, while you may think it\u2019s no big deal to give
+        away your personal data in exchange for free online services, how can you
+        know that what you get for what you give is a fair trade? Meet some of the
+        people determined to shape the reality (or lack thereof) of privacy online.\n"
+  content:
+    text: ' \ud83c\udfa7 Listened to All Your Data Are Belong To Us by Mozilla From
+      IRL - Online Life Is Real Life'
+- type: entry
+  published: "2019-03-18T03:49:31+00:00"
+  category:
+  - scrobble
+  - audio
+  - IRL - Online Life Is Real Life
+  - Mozilla
+  listen-of:
+    h-cite:
+      url: https://feeds.mozilla-podcasts.org/irl
+      photo: ""
+      audio:
+      - https://tracking.feedpress.it/link/17512/6547098/62690553.mp3
+      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/62690553.mp3
+      name: I Spy With My Digital Eye
+      author: Mozilla
+      content: "We react against the idea of surveillance, but it turns out that we\u2019ve
+        invited it into our homes through devices like digital assistants, connected
+        toys, and baby monitors. Are you comfortable with the idea that someone might
+        be watching you or listening to you right now?\n"
+  content:
+    text: ' \ud83c\udfa7 Listened to I Spy With My Digital Eye by Mozilla From IRL
+      - Online Life Is Real Life'
+- type: entry
+  published: "2019-03-18T06:30:58+00:00"
+  category:
+  - scrobble
+  - audio
+  - IRL - Online Life Is Real Life
+  - Mozilla
+  listen-of:
+    h-cite:
+      url: https://feeds.mozilla-podcasts.org/irl
+      photo: ""
+      audio:
+      - https://tracking.feedpress.it/link/17512/7983958/17f3cc4b.mp3
+      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/17f3cc4b.mp3
+      name: Bot or Not
+      author: Mozilla
+      content: "Most website visitors aren\u2019t human. They\u2019re bots. And these
+        automated accounts are having serious, real-world impact; from the 2016 election
+        to the FCC\u2019s recent, controversial net neutrality vote. Veronica Belmont
+        investigates the rise of social media bots with Lauren Kunze and Jenn Schiffer.
+        Lisa-Maria Neudert measures how bots influence politics. Butter.ai\u2019s
+        Jack Hirsch talks about what happens when your profile is stolen by a political
+        bot. Ben Nimmo teaches us how to spot and take down bot armies. And Tim Hwang
+        explores how bots can connect us in surprising, and meaningful, new ways.\n"
+  content:
+    text: ' \ud83c\udfa7 Listened to Bot or Not by Mozilla From IRL - Online Life
+      Is Real Life'
+- type: entry
+  published: "2019-03-18T05:16:45+00:00"
+  category:
+  - scrobble
+  - audio
+  - IRL - Online Life Is Real Life
+  - Mozilla
+  listen-of:
+    h-cite:
+      url: https://feeds.mozilla-podcasts.org/irl
+      photo: ""
+      audio:
+      - https://tracking.feedpress.it/link/17512/6823925/a3d1c6fb.mp3
+      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/a3d1c6fb.mp3
+      name: Free Speech, Limited?
+      author: Mozilla
+      content: "In our final episode of season 1, we break from our usual format to
+        host a big conversation. Recent events like the Charlottesville, VA rally
+        have revealed the Internet\u2019s role in helping spread IRL threats and violence.
+        Leaders in the tech world have represented varying positions on both protecting
+        free speech and also reducing hate speech online.  Should tech companies regulate
+        who says what on the Internet? Brandi Collins of Color of Change, Anil Dash
+        of Fog Creek Software and Jillian York of the Electronic Frontier Foundation
+        address this question and more with Veronica Belmont.\n"
+  content:
+    text: ' \ud83c\udfa7 Listened to Free Speech, Limited? by Mozilla From IRL - Online
+      Life Is Real Life'
+- type: entry
   published: "2019-03-18T13:46:09+00:00"
   category:
   - scrobble
@@ -523,6 +453,76 @@
   content:
     text: ' \ud83c\udfa7 Listened to Cloak of Invisibility by Mozilla From IRL - Online
       Life Is Real Life'
+- type: entry
+  published: "2019-03-18T03:08:06+00:00"
+  category:
+  - scrobble
+  - audio
+  - IRL - Online Life Is Real Life
+  - Mozilla
+  listen-of:
+    h-cite:
+      url: https://feeds.mozilla-podcasts.org/irl
+      photo: ""
+      audio:
+      - https://tracking.feedpress.it/link/17512/6431718/f4d354b4.mp3
+      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/f4d354b4.mp3
+      name: The Care and Feeding of Your Troll
+      author: Mozilla
+      content: |
+        Trolls. You'll find them in every corner of the Internet. During this episode, explore the landscape of trolling online, its impact on individuals, and its impact on the Web. Some people are fighting back in new and tasty ways. Baked goods included.
+  content:
+    text: ' \ud83c\udfa7 Listened to The Care and Feeding of Your Troll by Mozilla
+      From IRL - Online Life Is Real Life'
+- type: entry
+  published: "2019-03-18T00:57:50+00:00"
+  category:
+  - scrobble
+  - audio
+  - IRL - Online Life Is Real Life
+  - Mozilla
+  listen-of:
+    h-cite:
+      url: https://feeds.mozilla-podcasts.org/irl
+      photo: ""
+      audio:
+      - https://tracking.feedpress.it/link/17512/6384462/a89abdf8.mp3
+      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/a89abdf8.mp3
+      name: 'Introducing IRL: Because Online Life is Real Life'
+      author: Mozilla
+      content: "Our online life is real life. We walk, talk, work, LOL and even love
+        on the Internet \u2013 but we don\u2019t always treat it like real life. Host
+        Veronica Belmont explores this disconnect with stories from the wilds of the
+        Web \u2013 and gets to the bottom of online issues that affect us all. Whether
+        it\u2019s privacy breaches, closed platforms, hacking, fake news, or cyber
+        bullying, we the people have the power to change the course of the Internet,
+        keeping it healthy, weird, and wonderful for everyone.\n"
+  content:
+    text: ' \ud83c\udfa7 Listened to Introducing IRL: Because Online Life is Real
+      Life by Mozilla From IRL - Online Life Is Real Life'
+- type: entry
+  published: "2019-03-18T02:22:18+00:00"
+  category:
+  - scrobble
+  - audio
+  - IRL - Online Life Is Real Life
+  - Mozilla
+  listen-of:
+    h-cite:
+      url: https://feeds.mozilla-podcasts.org/irl
+      photo: ""
+      audio:
+      - https://tracking.feedpress.it/link/17512/6384459/558fffa7.mp3
+      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/558fffa7.mp3
+      name: Hack Jobs
+      author: Mozilla
+      content: "Have you been hacked, or been the victim of malware or ransomware?
+        Humans make the internet vibrant, but we're also the weakest link \u2014 we're
+        predictable and often easily fooled. This episode of IRL focuses on our internet
+        insecurity. Meet the unsung heroes fighting to keep us safe.\n"
+  content:
+    text: ' \ud83c\udfa7 Listened to Hack Jobs by Mozilla From IRL - Online Life Is
+      Real Life'
 - type: entry
   published: "2019-03-18T00:55:13+00:00"
   category:

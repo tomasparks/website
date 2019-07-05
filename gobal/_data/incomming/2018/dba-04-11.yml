@@ -25,29 +25,6 @@
     text: ' \ud83c\udfa7 Listened to Can The Blockchain Save Publishers? by Techdirt
       From Techdirt'
 - type: entry
-  published: "2018-04-11T16:42:47+00:00"
-  category:
-  - scrobble
-  - audio
-  - Adam Ruins Everything
-  - Adam Ruins Everything
-  listen-of:
-    h-cite:
-      url: http://maximumfun.org/feeds/are.xml
-      photo: ""
-      audio:
-      - http://media.adknit.com/a/f/90/adam-ruins-everything/kktsmi.1-1.mp3
-      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_30_Jackie_Stevens_Exposes_the_Bizarre_World_of_Immigrations_Courts_and_Detention_Centers.mp3
-      name: 'Ep 30: Jackie Stevens Exposes the Bizarre World of Immigrations Courts
-        and Detention Centers'
-      author: Adam Ruins Everything
-      content: 'Immigration is such a hot topic these days, but it''s rare we actually
-        get into the logistics of how the system works (or doesn''t). '
-  content:
-    text: ' \ud83c\udfa7 Listened to Ep 30: Jackie Stevens Exposes the Bizarre World
-      of Immigrations Courts and Detention Centers by Adam Ruins Everything From Adam
-      Ruins Everything'
-- type: entry
   published: "2018-04-11T19:58:44+00:00"
   category:
   - scrobble
@@ -110,4 +87,27 @@
   content:
     text: ' \ud83c\udfa7 Listened to Ep 31: Courtney Jung on the History of Formula
       Feeding and Why It Gets a Bad Rap by Adam Ruins Everything From Adam Ruins Everything'
+- type: entry
+  published: "2018-04-11T16:42:47+00:00"
+  category:
+  - scrobble
+  - audio
+  - Adam Ruins Everything
+  - Adam Ruins Everything
+  listen-of:
+    h-cite:
+      url: http://maximumfun.org/feeds/are.xml
+      photo: ""
+      audio:
+      - http://media.adknit.com/a/f/90/adam-ruins-everything/kktsmi.1-1.mp3
+      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_30_Jackie_Stevens_Exposes_the_Bizarre_World_of_Immigrations_Courts_and_Detention_Centers.mp3
+      name: 'Ep 30: Jackie Stevens Exposes the Bizarre World of Immigrations Courts
+        and Detention Centers'
+      author: Adam Ruins Everything
+      content: 'Immigration is such a hot topic these days, but it''s rare we actually
+        get into the logistics of how the system works (or doesn''t). '
+  content:
+    text: ' \ud83c\udfa7 Listened to Ep 30: Jackie Stevens Exposes the Bizarre World
+      of Immigrations Courts and Detention Centers by Adam Ruins Everything From Adam
+      Ruins Everything'
 ...

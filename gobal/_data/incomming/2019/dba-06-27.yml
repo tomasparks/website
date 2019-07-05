@@ -1,0 +1,22 @@
+---
+- type: entry
+  published: "2019-06-27T11:37:16+00:00"
+  category:
+  - scrobble
+  - audio
+  - 'RPGMP3: Yorkton Gamer Guild Actual Play Podcast'
+  - Yorkton Gamer Guild
+  listen-of:
+    h-cite:
+      url: http://rpgmp3.com/v5/category/group/yorktongamerguild/feed/
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Yorkton_Gamer_Guild/pathfinder_dragons_delve_part_17.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/pathfinder_dragons_delve_part_17.mp3
+      name: "Dragon\u2019s Delve Session 17"
+      author: Yorkton Gamer Guild
+      content: 'Session 17 - Episode 17: Pink Supremacy'
+  content:
+    text: " \\ud83c\\udfa7 Listened to Dragon\u2019s Delve Session 17 by @rpgmp3 ,
+      @GM_Lockhart & @ygguild From #RPGMP3ActualPlayPodcast #YorktonGamerGuildActualPlayPodcast"
+...

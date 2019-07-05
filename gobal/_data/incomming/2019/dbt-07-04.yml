@@ -1,0 +1,29 @@
+---
+- type: entry
+  published: "2019-07-04T19:51:03+00:00"
+  url: https://twitter.com/tomasparksts/status/1146869048258334720
+  category:
+  - https://twitter.com/HamillHimself
+  - https://twitter.com/mmasnick
+  in-reply-to:
+  - https://twitter.com/HamillHimself/status/1146868006590377984
+  content:
+    text: cc @mmasnick
+    html: cc <a href="https://twitter.com/mmasnick">@mmasnick</a>
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/HamillHimself:
+      type: card
+      name: Mark Hamill
+      url: https://twitter.com/HamillHimself
+      photo: ~
+    https://twitter.com/mmasnick:
+      type: card
+      name: Mike Masnick
+      url: https://twitter.com/mmasnick
+      photo: ~
+...

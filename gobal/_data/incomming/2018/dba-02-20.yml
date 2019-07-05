@@ -1,5 +1,27 @@
 ---
 - type: entry
+  published: "2018-02-20T14:33:44+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/IRCkU0rP-qc/113._Joel_Johnson_on_Gawker_and_the_Rise_of_Professional_Blogging.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/113_Joel_Johnson_on_Gawker_and_the_Rise_of_Professional_Blogging.mp3
+      name: 113. Joel Johnson on Gawker and the Rise of Professional Blogging
+      author: Brian McCullough @brianmcc
+      content: A history of the Internet Era from Netscape to the iPad. Oral histories
+        from the people that made the technology happen. "Chapter" episodes providing
+        background on the history of the companies.
+  content:
+    text: ' \ud83c\udfa7 Listened to 113. Joel Johnson on Gawker and the Rise of Professional
+      Blogging by Brian McCullough @brianmcc From Internet History Podcast'
+- type: entry
   published: "2018-02-20T15:30:55+00:00"
   category:
   - scrobble
@@ -21,30 +43,6 @@
   content:
     text: ' \ud83c\udfa7 Listened to 114. Douglas Colbeth, CEO of Spyglass by Brian
       McCullough @brianmcc From Internet History Podcast'
-- type: entry
-  published: "2018-02-20T17:09:57+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough @brianmcc
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/l7gzFEFitFM/116._Director_of_the_Documentary_Silicon_Cowboys__Silicon_Cowboys__Jason_Cohen.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/116_Director_of_the_Documentary_Silicon_Cowboys_SiliconCowboys_Jason_Cohen.mp3
-      name: 116. Director of the Documentary Silicon Cowboys ( @Silicon_Cowboys )
-        Jason Cohen
-      author: Brian McCullough @brianmcc
-      content: A history of the Internet Era from Netscape to the iPad. Oral histories
-        from the people that made the technology happen. "Chapter" episodes providing
-        background on the history of the companies.
-  content:
-    text: ' \ud83c\udfa7 Listened to 116. Director of the Documentary Silicon Cowboys
-      ( @Silicon_Cowboys ) Jason Cohen by Brian McCullough @brianmcc From Internet
-      History Podcast'
 - type: entry
   published: "2018-02-20T16:44:06+00:00"
   category:
@@ -70,7 +68,7 @@
       and Steve Jobs'' Return to Apple by Brian McCullough @brianmcc From Internet
       History Podcast'
 - type: entry
-  published: "2018-02-20T14:33:44+00:00"
+  published: "2018-02-20T17:09:57+00:00"
   category:
   - scrobble
   - audio
@@ -81,14 +79,16 @@
       url: http://feeds.feedburner.com/InternetHistoryPodcast
       photo: ""
       audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/IRCkU0rP-qc/113._Joel_Johnson_on_Gawker_and_the_Rise_of_Professional_Blogging.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/113_Joel_Johnson_on_Gawker_and_the_Rise_of_Professional_Blogging.mp3
-      name: 113. Joel Johnson on Gawker and the Rise of Professional Blogging
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/l7gzFEFitFM/116._Director_of_the_Documentary_Silicon_Cowboys__Silicon_Cowboys__Jason_Cohen.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/116_Director_of_the_Documentary_Silicon_Cowboys_SiliconCowboys_Jason_Cohen.mp3
+      name: 116. Director of the Documentary Silicon Cowboys ( @Silicon_Cowboys )
+        Jason Cohen
       author: Brian McCullough @brianmcc
       content: A history of the Internet Era from Netscape to the iPad. Oral histories
         from the people that made the technology happen. "Chapter" episodes providing
         background on the history of the companies.
   content:
-    text: ' \ud83c\udfa7 Listened to 113. Joel Johnson on Gawker and the Rise of Professional
-      Blogging by Brian McCullough @brianmcc From Internet History Podcast'
+    text: ' \ud83c\udfa7 Listened to 116. Director of the Documentary Silicon Cowboys
+      ( @Silicon_Cowboys ) Jason Cohen by Brian McCullough @brianmcc From Internet
+      History Podcast'
 ...

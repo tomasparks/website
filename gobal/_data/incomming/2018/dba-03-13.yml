@@ -1,29 +1,5 @@
 ---
 - type: entry
-  published: "2018-03-13T13:22:14+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/365434883-techdirt-can-a-trivia-app-resurrect-appointment-viewing.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/365434883-techdirt-can-a-trivia-app-resurrect-appointment-viewing.mp3
-      name: Can A Trivia App Resurrect Appointment Viewing?
-      author: Techdirt
-      content: "Normally, we wouldn't dedicate a whole episode of the podcast to talking
-        about a single app \u2014 but every now and then something small comes along
-        that contains innovations worth exploring. So this week, we're taking a look
-        at the hit trivia app HQ, which is one of the first new things in recent memory
-        to gain real momentum with \"appointment viewing\"."
-  content:
-    text: ' \ud83c\udfa7 Listened to Can A Trivia App Resurrect Appointment Viewing?
-      by Techdirt From Techdirt'
-- type: entry
   published: "2018-03-13T11:41:42+00:00"
   category:
   - scrobble
@@ -50,6 +26,30 @@
   content:
     text: ' \ud83c\udfa7 Listened to The Lost Art Of Productive Debate by Techdirt
       From Techdirt'
+- type: entry
+  published: "2018-03-13T13:22:14+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/365434883-techdirt-can-a-trivia-app-resurrect-appointment-viewing.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/365434883-techdirt-can-a-trivia-app-resurrect-appointment-viewing.mp3
+      name: Can A Trivia App Resurrect Appointment Viewing?
+      author: Techdirt
+      content: "Normally, we wouldn't dedicate a whole episode of the podcast to talking
+        about a single app \u2014 but every now and then something small comes along
+        that contains innovations worth exploring. So this week, we're taking a look
+        at the hit trivia app HQ, which is one of the first new things in recent memory
+        to gain real momentum with \"appointment viewing\"."
+  content:
+    text: ' \ud83c\udfa7 Listened to Can A Trivia App Resurrect Appointment Viewing?
+      by Techdirt From Techdirt'
 - type: entry
   published: "2018-03-13T12:50:11+00:00"
   category:

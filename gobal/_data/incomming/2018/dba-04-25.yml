@@ -24,29 +24,6 @@
     text: ' \ud83c\udfa7 Listened to Getting News Without Social Media by Techdirt
       From Techdirt'
 - type: entry
-  published: "2018-04-25T22:28:26+00:00"
-  category:
-  - scrobble
-  - audio
-  - Adam Ruins Everything
-  - Adam Ruins Everything
-  listen-of:
-    h-cite:
-      url: http://maximumfun.org/feeds/are.xml
-      photo: ""
-      audio:
-      - http://media.adknit.com/a/f/90/adam-ruins-everything/hd7avq.1-1.mp3
-      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_10_Parking_with_Donald_Shoup_Dogg_Shoup.mp3
-      name: 'Ep 10: Parking with Donald "Shoup Dogg" Shoup'
-      author: Adam Ruins Everything
-      content: "If you have any questions about parking,\_Donald Shoup\_will definitely
-        know the answer. The Distinguished Research Professor at UCLA's Department
-        of Urban Planning is the author of  The High Cost of Free Parking\_and studies
-        how parking..."
-  content:
-    text: ' \ud83c\udfa7 Listened to Ep 10: Parking with Donald "Shoup Dogg" Shoup
-      by Adam Ruins Everything From Adam Ruins Everything'
-- type: entry
   published: "2018-04-25T21:19:20+00:00"
   category:
   - scrobble
@@ -68,5 +45,28 @@
         bite mark "expert" Michael West.
   content:
     text: ' \ud83c\udfa7 Listened to Ep 11: Bad Forensic Science with Chris Fabricant
+      by Adam Ruins Everything From Adam Ruins Everything'
+- type: entry
+  published: "2018-04-25T22:28:26+00:00"
+  category:
+  - scrobble
+  - audio
+  - Adam Ruins Everything
+  - Adam Ruins Everything
+  listen-of:
+    h-cite:
+      url: http://maximumfun.org/feeds/are.xml
+      photo: ""
+      audio:
+      - http://media.adknit.com/a/f/90/adam-ruins-everything/hd7avq.1-1.mp3
+      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_10_Parking_with_Donald_Shoup_Dogg_Shoup.mp3
+      name: 'Ep 10: Parking with Donald "Shoup Dogg" Shoup'
+      author: Adam Ruins Everything
+      content: "If you have any questions about parking,\_Donald Shoup\_will definitely
+        know the answer. The Distinguished Research Professor at UCLA's Department
+        of Urban Planning is the author of  The High Cost of Free Parking\_and studies
+        how parking..."
+  content:
+    text: ' \ud83c\udfa7 Listened to Ep 10: Parking with Donald "Shoup Dogg" Shoup
       by Adam Ruins Everything From Adam Ruins Everything'
 ...

@@ -1,0 +1,35 @@
+---
+- type: entry
+  published: "2019-07-05T16:04:48+00:00"
+  url: https://twitter.com/tomasparksts/status/1147174497369202688
+  category:
+  - https://twitter.com/brianmcc
+  - https://twitter.com/t
+  - https://twitter.com/NetHistoryPod
+  content:
+    text: '@brianmcc you should interview @t for the @NetHistoryPod  tantek.com'
+    html: <a href="https://twitter.com/brianmcc">@brianmcc</a> you should interview
+      <a href="https://twitter.com/t">@t</a> for the <a href="https://twitter.com/NetHistoryPod">@NetHistoryPod</a>  <a
+      href="http://tantek.com/">tantek.com</a>
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/brianmcc:
+      type: card
+      name: Brian McCullough
+      url: https://twitter.com/brianmcc
+      photo: ~
+    https://twitter.com/t:
+      type: card
+      name: "Tantek \xC7elik"
+      url: https://twitter.com/t
+      photo: ~
+    https://twitter.com/NetHistoryPod:
+      type: card
+      name: InternetHistoryPod
+      url: https://twitter.com/NetHistoryPod
+      photo: ~
+...

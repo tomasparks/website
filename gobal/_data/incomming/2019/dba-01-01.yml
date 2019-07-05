@@ -1,25 +1,5 @@
 ---
 - type: entry
-  published: "2019-01-01T05:27:28+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/546916341-techdirt-can-anyone-disrupt-the-disruptors.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/546916341-techdirt-can-anyone-disrupt-the-disruptors.mp3
-      name: Can Anyone Disrupt The Disruptors?
-      author: Techdirt
-      content: Can Anyone Disrupt The Disruptors? by Techdirt
-  content:
-    text: ' \ud83c\udfa7 Listened to Can Anyone Disrupt The Disruptors? by Techdirt
-      From Techdirt'
-- type: entry
   published: "2019-01-01T07:08:59+00:00"
   category:
   - scrobble
@@ -43,6 +23,26 @@
   content:
     text: ' \ud83c\udfa7 Listened to Section 230 And Political Bias by Techdirt From
       Techdirt'
+- type: entry
+  published: "2019-01-01T05:27:28+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/546916341-techdirt-can-anyone-disrupt-the-disruptors.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/546916341-techdirt-can-anyone-disrupt-the-disruptors.mp3
+      name: Can Anyone Disrupt The Disruptors?
+      author: Techdirt
+      content: Can Anyone Disrupt The Disruptors? by Techdirt
+  content:
+    text: ' \ud83c\udfa7 Listened to Can Anyone Disrupt The Disruptors? by Techdirt
+      From Techdirt'
 - type: entry
   published: "2019-01-01T06:03:08+00:00"
   category:

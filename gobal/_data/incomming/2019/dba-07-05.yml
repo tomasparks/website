@@ -1,0 +1,91 @@
+---
+- type: entry
+  published: "2019-07-05T13:04:51+00:00"
+  category:
+  - scrobble
+  - audio
+  - 'RPGMP3: Yorkton Gamer Guild Actual Play Podcast'
+  - Yorkton Gamer Guild
+  listen-of:
+    h-cite:
+      url: http://rpgmp3.com/v5/category/group/yorktongamerguild/feed/
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Yorkton_Gamer_Guild/pathfinder_dragons_delve_part_19.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/pathfinder_dragons_delve_part_19.mp3
+      name: "Dragon\u2019s Delve Session 19"
+      author: Yorkton Gamer Guild
+      content: 'Session 19 - Episode 19: Return of the Teleporting Cube!'
+  content:
+    text: " \\ud83c\\udfa7 Listened to Dragon\u2019s Delve Session 19 by @rpgmp3 ,
+      @GM_Lockhart & @ygguild From #RPGMP3ActualPlayPodcast #YorktonGamerGuildActualPlayPodcast"
+- type: entry
+  published: "2019-07-05T16:02:54+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - https://media.acast.com/internethistorypodcast/198.inventorofthehashtag-chrismessina/media.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/198_Inventor_of_the_Hashtag_Chris_Messina.mp3
+      name: 198. Inventor of the Hashtag, Chris Messina
+      author: Brian McCullough
+      content: "Well, as we say in this episode, he\u2019ll always be known as the
+        inventor of the hashtag, but Chris Messina has been central to so many things
+        in tech over the last 20 years or so. Helped Mozilla launch Firefox. Founded
+        BarCamp where so much Web 2.0 goodness happened and was launched. Cofounded
+        the first co-working space in San Francisco. Helped Google try to grok social
+        with Google+. Oh, and that hashtag business."
+  content:
+    text: ' \ud83c\udfa7 Listened to 198. Inventor of the Hashtag, Chris Messina by
+      Brian McCullough From Internet History Podcast'
+- type: entry
+  published: "2019-07-05T13:45:02+00:00"
+  category:
+  - scrobble
+  - audio
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
+  listen-of:
+    h-cite:
+      url: http://textfiles.libsyn.com/rss
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_69.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_PUBG_and_Life_Strats_Episode.mp3
+      name: The PUBG and Life Strats Episode
+      author: Jason Scott
+      content: The PUBG And Life Strats Episode They go together better than expected.
+  content:
+    text: ' \ud83c\udfa7 Listened to The PUBG and Life Strats Episode by @textfiles
+      From #JasonScottTalksHisWayOutofIt'
+- type: entry
+  published: "2019-07-05T13:24:29+00:00"
+  category:
+  - scrobble
+  - audio
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
+  listen-of:
+    h-cite:
+      url: http://textfiles.libsyn.com/rss
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_68.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Long_Drive_Episode.mp3
+      name: The Long Drive Episode
+      author: Jason Scott
+      content: "The Long Drive Episode: A Phone Call in Denver, The Meaning of PC-Board,
+        Overnight, Desolation, An AM Radio Companion, Mountains For a Change, The
+        Simple Interview, The Drive Back, Solitary, Not Alone Ever Again. The raw
+        interview with David W. Terry and Steve Catmull is available here: \_https://archive.org/details/bbs-20030221-terry\_
+        Photos I took pictures of on my trip to Wyoming and Utah are here: \_http://bbsdocumentary.com/photos/jason/WYOMING/\_
+        \_http://bbsdocumentary.com/photos/jason/UTAH/\_"
+  content:
+    text: ' \ud83c\udfa7 Listened to The Long Drive Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
+...

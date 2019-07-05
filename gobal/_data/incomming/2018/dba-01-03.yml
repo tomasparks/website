@@ -1,5 +1,27 @@
 ---
 - type: entry
+  published: "2018-01-03T16:17:56+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/tRJJPRcJkLI/53._Match.com_and_Sex.com_Founder_Gary_Kremen.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/53_Matchcom_and_Sexcom_Founder_Gary_Kremen.mp3
+      name: 53. Match.com and Sex.com Founder Gary Kremen
+      author: Brian McCullough @brianmcc
+      content: A history of the Internet Era from Netscape to the iPad. Oral histories
+        from the people that made the technology happen. "Chapter" episodes providing
+        background on the history of the companies.
+  content:
+    text: ' \ud83c\udfa7 Listened to 53. Match.com and Sex.com Founder Gary Kremen
+      by Brian McCullough @brianmcc From Internet History Podcast'
+- type: entry
   published: "2018-01-03T13:53:33+00:00"
   category:
   - scrobble
@@ -43,26 +65,4 @@
   content:
     text: ' \ud83c\udfa7 Listened to 52. (Ch 7.1) The Birth of Amazon.com by Brian
       McCullough @brianmcc From Internet History Podcast'
-- type: entry
-  published: "2018-01-03T16:17:56+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough @brianmcc
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/tRJJPRcJkLI/53._Match.com_and_Sex.com_Founder_Gary_Kremen.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/53_Matchcom_and_Sexcom_Founder_Gary_Kremen.mp3
-      name: 53. Match.com and Sex.com Founder Gary Kremen
-      author: Brian McCullough @brianmcc
-      content: A history of the Internet Era from Netscape to the iPad. Oral histories
-        from the people that made the technology happen. "Chapter" episodes providing
-        background on the history of the companies.
-  content:
-    text: ' \ud83c\udfa7 Listened to 53. Match.com and Sex.com Founder Gary Kremen
-      by Brian McCullough @brianmcc From Internet History Podcast'
 ...
