@@ -1,0 +1,213 @@
+---
+- type: entry
+  published: "2019-07-07T20:05:17+00:00"
+  url: https://twitter.com/tomasparksts/status/1147959793014808576
+  category:
+  - https://twitter.com/Octav1usKitten
+  in-reply-to:
+  - https://twitter.com/tomasparksts/status/1147929854894960640
+  content:
+    text: correction GMT -10
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/Octav1usKitten:
+      type: card
+      name: King Octav1us
+      url: https://twitter.com/Octav1usKitten
+      photo: ~
+- type: entry
+  published: "2019-07-07T18:16:59+00:00"
+  url: https://twitter.com/tomasparksts/status/1147932540662980608
+  category:
+  - https://twitter.com/Voronthered
+  - https://twitter.com/Octav1usKitten
+  - https://twitter.com/C0LINMOORE
+  in-reply-to:
+  - https://twitter.com/Voronthered/status/1147886951971938304
+  content:
+    text: "see @C0LINMOORE photo mobile.twitter.com/C0LINMOORE/sta\u2026"
+    html: "see <a href=\"https://twitter.com/C0LINMOORE\">@C0LINMOORE</a> photo <a
+      href=\"https://mobile.twitter.com/C0LINMOORE/status/1143650263447851010/photo/1\">mobile.twitter.com/C0LINMOORE/sta\u2026</a>"
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/Voronthered:
+      type: card
+      name: Michael Jolly
+      url: https://twitter.com/Voronthered
+      photo: ~
+    https://twitter.com/Octav1usKitten:
+      type: card
+      name: King Octav1us
+      url: https://twitter.com/Octav1usKitten
+      photo: ~
+    https://twitter.com/C0LINMOORE:
+      type: card
+      name: Colin Moore
+      url: https://twitter.com/C0LINMOORE
+      photo: ~
+- type: entry
+  published: "2019-07-07T18:06:19+00:00"
+  url: https://twitter.com/tomasparksts/status/1147929854894960640
+  category:
+  - https://twitter.com/Octav1usKitten
+  in-reply-to:
+  - https://twitter.com/tomasparksts/status/1147929084309020672
+  content:
+    text: 4am local tine (AEST) GMT  +9
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/Octav1usKitten:
+      type: card
+      name: King Octav1us
+      url: https://twitter.com/Octav1usKitten
+      photo: ~
+- type: entry
+  published: "2019-07-07T18:03:15+00:00"
+  url: https://twitter.com/tomasparksts/status/1147929084309020672
+  category:
+  - https://twitter.com/Octav1usKitten
+  video:
+  - https://video.twimg.com/tweet_video/D-5DaRJUYAAzaaV.mp4
+  in-reply-to:
+  - https://twitter.com/Octav1usKitten/status/1147914898300702720
+  content:
+    text: Cant go to sleep NOW! octy in 3hrs
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/Octav1usKitten:
+      type: card
+      name: King Octav1us
+      url: https://twitter.com/Octav1usKitten
+      photo: ~
+- type: entry
+  published: "2019-07-07T13:54:27+00:00"
+  url: https://twitter.com/tomasparksts/status/1147866469268504578
+  category:
+  - https://twitter.com/MikeIsaac
+  - https://twitter.com/RPGMP3
+  in-reply-to:
+  - https://twitter.com/MikeIsaac/status/1147702382060400641
+  content:
+    text: cc @RPGMP3
+    html: cc <a href="https://twitter.com/RPGMP3">@RPGMP3</a>
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/MikeIsaac:
+      type: card
+      name: rat king
+      url: https://twitter.com/MikeIsaac
+      photo: ~
+    https://twitter.com/RPGMP3:
+      type: card
+      name: RPGMP3
+      url: https://twitter.com/RPGMP3
+      photo: ~
+- type: entry
+  published: "2019-07-07T13:53:51+00:00"
+  url: https://twitter.com/tomasparksts/status/1147866320249114625
+  category:
+  - https://twitter.com/brianmcc
+  - https://twitter.com/RPGMP3
+  in-reply-to:
+  - https://twitter.com/brianmcc/status/1147863245623091201
+  content:
+    text: cc @RPGMP3
+    html: cc <a href="https://twitter.com/RPGMP3">@RPGMP3</a>
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/brianmcc:
+      type: card
+      name: Brian McCullough
+      url: https://twitter.com/brianmcc
+      photo: ~
+    https://twitter.com/RPGMP3:
+      type: card
+      name: RPGMP3
+      url: https://twitter.com/RPGMP3
+      photo: ~
+- type: entry
+  published: "2019-07-07T12:06:43+00:00"
+  url: https://twitter.com/tomasparksts/status/1147839356259856385
+  category:
+  - https://twitter.com/Octav1usKitten
+  in-reply-to:
+  - https://twitter.com/Octav1usKitten/status/1147807603227025409
+  content:
+    text: in the early 90s, the effects would have cost 100s of Ks for studios
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/Octav1usKitten:
+      type: card
+      name: King Octav1us
+      url: https://twitter.com/Octav1usKitten
+      photo: ~
+- type: entry
+  published: "2019-07-07T02:48:29+00:00"
+  url: https://twitter.com/tomasparksts/status/1147698875542597633
+  category:
+  - https://twitter.com/dosnostalgic
+  in-reply-to:
+  - https://twitter.com/dosnostalgic/status/1147686331054772224
+  content:
+    text: because there was no perceived value until cable tv and the VCR became popular
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/dosnostalgic:
+      type: card
+      name: "Anatoly Shashkin\U0001F4BE"
+      url: https://twitter.com/dosnostalgic
+      photo: ~
+- type: entry
+  published: "2019-07-07T01:52:56+00:00"
+  url: https://twitter.com/tomasparksts/status/1147684893435895810
+  category:
+  - https://twitter.com/dosnostalgic
+  in-reply-to:
+  - https://twitter.com/dosnostalgic/status/1147682965570371584
+  content:
+    text: see en.wikipedia.org/wiki/Wiping
+    html: see <a href="https://en.wikipedia.org/wiki/Wiping">en.wikipedia.org/wiki/Wiping</a>
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/dosnostalgic:
+      type: card
+      name: "Anatoly Shashkin\U0001F4BE"
+      url: https://twitter.com/dosnostalgic
+      photo: ~
+...

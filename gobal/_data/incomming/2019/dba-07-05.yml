@@ -20,6 +20,34 @@
     text: " \\ud83c\\udfa7 Listened to Dragon\u2019s Delve Session 19 by @rpgmp3 ,
       @GM_Lockhart & @ygguild From #RPGMP3ActualPlayPodcast #YorktonGamerGuildActualPlayPodcast"
 - type: entry
+  published: "2019-07-05T20:20:24+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - https://media.acast.com/internethistorypodcast/untitledepisode/media.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/199_Is_Tech_Making_Us_Bored_Lonely_Angry_Stupid.mp3
+      name: 199. Is Tech Making Us- Bored, Lonely, Angry, Stupid?
+      author: Brian McCullough
+      content: 'Is technology really rotting our brains, destroying our society...
+        or is that what everyone has always worried about with every technological
+        advance, going back to tv, or telephones, or even writing letters? The new
+        book, Bored, Lonely, Angry, Stupid: Changing Feelings about Technology, from
+        the Telegraph to Twitter tries to look at this question from a historical
+        perspective. Is it really different this time? But more importantly... to
+        what degree has technological change impacted how we think of things, and
+        vice-versa.My thanks to the authors, Luke Fernandez and Susan J. Matt.  For
+        information regarding your data privacy, visit acast.com/privacy'
+  content:
+    text: ' \ud83c\udfa7 Listened to 199. Is Tech Making Us- Bored, Lonely, Angry,
+      Stupid? by Brian McCullough From Internet History Podcast'
+- type: entry
   published: "2019-07-05T16:02:54+00:00"
   category:
   - scrobble

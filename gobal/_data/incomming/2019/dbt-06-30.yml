@@ -1,5 +1,6 @@
 ---
-- type: entry
+0:
+  type: entry
   published: "2019-06-30T17:29:01+00:00"
   url: https://twitter.com/tomasparksts/status/1145383752400437248
   category:
@@ -26,7 +27,8 @@
       name: LGR
       url: https://twitter.com/lazygamereviews
       photo: ~
-- type: entry
+2:
+  type: entry
   published: "2019-06-30T10:02:07+00:00"
   url: https://twitter.com/tomasparksts/status/1145271285791903745
   category:
@@ -59,7 +61,8 @@
       name: techdirt
       url: https://twitter.com/techdirt
       photo: ~
-- type: entry
+3:
+  type: entry
   published: "2019-06-30T05:15:12+00:00"
   url: https://twitter.com/tomasparksts/status/1145199080152293376
   category:

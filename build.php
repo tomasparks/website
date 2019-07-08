@@ -10,7 +10,7 @@ $builddefualts = array (
                         "gitAuthor" => "tomasparks",
                         "includesSrcs" => array ("gobal"),
                         "tmpRoot" => "tmp",
-                        "gobal-pre"=> array ("tp-copy","webmentions","twitter2yml","calibredb"),
+                        "gobal-pre"=> array ("git-pull","tp-copy","webmentions","twitter2yml","calibredb"),
                         "gobal-post" => array ("hfeed")
                         );
                         
@@ -65,7 +65,11 @@ echo "prebuilding....\n";
 foreach ($building['gobal-pre'] as $pre) {
     echo "Doing ".$pre."...\n";
     switch ($pre) {
-                case "tp-copy":
+            case "git-pull":
+                chdir("".$root."/".$building['srcRoot']);
+                passthru("git pull");
+                break;
+            case "tp-copy":
                 passthru("cp '/home/tom/.local/share/rhythmbox/rhythmdb.xml' '".$root."/".$building['srcRoot']."/third-party/rhythmdb.xml'");
                 breaK;
             case "webmentions":

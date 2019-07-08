@@ -1,0 +1,88 @@
+---
+0:
+  type: entry
+  published: "2019-07-06T23:59:52+00:00"
+  url: https://twitter.com/tomasparksts/status/1147656441014042624
+  category:
+  - https://twitter.com/lazygamereviews
+  - https://twitter.com/TNT_Amusements
+  in-reply-to:
+  - https://twitter.com/lazygamereviews/status/1147595897414529025
+  content:
+    text: cc @TNT_Amusements
+    html: cc <a href="https://twitter.com/TNT_Amusements">@TNT_Amusements</a>
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/lazygamereviews:
+      type: card
+      name: LGR
+      url: https://twitter.com/lazygamereviews
+      photo: ~
+    https://twitter.com/TNT_Amusements:
+      type: card
+      name: TNT Amusements Inc.
+      url: https://twitter.com/TNT_Amusements
+      photo: ~
+2:
+  type: entry
+  published: "2019-07-06T23:57:19+00:00"
+  url: https://twitter.com/tomasparksts/status/1147655797939163136
+  category:
+  - https://twitter.com/mmasnick
+  - https://twitter.com/YouTube
+  - https://twitter.com/Twitter
+  in-reply-to:
+  - https://twitter.com/mmasnick/status/1147624513057595392
+  content:
+    text: were do people find these nutters, I never see one on @YouTube or @Twitter
+    html: were do people find these nutters, I never see one on <a href="https://twitter.com/YouTube">@YouTube</a>
+      or <a href="https://twitter.com/Twitter">@Twitter</a>
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/mmasnick:
+      type: card
+      name: Mike Masnick
+      url: https://twitter.com/mmasnick
+      photo: ~
+    https://twitter.com/YouTube:
+      type: card
+      name: YouTube
+      url: https://twitter.com/YouTube
+      photo: ~
+    https://twitter.com/Twitter:
+      type: card
+      name: Twitter
+      url: https://twitter.com/Twitter
+      photo: ~
+3:
+  type: entry
+  published: "2019-07-06T20:54:12+00:00"
+  url: https://twitter.com/tomasparksts/status/1147609716412956672
+  category:
+  - https://twitter.com/TheNerdforge
+  content:
+    text: "just #saw #Epic #Wizard #Castle #diy  by @TheNerdforge #Wow youtube.com/watch?v=_2N-AL\u2026"
+    html: "just <a href=\"https://twitter.com/search?q=%23saw\">#saw</a> <a href=\"https://twitter.com/search?q=%23Epic\">#Epic</a>
+      <a href=\"https://twitter.com/search?q=%23Wizard\">#Wizard</a> <a href=\"https://twitter.com/search?q=%23Castle\">#Castle</a>
+      <a href=\"https://twitter.com/search?q=%23diy\">#diy</a>  by <a href=\"https://twitter.com/TheNerdforge\">@TheNerdforge</a>
+      <a href=\"https://twitter.com/search?q=%23Wow\">#Wow</a> <a href=\"https://www.youtube.com/watch?v=_2N-AL515rE\">youtube.com/watch?v=_2N-AL\u2026</a>"
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/TheNerdforge:
+      type: card
+      name: Nerdforge
+      url: https://twitter.com/TheNerdforge
+      photo: ~
+...
