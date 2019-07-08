@@ -1,6 +1,46 @@
 ---
 2019:
   "07":
+    08:
+    - type: entry
+      published: "2019-07-08T18:49:36+00:00"
+      url: https://twitter.com/tomasparksts/status/1148303137150627840
+      category:
+      - https://twitter.com/PandaMother
+      - https://twitter.com/PushinUpRoses
+      - https://twitter.com/Octav1usKitten
+      - https://twitter.com/Twitch
+      in-reply-to:
+      - https://twitter.com/PandaMother/status/1148279787657596928
+      content:
+        text: or do  a @Twitch  stream
+        html: or do  a <a href="https://twitter.com/Twitch">@Twitch</a>  stream
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/PandaMother:
+          type: card
+          name: MotherOfPandas
+          url: https://twitter.com/PandaMother
+          photo: ~
+        https://twitter.com/PushinUpRoses:
+          type: card
+          name: "PushingUpRoses \U0001F987"
+          url: https://twitter.com/PushinUpRoses
+          photo: ~
+        https://twitter.com/Octav1usKitten:
+          type: card
+          name: King Octav1us
+          url: https://twitter.com/Octav1usKitten
+          photo: ~
+        https://twitter.com/Twitch:
+          type: card
+          name: Twitch
+          url: https://twitter.com/Twitch
+          photo: ~
     "07":
     - type: entry
       published: "2019-07-07T20:05:17+00:00"
@@ -213,33 +253,5 @@
           type: card
           name: "Anatoly Shashkin\U0001F4BE"
           url: https://twitter.com/dosnostalgic
-          photo: ~
-    "06":
-    - type: entry
-      published: "2019-07-06T23:59:52+00:00"
-      url: https://twitter.com/tomasparksts/status/1147656441014042624
-      category:
-      - https://twitter.com/lazygamereviews
-      - https://twitter.com/TNT_Amusements
-      in-reply-to:
-      - https://twitter.com/lazygamereviews/status/1147595897414529025
-      content:
-        text: cc @TNT_Amusements
-        html: cc <a href="https://twitter.com/TNT_Amusements">@TNT_Amusements</a>
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-      refs:
-        https://twitter.com/lazygamereviews:
-          type: card
-          name: LGR
-          url: https://twitter.com/lazygamereviews
-          photo: ~
-        https://twitter.com/TNT_Amusements:
-          type: card
-          name: TNT Amusements Inc.
-          url: https://twitter.com/TNT_Amusements
           photo: ~
 ...
