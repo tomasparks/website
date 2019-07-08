@@ -15,6 +15,37 @@
 		    
 	{
   "type": "entry",
+  "published": "2019-07-08T00:00:00+10:00",
+  "url": "https://tomasparks.name/miniatures/build-log/work-area/2019/07/08/contact-mic.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "https://tomasparks.name/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "JrF C-SERIES pro contact microphone",
+				"summary": {
+					"html": "<p>yay, I got my <a href=\"https://jezrileyfrench.co.uk/contact-microphones.php\">contact mic</a> for recording the pen plotter sounds :)</p>\n\n",
+					"value": "yay, I got my contact mic for recording the pen plotter sounds :)\n\n"
+				},
+							"value": "yay, I got my contact mic for recording the pen plotter sounds :)\n\n",
+"category": ["work-area"],
+"tags": [],
+
+
+
+
+
+
+
+
+
+
+"syndication": []
+},
+	{
+  "type": "entry",
   "published": "2019-06-28T00:00:00+10:00",
   "url": "https://tomasparks.name/miniatures/build-log/myst-island/2019/06/28/sliceform-part-2.html",
   "author": {
@@ -78,7 +109,7 @@
 	{
   "type": "entry",
   "published": "2019-06-20T00:00:00+10:00",
-  "url": "https://tomasparks.name/miniatures/build-log/work-area/2019/06/20/delivers.html",
+  "url": "https://tomasparks.name/miniatures/build-log/work-area/2019/06/20/deliveries.html",
   "author": {
     "type": "card",
     "name": "Tom Sparks",
@@ -86,12 +117,12 @@
     "photo": "https://tomasparks.name/about-me/photo.png",
     "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
   },
-  "name": "Delivers",
+  "name": "Deliveries",
 				"summary": {
-					"html": "<p>Yay, Delivers</p>\n\n",
-					"value": "Yay, Delivers\n\n"
+					"html": "<p>Yay, Deliveries</p>\n\n",
+					"value": "Yay, Deliveries\n\n"
 				},
-							"value": "Yay, Delivers\n\n",
+							"value": "Yay, Deliveries\n\n",
 "category": ["work-area"],
 "tags": [],
 
