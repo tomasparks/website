@@ -3,6 +3,78 @@
   "07":
     08:
     - type: entry
+      published: "2019-07-08T22:44:22+00:00"
+      url: https://twitter.com/tomasparksts/status/1148362216543903744
+      category:
+      - https://twitter.com/SpottyLen
+      - https://twitter.com/psdfails
+      in-reply-to:
+      - https://twitter.com/SpottyLen/status/1147971515985616897
+      content:
+        text: '@psdfails'
+        html: <a href="https://twitter.com/psdfails">@psdfails</a>
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/SpottyLen:
+          type: card
+          name: Spotty Len
+          url: https://twitter.com/SpottyLen
+          photo: ~
+        https://twitter.com/psdfails:
+          type: card
+          name: Photoshop Fails
+          url: https://twitter.com/psdfails
+          photo: ~
+    - type: entry
+      published: "2019-07-08T20:27:35+00:00"
+      url: https://twitter.com/tomasparksts/status/1148327793727434752
+      category:
+      - https://twitter.com/smoakin
+      - https://twitter.com/ThisIsMissEm
+      - https://twitter.com/Twitter
+      - https://twitter.com/MastodonProject
+      - https://twitter.com/indiewebcamp
+      in-reply-to:
+      - https://twitter.com/smoakin/status/1148326850143195136
+      content:
+        text: see indieweb.org @indiewebcamp
+        html: see <a href="https://indieweb.org/">indieweb.org</a> <a href="https://twitter.com/indiewebcamp">@indiewebcamp</a>
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/smoakin:
+          type: card
+          name: Sasha Moak
+          url: https://twitter.com/smoakin
+          photo: ~
+        https://twitter.com/ThisIsMissEm:
+          type: card
+          name: "Emelia \U0001F478\U0001F3FB"
+          url: https://twitter.com/ThisIsMissEm
+          photo: ~
+        https://twitter.com/Twitter:
+          type: card
+          name: Twitter
+          url: https://twitter.com/Twitter
+          photo: ~
+        https://twitter.com/MastodonProject:
+          type: card
+          name: Mastodon
+          url: https://twitter.com/MastodonProject
+          photo: ~
+        https://twitter.com/indiewebcamp:
+          type: card
+          name: IndieWebCamp
+          url: https://twitter.com/indiewebcamp
+          photo: ~
+    - type: entry
       published: "2019-07-08T18:49:36+00:00"
       url: https://twitter.com/tomasparksts/status/1148303137150627840
       category:
@@ -211,47 +283,5 @@
           type: card
           name: King Octav1us
           url: https://twitter.com/Octav1usKitten
-          photo: ~
-    - type: entry
-      published: "2019-07-07T02:48:29+00:00"
-      url: https://twitter.com/tomasparksts/status/1147698875542597633
-      category:
-      - https://twitter.com/dosnostalgic
-      in-reply-to:
-      - https://twitter.com/dosnostalgic/status/1147686331054772224
-      content:
-        text: because there was no perceived value until cable tv and the VCR became
-          popular
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-      refs:
-        https://twitter.com/dosnostalgic:
-          type: card
-          name: "Anatoly Shashkin\U0001F4BE"
-          url: https://twitter.com/dosnostalgic
-          photo: ~
-    - type: entry
-      published: "2019-07-07T01:52:56+00:00"
-      url: https://twitter.com/tomasparksts/status/1147684893435895810
-      category:
-      - https://twitter.com/dosnostalgic
-      in-reply-to:
-      - https://twitter.com/dosnostalgic/status/1147682965570371584
-      content:
-        text: see en.wikipedia.org/wiki/Wiping
-        html: see <a href="https://en.wikipedia.org/wiki/Wiping">en.wikipedia.org/wiki/Wiping</a>
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-      refs:
-        https://twitter.com/dosnostalgic:
-          type: card
-          name: "Anatoly Shashkin\U0001F4BE"
-          url: https://twitter.com/dosnostalgic
           photo: ~
 ...

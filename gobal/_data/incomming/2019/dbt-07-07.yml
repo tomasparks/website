@@ -1,5 +1,6 @@
 ---
-- type: entry
+0:
+  type: entry
   published: "2019-07-07T20:05:17+00:00"
   url: https://twitter.com/tomasparksts/status/1147959793014808576
   category:
@@ -19,7 +20,8 @@
       name: King Octav1us
       url: https://twitter.com/Octav1usKitten
       photo: ~
-- type: entry
+1:
+  type: entry
   published: "2019-07-07T18:16:59+00:00"
   url: https://twitter.com/tomasparksts/status/1147932540662980608
   category:
@@ -53,7 +55,8 @@
       name: Colin Moore
       url: https://twitter.com/C0LINMOORE
       photo: ~
-- type: entry
+2:
+  type: entry
   published: "2019-07-07T18:06:19+00:00"
   url: https://twitter.com/tomasparksts/status/1147929854894960640
   category:
@@ -73,7 +76,8 @@
       name: King Octav1us
       url: https://twitter.com/Octav1usKitten
       photo: ~
-- type: entry
+3:
+  type: entry
   published: "2019-07-07T18:03:15+00:00"
   url: https://twitter.com/tomasparksts/status/1147929084309020672
   category:
@@ -95,7 +99,8 @@
       name: King Octav1us
       url: https://twitter.com/Octav1usKitten
       photo: ~
-- type: entry
+4:
+  type: entry
   published: "2019-07-07T13:54:27+00:00"
   url: https://twitter.com/tomasparksts/status/1147866469268504578
   category:
@@ -122,7 +127,8 @@
       name: RPGMP3
       url: https://twitter.com/RPGMP3
       photo: ~
-- type: entry
+5:
+  type: entry
   published: "2019-07-07T13:53:51+00:00"
   url: https://twitter.com/tomasparksts/status/1147866320249114625
   category:
@@ -149,7 +155,8 @@
       name: RPGMP3
       url: https://twitter.com/RPGMP3
       photo: ~
-- type: entry
+6:
+  type: entry
   published: "2019-07-07T12:06:43+00:00"
   url: https://twitter.com/tomasparksts/status/1147839356259856385
   category:
@@ -169,7 +176,8 @@
       name: King Octav1us
       url: https://twitter.com/Octav1usKitten
       photo: ~
-- type: entry
+14:
+  type: entry
   published: "2019-07-07T02:48:29+00:00"
   url: https://twitter.com/tomasparksts/status/1147698875542597633
   category:
@@ -189,7 +197,8 @@
       name: "Anatoly Shashkin\U0001F4BE"
       url: https://twitter.com/dosnostalgic
       photo: ~
-- type: entry
+15:
+  type: entry
   published: "2019-07-07T01:52:56+00:00"
   url: https://twitter.com/tomasparksts/status/1147684893435895810
   category:
