@@ -1,5 +1,29 @@
 ---
 - type: entry
+  published: "2019-07-09T21:31:23+00:00"
+  url: https://twitter.com/tomasparksts/status/1148706235795017728
+  category:
+  - https://twitter.com/TheNerdforge
+  content:
+    text: "(\U0001F916) After watching @TheNerdforge\u2019s Making A Miniature Fantasy
+      LANDSCAPE (For An Epic Castle?) and Mak... #BuildLog #miniatures #Castle (\U0001F916)
+      (tomasparks.name/miniatures/bui\u2026)"
+    html: "(\U0001F916) After watching <a href=\"https://twitter.com/TheNerdforge\">@TheNerdforge</a>\u2019s
+      Making A Miniature Fantasy LANDSCAPE (For An Epic Castle?) and Mak... <a href=\"https://twitter.com/search?q=%23BuildLog\">#BuildLog</a>
+      <a href=\"https://twitter.com/search?q=%23miniatures\">#miniatures</a> <a href=\"https://twitter.com/search?q=%23Castle\">#Castle</a>
+      (\U0001F916) (<a href=\"https://tomasparks.name/miniatures/build-log/castle/2019/07/09/castle.html\">tomasparks.name/miniatures/bui\u2026</a>)"
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/TheNerdforge:
+      type: card
+      name: Nerdforge
+      url: https://twitter.com/TheNerdforge
+      photo: ~
+- type: entry
   published: "2019-07-09T14:51:00+00:00"
   url: https://twitter.com/tomasparksts/status/1148605479175806977
   category:
