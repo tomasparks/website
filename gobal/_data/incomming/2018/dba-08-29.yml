@@ -1,6 +1,6 @@
 ---
 - type: entry
-  published: "2018-08-29T16:07:50+00:00"
+  published: "2018-08-29T11:37:55+00:00"
   category:
   - scrobble
   - audio
@@ -8,21 +8,18 @@
   - Hal
   listen-of:
     h-cite:
-      url: http://rpgmp3.com/v5/feed/podcast/
+      url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
       photo: ""
       audio:
-      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/MandM3e_Quickstart_Superboy_vs_Knockout.mp3
-      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/MandM3e_Quickstart_Superboy_vs_Knockout.mp3
-      name: 'Mutants and Masterminds Quickstart: Superboy vs Knockout'
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/lost_and_forgotten_session_13.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/lost_and_forgotten_session_13.mp3
+      name: Lost and Forgotten Session 13
       author: Hal
-      content: "Quickstart 1: Superboy vs Knockout This superhero roleplaying scenario
-        is a test game for us, a first attempt at using the Mutants and Masterminds
-        3e system. A solo game, with a review of the scenario at the end. Starring:
-        \u2022 Helen as Superboy / Connor Kent \u2022 Jared as the GM Thanks to: \u2022
-        Green [\u2026]"
+      content: "Episode 13 \u2013 in which our castaways face off with Mother Thrunefang,
+        creepy dolls, the Flensing Room, and the need to feed."
   content:
-    text: ' \ud83c\udfa7 Listened to Mutants and Masterminds Quickstart: Superboy
-      vs Knockout by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+    text: ' \ud83c\udfa7 Listened to Lost and Forgotten Session 13 by @rpgmp3 From
+      #RPGMP3ActualPlayPodcast'
 - type: entry
   published: "2018-08-29T14:33:13+00:00"
   category:
@@ -47,6 +44,30 @@
     text: ' \ud83c\udfa7 Listened to Lost and Forgotten Session 14 by @rpgmp3 From
       #RPGMP3ActualPlayPodcast'
 - type: entry
+  published: "2018-08-29T16:07:50+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://rpgmp3.com/v5/feed/podcast/
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/MandM3e_Quickstart_Superboy_vs_Knockout.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/MandM3e_Quickstart_Superboy_vs_Knockout.mp3
+      name: 'Mutants and Masterminds Quickstart: Superboy vs Knockout'
+      author: Hal
+      content: "Quickstart 1: Superboy vs Knockout This superhero roleplaying scenario
+        is a test game for us, a first attempt at using the Mutants and Masterminds
+        3e system. A solo game, with a review of the scenario at the end. Starring:
+        \u2022 Helen as Superboy / Connor Kent \u2022 Jared as the GM Thanks to: \u2022
+        Green [\u2026]"
+  content:
+    text: ' \ud83c\udfa7 Listened to Mutants and Masterminds Quickstart: Superboy
+      vs Knockout by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+- type: entry
   published: "2018-08-29T03:41:28+00:00"
   category:
   - scrobble
@@ -68,26 +89,5 @@
         onwards."
   content:
     text: ' \ud83c\udfa7 Listened to Lost and Forgotten Session 12 by @rpgmp3 From
-      #RPGMP3ActualPlayPodcast'
-- type: entry
-  published: "2018-08-29T11:37:55+00:00"
-  category:
-  - scrobble
-  - audio
-  - RPGMP3 Actual Play Podcast
-  - Hal
-  listen-of:
-    h-cite:
-      url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
-      photo: ""
-      audio:
-      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/lost_and_forgotten_session_13.mp3
-      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/lost_and_forgotten_session_13.mp3
-      name: Lost and Forgotten Session 13
-      author: Hal
-      content: "Episode 13 \u2013 in which our castaways face off with Mother Thrunefang,
-        creepy dolls, the Flensing Room, and the need to feed."
-  content:
-    text: ' \ud83c\udfa7 Listened to Lost and Forgotten Session 13 by @rpgmp3 From
       #RPGMP3ActualPlayPodcast'
 ...

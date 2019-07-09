@@ -15,6 +15,37 @@
 		    
 	{
   "type": "entry",
+  "published": "2019-07-09T00:00:00+10:00",
+  "url": "https://tomasparks.name/miniatures/build-log/castle/2019/07/09/castle.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "https://tomasparks.name/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "castle",
+				"summary": {
+					"html": "<p>After watching @nerdforge’s <a href=\"https://www.youtube.com/watch?v=VbnHe-qDFUQ\">Making A Miniature Fantasy LANDSCAPE (For An Epic Castle?)</a> and <a href=\"https://www.youtube.com/watch?v=_2N-AL515rE\">Making an Epic Wizard Castle Using 2500+ Bricks!</a>,\nthe Idea of doing a Castle is growing on me.</p>\n",
+					"value": "After watching @nerdforge’s Making A Miniature Fantasy LANDSCAPE (For An Epic Castle?) and Making an Epic Wizard Castle Using 2500+ Bricks!,\nthe Idea of doing a Castle is growing on me.\n"
+				},
+							"value": "After watching @nerdforge’s Making A Miniature Fantasy LANDSCAPE (For An Epic Castle?) and Making an Epic Wizard Castle Using 2500+ Bricks!,\nthe Idea of doing a Castle is growing on me.\n",
+"category": ["Castle"],
+"tags": ["castle"],
+
+
+
+
+
+
+
+
+
+
+"syndication": []
+},
+	{
+  "type": "entry",
   "published": "2019-07-08T00:00:00+10:00",
   "url": "https://tomasparks.name/miniatures/build-log/work-area/2019/07/08/contact-mic.html",
   "author": {

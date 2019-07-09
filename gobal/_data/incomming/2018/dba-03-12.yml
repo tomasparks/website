@@ -25,32 +25,6 @@
   content:
     text: ' \ud83c\udfa7 Listened to Disrupting Google by Techdirt From Techdirt'
 - type: entry
-  published: "2018-03-12T03:37:43+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/402633120-techdirt-lies-damned-lies-audience-metrics.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/402633120-techdirt-lies-damned-lies-audience-metrics.mp3
-      name: Lies, Damned Lies & Audience Metrics
-      author: Techdirt
-      content: "In 2016, mostly out of frustration, I wrote a post about how traffic
-        is fake, audience numbers are garbage, and nobody knows how many people see
-        anything. My feelings haven't changed much, and neither has the digital advertising
-        ecosystem. And since regular podcast co-host Dennis Yang runs a digital metrics
-        company, it only made sense for us to hash it out on an episode all about
-        audience measurement and how it shapes online advertising.\r\n\r\n2016 Post:
-        https://tdrt.io/fOt"
-  content:
-    text: ' \ud83c\udfa7 Listened to Lies, Damned Lies & Audience Metrics by Techdirt
-      From Techdirt'
-- type: entry
   published: "2018-03-12T12:03:32+00:00"
   category:
   - scrobble
@@ -78,7 +52,7 @@
     text: ' \ud83c\udfa7 Listened to Free Speech & The Marketplace Of Ideas by Techdirt
       From Techdirt'
 - type: entry
-  published: "2018-03-12T11:07:36+00:00"
+  published: "2018-03-12T03:37:43+00:00"
   category:
   - scrobble
   - audio
@@ -89,20 +63,19 @@
       url: https://www.techdirt.com/podcast.xml
       photo: ""
       audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/395492907-techdirt-an-interview-with-rep-zoe-lofgren.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/395492907-techdirt-an-interview-with-rep-zoe-lofgren.mp3
-      name: An Interview With Rep Zoe Lofgren
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/402633120-techdirt-lies-damned-lies-audience-metrics.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/402633120-techdirt-lies-damned-lies-audience-metrics.mp3
+      name: Lies, Damned Lies & Audience Metrics
       author: Techdirt
-      content: 'When it comes to many of the legislative issues of interest to us
-        here at Techdirt, we''ve always been able to count on at least one voice of
-        reason amidst the congressional chaos: Representative Zoe Lofgren from California.
-        In addition to playing a critical role in the fight against SOPA, she continues
-        to be a voice of reason against bad copyright policy, expansive government
-        surveillance, and the broken CFAA, among many other things. This week, she
-        joins Mike on the podcast for a wide-ranging discussion about these topics
-        and more.'
+      content: "In 2016, mostly out of frustration, I wrote a post about how traffic
+        is fake, audience numbers are garbage, and nobody knows how many people see
+        anything. My feelings haven't changed much, and neither has the digital advertising
+        ecosystem. And since regular podcast co-host Dennis Yang runs a digital metrics
+        company, it only made sense for us to hash it out on an episode all about
+        audience measurement and how it shapes online advertising.\r\n\r\n2016 Post:
+        https://tdrt.io/fOt"
   content:
-    text: ' \ud83c\udfa7 Listened to An Interview With Rep Zoe Lofgren by Techdirt
+    text: ' \ud83c\udfa7 Listened to Lies, Damned Lies & Audience Metrics by Techdirt
       From Techdirt'
 - type: entry
   published: "2018-03-12T10:36:59+00:00"
@@ -128,28 +101,6 @@
   content:
     text: ' \ud83c\udfa7 Listened to Truth, Trust, Transparency & Tribalism by Techdirt
       From Techdirt'
-- type: entry
-  published: "2018-03-12T13:48:53+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/384620903-techdirt-the-ces-2018-post-mortem.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/384620903-techdirt-the-ces-2018-post-mortem.mp3
-      name: The CES 2018 Post-Mortem
-      author: Techdirt
-      content: "Mike was at CES 2018 last week, and now for the third year in a row
-        we've got our special episode of the podcast dedicated to looking at the best
-        (and worst) innovations on show. As usual, he's joined by long-time CES veteran
-        Rob Pegoraro \u2014 so without any further preamble, here's the CES 2018 Post-Mortem."
-  content:
-    text: ' \ud83c\udfa7 Listened to The CES 2018 Post-Mortem by Techdirt From Techdirt'
 - type: entry
   published: "2018-03-12T12:54:32+00:00"
   category:
@@ -203,4 +154,53 @@
         about the wider world of IP."
   content:
     text: ' \ud83c\udfa7 Listened to Barbies v. Bratz by Techdirt From Techdirt'
+- type: entry
+  published: "2018-03-12T13:48:53+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/384620903-techdirt-the-ces-2018-post-mortem.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/384620903-techdirt-the-ces-2018-post-mortem.mp3
+      name: The CES 2018 Post-Mortem
+      author: Techdirt
+      content: "Mike was at CES 2018 last week, and now for the third year in a row
+        we've got our special episode of the podcast dedicated to looking at the best
+        (and worst) innovations on show. As usual, he's joined by long-time CES veteran
+        Rob Pegoraro \u2014 so without any further preamble, here's the CES 2018 Post-Mortem."
+  content:
+    text: ' \ud83c\udfa7 Listened to The CES 2018 Post-Mortem by Techdirt From Techdirt'
+- type: entry
+  published: "2018-03-12T11:07:36+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/395492907-techdirt-an-interview-with-rep-zoe-lofgren.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/395492907-techdirt-an-interview-with-rep-zoe-lofgren.mp3
+      name: An Interview With Rep Zoe Lofgren
+      author: Techdirt
+      content: 'When it comes to many of the legislative issues of interest to us
+        here at Techdirt, we''ve always been able to count on at least one voice of
+        reason amidst the congressional chaos: Representative Zoe Lofgren from California.
+        In addition to playing a critical role in the fight against SOPA, she continues
+        to be a voice of reason against bad copyright policy, expansive government
+        surveillance, and the broken CFAA, among many other things. This week, she
+        joins Mike on the podcast for a wide-ranging discussion about these topics
+        and more.'
+  content:
+    text: ' \ud83c\udfa7 Listened to An Interview With Rep Zoe Lofgren by Techdirt
+      From Techdirt'
 ...

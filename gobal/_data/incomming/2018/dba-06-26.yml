@@ -55,7 +55,7 @@
     text: ' \ud83c\udfa7 Listened to 173. Netscape''s Rosanne Siino by internethistorypodcast@gmail.com
       (Brian McCullough @brianmcc) From Internet History Podcast'
 - type: entry
-  published: "2018-06-26T01:57:35+00:00"
+  published: "2018-06-26T05:05:15+00:00"
   category:
   - scrobble
   - audio
@@ -66,17 +66,23 @@
       url: http://www.bitfellas.org/podcast/podcast.xml
       photo: ""
       audio:
-      - http://files.exotica.org.uk/?http&mname=h18http&file=bitfellas/podcast/bitjam_213.mp3
+      - http://files.exotica.org.uk/?http&mname=h18http&file=bitfellas/podcast/bitjam_212.mp3
       - http://archive.org/download/BitJam_Podcast-by-Array/
-      name: 'BitJam Episode #213 - 2015 In The Mix - Remixes I.'
+      name: 'BitJam Episode #212 - Return of the Phat Elephant'
       author: []
-      content: "Episode #213 \u2013 2015 In The Mix - Remixes I.\r\nThere were so
-        many great remixes in the year 2015 we had to split them into 2 episodes.
-        Enjoy.\r\n\r\nMixed and compiled by Salinga, logo background from Pexels.com,
-        Photo by Stephen Niemeier, edited by Bobic"
+      content: "Episode #212 \u2013 Return of the Phat Elephant\r\n\"This was a blast\",
+        they said, and that this was your \"new favourite episode\", too. You cried
+        out loud for more after we've released ep#194: Elephat. So we've returned
+        to the turntables and will hit you directly in your face again! Harder than
+        ever before! So enjoy a new mix of pure dubstep awesomeness coming out directly
+        from the sound laboratory of the BitFellas bad boys.\r\nThanks to the Monstercat
+        free music catalogue for making this mix elephatastic!\r\nBitFellas - The
+        bass belongs to us this night!\r\n\r\nMixed by Vincenzo, compiled by Bobic,
+        logo background by Pexels.com, Garanimals font elephant face, Border & remixing
+        slogan by KF"
   content:
-    text: ' \ud83c\udfa7 Listened to BitJam Episode #213 - 2015 In The Mix - Remixes
-      I. by Array From BitJamPodcast'
+    text: ' \ud83c\udfa7 Listened to BitJam Episode #212 - Return of the Phat Elephant
+      by Array From BitJamPodcast'
 - type: entry
   published: "2018-06-26T02:53:21+00:00"
   category:
@@ -125,7 +131,7 @@
     text: ' \ud83c\udfa7 Listened to BitJam Episode #215 - Evoke is 20 - Demo Soundtracks
       by Array From BitJamPodcast'
 - type: entry
-  published: "2018-06-26T05:05:15+00:00"
+  published: "2018-06-26T01:57:35+00:00"
   category:
   - scrobble
   - audio
@@ -136,21 +142,15 @@
       url: http://www.bitfellas.org/podcast/podcast.xml
       photo: ""
       audio:
-      - http://files.exotica.org.uk/?http&mname=h18http&file=bitfellas/podcast/bitjam_212.mp3
+      - http://files.exotica.org.uk/?http&mname=h18http&file=bitfellas/podcast/bitjam_213.mp3
       - http://archive.org/download/BitJam_Podcast-by-Array/
-      name: 'BitJam Episode #212 - Return of the Phat Elephant'
+      name: 'BitJam Episode #213 - 2015 In The Mix - Remixes I.'
       author: []
-      content: "Episode #212 \u2013 Return of the Phat Elephant\r\n\"This was a blast\",
-        they said, and that this was your \"new favourite episode\", too. You cried
-        out loud for more after we've released ep#194: Elephat. So we've returned
-        to the turntables and will hit you directly in your face again! Harder than
-        ever before! So enjoy a new mix of pure dubstep awesomeness coming out directly
-        from the sound laboratory of the BitFellas bad boys.\r\nThanks to the Monstercat
-        free music catalogue for making this mix elephatastic!\r\nBitFellas - The
-        bass belongs to us this night!\r\n\r\nMixed by Vincenzo, compiled by Bobic,
-        logo background by Pexels.com, Garanimals font elephant face, Border & remixing
-        slogan by KF"
+      content: "Episode #213 \u2013 2015 In The Mix - Remixes I.\r\nThere were so
+        many great remixes in the year 2015 we had to split them into 2 episodes.
+        Enjoy.\r\n\r\nMixed and compiled by Salinga, logo background from Pexels.com,
+        Photo by Stephen Niemeier, edited by Bobic"
   content:
-    text: ' \ud83c\udfa7 Listened to BitJam Episode #212 - Return of the Phat Elephant
-      by Array From BitJamPodcast'
+    text: ' \ud83c\udfa7 Listened to BitJam Episode #213 - 2015 In The Mix - Remixes
+      I. by Array From BitJamPodcast'
 ...

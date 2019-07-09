@@ -675,7 +675,7 @@ Internet_History_Podcast-by-Brian_McCullough:
   191_Bringing_The_WSJ_Online_With_Rich_Jaroslovsky_Part_2.mp3: true
   195_Microsoft_CTO_Kevin_Scott.mp3: true
   198_Inventor_of_the_Hashtag_Chris_Messina.mp3: true
-  199_Is_Tech_Making_Us_Bored_Lonely_Angry_Stupid.mp3: false
+  199_Is_Tech_Making_Us_Bored_Lonely_Angry_Stupid.mp3: true
 clevercast-by-Jonathan_LaCour:
   2c94f008a9.mp3: true
   c6b019d351.mp3: true
@@ -877,6 +877,8 @@ RPGMP3_Actual_Play_Podcast-by-Hal:
   pathfinder_dragons_delve_part_16.mp3: true
   pathfinder_dragons_delve_part_17.mp3: true
   pathfinder_dragons_delve_part_19.mp3: true
+  pathfinder_dragons_delve_part_20.mp3: false
+  pathfinder_dragons_delve_part_21.mp3: false
 5_live_Science_Podcast-by-BBC_Radio_5_live:
   p068pk6z.mp3: true
   p068v1bw.mp3: true

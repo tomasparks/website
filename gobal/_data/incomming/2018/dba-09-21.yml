@@ -48,6 +48,33 @@
     text: ' \ud83c\udfa7 Listened to 178. On Google''s 20th Birthday - The History
       of Google by Brian McCullough @brianmcc From Internet History Podcast'
 - type: entry
+  published: "2018-09-21T10:18:38+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - internethistorypodcast@gmail.com (Brian McCullough @brianmcc)
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/DYH91HXb8vE/176._The_Epic_Fail_of_Digg_V.4_With_Will_Larson.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/176_The_Epic_Fail_of_Digg_V4_With_Will_Larson.mp3
+      name: 176. The Epic Fail of Digg V.4 With Will Larson
+      author: internethistorypodcast@gmail.com (Brian McCullough @brianmcc)
+      content: "Digg was the earliest high flying startup in early social media. But
+        then, other startups started to steal the limelight. Digg tried to keep up
+        by launching Digg version 4. And\u2026 users hate it. Many people feel that
+        the reason Reddit is Reddit today is because the Digg community fled their
+        en-masse. Digg Version 4 has become legendary as a redesign so disruptive
+        it can kill a company. So, what\u2019s the real story? Today, we talk to Will
+        Larson, who was a young engineer working on the launch of Digg version "
+  content:
+    text: ' \ud83c\udfa7 Listened to 176. The Epic Fail of Digg V.4 With Will Larson
+      by internethistorypodcast@gmail.com (Brian McCullough @brianmcc) From Internet
+      History Podcast'
+- type: entry
   published: "2018-09-21T09:28:40+00:00"
   category:
   - scrobble
@@ -79,33 +106,6 @@
     text: ' \ud83c\udfa7 Listened to 175. How the Internet Came to Pakistan With Imran
       Haider by internethistorypodcast@gmail.com (Brian McCullough @brianmcc) From
       Internet History Podcast'
-- type: entry
-  published: "2018-09-21T10:18:38+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - internethistorypodcast@gmail.com (Brian McCullough @brianmcc)
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/DYH91HXb8vE/176._The_Epic_Fail_of_Digg_V.4_With_Will_Larson.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/176_The_Epic_Fail_of_Digg_V4_With_Will_Larson.mp3
-      name: 176. The Epic Fail of Digg V.4 With Will Larson
-      author: internethistorypodcast@gmail.com (Brian McCullough @brianmcc)
-      content: "Digg was the earliest high flying startup in early social media. But
-        then, other startups started to steal the limelight. Digg tried to keep up
-        by launching Digg version 4. And\u2026 users hate it. Many people feel that
-        the reason Reddit is Reddit today is because the Digg community fled their
-        en-masse. Digg Version 4 has become legendary as a redesign so disruptive
-        it can kill a company. So, what\u2019s the real story? Today, we talk to Will
-        Larson, who was a young engineer working on the launch of Digg version "
-  content:
-    text: ' \ud83c\udfa7 Listened to 176. The Epic Fail of Digg V.4 With Will Larson
-      by internethistorypodcast@gmail.com (Brian McCullough @brianmcc) From Internet
-      History Podcast'
 - type: entry
   published: "2018-09-21T03:33:51+00:00"
   category:

@@ -24,31 +24,6 @@
   content:
     text: ' \ud83c\udfa7 Listened to Are E-Scooters A Problem? by Techdirt From Techdirt'
 - type: entry
-  published: "2018-06-13T09:59:10+00:00"
-  category:
-  - scrobble
-  - audio
-  - Acquired
-  - Ben Gilbert & David Rosenthal
-  listen-of:
-    h-cite:
-      url: http://www.acquired.fm/episodes?format=RSS
-      photo: ""
-      audio:
-      - http://traffic.libsyn.com/acquired/Acquired_Season_2_Episode_9_Github.mp3
-      - http://archive.org/download/Acquired-Podcast-by-Ben_Gilbert_and_David_Rosenthal/Season_2_Episode_9GitHub.mp3
-      name: "Season 2, Episode 9:\_GitHub"
-      author: Ben Gilbert & David Rosenthal
-      content: "We\u2019re live on the scene the day following the biggest announcement
-        in the open source software world since well, open source software: Microsoft
-        acquiring GitHub for $7.5B in stock. How did we get here? What does it mean
-        for software developers going forward? And most importantly, why is there
-        a creepy half-cat / half-octopus plastered all over everything? As always,
-        Acquired has the answers. "
-  content:
-    text: " \\ud83c\\udfa7 Listened to Season 2, Episode 9:\_GitHub by @gilbert &
-      @djrosent From @AcquiredFM"
-- type: entry
   published: "2018-06-13T12:50:27+00:00"
   category:
   - scrobble
@@ -79,6 +54,31 @@
   content:
     text: " \\ud83c\\udfa7 Listened to Season 2, Episode 8:\_T-Mobile / Sprint by
       @gilbert & @djrosent From @AcquiredFM"
+- type: entry
+  published: "2018-06-13T09:59:10+00:00"
+  category:
+  - scrobble
+  - audio
+  - Acquired
+  - Ben Gilbert & David Rosenthal
+  listen-of:
+    h-cite:
+      url: http://www.acquired.fm/episodes?format=RSS
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/acquired/Acquired_Season_2_Episode_9_Github.mp3
+      - http://archive.org/download/Acquired-Podcast-by-Ben_Gilbert_and_David_Rosenthal/Season_2_Episode_9GitHub.mp3
+      name: "Season 2, Episode 9:\_GitHub"
+      author: Ben Gilbert & David Rosenthal
+      content: "We\u2019re live on the scene the day following the biggest announcement
+        in the open source software world since well, open source software: Microsoft
+        acquiring GitHub for $7.5B in stock. How did we get here? What does it mean
+        for software developers going forward? And most importantly, why is there
+        a creepy half-cat / half-octopus plastered all over everything? As always,
+        Acquired has the answers. "
+  content:
+    text: " \\ud83c\\udfa7 Listened to Season 2, Episode 9:\_GitHub by @gilbert &
+      @djrosent From @AcquiredFM"
 - type: entry
   published: "2018-06-13T17:37:56+00:00"
   category:

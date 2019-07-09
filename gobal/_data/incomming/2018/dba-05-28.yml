@@ -1,28 +1,5 @@
 ---
 - type: entry
-  published: "2018-05-28T13:49:32+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/312396927-techdirt-will-regulations-ground-drone-innovation.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/312396927-techdirt-will-regulations-ground-drone-innovation.mp3
-      name: Will Regulations Ground Drone Innovation?
-      author: Techdirt
-      content: The rise of drones in both the personal and commercial spheres has
-        happened with stunning speed, and its created a whole bunch of hard-to-answer
-        regulatory questions. This week we're joined by Notifleet's Siggi Hindrichs
-        to discuss the current state and future of drone regulation by the FAA.
-  content:
-    text: ' \ud83c\udfa7 Listened to Will Regulations Ground Drone Innovation? by
-      Techdirt From Techdirt'
-- type: entry
   published: "2018-05-28T14:44:15+00:00"
   category:
   - scrobble
@@ -70,6 +47,29 @@
         about the future of this technology.
   content:
     text: ' \ud83c\udfa7 Listened to Alexa, Play This Podcast by Techdirt From Techdirt'
+- type: entry
+  published: "2018-05-28T13:49:32+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/312396927-techdirt-will-regulations-ground-drone-innovation.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/312396927-techdirt-will-regulations-ground-drone-innovation.mp3
+      name: Will Regulations Ground Drone Innovation?
+      author: Techdirt
+      content: The rise of drones in both the personal and commercial spheres has
+        happened with stunning speed, and its created a whole bunch of hard-to-answer
+        regulatory questions. This week we're joined by Notifleet's Siggi Hindrichs
+        to discuss the current state and future of drone regulation by the FAA.
+  content:
+    text: ' \ud83c\udfa7 Listened to Will Regulations Ground Drone Innovation? by
+      Techdirt From Techdirt'
 - type: entry
   published: "2018-05-28T21:07:01+00:00"
   category:

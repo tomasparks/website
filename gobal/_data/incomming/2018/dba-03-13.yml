@@ -1,5 +1,30 @@
 ---
 - type: entry
+  published: "2018-03-13T12:50:11+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/368619833-techdirt-games-that-tell-stories.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/368619833-techdirt-games-that-tell-stories.mp3
+      name: Games That Tell Stories
+      author: Techdirt
+      content: "Gaming is changing the nature of storytelling. Video games of course
+        \u2014 but also the modern rise of board games, tabletop RPGs and other forms
+        of analog gaming. A good game does more than just arbitrarily pair play with
+        a veneer of narrative, it marries the mechanics and the ideas to enable interesting
+        new ways of conveying and exploring complex ideas. This week, we're joined
+        by game designer Randy Lubin to discuss how games can tell stories in a way
+        nothing else can."
+  content:
+    text: ' \ud83c\udfa7 Listened to Games That Tell Stories by Techdirt From Techdirt'
+- type: entry
   published: "2018-03-13T11:41:42+00:00"
   category:
   - scrobble
@@ -50,31 +75,6 @@
   content:
     text: ' \ud83c\udfa7 Listened to Can A Trivia App Resurrect Appointment Viewing?
       by Techdirt From Techdirt'
-- type: entry
-  published: "2018-03-13T12:50:11+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/368619833-techdirt-games-that-tell-stories.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/368619833-techdirt-games-that-tell-stories.mp3
-      name: Games That Tell Stories
-      author: Techdirt
-      content: "Gaming is changing the nature of storytelling. Video games of course
-        \u2014 but also the modern rise of board games, tabletop RPGs and other forms
-        of analog gaming. A good game does more than just arbitrarily pair play with
-        a veneer of narrative, it marries the mechanics and the ideas to enable interesting
-        new ways of conveying and exploring complex ideas. This week, we're joined
-        by game designer Randy Lubin to discuss how games can tell stories in a way
-        nothing else can."
-  content:
-    text: ' \ud83c\udfa7 Listened to Games That Tell Stories by Techdirt From Techdirt'
 - type: entry
   published: "2018-03-13T14:08:29+00:00"
   category:

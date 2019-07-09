@@ -50,7 +50,7 @@
       by triple j From Dr_Karl_Podcast'
 2:
   type: entry
-  published: "2019-05-24T23:21:44+00:00"
+  published: "2019-05-24T16:46:11+00:00"
   category:
   - scrobble
   - audio
@@ -61,13 +61,14 @@
       url: http://rpgmp3.com/v5/feed/podcast/
       photo: ""
       audio:
-      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_69.mp3
-      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_69.mp3
-      name: Kingmaker Session 69
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_68.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_68.mp3
+      name: Kingmaker Session 68
       author: Hal
-      content: "Episode 69 \u2013 in which Kaylen and Korwin bear heavy burdens."
+      content: "Episode 68 \u2013 in which Kaylen lends a hand and a few fingers in
+        the Hooktongue Slough, and Katapesh comes knocking on Stagthorn\u2019s doors."
   content:
-    text: ' \ud83c\udfa7 Listened to Kingmaker Session 69 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 68 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
 3:
   type: entry
   published: "2019-05-24T14:00:07+00:00"
@@ -91,7 +92,7 @@
     text: ' \ud83c\udfa7 Listened to Kingmaker Session 67 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
 4:
   type: entry
-  published: "2019-05-24T16:46:11+00:00"
+  published: "2019-05-24T23:21:44+00:00"
   category:
   - scrobble
   - audio
@@ -102,14 +103,13 @@
       url: http://rpgmp3.com/v5/feed/podcast/
       photo: ""
       audio:
-      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_68.mp3
-      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_68.mp3
-      name: Kingmaker Session 68
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_69.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_69.mp3
+      name: Kingmaker Session 69
       author: Hal
-      content: "Episode 68 \u2013 in which Kaylen lends a hand and a few fingers in
-        the Hooktongue Slough, and Katapesh comes knocking on Stagthorn\u2019s doors."
+      content: "Episode 69 \u2013 in which Kaylen and Korwin bear heavy burdens."
   content:
-    text: ' \ud83c\udfa7 Listened to Kingmaker Session 68 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 69 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
 5:
   type: entry
   published: "2019-05-24T19:21:57+00:00"

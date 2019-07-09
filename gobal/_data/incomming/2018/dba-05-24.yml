@@ -116,7 +116,7 @@
       Astronomy and Science'
 4:
   type: entry
-  published: "2018-05-24T09:11:10+00:00"
+  published: "2018-05-24T12:22:26+00:00"
   category:
   - scrobble
   - audio
@@ -127,15 +127,16 @@
       url: http://www.abc.net.au/radio/programs/troll-play/feed/9405254/podcast.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/radio/podcast/troll-play/tpl-2018-04-30-ep2.mp3
-      - http://archive.org/download/Troll_Play-Podcast-by-ABC_Radio_Comedy/Prisoner_fans_spaghetti_straps_and_the_wrong_Sami.mp3
-      name: Prisoner fans, spaghetti straps and the wrong Sami
+      - http://mpegmedia.abc.net.au/radio/podcast/troll-play/tpl-2018-04-20-ep1.mp3
+      - http://archive.org/download/Troll_Play-Podcast-by-ABC_Radio_Comedy/Poison_pen_letters_and_A_LOT_of_milk.mp3
+      name: Poison pen letters and A LOT of milk
       author: ABC Radio Comedy
-      content: "Alice, Cal and Sami talk about name sakes getting your trolls, unasked
-        for dick pics and a men's rights plughole.\n                    \n                "
+      content: "Alice, Cal and Sami talk about weird YouTube comments, a hand written
+        troll letter and a forum dedicated to drinking a gallon of milk a day.\n                    \n
+        \               "
   content:
-    text: ' \ud83c\udfa7 Listened to Prisoner fans, spaghetti straps and the wrong
-      Sami by ABC Radio Comedy From Troll Play'
+    text: ' \ud83c\udfa7 Listened to Poison pen letters and A LOT of milk by ABC Radio
+      Comedy From Troll Play'
 5:
   type: entry
   published: "2018-05-24T08:47:23+00:00"
@@ -160,7 +161,7 @@
       by ABC Radio Comedy From Troll Play'
 6:
   type: entry
-  published: "2018-05-24T12:22:26+00:00"
+  published: "2018-05-24T08:22:25+00:00"
   category:
   - scrobble
   - audio
@@ -171,16 +172,16 @@
       url: http://www.abc.net.au/radio/programs/troll-play/feed/9405254/podcast.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/radio/podcast/troll-play/tpl-2018-04-20-ep1.mp3
-      - http://archive.org/download/Troll_Play-Podcast-by-ABC_Radio_Comedy/Poison_pen_letters_and_A_LOT_of_milk.mp3
-      name: Poison pen letters and A LOT of milk
+      - http://mpegmedia.abc.net.au/radio/podcast/troll-play/tpl-2018-05-11-ep4.mp3
+      - http://archive.org/download/Troll_Play-Podcast-by-ABC_Radio_Comedy/Little_monsters_rough_crowds_the_satanic_media.mp3
+      name: Little monsters, rough crowds & the satanic media
       author: ABC Radio Comedy
-      content: "Alice, Cal and Sami talk about weird YouTube comments, a hand written
-        troll letter and a forum dedicated to drinking a gallon of milk a day.\n                    \n
-        \               "
+      content: "Alice, Cal and Sami talk about crossing Lady Gaga fans, why pigs are
+        a clean animal and not wanting to be a downer (but actually being a total
+        downer)\n                    \n                "
   content:
-    text: ' \ud83c\udfa7 Listened to Poison pen letters and A LOT of milk by ABC Radio
-      Comedy From Troll Play'
+    text: ' \ud83c\udfa7 Listened to Little monsters, rough crowds & the satanic media
+      by ABC Radio Comedy From Troll Play'
 7:
   type: entry
   published: "2018-05-24T12:24:15+00:00"
@@ -206,7 +207,7 @@
       Troll Play'
 8:
   type: entry
-  published: "2018-05-24T08:22:25+00:00"
+  published: "2018-05-24T09:11:10+00:00"
   category:
   - scrobble
   - audio
@@ -217,16 +218,15 @@
       url: http://www.abc.net.au/radio/programs/troll-play/feed/9405254/podcast.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/radio/podcast/troll-play/tpl-2018-05-11-ep4.mp3
-      - http://archive.org/download/Troll_Play-Podcast-by-ABC_Radio_Comedy/Little_monsters_rough_crowds_the_satanic_media.mp3
-      name: Little monsters, rough crowds & the satanic media
+      - http://mpegmedia.abc.net.au/radio/podcast/troll-play/tpl-2018-04-30-ep2.mp3
+      - http://archive.org/download/Troll_Play-Podcast-by-ABC_Radio_Comedy/Prisoner_fans_spaghetti_straps_and_the_wrong_Sami.mp3
+      name: Prisoner fans, spaghetti straps and the wrong Sami
       author: ABC Radio Comedy
-      content: "Alice, Cal and Sami talk about crossing Lady Gaga fans, why pigs are
-        a clean animal and not wanting to be a downer (but actually being a total
-        downer)\n                    \n                "
+      content: "Alice, Cal and Sami talk about name sakes getting your trolls, unasked
+        for dick pics and a men's rights plughole.\n                    \n                "
   content:
-    text: ' \ud83c\udfa7 Listened to Little monsters, rough crowds & the satanic media
-      by ABC Radio Comedy From Troll Play'
+    text: ' \ud83c\udfa7 Listened to Prisoner fans, spaghetti straps and the wrong
+      Sami by ABC Radio Comedy From Troll Play'
 9:
   type: entry
   published: "2018-05-24T20:06:55+00:00"

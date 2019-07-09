@@ -1,6 +1,28 @@
 ---
 2019:
   "07":
+    09:
+    - type: entry
+      published: "2019-07-09T14:51:00+00:00"
+      url: https://twitter.com/tomasparksts/status/1148605479175806977
+      category:
+      - https://twitter.com/Octav1usKitten
+      in-reply-to:
+      - https://twitter.com/Octav1usKitten/status/1148600886823989249
+      content:
+        text: '#NoCaseModdingRequired'
+        html: <a href="https://twitter.com/search?q=%23NoCaseModdingRequired">#NoCaseModdingRequired</a>
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/Octav1usKitten:
+          type: card
+          name: King Octav1us
+          url: https://twitter.com/Octav1usKitten
+          photo: ~
     08:
     - type: entry
       published: "2019-07-08T22:44:22+00:00"
@@ -263,25 +285,5 @@
           type: card
           name: RPGMP3
           url: https://twitter.com/RPGMP3
-          photo: ~
-    - type: entry
-      published: "2019-07-07T12:06:43+00:00"
-      url: https://twitter.com/tomasparksts/status/1147839356259856385
-      category:
-      - https://twitter.com/Octav1usKitten
-      in-reply-to:
-      - https://twitter.com/Octav1usKitten/status/1147807603227025409
-      content:
-        text: in the early 90s, the effects would have cost 100s of Ks for studios
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-      refs:
-        https://twitter.com/Octav1usKitten:
-          type: card
-          name: King Octav1us
-          url: https://twitter.com/Octav1usKitten
           photo: ~
 ...

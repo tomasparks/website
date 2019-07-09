@@ -1,28 +1,5 @@
 ---
 - type: entry
-  published: "2018-09-19T20:40:46+00:00"
-  category:
-  - scrobble
-  - audio
-  - RPGMP3 Actual Play Podcast
-  - Hal
-  listen-of:
-    h-cite:
-      url: http://rpgmp3.com/v5/feed/podcast/
-      photo: ""
-      audio:
-      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Yorkton_Gamer_Guild/Plotfinder_Session_4.mp3
-      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/Plotfinder_Session_4.mp3
-      name: Plotfinder Session 04
-      author: Hal
-      content: "Leaving Town \u2013 Three associates work together to clean up the
-        abducted individuals in the detective\u2019s basement and then head out to
-        complete their quest in the western forest. Starring Heather as Anisha, Catfolk
-        Psychic Detective Travis as Gorebasha, Aegis of Unknown Race Thing as Karl,
-        Human Kinetic Chirurgeon Lockhart as the GM"
-  content:
-    text: ' \ud83c\udfa7 Listened to Plotfinder Session 04 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
-- type: entry
   published: "2018-09-19T03:31:30+00:00"
   category:
   - scrobble
@@ -45,4 +22,27 @@
         Catfolk Psychic Detective Travis as Gorebasha, Aegis of [\u2026]"
   content:
     text: ' \ud83c\udfa7 Listened to Plotfinder Session 03 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+- type: entry
+  published: "2018-09-19T20:40:46+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://rpgmp3.com/v5/feed/podcast/
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Yorkton_Gamer_Guild/Plotfinder_Session_4.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/Plotfinder_Session_4.mp3
+      name: Plotfinder Session 04
+      author: Hal
+      content: "Leaving Town \u2013 Three associates work together to clean up the
+        abducted individuals in the detective\u2019s basement and then head out to
+        complete their quest in the western forest. Starring Heather as Anisha, Catfolk
+        Psychic Detective Travis as Gorebasha, Aegis of Unknown Race Thing as Karl,
+        Human Kinetic Chirurgeon Lockhart as the GM"
+  content:
+    text: ' \ud83c\udfa7 Listened to Plotfinder Session 04 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
 ...

@@ -90,7 +90,7 @@ $article->addAttribute('class', 'h-feed');
 
 // loop start
 foreach ($database as $value) {
-print_r($value);
+//print_r($value);
 if (isset($value['published'])) {
 
 
@@ -219,5 +219,5 @@ $dom = new DOMDocument('1.0');
 $dom->preserveWhiteSpace = false;
 $dom->formatOutput = true;
 $dom->loadXML($xml->asXML());
-print($dom->saveXML());
+//print($dom->saveXML());
 ?>

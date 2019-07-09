@@ -32,29 +32,6 @@
     text: ' \ud83c\udfa7 Listened to 186. TheGlobe.com Story with Stephan Paternot
       by Brian McCullough @brianmcc From Internet History Podcast'
 - type: entry
-  published: "2018-12-31T06:37:09+00:00"
-  category:
-  - scrobble
-  - audio
-  - Jason Scott Talks His Way Out of It
-  - Jason Scott
-  listen-of:
-    h-cite:
-      url: http://textfiles.libsyn.com/rss
-      photo: ""
-      audio:
-      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_48.mp3?dest-id=574323
-      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Leisure_Suit_Larry_Episode.mp3
-      name: The Leisure Suit Larry Episode
-      author: Jason Scott
-      content: "Al Lowe's Auction, Leisure Suit Larry History, SCUMMVM/AGI, How Scripting
-        Works, Deciding to Read The Source, Twitch.tv/textfilesdotcom, More Than Six,
-        ASMR, Jason Makes It, Preservation's Open Questions.\r\n\r\nThat was a heck
-        of a way to spend a Tuesday."
-  content:
-    text: ' \ud83c\udfa7 Listened to The Leisure Suit Larry Episode by @textfiles
-      From #JasonScottTalksHisWayOutofIt'
-- type: entry
   published: "2018-12-31T06:57:41+00:00"
   category:
   - scrobble
@@ -80,5 +57,28 @@
         - over 1,500 hours are up there.'
   content:
     text: ' \ud83c\udfa7 Listened to The Don Joyce and Negativland Episode by @textfiles
+      From #JasonScottTalksHisWayOutofIt'
+- type: entry
+  published: "2018-12-31T06:37:09+00:00"
+  category:
+  - scrobble
+  - audio
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
+  listen-of:
+    h-cite:
+      url: http://textfiles.libsyn.com/rss
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_48.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Leisure_Suit_Larry_Episode.mp3
+      name: The Leisure Suit Larry Episode
+      author: Jason Scott
+      content: "Al Lowe's Auction, Leisure Suit Larry History, SCUMMVM/AGI, How Scripting
+        Works, Deciding to Read The Source, Twitch.tv/textfilesdotcom, More Than Six,
+        ASMR, Jason Makes It, Preservation's Open Questions.\r\n\r\nThat was a heck
+        of a way to spend a Tuesday."
+  content:
+    text: ' \ud83c\udfa7 Listened to The Leisure Suit Larry Episode by @textfiles
       From #JasonScottTalksHisWayOutofIt'
 ...

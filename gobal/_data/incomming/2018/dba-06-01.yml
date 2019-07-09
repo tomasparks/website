@@ -1,7 +1,7 @@
 ---
 0:
   type: entry
-  published: "2018-06-01T05:17:04+00:00"
+  published: "2018-06-01T04:25:07+00:00"
   category:
   - scrobble
   - audio
@@ -12,20 +12,47 @@
       url: https://www.techdirt.com/podcast.xml
       photo: ""
       audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/284980701-techdirt-passwords-suck-whats-next.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/284980701-techdirt-passwords-suck-whats-next.mp3
-      name: Passwords Suck; What's Next?
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/286040049-techdirt-pardon-snowden.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/286040049-techdirt-pardon-snowden.mp3
+      name: Pardon Snowden
       author: Techdirt
-      content: "Data breaches that expose passwords are pretty much a fact of life
-        at this point \u2014 and the effects are multiplied by the fact that many,
-        many people reuse passwords no matter how much they know they shouldn't. As
-        such, there's a big push to move to password managers, two-factor authentication,
-        and even biometrics \u2014 because the simple fact is the password sucks.
-        This week, we're discussing what if anything will succeed in replacing it."
+      content: "Edward Snowden deserves a pardon. We all know it \u2014 even if you
+        believe he deserves to stand trial, the only option right now is an unfair
+        trial on Espionage Act charges in which he'd be blocked from presenting a
+        meaningful defense. A pardon from those charges is the only just choice. This
+        week, we're joined by Trevor Timm, co-founder of the Freedom Of The Press
+        Foundation, and returning guest Parker Higgins to discuss why Edward Snowden
+        deserves a pardon, and the campaign to get him one deserves your support."
   content:
-    text: ' \ud83c\udfa7 Listened to Passwords Suck; What''s Next? by Techdirt From
-      Techdirt'
+    text: ' \ud83c\udfa7 Listened to Pardon Snowden by Techdirt From Techdirt'
 1:
+  type: entry
+  published: "2018-06-01T05:59:08+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/283820189-techdirt-is-facebook-moderation-a-necessary-evil.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/283820189-techdirt-is-facebook-moderation-a-necessary-evil.mp3
+      name: Is Facebook Moderation A Necessary Evil?
+      author: Techdirt
+      content: Facebook's efforts to moderate content that appears on the social network
+        have run into numerous problems, most recently with a famous war photo and
+        a bunch of blog posts. Some have made absurd demands in response, such as
+        giving old-school media editors special posting privileges, while others have
+        objected to the idea of Facebook censoring any content whatsoever. But is
+        that objection realistic? This week, we discuss the complicated question of
+        Facebook moderation, and what the company's role can and should be.
+  content:
+    text: ' \ud83c\udfa7 Listened to Is Facebook Moderation A Necessary Evil? by Techdirt
+      From Techdirt'
+2:
   type: entry
   published: "2018-06-01T00:09:29+00:00"
   category:
@@ -52,83 +79,7 @@
   content:
     text: ' \ud83c\udfa7 Listened to A Presidential Tech Policy Wish List by Techdirt
       From Techdirt'
-2:
-  type: entry
-  published: "2018-06-01T03:12:10+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/287184049-techdirt-the-headphone-jack-apocalypse.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/287184049-techdirt-the-headphone-jack-apocalypse.mp3
-      name: The Headphone Jack Apocalypse!
-      author: Techdirt
-      content: "Yup, we're doing it \u2014 we're tackling the much-derided controversy
-        over Apple's decision to remove the analog headphone jack from the iPhone!
-        I join this week's episode myself as a guest host, and in truth none of us
-        really think it's any kind of \"apocalypse\" \u2014 but none of us are huge
-        fans of the move either. We discuss the questionable technical advantages,
-        the looming spectre of DRM, and more."
-  content:
-    text: ' \ud83c\udfa7 Listened to The Headphone Jack Apocalypse! by Techdirt From
-      Techdirt'
 3:
-  type: entry
-  published: "2018-06-01T12:55:35+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/280625706-techdirt-the-gawker-debate.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/280625706-techdirt-the-gawker-debate.mp3
-      name: The Gawker Debate
-      author: Techdirt
-      content: Gawker's gone, and that's that. And yet, whenever we've expressed concerns
-        over the billionaire vendetta that brought it down, we've faced a huge amount
-        of pushback from people who had problems with the site and its reporting practices.
-        This week, we're joined by Parker Thompson aka Startup L. Jackson for a friendly
-        debate about whether the Gawker shutdown really is a big deal.
-  content:
-    text: ' \ud83c\udfa7 Listened to The Gawker Debate by Techdirt From Techdirt'
-4:
-  type: entry
-  published: "2018-06-01T21:35:53+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/278542458-techdirt-have-platforms-killed-the-open-internet-by-replacing-protocols.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/278542458-techdirt-have-platforms-killed-the-open-internet-by-replacing-protocols.mp3
-      name: Have Platforms Killed The Open Internet By Replacing Protocols?
-      author: Techdirt
-      content: 'The internet is built on a solid foundation of open protocols: TCP/IP,
-        HTTP and SMTP especially, plus more modern entrants like RSS and BitTorrent.
-        But even those aren''t so new anymore, and it seems like the era of the open
-        protocol might be coming to an end, supplanted by the drive to create proprietary
-        closed platforms. This week, we discuss whether the open protocol is dead,
-        and what that means for the future of the open internet.'
-  content:
-    text: ' \ud83c\udfa7 Listened to Have Platforms Killed The Open Internet By Replacing
-      Protocols? by Techdirt From Techdirt'
-5:
   type: entry
   published: "2018-06-01T06:41:14+00:00"
   category:
@@ -154,7 +105,85 @@
         it actually is."
   content:
     text: ' \ud83c\udfa7 Listened to Is Capitalism Over? by Techdirt From Techdirt'
+4:
+  type: entry
+  published: "2018-06-01T20:49:34+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/279566873-techdirt-an-interview-with-kim-dotcoms-lawyer.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/279566873-techdirt-an-interview-with-kim-dotcoms-lawyer.mp3
+      name: An Interview With Kim Dotcom's Lawyer
+      author: Techdirt
+      content: Ira Rothken is on the front lines of many major legal battles relating
+        to copyright and piracy, including defending Megaupload founder Kim Dotcom
+        and, most recently, taking up the defense of Kickass Torrents operator Artem
+        Vaulin. This week, Ira joins us on the podcast to discuss the ins and outs
+        of these and other cases where the entertainment industry has come down hard
+        on consumers and innovators.
+  content:
+    text: ' \ud83c\udfa7 Listened to An Interview With Kim Dotcom''s Lawyer by Techdirt
+      From Techdirt'
+5:
+  type: entry
+  published: "2018-06-01T05:17:04+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/284980701-techdirt-passwords-suck-whats-next.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/284980701-techdirt-passwords-suck-whats-next.mp3
+      name: Passwords Suck; What's Next?
+      author: Techdirt
+      content: "Data breaches that expose passwords are pretty much a fact of life
+        at this point \u2014 and the effects are multiplied by the fact that many,
+        many people reuse passwords no matter how much they know they shouldn't. As
+        such, there's a big push to move to password managers, two-factor authentication,
+        and even biometrics \u2014 because the simple fact is the password sucks.
+        This week, we're discussing what if anything will succeed in replacing it."
+  content:
+    text: ' \ud83c\udfa7 Listened to Passwords Suck; What''s Next? by Techdirt From
+      Techdirt'
 6:
+  type: entry
+  published: "2018-06-01T21:35:53+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/278542458-techdirt-have-platforms-killed-the-open-internet-by-replacing-protocols.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/278542458-techdirt-have-platforms-killed-the-open-internet-by-replacing-protocols.mp3
+      name: Have Platforms Killed The Open Internet By Replacing Protocols?
+      author: Techdirt
+      content: 'The internet is built on a solid foundation of open protocols: TCP/IP,
+        HTTP and SMTP especially, plus more modern entrants like RSS and BitTorrent.
+        But even those aren''t so new anymore, and it seems like the era of the open
+        protocol might be coming to an end, supplanted by the drive to create proprietary
+        closed platforms. This week, we discuss whether the open protocol is dead,
+        and what that means for the future of the open internet.'
+  content:
+    text: ' \ud83c\udfa7 Listened to Have Platforms Killed The Open Internet By Replacing
+      Protocols? by Techdirt From Techdirt'
+7:
   type: entry
   published: "2018-06-01T11:45:09+00:00"
   category:
@@ -182,35 +211,9 @@
   content:
     text: ' \ud83c\udfa7 Listened to Inside A Really Good Kickstarter Campaign by
       Techdirt From Techdirt'
-7:
-  type: entry
-  published: "2018-06-01T20:49:34+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/279566873-techdirt-an-interview-with-kim-dotcoms-lawyer.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/279566873-techdirt-an-interview-with-kim-dotcoms-lawyer.mp3
-      name: An Interview With Kim Dotcom's Lawyer
-      author: Techdirt
-      content: Ira Rothken is on the front lines of many major legal battles relating
-        to copyright and piracy, including defending Megaupload founder Kim Dotcom
-        and, most recently, taking up the defense of Kickass Torrents operator Artem
-        Vaulin. This week, Ira joins us on the podcast to discuss the ins and outs
-        of these and other cases where the entertainment industry has come down hard
-        on consumers and innovators.
-  content:
-    text: ' \ud83c\udfa7 Listened to An Interview With Kim Dotcom''s Lawyer by Techdirt
-      From Techdirt'
 8:
   type: entry
-  published: "2018-06-01T04:25:07+00:00"
+  published: "2018-06-01T03:12:10+00:00"
   category:
   - scrobble
   - audio
@@ -221,22 +224,22 @@
       url: https://www.techdirt.com/podcast.xml
       photo: ""
       audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/286040049-techdirt-pardon-snowden.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/286040049-techdirt-pardon-snowden.mp3
-      name: Pardon Snowden
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/287184049-techdirt-the-headphone-jack-apocalypse.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/287184049-techdirt-the-headphone-jack-apocalypse.mp3
+      name: The Headphone Jack Apocalypse!
       author: Techdirt
-      content: "Edward Snowden deserves a pardon. We all know it \u2014 even if you
-        believe he deserves to stand trial, the only option right now is an unfair
-        trial on Espionage Act charges in which he'd be blocked from presenting a
-        meaningful defense. A pardon from those charges is the only just choice. This
-        week, we're joined by Trevor Timm, co-founder of the Freedom Of The Press
-        Foundation, and returning guest Parker Higgins to discuss why Edward Snowden
-        deserves a pardon, and the campaign to get him one deserves your support."
+      content: "Yup, we're doing it \u2014 we're tackling the much-derided controversy
+        over Apple's decision to remove the analog headphone jack from the iPhone!
+        I join this week's episode myself as a guest host, and in truth none of us
+        really think it's any kind of \"apocalypse\" \u2014 but none of us are huge
+        fans of the move either. We discuss the questionable technical advantages,
+        the looming spectre of DRM, and more."
   content:
-    text: ' \ud83c\udfa7 Listened to Pardon Snowden by Techdirt From Techdirt'
+    text: ' \ud83c\udfa7 Listened to The Headphone Jack Apocalypse! by Techdirt From
+      Techdirt'
 9:
   type: entry
-  published: "2018-06-01T05:59:08+00:00"
+  published: "2018-06-01T12:55:35+00:00"
   category:
   - scrobble
   - audio
@@ -247,20 +250,17 @@
       url: https://www.techdirt.com/podcast.xml
       photo: ""
       audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/283820189-techdirt-is-facebook-moderation-a-necessary-evil.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/283820189-techdirt-is-facebook-moderation-a-necessary-evil.mp3
-      name: Is Facebook Moderation A Necessary Evil?
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/280625706-techdirt-the-gawker-debate.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/280625706-techdirt-the-gawker-debate.mp3
+      name: The Gawker Debate
       author: Techdirt
-      content: Facebook's efforts to moderate content that appears on the social network
-        have run into numerous problems, most recently with a famous war photo and
-        a bunch of blog posts. Some have made absurd demands in response, such as
-        giving old-school media editors special posting privileges, while others have
-        objected to the idea of Facebook censoring any content whatsoever. But is
-        that objection realistic? This week, we discuss the complicated question of
-        Facebook moderation, and what the company's role can and should be.
+      content: Gawker's gone, and that's that. And yet, whenever we've expressed concerns
+        over the billionaire vendetta that brought it down, we've faced a huge amount
+        of pushback from people who had problems with the site and its reporting practices.
+        This week, we're joined by Parker Thompson aka Startup L. Jackson for a friendly
+        debate about whether the Gawker shutdown really is a big deal.
   content:
-    text: ' \ud83c\udfa7 Listened to Is Facebook Moderation A Necessary Evil? by Techdirt
-      From Techdirt'
+    text: ' \ud83c\udfa7 Listened to The Gawker Debate by Techdirt From Techdirt'
 10:
   type: entry
   published: "2018-06-01T23:52:20+00:00"

@@ -1,6 +1,6 @@
 ---
 - type: entry
-  published: "2018-05-05T13:19:40+00:00"
+  published: "2018-05-05T10:36:48+00:00"
   category:
   - scrobble
   - audio
@@ -11,18 +11,17 @@
       url: https://warp.gumballcdn.com/v1/rss?uuid=5fac20eeb4&rss=https://rss.art19.com/not-another-d-and-d-podcast
       photo: ""
       audio:
-      - https://warp.gumballcdn.com/v1/mp3?uuid=5fac20eeb4&show=84944682f0&mp3=http://rss.art19.com/episodes/6b622b6f-2316-41e9-ac03-e248f317cda5.mp3
+      - https://warp.gumballcdn.com/v1/mp3?uuid=5fac20eeb4&show=84944682f0&mp3=http://rss.art19.com/episodes/0f9e7a83-cd4d-483c-adee-d8335debb204.mp3
       - http://archive.org/download/Not_Another_DD_Podcast-by-HeadGum/mp3
-      name: 'Ep. 5: Dark Ritual (The Moonstone Saga)'
+      name: 'BONUS EPISODE: The Hearthside Chats (Q&A)'
       author: HeadGum
-      content: 'Can the almost-heroes (aka the "band of boobs") save the Green Teens
-        before they''re ritualistically sacrificed? ...Maybe! The party splits up
-        to sneak into the keep and finds a creepy scene. Beverly lets Moonshine call
-        the shots after a series of bad decisions and Hardwon finally climbs something
-        successfully. '
+      content: 'Murph, Jake, Emily, and Caldwell answer questions from Reddit (/r/NotAnotherDnDpodcast)
+        and Twitter (#NaDDPod). The cast discusses the origins of the characters,
+        DMing, character death, the adventure so far, and more! Thanks for 400 reviews!
+        We''ll continue to do more bonus episodes as we hit more benchmarks. '
   content:
-    text: ' \ud83c\udfa7 Listened to Ep. 5: Dark Ritual (The Moonstone Saga) by HeadGum
-      From Not Another D&D Podcast'
+    text: ' \ud83c\udfa7 Listened to BONUS EPISODE: The Hearthside Chats (Q&A) by
+      HeadGum From Not Another D&D Podcast'
 - type: entry
   published: "2018-05-05T12:00:05+00:00"
   category:
@@ -48,52 +47,6 @@
     text: ' \ud83c\udfa7 Listened to Ep. 4: Keep Creepers (The Moonstone Saga) by
       HeadGum From Not Another D&D Podcast'
 - type: entry
-  published: "2018-05-05T06:41:56+00:00"
-  category:
-  - scrobble
-  - audio
-  - Not Another D&D Podcast
-  - HeadGum
-  listen-of:
-    h-cite:
-      url: https://warp.gumballcdn.com/v1/rss?uuid=5fac20eeb4&rss=https://rss.art19.com/not-another-d-and-d-podcast
-      photo: ""
-      audio:
-      - https://warp.gumballcdn.com/v1/mp3?uuid=5fac20eeb4&show=84944682f0&mp3=http://rss.art19.com/episodes/d2c4abf9-efbe-406e-b02b-19cc5529a347.mp3
-      - http://archive.org/download/Not_Another_DD_Podcast-by-HeadGum/mp3
-      name: 'Ep. 3: The Mating Habits of Bullywugs (The Moonstone Saga)'
-      author: HeadGum
-      content: Our almost-heroes continue their search for the missing Green Teens
-        in the bog! Beverly makes use of his ropes AND mating call badge, Hardwon
-        gets bark rash, and Moonshine debuts the fungal kiss of death. Listen to the
-        end for shoutouts for our new reviewers!
-  content:
-    text: ' \ud83c\udfa7 Listened to Ep. 3: The Mating Habits of Bullywugs (The Moonstone
-      Saga) by HeadGum From Not Another D&D Podcast'
-- type: entry
-  published: "2018-05-05T10:36:48+00:00"
-  category:
-  - scrobble
-  - audio
-  - Not Another D&D Podcast
-  - HeadGum
-  listen-of:
-    h-cite:
-      url: https://warp.gumballcdn.com/v1/rss?uuid=5fac20eeb4&rss=https://rss.art19.com/not-another-d-and-d-podcast
-      photo: ""
-      audio:
-      - https://warp.gumballcdn.com/v1/mp3?uuid=5fac20eeb4&show=84944682f0&mp3=http://rss.art19.com/episodes/0f9e7a83-cd4d-483c-adee-d8335debb204.mp3
-      - http://archive.org/download/Not_Another_DD_Podcast-by-HeadGum/mp3
-      name: 'BONUS EPISODE: The Hearthside Chats (Q&A)'
-      author: HeadGum
-      content: 'Murph, Jake, Emily, and Caldwell answer questions from Reddit (/r/NotAnotherDnDpodcast)
-        and Twitter (#NaDDPod). The cast discusses the origins of the characters,
-        DMing, character death, the adventure so far, and more! Thanks for 400 reviews!
-        We''ll continue to do more bonus episodes as we hit more benchmarks. '
-  content:
-    text: ' \ud83c\udfa7 Listened to BONUS EPISODE: The Hearthside Chats (Q&A) by
-      HeadGum From Not Another D&D Podcast'
-- type: entry
   published: "2018-05-05T14:54:12+00:00"
   category:
   - scrobble
@@ -116,52 +69,6 @@
   content:
     text: ' \ud83c\udfa7 Listened to Ep. 6: Ambushed (The Moonstone Saga) by HeadGum
       From Not Another D&D Podcast'
-- type: entry
-  published: "2018-05-05T00:11:30+00:00"
-  category:
-  - scrobble
-  - audio
-  - Not Another D&D Podcast
-  - HeadGum
-  listen-of:
-    h-cite:
-      url: https://warp.gumballcdn.com/v1/rss?uuid=5fac20eeb4&rss=https://rss.art19.com/not-another-d-and-d-podcast
-      photo: ""
-      audio:
-      - https://warp.gumballcdn.com/v1/mp3?uuid=5fac20eeb4&show=84944682f0&mp3=http://rss.art19.com/episodes/72c09b6c-ab26-4ec4-9c6e-402b33ca2e88.mp3
-      - http://archive.org/download/Not_Another_DD_Podcast-by-HeadGum/mp3
-      name: 'Ep. 1: Green Teens Gone (The Moonstone Saga)'
-      author: HeadGum
-      content: 'Hardwon (Jake), Moonshine (Emily), and Beverly (Caldwell) arrive in
-        the small fishing village of Moonstone and meet Scoutmaster Denny -- a halfling
-        coward with some terrible news. The crew answers the call of adventure, but
-        gets tripped up by some pony-tailed barbarian bullies. '
-  content:
-    text: ' \ud83c\udfa7 Listened to Ep. 1: Green Teens Gone (The Moonstone Saga)
-      by HeadGum From Not Another D&D Podcast'
-- type: entry
-  published: "2018-05-05T17:12:12+00:00"
-  category:
-  - scrobble
-  - audio
-  - Not Another D&D Podcast
-  - HeadGum
-  listen-of:
-    h-cite:
-      url: https://warp.gumballcdn.com/v1/rss?uuid=5fac20eeb4&rss=https://rss.art19.com/not-another-d-and-d-podcast
-      photo: ""
-      audio:
-      - https://warp.gumballcdn.com/v1/mp3?uuid=5fac20eeb4&show=84944682f0&mp3=http://rss.art19.com/episodes/3f48bcbe-121d-4d9e-8704-f4749a414026.mp3
-      - http://archive.org/download/Not_Another_DD_Podcast-by-HeadGum/mp3
-      name: 'Ep. 7: Frog King''s Revenge (The Moonstone Saga)'
-      author: HeadGum
-      content: The almost-heroes have free rein of the castle now that the kobolds
-        have been chased out, but the threat of the bullywug king still looms! Hardwon
-        races to save the Green Teens while Beverly and Moonshine search for the dragon's
-        egg. Jonah the Crick Bullywug and PawPaw wrestle.
-  content:
-    text: ' \ud83c\udfa7 Listened to Ep. 7: Frog King''s Revenge (The Moonstone Saga)
-      by HeadGum From Not Another D&D Podcast'
 - type: entry
   published: "2018-05-05T05:37:54+00:00"
   category:
@@ -186,4 +93,97 @@
   content:
     text: ' \ud83c\udfa7 Listened to Ep. 2: Into the Muck (The Moonstone Saga) by
       HeadGum From Not Another D&D Podcast'
+- type: entry
+  published: "2018-05-05T13:19:40+00:00"
+  category:
+  - scrobble
+  - audio
+  - Not Another D&D Podcast
+  - HeadGum
+  listen-of:
+    h-cite:
+      url: https://warp.gumballcdn.com/v1/rss?uuid=5fac20eeb4&rss=https://rss.art19.com/not-another-d-and-d-podcast
+      photo: ""
+      audio:
+      - https://warp.gumballcdn.com/v1/mp3?uuid=5fac20eeb4&show=84944682f0&mp3=http://rss.art19.com/episodes/6b622b6f-2316-41e9-ac03-e248f317cda5.mp3
+      - http://archive.org/download/Not_Another_DD_Podcast-by-HeadGum/mp3
+      name: 'Ep. 5: Dark Ritual (The Moonstone Saga)'
+      author: HeadGum
+      content: 'Can the almost-heroes (aka the "band of boobs") save the Green Teens
+        before they''re ritualistically sacrificed? ...Maybe! The party splits up
+        to sneak into the keep and finds a creepy scene. Beverly lets Moonshine call
+        the shots after a series of bad decisions and Hardwon finally climbs something
+        successfully. '
+  content:
+    text: ' \ud83c\udfa7 Listened to Ep. 5: Dark Ritual (The Moonstone Saga) by HeadGum
+      From Not Another D&D Podcast'
+- type: entry
+  published: "2018-05-05T17:12:12+00:00"
+  category:
+  - scrobble
+  - audio
+  - Not Another D&D Podcast
+  - HeadGum
+  listen-of:
+    h-cite:
+      url: https://warp.gumballcdn.com/v1/rss?uuid=5fac20eeb4&rss=https://rss.art19.com/not-another-d-and-d-podcast
+      photo: ""
+      audio:
+      - https://warp.gumballcdn.com/v1/mp3?uuid=5fac20eeb4&show=84944682f0&mp3=http://rss.art19.com/episodes/3f48bcbe-121d-4d9e-8704-f4749a414026.mp3
+      - http://archive.org/download/Not_Another_DD_Podcast-by-HeadGum/mp3
+      name: 'Ep. 7: Frog King''s Revenge (The Moonstone Saga)'
+      author: HeadGum
+      content: The almost-heroes have free rein of the castle now that the kobolds
+        have been chased out, but the threat of the bullywug king still looms! Hardwon
+        races to save the Green Teens while Beverly and Moonshine search for the dragon's
+        egg. Jonah the Crick Bullywug and PawPaw wrestle.
+  content:
+    text: ' \ud83c\udfa7 Listened to Ep. 7: Frog King''s Revenge (The Moonstone Saga)
+      by HeadGum From Not Another D&D Podcast'
+- type: entry
+  published: "2018-05-05T00:11:30+00:00"
+  category:
+  - scrobble
+  - audio
+  - Not Another D&D Podcast
+  - HeadGum
+  listen-of:
+    h-cite:
+      url: https://warp.gumballcdn.com/v1/rss?uuid=5fac20eeb4&rss=https://rss.art19.com/not-another-d-and-d-podcast
+      photo: ""
+      audio:
+      - https://warp.gumballcdn.com/v1/mp3?uuid=5fac20eeb4&show=84944682f0&mp3=http://rss.art19.com/episodes/72c09b6c-ab26-4ec4-9c6e-402b33ca2e88.mp3
+      - http://archive.org/download/Not_Another_DD_Podcast-by-HeadGum/mp3
+      name: 'Ep. 1: Green Teens Gone (The Moonstone Saga)'
+      author: HeadGum
+      content: 'Hardwon (Jake), Moonshine (Emily), and Beverly (Caldwell) arrive in
+        the small fishing village of Moonstone and meet Scoutmaster Denny -- a halfling
+        coward with some terrible news. The crew answers the call of adventure, but
+        gets tripped up by some pony-tailed barbarian bullies. '
+  content:
+    text: ' \ud83c\udfa7 Listened to Ep. 1: Green Teens Gone (The Moonstone Saga)
+      by HeadGum From Not Another D&D Podcast'
+- type: entry
+  published: "2018-05-05T06:41:56+00:00"
+  category:
+  - scrobble
+  - audio
+  - Not Another D&D Podcast
+  - HeadGum
+  listen-of:
+    h-cite:
+      url: https://warp.gumballcdn.com/v1/rss?uuid=5fac20eeb4&rss=https://rss.art19.com/not-another-d-and-d-podcast
+      photo: ""
+      audio:
+      - https://warp.gumballcdn.com/v1/mp3?uuid=5fac20eeb4&show=84944682f0&mp3=http://rss.art19.com/episodes/d2c4abf9-efbe-406e-b02b-19cc5529a347.mp3
+      - http://archive.org/download/Not_Another_DD_Podcast-by-HeadGum/mp3
+      name: 'Ep. 3: The Mating Habits of Bullywugs (The Moonstone Saga)'
+      author: HeadGum
+      content: Our almost-heroes continue their search for the missing Green Teens
+        in the bog! Beverly makes use of his ropes AND mating call badge, Hardwon
+        gets bark rash, and Moonshine debuts the fungal kiss of death. Listen to the
+        end for shoutouts for our new reviewers!
+  content:
+    text: ' \ud83c\udfa7 Listened to Ep. 3: The Mating Habits of Bullywugs (The Moonstone
+      Saga) by HeadGum From Not Another D&D Podcast'
 ...

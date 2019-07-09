@@ -73,26 +73,6 @@
     text: ' \ud83c\udfa7 Listened to 198. Inventor of the Hashtag, Chris Messina by
       Brian McCullough From Internet History Podcast'
 - type: entry
-  published: "2019-07-05T13:45:02+00:00"
-  category:
-  - scrobble
-  - audio
-  - Jason Scott Talks His Way Out of It
-  - Jason Scott
-  listen-of:
-    h-cite:
-      url: http://textfiles.libsyn.com/rss
-      photo: ""
-      audio:
-      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_69.mp3?dest-id=574323
-      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_PUBG_and_Life_Strats_Episode.mp3
-      name: The PUBG and Life Strats Episode
-      author: Jason Scott
-      content: The PUBG And Life Strats Episode They go together better than expected.
-  content:
-    text: ' \ud83c\udfa7 Listened to The PUBG and Life Strats Episode by @textfiles
-      From #JasonScottTalksHisWayOutofIt'
-- type: entry
   published: "2019-07-05T13:24:29+00:00"
   category:
   - scrobble
@@ -116,4 +96,24 @@
         \_http://bbsdocumentary.com/photos/jason/UTAH/\_"
   content:
     text: ' \ud83c\udfa7 Listened to The Long Drive Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
+- type: entry
+  published: "2019-07-05T13:45:02+00:00"
+  category:
+  - scrobble
+  - audio
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
+  listen-of:
+    h-cite:
+      url: http://textfiles.libsyn.com/rss
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_69.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_PUBG_and_Life_Strats_Episode.mp3
+      name: The PUBG and Life Strats Episode
+      author: Jason Scott
+      content: The PUBG And Life Strats Episode They go together better than expected.
+  content:
+    text: ' \ud83c\udfa7 Listened to The PUBG and Life Strats Episode by @textfiles
+      From #JasonScottTalksHisWayOutofIt'
 ...

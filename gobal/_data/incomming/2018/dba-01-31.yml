@@ -1,27 +1,5 @@
 ---
 - type: entry
-  published: "2018-01-31T18:39:27+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough @brianmcc
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/c99_uDQPhR4/100._The_Man_Who_Could_Have_Been_Bill_Gates__The_Gary_Kildall_Story.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/100_The_Man_Who_Could_Have_Been_Bill_Gates_The_Gary_Kildall_Story.mp3
-      name: 100. The Man Who Could Have Been Bill Gates? The Gary Kildall Story
-      author: Brian McCullough @brianmcc
-      content: A history of the Internet Era from Netscape to the iPad. Oral histories
-        from the people that made the technology happen. "Chapter" episodes providing
-        background on the history of the companies.
-  content:
-    text: ' \ud83c\udfa7 Listened to 100. The Man Who Could Have Been Bill Gates?
-      The Gary Kildall Story by Brian McCullough @brianmcc From Internet History Podcast'
-- type: entry
   published: "2018-01-31T20:09:24+00:00"
   category:
   - scrobble
@@ -43,4 +21,26 @@
   content:
     text: ' \ud83c\udfa7 Listened to 101. Matt Kursh on Pen Computing, Sidewalk and
       MSN by Brian McCullough @brianmcc From Internet History Podcast'
+- type: entry
+  published: "2018-01-31T18:39:27+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/c99_uDQPhR4/100._The_Man_Who_Could_Have_Been_Bill_Gates__The_Gary_Kildall_Story.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/100_The_Man_Who_Could_Have_Been_Bill_Gates_The_Gary_Kildall_Story.mp3
+      name: 100. The Man Who Could Have Been Bill Gates? The Gary Kildall Story
+      author: Brian McCullough @brianmcc
+      content: A history of the Internet Era from Netscape to the iPad. Oral histories
+        from the people that made the technology happen. "Chapter" episodes providing
+        background on the history of the companies.
+  content:
+    text: ' \ud83c\udfa7 Listened to 100. The Man Who Could Have Been Bill Gates?
+      The Gary Kildall Story by Brian McCullough @brianmcc From Internet History Podcast'
 ...

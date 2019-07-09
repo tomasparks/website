@@ -1,56 +1,5 @@
 ---
 - type: entry
-  published: "2018-05-31T03:55:33+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/289938859-techdirt-death-knell-for-software-patents.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/289938859-techdirt-death-knell-for-software-patents.mp3
-      name: Death Knell For Software Patents
-      author: Techdirt
-      content: "Software patents have been dubious since their inception \u2014 not
-        just in principle, but legally too. Past rulings have called their validity
-        into serious question, and now an opinion from a prominent pro-patent judge
-        has called for people to admit that they simply shouldn't exist. This week,
-        we discuss what this opinion means for the (hopefully short) future of software
-        patents."
-  content:
-    text: ' \ud83c\udfa7 Listened to Death Knell For Software Patents by Techdirt
-      From Techdirt'
-- type: entry
-  published: "2018-05-31T01:22:20+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/292111721-techdirt-is-there-a-better-way-to-pick-a-president.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/292111721-techdirt-is-there-a-better-way-to-pick-a-president.mp3
-      name: Is There A Better Way To Pick A President?
-      author: Techdirt
-      content: 'Well, today''s the day. By tomorrow there will be a new President
-        of the United States, and a large segment of the population claiming that
-        they were robbed by the system. But immediate anger aside, that system is
-        hardly above criticism: the Electoral College has had all sorts of unanticipated
-        and often undesirable effects on democracy, and a wide variety of alternatives
-        have been proposed. This week we discuss the question: is there a better way
-        to pick the president?'
-  content:
-    text: ' \ud83c\udfa7 Listened to Is There A Better Way To Pick A President? by
-      Techdirt From Techdirt'
-- type: entry
   published: "2018-05-31T02:18:59+00:00"
   category:
   - scrobble
@@ -74,6 +23,31 @@
         there is a role for antitrust in the world of technological innovation."
   content:
     text: ' \ud83c\udfa7 Listened to Can Tech Be Trusted Without Antitrust? by Techdirt
+      From Techdirt'
+- type: entry
+  published: "2018-05-31T03:55:33+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/289938859-techdirt-death-knell-for-software-patents.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/289938859-techdirt-death-knell-for-software-patents.mp3
+      name: Death Knell For Software Patents
+      author: Techdirt
+      content: "Software patents have been dubious since their inception \u2014 not
+        just in principle, but legally too. Past rulings have called their validity
+        into serious question, and now an opinion from a prominent pro-patent judge
+        has called for people to admit that they simply shouldn't exist. This week,
+        we discuss what this opinion means for the (hopefully short) future of software
+        patents."
+  content:
+    text: ' \ud83c\udfa7 Listened to Death Knell For Software Patents by Techdirt
       From Techdirt'
 - type: entry
   published: "2018-05-31T00:45:47+00:00"
@@ -102,4 +76,30 @@
   content:
     text: ' \ud83c\udfa7 Listened to Debating The Facebook Filter Bubble, With Mathew
       Ingram by Techdirt From Techdirt'
+- type: entry
+  published: "2018-05-31T01:22:20+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/292111721-techdirt-is-there-a-better-way-to-pick-a-president.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/292111721-techdirt-is-there-a-better-way-to-pick-a-president.mp3
+      name: Is There A Better Way To Pick A President?
+      author: Techdirt
+      content: 'Well, today''s the day. By tomorrow there will be a new President
+        of the United States, and a large segment of the population claiming that
+        they were robbed by the system. But immediate anger aside, that system is
+        hardly above criticism: the Electoral College has had all sorts of unanticipated
+        and often undesirable effects on democracy, and a wide variety of alternatives
+        have been proposed. This week we discuss the question: is there a better way
+        to pick the president?'
+  content:
+    text: ' \ud83c\udfa7 Listened to Is There A Better Way To Pick A President? by
+      Techdirt From Techdirt'
 ...

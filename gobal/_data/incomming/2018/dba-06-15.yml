@@ -1,5 +1,32 @@
 ---
 - type: entry
+  published: "2018-06-15T11:12:00+00:00"
+  category:
+  - scrobble
+  - audio
+  - Acquired - Tech Acquisitions & IPOs
+  - Ben Gilbert and David Rosenthal
+  listen-of:
+    h-cite:
+      url: http://www.acquired.fm/episodes?format=RSS
+      photo: ""
+      audio:
+      - http://static1.squarespace.com/static/56208487e4b020250549a935/t/566fa77057eb8dee50c359cc/1450157936120/Acquired+Episode+5+-+Siri.mp3
+      - http://archive.org/download/Acquired-Podcast-by-Ben_Gilbert_and_David_Rosenthal/Episode_5_Siri.mp3
+      name: 'Episode 5: Siri'
+      author: Ben Gilbert and David Rosenthal
+      content: 'In the last episode of 2015, Ben and David discuss Apple''s acquisition
+        of Siri. Notable topics include:  The founding of Siri by Dag Kittlau, Adam
+        Cheyer, and Chris Brigham Scott Forstall on the Apple side, and the end of
+        his time at the company The other Apple acquisitions around Siri, including
+        Topsy, Novauris Technologies, OttoCat Cue, Spotsetter, VocalIQ, and Perceptio.
+        The team Apple built around Siri post-acquisition, including Alex Acero from
+        Microsoft Research. Speculation on the future of voice and its role in everyday
+        computing'
+  content:
+    text: ' \ud83c\udfa7 Listened to Episode 5: Siri by Ben Gilbert and David Rosenthal
+      From @AcquiredFM'
+- type: entry
   published: "2018-06-15T19:16:31+00:00"
   category:
   - scrobble
@@ -44,33 +71,6 @@
   content:
     text: ' \ud83c\udfa7 Listened to Episode 6: Lucasfilm by Ben Gilbert and David
       Rosenthal From @AcquiredFM'
-- type: entry
-  published: "2018-06-15T11:12:00+00:00"
-  category:
-  - scrobble
-  - audio
-  - Acquired - Tech Acquisitions & IPOs
-  - Ben Gilbert and David Rosenthal
-  listen-of:
-    h-cite:
-      url: http://www.acquired.fm/episodes?format=RSS
-      photo: ""
-      audio:
-      - http://static1.squarespace.com/static/56208487e4b020250549a935/t/566fa77057eb8dee50c359cc/1450157936120/Acquired+Episode+5+-+Siri.mp3
-      - http://archive.org/download/Acquired-Podcast-by-Ben_Gilbert_and_David_Rosenthal/Episode_5_Siri.mp3
-      name: 'Episode 5: Siri'
-      author: Ben Gilbert and David Rosenthal
-      content: 'In the last episode of 2015, Ben and David discuss Apple''s acquisition
-        of Siri. Notable topics include:  The founding of Siri by Dag Kittlau, Adam
-        Cheyer, and Chris Brigham Scott Forstall on the Apple side, and the end of
-        his time at the company The other Apple acquisitions around Siri, including
-        Topsy, Novauris Technologies, OttoCat Cue, Spotsetter, VocalIQ, and Perceptio.
-        The team Apple built around Siri post-acquisition, including Alex Acero from
-        Microsoft Research. Speculation on the future of voice and its role in everyday
-        computing'
-  content:
-    text: ' \ud83c\udfa7 Listened to Episode 5: Siri by Ben Gilbert and David Rosenthal
-      From @AcquiredFM'
 - type: entry
   published: "2018-06-15T17:00:51+00:00"
   category:

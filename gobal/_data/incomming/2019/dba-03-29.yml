@@ -1,5 +1,25 @@
 ---
 - type: entry
+  published: "2019-03-29T00:55:18+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_16.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_16.mp3
+      name: Kingmaker Session 16
+      author: Hal
+      content: "Episode 16 \u2013 in which the battle of Fangberry Farm and the battle
+        of Elk\u2019s Rest take place."
+  content:
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 16 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+- type: entry
   published: "2019-03-29T02:32:56+00:00"
   category:
   - scrobble
@@ -20,26 +40,6 @@
         an imaginary story, somebody really dies (and then we look at Raise Dead\u2026)"
   content:
     text: ' \ud83c\udfa7 Listened to Kingmaker Session 17 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
-- type: entry
-  published: "2019-03-29T00:55:18+00:00"
-  category:
-  - scrobble
-  - audio
-  - RPGMP3 Actual Play Podcast
-  - Hal
-  listen-of:
-    h-cite:
-      url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
-      photo: ""
-      audio:
-      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_16.mp3
-      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_16.mp3
-      name: Kingmaker Session 16
-      author: Hal
-      content: "Episode 16 \u2013 in which the battle of Fangberry Farm and the battle
-        of Elk\u2019s Rest take place."
-  content:
-    text: ' \ud83c\udfa7 Listened to Kingmaker Session 16 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
 - type: entry
   published: "2019-03-29T02:25:41+00:00"
   category:

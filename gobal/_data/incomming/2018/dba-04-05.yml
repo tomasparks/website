@@ -1,45 +1,5 @@
 ---
 - type: entry
-  published: "2018-04-05T15:10:16+00:00"
-  category:
-  - scrobble
-  - audio
-  - Adam Ruins Everything
-  - Adam Ruins Everything
-  listen-of:
-    h-cite:
-      url: http://maximumfun.org/feeds/are.xml
-      photo: ""
-      audio:
-      - http://media.adknit.com/a/f/90/adam-ruins-everything/phegpi.1-1.mp3
-      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_46_Dr_Azra_Raza_on_Mouse_Model_Misconceptions_Other_Ways_We_Can_Improve_Cancer_Research.mp3
-      name: 'Ep 46: Dr. Azra Raza on Mouse Model Misconceptions & Other Ways We Can
-        Improve Cancer Research'
-      author: Adam Ruins Everything
-      content: "When we think of conducting science experiments on subjects, we immediately
-        think of mice models. But today's guest, Dr. Azra Raza, who appeared on Adam
-        Ruins Science, says there's a more effective way. On the TV show Dr. Raza
-        discussed how the mouse model scientists use for their research is actually
-        ineffective; even though a medicine might work well on a rodent, the results
-        don't translate as well as we thought to humans - especially when it comes
-        to cancer research which is what Dr. Raza studies. Even though humans and
-        mice share over 90 percent of their DNA with one another, our bodies still
-        differ in numerous ways; we metabolize food and medicine differently and humans
-        are significantly bigger than mice in size. This wastes money from the limited
-        amount of funding that already exists and encourages clinical trials that
-        ultimately go nowhere. On the podcast, Dr. Raza proposes a different research
-        method that she has used herself, to much success.\r\n\r\nDr. Raza is a Professor
-        of Medicine and Director of the MDS Center at Columbia University in New York.
-        Previously she conducted her research at Rush University, Chicago, Illinois
-        in 1992, where she was the Charles Arthur Weaver Professor in Oncology and
-        Director, Division of Myeloid Diseases.\r\n\r\nAdam is on Twitter @AdamConover
-        and you can find past episodes and bonus content from the TruTV show at AdamRuinsEverything.com.\r\n\r\nProduced
-        by Shara Morris for MaximumFun.org."
-  content:
-    text: ' \ud83c\udfa7 Listened to Ep 46: Dr. Azra Raza on Mouse Model Misconceptions
-      & Other Ways We Can Improve Cancer Research by Adam Ruins Everything From Adam
-      Ruins Everything'
-- type: entry
   published: "2018-04-05T12:31:26+00:00"
   category:
   - scrobble
@@ -81,4 +41,44 @@
     text: ' \ud83c\udfa7 Listened to Ep 47: Rachel Weil on Femicom and the Value of
       Preserving Classic ''Girl'' Video Games by Adam Ruins Everything From Adam Ruins
       Everything'
+- type: entry
+  published: "2018-04-05T15:10:16+00:00"
+  category:
+  - scrobble
+  - audio
+  - Adam Ruins Everything
+  - Adam Ruins Everything
+  listen-of:
+    h-cite:
+      url: http://maximumfun.org/feeds/are.xml
+      photo: ""
+      audio:
+      - http://media.adknit.com/a/f/90/adam-ruins-everything/phegpi.1-1.mp3
+      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_46_Dr_Azra_Raza_on_Mouse_Model_Misconceptions_Other_Ways_We_Can_Improve_Cancer_Research.mp3
+      name: 'Ep 46: Dr. Azra Raza on Mouse Model Misconceptions & Other Ways We Can
+        Improve Cancer Research'
+      author: Adam Ruins Everything
+      content: "When we think of conducting science experiments on subjects, we immediately
+        think of mice models. But today's guest, Dr. Azra Raza, who appeared on Adam
+        Ruins Science, says there's a more effective way. On the TV show Dr. Raza
+        discussed how the mouse model scientists use for their research is actually
+        ineffective; even though a medicine might work well on a rodent, the results
+        don't translate as well as we thought to humans - especially when it comes
+        to cancer research which is what Dr. Raza studies. Even though humans and
+        mice share over 90 percent of their DNA with one another, our bodies still
+        differ in numerous ways; we metabolize food and medicine differently and humans
+        are significantly bigger than mice in size. This wastes money from the limited
+        amount of funding that already exists and encourages clinical trials that
+        ultimately go nowhere. On the podcast, Dr. Raza proposes a different research
+        method that she has used herself, to much success.\r\n\r\nDr. Raza is a Professor
+        of Medicine and Director of the MDS Center at Columbia University in New York.
+        Previously she conducted her research at Rush University, Chicago, Illinois
+        in 1992, where she was the Charles Arthur Weaver Professor in Oncology and
+        Director, Division of Myeloid Diseases.\r\n\r\nAdam is on Twitter @AdamConover
+        and you can find past episodes and bonus content from the TruTV show at AdamRuinsEverything.com.\r\n\r\nProduced
+        by Shara Morris for MaximumFun.org."
+  content:
+    text: ' \ud83c\udfa7 Listened to Ep 46: Dr. Azra Raza on Mouse Model Misconceptions
+      & Other Ways We Can Improve Cancer Research by Adam Ruins Everything From Adam
+      Ruins Everything'
 ...
