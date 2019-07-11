@@ -1,0 +1,22 @@
+---
+- type: entry
+  published: "2019-07-11T04:21:01+00:00"
+  url: https://twitter.com/tomasparksts/status/1149171710790291456
+  category:
+  - https://twitter.com/Octav1usKitten
+  in-reply-to:
+  - https://twitter.com/Octav1usKitten/status/1149154928453181441
+  content:
+    text: so how is your new toy?
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/Octav1usKitten:
+      type: card
+      name: King Octav1us
+      url: https://twitter.com/Octav1usKitten
+      photo: ~
+...

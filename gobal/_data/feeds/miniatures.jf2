@@ -15,6 +15,37 @@
 		    
 	{
   "type": "entry",
+  "published": "2019-07-12T00:00:00+10:00",
+  "url": "https://tomasparks.name/miniatures/build-log/pirate-island/2019/07/12/features-wishlist.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "https://tomasparks.name/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "features wishlist",
+				"summary": {
+					"html": "<p>I would like to have these features on the Pirate island</p>\n\n",
+					"value": "I would like to have these features on the Pirate island\n\n"
+				},
+							"value": "I would like to have these features on the Pirate island\n\n",
+"category": ["pirate-island"],
+"tags": [],
+
+
+
+
+
+
+
+
+
+
+"syndication": []
+},
+	{
+  "type": "entry",
   "published": "2019-07-09T00:00:00+10:00",
   "url": "https://tomasparks.name/miniatures/build-log/castle/2019/07/09/castle.html",
   "author": {
