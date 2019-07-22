@@ -1,0 +1,31 @@
+---
+- type: entry
+  published: "2019-07-21T01:12:11+00:00"
+  url: https://twitter.com/tomasparksts/status/1152748067965173760
+  repost-of:
+  - https://twitter.com/apollo_50th/status/1152674081428271104
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/apollo_50th/status/1152674081428271104:
+      type: entry
+      published: "2019-07-20T20:18:11+00:00"
+      url: https://twitter.com/apollo_50th/status/1152674081428271104
+      content:
+        text: |-
+          Armstrong: "Houston, Tranquility Base here. The Eagle has landed."
+          #Apollo11
+          #Apollo50
+        html: |-
+          Armstrong: "Houston, Tranquility Base here. The Eagle has landed."
+          <a href="https://twitter.com/search?q=%23Apollo11">#Apollo11</a>
+          <a href="https://twitter.com/search?q=%23Apollo50">#Apollo50</a>
+      author:
+        type: card
+        name: Apollo 50th
+        url: https://twitter.com/apollo_50th
+        photo: https://pbs.twimg.com/profile_images/951168581391167488/MdpZmnSn.jpg
+...

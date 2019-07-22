@@ -1,0 +1,69 @@
+---
+- type: entry
+  published: "2019-07-14T06:41:01+00:00"
+  url: https://twitter.com/tomasparksts/status/1150294109355012096
+  category:
+  - https://twitter.com/AndrewBean90
+  - https://twitter.com/ScythianRaven
+  - https://twitter.com/lazygamereviews
+  - https://twitter.com/IBM
+  - https://twitter.com/SierraGames
+  in-reply-to:
+  - https://twitter.com/AndrewBean90/status/1150291046502404096
+  content:
+    text: "en.wikipedia.org/wiki/King%27s_\u2026"
+    html: "<a href=\"https://en.wikipedia.org/wiki/King%27s_Quest_I#Development\">en.wikipedia.org/wiki/King%27s_\u2026</a>"
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/AndrewBean90:
+      type: card
+      name: The Pink Panther
+      url: https://twitter.com/AndrewBean90
+      photo: ~
+    https://twitter.com/ScythianRaven:
+      type: card
+      name: 'L''Mir of House Lorgh. #StarfleetIsAPromise'
+      url: https://twitter.com/ScythianRaven
+      photo: ~
+    https://twitter.com/lazygamereviews:
+      type: card
+      name: LGR
+      url: https://twitter.com/lazygamereviews
+      photo: ~
+    https://twitter.com/IBM:
+      type: card
+      name: IBM
+      url: https://twitter.com/IBM
+      photo: ~
+    https://twitter.com/SierraGames:
+      type: card
+      name: Sierra Games
+      url: https://twitter.com/SierraGames
+      photo: ~
+- type: entry
+  published: "2019-07-14T06:36:17+00:00"
+  url: https://twitter.com/tomasparksts/status/1150292918835433472
+  category:
+  - https://twitter.com/lazygamereviews
+  video:
+  - https://video.twimg.com/tweet_video/D_apTNMUEAA9nMT.mp4
+  in-reply-to:
+  - https://twitter.com/lazygamereviews/status/1150287601104019456
+  content:
+    text: <insert Indiana Jones Theme tune here>
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/lazygamereviews:
+      type: card
+      name: LGR
+      url: https://twitter.com/lazygamereviews
+      photo: ~
+...

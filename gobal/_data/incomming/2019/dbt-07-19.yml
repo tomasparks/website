@@ -1,0 +1,38 @@
+---
+- type: entry
+  published: "2019-07-19T08:15:57+00:00"
+  url: https://twitter.com/tomasparksts/status/1152129937194676234
+  category:
+  - https://twitter.com/apollo_50th
+  - https://twitter.com/Octav1usKitten
+  - https://twitter.com/KerbalSpaceP
+  content:
+    text: 'since it is @apollo_50th @Octav1usKitten should #stream playing @KerbalSpaceP  and/or
+      #OrbiterSpaceFlightSim for some "real" marding'
+    html: since it is <a href="https://twitter.com/apollo_50th">@apollo_50th</a> <a
+      href="https://twitter.com/Octav1usKitten">@Octav1usKitten</a> should <a href="https://twitter.com/search?q=%23stream">#stream</a>
+      playing <a href="https://twitter.com/KerbalSpaceP">@KerbalSpaceP</a>  and/or
+      <a href="https://twitter.com/search?q=%23OrbiterSpaceFlightSim">#OrbiterSpaceFlightSim</a>
+      for some "real" marding
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/apollo_50th:
+      type: card
+      name: Apollo 50th
+      url: https://twitter.com/apollo_50th
+      photo: ~
+    https://twitter.com/Octav1usKitten:
+      type: card
+      name: King Octav1us
+      url: https://twitter.com/Octav1usKitten
+      photo: ~
+    https://twitter.com/KerbalSpaceP:
+      type: card
+      name: Kerbal Space Program
+      url: https://twitter.com/KerbalSpaceP
+      photo: ~
+...

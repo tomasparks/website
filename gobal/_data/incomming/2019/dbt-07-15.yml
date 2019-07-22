@@ -1,0 +1,51 @@
+---
+- type: entry
+  published: "2019-07-15T23:36:16+00:00"
+  url: https://twitter.com/tomasparksts/status/1150911994037321728
+  category:
+  - https://twitter.com/Octav1usKitten
+  - https://twitter.com/Adobe
+  video:
+  - https://video.twimg.com/tweet_video/D_jcWF8U4AYkZNV.mp4
+  in-reply-to:
+  - https://twitter.com/Octav1usKitten/status/1150905624760377344
+  content:
+    text: use anything but @Adobe
+    html: use anything but <a href="https://twitter.com/Adobe">@Adobe</a>
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/Octav1usKitten:
+      type: card
+      name: King Octav1us
+      url: https://twitter.com/Octav1usKitten
+      photo: ~
+    https://twitter.com/Adobe:
+      type: card
+      name: Adobe
+      url: https://twitter.com/Adobe
+      photo: ~
+- type: entry
+  published: "2019-07-15T08:55:57+00:00"
+  url: https://twitter.com/tomasparksts/status/1150690453223694336
+  category:
+  - https://twitter.com/gamingmuso
+  content:
+    text: "just finished listening to @gamingmuso sings/plays playlist @ youtube.com/playlist?list=\u2026"
+    html: "just finished listening to <a href=\"https://twitter.com/gamingmuso\">@gamingmuso</a>
+      sings/plays playlist @ <a href=\"https://www.youtube.com/playlist?list=PLrqyIQY1htwiNgzokyWaInAYrlu0XkLBq\">youtube.com/playlist?list=\u2026</a>"
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/gamingmuso:
+      type: card
+      name: The Gaming Muso
+      url: https://twitter.com/gamingmuso
+      photo: ~
+...

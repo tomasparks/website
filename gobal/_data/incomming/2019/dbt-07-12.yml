@@ -1,0 +1,82 @@
+---
+- type: entry
+  published: "2019-07-12T23:39:39+00:00"
+  url: https://twitter.com/tomasparksts/status/1149825680911159297
+  category:
+  - https://twitter.com/Octav1usKitten
+  - https://twitter.com/AdobePremiere
+  video:
+  - https://video.twimg.com/tweet_video/D_UAWrvVAAA0Riv.mp4
+  in-reply-to:
+  - https://twitter.com/Octav1usKitten/status/1149824691156242433
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/Octav1usKitten:
+      type: card
+      name: King Octav1us
+      url: https://twitter.com/Octav1usKitten
+      photo: ~
+    https://twitter.com/AdobePremiere:
+      type: card
+      name: Adobe Premiere Pro
+      url: https://twitter.com/AdobePremiere
+      photo: ~
+- type: entry
+  published: "2019-07-12T22:55:01+00:00"
+  url: https://twitter.com/tomasparksts/status/1149814448099475457
+  category:
+  - https://twitter.com/rzxarchive
+  - https://twitter.com/Octav1usKitten
+  in-reply-to:
+  - https://twitter.com/rzxarchive/status/1149650446841073667
+  content:
+    text: '@Octav1usKitten'
+    html: <a href="https://twitter.com/Octav1usKitten">@Octav1usKitten</a>
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/rzxarchive:
+      type: card
+      name: RZX Archive
+      url: https://twitter.com/rzxarchive
+      photo: ~
+    https://twitter.com/Octav1usKitten:
+      type: card
+      name: King Octav1us
+      url: https://twitter.com/Octav1usKitten
+      photo: ~
+- type: entry
+  published: "2019-07-12T22:51:02+00:00"
+  url: https://twitter.com/tomasparksts/status/1149813443815305216
+  category:
+  - https://twitter.com/PixelProspector
+  - https://twitter.com/Octav1usKitten
+  in-reply-to:
+  - https://twitter.com/PixelProspector/status/1149710398842646528
+  content:
+    text: '@Octav1usKitten'
+    html: <a href="https://twitter.com/Octav1usKitten">@Octav1usKitten</a>
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/PixelProspector:
+      type: card
+      name: "PixelProspector \u26CF"
+      url: https://twitter.com/PixelProspector
+      photo: ~
+    https://twitter.com/Octav1usKitten:
+      type: card
+      name: King Octav1us
+      url: https://twitter.com/Octav1usKitten
+      photo: ~
+...

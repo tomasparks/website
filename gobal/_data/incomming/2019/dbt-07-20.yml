@@ -1,0 +1,25 @@
+---
+- type: entry
+  published: "2019-07-20T13:03:24+00:00"
+  url: https://twitter.com/tomasparksts/status/1152564666758905858
+  category:
+  - https://twitter.com/watched
+  content:
+    text: '@watched hidden figures #2016  now I have #toread hidden figures #book
+      with the movie was based on #Apollo50'
+    html: '<a href="https://twitter.com/watched">@watched</a> hidden figures #2016  now
+      I have <a href="https://twitter.com/search?q=%23toread">#toread</a> hidden figures
+      <a href="https://twitter.com/search?q=%23book">#book</a> with the movie was
+      based on <a href="https://twitter.com/search?q=%23Apollo50">#Apollo50</a>'
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/watched:
+      type: card
+      name: watched
+      url: https://twitter.com/watched
+      photo: ~
+...
