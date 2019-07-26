@@ -1,5 +1,6 @@
 ---
-- type: entry
+0:
+  type: entry
   published: "2019-07-14T06:41:01+00:00"
   url: https://twitter.com/tomasparksts/status/1150294109355012096
   category:
@@ -44,7 +45,8 @@
       name: Sierra Games
       url: https://twitter.com/SierraGames
       photo: ~
-- type: entry
+2:
+  type: entry
   published: "2019-07-14T06:36:17+00:00"
   url: https://twitter.com/tomasparksts/status/1150292918835433472
   category:

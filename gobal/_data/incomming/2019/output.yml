@@ -1,6 +1,119 @@
 ---
 2019:
   "07":
+    23:
+    - type: entry
+      published: "2019-07-23T22:47:11+00:00"
+      url: https://twitter.com/tomasparksts/status/1153798743470116864
+      category:
+      - https://twitter.com/Octav1usKitten
+      in-reply-to:
+      - https://twitter.com/Octav1usKitten/status/1153795769872211969
+      content:
+        text: "I got a few jiffy webcams amazon.com/JIFFY-Upgrade-\u2026"
+        html: "I got a few jiffy webcams <a href=\"https://www.amazon.com/JIFFY-Upgrade-Microphones-Recording-Compatible/dp/B07CMG3ZN4/\">amazon.com/JIFFY-Upgrade-\u2026</a>"
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/Octav1usKitten:
+          type: card
+          name: King Octav1us
+          url: https://twitter.com/Octav1usKitten
+          photo: ~
+    - type: entry
+      published: "2019-07-23T12:06:25+00:00"
+      url: https://twitter.com/tomasparksts/status/1153637487358513152
+      category:
+      - https://twitter.com/Octav1usKitten
+      - https://twitter.com/CheekyCrissy
+      - https://twitter.com/TristaBytes
+      - https://twitter.com/virtualchoir
+      in-reply-to:
+      - https://twitter.com/Octav1usKitten/status/1153472992015523840
+      content:
+        text: you could join the @virtualchoir project
+        html: you could join the <a href="https://twitter.com/virtualchoir">@virtualchoir</a>
+          project
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/Octav1usKitten:
+          type: card
+          name: King Octav1us
+          url: https://twitter.com/Octav1usKitten
+          photo: ~
+        https://twitter.com/CheekyCrissy:
+          type: card
+          name: "\U0001F3AECheeky\U0001F579Crissy\U0001F3AE"
+          url: https://twitter.com/CheekyCrissy
+          photo: ~
+        https://twitter.com/TristaBytes:
+          type: card
+          name: "Trista Bytes \U0001F3AC\U0001F3AE+\U0001F3A5=\U0001F60A"
+          url: https://twitter.com/TristaBytes
+          photo: ~
+        https://twitter.com/virtualchoir:
+          type: card
+          name: The Virtual Choir
+          url: https://twitter.com/virtualchoir
+          photo: ~
+    - type: entry
+      published: "2019-07-23T06:10:57+00:00"
+      url: https://twitter.com/tomasparksts/status/1153548034355023872
+      category:
+      - https://twitter.com/librofm
+      content:
+        text: "\U0001F641 that @librofm does not #support #membership of us with\U0001F1E6\U0001F1FA#CreditCards
+          #AudiobookSwitch"
+        html: "\U0001F641 that <a href=\"https://twitter.com/librofm\">@librofm</a>
+          does not <a href=\"https://twitter.com/search?q=%23support\">#support</a>
+          <a href=\"https://twitter.com/search?q=%23membership\">#membership</a> of
+          us with\U0001F1E6\U0001F1FA<a href=\"https://twitter.com/search?q=%23CreditCards\">#CreditCards</a>
+          <a href=\"https://twitter.com/search?q=%23AudiobookSwitch\">#AudiobookSwitch</a>"
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/librofm:
+          type: card
+          name: Libro.fm
+          url: https://twitter.com/librofm
+          photo: ~
+    - type: entry
+      published: "2019-07-23T01:29:41+00:00"
+      url: https://twitter.com/tomasparksts/status/1153477251385548802
+      category:
+      - https://twitter.com/Octav1usKitten
+      - https://twitter.com/Bandcamp
+      in-reply-to:
+      - https://twitter.com/Octav1usKitten/status/1153450321152290821
+      content:
+        text: you should upload the song you've done to @Bandcamp
+        html: you should upload the song you've done to <a href="https://twitter.com/Bandcamp">@Bandcamp</a>
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/Octav1usKitten:
+          type: card
+          name: King Octav1us
+          url: https://twitter.com/Octav1usKitten
+          photo: ~
+        https://twitter.com/Bandcamp:
+          type: card
+          name: bandcamp
+          url: https://twitter.com/Bandcamp
+          photo: ~
     21:
     - type: entry
       published: "2019-07-21T01:12:11+00:00"
@@ -187,108 +300,5 @@
           type: card
           name: Sierra Games
           url: https://twitter.com/SierraGames
-          photo: ~
-    - type: entry
-      published: "2019-07-14T06:36:17+00:00"
-      url: https://twitter.com/tomasparksts/status/1150292918835433472
-      category:
-      - https://twitter.com/lazygamereviews
-      video:
-      - https://video.twimg.com/tweet_video/D_apTNMUEAA9nMT.mp4
-      in-reply-to:
-      - https://twitter.com/lazygamereviews/status/1150287601104019456
-      content:
-        text: <insert Indiana Jones Theme tune here>
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-      refs:
-        https://twitter.com/lazygamereviews:
-          type: card
-          name: LGR
-          url: https://twitter.com/lazygamereviews
-          photo: ~
-    12:
-    - type: entry
-      published: "2019-07-12T23:39:39+00:00"
-      url: https://twitter.com/tomasparksts/status/1149825680911159297
-      category:
-      - https://twitter.com/Octav1usKitten
-      - https://twitter.com/AdobePremiere
-      video:
-      - https://video.twimg.com/tweet_video/D_UAWrvVAAA0Riv.mp4
-      in-reply-to:
-      - https://twitter.com/Octav1usKitten/status/1149824691156242433
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-      refs:
-        https://twitter.com/Octav1usKitten:
-          type: card
-          name: King Octav1us
-          url: https://twitter.com/Octav1usKitten
-          photo: ~
-        https://twitter.com/AdobePremiere:
-          type: card
-          name: Adobe Premiere Pro
-          url: https://twitter.com/AdobePremiere
-          photo: ~
-    - type: entry
-      published: "2019-07-12T22:55:01+00:00"
-      url: https://twitter.com/tomasparksts/status/1149814448099475457
-      category:
-      - https://twitter.com/rzxarchive
-      - https://twitter.com/Octav1usKitten
-      in-reply-to:
-      - https://twitter.com/rzxarchive/status/1149650446841073667
-      content:
-        text: '@Octav1usKitten'
-        html: <a href="https://twitter.com/Octav1usKitten">@Octav1usKitten</a>
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-      refs:
-        https://twitter.com/rzxarchive:
-          type: card
-          name: RZX Archive
-          url: https://twitter.com/rzxarchive
-          photo: ~
-        https://twitter.com/Octav1usKitten:
-          type: card
-          name: King Octav1us
-          url: https://twitter.com/Octav1usKitten
-          photo: ~
-    - type: entry
-      published: "2019-07-12T22:51:02+00:00"
-      url: https://twitter.com/tomasparksts/status/1149813443815305216
-      category:
-      - https://twitter.com/PixelProspector
-      - https://twitter.com/Octav1usKitten
-      in-reply-to:
-      - https://twitter.com/PixelProspector/status/1149710398842646528
-      content:
-        text: '@Octav1usKitten'
-        html: <a href="https://twitter.com/Octav1usKitten">@Octav1usKitten</a>
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-      refs:
-        https://twitter.com/PixelProspector:
-          type: card
-          name: "PixelProspector \u26CF"
-          url: https://twitter.com/PixelProspector
-          photo: ~
-        https://twitter.com/Octav1usKitten:
-          type: card
-          name: King Octav1us
-          url: https://twitter.com/Octav1usKitten
           photo: ~
 ...
