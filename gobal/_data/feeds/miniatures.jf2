@@ -47,6 +47,37 @@
 	{
   "type": "entry",
   "published": "2019-05-10T00:00:00+10:00",
+  "url": "https://tomasparks.name/miniatures/build-log/website/webtorrent/2019/05/10/slashdot-effect.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "https://tomasparks.name/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "How I plan on dealing with the Slashdot effect",
+				"summary": {
+					"html": "<p>see <a href=\"https://tomasparks.name/miniatures/notebook/2019/05/slashdot.html\">How I plan on dealing with the Slashdot effect</a> in the notebook.</p>\n",
+					"value": "see How I plan on dealing with the Slashdot effect in the notebook.\n"
+				},
+							"value": "see How I plan on dealing with the Slashdot effect in the notebook.\n",
+"category": ["website","webtorrent"],
+"tags": [],
+
+
+
+
+
+
+
+
+
+
+"syndication": []
+},
+	{
+  "type": "entry",
+  "published": "2019-05-10T00:00:00+10:00",
   "url": "https://tomasparks.name/miniatures/notebook/2019/05/slashdot.html",
   "author": {
     "type": "card",
