@@ -605,7 +605,7 @@
 	{
   "type": "entry",
   "published": "2018-12-23T00:00:00+10:00",
-  "url": "https://tomasparks.name/miniatures/build-log/work-area/2018/12/23/software.html",
+  "url": "https://tomasparks.name/miniatures/build-log/work-area/software/2018/12/23/software.html",
   "author": {
     "type": "card",
     "name": "Tom Sparks",
@@ -619,7 +619,7 @@
 					"value": "\n  krpano\n  Pepakura Designer 4\n\n"
 				},
 							"value": "\n  krpano\n  Pepakura Designer 4\n\n",
-"category": ["work-area"],
+"category": ["work-area","software"],
 "tags": [],
 
 
