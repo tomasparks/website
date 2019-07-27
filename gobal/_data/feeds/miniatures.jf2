@@ -15,6 +15,37 @@
 		    
 	{
   "type": "entry",
+  "published": "2019-05-10T08:00:56+10:00",
+  "url": "https://tomasparks.name/miniatures/build-log/website/webtorrent/p2pvideo/2019/05/10/p2pvideo-final-commit.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "https://tomasparks.name/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "Final commit (gh-page) to github",
+				"summary": {
+					"html": "<p><a href=\"https://github.com/tomasparks/p2p-video/commit/96d7d9c57d33789f2b32c4582b1f139f015a64f6\">Final commit (gh-page)</a> to github</p>\n",
+					"value": "Final commit (gh-page) to github\n"
+				},
+							"value": "Final commit (gh-page) to github\n",
+"category": ["website","webtorrent","p2pvideo"],
+"tags": [],
+
+
+
+
+
+
+
+
+
+
+"syndication": []
+},
+	{
+  "type": "entry",
   "published": "2019-05-10T00:00:00+10:00",
   "url": "https://tomasparks.name/miniatures/notebook/2019/05/slashdot.html",
   "author": {
@@ -47,7 +78,7 @@
 	{
   "type": "entry",
   "published": "2019-05-09T21:06:58+10:00",
-  "url": "https://tomasparks.name/miniatures/build-log/website/webtorrent/video/2019/05/09/p2pvideo.html",
+  "url": "https://tomasparks.name/miniatures/build-log/website/webtorrent/p2pvideo/2019/05/09/p2pvideo.html",
   "author": {
     "type": "card",
     "name": "Tom Sparks",
@@ -61,7 +92,7 @@
 					"value": "Initial commit (gh-page) to github\n"
 				},
 							"value": "Initial commit (gh-page) to github\n",
-"category": ["website","webtorrent","video"],
+"category": ["website","webtorrent","p2pvideo"],
 "tags": [],
 
 
