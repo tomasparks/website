@@ -1162,6 +1162,37 @@
 },
 	{
   "type": "entry",
+  "published": "2018-08-01T00:00:00+10:00",
+  "url": "https://tomasparks.name/miniatures/build-log/decoupage-diorama/2018/08/01/decoupage-diorama.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "https://tomasparks.name/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "Decoupage Diorama",
+				"summary": {
+					"html": "\n",
+					"value": "\n"
+				},
+							"value": "\n",
+"category": ["decoupage-diorama"],
+"tags": [],
+
+
+
+
+
+
+
+
+
+
+"syndication": []
+},
+	{
+  "type": "entry",
   "published": "2018-07-24T00:00:00+10:00",
   "url": "https://tomasparks.name/miniatures/notebook/2018/07/3dprinter-experiment.html",
   "author": {
