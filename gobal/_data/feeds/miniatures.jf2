@@ -325,6 +325,68 @@
 },
 	{
   "type": "entry",
+  "published": "2019-05-09T00:00:00+10:00",
+  "url": "https://tomasparks.name/miniatures/build-log/website/webtorrent/krpano/2019/05/09/2019-5-9.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "https://tomasparks.name/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "krpano black box bug",
+				"summary": {
+					"html": "<blockquote>\n  <p>VM5160:1 Uncaught RangeError: Invalid typed array length: 107961892351\nat new Uint8Array ()\nat qb (eval at embedpano (krpano.js:10), :1:59738)\nat Ga.p (eval at embedpano (krpano.js:10), :1:49008)\nat eval (eval at embedpano (krpano.js:10), :1:50289)\nat m (eval at embedpano (krpano.js:10), :1:63632)\nat eval (eval at embedpano (krpano.js:10), :1:65437)\nat Object.d [as loadxml] (eval at embedpano (krpano.js:10), :1:129797)\nat Function.k.loadxml (eval at embedpano (krpano.js:10), :1:98202)\nat Object.k.executeActions (eval at embedpano (krpano.js:10), :1:77876)\nat Object.k.callaction (eval at embedpano (krpano.js:10), :1:76712)\nat pd (eval at embedpano (krpano.js:10), :1:7126)\nat HTMLDivElement.jf [as call] (eval at embedpano (krpano.js:10), :1:7163)\nat js.js:76\nat Array.forEach ()\nat start (js.js:69) at onProgress (js.js:163)</p>\n</blockquote>\n",
+					"value": "\n  VM5160:1 Uncaught RangeError: Invalid typed array length: 107961892351\nat new Uint8Array ()\nat qb (eval at embedpano (krpano.js:10), :1:59738)\nat Ga.p (eval at embedpano (krpano.js:10), :1:49008)\nat eval (eval at embedpano (krpano.js:10), :1:50289)\nat m (eval at embedpano (krpano.js:10), :1:63632)\nat eval (eval at embedpano (krpano.js:10), :1:65437)\nat Object.d [as loadxml] (eval at embedpano (krpano.js:10), :1:129797)\nat Function.k.loadxml (eval at embedpano (krpano.js:10), :1:98202)\nat Object.k.executeActions (eval at embedpano (krpano.js:10), :1:77876)\nat Object.k.callaction (eval at embedpano (krpano.js:10), :1:76712)\nat pd (eval at embedpano (krpano.js:10), :1:7126)\nat HTMLDivElement.jf [as call] (eval at embedpano (krpano.js:10), :1:7163)\nat js.js:76\nat Array.forEach ()\nat start (js.js:69) at onProgress (js.js:163)\n\n"
+				},
+							"value": "\n  VM5160:1 Uncaught RangeError: Invalid typed array length: 107961892351\nat new Uint8Array ()\nat qb (eval at embedpano (krpano.js:10), :1:59738)\nat Ga.p (eval at embedpano (krpano.js:10), :1:49008)\nat eval (eval at embedpano (krpano.js:10), :1:50289)\nat m (eval at embedpano (krpano.js:10), :1:63632)\nat eval (eval at embedpano (krpano.js:10), :1:65437)\nat Object.d [as loadxml] (eval at embedpano (krpano.js:10), :1:129797)\nat Function.k.loadxml (eval at embedpano (krpano.js:10), :1:98202)\nat Object.k.executeActions (eval at embedpano (krpano.js:10), :1:77876)\nat Object.k.callaction (eval at embedpano (krpano.js:10), :1:76712)\nat pd (eval at embedpano (krpano.js:10), :1:7126)\nat HTMLDivElement.jf [as call] (eval at embedpano (krpano.js:10), :1:7163)\nat js.js:76\nat Array.forEach ()\nat start (js.js:69) at onProgress (js.js:163)\n\n",
+"category": ["website","webtorrent","krpano"],
+"tags": [],
+
+
+
+
+
+
+
+
+
+
+"syndication": []
+},
+	{
+  "type": "entry",
+  "published": "2019-05-06T00:00:00+10:00",
+  "url": "https://tomasparks.name/miniatures/build-log/website/webtorrent/krpano/2019/05/06/2019-5-6.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "https://tomasparks.name/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "krpano and webtorrent gitub",
+				"summary": {
+					"html": "<p><a href=\"https://github.com/tomasparks/krpano-and-webtorrent/commit/5e5d01999043c5936e647935e1e3cf161a1dfba6\">Initial commit (gh-page)</a> to github</p>\n",
+					"value": "Initial commit (gh-page) to github\n"
+				},
+							"value": "Initial commit (gh-page) to github\n",
+"category": ["website","webtorrent","krpano"],
+"tags": [],
+
+
+
+
+
+
+
+
+
+
+"syndication": []
+},
+	{
+  "type": "entry",
   "published": "2019-01-11T00:00:00+10:00",
   "url": "https://tomasparks.name/miniatures/notebook/2019/01/sg-makerspace-email.html",
   "author": {
@@ -559,6 +621,37 @@
 							"value": "I am the person in that sits in the center of the Venn digram with most of my projects\n\n",
 "category": ["Diorama","Other"],
 "tags": ["MHR emag","NMRA","Miniatur Wunderland"],
+
+
+
+
+
+
+
+
+
+
+"syndication": []
+},
+	{
+  "type": "entry",
+  "published": "2018-11-19T00:00:00+10:00",
+  "url": "https://tomasparks.name/miniatures/build-log/website/2018/11/19/birth-of-website.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "https://tomasparks.name/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "Birth of website",
+				"summary": {
+					"html": "<p>Birth of Website</p>\n",
+					"value": "Birth of Website\n"
+				},
+							"value": "Birth of Website\n",
+"category": ["website"],
+"tags": [],
 
 
 
