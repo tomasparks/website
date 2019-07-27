@@ -46,7 +46,7 @@
 },
 	{
   "type": "entry",
-  "published": "2019-05-09T00:00:00+10:00",
+  "published": "2019-05-09T12:32:26+10:00",
   "url": "https://tomasparks.name/miniatures/build-log/website/webtorrent/krpano/2019/05/09/2019-5-9.html",
   "author": {
     "type": "card",
@@ -77,7 +77,7 @@
 },
 	{
   "type": "entry",
-  "published": "2019-05-06T00:00:00+10:00",
+  "published": "2019-05-06T10:29:13+10:00",
   "url": "https://tomasparks.name/miniatures/build-log/website/webtorrent/krpano/2019/05/06/2019-5-6.html",
   "author": {
     "type": "card",
@@ -86,7 +86,7 @@
     "photo": "https://tomasparks.name/about-me/photo.png",
     "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
   },
-  "name": "krpano and webtorrent gitub",
+  "name": "Initial commit (gh-page) to github",
 				"summary": {
 					"html": "<p><a href=\"https://github.com/tomasparks/krpano-and-webtorrent/commit/5e5d01999043c5936e647935e1e3cf161a1dfba6\">Initial commit (gh-page)</a> to github</p>\n",
 					"value": "Initial commit (gh-page) to github\n"
