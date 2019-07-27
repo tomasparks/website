@@ -294,7 +294,7 @@
 },
 	{
   "type": "entry",
-  "published": "2018-11-19T00:00:00+10:00",
+  "published": "2018-11-19T20:05:11+10:00",
   "url": "https://tomasparks.name/miniatures/build-log/website/2018/11/19/birth-of-website.html",
   "author": {
     "type": "card",
@@ -305,10 +305,10 @@
   },
   "name": "Birth of website",
 				"summary": {
-					"html": "<p>Birth of Website</p>\n",
-					"value": "Birth of Website\n"
+					"html": "<p>Birth of Website <a href=\"https://github.com/tomasparks/miniatures-src/\">souce code</a></p>\n",
+					"value": "Birth of Website souce code\n"
 				},
-							"value": "Birth of Website\n",
+							"value": "Birth of Website souce code\n",
 "category": ["website"],
 "tags": [],
 
