@@ -15,6 +15,285 @@
 		    
 	{
   "type": "entry",
+  "published": "2019-07-12T00:00:00+10:00",
+  "url": "https://tomasparks.name/miniatures/build-log/pirate-island/2019/07/12/features-wishlist.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "https://tomasparks.name/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "features wishlist",
+				"summary": {
+					"html": "<p>I would like to have these features on the Pirate island</p>\n\n",
+					"value": "I would like to have these features on the Pirate island\n\n"
+				},
+							"value": "I would like to have these features on the Pirate island\n\n",
+"category": ["pirate-island"],
+"tags": [],
+
+
+
+
+
+
+
+
+
+
+"syndication": []
+},
+	{
+  "type": "entry",
+  "published": "2019-07-09T00:00:00+10:00",
+  "url": "https://tomasparks.name/miniatures/build-log/castle/2019/07/09/castle.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "https://tomasparks.name/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "Castle",
+				"summary": {
+					"html": "<p>After watching @TheNerdforge’s <a href=\"https://www.youtube.com/watch?v=VbnHe-qDFUQ\">Making A Miniature Fantasy LANDSCAPE (For An Epic Castle?)</a> and <a href=\"https://www.youtube.com/watch?v=_2N-AL515rE\">Making an Epic Wizard Castle Using 2500+ Bricks!</a>,\nthe idea of doing a Castle is growing on me.</p>\n",
+					"value": "After watching @TheNerdforge’s Making A Miniature Fantasy LANDSCAPE (For An Epic Castle?) and Making an Epic Wizard Castle Using 2500+ Bricks!,\nthe idea of doing a Castle is growing on me.\n"
+				},
+							"value": "After watching @TheNerdforge’s Making A Miniature Fantasy LANDSCAPE (For An Epic Castle?) and Making an Epic Wizard Castle Using 2500+ Bricks!,\nthe idea of doing a Castle is growing on me.\n",
+"category": ["Castle"],
+"tags": [],
+
+
+
+
+
+
+
+
+
+
+"syndication": ["https://twitter.com/tomasparksts/status/1148706235795017728"]
+},
+	{
+  "type": "entry",
+  "published": "2019-07-08T00:00:00+10:00",
+  "url": "https://tomasparks.name/miniatures/build-log/work-area/2019/07/08/contact-mic.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "https://tomasparks.name/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "JrF C-SERIES pro contact microphone",
+				"summary": {
+					"html": "<p>yay, I got my <a href=\"https://jezrileyfrench.co.uk/contact-microphones.php\">contact mic</a> for recording the pen plotter sounds :)</p>\n\n",
+					"value": "yay, I got my contact mic for recording the pen plotter sounds :)\n\n"
+				},
+							"value": "yay, I got my contact mic for recording the pen plotter sounds :)\n\n",
+"category": ["work-area"],
+"tags": ["microphone","contact","JrF","PenPlotter"],
+
+
+
+
+
+
+
+
+
+
+"syndication": []
+},
+	{
+  "type": "entry",
+  "published": "2019-06-28T00:00:00+10:00",
+  "url": "https://tomasparks.name/miniatures/build-log/myst-island/2019/06/28/sliceform-part-2.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "https://tomasparks.name/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "Convert Planetarium model stl to sliceform papermodel part 2",
+				"summary": {
+					"html": "<p>After looking at the exported plans from @autodesk’s fusion 360 <a href=\"https://apps.autodesk.com/FUSION/en/Detail/Index?id=8699194120463301363\">slicer</a>, they are unusable :(</p>\n\n",
+					"value": "After looking at the exported plans from @autodesk’s fusion 360 slicer, they are unusable :(\n\n"
+				},
+							"value": "After looking at the exported plans from @autodesk’s fusion 360 slicer, they are unusable :(\n\n",
+"category": ["myst-island"],
+"tags": ["Planetarium","Sliceform","Library","slicer"],
+
+
+
+
+
+
+
+
+
+
+"syndication": ["https://twitter.com/tomasparksts/status/1144612200977276929"]
+},
+	{
+  "type": "entry",
+  "published": "2019-06-21T00:00:00+10:00",
+  "url": "https://tomasparks.name/miniatures/build-log/myst-island/2019/06/21/planetarium.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "https://tomasparks.name/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "Convert Planetarium model stl to sliceform papermodel part 1",
+				"summary": {
+					"html": "<p>After the failed attempt with the Library model, I tried @autodesk’s fusion 360 <a href=\"https://apps.autodesk.com/FUSION/en/Detail/Index?id=8699194120463301363\">slicer</a> on the Planetarium base model.\nI have had great success. :)</p>\n",
+					"value": "After the failed attempt with the Library model, I tried @autodesk’s fusion 360 slicer on the Planetarium base model.\nI have had great success. :)\n"
+				},
+							"value": "After the failed attempt with the Library model, I tried @autodesk’s fusion 360 slicer on the Planetarium base model.\nI have had great success. :)\n",
+"category": ["myst-island"],
+"tags": ["Planetarium","Sliceform","Library"],
+
+
+
+
+
+
+
+
+
+
+"syndication": ["https://twitter.com/tomasparksts/status/1142062874443091968"]
+},
+	{
+  "type": "entry",
+  "published": "2019-06-20T00:00:00+10:00",
+  "url": "https://tomasparks.name/miniatures/build-log/work-area/2019/06/20/deliveries.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "https://tomasparks.name/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "Deliveries",
+				"summary": {
+					"html": "<p>Yay, Deliveries</p>\n\n",
+					"value": "Yay, Deliveries\n\n"
+				},
+							"value": "Yay, Deliveries\n\n",
+"category": ["work-area"],
+"tags": [],
+
+
+
+
+
+
+
+
+
+
+"syndication": []
+},
+	{
+  "type": "entry",
+  "published": "2019-06-19T00:00:00+10:00",
+  "url": "https://tomasparks.name/miniatures/build-log/myst-island/2019/06/19/library.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "https://tomasparks.name/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "Convert Library model stl to papermodel",
+				"summary": {
+					"html": "<p>My Model unfolding <a href=\"https://tamasoft.co.jp/pepakura-en/index.html\">software</a> did not like the stl file uploaded to <a href=\"https://www.thingiverse.com/Cyan_Inc/designs\">thingiverse</a> by @cyanworlds.</p>\n",
+					"value": "My Model unfolding software did not like the stl file uploaded to thingiverse by @cyanworlds.\n"
+				},
+							"value": "My Model unfolding software did not like the stl file uploaded to thingiverse by @cyanworlds.\n",
+"category": ["myst-island"],
+"tags": ["Library","pepakura"],
+
+
+
+
+
+
+
+
+
+
+"syndication": ["https://twitter.com/tomasparksts/status/1141449623942377479"]
+},
+	{
+  "type": "entry",
+  "published": "2019-06-11T00:00:00+10:00",
+  "url": "https://tomasparks.name/miniatures/build-log/myst-island/2019/06/11/myst-island.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "https://tomasparks.name/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "Myst Island",
+				"summary": {
+					"html": "<blockquote>\n  <p><a href=\"https://en.wikipedia.org/wiki/Myst\">Myst</a> is a graphic adventure puzzle video game designed by the Miller brothers, Robyn and Rand.\nIt was developed by <a href=\"https://cyan.com/\">Cyan, Inc</a>., published by Brøderbund, and released as a PC game for the Macintosh platform in 1993.\nIn the game, players are told that a special book has caused them to travel to Myst Island.\nThere, players solve puzzles and, by doing so, travel to four other worlds, known as Ages, which reveal the backstory of the game’s characters.</p>\n</blockquote>\n\n",
+					"value": "\n  Myst is a graphic adventure puzzle video game designed by the Miller brothers, Robyn and Rand.\nIt was developed by Cyan, Inc., published by Brøderbund, and released as a PC game for the Macintosh platform in 1993.\nIn the game, players are told that a special book has caused them to travel to Myst Island.\nThere, players solve puzzles and, by doing so, travel to four other worlds, known as Ages, which reveal the backstory of the game’s characters.\n\n\n"
+				},
+							"value": "\n  Myst is a graphic adventure puzzle video game designed by the Miller brothers, Robyn and Rand.\nIt was developed by Cyan, Inc., published by Brøderbund, and released as a PC game for the Macintosh platform in 1993.\nIn the game, players are told that a special book has caused them to travel to Myst Island.\nThere, players solve puzzles and, by doing so, travel to four other worlds, known as Ages, which reveal the backstory of the game’s characters.\n\n\n",
+"category": ["myst-island"],
+"tags": [],
+
+
+
+
+
+
+
+
+
+
+"syndication": []
+},
+	{
+  "type": "entry",
+  "published": "2019-05-14T00:00:00+10:00",
+  "url": "https://tomasparks.name/miniatures/build-log/work-area/2019/05/14/setup-workarea.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "https://tomasparks.name/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "Settting up my working area",
+				"summary": {
+					"html": "<p>I have two tables and a wire storage shelf arranged in a U-shape. <br />\nI am retooling two tower computers:</p>\n\n",
+					"value": "I have two tables and a wire storage shelf arranged in a U-shape. \nI am retooling two tower computers:\n\n"
+				},
+							"value": "I have two tables and a wire storage shelf arranged in a U-shape. \nI am retooling two tower computers:\n\n",
+"category": ["work-area"],
+"tags": [],
+
+
+
+
+
+
+
+
+
+
+"syndication": []
+},
+	{
+  "type": "entry",
   "published": "2019-05-10T08:00:56+10:00",
   "url": "https://tomasparks.name/miniatures/build-log/website/webtorrent/p2pvideo/2019/05/10/p2pvideo-final-commit.html",
   "author": {
@@ -263,6 +542,37 @@
 },
 	{
   "type": "entry",
+  "published": "2018-12-28T00:00:00+10:00",
+  "url": "https://tomasparks.name/miniatures/build-log/imperial-city/2018/12/28/imperialcity.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "https://tomasparks.name/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "Imperial City",
+				"summary": {
+					"html": "<p>After rewatching @LGR’s reviews on <a href=\"https://en.wikipedia.org/wiki/The_Elder_Scrolls\">Elder scrolls</a> Video game series.\nI liked the look of The <a href=\"https://en.uesp.net/wiki/Oblivion:The_Imperial_City\">Imperial City</a> featured in <a href=\"https://en.wikipedia.org/wiki/The_Elder_Scrolls_IV:_Oblivion\">Elder Scrolls IV: Oblivion</a>.</p>\n",
+					"value": "After rewatching @LGR’s reviews on Elder scrolls Video game series.\nI liked the look of The Imperial City featured in Elder Scrolls IV: Oblivion.\n"
+				},
+							"value": "After rewatching @LGR’s reviews on Elder scrolls Video game series.\nI liked the look of The Imperial City featured in Elder Scrolls IV: Oblivion.\n",
+"category": ["Imperial-City"],
+"tags": [],
+
+
+
+
+
+
+
+
+
+
+"syndication": ["https://twitter.com/tomasparksts/status/1127910525264891906"]
+},
+	{
+  "type": "entry",
   "published": "2018-12-26T00:00:00+10:00",
   "url": "https://tomasparks.name/miniatures/notebook/2018/12/krpano.html",
   "author": {
@@ -280,6 +590,37 @@
 							"value": "Why did I buy Krpano?\n\n",
 "category": ["photograph"],
 "tags": ["Streetview","FPV","VR","Virtual tour"],
+
+
+
+
+
+
+
+
+
+
+"syndication": []
+},
+	{
+  "type": "entry",
+  "published": "2018-12-23T00:00:00+10:00",
+  "url": "https://tomasparks.name/miniatures/build-log/work-area/2018/12/23/software.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "https://tomasparks.name/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "Software",
+				"summary": {
+					"html": "<ul>\n  <li><a href=\"https://krpano.com/\">krpano</a></li>\n  <li><a href=\"https://www.tamasoft.co.jp/pepakura-en/\">Pepakura Designer 4</a></li>\n</ul>\n",
+					"value": "\n  krpano\n  Pepakura Designer 4\n\n"
+				},
+							"value": "\n  krpano\n  Pepakura Designer 4\n\n",
+"category": ["work-area"],
+"tags": [],
 
 
 
@@ -604,6 +945,37 @@
 },
 	{
   "type": "entry",
+  "published": "2018-09-26T00:00:00+10:00",
+  "url": "https://tomasparks.name/miniatures/build-log/pirate-island/2018/09/26/pirate-island-idea.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "https://tomasparks.name/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "pirate island idea",
+				"summary": {
+					"html": "\n",
+					"value": "\n"
+				},
+							"value": "\n",
+"category": ["pirate-island"],
+"tags": [],
+
+
+
+
+
+
+
+
+
+
+"syndication": []
+},
+	{
+  "type": "entry",
   "published": "2018-09-25T00:00:00+10:00",
   "url": "https://tomasparks.name/miniatures/notebook/2018/09/3d-topo-map.html",
   "author": {
@@ -683,6 +1055,68 @@
 							"value": "Currently DCC (Digital Command Control) is beening used in model railways setups,\nbut I can see other uses within the widder modelling communtiy\n\n\n  static Displays\n  modular diaramas\n  wargaming\n\n\nStatic displays\n\nthere are modellers who put their “completed”1 models in display cases/cabinets, the models are usally group together.\n\nmodular Diorama\n\nI can think of two cases:\n\n\n  kit modellers1\n  travelling diorama:\n\n\npersonal\n\n\n  I was concepting a display for a community group that featured mainstream sci-fi models from TV/movie seires,\n\n\n\n  I want the model’s to indercate:\n** “On This Day” in-unverse events\n** X years till in-unverse event \n** death of Actors from series.\n  the models were going to hanging from the ceeling because of limited space\nSTALLED :(\n\n\n\n  \n    I had started to desgin a Star trek DS9’s Domaon Battle using a mixer of models and peeper ghost effects\nSTALLED :(\n  \n  \n    I was researching a computer-assited [rpg] with shelf-moving mintures\nand with explodable picese { see Crash Test Dummy toys  }\nSTALLED :(\n  \n\n\n\n  \n    \n      some models are never completed &#8617; &#8617;2\n    \n  \n\n",
 "category": ["Electronics"],
 "tags": ["Digital Command Control","DCC"],
+
+
+
+
+
+
+
+
+
+
+"syndication": []
+},
+	{
+  "type": "entry",
+  "published": "2018-08-06T00:00:00+10:00",
+  "url": "https://tomasparks.name/miniatures/build-log/steampunk/2018/08/06/steampunk-idea.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "https://tomasparks.name/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "steampunk idea",
+				"summary": {
+					"html": "\n",
+					"value": "\n"
+				},
+							"value": "\n",
+"category": ["steampunk"],
+"tags": [],
+
+
+
+
+
+
+
+
+
+
+"syndication": []
+},
+	{
+  "type": "entry",
+  "published": "2018-08-06T00:00:00+10:00",
+  "url": "https://tomasparks.name/miniatures/build-log/retrofuturism/2018/08/06/retrofuturism-idea.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "https://tomasparks.name/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "retrofuturism idea",
+				"summary": {
+					"html": "\n",
+					"value": "\n"
+				},
+							"value": "\n",
+"category": ["retrofuturism"],
+"tags": [],
 
 
 
