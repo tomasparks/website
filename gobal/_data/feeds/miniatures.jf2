@@ -543,7 +543,7 @@
 	{
   "type": "entry",
   "published": "2018-12-28T00:00:00+10:00",
-  "url": "https://tomasparks.name/miniatures/build-log/imperial-city/2018/12/28/imperialcity.html",
+  "url": "https://tomasparks.name/miniatures/build-log/diorama/imperial-city/2018/12/28/imperialcity.html",
   "author": {
     "type": "card",
     "name": "Tom Sparks",
@@ -557,7 +557,7 @@
 					"value": "After rewatching @LGR’s reviews on Elder scrolls Video game series.\nI liked the look of The Imperial City featured in Elder Scrolls IV: Oblivion.\n"
 				},
 							"value": "After rewatching @LGR’s reviews on Elder scrolls Video game series.\nI liked the look of The Imperial City featured in Elder Scrolls IV: Oblivion.\n",
-"category": ["Imperial-City"],
+"category": ["diorama","Imperial-City"],
 "tags": [],
 
 
@@ -569,7 +569,7 @@
 
 
 
-"syndication": ["https://twitter.com/tomasparksts/status/1127910525264891906"]
+"syndication": []
 },
 	{
   "type": "entry",
@@ -946,7 +946,7 @@
 	{
   "type": "entry",
   "published": "2018-09-26T00:00:00+10:00",
-  "url": "https://tomasparks.name/miniatures/build-log/pirate-island/2018/09/26/pirate-island-idea.html",
+  "url": "https://tomasparks.name/miniatures/build-log/diorama/pirate-island/2018/09/26/pirate-island-idea.html",
   "author": {
     "type": "card",
     "name": "Tom Sparks",
@@ -960,7 +960,7 @@
 					"value": "\n"
 				},
 							"value": "\n",
-"category": ["pirate-island"],
+"category": ["diorama","pirate-island"],
 "tags": [],
 
 
@@ -1070,7 +1070,7 @@
 	{
   "type": "entry",
   "published": "2018-08-06T00:00:00+10:00",
-  "url": "https://tomasparks.name/miniatures/build-log/steampunk/2018/08/06/steampunk-idea.html",
+  "url": "https://tomasparks.name/miniatures/build-log/diorama/steampunk/2018/08/06/steampunk-idea.html",
   "author": {
     "type": "card",
     "name": "Tom Sparks",
@@ -1084,7 +1084,7 @@
 					"value": "\n"
 				},
 							"value": "\n",
-"category": ["steampunk"],
+"category": ["diorama","steampunk"],
 "tags": [],
 
 
@@ -1101,7 +1101,7 @@
 	{
   "type": "entry",
   "published": "2018-08-06T00:00:00+10:00",
-  "url": "https://tomasparks.name/miniatures/build-log/retrofuturism/2018/08/06/retrofuturism-idea.html",
+  "url": "https://tomasparks.name/miniatures/build-log/diorama/retrofuturism/2018/08/06/retrofuturism-idea.html",
   "author": {
     "type": "card",
     "name": "Tom Sparks",
@@ -1115,7 +1115,7 @@
 					"value": "\n"
 				},
 							"value": "\n",
-"category": ["retrofuturism"],
+"category": ["diorama","retrofuturism"],
 "tags": [],
 
 
