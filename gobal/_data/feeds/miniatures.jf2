@@ -16,7 +16,7 @@
 	{
   "type": "entry",
   "published": "2019-07-12T00:00:00+10:00",
-  "url": "https://tomasparks.name/miniatures/build-log/pirate-island/2019/07/12/features-wishlist.html",
+  "url": "https://tomasparks.name/miniatures/build-log/diorama/pirate-island/2019/07/12/features-wishlist.html",
   "author": {
     "type": "card",
     "name": "Tom Sparks",
@@ -30,7 +30,7 @@
 					"value": "I would like to have these features on the Pirate island\n\n"
 				},
 							"value": "I would like to have these features on the Pirate island\n\n",
-"category": ["pirate-island"],
+"category": ["diorama","pirate-island"],
 "tags": [],
 
 
@@ -47,7 +47,7 @@
 	{
   "type": "entry",
   "published": "2019-07-09T00:00:00+10:00",
-  "url": "https://tomasparks.name/miniatures/build-log/castle/2019/07/09/castle.html",
+  "url": "https://tomasparks.name/miniatures/build-log/diorama/castle/2019/07/09/castle.html",
   "author": {
     "type": "card",
     "name": "Tom Sparks",
@@ -61,7 +61,7 @@
 					"value": "After watching @TheNerdforge’s Making A Miniature Fantasy LANDSCAPE (For An Epic Castle?) and Making an Epic Wizard Castle Using 2500+ Bricks!,\nthe idea of doing a Castle is growing on me.\n"
 				},
 							"value": "After watching @TheNerdforge’s Making A Miniature Fantasy LANDSCAPE (For An Epic Castle?) and Making an Epic Wizard Castle Using 2500+ Bricks!,\nthe idea of doing a Castle is growing on me.\n",
-"category": ["Castle"],
+"category": ["diorama","Castle"],
 "tags": [],
 
 
@@ -73,7 +73,7 @@
 
 
 
-"syndication": ["https://twitter.com/tomasparksts/status/1148706235795017728"]
+"syndication": []
 },
 	{
   "type": "entry",
@@ -109,7 +109,7 @@
 	{
   "type": "entry",
   "published": "2019-06-28T00:00:00+10:00",
-  "url": "https://tomasparks.name/miniatures/build-log/myst-island/2019/06/28/sliceform-part-2.html",
+  "url": "https://tomasparks.name/miniatures/build-log/diorama/myst-island/2019/06/28/sliceform-part-2.html",
   "author": {
     "type": "card",
     "name": "Tom Sparks",
@@ -123,7 +123,7 @@
 					"value": "After looking at the exported plans from @autodesk’s fusion 360 slicer, they are unusable :(\n\n"
 				},
 							"value": "After looking at the exported plans from @autodesk’s fusion 360 slicer, they are unusable :(\n\n",
-"category": ["myst-island"],
+"category": ["diorama","myst-island"],
 "tags": ["Planetarium","Sliceform","Library","slicer"],
 
 
@@ -135,12 +135,12 @@
 
 
 
-"syndication": ["https://twitter.com/tomasparksts/status/1144612200977276929"]
+"syndication": []
 },
 	{
   "type": "entry",
   "published": "2019-06-21T00:00:00+10:00",
-  "url": "https://tomasparks.name/miniatures/build-log/myst-island/2019/06/21/planetarium.html",
+  "url": "https://tomasparks.name/miniatures/build-log/diorama/myst-island/2019/06/21/planetarium.html",
   "author": {
     "type": "card",
     "name": "Tom Sparks",
@@ -154,7 +154,7 @@
 					"value": "After the failed attempt with the Library model, I tried @autodesk’s fusion 360 slicer on the Planetarium base model.\nI have had great success. :)\n"
 				},
 							"value": "After the failed attempt with the Library model, I tried @autodesk’s fusion 360 slicer on the Planetarium base model.\nI have had great success. :)\n",
-"category": ["myst-island"],
+"category": ["diorama","myst-island"],
 "tags": ["Planetarium","Sliceform","Library"],
 
 
@@ -166,7 +166,7 @@
 
 
 
-"syndication": ["https://twitter.com/tomasparksts/status/1142062874443091968"]
+"syndication": []
 },
 	{
   "type": "entry",
@@ -202,7 +202,7 @@
 	{
   "type": "entry",
   "published": "2019-06-19T00:00:00+10:00",
-  "url": "https://tomasparks.name/miniatures/build-log/myst-island/2019/06/19/library.html",
+  "url": "https://tomasparks.name/miniatures/build-log/diorama/myst-island/2019/06/19/library.html",
   "author": {
     "type": "card",
     "name": "Tom Sparks",
@@ -216,7 +216,7 @@
 					"value": "My Model unfolding software did not like the stl file uploaded to thingiverse by @cyanworlds.\n"
 				},
 							"value": "My Model unfolding software did not like the stl file uploaded to thingiverse by @cyanworlds.\n",
-"category": ["myst-island"],
+"category": ["diorama","myst-island"],
 "tags": ["Library","pepakura"],
 
 
@@ -228,12 +228,12 @@
 
 
 
-"syndication": ["https://twitter.com/tomasparksts/status/1141449623942377479"]
+"syndication": []
 },
 	{
   "type": "entry",
   "published": "2019-06-11T00:00:00+10:00",
-  "url": "https://tomasparks.name/miniatures/build-log/myst-island/2019/06/11/myst-island.html",
+  "url": "https://tomasparks.name/miniatures/build-log/diorama/myst-island/2019/06/11/myst-island.html",
   "author": {
     "type": "card",
     "name": "Tom Sparks",
@@ -247,7 +247,7 @@
 					"value": "\n  Myst is a graphic adventure puzzle video game designed by the Miller brothers, Robyn and Rand.\nIt was developed by Cyan, Inc., published by Brøderbund, and released as a PC game for the Macintosh platform in 1993.\nIn the game, players are told that a special book has caused them to travel to Myst Island.\nThere, players solve puzzles and, by doing so, travel to four other worlds, known as Ages, which reveal the backstory of the game’s characters.\n\n\n"
 				},
 							"value": "\n  Myst is a graphic adventure puzzle video game designed by the Miller brothers, Robyn and Rand.\nIt was developed by Cyan, Inc., published by Brøderbund, and released as a PC game for the Macintosh platform in 1993.\nIn the game, players are told that a special book has caused them to travel to Myst Island.\nThere, players solve puzzles and, by doing so, travel to four other worlds, known as Ages, which reveal the backstory of the game’s characters.\n\n\n",
-"category": ["myst-island"],
+"category": ["diorama","myst-island"],
 "tags": [],
 
 
