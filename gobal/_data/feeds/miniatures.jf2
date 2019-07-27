@@ -108,6 +108,37 @@
 },
 	{
   "type": "entry",
+  "published": "2019-05-05T00:00:00+10:00",
+  "url": "https://tomasparks.name/miniatures/build-log/website/webtorrent/2019/05/05/2019-5-5.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "https://tomasparks.name/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "webtorrent",
+				"summary": {
+					"html": "\n",
+					"value": "\n"
+				},
+							"value": "\n",
+"category": ["website","webtorrent"],
+"tags": [],
+
+
+
+
+
+
+
+
+
+
+"syndication": []
+},
+	{
+  "type": "entry",
   "published": "2019-01-11T00:00:00+10:00",
   "url": "https://tomasparks.name/miniatures/notebook/2019/01/sg-makerspace-email.html",
   "author": {

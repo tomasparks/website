@@ -1,6 +1,29 @@
 ---
 2019:
   "07":
+    27:
+    - type: entry
+      published: "2019-07-27T04:41:16+00:00"
+      url: https://twitter.com/tomasparksts/status/1154975013901967361
+      category:
+      - https://twitter.com/librofm
+      content:
+        text: '#finished #listening to #hiddenfigures for #Apollo50 thanks to @librofm'
+        html: <a href="https://twitter.com/search?q=%23finished">#finished</a> <a
+          href="https://twitter.com/search?q=%23listening">#listening</a> to <a href="https://twitter.com/search?q=%23hiddenfigures">#hiddenfigures</a>
+          for <a href="https://twitter.com/search?q=%23Apollo50">#Apollo50</a> thanks
+          to <a href="https://twitter.com/librofm">@librofm</a>
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/librofm:
+          type: card
+          name: Libro.fm
+          url: https://twitter.com/librofm
+          photo: ~
     23:
     - type: entry
       published: "2019-07-23T22:47:11+00:00"
@@ -254,51 +277,5 @@
           type: card
           name: The Gaming Muso
           url: https://twitter.com/gamingmuso
-          photo: ~
-    14:
-    - type: entry
-      published: "2019-07-14T06:41:01+00:00"
-      url: https://twitter.com/tomasparksts/status/1150294109355012096
-      category:
-      - https://twitter.com/AndrewBean90
-      - https://twitter.com/ScythianRaven
-      - https://twitter.com/lazygamereviews
-      - https://twitter.com/IBM
-      - https://twitter.com/SierraGames
-      in-reply-to:
-      - https://twitter.com/AndrewBean90/status/1150291046502404096
-      content:
-        text: "en.wikipedia.org/wiki/King%27s_\u2026"
-        html: "<a href=\"https://en.wikipedia.org/wiki/King%27s_Quest_I#Development\">en.wikipedia.org/wiki/King%27s_\u2026</a>"
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-      refs:
-        https://twitter.com/AndrewBean90:
-          type: card
-          name: The Pink Panther
-          url: https://twitter.com/AndrewBean90
-          photo: ~
-        https://twitter.com/ScythianRaven:
-          type: card
-          name: 'L''Mir of House Lorgh. #StarfleetIsAPromise'
-          url: https://twitter.com/ScythianRaven
-          photo: ~
-        https://twitter.com/lazygamereviews:
-          type: card
-          name: LGR
-          url: https://twitter.com/lazygamereviews
-          photo: ~
-        https://twitter.com/IBM:
-          type: card
-          name: IBM
-          url: https://twitter.com/IBM
-          photo: ~
-        https://twitter.com/SierraGames:
-          type: card
-          name: Sierra Games
-          url: https://twitter.com/SierraGames
           photo: ~
 ...
