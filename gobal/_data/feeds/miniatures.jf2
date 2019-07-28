@@ -698,6 +698,37 @@
 	{
   "type": "entry",
   "published": "2018-11-27T00:00:00+10:00",
+  "url": "https://tomasparks.name/miniatures/build-log/work-area/camera-rig/2018/11/27/camera-rig-redesgin.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "https://tomasparks.name/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "Camera-Rig Redesgin",
+				"summary": {
+					"html": "<p>see <a href=\"/miniatures/notebook/2018/11/endoscope-camera-rig.html\">Endoscope Camera Rig</a></p>\n",
+					"value": "see Endoscope Camera Rig\n"
+				},
+							"value": "see Endoscope Camera Rig\n",
+"category": ["work-area","camera-rig"],
+"tags": [],
+
+
+
+
+
+
+
+
+
+
+"syndication": []
+},
+	{
+  "type": "entry",
+  "published": "2018-11-27T00:00:00+10:00",
   "url": "https://tomasparks.name/miniatures/notebook/2018/11/endoscope-camera-rig.html",
   "author": {
     "type": "card",
@@ -775,6 +806,37 @@
 				},
 							"value": "Birth of Website souce code\n",
 "category": ["website"],
+"tags": [],
+
+
+
+
+
+
+
+
+
+
+"syndication": []
+},
+	{
+  "type": "entry",
+  "published": "2018-11-10T00:00:00+10:00",
+  "url": "https://tomasparks.name/miniatures/build-log/work-area/camera-rig/software/2018/11/10/camera-rig-software.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "https://tomasparks.name/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "Camera-Rig software",
+				"summary": {
+					"html": "<p>see <a href=\"/miniatures/notebook/2018/11/streetview-diorama-update.html\">Creating a Streetview for Dioramas UPDATE</a></p>\n",
+					"value": "see Creating a Streetview for Dioramas UPDATE\n"
+				},
+							"value": "see Creating a Streetview for Dioramas UPDATE\n",
+"category": ["work-area","camera-rig","software"],
 "tags": [],
 
 
@@ -911,6 +973,37 @@
 
 
 "syndication": ["https://twitter.com/tomasparksts/status/1129005679799394304"]
+},
+	{
+  "type": "entry",
+  "published": "2018-10-08T00:00:00+10:00",
+  "url": "https://tomasparks.name/miniatures/build-log/work-area/camera-rig/2018/10/08/camera-rig.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "https://tomasparks.name/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "Camera-Rig",
+				"summary": {
+					"html": "<p>see <a href=\"/miniatures/notebook/2018/10/streetview-diorama.html\">Creating a Streetview for Dioramas</a></p>\n",
+					"value": "see Creating a Streetview for Dioramas\n"
+				},
+							"value": "see Creating a Streetview for Dioramas\n",
+"category": ["work-area","camera-rig"],
+"tags": [],
+
+
+
+
+
+
+
+
+
+
+"syndication": []
 },
 	{
   "type": "entry",

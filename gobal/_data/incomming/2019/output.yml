@@ -1,6 +1,35 @@
 ---
 2019:
   "07":
+    28:
+    - type: entry
+      published: "2019-07-28T01:30:31+00:00"
+      url: https://twitter.com/tomasparksts/status/1155289397685673984
+      category:
+      - https://twitter.com/NetHistoryPod
+      - https://twitter.com/brianmcc
+      content:
+        text: '#listened to 50% of the @NetHistoryPod #audiobook by @brianmcc'
+        html: <a href="https://twitter.com/search?q=%23listened">#listened</a> to
+          50% of the <a href="https://twitter.com/NetHistoryPod">@NetHistoryPod</a>
+          <a href="https://twitter.com/search?q=%23audiobook">#audiobook</a> by <a
+          href="https://twitter.com/brianmcc">@brianmcc</a>
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/NetHistoryPod:
+          type: card
+          name: InternetHistoryPod
+          url: https://twitter.com/NetHistoryPod
+          photo: ~
+        https://twitter.com/brianmcc:
+          type: card
+          name: Brian McCullough
+          url: https://twitter.com/brianmcc
+          photo: ~
     27:
     - type: entry
       published: "2019-07-27T04:41:16+00:00"
@@ -257,25 +286,5 @@
           type: card
           name: Adobe
           url: https://twitter.com/Adobe
-          photo: ~
-    - type: entry
-      published: "2019-07-15T08:55:57+00:00"
-      url: https://twitter.com/tomasparksts/status/1150690453223694336
-      category:
-      - https://twitter.com/gamingmuso
-      content:
-        text: "just finished listening to @gamingmuso sings/plays playlist @ youtube.com/playlist?list=\u2026"
-        html: "just finished listening to <a href=\"https://twitter.com/gamingmuso\">@gamingmuso</a>
-          sings/plays playlist @ <a href=\"https://www.youtube.com/playlist?list=PLrqyIQY1htwiNgzokyWaInAYrlu0XkLBq\">youtube.com/playlist?list=\u2026</a>"
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-      refs:
-        https://twitter.com/gamingmuso:
-          type: card
-          name: The Gaming Muso
-          url: https://twitter.com/gamingmuso
           photo: ~
 ...

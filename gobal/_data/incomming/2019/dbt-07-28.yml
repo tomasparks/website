@@ -1,0 +1,29 @@
+---
+- type: entry
+  published: "2019-07-28T01:30:31+00:00"
+  url: https://twitter.com/tomasparksts/status/1155289397685673984
+  category:
+  - https://twitter.com/NetHistoryPod
+  - https://twitter.com/brianmcc
+  content:
+    text: '#listened to 50% of the @NetHistoryPod #audiobook by @brianmcc'
+    html: <a href="https://twitter.com/search?q=%23listened">#listened</a> to 50%
+      of the <a href="https://twitter.com/NetHistoryPod">@NetHistoryPod</a> <a href="https://twitter.com/search?q=%23audiobook">#audiobook</a>
+      by <a href="https://twitter.com/brianmcc">@brianmcc</a>
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/NetHistoryPod:
+      type: card
+      name: InternetHistoryPod
+      url: https://twitter.com/NetHistoryPod
+      photo: ~
+    https://twitter.com/brianmcc:
+      type: card
+      name: Brian McCullough
+      url: https://twitter.com/brianmcc
+      photo: ~
+...

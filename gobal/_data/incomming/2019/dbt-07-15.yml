@@ -1,5 +1,6 @@
 ---
-- type: entry
+0:
+  type: entry
   published: "2019-07-15T23:36:16+00:00"
   url: https://twitter.com/tomasparksts/status/1150911994037321728
   category:
@@ -28,7 +29,8 @@
       name: Adobe
       url: https://twitter.com/Adobe
       photo: ~
-- type: entry
+2:
+  type: entry
   published: "2019-07-15T08:55:57+00:00"
   url: https://twitter.com/tomasparksts/status/1150690453223694336
   category:
