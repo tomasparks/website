@@ -1038,6 +1038,37 @@
 },
 	{
   "type": "entry",
+  "published": "2018-10-01T00:00:00+10:00",
+  "url": "https://tomasparks.name/miniatures/build-log/work-area/2018/10/01/work-area.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "https://tomasparks.name/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "Work-area",
+				"summary": {
+					"html": "\n",
+					"value": "\n"
+				},
+							"value": "\n",
+"category": ["work-area"],
+"tags": [],
+
+
+
+
+
+
+
+
+
+
+"syndication": []
+},
+	{
+  "type": "entry",
   "published": "2018-09-26T00:00:00+10:00",
   "url": "https://tomasparks.name/miniatures/build-log/diorama/pirate-island/2018/09/26/pirate-island-idea.html",
   "author": {
