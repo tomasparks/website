@@ -450,7 +450,7 @@
 	{
   "type": "entry",
   "published": "2019-05-09T12:32:26+10:00",
-  "url": "https://tomasparks.name/miniatures/build-log/website/webtorrent/krpano/2019/05/09/2019-5-9.html",
+  "url": "https://tomasparks.name/miniatures/build-log/website/webtorrent/p2p-krpano-viewer/2019/05/09/2019-5-9.html",
   "author": {
     "type": "card",
     "name": "Tom Sparks",
@@ -464,7 +464,7 @@
 					"value": "\n  VM5160:1 Uncaught RangeError: Invalid typed array length: 107961892351\nat new Uint8Array ()\nat qb (eval at embedpano (krpano.js:10), :1:59738)\nat Ga.p (eval at embedpano (krpano.js:10), :1:49008)\nat eval (eval at embedpano (krpano.js:10), :1:50289)\nat m (eval at embedpano (krpano.js:10), :1:63632)\nat eval (eval at embedpano (krpano.js:10), :1:65437)\nat Object.d [as loadxml] (eval at embedpano (krpano.js:10), :1:129797)\nat Function.k.loadxml (eval at embedpano (krpano.js:10), :1:98202)\nat Object.k.executeActions (eval at embedpano (krpano.js:10), :1:77876)\nat Object.k.callaction (eval at embedpano (krpano.js:10), :1:76712)\nat pd (eval at embedpano (krpano.js:10), :1:7126)\nat HTMLDivElement.jf [as call] (eval at embedpano (krpano.js:10), :1:7163)\nat js.js:76\nat Array.forEach ()\nat start (js.js:69) at onProgress (js.js:163)\n\n"
 				},
 							"value": "\n  VM5160:1 Uncaught RangeError: Invalid typed array length: 107961892351\nat new Uint8Array ()\nat qb (eval at embedpano (krpano.js:10), :1:59738)\nat Ga.p (eval at embedpano (krpano.js:10), :1:49008)\nat eval (eval at embedpano (krpano.js:10), :1:50289)\nat m (eval at embedpano (krpano.js:10), :1:63632)\nat eval (eval at embedpano (krpano.js:10), :1:65437)\nat Object.d [as loadxml] (eval at embedpano (krpano.js:10), :1:129797)\nat Function.k.loadxml (eval at embedpano (krpano.js:10), :1:98202)\nat Object.k.executeActions (eval at embedpano (krpano.js:10), :1:77876)\nat Object.k.callaction (eval at embedpano (krpano.js:10), :1:76712)\nat pd (eval at embedpano (krpano.js:10), :1:7126)\nat HTMLDivElement.jf [as call] (eval at embedpano (krpano.js:10), :1:7163)\nat js.js:76\nat Array.forEach ()\nat start (js.js:69) at onProgress (js.js:163)\n\n",
-"category": ["website","webtorrent","krpano"],
+"category": ["website","webtorrent","p2p-krpano-viewer"],
 "tags": [],
 
 
@@ -481,7 +481,7 @@
 	{
   "type": "entry",
   "published": "2019-05-06T10:29:13+10:00",
-  "url": "https://tomasparks.name/miniatures/build-log/website/webtorrent/krpano/2019/05/06/2019-5-6.html",
+  "url": "https://tomasparks.name/miniatures/build-log/website/webtorrent/p2p-krpano-viewer/2019/05/06/2019-5-6.html",
   "author": {
     "type": "card",
     "name": "Tom Sparks",
@@ -495,7 +495,7 @@
 					"value": "Initial commit (gh-page) to github\n"
 				},
 							"value": "Initial commit (gh-page) to github\n",
-"category": ["website","webtorrent","krpano"],
+"category": ["website","webtorrent","p2p-krpano-viewer"],
 "tags": [],
 
 
