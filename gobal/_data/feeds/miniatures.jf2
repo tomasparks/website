@@ -264,7 +264,7 @@
 	{
   "type": "entry",
   "published": "2019-05-17T12:32:02+10:00",
-  "url": "https://tomasparks.name/miniatures/build-log/website/webtorrent/p2pvideo/2019/05/17/meger-p2pvideo-to-website.html",
+  "url": "https://tomasparks.name/miniatures/build-log/website/webtorrent/p2pvideo/2019/05/17/merge-p2pvideo-to-website.html",
   "author": {
     "type": "card",
     "name": "Tom Sparks",
@@ -274,10 +274,10 @@
   },
   "name": "Merge p2pvideo to website",
 				"summary": {
-					"html": "<p><a href=\"https://github.com/tomasparks/miniatures-src/commit/428389c22e800a89e53abbaf1483d50ebb7b8007\">Merge p2pvideo to website</a></p>\n",
-					"value": "Merge p2pvideo to website\n"
+					"html": "<p><a href=\"https://github.com/tomasparks/miniatures-src/commit/428389c22e800a89e53abbaf1483d50ebb7b8007\">Merge p2pvideo to website soruce code</a></p>\n",
+					"value": "Merge p2pvideo to website soruce code\n"
 				},
-							"value": "Merge p2pvideo to website\n",
+							"value": "Merge p2pvideo to website soruce code\n",
 "category": ["website","webtorrent","p2pvideo"],
 "tags": [],
 
