@@ -263,6 +263,37 @@
 },
 	{
   "type": "entry",
+  "published": "2019-05-17T12:32:02+10:00",
+  "url": "https://tomasparks.name/miniatures/build-log/website/webtorrent/p2pvideo/2019/05/17/meger-p2pvideo-to-website.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "https://tomasparks.name/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "Merge p2pvideo to website",
+				"summary": {
+					"html": "<p><a href=\"https://github.com/tomasparks/miniatures-src/commit/428389c22e800a89e53abbaf1483d50ebb7b8007\">Merge p2pvideo to website</a></p>\n",
+					"value": "Merge p2pvideo to website\n"
+				},
+							"value": "Merge p2pvideo to website\n",
+"category": ["website","webtorrent","p2pvideo"],
+"tags": [],
+
+
+
+
+
+
+
+
+
+
+"syndication": []
+},
+	{
+  "type": "entry",
   "published": "2019-05-14T00:00:00+10:00",
   "url": "https://tomasparks.name/miniatures/build-log/work-area/2019/05/14/setup-workarea.html",
   "author": {
