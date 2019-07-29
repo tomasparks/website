@@ -635,6 +635,37 @@
 },
 	{
   "type": "entry",
+  "published": "2018-12-25T00:00:00+10:00",
+  "url": "https://tomasparks.name/miniatures/build-log/work-area/software/krpano/krpano-viewer/2018/12/25/krpano-viewer.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "https://tomasparks.name/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "krpano-viewer",
+				"summary": {
+					"html": "\n",
+					"value": "\n"
+				},
+							"value": "\n",
+"category": ["work-area","software","krpano","krpano-viewer"],
+"tags": [],
+
+
+
+
+
+
+
+
+
+
+"syndication": []
+},
+	{
+  "type": "entry",
   "published": "2018-12-24T00:00:00+10:00",
   "url": "https://tomasparks.name/miniatures/build-log/work-area/software/krpano/2018/12/24/krpano.html",
   "author": {
@@ -868,37 +899,6 @@
 				},
 							"value": "Birth of Website souce code\n",
 "category": ["website"],
-"tags": [],
-
-
-
-
-
-
-
-
-
-
-"syndication": []
-},
-	{
-  "type": "entry",
-  "published": "2018-11-19T00:00:00+10:00",
-  "url": "https://tomasparks.name/miniatures/build-log/work-area/software/krpano/krpano-viewer/2018/11/19/krpano-viewer.html",
-  "author": {
-    "type": "card",
-    "name": "Tom Sparks",
-    "url": "https://tomasparks.name",
-    "photo": "https://tomasparks.name/about-me/photo.png",
-    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
-  },
-  "name": "krpano-viewer",
-				"summary": {
-					"html": "\n",
-					"value": "\n"
-				},
-							"value": "\n",
-"category": ["work-area","software","krpano","krpano-viewer"],
 "tags": [],
 
 
