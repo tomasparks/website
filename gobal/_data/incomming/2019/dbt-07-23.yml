@@ -1,5 +1,6 @@
 ---
-- type: entry
+0:
+  type: entry
   published: "2019-07-23T22:47:11+00:00"
   url: https://twitter.com/tomasparksts/status/1153798743470116864
   category:
@@ -20,7 +21,8 @@
       name: King Octav1us
       url: https://twitter.com/Octav1usKitten
       photo: ~
-- type: entry
+2:
+  type: entry
   published: "2019-07-23T12:06:25+00:00"
   url: https://twitter.com/tomasparksts/status/1153637487358513152
   category:
@@ -60,7 +62,8 @@
       name: The Virtual Choir
       url: https://twitter.com/virtualchoir
       photo: ~
-- type: entry
+3:
+  type: entry
   published: "2019-07-23T06:10:57+00:00"
   url: https://twitter.com/tomasparksts/status/1153548034355023872
   category:
@@ -83,7 +86,8 @@
       name: Libro.fm
       url: https://twitter.com/librofm
       photo: ~
-- type: entry
+4:
+  type: entry
   published: "2019-07-23T01:29:41+00:00"
   url: https://twitter.com/tomasparksts/status/1153477251385548802
   category:

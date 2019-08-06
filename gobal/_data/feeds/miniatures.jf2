@@ -15,6 +15,37 @@
 		    
 	{
   "type": "entry",
+  "published": "2019-08-03T18:36:04+10:00",
+  "url": "https://tomasparks.name/miniatures/build-log/work-area/camera-rig/icg-software/vm/2019/08/03/setup-VM.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "https://tomasparks.name/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "Setting up Virtual Machine",
+				"summary": {
+					"html": "\n",
+					"value": "\n"
+				},
+							"value": "\n",
+"category": ["work-area","camera-rig","ICG-software","VM"],
+"tags": [],
+
+
+
+
+
+
+
+
+
+
+"syndication": []
+},
+	{
+  "type": "entry",
   "published": "2019-07-12T00:00:00+10:00",
   "url": "https://tomasparks.name/miniatures/build-log/diorama/pirate-island/2019/07/12/features-wishlist.html",
   "author": {

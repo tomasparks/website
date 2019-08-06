@@ -7,6 +7,28 @@
             "photo": "https://webmention.io/avatar/pbs.twimg.com/84a01d68484d1a83502b69db5b2aa85a2dfe38afcf79c86e6e588b7c8e775351.jpg",
             "url": "https://twitter.com/tomasparksts"
         },
+        "url": "https://twitter.com/tomasparksts/status/1148706235795017728",
+        "published": "2019-07-09T21:31:23+00:00",
+        "wm-received": "2019-07-29T23:04:58Z",
+        "wm-id": 657540,
+        "wm-source": "https://brid-gy.appspot.com/post/twitter/tomasparksts/1148706235795017728",
+        "wm-target": "https://tomasparks.name/miniatures/build-log/diorama/castle/2019/07/09/castle.html",
+        "content": {
+            "html": "(🤖) After watching <a href=\"https://twitter.com/TheNerdforge\">@TheNerdforge</a>’s Making A Miniature Fantasy LANDSCAPE (For An Epic Castle?) and Mak... <a href=\"https://twitter.com/search?q=%23BuildLog\">#BuildLog</a> <a href=\"https://twitter.com/search?q=%23miniatures\">#miniatures</a> <a href=\"https://twitter.com/search?q=%23Castle\">#Castle</a> (🤖) (<a href=\"https://tomasparks.name/miniatures/build-log/castle/2019/07/09/castle.html\">tomasparks.name/miniatures/bui…</a>)",
+            "text": "(🤖) After watching @TheNerdforge’s Making A Miniature Fantasy LANDSCAPE (For An Epic Castle?) and Mak... #BuildLog #miniatures #Castle (🤖) (tomasparks.name/miniatures/bui…)"
+        },
+        "mention-of": "https://tomasparks.name/miniatures/build-log/diorama/castle/2019/07/09/castle.html",
+        "wm-property": "mention-of",
+        "wm-private": false
+    },
+    {
+        "type": "entry",
+        "author": {
+            "type": "card",
+            "name": "Tom Sparks",
+            "photo": "https://webmention.io/avatar/pbs.twimg.com/84a01d68484d1a83502b69db5b2aa85a2dfe38afcf79c86e6e588b7c8e775351.jpg",
+            "url": "https://twitter.com/tomasparksts"
+        },
         "url": "https://twitter.com/tomasparksts/status/1144612200977276929",
         "published": "2019-06-28T14:23:09+00:00",
         "wm-received": "2019-06-30T11:41:49Z",

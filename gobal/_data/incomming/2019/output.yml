@@ -1,5 +1,214 @@
 ---
 2019:
+  08:
+    "05":
+    - type: entry
+      published: "2019-08-05T15:36:45+00:00"
+      url: https://twitter.com/tomasparksts/status/1158401464122798080
+      category:
+      - https://twitter.com/IRLPodcast_org
+      - https://twitter.com/mozilla
+      in-reply-to:
+      - https://twitter.com/tomasparksts/status/1158400500615614465
+      content:
+        text: 'ps: I #have #lived #OffGrid for about 12 #months'
+        html: 'ps: I <a href="https://twitter.com/search?q=%23have">#have</a> <a href="https://twitter.com/search?q=%23lived">#lived</a>
+          <a href="https://twitter.com/search?q=%23OffGrid">#OffGrid</a> for about
+          12 <a href="https://twitter.com/search?q=%23months">#months</a>'
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/IRLPodcast_org:
+          type: card
+          name: IRL Podcast
+          url: https://twitter.com/IRLPodcast_org
+          photo: ~
+        https://twitter.com/mozilla:
+          type: card
+          name: Mozilla
+          url: https://twitter.com/mozilla
+          photo: ~
+    - type: entry
+      published: "2019-08-05T15:32:56+00:00"
+      url: https://twitter.com/tomasparksts/status/1158400500615614465
+      category:
+      - https://twitter.com/IRLPodcast_org
+      - https://twitter.com/mozilla
+      in-reply-to:
+      - https://twitter.com/tomasparksts/status/1158397439809687552
+      content:
+        text: 'I am in a #catch22: my #DcnHat has a #scaleablepower #philosophy, while
+          my #DigitalCreativity side has outsourcing computing task #philosophy'
+        html: 'I am in a <a href="https://twitter.com/search?q=%23catch22">#catch22</a>:
+          my <a href="https://twitter.com/search?q=%23DcnHat">#DcnHat</a> has a <a
+          href="https://twitter.com/search?q=%23scaleablepower">#scaleablepower</a>
+          <a href="https://twitter.com/search?q=%23philosophy">#philosophy</a>, while
+          my <a href="https://twitter.com/search?q=%23DigitalCreativity">#DigitalCreativity</a>
+          side has outsourcing computing task #philosophy'
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/IRLPodcast_org:
+          type: card
+          name: IRL Podcast
+          url: https://twitter.com/IRLPodcast_org
+          photo: ~
+        https://twitter.com/mozilla:
+          type: card
+          name: Mozilla
+          url: https://twitter.com/mozilla
+          photo: ~
+    - type: entry
+      published: "2019-08-05T15:20:46+00:00"
+      url: https://twitter.com/tomasparksts/status/1158397439809687552
+      category:
+      - https://twitter.com/IRLPodcast_org
+      - https://twitter.com/mozilla
+      in-reply-to:
+      - https://twitter.com/tomasparksts/status/1158396964079202304
+      content:
+        text: 'I #read the #shownotes'
+        html: I <a href="https://twitter.com/search?q=%23read">#read</a> the <a href="https://twitter.com/search?q=%23shownotes">#shownotes</a>
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/IRLPodcast_org:
+          type: card
+          name: IRL Podcast
+          url: https://twitter.com/IRLPodcast_org
+          photo: ~
+        https://twitter.com/mozilla:
+          type: card
+          name: Mozilla
+          url: https://twitter.com/mozilla
+          photo: ~
+    - type: entry
+      published: "2019-08-05T15:18:52+00:00"
+      url: https://twitter.com/tomasparksts/status/1158396964079202304
+      category:
+      - https://twitter.com/IRLPodcast_org
+      - https://twitter.com/mozilla
+      content:
+        text: "#listened to @IRLPodcast_org  \"The Internet\u2019s Carbon Footprint\"
+          by @mozilla"
+        html: "<a href=\"https://twitter.com/search?q=%23listened\">#listened</a>
+          to <a href=\"https://twitter.com/IRLPodcast_org\">@IRLPodcast_org</a>  \"The
+          Internet\u2019s Carbon Footprint\" by <a href=\"https://twitter.com/mozilla\">@mozilla</a>"
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/IRLPodcast_org:
+          type: card
+          name: IRL Podcast
+          url: https://twitter.com/IRLPodcast_org
+          photo: ~
+        https://twitter.com/mozilla:
+          type: card
+          name: Mozilla
+          url: https://twitter.com/mozilla
+          photo: ~
+    "03":
+    - type: entry
+      published: "2019-08-03T14:50:36+00:00"
+      url: https://twitter.com/tomasparksts/status/1157665073692721157
+      category:
+      - https://twitter.com/Octav1usKitten
+      - https://twitter.com/retrocompmuseum
+      in-reply-to:
+      - https://twitter.com/Octav1usKitten/status/1157662163361783809
+      content:
+        text: "I remember seeing them @ shopping centres in the 90s,\ni explored #DactylNightmare
+          in #Rend386 \nseanclark.me.uk/homebrew-virtu\u2026"
+        html: "I remember seeing them @ shopping centres in the 90s,\ni explored <a
+          href=\"https://twitter.com/search?q=%23DactylNightmare\">#DactylNightmare</a>
+          in <a href=\"https://twitter.com/search?q=%23Rend386\">#Rend386</a> \n<a
+          href=\"https://www.seanclark.me.uk/homebrew-virtual-reality\">seanclark.me.uk/homebrew-virtu\u2026</a>"
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/Octav1usKitten:
+          type: card
+          name: King Octav1us
+          url: https://twitter.com/Octav1usKitten
+          photo: ~
+        https://twitter.com/retrocompmuseum:
+          type: card
+          name: retrocomputermuseum
+          url: https://twitter.com/retrocompmuseum
+          photo: ~
+    - type: entry
+      published: "2019-08-03T14:12:42+00:00"
+      url: https://twitter.com/tomasparksts/status/1157655533916020736
+      category:
+      - https://twitter.com/Patreon
+      - https://twitter.com/Octav1usKitten
+      - https://twitter.com/lazygamereviews
+      content:
+        text: I decide to pull the trigger with @Patreon  and give $1 each to @Octav1usKitten  &
+          @lazygamereviews every month
+        html: I decide to pull the trigger with <a href="https://twitter.com/Patreon">@Patreon</a>  and
+          give $1 each to <a href="https://twitter.com/Octav1usKitten">@Octav1usKitten</a>  &amp;
+          <a href="https://twitter.com/lazygamereviews">@lazygamereviews</a> every
+          month
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/Patreon:
+          type: card
+          name: Patreon
+          url: https://twitter.com/Patreon
+          photo: ~
+        https://twitter.com/Octav1usKitten:
+          type: card
+          name: King Octav1us
+          url: https://twitter.com/Octav1usKitten
+          photo: ~
+        https://twitter.com/lazygamereviews:
+          type: card
+          name: LGR
+          url: https://twitter.com/lazygamereviews
+          photo: ~
+    "02":
+    - type: entry
+      published: "2019-08-02T17:51:23+00:00"
+      url: https://twitter.com/tomasparksts/status/1157348180394037249
+      category:
+      - https://twitter.com/Octav1usKitten
+      in-reply-to:
+      - https://twitter.com/Octav1usKitten/status/1157303351442378753
+      content:
+        text: "the #Macquarium was bad enough, now these \U0001F92E"
+        html: "the <a href=\"https://twitter.com/search?q=%23Macquarium\">#Macquarium</a>
+          was bad enough, now these \U0001F92E"
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/Octav1usKitten:
+          type: card
+          name: King Octav1us
+          url: https://twitter.com/Octav1usKitten
+          photo: ~
   "07":
     28:
     - type: entry
@@ -74,217 +283,5 @@
           type: card
           name: King Octav1us
           url: https://twitter.com/Octav1usKitten
-          photo: ~
-    - type: entry
-      published: "2019-07-23T12:06:25+00:00"
-      url: https://twitter.com/tomasparksts/status/1153637487358513152
-      category:
-      - https://twitter.com/Octav1usKitten
-      - https://twitter.com/CheekyCrissy
-      - https://twitter.com/TristaBytes
-      - https://twitter.com/virtualchoir
-      in-reply-to:
-      - https://twitter.com/Octav1usKitten/status/1153472992015523840
-      content:
-        text: you could join the @virtualchoir project
-        html: you could join the <a href="https://twitter.com/virtualchoir">@virtualchoir</a>
-          project
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-      refs:
-        https://twitter.com/Octav1usKitten:
-          type: card
-          name: King Octav1us
-          url: https://twitter.com/Octav1usKitten
-          photo: ~
-        https://twitter.com/CheekyCrissy:
-          type: card
-          name: "\U0001F3AECheeky\U0001F579Crissy\U0001F3AE"
-          url: https://twitter.com/CheekyCrissy
-          photo: ~
-        https://twitter.com/TristaBytes:
-          type: card
-          name: "Trista Bytes \U0001F3AC\U0001F3AE+\U0001F3A5=\U0001F60A"
-          url: https://twitter.com/TristaBytes
-          photo: ~
-        https://twitter.com/virtualchoir:
-          type: card
-          name: The Virtual Choir
-          url: https://twitter.com/virtualchoir
-          photo: ~
-    - type: entry
-      published: "2019-07-23T06:10:57+00:00"
-      url: https://twitter.com/tomasparksts/status/1153548034355023872
-      category:
-      - https://twitter.com/librofm
-      content:
-        text: "\U0001F641 that @librofm does not #support #membership of us with\U0001F1E6\U0001F1FA#CreditCards
-          #AudiobookSwitch"
-        html: "\U0001F641 that <a href=\"https://twitter.com/librofm\">@librofm</a>
-          does not <a href=\"https://twitter.com/search?q=%23support\">#support</a>
-          <a href=\"https://twitter.com/search?q=%23membership\">#membership</a> of
-          us with\U0001F1E6\U0001F1FA<a href=\"https://twitter.com/search?q=%23CreditCards\">#CreditCards</a>
-          <a href=\"https://twitter.com/search?q=%23AudiobookSwitch\">#AudiobookSwitch</a>"
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-      refs:
-        https://twitter.com/librofm:
-          type: card
-          name: Libro.fm
-          url: https://twitter.com/librofm
-          photo: ~
-    - type: entry
-      published: "2019-07-23T01:29:41+00:00"
-      url: https://twitter.com/tomasparksts/status/1153477251385548802
-      category:
-      - https://twitter.com/Octav1usKitten
-      - https://twitter.com/Bandcamp
-      in-reply-to:
-      - https://twitter.com/Octav1usKitten/status/1153450321152290821
-      content:
-        text: you should upload the song you've done to @Bandcamp
-        html: you should upload the song you've done to <a href="https://twitter.com/Bandcamp">@Bandcamp</a>
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-      refs:
-        https://twitter.com/Octav1usKitten:
-          type: card
-          name: King Octav1us
-          url: https://twitter.com/Octav1usKitten
-          photo: ~
-        https://twitter.com/Bandcamp:
-          type: card
-          name: bandcamp
-          url: https://twitter.com/Bandcamp
-          photo: ~
-    21:
-    - type: entry
-      published: "2019-07-21T01:12:11+00:00"
-      url: https://twitter.com/tomasparksts/status/1152748067965173760
-      repost-of:
-      - https://twitter.com/apollo_50th/status/1152674081428271104
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-      refs:
-        https://twitter.com/apollo_50th/status/1152674081428271104:
-          type: entry
-          published: "2019-07-20T20:18:11+00:00"
-          url: https://twitter.com/apollo_50th/status/1152674081428271104
-          content:
-            text: |-
-              Armstrong: "Houston, Tranquility Base here. The Eagle has landed."
-              #Apollo11
-              #Apollo50
-            html: |-
-              Armstrong: "Houston, Tranquility Base here. The Eagle has landed."
-              <a href="https://twitter.com/search?q=%23Apollo11">#Apollo11</a>
-              <a href="https://twitter.com/search?q=%23Apollo50">#Apollo50</a>
-          author:
-            type: card
-            name: Apollo 50th
-            url: https://twitter.com/apollo_50th
-            photo: https://pbs.twimg.com/profile_images/951168581391167488/MdpZmnSn.jpg
-    20:
-    - type: entry
-      published: "2019-07-20T13:03:24+00:00"
-      url: https://twitter.com/tomasparksts/status/1152564666758905858
-      category:
-      - https://twitter.com/watched
-      content:
-        text: '@watched hidden figures #2016  now I have #toread hidden figures #book
-          with the movie was based on #Apollo50'
-        html: '<a href="https://twitter.com/watched">@watched</a> hidden figures #2016  now
-          I have <a href="https://twitter.com/search?q=%23toread">#toread</a> hidden
-          figures <a href="https://twitter.com/search?q=%23book">#book</a> with the
-          movie was based on <a href="https://twitter.com/search?q=%23Apollo50">#Apollo50</a>'
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-      refs:
-        https://twitter.com/watched:
-          type: card
-          name: watched
-          url: https://twitter.com/watched
-          photo: ~
-    19:
-    - type: entry
-      published: "2019-07-19T08:15:57+00:00"
-      url: https://twitter.com/tomasparksts/status/1152129937194676234
-      category:
-      - https://twitter.com/apollo_50th
-      - https://twitter.com/Octav1usKitten
-      - https://twitter.com/KerbalSpaceP
-      content:
-        text: 'since it is @apollo_50th @Octav1usKitten should #stream playing @KerbalSpaceP  and/or
-          #OrbiterSpaceFlightSim for some "real" marding'
-        html: since it is <a href="https://twitter.com/apollo_50th">@apollo_50th</a>
-          <a href="https://twitter.com/Octav1usKitten">@Octav1usKitten</a> should
-          <a href="https://twitter.com/search?q=%23stream">#stream</a> playing <a
-          href="https://twitter.com/KerbalSpaceP">@KerbalSpaceP</a>  and/or <a href="https://twitter.com/search?q=%23OrbiterSpaceFlightSim">#OrbiterSpaceFlightSim</a>
-          for some "real" marding
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-      refs:
-        https://twitter.com/apollo_50th:
-          type: card
-          name: Apollo 50th
-          url: https://twitter.com/apollo_50th
-          photo: ~
-        https://twitter.com/Octav1usKitten:
-          type: card
-          name: King Octav1us
-          url: https://twitter.com/Octav1usKitten
-          photo: ~
-        https://twitter.com/KerbalSpaceP:
-          type: card
-          name: Kerbal Space Program
-          url: https://twitter.com/KerbalSpaceP
-          photo: ~
-    15:
-    - type: entry
-      published: "2019-07-15T23:36:16+00:00"
-      url: https://twitter.com/tomasparksts/status/1150911994037321728
-      category:
-      - https://twitter.com/Octav1usKitten
-      - https://twitter.com/Adobe
-      video:
-      - https://video.twimg.com/tweet_video/D_jcWF8U4AYkZNV.mp4
-      in-reply-to:
-      - https://twitter.com/Octav1usKitten/status/1150905624760377344
-      content:
-        text: use anything but @Adobe
-        html: use anything but <a href="https://twitter.com/Adobe">@Adobe</a>
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-      refs:
-        https://twitter.com/Octav1usKitten:
-          type: card
-          name: King Octav1us
-          url: https://twitter.com/Octav1usKitten
-          photo: ~
-        https://twitter.com/Adobe:
-          type: card
-          name: Adobe
-          url: https://twitter.com/Adobe
           photo: ~
 ...
