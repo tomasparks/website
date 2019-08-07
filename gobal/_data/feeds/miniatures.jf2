@@ -543,7 +543,7 @@
 	{
   "type": "entry",
   "published": "2019-05-05T00:00:00+10:00",
-  "url": "https://tomasparks.name/miniatures/build-log/website/webtorrent/2019/05/05/2019-5-5.html",
+  "url": "https://tomasparks.name/miniatures/build-log/work-area/software/krpano/krpano-viewer/2019/05/05/merge-to-p2p-krpano-viewer.html",
   "author": {
     "type": "card",
     "name": "Tom Sparks",
@@ -551,13 +551,13 @@
     "photo": "https://tomasparks.name/about-me/photo.png",
     "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
   },
-  "name": "webtorrent",
+  "name": "merge to p2p-krpano-viewer",
 				"summary": {
 					"html": "\n",
 					"value": "\n"
 				},
 							"value": "\n",
-"category": ["website","webtorrent"],
+"category": ["work-area","software","krpano","krpano-viewer"],
 "tags": [],
 
 
@@ -574,7 +574,7 @@
 	{
   "type": "entry",
   "published": "2019-05-05T00:00:00+10:00",
-  "url": "https://tomasparks.name/miniatures/build-log/work-area/software/krpano/krpano-viewer/2019/05/05/merge-to-p2p-krpano-viewer.html",
+  "url": "https://tomasparks.name/miniatures/build-log/website/webtorrent/2019/05/05/2019-5-5.html",
   "author": {
     "type": "card",
     "name": "Tom Sparks",
@@ -582,13 +582,13 @@
     "photo": "https://tomasparks.name/about-me/photo.png",
     "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
   },
-  "name": "merge to p2p-krpano-viewer",
+  "name": "webtorrent",
 				"summary": {
 					"html": "\n",
 					"value": "\n"
 				},
 							"value": "\n",
-"category": ["work-area","software","krpano","krpano-viewer"],
+"category": ["website","webtorrent"],
 "tags": [],
 
 
