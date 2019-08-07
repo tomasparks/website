@@ -790,6 +790,37 @@
 },
 	{
   "type": "entry",
+  "published": "2018-12-25T00:00:00+10:00",
+  "url": "https://tomasparks.name/miniatures/build-log/work-area/software/krpano/krpano-examples/2018/12/25/krpano-examples.html",
+  "author": {
+    "type": "card",
+    "name": "Tom Sparks",
+    "url": "https://tomasparks.name",
+    "photo": "https://tomasparks.name/about-me/photo.png",
+    "note": "I am a Alternative Technology Researcher, with a focus on Digital Communication Networks."
+  },
+  "name": "krpano-examples",
+				"summary": {
+					"html": "\n",
+					"value": "\n"
+				},
+							"value": "\n",
+"category": ["work-area","software","krpano","krpano-examples"],
+"tags": [],
+
+
+
+
+
+
+
+
+
+
+"syndication": []
+},
+	{
+  "type": "entry",
   "published": "2018-12-24T00:00:00+10:00",
   "url": "https://tomasparks.name/miniatures/build-log/work-area/software/krpano/2018/12/24/krpano.html",
   "author": {
