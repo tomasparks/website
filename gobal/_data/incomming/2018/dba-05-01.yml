@@ -50,28 +50,6 @@
     text: ' \ud83c\udfa7 Listened to Ep 7: Elections and Voting Rights with Ed Ayers
       by Adam Ruins Everything From Adam Ruins Everything'
 - type: entry
-  published: "2018-05-01T06:34:31+00:00"
-  category:
-  - scrobble
-  - audio
-  - Adam Ruins Everything
-  - Adam Ruins Everything
-  listen-of:
-    h-cite:
-      url: http://maximumfun.org/feeds/are.xml
-      photo: ""
-      audio:
-      - http://media.adknit.com/a/f/90/adam-ruins-everything/r7lqlm.1-1.mp3
-      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_8_Hydration_and_Hyponatremia_with_Tamara_HewButler.mp3
-      name: 'Ep 8: Hydration and Hyponatremia with Tamara Hew-Butler'
-      author: Adam Ruins Everything
-      content: 'Professor Tamara Hew-Butler, who appears on the Adam Ruins Football
-        episode of the TV show, explains why too much water while exercising can actually
-        be dangerous. '
-  content:
-    text: ' \ud83c\udfa7 Listened to Ep 8: Hydration and Hyponatremia with Tamara
-      Hew-Butler by Adam Ruins Everything From Adam Ruins Everything'
-- type: entry
   published: "2018-05-01T05:41:22+00:00"
   category:
   - scrobble
@@ -94,6 +72,28 @@
   content:
     text: ' \ud83c\udfa7 Listened to Ep 9: Matrimony Myths with Stephanie Coontz by
       Adam Ruins Everything From Adam Ruins Everything'
+- type: entry
+  published: "2018-05-01T06:34:31+00:00"
+  category:
+  - scrobble
+  - audio
+  - Adam Ruins Everything
+  - Adam Ruins Everything
+  listen-of:
+    h-cite:
+      url: http://maximumfun.org/feeds/are.xml
+      photo: ""
+      audio:
+      - http://media.adknit.com/a/f/90/adam-ruins-everything/r7lqlm.1-1.mp3
+      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_8_Hydration_and_Hyponatremia_with_Tamara_HewButler.mp3
+      name: 'Ep 8: Hydration and Hyponatremia with Tamara Hew-Butler'
+      author: Adam Ruins Everything
+      content: 'Professor Tamara Hew-Butler, who appears on the Adam Ruins Football
+        episode of the TV show, explains why too much water while exercising can actually
+        be dangerous. '
+  content:
+    text: ' \ud83c\udfa7 Listened to Ep 8: Hydration and Hyponatremia with Tamara
+      Hew-Butler by Adam Ruins Everything From Adam Ruins Everything'
 - type: entry
   published: "2018-05-01T23:45:01+00:00"
   category:

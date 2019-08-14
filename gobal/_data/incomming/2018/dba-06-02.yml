@@ -49,6 +49,31 @@
     text: " \\ud83c\\udfa7 Listened to Is It The 'Pok\xE9mon' Or The 'Go' That Matters?
       by Techdirt From Techdirt"
 - type: entry
+  published: "2018-06-02T02:31:29+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/275479880-techdirt-disruption-is-not-an-excuse-for-lying.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/275479880-techdirt-disruption-is-not-an-excuse-for-lying.mp3
+      name: '''Disruption'' Is Not An Excuse For Lying'
+      author: Techdirt
+      content: "Silicon Valley has produced lots of disruptive technologies \u2014
+        ways to solve problems by upending entrenched industries and, often enough,
+        routing around protectionist regulations. But not all regulations are meaningless,
+        not all industries are easy to disrupt, and sometimes \"fake it until you
+        make it\" becomes plain old lying. This week, we discuss what happens when
+        \"disruption\" goes wrong."
+  content:
+    text: ' \ud83c\udfa7 Listened to ''Disruption'' Is Not An Excuse For Lying by
+      Techdirt From Techdirt'
+- type: entry
   published: "2018-06-02T09:43:00+00:00"
   category:
   - scrobble
@@ -98,29 +123,6 @@
     text: ' \ud83c\udfa7 Listened to Senator Wyden On The Expansion Of FBI Surveillance
       by Techdirt From Techdirt'
 - type: entry
-  published: "2018-06-02T09:04:22+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/272310227-techdirt-can-direct-democracy-work.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/272310227-techdirt-can-direct-democracy-work.mp3
-      name: Can Direct Democracy Work?
-      author: Techdirt
-      content: "Technology has made \"direct democracy\" \u2014 letting citizens vote
-        on specific, granular issues instead of just electing representatives \u2014
-        more viable than ever, but does that mean it's a good idea? This week, we
-        discuss the ins and outs of direct democracy, including a special addendum
-        on the surprising results of the Brexit referendum."
-  content:
-    text: ' \ud83c\udfa7 Listened to Can Direct Democracy Work? by Techdirt From Techdirt'
-- type: entry
   published: "2018-06-02T03:15:06+00:00"
   category:
   - scrobble
@@ -145,7 +147,7 @@
     text: ' \ud83c\udfa7 Listened to Chatbots: Fad Or The Future? by Techdirt From
       Techdirt'
 - type: entry
-  published: "2018-06-02T02:31:29+00:00"
+  published: "2018-06-02T09:04:22+00:00"
   category:
   - scrobble
   - audio
@@ -156,17 +158,15 @@
       url: https://www.techdirt.com/podcast.xml
       photo: ""
       audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/275479880-techdirt-disruption-is-not-an-excuse-for-lying.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/275479880-techdirt-disruption-is-not-an-excuse-for-lying.mp3
-      name: '''Disruption'' Is Not An Excuse For Lying'
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/272310227-techdirt-can-direct-democracy-work.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/272310227-techdirt-can-direct-democracy-work.mp3
+      name: Can Direct Democracy Work?
       author: Techdirt
-      content: "Silicon Valley has produced lots of disruptive technologies \u2014
-        ways to solve problems by upending entrenched industries and, often enough,
-        routing around protectionist regulations. But not all regulations are meaningless,
-        not all industries are easy to disrupt, and sometimes \"fake it until you
-        make it\" becomes plain old lying. This week, we discuss what happens when
-        \"disruption\" goes wrong."
+      content: "Technology has made \"direct democracy\" \u2014 letting citizens vote
+        on specific, granular issues instead of just electing representatives \u2014
+        more viable than ever, but does that mean it's a good idea? This week, we
+        discuss the ins and outs of direct democracy, including a special addendum
+        on the surprising results of the Brexit referendum."
   content:
-    text: ' \ud83c\udfa7 Listened to ''Disruption'' Is Not An Excuse For Lying by
-      Techdirt From Techdirt'
+    text: ' \ud83c\udfa7 Listened to Can Direct Democracy Work? by Techdirt From Techdirt'
 ...

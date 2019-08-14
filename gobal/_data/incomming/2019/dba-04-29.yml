@@ -23,6 +23,28 @@
       infuriating itch by triplejA[ From Dr_Karl_Podcast'
 1:
   type: entry
+  published: "2019-04-29T04:51:58+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2019/04/gms_20190423.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Washing_clothes_part_two.mp3
+      name: 'Washing clothes: part two'
+      author: ABC Radio National
+      content: Clothing is made of threads, which are made of smaller-still fibres.
+        And that's where the dirt hides.
+  content:
+    text: ' \ud83c\udfa7 Listened to Washing clothes: part two by ABC Radio National
+      From Great Moments In Science - with Dr Karl Kruszelnicki'
+2:
+  type: entry
   published: "2019-04-29T04:45:13+00:00"
   category:
   - scrobble
@@ -43,7 +65,7 @@
   content:
     text: ' \ud83c\udfa7 Listened to Washing clothes: part one by ABC Radio National
       From Great Moments In Science - with Dr Karl Kruszelnicki'
-2:
+3:
   type: entry
   published: "2019-04-29T04:59:41+00:00"
   category:
@@ -65,28 +87,6 @@
   content:
     text: ' \ud83c\udfa7 Listened to Vaping, e-cigarettes, and big tobacco by ABC
       Radio National From Great Moments In Science - with Dr Karl Kruszelnicki'
-3:
-  type: entry
-  published: "2019-04-29T04:51:58+00:00"
-  category:
-  - scrobble
-  - audio
-  - Great Moments In Science - with Dr Karl Kruszelnicki
-  - ABC Radio National
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2019/04/gms_20190423.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Washing_clothes_part_two.mp3
-      name: 'Washing clothes: part two'
-      author: ABC Radio National
-      content: Clothing is made of threads, which are made of smaller-still fibres.
-        And that's where the dirt hides.
-  content:
-    text: ' \ud83c\udfa7 Listened to Washing clothes: part two by ABC Radio National
-      From Great Moments In Science - with Dr Karl Kruszelnicki'
 4:
   type: entry
   published: "2019-04-29T01:10:52+00:00"

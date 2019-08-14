@@ -1,5 +1,48 @@
 ---
 - type: entry
+  published: "2018-04-14T10:13:49+00:00"
+  category:
+  - scrobble
+  - audio
+  - Adam Ruins Everything
+  - Adam Ruins Everything
+  listen-of:
+    h-cite:
+      url: http://maximumfun.org/feeds/are.xml
+      photo: ""
+      audio:
+      - http://media.adknit.com/a/f/90/adam-ruins-everything/c2efjh.1-1.mp3
+      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_25_Bud_Hammes_on_Why_Talking_About_Death_Is_LifeChanging.mp3
+      name: 'Ep 25: Bud Hammes on Why Talking About Death Is Life-Changing'
+      author: Adam Ruins Everything
+      content: 'Death is one of the hardest things to talk about, but our guest today
+        encourages us to get real about the end. '
+  content:
+    text: ' \ud83c\udfa7 Listened to Ep 25: Bud Hammes on Why Talking About Death
+      Is Life-Changing by Adam Ruins Everything From Adam Ruins Everything'
+- type: entry
+  published: "2018-04-14T14:30:17+00:00"
+  category:
+  - scrobble
+  - audio
+  - Adam Ruins Everything
+  - Adam Ruins Everything
+  listen-of:
+    h-cite:
+      url: http://maximumfun.org/feeds/are.xml
+      photo: ""
+      audio:
+      - http://media.adknit.com/a/f/90/adam-ruins-everything/d72td0.1-1.mp3
+      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_21_Jan_MacKell_Collins_On_How_Prostitution_Built_The_Wild_West.mp3
+      name: 'Ep 21: Jan MacKell Collins On How Prostitution Built The Wild West'
+      author: Adam Ruins Everything
+      content: So much of what we've seen on TV and in film about the Wild West depicts
+        the rugged cowboy who is always ready for a showdown. But the Wild West was
+        much more nuanced than that.
+  content:
+    text: ' \ud83c\udfa7 Listened to Ep 21: Jan MacKell Collins On How Prostitution
+      Built The Wild West by Adam Ruins Everything From Adam Ruins Everything'
+- type: entry
   published: "2018-04-14T12:35:33+00:00"
   category:
   - scrobble
@@ -41,49 +84,6 @@
   content:
     text: ' \ud83c\udfa7 Listened to Ep 22: Why Fast Fashion Fails Us by Adam Ruins
       Everything From Adam Ruins Everything'
-- type: entry
-  published: "2018-04-14T14:30:17+00:00"
-  category:
-  - scrobble
-  - audio
-  - Adam Ruins Everything
-  - Adam Ruins Everything
-  listen-of:
-    h-cite:
-      url: http://maximumfun.org/feeds/are.xml
-      photo: ""
-      audio:
-      - http://media.adknit.com/a/f/90/adam-ruins-everything/d72td0.1-1.mp3
-      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_21_Jan_MacKell_Collins_On_How_Prostitution_Built_The_Wild_West.mp3
-      name: 'Ep 21: Jan MacKell Collins On How Prostitution Built The Wild West'
-      author: Adam Ruins Everything
-      content: So much of what we've seen on TV and in film about the Wild West depicts
-        the rugged cowboy who is always ready for a showdown. But the Wild West was
-        much more nuanced than that.
-  content:
-    text: ' \ud83c\udfa7 Listened to Ep 21: Jan MacKell Collins On How Prostitution
-      Built The Wild West by Adam Ruins Everything From Adam Ruins Everything'
-- type: entry
-  published: "2018-04-14T10:13:49+00:00"
-  category:
-  - scrobble
-  - audio
-  - Adam Ruins Everything
-  - Adam Ruins Everything
-  listen-of:
-    h-cite:
-      url: http://maximumfun.org/feeds/are.xml
-      photo: ""
-      audio:
-      - http://media.adknit.com/a/f/90/adam-ruins-everything/c2efjh.1-1.mp3
-      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_25_Bud_Hammes_on_Why_Talking_About_Death_Is_LifeChanging.mp3
-      name: 'Ep 25: Bud Hammes on Why Talking About Death Is Life-Changing'
-      author: Adam Ruins Everything
-      content: 'Death is one of the hardest things to talk about, but our guest today
-        encourages us to get real about the end. '
-  content:
-    text: ' \ud83c\udfa7 Listened to Ep 25: Bud Hammes on Why Talking About Death
-      Is Life-Changing by Adam Ruins Everything From Adam Ruins Everything'
 - type: entry
   published: "2018-04-14T11:40:03+00:00"
   category:

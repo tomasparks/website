@@ -1,0 +1,112 @@
+---
+- type: entry
+  published: "2019-08-12T19:25:09+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/662091530-techdirt-a-policy-bootcamp-for-technologists.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/662091530-techdirt-a-policy-bootcamp-for-technologists.mp3
+      name: A Policy Bootcamp For Technologists
+      author: Techdirt
+      content: There's a new but growing desire, both within the tech industry and
+        among onlookers, for more technologists to get involved in public policy and
+        doing work to serve the public interest. Various plans to help make this happen
+        are starting to appear, and an especially interesting one is the Aspen Tech
+        Policy Hub, which aims to help establish a new generation of tech policy entrepreneurs
+        using an incubator model in the vein of Y Combinator. This week, Mike is joined
+        by director Betsy Cooper to discuss the Hub's resources and programs, its
+        inaugural cohort of technologists, and what comes next.
+  content:
+    text: ' \ud83c\udfa7 Listened to A Policy Bootcamp For Technologists by Techdirt
+      From Techdirt'
+- type: entry
+  published: "2019-08-12T19:48:58+00:00"
+  category:
+  - scrobble
+  - audio
+  - IRL - Online Life Is Real Life
+  - Firefox, backed by Mozilla
+  listen-of:
+    h-cite:
+      url: https://feeds.mozilla-podcasts.org/irl
+      photo: ""
+      audio:
+      - https://tracking.feedpress.it/link/17512/12735597/irl_s5_e05_5g_privilege_final_tc.mp3
+      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Firefox_backed_by_Mozilla/irl_s5_e05_5g_privilege_final_tc.mp3
+      name: The 5G Privilege
+      author: Firefox, backed by Mozilla
+      content: "\u20185G\u2019 is a new buzzword floating around every corner of the
+        internet. But what exactly is this hyped-up cellular network, often referred
+        to as the next technological evolution in mobile internet communications?
+        Will it really be 100 times faster than what we have now? What will it make
+        possible that has never been possible before? Who will reap the benefits?
+        And, who will get left behind?\n\nMike Thelander at Signals Research Group
+        imagines the wild ways 5G might change our lives in the near future. Rhiannon
+        Williams hits the street and takes a new 5G network out for a test drive.
+        Amy France lives in a very rural part of Kansas \u2014 she dreams of the day
+        that true, fast internet could come to her farm (but isn\u2019t holding her
+        breath). Larry Irving explains why technology has never been provided equally
+        to everyone, and why he fears 5G will leave too many people out. Shireen Santosham,
+        though, is doing what she can to leverage 5G deployment in order to bridge
+        the digital divide in her city of San Jose. "
+  content:
+    text: ' \ud83c\udfa7 Listened to The 5G Privilege by Firefox, backed by Mozilla
+      From IRL - Online Life Is Real Life'
+- type: entry
+  published: "2019-08-12T17:29:00+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - https://media.acast.com/internethistorypodcast/201.thehistoryofaudiblewithangelikafuellemann/media.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/201_The_History_of_Audible_With_Angelika_Fuellemann.mp3
+      name: 201. The History of Audible With Angelika Fuellemann
+      author: Brian McCullough
+      content: "Angelika Fuellemann is a designer who worked early on with BookSense.com,
+        then got hired by Audible early on, so this is the early story of Audible.
+        It\u2019s funny\u2026 audio, streaming music, podcasts, audiobooks, it seems
+        so obvious now, but it really is funny to look back and think about how off
+        the wall this seamed before the smartphone. You mean books on tape will be
+        a thing?&nbsp;  For information regarding your data privacy, visit acast.com/privacy"
+  content:
+    text: ' \ud83c\udfa7 Listened to 201. The History of Audible With Angelika Fuellemann
+      by Brian McCullough From Internet History Podcast'
+- type: entry
+  published: "2019-08-12T23:49:36+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - https://media.acast.com/internethistorypodcast/200.professionalbloggingpioneerjoshmarshall/media.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/200_Professional_Blogging_Pioneer_Josh_Marshall.mp3
+      name: 200. Professional Blogging Pioneer Josh Marshall
+      author: Brian McCullough
+      content: Josh Marshall is one of the key people who brought blogging into the
+        realm of serious, award winning and respectable journalism. The story of his
+        blog/publication, Talking Points Memo, or TPM is the story of blogging becoming
+        legit and serious, but also the story of modern media over the last 20 years
+        of digital disruption.  For information regarding your data privacy, visit
+        acast.com/privacy
+  content:
+    text: ' \ud83c\udfa7 Listened to 200. Professional Blogging Pioneer Josh Marshall
+      by Brian McCullough From Internet History Podcast'
+...

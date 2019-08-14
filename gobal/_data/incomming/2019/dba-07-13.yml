@@ -1,0 +1,46 @@
+---
+- type: entry
+  published: "2019-07-13T00:01:58+00:00"
+  category:
+  - scrobble
+  - audio
+  - 'RPGMP3: Yorkton Gamer Guild Actual Play Podcast'
+  - Yorkton Gamer Guild
+  listen-of:
+    h-cite:
+      url: http://rpgmp3.com/v5/category/group/yorktongamerguild/feed/
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Yorkton_Gamer_Guild/pathfinder_dragons_delve_part_23.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/pathfinder_dragons_delve_part_23.mp3
+      name: "Dragon\u2019s Delve Session 23"
+      author: Yorkton Gamer Guild
+      content: 'Session 23 - Episode 23: The Final Guardians of the Fountain'
+  content:
+    text: " \\ud83c\\udfa7 Listened to Dragon\u2019s Delve Session 23 by @rpgmp3 ,
+      @GM_Lockhart & @ygguild From #RPGMP3ActualPlayPodcast #YorktonGamerGuildActualPlayPodcast"
+- type: entry
+  published: "2019-07-13T00:23:13+00:00"
+  category:
+  - scrobble
+  - audio
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
+  listen-of:
+    h-cite:
+      url: http://textfiles.libsyn.com/rss
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_70.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Helping_Episode.mp3
+      name: The Helping Episode
+      author: Jason Scott
+      content: 'The Helping Episode: A Tired Mom, The Urge to Help, Not Just Collecting,
+        TIM Help Files, Heat Strick, Users Versus SysOps, Early Website Writing, Google''s
+        Eldritch Horror, Sendmail, HTML, Reaching Out, A Better Place, Strick''s Language
+        The Internet Archive Unofficial Wiki, my most recent attempt to "Help", is
+        at https://internetarchive.archiveteam.org. My other attempts to "help" are
+        scattered across the wasteland.'
+  content:
+    text: ' \ud83c\udfa7 Listened to The Helping Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
+...

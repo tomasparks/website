@@ -1,0 +1,22 @@
+---
+- type: entry
+  published: "2019-08-06T17:03:46+00:00"
+  category:
+  - scrobble
+  - audio
+  - 'RPGMP3: Yorkton Gamer Guild Actual Play Podcast'
+  - Yorkton Gamer Guild
+  listen-of:
+    h-cite:
+      url: http://rpgmp3.com/v5/category/group/yorktongamerguild/feed/
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Yorkton_Gamer_Guild/pathfinder_dragons_delve_part_25.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/pathfinder_dragons_delve_part_25.mp3
+      name: "Dragon\u2019s Delve Session 25"
+      author: Yorkton Gamer Guild
+      content: Session 25 - Pha-Que
+  content:
+    text: " \\ud83c\\udfa7 Listened to Dragon\u2019s Delve Session 25 by @rpgmp3 ,
+      @GM_Lockhart & @ygguild From #RPGMP3ActualPlayPodcast #YorktonGamerGuildActualPlayPodcast"
+...

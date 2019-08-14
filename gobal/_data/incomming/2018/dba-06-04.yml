@@ -1,32 +1,5 @@
 ---
 - type: entry
-  published: "2018-06-04T05:09:25+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/259877905-techdirt-is-it-futile-to-draw-borders-on-the-internet.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/259877905-techdirt-is-it-futile-to-draw-borders-on-the-internet.mp3
-      name: Is It Futile To Draw Borders On The Internet?
-      author: Techdirt
-      content: "In a world defined by borders for thousands of years, the global nature
-        of the internet has caused all sorts of confusion and absurdity. Geographically
-        restricted content, fuzzily defined jurisdictions, libel tourism \u2014 these
-        are all symptoms of a border-filled world coming to terms with a borderless
-        network. Since attempts to carve up the internet along geographical lines
-        aren't likely to stop anytime soon, this week we ask the question: are such
-        attempts futile, and could online borders really serve any purpose to begin
-        with?"
-  content:
-    text: ' \ud83c\udfa7 Listened to Is It Futile To Draw Borders On The Internet?
-      by Techdirt From Techdirt'
-- type: entry
   published: "2018-06-04T12:32:58+00:00"
   category:
   - scrobble
@@ -52,7 +25,7 @@
   content:
     text: ' \ud83c\udfa7 Listened to Hacking The Patent System by Techdirt From Techdirt'
 - type: entry
-  published: "2018-06-04T05:47:25+00:00"
+  published: "2018-06-04T06:25:24+00:00"
   category:
   - scrobble
   - audio
@@ -63,70 +36,17 @@
       url: https://www.techdirt.com/podcast.xml
       photo: ""
       audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/257482964-techdirt-free-culture-and-aaron-swartz-part-one.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/257482964-techdirt-free-culture-and-aaron-swartz-part-one.mp3
-      name: Free Culture And Aaron Swartz (Part One)
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/258664384-techdirt-free-culture-and-aaron-swartz-part-two.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/258664384-techdirt-free-culture-and-aaron-swartz-part-two.mp3
+      name: Free Culture And Aaron Swartz (Part Two)
       author: Techdirt
-      content: "Anyone even remotely interested in free culture, the internet and
-        copyright surely knows the name Aaron Swartz \u2014 but only some truly understand
-        what made him tick, and why he was considered so special and important in
-        that world. This week and next, we're joined by Justin Peters, author of The
-        Idealist, a new book that takes a close look at Aaron himself as well as the
-        internet culture that gave rise to his attitudes and activism, which is the
-        focus of this first half of the discussion."
+      content: Last week we were joined by Justin Peters, author of the new book The
+        Idealist all about Aaron Swartz, free culture and digital activism. The first
+        half of the discussion focused on that broader context, and this week we continue
+        with a closer look at Aaron himself.
   content:
-    text: ' \ud83c\udfa7 Listened to Free Culture And Aaron Swartz (Part One) by Techdirt
+    text: ' \ud83c\udfa7 Listened to Free Culture And Aaron Swartz (Part Two) by Techdirt
       From Techdirt'
-- type: entry
-  published: "2018-06-04T01:05:42+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/263433137-techdirt-is-there-enough-demand-for-the-on-demand-economy.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/263433137-techdirt-is-there-enough-demand-for-the-on-demand-economy.mp3
-      name: Is There Enough Demand For The On Demand Economy?
-      author: Techdirt
-      content: The "gig economy" of on-demand peer-to-peer services like Uber has
-        been gaining traction, but not every company is faring so well. In some areas,
-        the rush of entrants has outstripped demand and left on-demand providers struggling
-        to stay afloat. This week we discuss what happens when there's not enough
-        demand for an on-demand platform, and what it might mean for the sector as
-        a whole.
-  content:
-    text: ' \ud83c\udfa7 Listened to Is There Enough Demand For The On Demand Economy?
-      by Techdirt From Techdirt'
-- type: entry
-  published: "2018-06-04T10:29:29+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/254287528-techdirt-why-are-there-so-many-messaging-companies.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/254287528-techdirt-why-are-there-so-many-messaging-companies.mp3
-      name: Why Are There So Many Messaging Companies?
-      author: Techdirt
-      content: 'If you want to send someone a message online today, you''ve got a
-        hell of a lot of options. Far from the erstwhile IM dominance of ICQ, today
-        there are messaging platforms of every shape and size, a blurring of the lines
-        between messaging and social media, and messaging components incorporated
-        into almost everything. This week, we ask a simple question: why so many,
-        and what are they all for?'
-  content:
-    text: ' \ud83c\udfa7 Listened to Why Are There So Many Messaging Companies? by
-      Techdirt From Techdirt'
 - type: entry
   published: "2018-06-04T09:37:22+00:00"
   category:
@@ -155,6 +75,84 @@
     text: ' \ud83c\udfa7 Listened to The Great Encryption Debate: Should There Be
       Back Doors? by Techdirt From Techdirt'
 - type: entry
+  published: "2018-06-04T05:09:25+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/259877905-techdirt-is-it-futile-to-draw-borders-on-the-internet.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/259877905-techdirt-is-it-futile-to-draw-borders-on-the-internet.mp3
+      name: Is It Futile To Draw Borders On The Internet?
+      author: Techdirt
+      content: "In a world defined by borders for thousands of years, the global nature
+        of the internet has caused all sorts of confusion and absurdity. Geographically
+        restricted content, fuzzily defined jurisdictions, libel tourism \u2014 these
+        are all symptoms of a border-filled world coming to terms with a borderless
+        network. Since attempts to carve up the internet along geographical lines
+        aren't likely to stop anytime soon, this week we ask the question: are such
+        attempts futile, and could online borders really serve any purpose to begin
+        with?"
+  content:
+    text: ' \ud83c\udfa7 Listened to Is It Futile To Draw Borders On The Internet?
+      by Techdirt From Techdirt'
+- type: entry
+  published: "2018-06-04T10:29:29+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/254287528-techdirt-why-are-there-so-many-messaging-companies.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/254287528-techdirt-why-are-there-so-many-messaging-companies.mp3
+      name: Why Are There So Many Messaging Companies?
+      author: Techdirt
+      content: 'If you want to send someone a message online today, you''ve got a
+        hell of a lot of options. Far from the erstwhile IM dominance of ICQ, today
+        there are messaging platforms of every shape and size, a blurring of the lines
+        between messaging and social media, and messaging components incorporated
+        into almost everything. This week, we ask a simple question: why so many,
+        and what are they all for?'
+  content:
+    text: ' \ud83c\udfa7 Listened to Why Are There So Many Messaging Companies? by
+      Techdirt From Techdirt'
+- type: entry
+  published: "2018-06-04T05:47:25+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/257482964-techdirt-free-culture-and-aaron-swartz-part-one.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/257482964-techdirt-free-culture-and-aaron-swartz-part-one.mp3
+      name: Free Culture And Aaron Swartz (Part One)
+      author: Techdirt
+      content: "Anyone even remotely interested in free culture, the internet and
+        copyright surely knows the name Aaron Swartz \u2014 but only some truly understand
+        what made him tick, and why he was considered so special and important in
+        that world. This week and next, we're joined by Justin Peters, author of The
+        Idealist, a new book that takes a close look at Aaron himself as well as the
+        internet culture that gave rise to his attitudes and activism, which is the
+        focus of this first half of the discussion."
+  content:
+    text: ' \ud83c\udfa7 Listened to Free Culture And Aaron Swartz (Part One) by Techdirt
+      From Techdirt'
+- type: entry
   published: "2018-06-04T04:35:04+00:00"
   category:
   - scrobble
@@ -179,7 +177,7 @@
     text: ' \ud83c\udfa7 Listened to Should Internet Companies Sway Elections? by
       Techdirt From Techdirt'
 - type: entry
-  published: "2018-06-04T06:25:24+00:00"
+  published: "2018-06-04T01:05:42+00:00"
   category:
   - scrobble
   - audio
@@ -190,17 +188,19 @@
       url: https://www.techdirt.com/podcast.xml
       photo: ""
       audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/258664384-techdirt-free-culture-and-aaron-swartz-part-two.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/258664384-techdirt-free-culture-and-aaron-swartz-part-two.mp3
-      name: Free Culture And Aaron Swartz (Part Two)
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/263433137-techdirt-is-there-enough-demand-for-the-on-demand-economy.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/263433137-techdirt-is-there-enough-demand-for-the-on-demand-economy.mp3
+      name: Is There Enough Demand For The On Demand Economy?
       author: Techdirt
-      content: Last week we were joined by Justin Peters, author of the new book The
-        Idealist all about Aaron Swartz, free culture and digital activism. The first
-        half of the discussion focused on that broader context, and this week we continue
-        with a closer look at Aaron himself.
+      content: The "gig economy" of on-demand peer-to-peer services like Uber has
+        been gaining traction, but not every company is faring so well. In some areas,
+        the rush of entrants has outstripped demand and left on-demand providers struggling
+        to stay afloat. This week we discuss what happens when there's not enough
+        demand for an on-demand platform, and what it might mean for the sector as
+        a whole.
   content:
-    text: ' \ud83c\udfa7 Listened to Free Culture And Aaron Swartz (Part Two) by Techdirt
-      From Techdirt'
+    text: ' \ud83c\udfa7 Listened to Is There Enough Demand For The On Demand Economy?
+      by Techdirt From Techdirt'
 - type: entry
   published: "2018-06-04T11:04:55+00:00"
   category:
@@ -227,6 +227,30 @@
     text: ' \ud83c\udfa7 Listened to Net Neutrality, Zero Rating & The Games Internet
       Providers Play by Techdirt From Techdirt'
 - type: entry
+  published: "2018-06-04T11:38:59+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/250873979-techdirt-apple-the-fbi-and-you.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/250873979-techdirt-apple-the-fbi-and-you.mp3
+      name: Apple, The FBI & You
+      author: Techdirt
+      content: I don't think I need to reiterate how important the battle over the
+        future of encryption is. It's not new, but rather the latest clash in a fight
+        that has been raging for years, and the high-profile example of the San Bernardino
+        attacker's iPhone has cast a spotlight on it. This week, we're joined by longtime
+        Techdirt friend Marvin Ammori to dig into the details of this issue, its potential
+        consequences, and its context in the history of encryption.
+  content:
+    text: ' \ud83c\udfa7 Listened to Apple, The FBI & You by Techdirt From Techdirt'
+- type: entry
   published: "2018-06-04T03:52:49+00:00"
   category:
   - scrobble
@@ -251,30 +275,6 @@
   content:
     text: ' \ud83c\udfa7 Listened to The Tough Choices Platforms Make by Techdirt
       From Techdirt'
-- type: entry
-  published: "2018-06-04T11:38:59+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/250873979-techdirt-apple-the-fbi-and-you.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/250873979-techdirt-apple-the-fbi-and-you.mp3
-      name: Apple, The FBI & You
-      author: Techdirt
-      content: I don't think I need to reiterate how important the battle over the
-        future of encryption is. It's not new, but rather the latest clash in a fight
-        that has been raging for years, and the high-profile example of the San Bernardino
-        attacker's iPhone has cast a spotlight on it. This week, we're joined by longtime
-        Techdirt friend Marvin Ammori to dig into the details of this issue, its potential
-        consequences, and its context in the history of encryption.
-  content:
-    text: ' \ud83c\udfa7 Listened to Apple, The FBI & You by Techdirt From Techdirt'
 - type: entry
   published: "2018-06-04T21:45:42+00:00"
   category:

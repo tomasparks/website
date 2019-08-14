@@ -257,6 +257,12 @@ Techdirt-Podcast-by-Techdirt:
   559576152-techdirt-the-eu-endangers-free-speech-online-again.mp3: true
   262340001-techdirt-the-tough-choices-platforms-make.mp3: true
   249701635-techdirt-hacking-the-patent-system.mp3: true
+  648758960-techdirt-public-interest-tech-with-bruce-schneier.mp3: true
+  662091530-techdirt-a-policy-bootcamp-for-technologists.mp3: true
+  641991951-techdirt-hawleys-bill-sucks-let-us-count-the-ways.mp3: true
+  655390613-techdirt-dont-panic.mp3: true
+  638665395-techdirt-experimenting-with-twitch.mp3: true
+  665334242-techdirt-whats-really-in-the-ftcs-facebook-settlement-part-one.mp3: false
 IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla:
   4758d08e.mp3: true
   5de33dc3.mp3: true
@@ -440,6 +446,7 @@ Future_Tense_ABC_RN-by-ABC_Radio_National:
   fte_20190602.mp3: true
   fte_20190526.mp3: true
   fte_20190519.mp3: true
+  fte_20190714.mp3: true
 Reply_All-Podcast-by-Gimlet:
   6_This_Proves_Everything.mp3: true
   5_Jennicam.mp3: true
@@ -676,6 +683,8 @@ Internet_History_Podcast-by-Brian_McCullough:
   195_Microsoft_CTO_Kevin_Scott.mp3: true
   198_Inventor_of_the_Hashtag_Chris_Messina.mp3: true
   199_Is_Tech_Making_Us_Bored_Lonely_Angry_Stupid.mp3: true
+  201_The_History_of_Audible_With_Angelika_Fuellemann.mp3: true
+  200_Professional_Blogging_Pioneer_Josh_Marshall.mp3: true
 clevercast-by-Jonathan_LaCour:
   2c94f008a9.mp3: true
   c6b019d351.mp3: true
@@ -877,8 +886,12 @@ RPGMP3_Actual_Play_Podcast-by-Hal:
   pathfinder_dragons_delve_part_16.mp3: true
   pathfinder_dragons_delve_part_17.mp3: true
   pathfinder_dragons_delve_part_19.mp3: true
-  pathfinder_dragons_delve_part_20.mp3: false
-  pathfinder_dragons_delve_part_21.mp3: false
+  pathfinder_dragons_delve_part_20.mp3: true
+  pathfinder_dragons_delve_part_21.mp3: true
+  pathfinder_dragons_delve_part_25.mp3: true
+  pathfinder_dragons_delve_part_23.mp3: true
+  pathfinder_dragons_delve_part_24.mp3: true
+  pathfinder_dragons_delve_part_22.mp3: true
 5_live_Science_Podcast-by-BBC_Radio_5_live:
   p068pk6z.mp3: true
   p068v1bw.mp3: true
@@ -1116,6 +1129,10 @@ Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott:
   The_Games_Episode.mp3: true
   The_Long_Drive_Episode.mp3: true
   The_PUBG_and_Life_Strats_Episode.mp3: true
+  The_Helping_Episode.mp3: true
+  The_Project_Everything_Episode.mp3: true
+  Three_Stories.mp3: true
+  The_Hackers_Play_Episode.mp3: true
 Not_Another_DD_Podcast-by-HeadGum:
   mp3: true
 Stephen_Frys_Great_Leap_Years-Podcast-by-Stephen_Fry:
@@ -1130,4 +1147,10 @@ TED_Radio_Hour-Podcast-by-NPR:
   20180601_ted_tedpod.mp3: true
 Reality_20-by-Linux_Journal:
   LinuxJournal_Reality2.0_Episode20.mp3: true
+IRL_Online_Life_Is_Real_Life-Podcast-by-Firefox_backed_by_Mozilla:
+  irl_s5e03_what_is_the_carbon_footprint_of_irl_final_june_27_tc.mp3: true
+  irl_s5_e05_5g_privilege_final_tc.mp3: true
+  IRL_S5E01_Privacy_Policy_Policies_FINAL_tc.mp3: true
+  irl_s5e04_the_tech_worker_resistance_final_tc.mp3: true
+  irl_s5_e02_democracy_and_the_internet_final_tc.mp3: true
 ...

@@ -33,38 +33,6 @@
     text: ' \ud83c\udfa7 Listened to The Surveillance Economy by Mozilla From IRL
       - Online Life Is Real Life'
 - type: entry
-  published: "2019-03-24T02:36:08+00:00"
-  category:
-  - scrobble
-  - audio
-  - IRL - Online Life Is Real Life
-  - Mozilla
-  listen-of:
-    h-cite:
-      url: https://feeds.mozilla-podcasts.org/irl
-      photo: ""
-      audio:
-      - https://tracking.feedpress.it/link/17512/10960377/b6710001.mp3
-      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/b6710001.mp3
-      name: TL;DR
-      author: Mozilla
-      content: "TL;DR: We have access to more things to read than ever before. Too
-        much, in fact. Our reading habits have shifted. We skim a lot. We look for
-        full stories baked into headlines. Our eyes bounce around from one article
-        to the next, and we try and fail to manage how many things we read at once.
-        Some of us can no longer concentrate on a book\u2014no matter how good it
-        might be. Reading has changed. And we\u2019re changing alongside it.\n\nWith
-        host Manoush Zomorodi, Derek Thompson at the Atlantic talks headlines; Ernie
-        Smith from Tedium rails against our bad browser tab habits; librarian rock
-        star Nancy Pearl makes the case for analog books; Beth Rogowsky discusses
-        if audiobooks can replace reading; and Nate Weiner from Mozilla\u2019s Pocket
-        shows us one way we can manage our reading overload. Happy New Year \u2014
-        \ let\u2019s get working on that \u201CI will read more this year\u201D resolution.\n\nIRL
-        is an original podcast from Mozilla. For more on the series go to irlpodcast.org\n"
-  content:
-    text: ' \ud83c\udfa7 Listened to TL;DR by Mozilla From IRL - Online Life Is Real
-      Life'
-- type: entry
   published: "2019-03-24T06:34:09+00:00"
   category:
   - scrobble
@@ -97,6 +65,38 @@
   content:
     text: ' \ud83c\udfa7 Listened to What if women built the internet? by Mozilla
       From IRL - Online Life Is Real Life'
+- type: entry
+  published: "2019-03-24T02:36:08+00:00"
+  category:
+  - scrobble
+  - audio
+  - IRL - Online Life Is Real Life
+  - Mozilla
+  listen-of:
+    h-cite:
+      url: https://feeds.mozilla-podcasts.org/irl
+      photo: ""
+      audio:
+      - https://tracking.feedpress.it/link/17512/10960377/b6710001.mp3
+      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/b6710001.mp3
+      name: TL;DR
+      author: Mozilla
+      content: "TL;DR: We have access to more things to read than ever before. Too
+        much, in fact. Our reading habits have shifted. We skim a lot. We look for
+        full stories baked into headlines. Our eyes bounce around from one article
+        to the next, and we try and fail to manage how many things we read at once.
+        Some of us can no longer concentrate on a book\u2014no matter how good it
+        might be. Reading has changed. And we\u2019re changing alongside it.\n\nWith
+        host Manoush Zomorodi, Derek Thompson at the Atlantic talks headlines; Ernie
+        Smith from Tedium rails against our bad browser tab habits; librarian rock
+        star Nancy Pearl makes the case for analog books; Beth Rogowsky discusses
+        if audiobooks can replace reading; and Nate Weiner from Mozilla\u2019s Pocket
+        shows us one way we can manage our reading overload. Happy New Year \u2014
+        \ let\u2019s get working on that \u201CI will read more this year\u201D resolution.\n\nIRL
+        is an original podcast from Mozilla. For more on the series go to irlpodcast.org\n"
+  content:
+    text: ' \ud83c\udfa7 Listened to TL;DR by Mozilla From IRL - Online Life Is Real
+      Life'
 - type: entry
   published: "2019-03-24T03:04:25+00:00"
   category:

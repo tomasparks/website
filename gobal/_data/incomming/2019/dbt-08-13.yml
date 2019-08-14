@@ -1,0 +1,40 @@
+---
+- type: entry
+  published: "2019-08-13T16:48:35+00:00"
+  url: https://twitter.com/tomasparksts/status/1161318643868717057
+  category:
+  - https://twitter.com/Bence_Balaton
+  - https://twitter.com/aleksamilicevic
+  - https://twitter.com/PixelGuff
+  - https://twitter.com/Octav1usKitten
+  in-reply-to:
+  - https://twitter.com/Bence_Balaton/status/1161294246034493441
+  content:
+    text: she missing the evil goatee
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+  refs:
+    https://twitter.com/Bence_Balaton:
+      type: card
+      name: Ben Balaton
+      url: https://twitter.com/Bence_Balaton
+      photo: ~
+    https://twitter.com/aleksamilicevic:
+      type: card
+      name: "Aleksa Mili\u0107evi\u0107 #FBPE"
+      url: https://twitter.com/aleksamilicevic
+      photo: ~
+    https://twitter.com/PixelGuff:
+      type: card
+      name: PixelGuff
+      url: https://twitter.com/PixelGuff
+      photo: ~
+    https://twitter.com/Octav1usKitten:
+      type: card
+      name: King Octav1us
+      url: https://twitter.com/Octav1usKitten
+      photo: ~
+...

@@ -1,75 +1,5 @@
 ---
 - type: entry
-  published: "2018-05-25T22:18:07+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/324153636-techdirt-no-the-mp3-isnt-dead.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/324153636-techdirt-no-the-mp3-isnt-dead.mp3
-      name: No, The MP3 Isn't Dead
-      author: Techdirt
-      content: "When the \"death of the MP3\" started being reported, we were among
-        the very few blogs that said umm, no \u2014 but the deluge of eulogies for
-        the still-thriving format has been overwhelming and quite surprising. This
-        week I join the podcast to discuss why the MP3 isn't dead, and how so much
-        of the tech press got it so wrong."
-  content:
-    text: ' \ud83c\udfa7 Listened to No, The MP3 Isn''t Dead by Techdirt From Techdirt'
-- type: entry
-  published: "2018-05-25T21:34:31+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/325238061-techdirt-the-future-of-internet-copyright-with-techfreedom.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/325238061-techdirt-the-future-of-internet-copyright-with-techfreedom.mp3
-      name: The Future Of Internet Copyright, With TechFreedom
-      author: Techdirt
-      content: This week we've got a special crossover episode with our friends at
-        TechFreedom. Mike joined their Tech Policy Podcast recently to discuss notice
-        and takedown systems and the future of internet copyright, and we're cross-posting
-        the conversation as an episode of the Techdirt Podcast too.
-  content:
-    text: ' \ud83c\udfa7 Listened to The Future Of Internet Copyright, With TechFreedom
-      by Techdirt From Techdirt'
-- type: entry
-  published: "2018-05-25T18:18:33+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/330399767-techdirt-patent-trolls-with-cloudflares-general-counsel.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/330399767-techdirt-patent-trolls-with-cloudflares-general-counsel.mp3
-      name: Patent Trolls, With Cloudflare's General Counsel
-      author: Techdirt
-      content: As we reported last month, CDN provider Cloudflare has decided to hit
-        back against patent troll Blackbird Technologies with an aggressive strategy.
-        Leading this charge is Doug Kramer, Cloudflare's General Counsel, who joins
-        us this week to discuss the current situation with Blackbird and the broader
-        patent landscape.
-  content:
-    text: ' \ud83c\udfa7 Listened to Patent Trolls, With Cloudflare''s General Counsel
-      by Techdirt From Techdirt'
-- type: entry
   published: "2018-05-25T19:14:37+00:00"
   category:
   - scrobble
@@ -101,104 +31,6 @@
   content:
     text: ' \ud83c\udfa7 Listened to Copyright, Music & ''Theft'' by Techdirt From
       Techdirt'
-- type: entry
-  published: "2018-05-25T20:48:52+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/326742815-techdirt-re-decentralizing-the-web.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/326742815-techdirt-re-decentralizing-the-web.mp3
-      name: Re-Decentralizing The Web
-      author: Techdirt
-      content: One of the fundamental strengths of the internet has always been its
-        decentralization, but over time we've seen a bunch of different forces start
-        to distort this setup. This week, we're joined by Jamie King, director of
-        Steal This Film and host of the Steal This Show podcast to discuss the ongoing
-        efforts to restore the decentralization of the web.
-  content:
-    text: ' \ud83c\udfa7 Listened to Re-Decentralizing The Web by Techdirt From Techdirt'
-- type: entry
-  published: "2018-05-25T19:55:16+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/327909544-techdirt-talking-freedom-of-information-with-a-foia-terrorist.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/327909544-techdirt-talking-freedom-of-information-with-a-foia-terrorist.mp3
-      name: Talking Freedom Of Information With A "FOIA Terrorist"
-      author: Techdirt
-      content: "We've made FOIA requests several times over the years, with varying
-        results \u2014 but there are others out there who have dedicated their careers
-        to understanding and using the FOIA process. One such person is Jason Leopold,
-        a Buzzfeed reporter and FOIA litigator who was dubbed a \"FOIA terrorist\"
-        by the government. He joins us this week on the podcast to discuss the ins
-        and outs of Freedom Of Information."
-  content:
-    text: ' \ud83c\udfa7 Listened to Talking Freedom Of Information With A "FOIA Terrorist"
-      by Techdirt From Techdirt'
-- type: entry
-  published: "2018-05-25T17:39:24+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/332754227-techdirt-rob-reid-on-writing-publishing-a-scifi-novel-in-2017.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/332754227-techdirt-rob-reid-on-writing-publishing-a-scifi-novel-in-2017.mp3
-      name: Rob Reid On Writing & Publishing A SciFi Novel In 2017
-      author: Techdirt
-      content: If you read our post yesterday, you know that Techdirt friend Rob Reid
-        is releasing his latest novel, After On by publishing the first near-half
-        of the book for free on Medium ( https://medium.com/s/after-on/ ). As promised,
-        today we're joined by Rob on the podcast for a discussion about the book,
-        the launch, and what it's like to publish science fiction in 2017. And don't
-        forget to get your copy of the book at http://amzn.to/2sWUBRE
-  content:
-    text: ' \ud83c\udfa7 Listened to Rob Reid On Writing & Publishing A SciFi Novel
-      In 2017 by Techdirt From Techdirt'
-- type: entry
-  published: "2018-05-25T16:46:53+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/333766433-techdirt-is-it-bad-if-facebook-copies-everything-snapchat-does.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/333766433-techdirt-is-it-bad-if-facebook-copies-everything-snapchat-does.mp3
-      name: Is It Bad If Facebook Copies Everything Snapchat Does?
-      author: Techdirt
-      content: 'You may have heard the joke: the best way to do product design for
-        Facebook is to get a job at Snapchat. We''ve all seen how, after failing to
-        buy the company, Facebook has wasted little time in building its own versions
-        of most of Snapchat''s key features. So... is this a problem? That''s the
-        subject on this week''s episode, were we discuss the ins and outs of this
-        kind of copying and what it might mean for the future of social media.'
-  content:
-    text: ' \ud83c\udfa7 Listened to Is It Bad If Facebook Copies Everything Snapchat
-      Does? by Techdirt From Techdirt'
 - type: entry
   published: "2018-05-25T11:36:33+00:00"
   category:
@@ -246,6 +78,174 @@
   content:
     text: ' \ud83c\udfa7 Listened to Truth And Fiction With Cory Doctorow by Techdirt
       From Techdirt'
+- type: entry
+  published: "2018-05-25T20:48:52+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/326742815-techdirt-re-decentralizing-the-web.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/326742815-techdirt-re-decentralizing-the-web.mp3
+      name: Re-Decentralizing The Web
+      author: Techdirt
+      content: One of the fundamental strengths of the internet has always been its
+        decentralization, but over time we've seen a bunch of different forces start
+        to distort this setup. This week, we're joined by Jamie King, director of
+        Steal This Film and host of the Steal This Show podcast to discuss the ongoing
+        efforts to restore the decentralization of the web.
+  content:
+    text: ' \ud83c\udfa7 Listened to Re-Decentralizing The Web by Techdirt From Techdirt'
+- type: entry
+  published: "2018-05-25T21:34:31+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/325238061-techdirt-the-future-of-internet-copyright-with-techfreedom.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/325238061-techdirt-the-future-of-internet-copyright-with-techfreedom.mp3
+      name: The Future Of Internet Copyright, With TechFreedom
+      author: Techdirt
+      content: This week we've got a special crossover episode with our friends at
+        TechFreedom. Mike joined their Tech Policy Podcast recently to discuss notice
+        and takedown systems and the future of internet copyright, and we're cross-posting
+        the conversation as an episode of the Techdirt Podcast too.
+  content:
+    text: ' \ud83c\udfa7 Listened to The Future Of Internet Copyright, With TechFreedom
+      by Techdirt From Techdirt'
+- type: entry
+  published: "2018-05-25T17:39:24+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/332754227-techdirt-rob-reid-on-writing-publishing-a-scifi-novel-in-2017.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/332754227-techdirt-rob-reid-on-writing-publishing-a-scifi-novel-in-2017.mp3
+      name: Rob Reid On Writing & Publishing A SciFi Novel In 2017
+      author: Techdirt
+      content: If you read our post yesterday, you know that Techdirt friend Rob Reid
+        is releasing his latest novel, After On by publishing the first near-half
+        of the book for free on Medium ( https://medium.com/s/after-on/ ). As promised,
+        today we're joined by Rob on the podcast for a discussion about the book,
+        the launch, and what it's like to publish science fiction in 2017. And don't
+        forget to get your copy of the book at http://amzn.to/2sWUBRE
+  content:
+    text: ' \ud83c\udfa7 Listened to Rob Reid On Writing & Publishing A SciFi Novel
+      In 2017 by Techdirt From Techdirt'
+- type: entry
+  published: "2018-05-25T19:55:16+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/327909544-techdirt-talking-freedom-of-information-with-a-foia-terrorist.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/327909544-techdirt-talking-freedom-of-information-with-a-foia-terrorist.mp3
+      name: Talking Freedom Of Information With A "FOIA Terrorist"
+      author: Techdirt
+      content: "We've made FOIA requests several times over the years, with varying
+        results \u2014 but there are others out there who have dedicated their careers
+        to understanding and using the FOIA process. One such person is Jason Leopold,
+        a Buzzfeed reporter and FOIA litigator who was dubbed a \"FOIA terrorist\"
+        by the government. He joins us this week on the podcast to discuss the ins
+        and outs of Freedom Of Information."
+  content:
+    text: ' \ud83c\udfa7 Listened to Talking Freedom Of Information With A "FOIA Terrorist"
+      by Techdirt From Techdirt'
+- type: entry
+  published: "2018-05-25T22:18:07+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/324153636-techdirt-no-the-mp3-isnt-dead.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/324153636-techdirt-no-the-mp3-isnt-dead.mp3
+      name: No, The MP3 Isn't Dead
+      author: Techdirt
+      content: "When the \"death of the MP3\" started being reported, we were among
+        the very few blogs that said umm, no \u2014 but the deluge of eulogies for
+        the still-thriving format has been overwhelming and quite surprising. This
+        week I join the podcast to discuss why the MP3 isn't dead, and how so much
+        of the tech press got it so wrong."
+  content:
+    text: ' \ud83c\udfa7 Listened to No, The MP3 Isn''t Dead by Techdirt From Techdirt'
+- type: entry
+  published: "2018-05-25T18:18:33+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/330399767-techdirt-patent-trolls-with-cloudflares-general-counsel.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/330399767-techdirt-patent-trolls-with-cloudflares-general-counsel.mp3
+      name: Patent Trolls, With Cloudflare's General Counsel
+      author: Techdirt
+      content: As we reported last month, CDN provider Cloudflare has decided to hit
+        back against patent troll Blackbird Technologies with an aggressive strategy.
+        Leading this charge is Doug Kramer, Cloudflare's General Counsel, who joins
+        us this week to discuss the current situation with Blackbird and the broader
+        patent landscape.
+  content:
+    text: ' \ud83c\udfa7 Listened to Patent Trolls, With Cloudflare''s General Counsel
+      by Techdirt From Techdirt'
+- type: entry
+  published: "2018-05-25T16:46:53+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/333766433-techdirt-is-it-bad-if-facebook-copies-everything-snapchat-does.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/333766433-techdirt-is-it-bad-if-facebook-copies-everything-snapchat-does.mp3
+      name: Is It Bad If Facebook Copies Everything Snapchat Does?
+      author: Techdirt
+      content: 'You may have heard the joke: the best way to do product design for
+        Facebook is to get a job at Snapchat. We''ve all seen how, after failing to
+        buy the company, Facebook has wasted little time in building its own versions
+        of most of Snapchat''s key features. So... is this a problem? That''s the
+        subject on this week''s episode, were we discuss the ins and outs of this
+        kind of copying and what it might mean for the future of social media.'
+  content:
+    text: ' \ud83c\udfa7 Listened to Is It Bad If Facebook Copies Everything Snapchat
+      Does? by Techdirt From Techdirt'
 - type: entry
   published: "2018-05-25T02:41:31+00:00"
   category:

@@ -1,0 +1,27 @@
+---
+- type: entry
+  published: "2019-08-14T00:26:55+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/665334242-techdirt-whats-really-in-the-ftcs-facebook-settlement-part-one.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/665334242-techdirt-whats-really-in-the-ftcs-facebook-settlement-part-one.mp3
+      name: What's Really In The FTC's Facebook Settlement, Part One
+      author: Techdirt
+      content: "Ever since the FCC announced its proposed settlement with Facebook,
+        the headlines have focused on the largest-ever privacy fine that came with
+        it \u2014 but few people paid attention to the many, many important details.
+        This week, we've got the first half of a two-part podcast with lawyer Joshua
+        de Larios-Heiman, who helps us go through the entire settlement from start
+        to finish, and pick apart what it means."
+  content:
+    text: ' \ud83c\udfa7 Listened to What''s Really In The FTC''s Facebook Settlement,
+      Part One by Techdirt From Techdirt'
+...

@@ -1,5 +1,31 @@
 ---
 - type: entry
+  published: "2018-03-12T12:54:32+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/388085843-techdirt-facebook-wont-save-democracy.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/388085843-techdirt-facebook-wont-save-democracy.mp3
+      name: Facebook Won't Save Democracy
+      author: Techdirt
+      content: In the midst of the political chaos in America and the world at large,
+        a whole lot of attention has been turned to Facebook and its role in modern
+        democracy. The social network has responded by announcing another round of
+        news feed changes, the true impact of which (if any) remains far from clear.
+        This week, we're joined by Mathew Ingram from the Columbia Journalism Review
+        to talk about Facebook's changes, and whether we can or should expect them
+        to fix anything.
+  content:
+    text: ' \ud83c\udfa7 Listened to Facebook Won''t Save Democracy by Techdirt From
+      Techdirt'
+- type: entry
   published: "2018-03-12T02:41:54+00:00"
   category:
   - scrobble
@@ -24,6 +50,30 @@
         how is the subject of this week's episode."
   content:
     text: ' \ud83c\udfa7 Listened to Disrupting Google by Techdirt From Techdirt'
+- type: entry
+  published: "2018-03-12T10:36:59+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/399107646-techdirt-truth-trust-transparency-tribalism.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/399107646-techdirt-truth-trust-transparency-tribalism.mp3
+      name: Truth, Trust, Transparency & Tribalism
+      author: Techdirt
+      content: 'A couple of weeks ago, Mike was in Washington, DC for the State Of
+        The Net conference, where he participated in a panel called Internet Speech:
+        Truth, Trust, Transparency & Tribalism. For this week''s podcast, we''ve got
+        the audio from that conversation with all sorts of interesting ideas about
+        how people are dealing with fake news, trolls, propaganda and more.'
+  content:
+    text: ' \ud83c\udfa7 Listened to Truth, Trust, Transparency & Tribalism by Techdirt
+      From Techdirt'
 - type: entry
   published: "2018-03-12T12:03:32+00:00"
   category:
@@ -51,109 +101,6 @@
   content:
     text: ' \ud83c\udfa7 Listened to Free Speech & The Marketplace Of Ideas by Techdirt
       From Techdirt'
-- type: entry
-  published: "2018-03-12T03:37:43+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/402633120-techdirt-lies-damned-lies-audience-metrics.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/402633120-techdirt-lies-damned-lies-audience-metrics.mp3
-      name: Lies, Damned Lies & Audience Metrics
-      author: Techdirt
-      content: "In 2016, mostly out of frustration, I wrote a post about how traffic
-        is fake, audience numbers are garbage, and nobody knows how many people see
-        anything. My feelings haven't changed much, and neither has the digital advertising
-        ecosystem. And since regular podcast co-host Dennis Yang runs a digital metrics
-        company, it only made sense for us to hash it out on an episode all about
-        audience measurement and how it shapes online advertising.\r\n\r\n2016 Post:
-        https://tdrt.io/fOt"
-  content:
-    text: ' \ud83c\udfa7 Listened to Lies, Damned Lies & Audience Metrics by Techdirt
-      From Techdirt'
-- type: entry
-  published: "2018-03-12T10:36:59+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/399107646-techdirt-truth-trust-transparency-tribalism.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/399107646-techdirt-truth-trust-transparency-tribalism.mp3
-      name: Truth, Trust, Transparency & Tribalism
-      author: Techdirt
-      content: 'A couple of weeks ago, Mike was in Washington, DC for the State Of
-        The Net conference, where he participated in a panel called Internet Speech:
-        Truth, Trust, Transparency & Tribalism. For this week''s podcast, we''ve got
-        the audio from that conversation with all sorts of interesting ideas about
-        how people are dealing with fake news, trolls, propaganda and more.'
-  content:
-    text: ' \ud83c\udfa7 Listened to Truth, Trust, Transparency & Tribalism by Techdirt
-      From Techdirt'
-- type: entry
-  published: "2018-03-12T12:54:32+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/388085843-techdirt-facebook-wont-save-democracy.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/388085843-techdirt-facebook-wont-save-democracy.mp3
-      name: Facebook Won't Save Democracy
-      author: Techdirt
-      content: In the midst of the political chaos in America and the world at large,
-        a whole lot of attention has been turned to Facebook and its role in modern
-        democracy. The social network has responded by announcing another round of
-        news feed changes, the true impact of which (if any) remains far from clear.
-        This week, we're joined by Mathew Ingram from the Columbia Journalism Review
-        to talk about Facebook's changes, and whether we can or should expect them
-        to fix anything.
-  content:
-    text: ' \ud83c\udfa7 Listened to Facebook Won''t Save Democracy by Techdirt From
-      Techdirt'
-- type: entry
-  published: "2018-03-12T14:44:33+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/381196922-techdirt-barbies-v-bratz.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/381196922-techdirt-barbies-v-bratz.mp3
-      name: Barbies v. Bratz
-      author: Techdirt
-      content: "If you've been reading Techdirt for more than five years, you probably
-        remember the conclusion of Mattel v. MGA \u2014 and if you've been reading
-        for more than thirteen years, you might even remember when it started. This
-        epic legal battle over intellectual property went through nearly a decade
-        of rulings and reversals, and the resulting story is a fascinating one that
-        ties in a lot of the topics we discuss here at Techdirt. It's also the subject
-        of the new book You Don't Own Me by law professor Orly Lobel, who joins us
-        on this week's episode to revisit this particular law opera and what it says
-        about the wider world of IP."
-  content:
-    text: ' \ud83c\udfa7 Listened to Barbies v. Bratz by Techdirt From Techdirt'
 - type: entry
   published: "2018-03-12T13:48:53+00:00"
   category:
@@ -202,5 +149,58 @@
         and more.'
   content:
     text: ' \ud83c\udfa7 Listened to An Interview With Rep Zoe Lofgren by Techdirt
+      From Techdirt'
+- type: entry
+  published: "2018-03-12T14:44:33+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/381196922-techdirt-barbies-v-bratz.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/381196922-techdirt-barbies-v-bratz.mp3
+      name: Barbies v. Bratz
+      author: Techdirt
+      content: "If you've been reading Techdirt for more than five years, you probably
+        remember the conclusion of Mattel v. MGA \u2014 and if you've been reading
+        for more than thirteen years, you might even remember when it started. This
+        epic legal battle over intellectual property went through nearly a decade
+        of rulings and reversals, and the resulting story is a fascinating one that
+        ties in a lot of the topics we discuss here at Techdirt. It's also the subject
+        of the new book You Don't Own Me by law professor Orly Lobel, who joins us
+        on this week's episode to revisit this particular law opera and what it says
+        about the wider world of IP."
+  content:
+    text: ' \ud83c\udfa7 Listened to Barbies v. Bratz by Techdirt From Techdirt'
+- type: entry
+  published: "2018-03-12T03:37:43+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/402633120-techdirt-lies-damned-lies-audience-metrics.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/402633120-techdirt-lies-damned-lies-audience-metrics.mp3
+      name: Lies, Damned Lies & Audience Metrics
+      author: Techdirt
+      content: "In 2016, mostly out of frustration, I wrote a post about how traffic
+        is fake, audience numbers are garbage, and nobody knows how many people see
+        anything. My feelings haven't changed much, and neither has the digital advertising
+        ecosystem. And since regular podcast co-host Dennis Yang runs a digital metrics
+        company, it only made sense for us to hash it out on an episode all about
+        audience measurement and how it shapes online advertising.\r\n\r\n2016 Post:
+        https://tdrt.io/fOt"
+  content:
+    text: ' \ud83c\udfa7 Listened to Lies, Damned Lies & Audience Metrics by Techdirt
       From Techdirt'
 ...

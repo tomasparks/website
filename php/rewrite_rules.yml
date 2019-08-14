@@ -85,6 +85,7 @@ BucketName:
     https://wordpress.org/?v=5.1.1: David_Shanske_and_Chris_Aldrich
     Yorkton Gamer Guild: Hal
     Linux Journal: Linux_Journal
+    Firefox, backed by Mozilla: Firefox_backed_by_Mozilla
 twitter:
   author:
     Hal: '@rpgmp3'
@@ -129,6 +130,7 @@ twitter:
     https://wordpress.org/?v=5.1.1: https://wordpress.org/?v=5.1.1
     Yorkton Gamer Guild: '@rpgmp3 , @GM_Lockhart & @ygguild'
     Linux Journal: Linux Journal
+    Firefox, backed by Mozilla: Firefox, backed by Mozilla
   album:
     RPGMP3 Actual Play Podcast: '#RPGMP3ActualPlayPodcast'
     "Indieweb Podcast \u2013 David Shanske": '#IndiewebPodcast'

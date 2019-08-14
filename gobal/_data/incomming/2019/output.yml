@@ -1,6 +1,75 @@
 ---
 2019:
   08:
+    13:
+    - type: entry
+      published: "2019-08-13T16:48:35+00:00"
+      url: https://twitter.com/tomasparksts/status/1161318643868717057
+      category:
+      - https://twitter.com/Bence_Balaton
+      - https://twitter.com/aleksamilicevic
+      - https://twitter.com/PixelGuff
+      - https://twitter.com/Octav1usKitten
+      in-reply-to:
+      - https://twitter.com/Bence_Balaton/status/1161294246034493441
+      content:
+        text: she missing the evil goatee
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/Bence_Balaton:
+          type: card
+          name: Ben Balaton
+          url: https://twitter.com/Bence_Balaton
+          photo: ~
+        https://twitter.com/aleksamilicevic:
+          type: card
+          name: "Aleksa Mili\u0107evi\u0107 #FBPE"
+          url: https://twitter.com/aleksamilicevic
+          photo: ~
+        https://twitter.com/PixelGuff:
+          type: card
+          name: PixelGuff
+          url: https://twitter.com/PixelGuff
+          photo: ~
+        https://twitter.com/Octav1usKitten:
+          type: card
+          name: King Octav1us
+          url: https://twitter.com/Octav1usKitten
+          photo: ~
+    12:
+    - type: entry
+      published: "2019-08-12T16:36:25+00:00"
+      url: https://twitter.com/tomasparksts/status/1160953193188089856
+      category:
+      - https://twitter.com/lazygamereviews
+      - https://twitter.com/NetHistoryPod
+      in-reply-to:
+      - https://twitter.com/lazygamereviews/status/1159855144432996353
+      content:
+        text: '@NetHistoryPod has uploaded an episode: "201. The History of Audible
+          With Angelika Fuellemann"'
+        html: '<a href="https://twitter.com/NetHistoryPod">@NetHistoryPod</a> has
+          uploaded an episode: "201. The History of Audible With Angelika Fuellemann"'
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+      refs:
+        https://twitter.com/lazygamereviews:
+          type: card
+          name: LGR
+          url: https://twitter.com/lazygamereviews
+          photo: ~
+        https://twitter.com/NetHistoryPod:
+          type: card
+          name: InternetHistoryPod
+          url: https://twitter.com/NetHistoryPod
+          photo: ~
     "05":
     - type: entry
       published: "2019-08-05T15:36:45+00:00"
@@ -238,50 +307,5 @@
           type: card
           name: Brian McCullough
           url: https://twitter.com/brianmcc
-          photo: ~
-    27:
-    - type: entry
-      published: "2019-07-27T04:41:16+00:00"
-      url: https://twitter.com/tomasparksts/status/1154975013901967361
-      category:
-      - https://twitter.com/librofm
-      content:
-        text: '#finished #listening to #hiddenfigures for #Apollo50 thanks to @librofm'
-        html: <a href="https://twitter.com/search?q=%23finished">#finished</a> <a
-          href="https://twitter.com/search?q=%23listening">#listening</a> to <a href="https://twitter.com/search?q=%23hiddenfigures">#hiddenfigures</a>
-          for <a href="https://twitter.com/search?q=%23Apollo50">#Apollo50</a> thanks
-          to <a href="https://twitter.com/librofm">@librofm</a>
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-      refs:
-        https://twitter.com/librofm:
-          type: card
-          name: Libro.fm
-          url: https://twitter.com/librofm
-          photo: ~
-    23:
-    - type: entry
-      published: "2019-07-23T22:47:11+00:00"
-      url: https://twitter.com/tomasparksts/status/1153798743470116864
-      category:
-      - https://twitter.com/Octav1usKitten
-      in-reply-to:
-      - https://twitter.com/Octav1usKitten/status/1153795769872211969
-      content:
-        text: "I got a few jiffy webcams amazon.com/JIFFY-Upgrade-\u2026"
-        html: "I got a few jiffy webcams <a href=\"https://www.amazon.com/JIFFY-Upgrade-Microphones-Recording-Compatible/dp/B07CMG3ZN4/\">amazon.com/JIFFY-Upgrade-\u2026</a>"
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-      refs:
-        https://twitter.com/Octav1usKitten:
-          type: card
-          name: King Octav1us
-          url: https://twitter.com/Octav1usKitten
           photo: ~
 ...

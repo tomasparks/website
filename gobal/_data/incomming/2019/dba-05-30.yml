@@ -1,5 +1,25 @@
 ---
 - type: entry
+  published: "2019-05-30T22:39:24+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://rpgmp3.com/v5/feed/podcast/
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_84.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_84.mp3
+      name: Kingmaker Session 84
+      author: Hal
+      content: "The 1000-man strong Tiger Lord army have come to Stagthorn to fight\u2026
+        one way or the other. Originally recorded 26 August 2018."
+  content:
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 84 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+- type: entry
   published: "2019-05-30T16:35:35+00:00"
   category:
   - scrobble
@@ -41,24 +61,4 @@
         Leveton, Ex-cultist of Gyronna"
   content:
     text: ' \ud83c\udfa7 Listened to Kingmaker Session 82 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
-- type: entry
-  published: "2019-05-30T22:39:24+00:00"
-  category:
-  - scrobble
-  - audio
-  - RPGMP3 Actual Play Podcast
-  - Hal
-  listen-of:
-    h-cite:
-      url: http://rpgmp3.com/v5/feed/podcast/
-      photo: ""
-      audio:
-      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_84.mp3
-      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_84.mp3
-      name: Kingmaker Session 84
-      author: Hal
-      content: "The 1000-man strong Tiger Lord army have come to Stagthorn to fight\u2026
-        one way or the other. Originally recorded 26 August 2018."
-  content:
-    text: ' \ud83c\udfa7 Listened to Kingmaker Session 84 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
 ...

@@ -26,27 +26,6 @@
     text: ' \ud83c\udfa7 Listened to Cory Doctorow On Anti-Circumvention (And More)
       by Techdirt From Techdirt'
 - type: entry
-  published: "2019-05-01T03:02:25+00:00"
-  category:
-  - scrobble
-  - audio
-  - RPGMP3 Actual Play Podcast
-  - Hal
-  listen-of:
-    h-cite:
-      url: http://rpgmp3.com/v5/feed/podcast/
-      photo: ""
-      audio:
-      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_62.mp3
-      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_62.mp3
-      name: Kingmaker Session 62
-      author: Hal
-      content: "Episode 62 \u2013 in which Kaylen jousts the Queen of Mivon, Stagthorne
-        faces both the Boasting and a public humiliation. Thanks to the Paizo forums
-        for the Boasts."
-  content:
-    text: ' \ud83c\udfa7 Listened to Kingmaker Session 62 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
-- type: entry
   published: "2019-05-01T06:05:28+00:00"
   category:
   - scrobble
@@ -67,4 +46,25 @@
         fallout."
   content:
     text: ' \ud83c\udfa7 Listened to Kingmaker Session 63 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+- type: entry
+  published: "2019-05-01T03:02:25+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://rpgmp3.com/v5/feed/podcast/
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_62.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_62.mp3
+      name: Kingmaker Session 62
+      author: Hal
+      content: "Episode 62 \u2013 in which Kaylen jousts the Queen of Mivon, Stagthorne
+        faces both the Boasting and a public humiliation. Thanks to the Paizo forums
+        for the Boasts."
+  content:
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 62 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
 ...

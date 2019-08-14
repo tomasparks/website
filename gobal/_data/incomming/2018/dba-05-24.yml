@@ -116,7 +116,7 @@
       Astronomy and Science'
 4:
   type: entry
-  published: "2018-05-24T12:22:26+00:00"
+  published: "2018-05-24T12:24:15+00:00"
   category:
   - scrobble
   - audio
@@ -127,19 +127,19 @@
       url: http://www.abc.net.au/radio/programs/troll-play/feed/9405254/podcast.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/radio/podcast/troll-play/tpl-2018-04-20-ep1.mp3
-      - http://archive.org/download/Troll_Play-Podcast-by-ABC_Radio_Comedy/Poison_pen_letters_and_A_LOT_of_milk.mp3
-      name: Poison pen letters and A LOT of milk
+      - http://mpegmedia.abc.net.au/radio/podcast/troll-play/tpl-2018-04-13-ep0.mp3
+      - http://archive.org/download/Troll_Play-Podcast-by-ABC_Radio_Comedy/Introducing_Troll_Play.mp3
+      name: Introducing Troll Play
       author: ABC Radio Comedy
-      content: "Alice, Cal and Sami talk about weird YouTube comments, a hand written
-        troll letter and a forum dedicated to drinking a gallon of milk a day.\n                    \n
+      content: "Coming soon, Alice Fraser, Cal Wilson and Sami Shah make comedy from
+        some of the maddest and baddest moments in Internet interaction.\n                    \n
         \               "
   content:
-    text: ' \ud83c\udfa7 Listened to Poison pen letters and A LOT of milk by ABC Radio
-      Comedy From Troll Play'
+    text: ' \ud83c\udfa7 Listened to Introducing Troll Play by ABC Radio Comedy From
+      Troll Play'
 5:
   type: entry
-  published: "2018-05-24T08:47:23+00:00"
+  published: "2018-05-24T09:11:10+00:00"
   category:
   - scrobble
   - audio
@@ -150,15 +150,15 @@
       url: http://www.abc.net.au/radio/programs/troll-play/feed/9405254/podcast.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/radio/podcast/troll-play/tpl-2018-05-04-ep3.mp3
-      - http://archive.org/download/Troll_Play-Podcast-by-ABC_Radio_Comedy/Brony_fiancees_cuss_words_and_disgruntled_Christians.mp3
-      name: Brony fiancees, cuss words and disgruntled Christians
+      - http://mpegmedia.abc.net.au/radio/podcast/troll-play/tpl-2018-04-30-ep2.mp3
+      - http://archive.org/download/Troll_Play-Podcast-by-ABC_Radio_Comedy/Prisoner_fans_spaghetti_straps_and_the_wrong_Sami.mp3
+      name: Prisoner fans, spaghetti straps and the wrong Sami
       author: ABC Radio Comedy
-      content: "Alice, Cal and Sami talk about the comedy swearing, Easter errors
-        and My Little Pony obsessives.\n                    \n                "
+      content: "Alice, Cal and Sami talk about name sakes getting your trolls, unasked
+        for dick pics and a men's rights plughole.\n                    \n                "
   content:
-    text: ' \ud83c\udfa7 Listened to Brony fiancees, cuss words and disgruntled Christians
-      by ABC Radio Comedy From Troll Play'
+    text: ' \ud83c\udfa7 Listened to Prisoner fans, spaghetti straps and the wrong
+      Sami by ABC Radio Comedy From Troll Play'
 6:
   type: entry
   published: "2018-05-24T08:22:25+00:00"
@@ -184,7 +184,7 @@
       by ABC Radio Comedy From Troll Play'
 7:
   type: entry
-  published: "2018-05-24T12:24:15+00:00"
+  published: "2018-05-24T08:47:23+00:00"
   category:
   - scrobble
   - audio
@@ -195,19 +195,18 @@
       url: http://www.abc.net.au/radio/programs/troll-play/feed/9405254/podcast.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/radio/podcast/troll-play/tpl-2018-04-13-ep0.mp3
-      - http://archive.org/download/Troll_Play-Podcast-by-ABC_Radio_Comedy/Introducing_Troll_Play.mp3
-      name: Introducing Troll Play
+      - http://mpegmedia.abc.net.au/radio/podcast/troll-play/tpl-2018-05-04-ep3.mp3
+      - http://archive.org/download/Troll_Play-Podcast-by-ABC_Radio_Comedy/Brony_fiancees_cuss_words_and_disgruntled_Christians.mp3
+      name: Brony fiancees, cuss words and disgruntled Christians
       author: ABC Radio Comedy
-      content: "Coming soon, Alice Fraser, Cal Wilson and Sami Shah make comedy from
-        some of the maddest and baddest moments in Internet interaction.\n                    \n
-        \               "
+      content: "Alice, Cal and Sami talk about the comedy swearing, Easter errors
+        and My Little Pony obsessives.\n                    \n                "
   content:
-    text: ' \ud83c\udfa7 Listened to Introducing Troll Play by ABC Radio Comedy From
-      Troll Play'
+    text: ' \ud83c\udfa7 Listened to Brony fiancees, cuss words and disgruntled Christians
+      by ABC Radio Comedy From Troll Play'
 8:
   type: entry
-  published: "2018-05-24T09:11:10+00:00"
+  published: "2018-05-24T12:22:26+00:00"
   category:
   - scrobble
   - audio
@@ -218,15 +217,16 @@
       url: http://www.abc.net.au/radio/programs/troll-play/feed/9405254/podcast.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/radio/podcast/troll-play/tpl-2018-04-30-ep2.mp3
-      - http://archive.org/download/Troll_Play-Podcast-by-ABC_Radio_Comedy/Prisoner_fans_spaghetti_straps_and_the_wrong_Sami.mp3
-      name: Prisoner fans, spaghetti straps and the wrong Sami
+      - http://mpegmedia.abc.net.au/radio/podcast/troll-play/tpl-2018-04-20-ep1.mp3
+      - http://archive.org/download/Troll_Play-Podcast-by-ABC_Radio_Comedy/Poison_pen_letters_and_A_LOT_of_milk.mp3
+      name: Poison pen letters and A LOT of milk
       author: ABC Radio Comedy
-      content: "Alice, Cal and Sami talk about name sakes getting your trolls, unasked
-        for dick pics and a men's rights plughole.\n                    \n                "
+      content: "Alice, Cal and Sami talk about weird YouTube comments, a hand written
+        troll letter and a forum dedicated to drinking a gallon of milk a day.\n                    \n
+        \               "
   content:
-    text: ' \ud83c\udfa7 Listened to Prisoner fans, spaghetti straps and the wrong
-      Sami by ABC Radio Comedy From Troll Play'
+    text: ' \ud83c\udfa7 Listened to Poison pen letters and A LOT of milk by ABC Radio
+      Comedy From Troll Play'
 9:
   type: entry
   published: "2018-05-24T20:06:55+00:00"

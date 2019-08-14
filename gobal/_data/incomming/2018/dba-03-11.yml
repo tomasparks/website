@@ -1,27 +1,5 @@
 ---
 - type: entry
-  published: "2018-03-11T11:44:16+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/188169008-techdirt-is-muni-broadband-a-monopoly-killer-or-a-killer-monopoly.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/188169008-techdirt-is-muni-broadband-a-monopoly-killer-or-a-killer-monopoly.mp3
-      name: Is Muni Broadband A Monopoly Killer Or A Killer Monopoly?
-      author: Techdirt
-      content: What if cities provided broadband alongside services like water and
-        garbage pickup? Mike Masnick, Hersh Reddy and Dennis Yang discuss the potential
-        pros and cons.
-  content:
-    text: ' \ud83c\udfa7 Listened to Is Muni Broadband A Monopoly Killer Or A Killer
-      Monopoly? by Techdirt From Techdirt'
-- type: entry
   published: "2018-03-11T11:12:00+00:00"
   category:
   - scrobble
@@ -68,6 +46,28 @@
   content:
     text: ' \ud83c\udfa7 Listened to The Worst Of Both Worlds: SESTA & FOSTA Together
       by Techdirt From Techdirt'
+- type: entry
+  published: "2018-03-11T11:44:16+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/188169008-techdirt-is-muni-broadband-a-monopoly-killer-or-a-killer-monopoly.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/188169008-techdirt-is-muni-broadband-a-monopoly-killer-or-a-killer-monopoly.mp3
+      name: Is Muni Broadband A Monopoly Killer Or A Killer Monopoly?
+      author: Techdirt
+      content: What if cities provided broadband alongside services like water and
+        garbage pickup? Mike Masnick, Hersh Reddy and Dennis Yang discuss the potential
+        pros and cons.
+  content:
+    text: ' \ud83c\udfa7 Listened to Is Muni Broadband A Monopoly Killer Or A Killer
+      Monopoly? by Techdirt From Techdirt'
 - type: entry
   published: "2018-03-11T12:31:30+00:00"
   category:

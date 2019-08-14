@@ -23,30 +23,6 @@
     text: ' \ud83c\udfa7 Listened to The EU''s Copyright Threat To The Open Internet
       by Techdirt From Techdirt'
 - type: entry
-  published: "2019-01-10T12:44:42+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/489148548-techdirt-emoji-the-law.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/489148548-techdirt-emoji-the-law.mp3
-      name: Emoji & The Law
-      author: Techdirt
-      content: "Have you ever thought about the legal issues surrounding emoji? Don't
-        worry, most people haven't. But they are myriad and interesting, with roots
-        nearly two decades ago following the emergence of emoticons \u2014 and two
-        people who definitely have thought a lot about it are Eric Goldman and Gabriella
-        Ziccarelli, who join us on this week's episode to talk about the various intersections
-        of emoji and the law."
-  content:
-    text: ' \ud83c\udfa7 Listened to Emoji & The Law by Techdirt From Techdirt'
-- type: entry
   published: "2019-01-10T03:52:06+00:00"
   category:
   - scrobble
@@ -123,7 +99,7 @@
     text: ' \ud83c\udfa7 Listened to Old Tweets & Your Permanent Record by Techdirt
       From Techdirt'
 - type: entry
-  published: "2019-01-10T22:48:50+00:00"
+  published: "2019-01-10T14:42:41+00:00"
   category:
   - scrobble
   - audio
@@ -134,20 +110,18 @@
       url: https://www.techdirt.com/podcast.xml
       photo: ""
       audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/476188611-techdirt-building-communities-outside-facebook.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/476188611-techdirt-building-communities-outside-facebook.mp3
-      name: Building Communities Outside Facebook
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/482467281-techdirt-why-people-dont-trust-capitalism-anymore.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/482467281-techdirt-why-people-dont-trust-capitalism-anymore.mp3
+      name: Why People Don't Trust Capitalism Anymore
       author: Techdirt
-      content: "One thing we've talked about for a long time at Techdirt is the importance
-        communities for media outlets, including our own. These days, it feels like
-        a lot of media companies are giving up on this work altogether and outsourcing
-        it to social media platforms \u2014 but that means foregoing some of the most
-        powerful aspects of the internet. This week, we're joined by Josh Millard,
-        who recently took over MetaFilter, to talk about building online communities
-        and not relying on Facebook."
+      content: "The tides of public opinion on economics seem to be shifting, and
+        criticism of the very idea of free markets is on the ride. The conversation
+        is messy, confusing, and transcends many traditional political boundaries
+        \u2014 so we've got an expert source to help us dig in. EconTalk host Russ
+        Roberts joins us to look at why so many people don't trust capitalism anymore."
   content:
-    text: ' \ud83c\udfa7 Listened to Building Communities Outside Facebook by Techdirt
-      From Techdirt'
+    text: ' \ud83c\udfa7 Listened to Why People Don''t Trust Capitalism Anymore by
+      Techdirt From Techdirt'
 - type: entry
   published: "2019-01-10T05:55:32+00:00"
   category:
@@ -175,7 +149,7 @@
     text: ' \ud83c\udfa7 Listened to Do Short-Term Profits Hurt Long-Term Innovation?
       by Techdirt From Techdirt'
 - type: entry
-  published: "2019-01-10T14:42:41+00:00"
+  published: "2019-01-10T12:44:42+00:00"
   category:
   - scrobble
   - audio
@@ -186,18 +160,44 @@
       url: https://www.techdirt.com/podcast.xml
       photo: ""
       audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/482467281-techdirt-why-people-dont-trust-capitalism-anymore.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/482467281-techdirt-why-people-dont-trust-capitalism-anymore.mp3
-      name: Why People Don't Trust Capitalism Anymore
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/489148548-techdirt-emoji-the-law.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/489148548-techdirt-emoji-the-law.mp3
+      name: Emoji & The Law
       author: Techdirt
-      content: "The tides of public opinion on economics seem to be shifting, and
-        criticism of the very idea of free markets is on the ride. The conversation
-        is messy, confusing, and transcends many traditional political boundaries
-        \u2014 so we've got an expert source to help us dig in. EconTalk host Russ
-        Roberts joins us to look at why so many people don't trust capitalism anymore."
+      content: "Have you ever thought about the legal issues surrounding emoji? Don't
+        worry, most people haven't. But they are myriad and interesting, with roots
+        nearly two decades ago following the emergence of emoticons \u2014 and two
+        people who definitely have thought a lot about it are Eric Goldman and Gabriella
+        Ziccarelli, who join us on this week's episode to talk about the various intersections
+        of emoji and the law."
   content:
-    text: ' \ud83c\udfa7 Listened to Why People Don''t Trust Capitalism Anymore by
-      Techdirt From Techdirt'
+    text: ' \ud83c\udfa7 Listened to Emoji & The Law by Techdirt From Techdirt'
+- type: entry
+  published: "2019-01-10T22:48:50+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/476188611-techdirt-building-communities-outside-facebook.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/476188611-techdirt-building-communities-outside-facebook.mp3
+      name: Building Communities Outside Facebook
+      author: Techdirt
+      content: "One thing we've talked about for a long time at Techdirt is the importance
+        communities for media outlets, including our own. These days, it feels like
+        a lot of media companies are giving up on this work altogether and outsourcing
+        it to social media platforms \u2014 but that means foregoing some of the most
+        powerful aspects of the internet. This week, we're joined by Josh Millard,
+        who recently took over MetaFilter, to talk about building online communities
+        and not relying on Facebook."
+  content:
+    text: ' \ud83c\udfa7 Listened to Building Communities Outside Facebook by Techdirt
+      From Techdirt'
 - type: entry
   published: "2019-01-10T02:21:29+00:00"
   category:

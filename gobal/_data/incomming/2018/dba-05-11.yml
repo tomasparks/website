@@ -1,29 +1,6 @@
 ---
 0:
   type: entry
-  published: "2018-05-11T11:20:56+00:00"
-  category:
-  - scrobble
-  - audio
-  - Dr Karl on triplej
-  - ABC Science
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20180426.mp3
-      - http://archive.org/download/Dr_Karl_Podcast-by-ABC_Science/Falling_fainting_and_ponies.mp3
-      name: Falling, fainting and ponies
-      author: ABC Science
-      content: Dr. Karl answers all your science questions, including; can you get
-        cold sores from a water cooler? Why do we have fingernails and toenails? Is
-        spinach more nutritious when steamed?
-  content:
-    text: ' \ud83c\udfa7 Listened to Falling, fainting and ponies by ABC Science From
-      Dr_Karl_Podcast'
-1:
-  type: entry
   published: "2018-05-11T11:56:02+00:00"
   category:
   - scrobble
@@ -45,9 +22,9 @@
   content:
     text: ' \ud83c\udfa7 Listened to Urine, missiles and extinction by ABC Science
       From Dr_Karl_Podcast'
-2:
+1:
   type: entry
-  published: "2018-05-11T10:42:19+00:00"
+  published: "2018-05-11T13:45:34+00:00"
   category:
   - scrobble
   - audio
@@ -58,17 +35,16 @@
       url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20180503.mp3
-      - http://archive.org/download/Dr_Karl_Podcast-by-ABC_Science/Overeating_phosphenes_and_testicle_transplants.mp3
-      name: Overeating, phosphenes and testicle transplants
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20180405.mp3
+      - http://archive.org/download/Dr_Karl_Podcast-by-ABC_Science/Leaves_lava_and_wasps.mp3
+      name: Leaves, lava and wasps
       author: ABC Science
-      content: Dr. Karl answers all your science questions, including; can you skip
-        leg day? Why are deep sea creatures translucent? What happens to your body
-        when you're angry?
+      content: Dr. Karl answers all your science questions, including; when will we
+        have wind turbines for our homes? Does the full moon make you crazy? And the
+        ever-important question - what came first, the chicken or the egg?
   content:
-    text: ' \ud83c\udfa7 Listened to Overeating, phosphenes and testicle transplants
-      by ABC Science From Dr_Karl_Podcast'
-3:
+    text: ' \ud83c\udfa7 Listened to Leaves, lava and wasps by ABC Science From Dr_Karl_Podcast'
+2:
   type: entry
   published: "2018-05-11T13:09:22+00:00"
   category:
@@ -91,9 +67,9 @@
   content:
     text: ' \ud83c\udfa7 Listened to Rainbows, sunburn and space junk by ABC Science
       From Dr_Karl_Podcast'
-4:
+3:
   type: entry
-  published: "2018-05-11T13:45:34+00:00"
+  published: "2018-05-11T10:42:19+00:00"
   category:
   - scrobble
   - audio
@@ -104,15 +80,39 @@
       url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20180405.mp3
-      - http://archive.org/download/Dr_Karl_Podcast-by-ABC_Science/Leaves_lava_and_wasps.mp3
-      name: Leaves, lava and wasps
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20180503.mp3
+      - http://archive.org/download/Dr_Karl_Podcast-by-ABC_Science/Overeating_phosphenes_and_testicle_transplants.mp3
+      name: Overeating, phosphenes and testicle transplants
       author: ABC Science
-      content: Dr. Karl answers all your science questions, including; when will we
-        have wind turbines for our homes? Does the full moon make you crazy? And the
-        ever-important question - what came first, the chicken or the egg?
+      content: Dr. Karl answers all your science questions, including; can you skip
+        leg day? Why are deep sea creatures translucent? What happens to your body
+        when you're angry?
   content:
-    text: ' \ud83c\udfa7 Listened to Leaves, lava and wasps by ABC Science From Dr_Karl_Podcast'
+    text: ' \ud83c\udfa7 Listened to Overeating, phosphenes and testicle transplants
+      by ABC Science From Dr_Karl_Podcast'
+4:
+  type: entry
+  published: "2018-05-11T11:20:56+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl on triplej
+  - ABC Science
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20180426.mp3
+      - http://archive.org/download/Dr_Karl_Podcast-by-ABC_Science/Falling_fainting_and_ponies.mp3
+      name: Falling, fainting and ponies
+      author: ABC Science
+      content: Dr. Karl answers all your science questions, including; can you get
+        cold sores from a water cooler? Why do we have fingernails and toenails? Is
+        spinach more nutritious when steamed?
+  content:
+    text: ' \ud83c\udfa7 Listened to Falling, fainting and ponies by ABC Science From
+      Dr_Karl_Podcast'
 10:
   type: entry
   published: "2018-05-11T11:20:56+00:00"

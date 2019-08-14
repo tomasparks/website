@@ -66,35 +66,6 @@
   content:
     text: ' \ud83c\udfa7 Listened to The Time Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
 - type: entry
-  published: "2019-02-03T11:44:25+00:00"
-  category:
-  - scrobble
-  - audio
-  - Jason Scott Talks His Way Out of It
-  - Jason Scott
-  listen-of:
-    h-cite:
-      url: http://textfiles.libsyn.com/rss
-      photo: ""
-      audio:
-      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_53.mp3?dest-id=574323
-      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Robert_Hoquim_Extra_Episode.mp3
-      name: The Robert Hoquim Extra Episode
-      author: Jason Scott
-      content: 'The Robert Hoquim Extra Episode: A Small Homework Assignment, A Fascinating
-        Story, The Man in the FBI Hat, What Stories Change in Us, The Story I Won''t
-        Tell, A Book Yet Unwritten I Want to Read. This episode is a little different
-        in that it has a homework assignment: I ask folks to go listen to Episode
-        30 of Reply All, which I appear in and which is based on a story I brought
-        to them. A link to the episode is here:  https://www.gimletmedia.com/reply-all/30-the-man-in-the-fbi-hat
-        Here is a link to the archive of information I built up over years about John
-        Aleshe:  http://www.bbsdocumentary.com/library/CONTROVERSY/PERSONALITIES/ALESHE/
-        And here''s the illustrated speech on Hoquim/Aleshe (and charlatans in general):
-        https://www.youtube.com/watch?v=UTzQmhmgLC0'
-  content:
-    text: ' \ud83c\udfa7 Listened to The Robert Hoquim Extra Episode by @textfiles
-      From #JasonScottTalksHisWayOutofIt'
-- type: entry
   published: "2019-02-03T10:34:00+00:00"
   category:
   - scrobble
@@ -147,4 +118,33 @@
         We even have a pretty zesty Loompanics catalog: https://archive.org/details/Loompanics_Catalog_2003'
   content:
     text: ' \ud83c\udfa7 Listened to The Postal Zine Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
+- type: entry
+  published: "2019-02-03T11:44:25+00:00"
+  category:
+  - scrobble
+  - audio
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
+  listen-of:
+    h-cite:
+      url: http://textfiles.libsyn.com/rss
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_53.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Robert_Hoquim_Extra_Episode.mp3
+      name: The Robert Hoquim Extra Episode
+      author: Jason Scott
+      content: 'The Robert Hoquim Extra Episode: A Small Homework Assignment, A Fascinating
+        Story, The Man in the FBI Hat, What Stories Change in Us, The Story I Won''t
+        Tell, A Book Yet Unwritten I Want to Read. This episode is a little different
+        in that it has a homework assignment: I ask folks to go listen to Episode
+        30 of Reply All, which I appear in and which is based on a story I brought
+        to them. A link to the episode is here:  https://www.gimletmedia.com/reply-all/30-the-man-in-the-fbi-hat
+        Here is a link to the archive of information I built up over years about John
+        Aleshe:  http://www.bbsdocumentary.com/library/CONTROVERSY/PERSONALITIES/ALESHE/
+        And here''s the illustrated speech on Hoquim/Aleshe (and charlatans in general):
+        https://www.youtube.com/watch?v=UTzQmhmgLC0'
+  content:
+    text: ' \ud83c\udfa7 Listened to The Robert Hoquim Extra Episode by @textfiles
+      From #JasonScottTalksHisWayOutofIt'
 ...

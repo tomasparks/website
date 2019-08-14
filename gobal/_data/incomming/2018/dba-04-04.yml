@@ -1,5 +1,29 @@
 ---
 - type: entry
+  published: "2018-04-04T10:25:37+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/424277688-techdirt-how-one-court-just-screwed-up-software-development.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/424277688-techdirt-how-one-court-just-screwed-up-software-development.mp3
+      name: How One Court Just Screwed Up Software Development
+      author: Techdirt
+      content: "We've already written about the insanity of the appeals court overturning
+        Google's fair use victory against Oracle \u2014 but there's plenty to dig
+        into regarding just how bad the ruling is. This week, we're joined by Pamela
+        Samuelson, a law professor and co-director of the Center for Law & Technology
+        at Berkeley, to discuss what the court just did to the world of software development."
+  content:
+    text: ' \ud83c\udfa7 Listened to How One Court Just Screwed Up Software Development
+      by Techdirt From Techdirt'
+- type: entry
   published: "2018-04-04T13:15:05+00:00"
   category:
   - scrobble
@@ -26,30 +50,6 @@
         the economy and more.\r\n\r\nRead the article: https://medium.com/@jamesallworth/the-slow-decay-of-americas-entrepreneurial-society-f9aeb6145891"
   content:
     text: ' \ud83c\udfa7 Listened to Is The Economy More Important Than Democracy?
-      by Techdirt From Techdirt'
-- type: entry
-  published: "2018-04-04T10:25:37+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/424277688-techdirt-how-one-court-just-screwed-up-software-development.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/424277688-techdirt-how-one-court-just-screwed-up-software-development.mp3
-      name: How One Court Just Screwed Up Software Development
-      author: Techdirt
-      content: "We've already written about the insanity of the appeals court overturning
-        Google's fair use victory against Oracle \u2014 but there's plenty to dig
-        into regarding just how bad the ruling is. This week, we're joined by Pamela
-        Samuelson, a law professor and co-director of the Center for Law & Technology
-        at Berkeley, to discuss what the court just did to the world of software development."
-  content:
-    text: ' \ud83c\udfa7 Listened to How One Court Just Screwed Up Software Development
       by Techdirt From Techdirt'
 - type: entry
   published: "2018-04-04T12:12:38+00:00"

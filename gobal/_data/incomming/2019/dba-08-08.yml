@@ -1,0 +1,25 @@
+---
+- type: entry
+  published: "2019-08-08T15:14:21+00:00"
+  category:
+  - scrobble
+  - audio
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
+  listen-of:
+    h-cite:
+      url: http://textfiles.libsyn.com/rss
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_73.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Project_Everything_Episode.mp3
+      name: The Project Everything Episode
+      author: Jason Scott
+      content: 'The Project Everything Episode: Starting Projects, KansasFest 2019,
+        Pulling Back But Then Pulled Back In, Garage Giveaway, Floppy Disk Images,
+        Applesauce, The Start of Everything, Software Preservation, Apple II''s Special
+        Situation, A Silver Chalice, Respect for Volunteers.'
+  content:
+    text: ' \ud83c\udfa7 Listened to The Project Everything Episode by @textfiles
+      From #JasonScottTalksHisWayOutofIt'
+...

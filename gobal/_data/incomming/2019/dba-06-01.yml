@@ -1,5 +1,26 @@
 ---
 - type: entry
+  published: "2019-06-01T17:35:14+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://rpgmp3.com/v5/feed/podcast/
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_90.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_90.mp3
+      name: Kingmaker Session 90
+      author: Hal
+      content: In which Kaylen invades Castle Drelev, and the climactic sword duel
+        between him and King Hannis Drelev begins. Originally recorded 19 November
+        2018.
+  content:
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 90 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+- type: entry
   published: "2019-06-01T14:39:11+00:00"
   category:
   - scrobble
@@ -39,25 +60,4 @@
         of Grigori. Originally recorded 23 November 2018.
   content:
     text: ' \ud83c\udfa7 Listened to Kingmaker Session 91 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
-- type: entry
-  published: "2019-06-01T17:35:14+00:00"
-  category:
-  - scrobble
-  - audio
-  - RPGMP3 Actual Play Podcast
-  - Hal
-  listen-of:
-    h-cite:
-      url: http://rpgmp3.com/v5/feed/podcast/
-      photo: ""
-      audio:
-      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_90.mp3
-      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_90.mp3
-      name: Kingmaker Session 90
-      author: Hal
-      content: In which Kaylen invades Castle Drelev, and the climactic sword duel
-        between him and King Hannis Drelev begins. Originally recorded 19 November
-        2018.
-  content:
-    text: ' \ud83c\udfa7 Listened to Kingmaker Session 90 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
 ...

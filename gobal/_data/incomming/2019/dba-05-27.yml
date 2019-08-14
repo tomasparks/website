@@ -1,26 +1,5 @@
 ---
 - type: entry
-  published: "2019-05-27T01:15:27+00:00"
-  category:
-  - scrobble
-  - audio
-  - RPGMP3 Actual Play Podcast
-  - Hal
-  listen-of:
-    h-cite:
-      url: http://rpgmp3.com/v5/feed/podcast/
-      photo: ""
-      audio:
-      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/Kingmaker_Session_77.mp3
-      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/Kingmaker_Session_77.mp3
-      name: Kingmaker Session 77
-      author: Hal
-      content: "Episode 77 \u2013 in which Bryn and Kaylen face off against a tiger
-        like no other, and Kaylen learns the high price of Ovinrbaane\u2019s destruction.
-        Originally recorded 21 July 2018."
-  content:
-    text: ' \ud83c\udfa7 Listened to Kingmaker Session 77 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
-- type: entry
   published: "2019-05-27T18:38:54+00:00"
   category:
   - scrobble
@@ -41,4 +20,25 @@
         recorded 28 July 2018."
   content:
     text: ' \ud83c\udfa7 Listened to Kingmaker Session 78 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+- type: entry
+  published: "2019-05-27T01:15:27+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://rpgmp3.com/v5/feed/podcast/
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/Kingmaker_Session_77.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/Kingmaker_Session_77.mp3
+      name: Kingmaker Session 77
+      author: Hal
+      content: "Episode 77 \u2013 in which Bryn and Kaylen face off against a tiger
+        like no other, and Kaylen learns the high price of Ovinrbaane\u2019s destruction.
+        Originally recorded 21 July 2018."
+  content:
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 77 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
 ...
