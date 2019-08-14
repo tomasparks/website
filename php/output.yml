@@ -4920,6 +4920,89 @@
       content:
         text: ' \ud83c\udfa7 Listened to What''s Really In The FTC''s Facebook Settlement,
           Part One by Techdirt From Techdirt'
+    - type: entry
+      published: "2019-08-14T16:48:00+00:00"
+      category:
+      - scrobble
+      - audio
+      - Great Moments In Science - with Dr Karl Kruszelnicki
+      - ABC Radio National
+      listen-of:
+        h-cite:
+          url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+          photo: ""
+          audio:
+          - http://mpegmedia.abc.net.au/rn/podcast/2019/06/gms_20190625.mp3
+          - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Tobacco_denialism_part_one.mp3
+          name: 'Tobacco denialism: part one'
+          author: ABC Radio National
+          content: When the science is certain, how do you push a product that kills?
+            Ask Big PR.
+      content:
+        text: ' \ud83c\udfa7 Listened to Tobacco denialism: part one by ABC Radio
+          National From Great Moments In Science - with Dr Karl Kruszelnicki'
+    - type: entry
+      published: "2019-08-14T16:41:24+00:00"
+      category:
+      - scrobble
+      - audio
+      - Great Moments In Science - with Dr Karl Kruszelnicki
+      - ABC Radio National
+      listen-of:
+        h-cite:
+          url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+          photo: ""
+          audio:
+          - http://mpegmedia.abc.net.au/rn/podcast/2019/06/gms_20190618.mp3
+          - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Our_solar_system_is_weird.mp3
+          name: Our solar system is weird
+          author: ABC Radio National
+          content: With our planets spread far and wide - and no super-sized Earths
+            - we're nothing like the other solar systems we've found.
+      content:
+        text: ' \ud83c\udfa7 Listened to Our solar system is weird by ABC Radio National
+          From Great Moments In Science - with Dr Karl Kruszelnicki'
+    - type: entry
+      published: "2019-08-14T16:55:40+00:00"
+      category:
+      - scrobble
+      - audio
+      - Great Moments In Science - with Dr Karl Kruszelnicki
+      - ABC Radio National
+      listen-of:
+        h-cite:
+          url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+          photo: ""
+          audio:
+          - http://mpegmedia.abc.net.au/rn/podcast/2019/07/gms_20190702.mp3
+          - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Tobacco_denialism_part_two.mp3
+          name: 'Tobacco denialism: part two'
+          author: ABC Radio National
+          content: A meeting in 1953 created the formula for a smokescreen that's
+            still playing out today. And it's gone way beyond tobacco.
+      content:
+        text: ' \ud83c\udfa7 Listened to Tobacco denialism: part two by ABC Radio
+          National From Great Moments In Science - with Dr Karl Kruszelnicki'
+    - type: entry
+      published: "2019-08-14T16:33:28+00:00"
+      category:
+      - scrobble
+      - audio
+      - 'RPGMP3: Yorkton Gamer Guild Actual Play Podcast'
+      - Yorkton Gamer Guild
+      listen-of:
+        h-cite:
+          url: http://rpgmp3.com/v5/category/group/yorktongamerguild/feed/
+          photo: ""
+          audio:
+          - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Yorkton_Gamer_Guild/pathfinder_dragons_delve_part_26.mp3
+          - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/pathfinder_dragons_delve_part_26.mp3
+          name: "Dragon\u2019s Delve Session 26"
+          author: Yorkton Gamer Guild
+          content: Session 26 - Down the Hatch
+      content:
+        text: " \\ud83c\\udfa7 Listened to Dragon\u2019s Delve Session 26 by @rpgmp3
+          , @GM_Lockhart & @ygguild From #RPGMP3ActualPlayPodcast #YorktonGamerGuildActualPlayPodcast"
     "03":
     - type: entry
       published: "2019-08-03T16:39:38+00:00"

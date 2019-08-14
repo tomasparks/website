@@ -904,6 +904,25 @@
   post-time: "1566088200"
 - '@attributes':
     type: podcast-feed
+  title: Sum Of All Parts - ABC RN
+  genre: []
+  artist: ABC Radio National
+  album: []
+  location: https://www.abc.net.au/radionational/feed/8826774/podcast.xml
+  last-seen: "1565801566"
+  date: "0"
+  media-type: application/octet-stream
+  status: "1"
+  description: "Sum of All Parts tells extraordinary stories about the unseen influence
+    that numbers have on the way we think, feel and behave.\_"
+  subtitle: []
+  summary: []
+  lang: en-AU
+  copyright: Copyright 2019, Australian Broadcasting Corporation. All Rights Reserved.
+  image: https://www.abc.net.au/radionational/image/8826732-1x1-1400x1400.jpg
+  post-time: "1565280240"
+- '@attributes':
+    type: podcast-feed
   title: Clients From Hell Podcast
   genre: []
   artist: Bryce Bladon

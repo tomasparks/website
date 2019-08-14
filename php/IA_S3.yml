@@ -262,7 +262,7 @@ Techdirt-Podcast-by-Techdirt:
   641991951-techdirt-hawleys-bill-sucks-let-us-count-the-ways.mp3: true
   655390613-techdirt-dont-panic.mp3: true
   638665395-techdirt-experimenting-with-twitch.mp3: true
-  665334242-techdirt-whats-really-in-the-ftcs-facebook-settlement-part-one.mp3: false
+  665334242-techdirt-whats-really-in-the-ftcs-facebook-settlement-part-one.mp3: true
 IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla:
   4758d08e.mp3: true
   5de33dc3.mp3: true
@@ -441,6 +441,9 @@ Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National
   Speaking_in_tongues.mp3: true
   Why_we_need_a_leap_second_added_to_our_clocks.mp3: true
   Gunpowder_vs_sandwich.mp3: true
+  Tobacco_denialism_part_one.mp3: false
+  Our_solar_system_is_weird.mp3: false
+  Tobacco_denialism_part_two.mp3: false
 Future_Tense_ABC_RN-by-ABC_Radio_National:
   fte_20190512.mp3: true
   fte_20190602.mp3: true
@@ -892,6 +895,7 @@ RPGMP3_Actual_Play_Podcast-by-Hal:
   pathfinder_dragons_delve_part_23.mp3: true
   pathfinder_dragons_delve_part_24.mp3: true
   pathfinder_dragons_delve_part_22.mp3: true
+  pathfinder_dragons_delve_part_26.mp3: false
 5_live_Science_Podcast-by-BBC_Radio_5_live:
   p068pk6z.mp3: true
   p068v1bw.mp3: true
