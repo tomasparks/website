@@ -2,6 +2,21 @@
 - type: entry
   published: "2019-08-02T17:51:23+00:00"
   url: https://twitter.com/tomasparksts/status/1157348180394037249
+  in-reply-to:
+  - https://twitter.com/Octav1usKitten/status/1157303351442378753
+  content:
+    text: "the #Macquarium was bad enough, now these \U0001F92E\nKing Octav1us"
+    html: "the <a href=\"https://twitter.com/search?q=%23Macquarium\">#Macquarium</a>
+      was bad enough, now these \U0001F92E\n<a class=\"u-mention\" href=\"https://twitter.com/Octav1usKitten\">King
+      Octav1us</a>"
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+- type: entry
+  published: "2019-08-02T17:51:23+00:00"
+  url: https://twitter.com/tomasparksts/status/1157348180394037249
   category:
   - https://twitter.com/Octav1usKitten
   in-reply-to:

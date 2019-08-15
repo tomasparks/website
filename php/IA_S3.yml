@@ -441,15 +441,22 @@ Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National
   Speaking_in_tongues.mp3: true
   Why_we_need_a_leap_second_added_to_our_clocks.mp3: true
   Gunpowder_vs_sandwich.mp3: true
-  Tobacco_denialism_part_one.mp3: false
-  Our_solar_system_is_weird.mp3: false
-  Tobacco_denialism_part_two.mp3: false
+  Tobacco_denialism_part_one.mp3: true
+  Our_solar_system_is_weird.mp3: true
+  Tobacco_denialism_part_two.mp3: true
+  Marco_Polo_and_spaghetti_part_two.mp3: true
+  Running_out_of_sand_part_two.mp3: true
+  Marco_Polo_and_spaghetti_part_one.mp3: true
+  Mirror_Universe_part_two.mp3: true
+  Running_out_of_sand_part_one.mp3: true
+  Mirror_Universe_part_1.mp3: true
 Future_Tense_ABC_RN-by-ABC_Radio_National:
   fte_20190512.mp3: true
   fte_20190602.mp3: true
   fte_20190526.mp3: true
   fte_20190519.mp3: true
   fte_20190714.mp3: true
+  fte_20190811.mp3: true
 Reply_All-Podcast-by-Gimlet:
   6_This_Proves_Everything.mp3: true
   5_Jennicam.mp3: true
@@ -895,7 +902,7 @@ RPGMP3_Actual_Play_Podcast-by-Hal:
   pathfinder_dragons_delve_part_23.mp3: true
   pathfinder_dragons_delve_part_24.mp3: true
   pathfinder_dragons_delve_part_22.mp3: true
-  pathfinder_dragons_delve_part_26.mp3: false
+  pathfinder_dragons_delve_part_26.mp3: true
 5_live_Science_Podcast-by-BBC_Radio_5_live:
   p068pk6z.mp3: true
   p068v1bw.mp3: true
@@ -1157,4 +1164,8 @@ IRL_Online_Life_Is_Real_Life-Podcast-by-Firefox_backed_by_Mozilla:
   IRL_S5E01_Privacy_Policy_Policies_FINAL_tc.mp3: true
   irl_s5e04_the_tech_worker_resistance_final_tc.mp3: true
   irl_s5_e02_democracy_and_the_internet_final_tc.mp3: true
+Sum_Of_All_Parts_ABC_RN-by-ABC_Radio_National:
+  sop_20190809.mp3: true
+Hardcore_Gaming_101-by-HardcoreGaming101net:
+  218_Top_Games.mp3: false
 ...

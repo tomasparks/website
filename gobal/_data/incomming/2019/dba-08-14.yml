@@ -25,6 +25,26 @@
     text: ' \ud83c\udfa7 Listened to What''s Really In The FTC''s Facebook Settlement,
       Part One by Techdirt From Techdirt'
 - type: entry
+  published: "2019-08-14T18:01:40+00:00"
+  category:
+  - scrobble
+  - audio
+  - Sum Of All Parts - ABC RN
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: https://www.abc.net.au/radionational/feed/8826774/podcast.xml
+      photo: ""
+      audio:
+      - https://abcmedia.akamaized.net/rn/podcast/2019/08/sop_20190809.mp3
+      - http://archive.org/download/Sum_Of_All_Parts_ABC_RN-by-ABC_Radio_National/sop_20190809.mp3
+      name: 13.0 Chiptune
+      author: ABC Radio National
+      content: How do you turn a Nintendo Game Boy into a musical instrument?
+  content:
+    text: ' \ud83c\udfa7 Listened to 13.0 Chiptune by ABC Radio National From Sum
+      Of All Parts - ABC RN'
+- type: entry
   published: "2019-08-14T16:48:00+00:00"
   category:
   - scrobble
@@ -44,6 +64,47 @@
         Ask Big PR.
   content:
     text: ' \ud83c\udfa7 Listened to Tobacco denialism: part one by ABC Radio National
+      From Great Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2019-08-14T17:07:19+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2019/07/gms_20190716.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Marco_Polo_and_spaghetti_part_two.mp3
+      name: 'Marco Polo and spaghetti: part two'
+      author: ABC Radio National
+      content: There's plenty of evidence that Marco Polo didn't introduce pasta from
+        China. So where did that myth start?
+  content:
+    text: ' \ud83c\udfa7 Listened to Marco Polo and spaghetti: part two by ABC Radio
+      National From Great Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2019-08-14T17:21:00+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2019/07/gms_20190730.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Running_out_of_sand_part_two.mp3
+      name: 'Running out of sand: part two'
+      author: ABC Radio National
+      content: The future of sand is ... recycled plastic?
+  content:
+    text: ' \ud83c\udfa7 Listened to Running out of sand: part two by ABC Radio National
       From Great Moments In Science - with Dr Karl Kruszelnicki'
 - type: entry
   published: "2019-08-14T16:41:24+00:00"
@@ -67,6 +128,27 @@
     text: ' \ud83c\udfa7 Listened to Our solar system is weird by ABC Radio National
       From Great Moments In Science - with Dr Karl Kruszelnicki'
 - type: entry
+  published: "2019-08-14T17:01:30+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2019/07/gms_20190709.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Marco_Polo_and_spaghetti_part_one.mp3
+      name: 'Marco Polo and spaghetti: part one'
+      author: ABC Radio National
+      content: We all know that Marco Polo brought spaghetti to the western world
+        from his travels in China. Or did he?
+  content:
+    text: ' \ud83c\udfa7 Listened to Marco Polo and spaghetti: part one by ABC Radio
+      National From Great Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
   published: "2019-08-14T16:55:40+00:00"
   category:
   - scrobble
@@ -87,6 +169,116 @@
   content:
     text: ' \ud83c\udfa7 Listened to Tobacco denialism: part two by ABC Radio National
       From Great Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2019-08-14T17:34:58+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2019/08/gms_20190813.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Mirror_Universe_part_two.mp3
+      name: 'Mirror Universe: part two'
+      author: ABC Radio National
+      content: A nine second difference between physics experiments could have big
+        implications. A whole universe worth of them!
+  content:
+    text: ' \ud83c\udfa7 Listened to Mirror Universe: part two by ABC Radio National
+      From Great Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2019-08-14T17:14:00+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2019/07/gms_20190723.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Running_out_of_sand_part_one.mp3
+      name: Running out of sand, part one
+      author: ABC Radio National
+      content: How could something as common as sand possibly be running low?
+  content:
+    text: ' \ud83c\udfa7 Listened to Running out of sand, part one by ABC Radio National
+      From Great Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2019-08-14T17:28:11+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2019/08/gms_20190806.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Mirror_Universe_part_1.mp3
+      name: 'Mirror Universe: part 1'
+      author: ABC Radio National
+      content: As if our regular universe isn't crazy enough - there might be a completely
+        different 'mirror' universe lurking amongst us!
+  content:
+    text: ' \ud83c\udfa7 Listened to Mirror Universe: part 1 by ABC Radio National
+      From Great Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2019-08-14T18:45:32+00:00"
+  category:
+  - scrobble
+  - audio
+  - Future Tense - ABC RN
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: https://www.abc.net.au/radionational/feed/2883726/podcast.xml
+      photo: ""
+      audio:
+      - https://abcmedia.akamaized.net/rn/podcast/2019/08/fte_20190811.mp3
+      - http://archive.org/download/Future_Tense_ABC_RN-by-ABC_Radio_National/fte_20190811.mp3
+      name: Netflix's decline and why stricter regulation could strengthen the tech
+        giants
+      author: ABC Radio National
+      content: Netflix dominates online TV streaming, but for how long?  Also, Cory
+        Doctorow on how more government regulation could inadvertently make the tech
+        giants even stronger.
+  content:
+    text: ' \ud83c\udfa7 Listened to Netflix''s decline and why stricter regulation
+      could strengthen the tech giants by ABC Radio National From Future Tense - ABC
+      RN'
+- type: entry
+  published: "2019-08-14T19:40:43+00:00"
+  category:
+  - scrobble
+  - audio
+  - Hardcore Gaming 101
+  - HardcoreGaming101.net
+  listen-of:
+    h-cite:
+      url: http://www.hardcoregaming101.net/gameclub199x/gameclub199x.rss
+      photo: ""
+      audio:
+      - https://chtbl.com/track/7G538/media.blubrry.com/hardcore_gaming_101/hg101.kontek.net/gameclub199x/podcasts/218_Top_Games.mp3
+      - http://archive.org/download/Hardcore_Gaming_101-by-HardcoreGaming101net/218_Top_Games.mp3
+      name: 218 - The Dagger of Amon Ra
+      author: HardcoreGaming101.net
+      content: Join the HG101 gang as they discuss and rank a Roaring Twenties Sierra
+        On-Line adventure, and perhaps a hidden classic -- with special guest PushingUpRoses!
+        This weekend's Patreon bonus game will be Alone in the Dark. Intro music by
+        NORM. Follow xerxes and HG101 on Twitter. Check out what games we've already
+        ranked on the Big Damn List, then vote for a game of your own.
+  content:
+    text: ' \ud83c\udfa7 Listened to 218 - The Dagger of Amon Ra by HardcoreGaming101.net
+      From Hardcore Gaming 101'
 - type: entry
   published: "2019-08-14T16:33:28+00:00"
   category:
