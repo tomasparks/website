@@ -1,29 +1,5 @@
 ---
 - type: entry
-  published: "2018-03-16T12:10:44+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough @brianmcc
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/jsrlnHgIbFg/150._More_SoundCloud_Chat_with_Buzzfeeds_Ryan_Mac.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/150_More_SoundCloud_Chat_with_Buzzfeeds_Ryan_Mac.mp3
-      name: 150. More SoundCloud Chat with Buzzfeed's Ryan Mac
-      author: Brian McCullough @brianmcc
-      content: "Just as last week\u2019s episode posted, another great piece about
-        SoundCloud was posted on Buzzfeed by the great Ryan Mac. So, in a rare attempt
-        by me to be topical, today\u2019s episode is with Ryan Mac, discussing his
-        article, which fills in some of the details about what Christina and I were
-        speculating on last week."
-  content:
-    text: ' \ud83c\udfa7 Listened to 150. More SoundCloud Chat with Buzzfeed''s Ryan
-      Mac by Brian McCullough @brianmcc From Internet History Podcast'
-- type: entry
   published: "2018-03-16T14:44:57+00:00"
   category:
   - scrobble
@@ -48,6 +24,30 @@
   content:
     text: ' \ud83c\udfa7 Listened to 151. Facebook''s First Senior Software Engineer,
       Karel Baloun by Brian McCullough @brianmcc From Internet History Podcast'
+- type: entry
+  published: "2018-03-16T12:10:44+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/jsrlnHgIbFg/150._More_SoundCloud_Chat_with_Buzzfeeds_Ryan_Mac.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/150_More_SoundCloud_Chat_with_Buzzfeeds_Ryan_Mac.mp3
+      name: 150. More SoundCloud Chat with Buzzfeed's Ryan Mac
+      author: Brian McCullough @brianmcc
+      content: "Just as last week\u2019s episode posted, another great piece about
+        SoundCloud was posted on Buzzfeed by the great Ryan Mac. So, in a rare attempt
+        by me to be topical, today\u2019s episode is with Ryan Mac, discussing his
+        article, which fills in some of the details about what Christina and I were
+        speculating on last week."
+  content:
+    text: ' \ud83c\udfa7 Listened to 150. More SoundCloud Chat with Buzzfeed''s Ryan
+      Mac by Brian McCullough @brianmcc From Internet History Podcast'
 - type: entry
   published: "2018-03-16T11:27:24+00:00"
   category:

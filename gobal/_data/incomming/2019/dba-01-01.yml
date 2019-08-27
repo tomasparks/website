@@ -44,6 +44,30 @@
     text: ' \ud83c\udfa7 Listened to Section 230 And Political Bias by Techdirt From
       Techdirt'
 - type: entry
+  published: "2019-01-01T06:03:08+00:00"
+  category:
+  - scrobble
+  - audio
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
+  listen-of:
+    h-cite:
+      url: http://textfiles.libsyn.com/rss
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_51.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Kickstarter_Episode.mp3
+      name: The Kickstarter Episode
+      author: Jason Scott
+      content: 'The Kickstarter Episode: Successful Sabbatical, Starting a Three-Pack,
+        What Happened, A Job To Be Me, The Sacrifice, The End, The Loot, The Beginning.
+        After a lot of thought and a number of sleepless nights, I ended the kickstarter
+        campaign that I''ve had running for seven years. I thought I would talk about
+        what inspired me to go about it in the first place, what went wrong, and what
+        I''ve learned.'
+  content:
+    text: ' \ud83c\udfa7 Listened to The Kickstarter Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
+- type: entry
   published: "2019-01-01T05:41:14+00:00"
   category:
   - scrobble
@@ -69,28 +93,4 @@
         those happen first.  Thank you again.'
   content:
     text: ' \ud83c\udfa7 Listened to The 50th Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
-- type: entry
-  published: "2019-01-01T06:03:08+00:00"
-  category:
-  - scrobble
-  - audio
-  - Jason Scott Talks His Way Out of It
-  - Jason Scott
-  listen-of:
-    h-cite:
-      url: http://textfiles.libsyn.com/rss
-      photo: ""
-      audio:
-      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_51.mp3?dest-id=574323
-      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Kickstarter_Episode.mp3
-      name: The Kickstarter Episode
-      author: Jason Scott
-      content: 'The Kickstarter Episode: Successful Sabbatical, Starting a Three-Pack,
-        What Happened, A Job To Be Me, The Sacrifice, The End, The Loot, The Beginning.
-        After a lot of thought and a number of sleepless nights, I ended the kickstarter
-        campaign that I''ve had running for seven years. I thought I would talk about
-        what inspired me to go about it in the first place, what went wrong, and what
-        I''ve learned.'
-  content:
-    text: ' \ud83c\udfa7 Listened to The Kickstarter Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
 ...

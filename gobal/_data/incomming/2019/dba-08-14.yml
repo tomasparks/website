@@ -45,6 +45,48 @@
     text: ' \ud83c\udfa7 Listened to 13.0 Chiptune by ABC Radio National From Sum
       Of All Parts - ABC RN'
 - type: entry
+  published: "2019-08-14T17:34:58+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2019/08/gms_20190813.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Mirror_Universe_part_two.mp3
+      name: 'Mirror Universe: part two'
+      author: ABC Radio National
+      content: A nine second difference between physics experiments could have big
+        implications. A whole universe worth of them!
+  content:
+    text: ' \ud83c\udfa7 Listened to Mirror Universe: part two by ABC Radio National
+      From Great Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2019-08-14T17:01:30+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2019/07/gms_20190709.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Marco_Polo_and_spaghetti_part_one.mp3
+      name: 'Marco Polo and spaghetti: part one'
+      author: ABC Radio National
+      content: We all know that Marco Polo brought spaghetti to the western world
+        from his travels in China. Or did he?
+  content:
+    text: ' \ud83c\udfa7 Listened to Marco Polo and spaghetti: part one by ABC Radio
+      National From Great Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
   published: "2019-08-14T16:48:00+00:00"
   category:
   - scrobble
@@ -128,27 +170,6 @@
     text: ' \ud83c\udfa7 Listened to Our solar system is weird by ABC Radio National
       From Great Moments In Science - with Dr Karl Kruszelnicki'
 - type: entry
-  published: "2019-08-14T17:01:30+00:00"
-  category:
-  - scrobble
-  - audio
-  - Great Moments In Science - with Dr Karl Kruszelnicki
-  - ABC Radio National
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2019/07/gms_20190709.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Marco_Polo_and_spaghetti_part_one.mp3
-      name: 'Marco Polo and spaghetti: part one'
-      author: ABC Radio National
-      content: We all know that Marco Polo brought spaghetti to the western world
-        from his travels in China. Or did he?
-  content:
-    text: ' \ud83c\udfa7 Listened to Marco Polo and spaghetti: part one by ABC Radio
-      National From Great Moments In Science - with Dr Karl Kruszelnicki'
-- type: entry
   published: "2019-08-14T16:55:40+00:00"
   category:
   - scrobble
@@ -168,27 +189,6 @@
         playing out today. And it's gone way beyond tobacco.
   content:
     text: ' \ud83c\udfa7 Listened to Tobacco denialism: part two by ABC Radio National
-      From Great Moments In Science - with Dr Karl Kruszelnicki'
-- type: entry
-  published: "2019-08-14T17:34:58+00:00"
-  category:
-  - scrobble
-  - audio
-  - Great Moments In Science - with Dr Karl Kruszelnicki
-  - ABC Radio National
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2019/08/gms_20190813.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Mirror_Universe_part_two.mp3
-      name: 'Mirror Universe: part two'
-      author: ABC Radio National
-      content: A nine second difference between physics experiments could have big
-        implications. A whole universe worth of them!
-  content:
-    text: ' \ud83c\udfa7 Listened to Mirror Universe: part two by ABC Radio National
       From Great Moments In Science - with Dr Karl Kruszelnicki'
 - type: entry
   published: "2019-08-14T17:14:00+00:00"

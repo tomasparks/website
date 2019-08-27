@@ -1,33 +1,5 @@
 ---
 - type: entry
-  published: "2019-03-19T10:11:03+00:00"
-  category:
-  - scrobble
-  - audio
-  - IRL - Online Life Is Real Life
-  - Mozilla
-  listen-of:
-    h-cite:
-      url: https://feeds.mozilla-podcasts.org/irl
-      photo: ""
-      audio:
-      - https://tracking.feedpress.it/link/17512/10016570/588ea281.mp3
-      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/588ea281.mp3
-      name: Virtual Connections
-      author: Mozilla
-      content: ":'-) Ever wonder why emoticons exist? They popped up in the 1980s
-        to make online connections feel a little less digital and a little more personal
-        :D. In this episode of IRL, host Veronica Belmont and special guest Peter
-        Rojas explore how the Internet is both building and also confusing our relationships
-        every day. Chloe Stuart-Ulin gives a first-hand account of her life as a \u201Ccloser\u201D
-        for an online-dating service; we hear a dramatic, real-life story about a
-        woman who finds her biological parent online; and Emma Brockes talks about
-        how we can all maintain humanity while interacting with others on the internet.\n\nIRL
-        is an original podcast from Mozilla. For more on the series go to irlpodcast.org\n"
-  content:
-    text: ' \ud83c\udfa7 Listened to Virtual Connections by Mozilla From IRL - Online
-      Life Is Real Life'
-- type: entry
   published: "2019-03-19T20:48:16+00:00"
   category:
   - scrobble
@@ -86,4 +58,32 @@
   content:
     text: ' \ud83c\udfa7 Listened to Bullying and Bonding Online by Mozilla From IRL
       - Online Life Is Real Life'
+- type: entry
+  published: "2019-03-19T10:11:03+00:00"
+  category:
+  - scrobble
+  - audio
+  - IRL - Online Life Is Real Life
+  - Mozilla
+  listen-of:
+    h-cite:
+      url: https://feeds.mozilla-podcasts.org/irl
+      photo: ""
+      audio:
+      - https://tracking.feedpress.it/link/17512/10016570/588ea281.mp3
+      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/588ea281.mp3
+      name: Virtual Connections
+      author: Mozilla
+      content: ":'-) Ever wonder why emoticons exist? They popped up in the 1980s
+        to make online connections feel a little less digital and a little more personal
+        :D. In this episode of IRL, host Veronica Belmont and special guest Peter
+        Rojas explore how the Internet is both building and also confusing our relationships
+        every day. Chloe Stuart-Ulin gives a first-hand account of her life as a \u201Ccloser\u201D
+        for an online-dating service; we hear a dramatic, real-life story about a
+        woman who finds her biological parent online; and Emma Brockes talks about
+        how we can all maintain humanity while interacting with others on the internet.\n\nIRL
+        is an original podcast from Mozilla. For more on the series go to irlpodcast.org\n"
+  content:
+    text: ' \ud83c\udfa7 Listened to Virtual Connections by Mozilla From IRL - Online
+      Life Is Real Life'
 ...

@@ -24,6 +24,30 @@
       by ABC Science From Dr_Karl_Podcast'
 1:
   type: entry
+  published: "2018-06-14T12:42:57+00:00"
+  category:
+  - scrobble
+  - audio
+  - "Podcast \u2013 Cory Doctorow's craphound.com"
+  - Cory Doctorow
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/doctorow_podcast
+      photo: ""
+      audio:
+      - https://archive.org/download/Cory_Doctorow_Podcast_292/Cory_Doctorow_Podcast_292_-_Petard_02.mp3
+      - http://archive.org/download/Cory_Doctorows-Podcast-by-Cory_Doctorow/Cory_Doctorow_Podcast_292_-_Petard_02.mp3
+      name: 'Podcast: Petard, Part 02'
+      author: Cory Doctorow
+      content: Here&#8217;s the second part of my reading (MP3) of Petard (part one),
+        a story from MIT Tech Review&#8217;s Twelve Tomorrows, edited by Bruce Sterling;
+        a story inspired by, and dedicated to, Aaron Swartz &#8212; about elves, Net
+        Neutrality, dorms and the collective action problem. MP3
+  content:
+    text: " \\ud83c\\udfa7 Listened to Podcast: Petard, Part 02 by Cory Doctorow From
+      Podcast \u2013 Cory Doctorow's craphound.com"
+2:
+  type: entry
   published: "2018-06-14T13:33:20+00:00"
   category:
   - scrobble
@@ -47,7 +71,7 @@
   content:
     text: " \\ud83c\\udfa7 Listened to Podcast: Petard, Part 04 \u2014 CONCLUSION
       by Cory Doctorow From Podcast \u2013 Cory Doctorow's craphound.com"
-2:
+3:
   type: entry
   published: "2018-06-14T13:15:30+00:00"
   category:
@@ -70,30 +94,6 @@
         about elves, Net Neutrality, dorms and the collective action problem. MP3
   content:
     text: " \\ud83c\\udfa7 Listened to Podcast: Petard, Part 03 by Cory Doctorow From
-      Podcast \u2013 Cory Doctorow's craphound.com"
-3:
-  type: entry
-  published: "2018-06-14T12:42:57+00:00"
-  category:
-  - scrobble
-  - audio
-  - "Podcast \u2013 Cory Doctorow's craphound.com"
-  - Cory Doctorow
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/doctorow_podcast
-      photo: ""
-      audio:
-      - https://archive.org/download/Cory_Doctorow_Podcast_292/Cory_Doctorow_Podcast_292_-_Petard_02.mp3
-      - http://archive.org/download/Cory_Doctorows-Podcast-by-Cory_Doctorow/Cory_Doctorow_Podcast_292_-_Petard_02.mp3
-      name: 'Podcast: Petard, Part 02'
-      author: Cory Doctorow
-      content: Here&#8217;s the second part of my reading (MP3) of Petard (part one),
-        a story from MIT Tech Review&#8217;s Twelve Tomorrows, edited by Bruce Sterling;
-        a story inspired by, and dedicated to, Aaron Swartz &#8212; about elves, Net
-        Neutrality, dorms and the collective action problem. MP3
-  content:
-    text: " \\ud83c\\udfa7 Listened to Podcast: Petard, Part 02 by Cory Doctorow From
       Podcast \u2013 Cory Doctorow's craphound.com"
 4:
   type: entry
@@ -120,7 +120,7 @@
       From @AcquiredFM'
 5:
   type: entry
-  published: "2018-06-14T16:11:04+00:00"
+  published: "2018-06-14T16:58:03+00:00"
   category:
   - scrobble
   - audio
@@ -131,16 +131,18 @@
       url: http://www.acquired.fm/episodes?format=RSS
       photo: ""
       audio:
-      - http://static1.squarespace.com/static/56208487e4b020250549a935/t/563572f4e4b0f705d4eaef37/1446343412094/Acquired+Episode+2+-+Instagram.mp3
-      - http://archive.org/download/Acquired-Podcast-by-Ben_Gilbert_and_David_Rosenthal/Episode_2_Instagram.mp3
-      name: 'Episode 2: Instagram'
+      - http://static1.squarespace.com/static/56208487e4b020250549a935/t/56498d77e4b08bab0a255aa5/1447660919682/Acquired+Episode+3+-+Twitch.mp3
+      - http://archive.org/download/Acquired-Podcast-by-Ben_Gilbert_and_David_Rosenthal/Episode_3_Twitch.mp3
+      name: 'Episode 3: Twitch'
       author: Ben Gilbert and David Rosenthal
-      content: Ben and David discuss Facebook's acquisition of Instagram in 2012.
-        Was it a success? If so, what are the criteria that made it work? What lessons
-        can be learned for other acquisitions in the future?
+      content: Ben and David discuss Amazon's acquisition of Twitch in 2014. Unlike
+        previous episodes, this recent acquisition still has a lot of open questions,
+        and Amazon hasn't publicly reported growth of Twitch since the purchase. Ben
+        and David talk about Justin Kan's original product with Justin.tv, and the
+        transformation into the Twitch that Emmett Shear is running today.
   content:
-    text: ' \ud83c\udfa7 Listened to Episode 2: Instagram by Ben Gilbert and David
-      Rosenthal From @AcquiredFM'
+    text: ' \ud83c\udfa7 Listened to Episode 3: Twitch by Ben Gilbert and David Rosenthal
+      From @AcquiredFM'
 6:
   type: entry
   published: "2018-06-14T17:59:00+00:00"
@@ -165,7 +167,7 @@
       From @AcquiredFM'
 7:
   type: entry
-  published: "2018-06-14T16:58:03+00:00"
+  published: "2018-06-14T16:11:04+00:00"
   category:
   - scrobble
   - audio
@@ -176,18 +178,16 @@
       url: http://www.acquired.fm/episodes?format=RSS
       photo: ""
       audio:
-      - http://static1.squarespace.com/static/56208487e4b020250549a935/t/56498d77e4b08bab0a255aa5/1447660919682/Acquired+Episode+3+-+Twitch.mp3
-      - http://archive.org/download/Acquired-Podcast-by-Ben_Gilbert_and_David_Rosenthal/Episode_3_Twitch.mp3
-      name: 'Episode 3: Twitch'
+      - http://static1.squarespace.com/static/56208487e4b020250549a935/t/563572f4e4b0f705d4eaef37/1446343412094/Acquired+Episode+2+-+Instagram.mp3
+      - http://archive.org/download/Acquired-Podcast-by-Ben_Gilbert_and_David_Rosenthal/Episode_2_Instagram.mp3
+      name: 'Episode 2: Instagram'
       author: Ben Gilbert and David Rosenthal
-      content: Ben and David discuss Amazon's acquisition of Twitch in 2014. Unlike
-        previous episodes, this recent acquisition still has a lot of open questions,
-        and Amazon hasn't publicly reported growth of Twitch since the purchase. Ben
-        and David talk about Justin Kan's original product with Justin.tv, and the
-        transformation into the Twitch that Emmett Shear is running today.
+      content: Ben and David discuss Facebook's acquisition of Instagram in 2012.
+        Was it a success? If so, what are the criteria that made it work? What lessons
+        can be learned for other acquisitions in the future?
   content:
-    text: ' \ud83c\udfa7 Listened to Episode 3: Twitch by Ben Gilbert and David Rosenthal
-      From @AcquiredFM'
+    text: ' \ud83c\udfa7 Listened to Episode 2: Instagram by Ben Gilbert and David
+      Rosenthal From @AcquiredFM'
 16:
   type: entry
   published: "2018-06-14T14:08:18+00:00"

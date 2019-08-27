@@ -1,6 +1,6 @@
 ---
 - type: entry
-  published: "2019-04-13T07:12:29+00:00"
+  published: "2019-04-13T10:25:00+00:00"
   category:
   - scrobble
   - audio
@@ -11,14 +11,14 @@
       url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
       photo: ""
       audio:
-      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_38.mp3
-      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_38.mp3
-      name: Kingmaker Session 38
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_39.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_39.mp3
+      name: Kingmaker Session 39
       author: Hal
-      content: "Episode 38 \u2013 in which Vordekai makes his first move against Kaylen.
-        Thrice shall it come and done\u2026"
+      content: "Episode 39 \u2013 in which Kaylen and Michaela explore Varnhold, and
+        encounter the strange creature of Dragonleaf Gulch."
   content:
-    text: ' \ud83c\udfa7 Listened to Kingmaker Session 38 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 39 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
 - type: entry
   published: "2019-04-13T12:13:00+00:00"
   category:
@@ -40,7 +40,7 @@
   content:
     text: ' \ud83c\udfa7 Listened to Kingmaker Session 40 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
 - type: entry
-  published: "2019-04-13T10:25:00+00:00"
+  published: "2019-04-13T07:12:29+00:00"
   category:
   - scrobble
   - audio
@@ -51,12 +51,12 @@
       url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
       photo: ""
       audio:
-      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_39.mp3
-      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_39.mp3
-      name: Kingmaker Session 39
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_38.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_38.mp3
+      name: Kingmaker Session 38
       author: Hal
-      content: "Episode 39 \u2013 in which Kaylen and Michaela explore Varnhold, and
-        encounter the strange creature of Dragonleaf Gulch."
+      content: "Episode 38 \u2013 in which Vordekai makes his first move against Kaylen.
+        Thrice shall it come and done\u2026"
   content:
-    text: ' \ud83c\udfa7 Listened to Kingmaker Session 39 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 38 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
 ...

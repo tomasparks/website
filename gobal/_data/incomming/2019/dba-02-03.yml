@@ -47,25 +47,6 @@
     text: ' \ud83c\udfa7 Listened to #30 The Man In The FBI Hat by Gimlet From Reply
       All'
 - type: entry
-  published: "2019-02-03T12:49:39+00:00"
-  category:
-  - scrobble
-  - audio
-  - Jason Scott Talks His Way Out of It
-  - Jason Scott
-  listen-of:
-    h-cite:
-      url: http://textfiles.libsyn.com/rss
-      photo: ""
-      audio:
-      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_55.mp3?dest-id=574323
-      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Time_Episode.mp3
-      name: The Time Episode
-      author: Jason Scott
-      content: The Time Episode. Was it all worth it?
-  content:
-    text: ' \ud83c\udfa7 Listened to The Time Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
-- type: entry
   published: "2019-02-03T10:34:00+00:00"
   category:
   - scrobble
@@ -90,34 +71,6 @@
         my hands on them, they'll all go up."
   content:
     text: ' \ud83c\udfa7 Listened to The EsnesnoN Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
-- type: entry
-  published: "2019-02-03T12:35:14+00:00"
-  category:
-  - scrobble
-  - audio
-  - Jason Scott Talks His Way Out of It
-  - Jason Scott
-  listen-of:
-    h-cite:
-      url: http://textfiles.libsyn.com/rss
-      photo: ""
-      audio:
-      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_54.mp3?dest-id=574323
-      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Postal_Zine_Episode.mp3
-      name: The Postal Zine Episode
-      author: Jason Scott
-      content: 'The Postal Zine Episode: National Lampoon, Adult Comics, Fooled Them,
-        Forbidden Mail, Forbidden Subjects, Catalogs, Books, Power and Revenge, Factsheet
-        Five, Gunderloy, Anarchy, Factsheet Five''s Big Party, Internet, Zines, PDFs.
-        Also: The Tax Treadmill. An episode about my relationship (and others) to
-        postal-based forbidden things, including access to the Factsheet Five magazine,
-        one of the best printed things on earth at the time. The Internet Archive
-        Zine collection is massive and growing: https://archive.org/details/zines
-        Factsheet Five has a few issues up on the archive, but we need a large and
-        high-quality scanning of this thing. https://archive.org/search.php?query=factsheet%20five
-        We even have a pretty zesty Loompanics catalog: https://archive.org/details/Loompanics_Catalog_2003'
-  content:
-    text: ' \ud83c\udfa7 Listened to The Postal Zine Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
 - type: entry
   published: "2019-02-03T11:44:25+00:00"
   category:
@@ -147,4 +100,51 @@
   content:
     text: ' \ud83c\udfa7 Listened to The Robert Hoquim Extra Episode by @textfiles
       From #JasonScottTalksHisWayOutofIt'
+- type: entry
+  published: "2019-02-03T12:35:14+00:00"
+  category:
+  - scrobble
+  - audio
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
+  listen-of:
+    h-cite:
+      url: http://textfiles.libsyn.com/rss
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_54.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Postal_Zine_Episode.mp3
+      name: The Postal Zine Episode
+      author: Jason Scott
+      content: 'The Postal Zine Episode: National Lampoon, Adult Comics, Fooled Them,
+        Forbidden Mail, Forbidden Subjects, Catalogs, Books, Power and Revenge, Factsheet
+        Five, Gunderloy, Anarchy, Factsheet Five''s Big Party, Internet, Zines, PDFs.
+        Also: The Tax Treadmill. An episode about my relationship (and others) to
+        postal-based forbidden things, including access to the Factsheet Five magazine,
+        one of the best printed things on earth at the time. The Internet Archive
+        Zine collection is massive and growing: https://archive.org/details/zines
+        Factsheet Five has a few issues up on the archive, but we need a large and
+        high-quality scanning of this thing. https://archive.org/search.php?query=factsheet%20five
+        We even have a pretty zesty Loompanics catalog: https://archive.org/details/Loompanics_Catalog_2003'
+  content:
+    text: ' \ud83c\udfa7 Listened to The Postal Zine Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
+- type: entry
+  published: "2019-02-03T12:49:39+00:00"
+  category:
+  - scrobble
+  - audio
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
+  listen-of:
+    h-cite:
+      url: http://textfiles.libsyn.com/rss
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_55.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Time_Episode.mp3
+      name: The Time Episode
+      author: Jason Scott
+      content: The Time Episode. Was it all worth it?
+  content:
+    text: ' \ud83c\udfa7 Listened to The Time Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
 ...

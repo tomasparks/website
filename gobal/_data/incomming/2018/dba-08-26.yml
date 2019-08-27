@@ -1,6 +1,6 @@
 ---
 - type: entry
-  published: "2018-08-26T01:19:09+00:00"
+  published: "2018-08-26T06:20:32+00:00"
   category:
   - scrobble
   - audio
@@ -11,15 +11,15 @@
       url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
       photo: ""
       audio:
-      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/lost_and_forgotten_session_04.mp3
-      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/lost_and_forgotten_session_04.mp3
-      name: Lost and Forgotten Session 04
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/lost_and_forgotten_session_05.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/lost_and_forgotten_session_05.mp3
+      name: Lost and Forgotten Session 05
       author: Hal
-      content: "Episode 4 \u2013 in which our castaways face off with the World\u2019s
-        Dumbest Cannibal\u2122, and learn the fate of other castaways on Smuggler\u2019s
-        Shiv."
+      content: "Episode 5 \u2013 in which our castaways face off with the island\u2019s
+        undead and attempt to excavate an old pirate treasure. To the shock of Dungeons
+        and Dragons players everywhere, it\u2019s protected by traps and monsters."
   content:
-    text: ' \ud83c\udfa7 Listened to Lost and Forgotten Session 04 by @rpgmp3 From
+    text: ' \ud83c\udfa7 Listened to Lost and Forgotten Session 05 by @rpgmp3 From
       #RPGMP3ActualPlayPodcast'
 - type: entry
   published: "2018-08-26T14:42:22+00:00"
@@ -43,7 +43,7 @@
     text: ' \ud83c\udfa7 Listened to Lost and Forgotten Session 06 by @rpgmp3 From
       #RPGMP3ActualPlayPodcast'
 - type: entry
-  published: "2018-08-26T06:20:32+00:00"
+  published: "2018-08-26T01:19:09+00:00"
   category:
   - scrobble
   - audio
@@ -54,14 +54,14 @@
       url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
       photo: ""
       audio:
-      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/lost_and_forgotten_session_05.mp3
-      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/lost_and_forgotten_session_05.mp3
-      name: Lost and Forgotten Session 05
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/lost_and_forgotten_session_04.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/lost_and_forgotten_session_04.mp3
+      name: Lost and Forgotten Session 04
       author: Hal
-      content: "Episode 5 \u2013 in which our castaways face off with the island\u2019s
-        undead and attempt to excavate an old pirate treasure. To the shock of Dungeons
-        and Dragons players everywhere, it\u2019s protected by traps and monsters."
+      content: "Episode 4 \u2013 in which our castaways face off with the World\u2019s
+        Dumbest Cannibal\u2122, and learn the fate of other castaways on Smuggler\u2019s
+        Shiv."
   content:
-    text: ' \ud83c\udfa7 Listened to Lost and Forgotten Session 05 by @rpgmp3 From
+    text: ' \ud83c\udfa7 Listened to Lost and Forgotten Session 04 by @rpgmp3 From
       #RPGMP3ActualPlayPodcast'
 ...

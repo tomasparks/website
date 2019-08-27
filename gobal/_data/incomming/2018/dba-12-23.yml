@@ -52,6 +52,50 @@
     text: ' \ud83c\udfa7 Listened to 184. GV''s Ken Norton by Brian McCullough @brianmcc
       From Internet History Podcast'
 - type: entry
+  published: "2018-12-23T20:13:58+00:00"
+  category:
+  - scrobble
+  - audio
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
+  listen-of:
+    h-cite:
+      url: http://textfiles.libsyn.com/rss
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_45.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Failed_ISP_Episode.mp3
+      name: The Failed ISP Episode
+      author: Jason Scott
+      content: 'The Failed ISP Episode: That Time I Ran an ISP, ISPs Versus BBSes,
+        The Idea of COW.NET and COW-TOWN, Ancient Equipment, Computers In Cow Fields,
+        Unexpected Additional Users, Dee, The Distillery, Sun 3/280, The Debt, The
+        Downfall, The Crazy Leap. Also: The Two-Story Internet.'
+  content:
+    text: ' \ud83c\udfa7 Listened to The Failed ISP Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
+- type: entry
+  published: "2018-12-23T20:39:43+00:00"
+  category:
+  - scrobble
+  - audio
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
+  listen-of:
+    h-cite:
+      url: http://textfiles.libsyn.com/rss
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_46.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Speedrunning_Episode.mp3
+      name: The Speedrunning Episode
+      author: Jason Scott
+      content: 'The Speedrunning Episode: A Very-Ill-Advised Car Ride, World Record
+        Progression, Speedrunning, The Rules, The Glory, The Glitches, The Thrills,
+        Summoning Salt, Quake Done Quick, Grenade Speedups and Bunny Hops, History
+        Lost, Games Done Quick, Time.'
+  content:
+    text: ' \ud83c\udfa7 Listened to The Speedrunning Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
+- type: entry
   published: "2018-12-23T21:02:29+00:00"
   category:
   - scrobble
@@ -76,48 +120,4 @@
   content:
     text: ' \ud83c\udfa7 Listened to The Technical Interview Episode by @textfiles
       From #JasonScottTalksHisWayOutofIt'
-- type: entry
-  published: "2018-12-23T20:39:43+00:00"
-  category:
-  - scrobble
-  - audio
-  - Jason Scott Talks His Way Out of It
-  - Jason Scott
-  listen-of:
-    h-cite:
-      url: http://textfiles.libsyn.com/rss
-      photo: ""
-      audio:
-      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_46.mp3?dest-id=574323
-      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Speedrunning_Episode.mp3
-      name: The Speedrunning Episode
-      author: Jason Scott
-      content: 'The Speedrunning Episode: A Very-Ill-Advised Car Ride, World Record
-        Progression, Speedrunning, The Rules, The Glory, The Glitches, The Thrills,
-        Summoning Salt, Quake Done Quick, Grenade Speedups and Bunny Hops, History
-        Lost, Games Done Quick, Time.'
-  content:
-    text: ' \ud83c\udfa7 Listened to The Speedrunning Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
-- type: entry
-  published: "2018-12-23T20:13:58+00:00"
-  category:
-  - scrobble
-  - audio
-  - Jason Scott Talks His Way Out of It
-  - Jason Scott
-  listen-of:
-    h-cite:
-      url: http://textfiles.libsyn.com/rss
-      photo: ""
-      audio:
-      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_45.mp3?dest-id=574323
-      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Failed_ISP_Episode.mp3
-      name: The Failed ISP Episode
-      author: Jason Scott
-      content: 'The Failed ISP Episode: That Time I Ran an ISP, ISPs Versus BBSes,
-        The Idea of COW.NET and COW-TOWN, Ancient Equipment, Computers In Cow Fields,
-        Unexpected Additional Users, Dee, The Distillery, Sun 3/280, The Debt, The
-        Downfall, The Crazy Leap. Also: The Two-Story Internet.'
-  content:
-    text: ' \ud83c\udfa7 Listened to The Failed ISP Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
 ...

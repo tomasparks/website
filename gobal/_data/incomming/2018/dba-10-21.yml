@@ -1,27 +1,5 @@
 ---
 - type: entry
-  published: "2018-10-21T03:07:10+00:00"
-  category:
-  - scrobble
-  - audio
-  - Jason Scott Talks His Way Out of It
-  - Jason Scott
-  listen-of:
-    h-cite:
-      url: http://textfiles.libsyn.com/rss
-      photo: ""
-      audio:
-      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_42.mp3?dest-id=574323
-      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Personal_Philosophy_Episode.mp3
-      name: The Personal Philosophy Episode
-      author: Jason Scott
-      content: 'The Personal Philosophy Episode: Fan Mail, Philosophy, Life Changes,
-        Sharing Information, Vulnerability, The Commodore Pet, Narratives, The Hidden
-        and Unhidden, A Lost Month, 50, This Life.'
-  content:
-    text: ' \ud83c\udfa7 Listened to The Personal Philosophy Episode by @textfiles
-      From #JasonScottTalksHisWayOutofIt'
-- type: entry
   published: "2018-10-21T03:32:54+00:00"
   category:
   - scrobble
@@ -45,78 +23,27 @@
   content:
     text: ' \ud83c\udfa7 Listened to The Radio Radio Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
 - type: entry
-  published: "2018-10-21T04:17:12+00:00"
+  published: "2018-10-21T03:07:10+00:00"
   category:
   - scrobble
   - audio
-  - Stephen Fry's Great Leap Years
-  - Stephen Fry | SamFry Ltd
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
   listen-of:
     h-cite:
-      url: https://rss.acast.com/greatleapyears
+      url: http://textfiles.libsyn.com/rss
       photo: ""
       audio:
-      - https://media.acast.com/greatleapyears/whenwewereveryyoung/media.mp3
-      - http://archive.org/download/Stephen_Frys_Great_Leap_Years-Podcast-by-Stephen_Fry/1_When_We_Were_Very_Young.mp3
-      name: 1 - When We Were Very Young
-      author: Stephen Fry | SamFry Ltd
-      content: Far out in the ocean of discovery huge swells have been gathering and
-        combining to create the great tsunami that will soon engulf us, We look back
-        at how innovation in technology has, from the first, changed our ways of living,
-        our sense of who we are and what we are to expect from life.Researched, written
-        &amp; read by Stephen Fry. Music composed and conducted by Guy Farley with
-        The Chamber Orchestra of London.&nbsp;
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_42.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_Personal_Philosophy_Episode.mp3
+      name: The Personal Philosophy Episode
+      author: Jason Scott
+      content: 'The Personal Philosophy Episode: Fan Mail, Philosophy, Life Changes,
+        Sharing Information, Vulnerability, The Commodore Pet, Narratives, The Hidden
+        and Unhidden, A Lost Month, 50, This Life.'
   content:
-    text: ' \ud83c\udfa7 Listened to 1 - When We Were Very Young by Stephen Fry |
-      SamFry Ltd From Stephen Fry''s Great Leap Years'
-- type: entry
-  published: "2018-10-21T12:34:34+00:00"
-  category:
-  - scrobble
-  - audio
-  - Stephen Fry's Great Leap Years
-  - Stephen Fry | SamFry Ltd
-  listen-of:
-    h-cite:
-      url: https://rss.acast.com/greatleapyears
-      photo: ""
-      audio:
-      - https://media.acast.com/greatleapyears/5-letsplaymonopoly/media.mp3
-      - http://archive.org/download/Stephen_Frys_Great_Leap_Years-Podcast-by-Stephen_Fry/5_Lets_Play_Monopoly.mp3
-      name: 5 - Let's Play Monopoly
-      author: Stephen Fry | SamFry Ltd
-      content: The War of the Currents and a new type of person arises, an almost
-        wholly American invention - the salesman. The foundations are set for the
-        rise of one of the mightiest company's the world had ever seen - International
-        Business Machines.&nbsp;Or as we all know it today, IBM. Researched, written
-        &amp; read by&nbsp;Stephen Fry. Music composed and conducted by&nbsp;Guy Farley&nbsp;with
-        The Chamber Orchestra of London
-  content:
-    text: ' \ud83c\udfa7 Listened to 5 - Let''s Play Monopoly by Stephen Fry | SamFry
-      Ltd From Stephen Fry''s Great Leap Years'
-- type: entry
-  published: "2018-10-21T11:34:51+00:00"
-  category:
-  - scrobble
-  - audio
-  - Stephen Fry's Great Leap Years
-  - Stephen Fry | SamFry Ltd
-  listen-of:
-    h-cite:
-      url: https://rss.acast.com/greatleapyears
-      photo: ""
-      audio:
-      - https://media.acast.com/greatleapyears/raisingthevailandcatchingthetube/media.mp3
-      - http://archive.org/download/Stephen_Frys_Great_Leap_Years-Podcast-by-Stephen_Fry/4_Raising_the_Vail_and_Catching_the_Tube.mp3
-      name: 4 - Raising the Vail and Catching the Tube
-      author: Stephen Fry | SamFry Ltd
-      content: The sperm whale, Bell Labs, vacuum tubes and the dawning age of information
-        at the speed of light.Researched, written &amp; read by&nbsp;Stephen Fry.
-        Music composed and conducted by&nbsp;Guy Farley&nbsp;with The Chamber Orchestra
-        of London.
-  content:
-    text: ' \ud83c\udfa7 Listened to 4 - Raising the Vail and Catching the Tube by
-      Stephen Fry | SamFry Ltd From Stephen Fry''s Great Leap Years'
+    text: ' \ud83c\udfa7 Listened to The Personal Philosophy Episode by @textfiles
+      From #JasonScottTalksHisWayOutofIt'
 - type: entry
   published: "2018-10-21T05:08:04+00:00"
   category:
@@ -146,7 +73,7 @@
     text: ' \ud83c\udfa7 Listened to 2 - A Faustian Pact by Stephen Fry | SamFry Ltd
       From Stephen Fry''s Great Leap Years'
 - type: entry
-  published: "2018-10-21T03:35:25+00:00"
+  published: "2018-10-21T12:34:34+00:00"
   category:
   - scrobble
   - audio
@@ -157,15 +84,67 @@
       url: https://rss.acast.com/greatleapyears
       photo: ""
       audio:
-      - https://media.acast.com/greatleapyears/trailer------------------------------------------------------------/media.mp3
-      - http://archive.org/download/Stephen_Frys_Great_Leap_Years-Podcast-by-Stephen_Fry/Trailer.mp3
-      name: Trailer
+      - https://media.acast.com/greatleapyears/5-letsplaymonopoly/media.mp3
+      - http://archive.org/download/Stephen_Frys_Great_Leap_Years-Podcast-by-Stephen_Fry/5_Lets_Play_Monopoly.mp3
+      name: 5 - Let's Play Monopoly
       author: Stephen Fry | SamFry Ltd
-      content: "Stephen Fry previews his epic new documentary podcast series entitled
-        Stephen Fry\u2019s Great Leap Years \u2013 the stories behind inventions."
+      content: The War of the Currents and a new type of person arises, an almost
+        wholly American invention - the salesman. The foundations are set for the
+        rise of one of the mightiest company's the world had ever seen - International
+        Business Machines.&nbsp;Or as we all know it today, IBM. Researched, written
+        &amp; read by&nbsp;Stephen Fry. Music composed and conducted by&nbsp;Guy Farley&nbsp;with
+        The Chamber Orchestra of London
   content:
-    text: ' \ud83c\udfa7 Listened to Trailer by Stephen Fry | SamFry Ltd From Stephen
-      Fry''s Great Leap Years'
+    text: ' \ud83c\udfa7 Listened to 5 - Let''s Play Monopoly by Stephen Fry | SamFry
+      Ltd From Stephen Fry''s Great Leap Years'
+- type: entry
+  published: "2018-10-21T04:17:12+00:00"
+  category:
+  - scrobble
+  - audio
+  - Stephen Fry's Great Leap Years
+  - Stephen Fry | SamFry Ltd
+  listen-of:
+    h-cite:
+      url: https://rss.acast.com/greatleapyears
+      photo: ""
+      audio:
+      - https://media.acast.com/greatleapyears/whenwewereveryyoung/media.mp3
+      - http://archive.org/download/Stephen_Frys_Great_Leap_Years-Podcast-by-Stephen_Fry/1_When_We_Were_Very_Young.mp3
+      name: 1 - When We Were Very Young
+      author: Stephen Fry | SamFry Ltd
+      content: Far out in the ocean of discovery huge swells have been gathering and
+        combining to create the great tsunami that will soon engulf us, We look back
+        at how innovation in technology has, from the first, changed our ways of living,
+        our sense of who we are and what we are to expect from life.Researched, written
+        &amp; read by Stephen Fry. Music composed and conducted by Guy Farley with
+        The Chamber Orchestra of London.&nbsp;
+  content:
+    text: ' \ud83c\udfa7 Listened to 1 - When We Were Very Young by Stephen Fry |
+      SamFry Ltd From Stephen Fry''s Great Leap Years'
+- type: entry
+  published: "2018-10-21T11:34:51+00:00"
+  category:
+  - scrobble
+  - audio
+  - Stephen Fry's Great Leap Years
+  - Stephen Fry | SamFry Ltd
+  listen-of:
+    h-cite:
+      url: https://rss.acast.com/greatleapyears
+      photo: ""
+      audio:
+      - https://media.acast.com/greatleapyears/raisingthevailandcatchingthetube/media.mp3
+      - http://archive.org/download/Stephen_Frys_Great_Leap_Years-Podcast-by-Stephen_Fry/4_Raising_the_Vail_and_Catching_the_Tube.mp3
+      name: 4 - Raising the Vail and Catching the Tube
+      author: Stephen Fry | SamFry Ltd
+      content: The sperm whale, Bell Labs, vacuum tubes and the dawning age of information
+        at the speed of light.Researched, written &amp; read by&nbsp;Stephen Fry.
+        Music composed and conducted by&nbsp;Guy Farley&nbsp;with The Chamber Orchestra
+        of London.
+  content:
+    text: ' \ud83c\udfa7 Listened to 4 - Raising the Vail and Catching the Tube by
+      Stephen Fry | SamFry Ltd From Stephen Fry''s Great Leap Years'
 - type: entry
   published: "2018-10-21T06:12:29+00:00"
   category:
@@ -190,4 +169,25 @@
   content:
     text: ' \ud83c\udfa7 Listened to 3 - Bells, Nobels, More Bells and Prizes by Stephen
       Fry | SamFry Ltd From Stephen Fry''s Great Leap Years'
+- type: entry
+  published: "2018-10-21T03:35:25+00:00"
+  category:
+  - scrobble
+  - audio
+  - Stephen Fry's Great Leap Years
+  - Stephen Fry | SamFry Ltd
+  listen-of:
+    h-cite:
+      url: https://rss.acast.com/greatleapyears
+      photo: ""
+      audio:
+      - https://media.acast.com/greatleapyears/trailer------------------------------------------------------------/media.mp3
+      - http://archive.org/download/Stephen_Frys_Great_Leap_Years-Podcast-by-Stephen_Fry/Trailer.mp3
+      name: Trailer
+      author: Stephen Fry | SamFry Ltd
+      content: "Stephen Fry previews his epic new documentary podcast series entitled
+        Stephen Fry\u2019s Great Leap Years \u2013 the stories behind inventions."
+  content:
+    text: ' \ud83c\udfa7 Listened to Trailer by Stephen Fry | SamFry Ltd From Stephen
+      Fry''s Great Leap Years'
 ...

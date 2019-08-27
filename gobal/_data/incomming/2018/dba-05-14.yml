@@ -28,6 +28,29 @@
       Reid by Brian McCullough @brianmcc From Internet History Podcast'
 1:
   type: entry
+  published: "2018-05-14T04:56:27+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl on triplej
+  - ABC Science
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20171026.mp3
+      - http://archive.org/download/Dr_Karl_Podcast-by-ABC_Science/Tip_of_your_tongue_cry_faces_shower_wees.mp3
+      name: Tip of your tongue, cry faces, shower wees
+      author: ABC Science
+      content: Why do you need to wee when you're in the shower? What happens when
+        there's something on the 'tip of your tongue'?' Why do we pull faces when
+        we cry?
+  content:
+    text: ' \ud83c\udfa7 Listened to Tip of your tongue, cry faces, shower wees by
+      ABC Science From Dr_Karl_Podcast'
+2:
+  type: entry
   published: "2018-05-14T16:55:23+00:00"
   category:
   - scrobble
@@ -50,97 +73,7 @@
   content:
     text: ' \ud83c\udfa7 Listened to Professor Clare Collins joins Dr Karl and answers
       your food science questions by ABC Science From Dr_Karl_Podcast'
-2:
-  type: entry
-  published: "2018-05-14T18:13:00+00:00"
-  category:
-  - scrobble
-  - audio
-  - Dr Karl on triplej
-  - ABC Science
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20170831.mp3
-      - http://archive.org/download/Dr_Karl_Podcast-by-ABC_Science/Earwax_taste_losing_sneezes_bloody_noses.mp3
-      name: Earwax taste, losing sneezes, bloody noses
-      author: ABC Science
-      content: Why does earwax taste so bitter? Why does food in our mouth always
-        go to our most dominant side? What are memories physically made from?
-  content:
-    text: ' \ud83c\udfa7 Listened to Earwax taste, losing sneezes, bloody noses by
-      ABC Science From Dr_Karl_Podcast'
 3:
-  type: entry
-  published: "2018-05-14T04:20:58+00:00"
-  category:
-  - scrobble
-  - audio
-  - Dr Karl on triplej
-  - ABC Science
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20171102.mp3
-      - http://archive.org/download/Dr_Karl_Podcast-by-ABC_Science/Being_ticklish_alcohol_flushes_crossed_eyes.mp3
-      name: Being ticklish, alcohol flushes, crossed eyes
-      author: ABC Science
-      content: Why am I so ticklish? Why is the human eye attracted to sparkly things?
-        How come you can remember the start of a word but not the full one?
-  content:
-    text: ' \ud83c\udfa7 Listened to Being ticklish, alcohol flushes, crossed eyes
-      by ABC Science From Dr_Karl_Podcast'
-4:
-  type: entry
-  published: "2018-05-14T04:56:27+00:00"
-  category:
-  - scrobble
-  - audio
-  - Dr Karl on triplej
-  - ABC Science
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20171026.mp3
-      - http://archive.org/download/Dr_Karl_Podcast-by-ABC_Science/Tip_of_your_tongue_cry_faces_shower_wees.mp3
-      name: Tip of your tongue, cry faces, shower wees
-      author: ABC Science
-      content: Why do you need to wee when you're in the shower? What happens when
-        there's something on the 'tip of your tongue'?' Why do we pull faces when
-        we cry?
-  content:
-    text: ' \ud83c\udfa7 Listened to Tip of your tongue, cry faces, shower wees by
-      ABC Science From Dr_Karl_Podcast'
-5:
-  type: entry
-  published: "2018-05-14T17:34:59+00:00"
-  category:
-  - scrobble
-  - audio
-  - Dr Karl on triplej
-  - ABC Science
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20171005.mp3
-      - http://archive.org/download/Dr_Karl_Podcast-by-ABC_Science/Bill_Nye_joins_Dr_Karl_to_answer_your_science_questions.mp3
-      name: Bill Nye joins Dr Karl to answer your science questions
-      author: ABC Science
-      content: 'Bill Nye joins Dr Karl and Zan to answer your burning science questions
-        like: what would happen to the Earth if it stopped spinning? How does the
-        vacuum of space exist? Why is beach sand hard or soft?'
-  content:
-    text: ' \ud83c\udfa7 Listened to Bill Nye joins Dr Karl to answer your science
-      questions by ABC Science From Dr_Karl_Podcast'
-6:
   type: entry
   published: "2018-05-14T16:16:35+00:00"
   category:
@@ -163,6 +96,73 @@
   content:
     text: ' \ud83c\udfa7 Listened to Random itches, snake venom, black clothes attracting
       heat by ABC Science From Dr_Karl_Podcast'
+4:
+  type: entry
+  published: "2018-05-14T17:34:59+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl on triplej
+  - ABC Science
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20171005.mp3
+      - http://archive.org/download/Dr_Karl_Podcast-by-ABC_Science/Bill_Nye_joins_Dr_Karl_to_answer_your_science_questions.mp3
+      name: Bill Nye joins Dr Karl to answer your science questions
+      author: ABC Science
+      content: 'Bill Nye joins Dr Karl and Zan to answer your burning science questions
+        like: what would happen to the Earth if it stopped spinning? How does the
+        vacuum of space exist? Why is beach sand hard or soft?'
+  content:
+    text: ' \ud83c\udfa7 Listened to Bill Nye joins Dr Karl to answer your science
+      questions by ABC Science From Dr_Karl_Podcast'
+5:
+  type: entry
+  published: "2018-05-14T18:13:00+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl on triplej
+  - ABC Science
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20170831.mp3
+      - http://archive.org/download/Dr_Karl_Podcast-by-ABC_Science/Earwax_taste_losing_sneezes_bloody_noses.mp3
+      name: Earwax taste, losing sneezes, bloody noses
+      author: ABC Science
+      content: Why does earwax taste so bitter? Why does food in our mouth always
+        go to our most dominant side? What are memories physically made from?
+  content:
+    text: ' \ud83c\udfa7 Listened to Earwax taste, losing sneezes, bloody noses by
+      ABC Science From Dr_Karl_Podcast'
+6:
+  type: entry
+  published: "2018-05-14T04:20:58+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl on triplej
+  - ABC Science
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20171102.mp3
+      - http://archive.org/download/Dr_Karl_Podcast-by-ABC_Science/Being_ticklish_alcohol_flushes_crossed_eyes.mp3
+      name: Being ticklish, alcohol flushes, crossed eyes
+      author: ABC Science
+      content: Why am I so ticklish? Why is the human eye attracted to sparkly things?
+        How come you can remember the start of a word but not the full one?
+  content:
+    text: ' \ud83c\udfa7 Listened to Being ticklish, alcohol flushes, crossed eyes
+      by ABC Science From Dr_Karl_Podcast'
 7:
   type: entry
   published: "2018-05-14T07:21:54+00:00"

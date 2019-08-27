@@ -45,6 +45,8 @@ BucketName:
     Reality 2.0: Reality_20
     Sum Of All Parts - ABC RN: Sum_Of_All_Parts_ABC_RN
     Hardcore Gaming 101: Hardcore_Gaming_101
+    Retro Tea Break: Retro_Tea_Break
+    Retro Island Diskettes: Retro_Island_Diskettes
   author:
     Hal: Hal
     https://wordpress.org/?v=4.9.8: David_Shanske_and_Chris_Aldrich
@@ -89,6 +91,8 @@ BucketName:
     Linux Journal: Linux_Journal
     Firefox, backed by Mozilla: Firefox_backed_by_Mozilla
     HardcoreGaming101.net: HardcoreGaming101net
+    Retro Tea Break: Retro_Tea_Break
+    Retro Island Diskettes Podcast: Retro_Island_Diskettes_Podcast
 twitter:
   author:
     Hal: '@rpgmp3'
@@ -135,6 +139,8 @@ twitter:
     Linux Journal: Linux Journal
     Firefox, backed by Mozilla: Firefox, backed by Mozilla
     HardcoreGaming101.net: HardcoreGaming101.net
+    Retro Tea Break: Retro Tea Break
+    Retro Island Diskettes Podcast: Retro Island Diskettes Podcast
   album:
     RPGMP3 Actual Play Podcast: '#RPGMP3ActualPlayPodcast'
     "Indieweb Podcast \u2013 David Shanske": '#IndiewebPodcast'
@@ -185,6 +191,8 @@ twitter:
     Reality 2.0: Reality 2.0
     Sum Of All Parts - ABC RN: Sum Of All Parts - ABC RN
     Hardcore Gaming 101: Hardcore Gaming 101
+    Retro Tea Break: Retro Tea Break
+    Retro Island Diskettes: Retro Island Diskettes
 HowToRewrite:
   media.blubrry.com:
     BucketName:
@@ -397,6 +405,12 @@ HowToRewrite:
     url: false
     fielname: false
   chtbl.com:
+    BucketName:
+      author: rewrite
+      album: rewrite
+    url: false
+    fielname: false
+  audioboom.com:
     BucketName:
       author: rewrite
       album: rewrite

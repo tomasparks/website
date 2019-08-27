@@ -1,6 +1,6 @@
 ---
 - type: entry
-  published: "2018-05-29T23:25:10+00:00"
+  published: "2018-05-29T19:09:51+00:00"
   category:
   - scrobble
   - audio
@@ -11,20 +11,18 @@
       url: https://www.techdirt.com/podcast.xml
       photo: ""
       audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/450900123-techdirt-rob-reids-mind-bending-podcast.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/450900123-techdirt-rob-reids-mind-bending-podcast.mp3
-      name: Rob Reid's Mind-Bending Podcast
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/310014907-techdirt-the-miracle-of-booking-flights.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/310014907-techdirt-the-miracle-of-booking-flights.mp3
+      name: The Miracle Of Booking Flights
       author: Techdirt
-      content: "We've talked about author Rob Reid many times on Techdirt, and had
-        him on the podcast once before. Now, in what started as a project to promote
-        his latest novel, Reid is hosting a podcast called After On, which tackles
-        some pretty crazy real-world topics \u2014 from alien life to mind-reading
-        technology \u2014 befitting a science fiction writer. This week, he returns
-        to our podcast to discuss what it's like interviewing big thinkers about mind-bending
-        ideas."
+      content: The finding and booking of flights is a massive and elaborate global
+        mechanism that contains both fascinating technology and useful secrets. This
+        week, we're joined by Adam Fletcher, co-founder of Gyroscope Software and
+        an architect of Google's airline reservation system, to talk about all the
+        technology behind commercial air travel today.
   content:
-    text: ' \ud83c\udfa7 Listened to Rob Reid''s Mind-Bending Podcast by Techdirt
-      From Techdirt'
+    text: ' \ud83c\udfa7 Listened to The Miracle Of Booking Flights by Techdirt From
+      Techdirt'
 - type: entry
   published: "2018-05-29T22:38:40+00:00"
   category:
@@ -50,7 +48,7 @@
     text: ' \ud83c\udfa7 Listened to Luck In Silicon Valley, With Robert Frank by
       Techdirt From Techdirt'
 - type: entry
-  published: "2018-05-29T19:09:51+00:00"
+  published: "2018-05-29T23:25:10+00:00"
   category:
   - scrobble
   - audio
@@ -61,18 +59,20 @@
       url: https://www.techdirt.com/podcast.xml
       photo: ""
       audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/310014907-techdirt-the-miracle-of-booking-flights.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/310014907-techdirt-the-miracle-of-booking-flights.mp3
-      name: The Miracle Of Booking Flights
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/450900123-techdirt-rob-reids-mind-bending-podcast.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/450900123-techdirt-rob-reids-mind-bending-podcast.mp3
+      name: Rob Reid's Mind-Bending Podcast
       author: Techdirt
-      content: The finding and booking of flights is a massive and elaborate global
-        mechanism that contains both fascinating technology and useful secrets. This
-        week, we're joined by Adam Fletcher, co-founder of Gyroscope Software and
-        an architect of Google's airline reservation system, to talk about all the
-        technology behind commercial air travel today.
+      content: "We've talked about author Rob Reid many times on Techdirt, and had
+        him on the podcast once before. Now, in what started as a project to promote
+        his latest novel, Reid is hosting a podcast called After On, which tackles
+        some pretty crazy real-world topics \u2014 from alien life to mind-reading
+        technology \u2014 befitting a science fiction writer. This week, he returns
+        to our podcast to discuss what it's like interviewing big thinkers about mind-bending
+        ideas."
   content:
-    text: ' \ud83c\udfa7 Listened to The Miracle Of Booking Flights by Techdirt From
-      Techdirt'
+    text: ' \ud83c\udfa7 Listened to Rob Reid''s Mind-Bending Podcast by Techdirt
+      From Techdirt'
 - type: entry
   published: "2018-05-29T10:50:34+00:00"
   category:

@@ -1,26 +1,5 @@
 ---
 - type: entry
-  published: "2018-05-04T13:44:11+00:00"
-  category:
-  - scrobble
-  - audio
-  - Adam Ruins Everything
-  - Adam Ruins Everything
-  listen-of:
-    h-cite:
-      url: http://maximumfun.org/feeds/are.xml
-      photo: ""
-      audio:
-      - http://media.adknit.com/a/f/90/adam-ruins-everything/9dzyw4.1-1.mp3
-      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_1_Municipal_Transit_with_Seleta_Reynolds.mp3
-      name: 'Ep 1: Municipal Transit with Seleta Reynolds'
-      author: Adam Ruins Everything
-      content: Adam is joined by Seleta Reynolds to talk about municipal transit and
-        reducing our reliance on cars.
-  content:
-    text: ' \ud83c\udfa7 Listened to Ep 1: Municipal Transit with Seleta Reynolds
-      by Adam Ruins Everything From Adam Ruins Everything'
-- type: entry
   published: "2018-05-04T12:49:02+00:00"
   category:
   - scrobble
@@ -41,6 +20,27 @@
   content:
     text: ' \ud83c\udfa7 Listened to Ep 3: Mass Extinction and Video Game Music with
       Emily Axford by Adam Ruins Everything From Adam Ruins Everything'
+- type: entry
+  published: "2018-05-04T13:44:11+00:00"
+  category:
+  - scrobble
+  - audio
+  - Adam Ruins Everything
+  - Adam Ruins Everything
+  listen-of:
+    h-cite:
+      url: http://maximumfun.org/feeds/are.xml
+      photo: ""
+      audio:
+      - http://media.adknit.com/a/f/90/adam-ruins-everything/9dzyw4.1-1.mp3
+      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_1_Municipal_Transit_with_Seleta_Reynolds.mp3
+      name: 'Ep 1: Municipal Transit with Seleta Reynolds'
+      author: Adam Ruins Everything
+      content: Adam is joined by Seleta Reynolds to talk about municipal transit and
+        reducing our reliance on cars.
+  content:
+    text: ' \ud83c\udfa7 Listened to Ep 1: Municipal Transit with Seleta Reynolds
+      by Adam Ruins Everything From Adam Ruins Everything'
 - type: entry
   published: "2018-05-04T13:58:15+00:00"
   category:

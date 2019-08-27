@@ -1,26 +1,5 @@
 ---
 - type: entry
-  published: "2018-10-05T13:50:43+00:00"
-  category:
-  - scrobble
-  - audio
-  - indieweb on Huffduffer
-  - []
-  listen-of:
-    h-cite:
-      url: https://huffduffer.com/tags/indieweb/rss
-      photo: ""
-      audio:
-      - https://myurlis.com/assets/audio/teaser-trailer.mp3
-      - http://archive.org/download/indieweb_on_Huffduffer-by-Array/teaser-trailer.mp3
-      name: My Url Is Teaser Trailer
-      author: []
-      content: "A teaser trailer for the upcoming My Url Is podcast. Episode 1 is
-        available on October 3, 2018.\r\n\r\nhttps://myurlis.com/episodes/000/"
-  content:
-    text: ' \ud83c\udfa7 Listened to My Url Is Teaser Trailer by Array From indieweb
-      on Huffduffer'
-- type: entry
   published: "2018-10-05T14:08:00+00:00"
   category:
   - scrobble
@@ -53,4 +32,25 @@
   content:
     text: ' \ud83c\udfa7 Listened to My Url Is aaronparecki.com (Episode 1) by Array
       From indieweb on Huffduffer'
+- type: entry
+  published: "2018-10-05T13:50:43+00:00"
+  category:
+  - scrobble
+  - audio
+  - indieweb on Huffduffer
+  - []
+  listen-of:
+    h-cite:
+      url: https://huffduffer.com/tags/indieweb/rss
+      photo: ""
+      audio:
+      - https://myurlis.com/assets/audio/teaser-trailer.mp3
+      - http://archive.org/download/indieweb_on_Huffduffer-by-Array/teaser-trailer.mp3
+      name: My Url Is Teaser Trailer
+      author: []
+      content: "A teaser trailer for the upcoming My Url Is podcast. Episode 1 is
+        available on October 3, 2018.\r\n\r\nhttps://myurlis.com/episodes/000/"
+  content:
+    text: ' \ud83c\udfa7 Listened to My Url Is Teaser Trailer by Array From indieweb
+      on Huffduffer'
 ...

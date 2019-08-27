@@ -1,6 +1,6 @@
 ---
 - type: entry
-  published: "2018-03-02T20:27:33+00:00"
+  published: "2018-03-02T21:35:13+00:00"
   category:
   - scrobble
   - audio
@@ -11,15 +11,14 @@
       url: https://www.techdirt.com/podcast.xml
       photo: ""
       audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/179851165-techdirt-amanda-palmer-and-the-art-of-asking.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/179851165-techdirt-amanda-palmer-and-the-art-of-asking.mp3
-      name: Amanda Palmer And The Art Of Asking
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/181063632-techdirt-in-defense-of-advertising.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/181063632-techdirt-in-defense-of-advertising.mp3
+      name: In Defense Of Advertising
       author: Techdirt
-      content: Amanda Palmer drops by to discuss her new book The Art Of Asking with
-        Mike Masnick, Hersh Reddy and Dennis Yang in Episode 3 of the Techdirt Podcast.
+      content: Mike Masnick, Hersh Reddy and Dennis Yang look beyond the kneejerk
+        reaction that "all advertising is bad" in Episode 4 of the Techdirt Podcast.
   content:
-    text: ' \ud83c\udfa7 Listened to Amanda Palmer And The Art Of Asking by Techdirt
-      From Techdirt'
+    text: ' \ud83c\udfa7 Listened to In Defense Of Advertising by Techdirt From Techdirt'
 - type: entry
   published: "2018-03-02T19:07:35+00:00"
   category:
@@ -63,7 +62,7 @@
     text: ' \ud83c\udfa7 Listened to Can You Increase Privacy By Increasing Surveillance?
       by Techdirt From Techdirt'
 - type: entry
-  published: "2018-03-02T21:35:13+00:00"
+  published: "2018-03-02T20:27:33+00:00"
   category:
   - scrobble
   - audio
@@ -74,14 +73,37 @@
       url: https://www.techdirt.com/podcast.xml
       photo: ""
       audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/181063632-techdirt-in-defense-of-advertising.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/181063632-techdirt-in-defense-of-advertising.mp3
-      name: In Defense Of Advertising
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/179851165-techdirt-amanda-palmer-and-the-art-of-asking.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/179851165-techdirt-amanda-palmer-and-the-art-of-asking.mp3
+      name: Amanda Palmer And The Art Of Asking
       author: Techdirt
-      content: Mike Masnick, Hersh Reddy and Dennis Yang look beyond the kneejerk
-        reaction that "all advertising is bad" in Episode 4 of the Techdirt Podcast.
+      content: Amanda Palmer drops by to discuss her new book The Art Of Asking with
+        Mike Masnick, Hersh Reddy and Dennis Yang in Episode 3 of the Techdirt Podcast.
   content:
-    text: ' \ud83c\udfa7 Listened to In Defense Of Advertising by Techdirt From Techdirt'
+    text: ' \ud83c\udfa7 Listened to Amanda Palmer And The Art Of Asking by Techdirt
+      From Techdirt'
+- type: entry
+  published: "2018-03-02T00:04:46+00:00"
+  category:
+  - scrobble
+  - audio
+  - Jason Scott Talks His Way Out of It
+  - Jason Scott
+  listen-of:
+    h-cite:
+      url: http://textfiles.libsyn.com/rss
+      photo: ""
+      audio:
+      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_20.mp3?dest-id=574323
+      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_John_Romero_Episode.mp3
+      name: The John Romero Episode
+      author: Jason Scott
+      content: " The John Romero Episode: Meeting John Romero Twice, Doom, Deathmatch,
+        Interviewing John, History and Historian, Apple II Reunion II, Taco Truck,
+        A Most Difficult Debt. \_   I mention a great architecture walkthrough John
+        Romero gave it can be watched here: https://vimeo.com/156288044 "
+  content:
+    text: ' \ud83c\udfa7 Listened to The John Romero Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
 - type: entry
   published: "2018-03-02T00:26:13+00:00"
   category:
@@ -105,26 +127,4 @@
         if the history of Phreaking interests you, this is the book.'
   content:
     text: ' \ud83c\udfa7 Listened to The Phone Phreak Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
-- type: entry
-  published: "2018-03-02T00:04:46+00:00"
-  category:
-  - scrobble
-  - audio
-  - Jason Scott Talks His Way Out of It
-  - Jason Scott
-  listen-of:
-    h-cite:
-      url: http://textfiles.libsyn.com/rss
-      photo: ""
-      audio:
-      - http://traffic.libsyn.com/textfiles/Jason_Scott_Talks_His_Way_Out_of_It_-_Episode_20.mp3?dest-id=574323
-      - http://archive.org/download/Jason_Scott_Talks_His_Way_Out_of_It-Podcast-by-Jason_Scott/The_John_Romero_Episode.mp3
-      name: The John Romero Episode
-      author: Jason Scott
-      content: " The John Romero Episode: Meeting John Romero Twice, Doom, Deathmatch,
-        Interviewing John, History and Historian, Apple II Reunion II, Taco Truck,
-        A Most Difficult Debt. \_   I mention a great architecture walkthrough John
-        Romero gave it can be watched here: https://vimeo.com/156288044 "
-  content:
-    text: ' \ud83c\udfa7 Listened to The John Romero Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
 ...

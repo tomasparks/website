@@ -1,0 +1,83 @@
+---
+- type: entry
+  published: "2019-08-17T15:47:22+00:00"
+  category:
+  - scrobble
+  - audio
+  - Sum Of All Parts - ABC RN
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: https://www.abc.net.au/radionational/feed/8826774/podcast.xml
+      photo: ""
+      audio:
+      - https://abcmedia.akamaized.net/rn/podcast/2019/08/sop_20190816.mp3
+      - http://archive.org/download/Sum_Of_All_Parts_ABC_RN-by-ABC_Radio_National/sop_20190816.mp3
+      name: "13.1 Electronic music\u2019s origin story [BONUS]"
+      author: ABC Radio National
+      content: Where and when did a digital computer play music for the first time?
+  content:
+    text: " \\ud83c\\udfa7 Listened to 13.1 Electronic music\u2019s origin story [BONUS]
+      by ABC Radio National From Sum Of All Parts - ABC RN"
+- type: entry
+  published: "2019-08-17T17:12:27+00:00"
+  category:
+  - scrobble
+  - audio
+  - Retro Island Diskettes
+  - Retro Island Diskettes Podcast
+  listen-of:
+    h-cite:
+      url: https://audioboom.com/channels/5001240.rss
+      photo: ""
+      audio:
+      - https://audioboom.com/posts/7328044.mp3?modified=1565349939&source=rss&stitched=1
+      - http://archive.org/download/Retro_Island_Diskettes-by-Retro_Island_Diskettes_Podcast/7328044.mp3
+      name: '1: Banjo Guy Ollie | Retro Island Diskettes | Ep.1'
+      author: Retro Island Diskettes Podcast
+      content: "Welcome to episode one of Retro Island Diskettes, a new series in
+        which we explore a guests retro life through their musical choices, before
+        casting them away on Retro Island.\n\u25CF Patreon: https://www.patreon.com/RetroManCave\n\u25CF
+        Shop:\_ https://www.etsy.com/shop/TheRetroManCave\n\u25CF MonsterJoysticks:
+        https://monsterjoysticks.com/RMC\nHosts:\n\u25CFRetroManCave - https://www.youtube.com/RetroManCave\n\u25CFBackOfficeShow
+        - https://www.youtube.com/backofficeshow\nGuests:\n\u25CFBanjo Guy Ollie -
+        https://www.youtube.com/user/olonguet\n\u25CF Cave Links\nTwitter:\_ https://twitter.com/TheRetroManCave\nFacebook:\_
+        https://www.facebook.com/theretromancave/\nDiscord: https://discord.gg/7qYtGcz\n\u25CF
+        Music Choices\nTheme Tune: Outrun Passing Breeze cover by Banjo Guy Ollie\_
+        - www.youtube.com/user/olonguet\nKnightmare - MSX\nNemesis 2, Level 4 - MSX\nVampire
+        Killer - MSX\nWonderboy 3 - Monster Village Town - Master System\nTurrican
+        - Shoot or Die\nDune - Sign of the Worm - Amiga\nVoyage by Razor 1911 - Amiga\nOutrun
+        - Passing Breeze - Arcade"
+  content:
+    text: ' \ud83c\udfa7 Listened to 1: Banjo Guy Ollie | Retro Island Diskettes |
+      Ep.1 by Retro Island Diskettes Podcast From Retro Island Diskettes'
+- type: entry
+  published: "2019-08-17T15:24:27+00:00"
+  category:
+  - scrobble
+  - audio
+  - Retro Tea Break
+  - Retro Tea Break
+  listen-of:
+    h-cite:
+      url: https://audioboom.com/channels/5001251.rss
+      photo: ""
+      audio:
+      - https://audioboom.com/posts/7328324.mp3?modified=1564420126&source=rss&stitched=1
+      - http://archive.org/download/Retro_Tea_Break-by-Retro_Tea_Break/7328324.mp3
+      name: '1: George "The Fatman" Sanger - Video Game Musician'
+      author: Retro Tea Break
+      content: "George \"The Fatman\" Sanger is a musician who has worked on such
+        games as 7th Guest, Wing Commander, Ultima Savage Empire and more.\_ Making
+        video game music since 1983 he gives us an insight into the very early days
+        of making video games and how music contributed to their development.\n\u25CF
+        Support RMC on Patreon: https://www.patreon.com/RetroManCave\n\u25CF Treat
+        me to a Coffee with Ko-Fi: http://ko-fi.com/retromancave\n\u25CF Leave a tip
+        on Paypal: https://paypal.me/RetroManCave\_\n\u25CF Cave Links\nTwitter:\_
+        https://twitter.com/TheRetroManCave\nFacebook:\_ https://www.facebook.com/theretromancave/\nDiscord:
+        https://discord.gg/7qYtGcz\nRMC Shop:\_ https://www.etsy.com/shop/TheRetroManCave\n\u25CF
+        Episode Links\nhttps://fatman.com\nhttps://songsforgames.com"
+  content:
+    text: ' \ud83c\udfa7 Listened to 1: George "The Fatman" Sanger - Video Game Musician
+      by Retro Tea Break From Retro Tea Break'
+...

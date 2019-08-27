@@ -1,29 +1,5 @@
 ---
 - type: entry
-  published: "2018-04-10T10:24:03+00:00"
-  category:
-  - scrobble
-  - audio
-  - Adam Ruins Everything
-  - Adam Ruins Everything
-  listen-of:
-    h-cite:
-      url: http://maximumfun.org/feeds/are.xml
-      photo: ""
-      audio:
-      - http://media.adknit.com/a/f/90/adam-ruins-everything/8ua9n0.1-1.mp3
-      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_34_Dr_Joann_Elmore_and_Dr_Janie_Lee_on_Why_Mammogram_Screenings_are_More_Complex_Than_We_Imagined.mp3
-      name: 'Ep 34: Dr. Joann Elmore and Dr. Janie Lee on Why Mammogram Screenings
-        are More Complex Than We Imagined'
-      author: Adam Ruins Everything
-      content: For decades women have been told that they should start getting yearly
-        mammograms at age 35. We think of it as a no-brainer, and mammograms do save
-        lives. But their effects are much more complicated than we originally anticipated.
-  content:
-    text: ' \ud83c\udfa7 Listened to Ep 34: Dr. Joann Elmore and Dr. Janie Lee on
-      Why Mammogram Screenings are More Complex Than We Imagined by Adam Ruins Everything
-      From Adam Ruins Everything'
-- type: entry
   published: "2018-04-10T11:32:29+00:00"
   category:
   - scrobble
@@ -69,4 +45,28 @@
   content:
     text: ' \ud83c\udfa7 Listened to Ep 32: Kevin Hall Gives Us the Skinny - Losing
       Weight and Keeping it Off is Hard by Adam Ruins Everything From Adam Ruins Everything'
+- type: entry
+  published: "2018-04-10T10:24:03+00:00"
+  category:
+  - scrobble
+  - audio
+  - Adam Ruins Everything
+  - Adam Ruins Everything
+  listen-of:
+    h-cite:
+      url: http://maximumfun.org/feeds/are.xml
+      photo: ""
+      audio:
+      - http://media.adknit.com/a/f/90/adam-ruins-everything/8ua9n0.1-1.mp3
+      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_34_Dr_Joann_Elmore_and_Dr_Janie_Lee_on_Why_Mammogram_Screenings_are_More_Complex_Than_We_Imagined.mp3
+      name: 'Ep 34: Dr. Joann Elmore and Dr. Janie Lee on Why Mammogram Screenings
+        are More Complex Than We Imagined'
+      author: Adam Ruins Everything
+      content: For decades women have been told that they should start getting yearly
+        mammograms at age 35. We think of it as a no-brainer, and mammograms do save
+        lives. But their effects are much more complicated than we originally anticipated.
+  content:
+    text: ' \ud83c\udfa7 Listened to Ep 34: Dr. Joann Elmore and Dr. Janie Lee on
+      Why Mammogram Screenings are More Complex Than We Imagined by Adam Ruins Everything
+      From Adam Ruins Everything'
 ...

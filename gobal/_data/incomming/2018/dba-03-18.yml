@@ -51,6 +51,50 @@
     text: ' \ud83c\udfa7 Listened to 159. The Forgotten Story of PLATO, with Brian
       Dear by Brian McCullough @brianmcc From Internet History Podcast'
 - type: entry
+  published: "2018-03-18T10:09:21+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/WX-bS5jD13E/158._Bob_Stein_of_Voyager_and_The_Criterion_Collection.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/158_Bob_Stein_of_Voyager_and_The_Criterion_Collection.mp3
+      name: 158. Bob Stein of Voyager and The Criterion Collection
+      author: Brian McCullough @brianmcc
+      content: "Bob Stein was the founder of Voyager, publisher of the first consumer
+        CDROM titles, and, far and away the leader of the CDROM industry in the late
+        1980s and early 90s. Bob was also one of the founders of the Criterion Collection,
+        as well as the publisher of the first electronic books.\_"
+  content:
+    text: ' \ud83c\udfa7 Listened to 158. Bob Stein of Voyager and The Criterion Collection
+      by Brian McCullough @brianmcc From Internet History Podcast'
+- type: entry
+  published: "2018-03-18T15:38:58+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/cAs-lYgcHdM/160._Growing_Up_With_The_Web_With_Desi_Zamora.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/160_Growing_Up_With_The_Web_With_Desi_Garcia.mp3
+      name: 160. Growing Up With The Web With Desi Garcia
+      author: Brian McCullough @brianmcc
+      content: An exploration of what it was like to come of age in the early web
+        era.
+  content:
+    text: ' \ud83c\udfa7 Listened to 160. Growing Up With The Web With Desi Garcia
+      by Brian McCullough @brianmcc From Internet History Podcast'
+- type: entry
   published: "2018-03-18T18:26:14+00:00"
   category:
   - scrobble
@@ -76,29 +120,6 @@
     text: ' \ud83c\udfa7 Listened to 163. The History of Online Video with JibJab''s
       Gregg Spiridellis by Brian McCullough @brianmcc From Internet History Podcast'
 - type: entry
-  published: "2018-03-18T10:09:21+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough @brianmcc
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/WX-bS5jD13E/158._Bob_Stein_of_Voyager_and_The_Criterion_Collection.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/158_Bob_Stein_of_Voyager_and_The_Criterion_Collection.mp3
-      name: 158. Bob Stein of Voyager and The Criterion Collection
-      author: Brian McCullough @brianmcc
-      content: "Bob Stein was the founder of Voyager, publisher of the first consumer
-        CDROM titles, and, far and away the leader of the CDROM industry in the late
-        1980s and early 90s. Bob was also one of the founders of the Criterion Collection,
-        as well as the publisher of the first electronic books.\_"
-  content:
-    text: ' \ud83c\udfa7 Listened to 158. Bob Stein of Voyager and The Criterion Collection
-      by Brian McCullough @brianmcc From Internet History Podcast'
-- type: entry
   published: "2018-03-18T06:04:27+00:00"
   category:
   - scrobble
@@ -122,27 +143,6 @@
   content:
     text: ' \ud83c\udfa7 Listened to 157. Rob Malda (@cmdrtaco) on SlashDot and Social
       Media by Brian McCullough @brianmcc From Internet History Podcast'
-- type: entry
-  published: "2018-03-18T15:38:58+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough @brianmcc
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/cAs-lYgcHdM/160._Growing_Up_With_The_Web_With_Desi_Zamora.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/160_Growing_Up_With_The_Web_With_Desi_Garcia.mp3
-      name: 160. Growing Up With The Web With Desi Garcia
-      author: Brian McCullough @brianmcc
-      content: An exploration of what it was like to come of age in the early web
-        era.
-  content:
-    text: ' \ud83c\udfa7 Listened to 160. Growing Up With The Web With Desi Garcia
-      by Brian McCullough @brianmcc From Internet History Podcast'
 - type: entry
   published: "2018-03-18T16:59:50+00:00"
   category:

@@ -1,34 +1,5 @@
 ---
 - type: entry
-  published: "2018-05-27T20:34:10+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/316109775-techdirt-the-truth-about-vpns.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/316109775-techdirt-the-truth-about-vpns.mp3
-      name: The Truth About VPNs
-      author: Techdirt
-      content: "For a long time now, \"use a VPN\" has been the default online privacy
-        advice \u2014 but is it really so effective? Following the recent VPN boom
-        that came on the tails of Congress scrapping new ISP privacy rules, a few
-        security experts have stepped forward to explain how VPNs aren't all they're
-        cracked up to be, and choosing and using one isn't as easy as many articles
-        and social media posts suggest. Among them are this week's guests, Kevin Riggle
-        (who provided a quick and dirty primer with the key suggestion that most people
-        are safer not using a VPN) and Kenn White (who assembled a list of VPNs he
-        deems \"terrible\" and not without good reason, recommending a roll-your-own
-        solution instead). They join us to dig deeper into the reality of VPNs and
-        hopefully help some people make better choices."
-  content:
-    text: ' \ud83c\udfa7 Listened to The Truth About VPNs by Techdirt From Techdirt'
-- type: entry
   published: "2018-05-27T06:50:34+00:00"
   category:
   - scrobble
@@ -82,6 +53,31 @@
     text: ' \ud83c\udfa7 Listened to Why This ISP Supports Net Neutrality, Privacy
       Rules And More by Techdirt From Techdirt'
 - type: entry
+  published: "2018-05-27T09:49:14+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/318340432-techdirt-the-evolution-of-the-office.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/318340432-techdirt-the-evolution-of-the-office.mp3
+      name: The Evolution Of The Office
+      author: Techdirt
+      content: "We've talked before about how the very nature of work is changing
+        thanks to technology, with telecommuting being an obvious trend \u2014 but
+        despite some early predictions about the death of the physical office, the
+        reality is offices have been evolving and changing thanks to technology and
+        innovation too. This week, we discuss co-working spaces and other trends in
+        the evolution of offices."
+  content:
+    text: ' \ud83c\udfa7 Listened to The Evolution Of The Office by Techdirt From
+      Techdirt'
+- type: entry
   published: "2018-05-27T21:20:14+00:00"
   category:
   - scrobble
@@ -107,7 +103,7 @@
   content:
     text: ' \ud83c\udfa7 Listened to The End Of Ownership by Techdirt From Techdirt'
 - type: entry
-  published: "2018-05-27T09:49:14+00:00"
+  published: "2018-05-27T20:34:10+00:00"
   category:
   - scrobble
   - audio
@@ -118,19 +114,23 @@
       url: https://www.techdirt.com/podcast.xml
       photo: ""
       audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/318340432-techdirt-the-evolution-of-the-office.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/318340432-techdirt-the-evolution-of-the-office.mp3
-      name: The Evolution Of The Office
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/316109775-techdirt-the-truth-about-vpns.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/316109775-techdirt-the-truth-about-vpns.mp3
+      name: The Truth About VPNs
       author: Techdirt
-      content: "We've talked before about how the very nature of work is changing
-        thanks to technology, with telecommuting being an obvious trend \u2014 but
-        despite some early predictions about the death of the physical office, the
-        reality is offices have been evolving and changing thanks to technology and
-        innovation too. This week, we discuss co-working spaces and other trends in
-        the evolution of offices."
+      content: "For a long time now, \"use a VPN\" has been the default online privacy
+        advice \u2014 but is it really so effective? Following the recent VPN boom
+        that came on the tails of Congress scrapping new ISP privacy rules, a few
+        security experts have stepped forward to explain how VPNs aren't all they're
+        cracked up to be, and choosing and using one isn't as easy as many articles
+        and social media posts suggest. Among them are this week's guests, Kevin Riggle
+        (who provided a quick and dirty primer with the key suggestion that most people
+        are safer not using a VPN) and Kenn White (who assembled a list of VPNs he
+        deems \"terrible\" and not without good reason, recommending a roll-your-own
+        solution instead). They join us to dig deeper into the reality of VPNs and
+        hopefully help some people make better choices."
   content:
-    text: ' \ud83c\udfa7 Listened to The Evolution Of The Office by Techdirt From
-      Techdirt'
+    text: ' \ud83c\udfa7 Listened to The Truth About VPNs by Techdirt From Techdirt'
 - type: entry
   published: "2018-05-27T19:52:12+00:00"
   category:

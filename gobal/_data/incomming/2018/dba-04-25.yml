@@ -24,29 +24,6 @@
     text: ' \ud83c\udfa7 Listened to Getting News Without Social Media by Techdirt
       From Techdirt'
 - type: entry
-  published: "2018-04-25T21:19:20+00:00"
-  category:
-  - scrobble
-  - audio
-  - Adam Ruins Everything
-  - Adam Ruins Everything
-  listen-of:
-    h-cite:
-      url: http://maximumfun.org/feeds/are.xml
-      photo: ""
-      audio:
-      - http://media.adknit.com/a/f/90/adam-ruins-everything/5zh77b.1-1.mp3
-      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_11_Bad_Forensic_Science_with_Chris_Fabricant.mp3
-      name: 'Ep 11: Bad Forensic Science with Chris Fabricant'
-      author: Adam Ruins Everything
-      content: Chris Fabricant is Director of Strategic Litigation at the Innocence
-        Project. Adam and Chris discuss outdated forensic techniques such as bite
-        mark analysis, why DNA analysis works, and Chris' bizarre deposition with
-        bite mark "expert" Michael West.
-  content:
-    text: ' \ud83c\udfa7 Listened to Ep 11: Bad Forensic Science with Chris Fabricant
-      by Adam Ruins Everything From Adam Ruins Everything'
-- type: entry
   published: "2018-04-25T22:28:26+00:00"
   category:
   - scrobble
@@ -68,5 +45,28 @@
         how parking..."
   content:
     text: ' \ud83c\udfa7 Listened to Ep 10: Parking with Donald "Shoup Dogg" Shoup
+      by Adam Ruins Everything From Adam Ruins Everything'
+- type: entry
+  published: "2018-04-25T21:19:20+00:00"
+  category:
+  - scrobble
+  - audio
+  - Adam Ruins Everything
+  - Adam Ruins Everything
+  listen-of:
+    h-cite:
+      url: http://maximumfun.org/feeds/are.xml
+      photo: ""
+      audio:
+      - http://media.adknit.com/a/f/90/adam-ruins-everything/5zh77b.1-1.mp3
+      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_11_Bad_Forensic_Science_with_Chris_Fabricant.mp3
+      name: 'Ep 11: Bad Forensic Science with Chris Fabricant'
+      author: Adam Ruins Everything
+      content: Chris Fabricant is Director of Strategic Litigation at the Innocence
+        Project. Adam and Chris discuss outdated forensic techniques such as bite
+        mark analysis, why DNA analysis works, and Chris' bizarre deposition with
+        bite mark "expert" Michael West.
+  content:
+    text: ' \ud83c\udfa7 Listened to Ep 11: Bad Forensic Science with Chris Fabricant
       by Adam Ruins Everything From Adam Ruins Everything'
 ...

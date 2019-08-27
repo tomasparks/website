@@ -1,6 +1,6 @@
 ---
 - type: entry
-  published: "2019-03-24T03:32:37+00:00"
+  published: "2019-03-24T03:04:25+00:00"
   category:
   - scrobble
   - audio
@@ -11,27 +11,20 @@
       url: https://feeds.mozilla-podcasts.org/irl
       photo: ""
       audio:
-      - https://tracking.feedpress.it/link/17512/11040234/c70f8ee2.mp3
-      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/c70f8ee2.mp3
-      name: The Surveillance Economy
+      - https://tracking.feedpress.it/link/17512/11000823/2f129d69.mp3
+      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/2f129d69.mp3
+      name: The Human Costs of Content Moderation
       author: Mozilla
-      content: "In her new book, The Age of Surveillance Capitalism, Harvard Business
-        School\u2019s Shoshana Zuboff argues that tech companies \u2014 like Google
-        and Facebook \u2014 collect so much personal data for profit, that they\u2019re
-        changing the fundamentals of our economy and way of life. And now these companies
-        are learning to shape our behavior to better serve their business goals. Shoshana
-        joins Manoush Zomorodi to explain what this all means for us.\n\nWe then explore
-        whether or not it\u2019s time to end our relationship with corporate spies.
-        OG advice columnist Dear Abby gives us some tips to start with. We chat with
-        philosopher S. Matthew Liao. He asks if we have a moral duty to quit Facebook.
-        Alice Marwick explains why most people won\u2019t leave the social network.
-        And journalist Nithin Coca tells us what it was like for him to quit both
-        Facebook and Google. Spoiler alert: it wasn\u2019t easy, but he has no regrets.\n\nIRL
-        is an original podcast from Mozilla, maker of Firefox and always fighting
-        for you. For more on the series go to irlpodcast.org.\n"
+      content: "What, if anything, should be banned from online media? And who should
+        review violent and explicit content, in order to decide if it\u2019s okay
+        for the public? Thousands of people around the world are working long, difficult
+        hours as content moderators in support of sites like Facebook, Twitter, and
+        YouTube. They are guided by complex and shifting guidelines, and their work
+        can sometimes lead to psychological trauma. But the practice of content moderation
+        also raises questions about censorship and free expression online.\n"
   content:
-    text: ' \ud83c\udfa7 Listened to The Surveillance Economy by Mozilla From IRL
-      - Online Life Is Real Life'
+    text: ' \ud83c\udfa7 Listened to The Human Costs of Content Moderation by Mozilla
+      From IRL - Online Life Is Real Life'
 - type: entry
   published: "2019-03-24T06:34:09+00:00"
   category:
@@ -66,6 +59,38 @@
     text: ' \ud83c\udfa7 Listened to What if women built the internet? by Mozilla
       From IRL - Online Life Is Real Life'
 - type: entry
+  published: "2019-03-24T03:57:54+00:00"
+  category:
+  - scrobble
+  - audio
+  - IRL - Online Life Is Real Life
+  - Mozilla
+  listen-of:
+    h-cite:
+      url: https://feeds.mozilla-podcasts.org/irl
+      photo: ""
+      audio:
+      - https://tracking.feedpress.it/link/17512/11079825/857f7522.mp3
+      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/857f7522.mp3
+      name: Decentralize It
+      author: Mozilla
+      content: "Some people believe that decentralization is the inevitable future
+        of the web. They believe that internet users will start to demand more privacy
+        and authenticity of information online and that they\u2019ll look to decentralized
+        platforms to get those things. But would decentralization be as utopian as
+        advocates say it could be?\n\nHost Manoush Zomorodi  speaks to Eugen Rochko
+        of Mastodon, an ad-free alternative to Twitter; Justin Hunter of Graphite
+        docs, a decentralized alternative to GoogleDocs; Maria Bustillos who hopes
+        to help eliminate fake news online through the Blockchain; David Irvine, the
+        co-founder of MaidSafe who plans to make the centralized internet as we know
+        it redundant; and Tom Simonite of WIRED, who comments on both the promise
+        and also the pitfalls of decentralization.\n\nIRL is an original podcast from
+        Mozilla, maker of Firefox and always fighting for you. For more on the series
+        go to irlpodcast.org\n"
+  content:
+    text: ' \ud83c\udfa7 Listened to Decentralize It by Mozilla From IRL - Online
+      Life Is Real Life'
+- type: entry
   published: "2019-03-24T02:36:08+00:00"
   category:
   - scrobble
@@ -98,7 +123,7 @@
     text: ' \ud83c\udfa7 Listened to TL;DR by Mozilla From IRL - Online Life Is Real
       Life'
 - type: entry
-  published: "2019-03-24T03:04:25+00:00"
+  published: "2019-03-24T03:32:37+00:00"
   category:
   - scrobble
   - audio
@@ -109,52 +134,27 @@
       url: https://feeds.mozilla-podcasts.org/irl
       photo: ""
       audio:
-      - https://tracking.feedpress.it/link/17512/11000823/2f129d69.mp3
-      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/2f129d69.mp3
-      name: The Human Costs of Content Moderation
+      - https://tracking.feedpress.it/link/17512/11040234/c70f8ee2.mp3
+      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/c70f8ee2.mp3
+      name: The Surveillance Economy
       author: Mozilla
-      content: "What, if anything, should be banned from online media? And who should
-        review violent and explicit content, in order to decide if it\u2019s okay
-        for the public? Thousands of people around the world are working long, difficult
-        hours as content moderators in support of sites like Facebook, Twitter, and
-        YouTube. They are guided by complex and shifting guidelines, and their work
-        can sometimes lead to psychological trauma. But the practice of content moderation
-        also raises questions about censorship and free expression online.\n"
+      content: "In her new book, The Age of Surveillance Capitalism, Harvard Business
+        School\u2019s Shoshana Zuboff argues that tech companies \u2014 like Google
+        and Facebook \u2014 collect so much personal data for profit, that they\u2019re
+        changing the fundamentals of our economy and way of life. And now these companies
+        are learning to shape our behavior to better serve their business goals. Shoshana
+        joins Manoush Zomorodi to explain what this all means for us.\n\nWe then explore
+        whether or not it\u2019s time to end our relationship with corporate spies.
+        OG advice columnist Dear Abby gives us some tips to start with. We chat with
+        philosopher S. Matthew Liao. He asks if we have a moral duty to quit Facebook.
+        Alice Marwick explains why most people won\u2019t leave the social network.
+        And journalist Nithin Coca tells us what it was like for him to quit both
+        Facebook and Google. Spoiler alert: it wasn\u2019t easy, but he has no regrets.\n\nIRL
+        is an original podcast from Mozilla, maker of Firefox and always fighting
+        for you. For more on the series go to irlpodcast.org.\n"
   content:
-    text: ' \ud83c\udfa7 Listened to The Human Costs of Content Moderation by Mozilla
-      From IRL - Online Life Is Real Life'
-- type: entry
-  published: "2019-03-24T03:57:54+00:00"
-  category:
-  - scrobble
-  - audio
-  - IRL - Online Life Is Real Life
-  - Mozilla
-  listen-of:
-    h-cite:
-      url: https://feeds.mozilla-podcasts.org/irl
-      photo: ""
-      audio:
-      - https://tracking.feedpress.it/link/17512/11079825/857f7522.mp3
-      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla/857f7522.mp3
-      name: Decentralize It
-      author: Mozilla
-      content: "Some people believe that decentralization is the inevitable future
-        of the web. They believe that internet users will start to demand more privacy
-        and authenticity of information online and that they\u2019ll look to decentralized
-        platforms to get those things. But would decentralization be as utopian as
-        advocates say it could be?\n\nHost Manoush Zomorodi  speaks to Eugen Rochko
-        of Mastodon, an ad-free alternative to Twitter; Justin Hunter of Graphite
-        docs, a decentralized alternative to GoogleDocs; Maria Bustillos who hopes
-        to help eliminate fake news online through the Blockchain; David Irvine, the
-        co-founder of MaidSafe who plans to make the centralized internet as we know
-        it redundant; and Tom Simonite of WIRED, who comments on both the promise
-        and also the pitfalls of decentralization.\n\nIRL is an original podcast from
-        Mozilla, maker of Firefox and always fighting for you. For more on the series
-        go to irlpodcast.org\n"
-  content:
-    text: ' \ud83c\udfa7 Listened to Decentralize It by Mozilla From IRL - Online
-      Life Is Real Life'
+    text: ' \ud83c\udfa7 Listened to The Surveillance Economy by Mozilla From IRL
+      - Online Life Is Real Life'
 - type: entry
   published: "2019-03-24T08:09:26+00:00"
   category:

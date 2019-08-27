@@ -24,6 +24,28 @@
   content:
     text: ' \ud83c\udfa7 Listened to How MoviePass Makes Money by Techdirt From Techdirt'
 - type: entry
+  published: "2018-03-15T15:39:38+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/hLrlQiHhL54/146._Mike_Slade_on_Steve_Jobs_Return_To_Apple.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/146_Mike_Slade_on_Steve_Jobs_Return_To_Apple.mp3
+      name: 146. Mike Slade on Steve Jobs' Return To Apple
+      author: Brian McCullough @brianmcc
+      content: As promised, Mike Slade is back to tell stories from the period 1998
+        through 2004, when he was Special Assistant to Steve Jobs. Background details
+        on the iMac, the iPod and the iPhone and more!
+  content:
+    text: ' \ud83c\udfa7 Listened to 146. Mike Slade on Steve Jobs'' Return To Apple
+      by Brian McCullough @brianmcc From Internet History Podcast'
+- type: entry
   published: "2018-03-15T07:19:15+00:00"
   category:
   - scrobble
@@ -69,28 +91,6 @@
         time."
   content:
     text: ' \ud83c\udfa7 Listened to 147. The First Text Message With Neil Papworth
-      by Brian McCullough @brianmcc From Internet History Podcast'
-- type: entry
-  published: "2018-03-15T15:39:38+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough @brianmcc
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/hLrlQiHhL54/146._Mike_Slade_on_Steve_Jobs_Return_To_Apple.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/146_Mike_Slade_on_Steve_Jobs_Return_To_Apple.mp3
-      name: 146. Mike Slade on Steve Jobs' Return To Apple
-      author: Brian McCullough @brianmcc
-      content: As promised, Mike Slade is back to tell stories from the period 1998
-        through 2004, when he was Special Assistant to Steve Jobs. Background details
-        on the iMac, the iPod and the iPhone and more!
-  content:
-    text: ' \ud83c\udfa7 Listened to 146. Mike Slade on Steve Jobs'' Return To Apple
       by Brian McCullough @brianmcc From Internet History Podcast'
 - type: entry
   published: "2018-03-15T18:16:06+00:00"
