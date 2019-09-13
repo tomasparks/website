@@ -45,27 +45,6 @@
     text: ' \ud83c\udfa7 Listened to 13.0 Chiptune by ABC Radio National From Sum
       Of All Parts - ABC RN'
 - type: entry
-  published: "2019-08-14T17:34:58+00:00"
-  category:
-  - scrobble
-  - audio
-  - Great Moments In Science - with Dr Karl Kruszelnicki
-  - ABC Radio National
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2019/08/gms_20190813.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Mirror_Universe_part_two.mp3
-      name: 'Mirror Universe: part two'
-      author: ABC Radio National
-      content: A nine second difference between physics experiments could have big
-        implications. A whole universe worth of them!
-  content:
-    text: ' \ud83c\udfa7 Listened to Mirror Universe: part two by ABC Radio National
-      From Great Moments In Science - with Dr Karl Kruszelnicki'
-- type: entry
   published: "2019-08-14T17:01:30+00:00"
   category:
   - scrobble
@@ -87,6 +66,26 @@
     text: ' \ud83c\udfa7 Listened to Marco Polo and spaghetti: part one by ABC Radio
       National From Great Moments In Science - with Dr Karl Kruszelnicki'
 - type: entry
+  published: "2019-08-14T17:14:00+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2019/07/gms_20190723.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Running_out_of_sand_part_one.mp3
+      name: Running out of sand, part one
+      author: ABC Radio National
+      content: How could something as common as sand possibly be running low?
+  content:
+    text: ' \ud83c\udfa7 Listened to Running out of sand, part one by ABC Radio National
+      From Great Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
   published: "2019-08-14T16:48:00+00:00"
   category:
   - scrobble
@@ -106,68 +105,6 @@
         Ask Big PR.
   content:
     text: ' \ud83c\udfa7 Listened to Tobacco denialism: part one by ABC Radio National
-      From Great Moments In Science - with Dr Karl Kruszelnicki'
-- type: entry
-  published: "2019-08-14T17:07:19+00:00"
-  category:
-  - scrobble
-  - audio
-  - Great Moments In Science - with Dr Karl Kruszelnicki
-  - ABC Radio National
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2019/07/gms_20190716.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Marco_Polo_and_spaghetti_part_two.mp3
-      name: 'Marco Polo and spaghetti: part two'
-      author: ABC Radio National
-      content: There's plenty of evidence that Marco Polo didn't introduce pasta from
-        China. So where did that myth start?
-  content:
-    text: ' \ud83c\udfa7 Listened to Marco Polo and spaghetti: part two by ABC Radio
-      National From Great Moments In Science - with Dr Karl Kruszelnicki'
-- type: entry
-  published: "2019-08-14T17:21:00+00:00"
-  category:
-  - scrobble
-  - audio
-  - Great Moments In Science - with Dr Karl Kruszelnicki
-  - ABC Radio National
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2019/07/gms_20190730.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Running_out_of_sand_part_two.mp3
-      name: 'Running out of sand: part two'
-      author: ABC Radio National
-      content: The future of sand is ... recycled plastic?
-  content:
-    text: ' \ud83c\udfa7 Listened to Running out of sand: part two by ABC Radio National
-      From Great Moments In Science - with Dr Karl Kruszelnicki'
-- type: entry
-  published: "2019-08-14T16:41:24+00:00"
-  category:
-  - scrobble
-  - audio
-  - Great Moments In Science - with Dr Karl Kruszelnicki
-  - ABC Radio National
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2019/06/gms_20190618.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Our_solar_system_is_weird.mp3
-      name: Our solar system is weird
-      author: ABC Radio National
-      content: With our planets spread far and wide - and no super-sized Earths -
-        we're nothing like the other solar systems we've found.
-  content:
-    text: ' \ud83c\udfa7 Listened to Our solar system is weird by ABC Radio National
       From Great Moments In Science - with Dr Karl Kruszelnicki'
 - type: entry
   published: "2019-08-14T16:55:40+00:00"
@@ -191,7 +128,7 @@
     text: ' \ud83c\udfa7 Listened to Tobacco denialism: part two by ABC Radio National
       From Great Moments In Science - with Dr Karl Kruszelnicki'
 - type: entry
-  published: "2019-08-14T17:14:00+00:00"
+  published: "2019-08-14T17:34:58+00:00"
   category:
   - scrobble
   - audio
@@ -202,14 +139,56 @@
       url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/rn/podcast/2019/07/gms_20190723.mp3
-      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Running_out_of_sand_part_one.mp3
-      name: Running out of sand, part one
+      - http://mpegmedia.abc.net.au/rn/podcast/2019/08/gms_20190813.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Mirror_Universe_part_two.mp3
+      name: 'Mirror Universe: part two'
       author: ABC Radio National
-      content: How could something as common as sand possibly be running low?
+      content: A nine second difference between physics experiments could have big
+        implications. A whole universe worth of them!
   content:
-    text: ' \ud83c\udfa7 Listened to Running out of sand, part one by ABC Radio National
+    text: ' \ud83c\udfa7 Listened to Mirror Universe: part two by ABC Radio National
       From Great Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2019-08-14T17:21:00+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2019/07/gms_20190730.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Running_out_of_sand_part_two.mp3
+      name: 'Running out of sand: part two'
+      author: ABC Radio National
+      content: The future of sand is ... recycled plastic?
+  content:
+    text: ' \ud83c\udfa7 Listened to Running out of sand: part two by ABC Radio National
+      From Great Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2019-08-14T17:07:19+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2019/07/gms_20190716.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Marco_Polo_and_spaghetti_part_two.mp3
+      name: 'Marco Polo and spaghetti: part two'
+      author: ABC Radio National
+      content: There's plenty of evidence that Marco Polo didn't introduce pasta from
+        China. So where did that myth start?
+  content:
+    text: ' \ud83c\udfa7 Listened to Marco Polo and spaghetti: part two by ABC Radio
+      National From Great Moments In Science - with Dr Karl Kruszelnicki'
 - type: entry
   published: "2019-08-14T17:28:11+00:00"
   category:
@@ -230,6 +209,27 @@
         different 'mirror' universe lurking amongst us!
   content:
     text: ' \ud83c\udfa7 Listened to Mirror Universe: part 1 by ABC Radio National
+      From Great Moments In Science - with Dr Karl Kruszelnicki'
+- type: entry
+  published: "2019-08-14T16:41:24+00:00"
+  category:
+  - scrobble
+  - audio
+  - Great Moments In Science - with Dr Karl Kruszelnicki
+  - ABC Radio National
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/radionational/feed/7417248/podcast.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/rn/podcast/2019/06/gms_20190618.mp3
+      - http://archive.org/download/Great_Moments_In_Science_with_Dr_Karl_Kruszelnicki-Podcast-by-ABC_Radio_National/Our_solar_system_is_weird.mp3
+      name: Our solar system is weird
+      author: ABC Radio National
+      content: With our planets spread far and wide - and no super-sized Earths -
+        we're nothing like the other solar systems we've found.
+  content:
+    text: ' \ud83c\udfa7 Listened to Our solar system is weird by ABC Radio National
       From Great Moments In Science - with Dr Karl Kruszelnicki'
 - type: entry
   published: "2019-08-14T18:45:32+00:00"

@@ -1,26 +1,6 @@
 ---
-- type: entry
-  published: "2019-02-26T07:26:04+00:00"
-  category:
-  - scrobble
-  - audio
-  - RPGMP3 Actual Play Podcast
-  - Hal
-  listen-of:
-    h-cite:
-      url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
-      photo: ""
-      audio:
-      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_03.mp3
-      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_03.mp3
-      name: Kingmaker Session 03
-      author: Hal
-      content: "Episode 3 \u2013 in which the kingdom loses a great asset, Kaylen
-        explores south to Candlemere\_Island, and a new species is encountered in
-        the Greenbelt."
-  content:
-    text: ' \ud83c\udfa7 Listened to Kingmaker Session 03 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
-- type: entry
+0:
+  type: entry
   published: "2019-02-26T10:24:11+00:00"
   category:
   - scrobble
@@ -47,4 +27,26 @@
   content:
     text: ' \ud83c\udfa7 Listened to 190. Bringing The WSJ Online With Rich Jaroslovsky
       by Brian McCullough From Internet History Podcast'
+2:
+  type: entry
+  published: "2019-02-26T07:26:04+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_03.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_03.mp3
+      name: Kingmaker Session 03
+      author: Hal
+      content: "Episode 3 \u2013 in which the kingdom loses a great asset, Kaylen
+        explores south to Candlemere\_Island, and a new species is encountered in
+        the Greenbelt."
+  content:
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 03 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
 ...

@@ -1,27 +1,5 @@
 ---
 - type: entry
-  published: "2017-12-31T18:55:53+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough @brianmcc
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/ImoqnUB2sXk/Analysis_Ep._2_-_Talking_Early_Online_Services_With_Chris_Higgins_chrishiggins.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/36_Talking_Early_Online_Services_With_Chris_Higgins_chrishiggins.mp3
-      name: 36. Talking Early Online Services With Chris Higgins @chrishiggins
-      author: Brian McCullough @brianmcc
-      content: A history of the Internet Era from Netscape to the iPad. Oral histories
-        from the people that made the technology happen. "Chapter" episodes providing
-        background on the history of the companies.
-  content:
-    text: ' \ud83c\udfa7 Listened to 36. Talking Early Online Services With Chris
-      Higgins @chrishiggins by Brian McCullough @brianmcc From Internet History Podcast'
-- type: entry
   published: "2017-12-31T15:25:35+00:00"
   category:
   - scrobble
@@ -68,7 +46,7 @@
       Interview With Marketing Legend Jan Brandt by Brian McCullough @brianmcc From
       Internet History Podcast'
 - type: entry
-  published: "2017-12-31T17:03:56+00:00"
+  published: "2017-12-31T05:14:56+00:00"
   category:
   - scrobble
   - audio
@@ -79,37 +57,15 @@
       url: http://feeds.feedburner.com/InternetHistoryPodcast
       photo: ""
       audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/y_5uqW1abXE/Ch._5_Int._7_-_An_Interview_With_Joe_McCambley_About_The_First_Banner_Ads.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/35_Joe_McCambley_Discusses_Advertising_and_the_First_Banner_Ads.mp3
-      name: 35. Joe McCambley Discusses Advertising and the First Banner Ads
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/RIO3PLpveJQ/Analysis_Episode_1_With_Chris_Higgins.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/29_Analysis_Episode_1_With_Chris_Higgins_chrishiggins.mp3
+      name: 29. Analysis Episode 1 With Chris Higgins @chrishiggins
       author: Brian McCullough @brianmcc
       content: A history of the Internet Era from Netscape to the iPad. Oral histories
         from the people that made the technology happen. "Chapter" episodes providing
         background on the history of the companies.
   content:
-    text: ' \ud83c\udfa7 Listened to 35. Joe McCambley Discusses Advertising and the
-      First Banner Ads by Brian McCullough @brianmcc From Internet History Podcast'
-- type: entry
-  published: "2017-12-31T14:30:41+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough @brianmcc
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/9a2Foqm9Dbs/Ch._5_Part_2_-_Wired_CNET_Salon_Slate_and_Suck.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/32_Ch_52_Wired_CNET_Slate_Salon_and_Suck.mp3
-      name: 32. (Ch 5.2) Wired, CNET, Slate, Salon and Suck
-      author: Brian McCullough @brianmcc
-      content: A history of the Internet Era from Netscape to the iPad. Oral histories
-        from the people that made the technology happen. "Chapter" episodes providing
-        background on the history of the companies.
-  content:
-    text: ' \ud83c\udfa7 Listened to 32. (Ch 5.2) Wired, CNET, Slate, Salon and Suck
+    text: ' \ud83c\udfa7 Listened to 29. Analysis Episode 1 With Chris Higgins @chrishiggins
       by Brian McCullough @brianmcc From Internet History Podcast'
 - type: entry
   published: "2017-12-31T02:56:04+00:00"
@@ -134,7 +90,7 @@
     text: ' \ud83c\udfa7 Listened to 28. Pathfinder Executive Oliver Knowlton by Brian
       McCullough @brianmcc From Internet History Podcast'
 - type: entry
-  published: "2017-12-31T10:34:02+00:00"
+  published: "2017-12-31T18:55:53+00:00"
   category:
   - scrobble
   - audio
@@ -145,16 +101,16 @@
       url: http://feeds.feedburner.com/InternetHistoryPodcast
       photo: ""
       audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/Xgs6WuHfp9c/Ch._5_Int._4_-_Real_Networks_CEO_Rob_Glaser.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/31_Real_Networks_Founder_and_CEO_Rob_Glaser.mp3
-      name: 31. Real Networks Founder and CEO Rob Glaser
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/ImoqnUB2sXk/Analysis_Ep._2_-_Talking_Early_Online_Services_With_Chris_Higgins_chrishiggins.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/36_Talking_Early_Online_Services_With_Chris_Higgins_chrishiggins.mp3
+      name: 36. Talking Early Online Services With Chris Higgins @chrishiggins
       author: Brian McCullough @brianmcc
       content: A history of the Internet Era from Netscape to the iPad. Oral histories
         from the people that made the technology happen. "Chapter" episodes providing
         background on the history of the companies.
   content:
-    text: ' \ud83c\udfa7 Listened to 31. Real Networks Founder and CEO Rob Glaser
-      by Brian McCullough @brianmcc From Internet History Podcast'
+    text: ' \ud83c\udfa7 Listened to 36. Talking Early Online Services With Chris
+      Higgins @chrishiggins by Brian McCullough @brianmcc From Internet History Podcast'
 - type: entry
   published: "2017-12-31T16:18:49+00:00"
   category:
@@ -178,6 +134,50 @@
     text: ' \ud83c\udfa7 Listened to 34. Owen Thomas of HotWired and Suck by Brian
       McCullough @brianmcc From Internet History Podcast'
 - type: entry
+  published: "2017-12-31T17:03:56+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/y_5uqW1abXE/Ch._5_Int._7_-_An_Interview_With_Joe_McCambley_About_The_First_Banner_Ads.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/35_Joe_McCambley_Discusses_Advertising_and_the_First_Banner_Ads.mp3
+      name: 35. Joe McCambley Discusses Advertising and the First Banner Ads
+      author: Brian McCullough @brianmcc
+      content: A history of the Internet Era from Netscape to the iPad. Oral histories
+        from the people that made the technology happen. "Chapter" episodes providing
+        background on the history of the companies.
+  content:
+    text: ' \ud83c\udfa7 Listened to 35. Joe McCambley Discusses Advertising and the
+      First Banner Ads by Brian McCullough @brianmcc From Internet History Podcast'
+- type: entry
+  published: "2017-12-31T10:34:02+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/Xgs6WuHfp9c/Ch._5_Int._4_-_Real_Networks_CEO_Rob_Glaser.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/31_Real_Networks_Founder_and_CEO_Rob_Glaser.mp3
+      name: 31. Real Networks Founder and CEO Rob Glaser
+      author: Brian McCullough @brianmcc
+      content: A history of the Internet Era from Netscape to the iPad. Oral histories
+        from the people that made the technology happen. "Chapter" episodes providing
+        background on the history of the companies.
+  content:
+    text: ' \ud83c\udfa7 Listened to 31. Real Networks Founder and CEO Rob Glaser
+      by Brian McCullough @brianmcc From Internet History Podcast'
+- type: entry
   published: "2017-12-31T07:44:50+00:00"
   category:
   - scrobble
@@ -200,7 +200,7 @@
     text: ' \ud83c\udfa7 Listened to 30. (Misc 2) The NSA And The 1990s Debate Over
       the Clipper Chip by Brian McCullough @brianmcc From Internet History Podcast'
 - type: entry
-  published: "2017-12-31T05:14:56+00:00"
+  published: "2017-12-31T14:30:41+00:00"
   category:
   - scrobble
   - audio
@@ -211,14 +211,14 @@
       url: http://feeds.feedburner.com/InternetHistoryPodcast
       photo: ""
       audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/RIO3PLpveJQ/Analysis_Episode_1_With_Chris_Higgins.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/29_Analysis_Episode_1_With_Chris_Higgins_chrishiggins.mp3
-      name: 29. Analysis Episode 1 With Chris Higgins @chrishiggins
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/9a2Foqm9Dbs/Ch._5_Part_2_-_Wired_CNET_Salon_Slate_and_Suck.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/32_Ch_52_Wired_CNET_Slate_Salon_and_Suck.mp3
+      name: 32. (Ch 5.2) Wired, CNET, Slate, Salon and Suck
       author: Brian McCullough @brianmcc
       content: A history of the Internet Era from Netscape to the iPad. Oral histories
         from the people that made the technology happen. "Chapter" episodes providing
         background on the history of the companies.
   content:
-    text: ' \ud83c\udfa7 Listened to 29. Analysis Episode 1 With Chris Higgins @chrishiggins
+    text: ' \ud83c\udfa7 Listened to 32. (Ch 5.2) Wired, CNET, Slate, Salon and Suck
       by Brian McCullough @brianmcc From Internet History Podcast'
 ...

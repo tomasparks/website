@@ -1,5 +1,6 @@
 ---
-- type: entry
+0:
+  type: entry
   published: "2019-02-27T18:40:14+00:00"
   category:
   - scrobble
@@ -26,7 +27,8 @@
   content:
     text: ' \ud83c\udfa7 Listened to Can Journalism Survive A Free Market? by Techdirt
       From Techdirt'
-- type: entry
+2:
+  type: entry
   published: "2019-02-27T17:52:44+00:00"
   category:
   - scrobble

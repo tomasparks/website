@@ -1,30 +1,5 @@
 ---
 - type: entry
-  published: "2018-03-29T06:47:22+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/348412052-techdirt-who-still-needs-a-personal-computer.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/348412052-techdirt-who-still-needs-a-personal-computer.mp3
-      name: Who Still Needs A Personal Computer?
-      author: Techdirt
-      content: 'As smartphones and other mobile devices have gotten smarter and smarter,
-        they''ve taken over more and more of most people''s general computing needs,
-        and the importance of the classic personal computer has waned. And so for
-        some time the question has been: will the PC ever go away entirely? That''s
-        our topic this week as we try to figure out who really needs a PC these days,
-        and when and if that will change.'
-  content:
-    text: ' \ud83c\udfa7 Listened to Who Still Needs A Personal Computer? by Techdirt
-      From Techdirt'
-- type: entry
   published: "2018-03-29T02:24:24+00:00"
   category:
   - scrobble
@@ -51,7 +26,7 @@
     text: ' \ud83c\udfa7 Listened to No Easy Answers: Facebook & The Election by Techdirt
       From Techdirt'
 - type: entry
-  published: "2018-03-29T09:49:27+00:00"
+  published: "2018-03-29T06:47:22+00:00"
   category:
   - scrobble
   - audio
@@ -62,21 +37,19 @@
       url: https://www.techdirt.com/podcast.xml
       photo: ""
       audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/346298327-techdirt-wtf-with-tim-oreilly.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/346298327-techdirt-wtf-with-tim-oreilly.mp3
-      name: WTF With Tim O'Reilly
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/348412052-techdirt-who-still-needs-a-personal-computer.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/348412052-techdirt-who-still-needs-a-personal-computer.mp3
+      name: Who Still Needs A Personal Computer?
       author: Techdirt
-      content: "The rapid forward march of technology has long bred two leading camps
-        of onlookers: the techno-optimists and the techno-pessimists. Honest people
-        on both sides, however, must admit that technological innovation has had both
-        positive and negative effects. Internet legend Tim O'Reilly is one of the
-        people who think a lot about these issues, and his new book WTF? What's the
-        Future and Why It's Up to Us \u2014 which discusses in detail the world that
-        we are building with technology \u2014 was released today, and we're pleased
-        to have him join us on this week's episode to talk about the book and the
-        future of innovation."
+      content: 'As smartphones and other mobile devices have gotten smarter and smarter,
+        they''ve taken over more and more of most people''s general computing needs,
+        and the importance of the classic personal computer has waned. And so for
+        some time the question has been: will the PC ever go away entirely? That''s
+        our topic this week as we try to figure out who really needs a PC these days,
+        and when and if that will change.'
   content:
-    text: ' \ud83c\udfa7 Listened to WTF With Tim O''Reilly by Techdirt From Techdirt'
+    text: ' \ud83c\udfa7 Listened to Who Still Needs A Personal Computer? by Techdirt
+      From Techdirt'
 - type: entry
   published: "2018-03-29T09:03:30+00:00"
   category:
@@ -104,4 +77,31 @@
   content:
     text: ' \ud83c\udfa7 Listened to Donald Trump, Howard Stern... And Copyright by
       Techdirt From Techdirt'
+- type: entry
+  published: "2018-03-29T09:49:27+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/346298327-techdirt-wtf-with-tim-oreilly.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/346298327-techdirt-wtf-with-tim-oreilly.mp3
+      name: WTF With Tim O'Reilly
+      author: Techdirt
+      content: "The rapid forward march of technology has long bred two leading camps
+        of onlookers: the techno-optimists and the techno-pessimists. Honest people
+        on both sides, however, must admit that technological innovation has had both
+        positive and negative effects. Internet legend Tim O'Reilly is one of the
+        people who think a lot about these issues, and his new book WTF? What's the
+        Future and Why It's Up to Us \u2014 which discusses in detail the world that
+        we are building with technology \u2014 was released today, and we're pleased
+        to have him join us on this week's episode to talk about the book and the
+        future of innovation."
+  content:
+    text: ' \ud83c\udfa7 Listened to WTF With Tim O''Reilly by Techdirt From Techdirt'
 ...

@@ -1,0 +1,22 @@
+---
+- type: entry
+  published: "2019-09-02T21:39:40+00:00"
+  url: https://twitter.com/tomasparksts/status/1168639655278866432
+  video:
+  - https://video.twimg.com/tweet_video/EDfXj3TVUAAGV1R.mp4
+  in-reply-to:
+  - https://twitter.com/CheekyCrissy/status/1167606631535906816
+  content:
+    text: I heard that somewhere
+    html: |-
+      I heard that somewhere
+      <a class="u-mention" href="https://twitter.com/CheekyCrissy"></a>
+      <a class="u-mention" href="https://twitter.com/Octav1usKitten"></a>
+      <a class="u-mention" href="https://twitter.com/asobitech"></a>
+      <a class="u-mention" href="https://twitter.com/gamingmuso"></a>
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+...

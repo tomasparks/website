@@ -1,29 +1,5 @@
 ---
 - type: entry
-  published: "2018-03-14T10:54:53+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough @brianmcc
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/5NDIB5muf_s/143._Neil_Hunt_on_the_History_of_Netflix_and_Netflix_Streaming.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/143_Neil_Hunt_on_the_History_of_Netflix_and_Netflix_Streaming.mp3
-      name: 143. Neil Hunt on the History of Netflix and Netflix Streaming
-      author: Brian McCullough @brianmcc
-      content: Neil Hunt is the Chief Product Officer at Netflix. Since he's been
-        at Netflix since 1999, not only is he the perfect person to tell us how Netflix
-        streaming came about (the technical hurdles, the strategic decisions, etc.)
-        but he can also give us the whole history of Netflix, from basically the very
-        beginning.
-  content:
-    text: ' \ud83c\udfa7 Listened to 143. Neil Hunt on the History of Netflix and
-      Netflix Streaming by Brian McCullough @brianmcc From Internet History Podcast'
-- type: entry
   published: "2018-03-14T13:33:20+00:00"
   category:
   - scrobble
@@ -49,4 +25,28 @@
   content:
     text: ' \ud83c\udfa7 Listened to 144. The "First" Blogger, Justin Hall by Brian
       McCullough @brianmcc From Internet History Podcast'
+- type: entry
+  published: "2018-03-14T10:54:53+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough @brianmcc
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - http://feedproxy.google.com/~r/InternetHistoryPodcast/~5/5NDIB5muf_s/143._Neil_Hunt_on_the_History_of_Netflix_and_Netflix_Streaming.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/143_Neil_Hunt_on_the_History_of_Netflix_and_Netflix_Streaming.mp3
+      name: 143. Neil Hunt on the History of Netflix and Netflix Streaming
+      author: Brian McCullough @brianmcc
+      content: Neil Hunt is the Chief Product Officer at Netflix. Since he's been
+        at Netflix since 1999, not only is he the perfect person to tell us how Netflix
+        streaming came about (the technical hurdles, the strategic decisions, etc.)
+        but he can also give us the whole history of Netflix, from basically the very
+        beginning.
+  content:
+    text: ' \ud83c\udfa7 Listened to 143. Neil Hunt on the History of Netflix and
+      Netflix Streaming by Brian McCullough @brianmcc From Internet History Podcast'
 ...

@@ -43,38 +43,6 @@
     text: " \\ud83c\\udfa7 Listened to Dragon\u2019s Delve Session 24 by @rpgmp3 ,
       @GM_Lockhart & @ygguild From #RPGMP3ActualPlayPodcast #YorktonGamerGuildActualPlayPodcast"
 - type: entry
-  published: "2019-08-03T17:33:36+00:00"
-  category:
-  - scrobble
-  - audio
-  - IRL - Online Life Is Real Life
-  - Firefox, backed by Mozilla
-  listen-of:
-    h-cite:
-      url: https://feeds.mozilla-podcasts.org/irl
-      photo: ""
-      audio:
-      - https://tracking.feedpress.it/link/17512/12381683/irl_s5_e02_democracy_and_the_internet_final_tc.mp3
-      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Firefox_backed_by_Mozilla/irl_s5_e02_democracy_and_the_internet_final_tc.mp3
-      name: Democracy and the Internet
-      author: Firefox, backed by Mozilla
-      content: "Part of celebrating democracy is questioning what influences it. In
-        this episode of IRL, we look at how the internet influences us, our votes,
-        and our systems of government. Is democracy in trouble? Are democratic elections
-        and the internet incompatible? \n\nPolitico's Mark Scott takes us into Facebook's
-        European Union election war room. Karina Gould, Canada's Minister for Democratic
-        Institutions, explains why they passed a law governing online political ads.
-        The ACLU's Ben Wizner says our online electoral integrity problem goes well
-        beyond a few bad ads. The team at Stop Fake describes a massive problem that
-        Ukraine faces in telling political news fact from fiction, as well as how
-        they're tackling it. And NYU professor Eric Klinenberg explains how a little
-        bit of offline conversation goes a long way to inoculate an electorate against
-        election interference. \n\nIRL is an original podcast from Firefox. For more
-        on the series go to irlpodcast.org"
-  content:
-    text: ' \ud83c\udfa7 Listened to Democracy and the Internet by Firefox, backed
-      by Mozilla From IRL - Online Life Is Real Life'
-- type: entry
   published: "2019-08-03T18:08:09+00:00"
   category:
   - scrobble
@@ -109,6 +77,38 @@
     text: ' \ud83c\udfa7 Listened to The Internet''s Carbon Footprint by Firefox,
       backed by Mozilla From IRL - Online Life Is Real Life'
 - type: entry
+  published: "2019-08-03T17:06:31+00:00"
+  category:
+  - scrobble
+  - audio
+  - IRL - Online Life Is Real Life
+  - Firefox, backed by Mozilla
+  listen-of:
+    h-cite:
+      url: https://feeds.mozilla-podcasts.org/irl
+      photo: ""
+      audio:
+      - https://tracking.feedpress.it/link/17512/11963039/IRL_S5E01_Privacy_Policy_Policies_FINAL_tc.mp3
+      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Firefox_backed_by_Mozilla/IRL_S5E01_Privacy_Policy_Policies_FINAL_tc.mp3
+      name: The "Privacy Policy" Policy
+      author: Firefox, backed by Mozilla
+      content: "Privacy policies: most apps and websites have them, buried away somewhere.
+        These legal documents explain how the company collects, uses, and shares your
+        personal data. But let's be honest, few of us actually read these things,
+        right? And that passive acceptance says a lot about our complicated relationship
+        with online privacy. \n\nIn the Season 5 premiere of IRL, host Manoush Zomorodi
+        speaks with Charlie Warzel, writer-at-large with the New York Times, about
+        our complicated relationship with data and privacy \u2014 and the role privacy
+        policies play in keeping things, well, confusing. You'll also hear from Parker
+        and Lila, two young girls who realize how gaming and personal data intersect.
+        Rowenna Fielding, a data protection expert, walks us through the most efficient
+        ways to understand a privacy policy. Professor Lorrie Cranor explains how
+        these policies have warped our understanding of consent. And privacy lawyer
+        Jenny Afia explains why \"privacy\" is a base element of being human. \n\n"
+  content:
+    text: ' \ud83c\udfa7 Listened to The "Privacy Policy" Policy by Firefox, backed
+      by Mozilla From IRL - Online Life Is Real Life'
+- type: entry
   published: "2019-08-03T20:03:42+00:00"
   category:
   - scrobble
@@ -142,7 +142,7 @@
     text: ' \ud83c\udfa7 Listened to The Tech Worker Resistance by Firefox, backed
       by Mozilla From IRL - Online Life Is Real Life'
 - type: entry
-  published: "2019-08-03T17:06:31+00:00"
+  published: "2019-08-03T17:33:36+00:00"
   category:
   - scrobble
   - audio
@@ -153,25 +153,25 @@
       url: https://feeds.mozilla-podcasts.org/irl
       photo: ""
       audio:
-      - https://tracking.feedpress.it/link/17512/11963039/IRL_S5E01_Privacy_Policy_Policies_FINAL_tc.mp3
-      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Firefox_backed_by_Mozilla/IRL_S5E01_Privacy_Policy_Policies_FINAL_tc.mp3
-      name: The "Privacy Policy" Policy
+      - https://tracking.feedpress.it/link/17512/12381683/irl_s5_e02_democracy_and_the_internet_final_tc.mp3
+      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Firefox_backed_by_Mozilla/irl_s5_e02_democracy_and_the_internet_final_tc.mp3
+      name: Democracy and the Internet
       author: Firefox, backed by Mozilla
-      content: "Privacy policies: most apps and websites have them, buried away somewhere.
-        These legal documents explain how the company collects, uses, and shares your
-        personal data. But let's be honest, few of us actually read these things,
-        right? And that passive acceptance says a lot about our complicated relationship
-        with online privacy. \n\nIn the Season 5 premiere of IRL, host Manoush Zomorodi
-        speaks with Charlie Warzel, writer-at-large with the New York Times, about
-        our complicated relationship with data and privacy \u2014 and the role privacy
-        policies play in keeping things, well, confusing. You'll also hear from Parker
-        and Lila, two young girls who realize how gaming and personal data intersect.
-        Rowenna Fielding, a data protection expert, walks us through the most efficient
-        ways to understand a privacy policy. Professor Lorrie Cranor explains how
-        these policies have warped our understanding of consent. And privacy lawyer
-        Jenny Afia explains why \"privacy\" is a base element of being human. \n\n"
+      content: "Part of celebrating democracy is questioning what influences it. In
+        this episode of IRL, we look at how the internet influences us, our votes,
+        and our systems of government. Is democracy in trouble? Are democratic elections
+        and the internet incompatible? \n\nPolitico's Mark Scott takes us into Facebook's
+        European Union election war room. Karina Gould, Canada's Minister for Democratic
+        Institutions, explains why they passed a law governing online political ads.
+        The ACLU's Ben Wizner says our online electoral integrity problem goes well
+        beyond a few bad ads. The team at Stop Fake describes a massive problem that
+        Ukraine faces in telling political news fact from fiction, as well as how
+        they're tackling it. And NYU professor Eric Klinenberg explains how a little
+        bit of offline conversation goes a long way to inoculate an electorate against
+        election interference. \n\nIRL is an original podcast from Firefox. For more
+        on the series go to irlpodcast.org"
   content:
-    text: ' \ud83c\udfa7 Listened to The "Privacy Policy" Policy by Firefox, backed
+    text: ' \ud83c\udfa7 Listened to Democracy and the Internet by Firefox, backed
       by Mozilla From IRL - Online Life Is Real Life'
 - type: entry
   published: "2019-08-03T15:52:36+00:00"

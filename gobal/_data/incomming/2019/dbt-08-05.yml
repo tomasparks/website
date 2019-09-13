@@ -1,5 +1,73 @@
 ---
-- type: entry
+0:
+  type: entry
+  published: "2019-08-05T15:36:45+00:00"
+  url: https://twitter.com/tomasparksts/status/1158401464122798080
+  in-reply-to:
+  - https://twitter.com/tomasparksts/status/1158400500615614465
+  content:
+    text: 'ps: I #have #lived #OffGrid for about 12 #months'
+    html: |-
+      ps: I <a href="https://twitter.com/search?q=%23have">#have</a> <a href="https://twitter.com/search?q=%23lived">#lived</a> <a href="https://twitter.com/search?q=%23OffGrid">#OffGrid</a> for about 12 <a href="https://twitter.com/search?q=%23months">#months</a>
+      <a class="u-mention" href="https://twitter.com/IRLPodcast_org"></a>
+      <a class="u-mention" href="https://twitter.com/mozilla"></a>
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+1:
+  type: entry
+  published: "2019-08-05T15:32:56+00:00"
+  url: https://twitter.com/tomasparksts/status/1158400500615614465
+  in-reply-to:
+  - https://twitter.com/tomasparksts/status/1158397439809687552
+  content:
+    text: 'I am in a #catch22: my #DcnHat has a #scaleablepower #philosophy, while
+      my #DigitalCreativity side has outsourcing computing task #philosophy'
+    html: |-
+      I am in a <a href="https://twitter.com/search?q=%23catch22">#catch22</a>: my <a href="https://twitter.com/search?q=%23DcnHat">#DcnHat</a> has a <a href="https://twitter.com/search?q=%23scaleablepower">#scaleablepower</a> <a href="https://twitter.com/search?q=%23philosophy">#philosophy</a>, while my <a href="https://twitter.com/search?q=%23DigitalCreativity">#DigitalCreativity</a> side has outsourcing computing task #philosophy
+      <a class="u-mention" href="https://twitter.com/IRLPodcast_org"></a>
+      <a class="u-mention" href="https://twitter.com/mozilla"></a>
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+2:
+  type: entry
+  published: "2019-08-05T15:20:46+00:00"
+  url: https://twitter.com/tomasparksts/status/1158397439809687552
+  in-reply-to:
+  - https://twitter.com/tomasparksts/status/1158396964079202304
+  content:
+    text: 'I #read the #shownotes'
+    html: |-
+      I <a href="https://twitter.com/search?q=%23read">#read</a> the <a href="https://twitter.com/search?q=%23shownotes">#shownotes</a>
+      <a class="u-mention" href="https://twitter.com/IRLPodcast_org"></a>
+      <a class="u-mention" href="https://twitter.com/mozilla"></a>
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+3:
+  type: entry
+  published: "2019-08-05T15:18:52+00:00"
+  url: https://twitter.com/tomasparksts/status/1158396964079202304
+  content:
+    text: "#listened to @IRLPodcast_org  \"The Internet\u2019s Carbon Footprint\"
+      by @mozilla"
+    html: "<a href=\"https://twitter.com/search?q=%23listened\">#listened</a> to <a
+      href=\"https://twitter.com/IRLPodcast_org\">@IRLPodcast_org</a>  \"The Internet\u2019s
+      Carbon Footprint\" by <a href=\"https://twitter.com/mozilla\">@mozilla</a>"
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+4:
+  type: entry
   published: "2019-08-05T15:36:45+00:00"
   url: https://twitter.com/tomasparksts/status/1158401464122798080
   in-reply-to:
@@ -18,7 +86,8 @@
     name: Tom Sparks
     url: https://twitter.com/tomasparksts
     photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-- type: entry
+5:
+  type: entry
   published: "2019-08-05T15:32:56+00:00"
   url: https://twitter.com/tomasparksts/status/1158400500615614465
   in-reply-to:
@@ -37,7 +106,8 @@
     name: Tom Sparks
     url: https://twitter.com/tomasparksts
     photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-- type: entry
+6:
+  type: entry
   published: "2019-08-05T15:20:46+00:00"
   url: https://twitter.com/tomasparksts/status/1158397439809687552
   in-reply-to:
@@ -56,21 +126,8 @@
     name: Tom Sparks
     url: https://twitter.com/tomasparksts
     photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-- type: entry
-  published: "2019-08-05T15:18:52+00:00"
-  url: https://twitter.com/tomasparksts/status/1158396964079202304
-  content:
-    text: "#listened to @IRLPodcast_org  \"The Internet\u2019s Carbon Footprint\"
-      by @mozilla"
-    html: "<a href=\"https://twitter.com/search?q=%23listened\">#listened</a> to <a
-      href=\"https://twitter.com/IRLPodcast_org\">@IRLPodcast_org</a>  \"The Internet\u2019s
-      Carbon Footprint\" by <a href=\"https://twitter.com/mozilla\">@mozilla</a>"
-  author:
-    type: card
-    name: Tom Sparks
-    url: https://twitter.com/tomasparksts
-    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-- type: entry
+8:
+  type: entry
   published: "2019-08-05T15:36:45+00:00"
   url: https://twitter.com/tomasparksts/status/1158401464122798080
   category:
@@ -99,7 +156,8 @@
       name: Mozilla
       url: https://twitter.com/mozilla
       photo: ~
-- type: entry
+9:
+  type: entry
   published: "2019-08-05T15:32:56+00:00"
   url: https://twitter.com/tomasparksts/status/1158400500615614465
   category:
@@ -131,7 +189,8 @@
       name: Mozilla
       url: https://twitter.com/mozilla
       photo: ~
-- type: entry
+10:
+  type: entry
   published: "2019-08-05T15:20:46+00:00"
   url: https://twitter.com/tomasparksts/status/1158397439809687552
   category:
@@ -158,7 +217,8 @@
       name: Mozilla
       url: https://twitter.com/mozilla
       photo: ~
-- type: entry
+11:
+  type: entry
   published: "2019-08-05T15:18:52+00:00"
   url: https://twitter.com/tomasparksts/status/1158396964079202304
   category:

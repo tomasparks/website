@@ -22,30 +22,6 @@
     text: ' \ud83c\udfa7 Listened to Ep 33: Anne Curzan Talks Grammar and the Flexibility
       of Language by Adam Ruins Everything From Adam Ruins Everything'
 - type: entry
-  published: "2018-04-10T12:27:13+00:00"
-  category:
-  - scrobble
-  - audio
-  - Adam Ruins Everything
-  - Adam Ruins Everything
-  listen-of:
-    h-cite:
-      url: http://maximumfun.org/feeds/are.xml
-      photo: ""
-      audio:
-      - http://media.adknit.com/a/f/90/adam-ruins-everything/eq3565.1-1.mp3
-      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_32_Kevin_Hall_Gives_Us_the_Skinny_Losing_Weight_and_Keeping_it_Off_is_Hard.mp3
-      name: 'Ep 32: Kevin Hall Gives Us the Skinny - Losing Weight and Keeping it
-        Off is Hard'
-      author: Adam Ruins Everything
-      content: 'It''s rare to hear about a researcher from the National Institute
-        of Health collaborating with a reality TV show. But that''s exactly what Dr.
-        Kevin Hall, a clinical researcher at the NIH, did after watching episodes
-        of The Biggest Loser. '
-  content:
-    text: ' \ud83c\udfa7 Listened to Ep 32: Kevin Hall Gives Us the Skinny - Losing
-      Weight and Keeping it Off is Hard by Adam Ruins Everything From Adam Ruins Everything'
-- type: entry
   published: "2018-04-10T10:24:03+00:00"
   category:
   - scrobble
@@ -69,4 +45,28 @@
     text: ' \ud83c\udfa7 Listened to Ep 34: Dr. Joann Elmore and Dr. Janie Lee on
       Why Mammogram Screenings are More Complex Than We Imagined by Adam Ruins Everything
       From Adam Ruins Everything'
+- type: entry
+  published: "2018-04-10T12:27:13+00:00"
+  category:
+  - scrobble
+  - audio
+  - Adam Ruins Everything
+  - Adam Ruins Everything
+  listen-of:
+    h-cite:
+      url: http://maximumfun.org/feeds/are.xml
+      photo: ""
+      audio:
+      - http://media.adknit.com/a/f/90/adam-ruins-everything/eq3565.1-1.mp3
+      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_32_Kevin_Hall_Gives_Us_the_Skinny_Losing_Weight_and_Keeping_it_Off_is_Hard.mp3
+      name: 'Ep 32: Kevin Hall Gives Us the Skinny - Losing Weight and Keeping it
+        Off is Hard'
+      author: Adam Ruins Everything
+      content: 'It''s rare to hear about a researcher from the National Institute
+        of Health collaborating with a reality TV show. But that''s exactly what Dr.
+        Kevin Hall, a clinical researcher at the NIH, did after watching episodes
+        of The Biggest Loser. '
+  content:
+    text: ' \ud83c\udfa7 Listened to Ep 32: Kevin Hall Gives Us the Skinny - Losing
+      Weight and Keeping it Off is Hard by Adam Ruins Everything From Adam Ruins Everything'
 ...

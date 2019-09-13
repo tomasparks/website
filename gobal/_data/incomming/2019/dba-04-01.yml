@@ -1,25 +1,6 @@
 ---
-- type: entry
-  published: "2019-04-01T14:59:40+00:00"
-  category:
-  - scrobble
-  - audio
-  - RPGMP3 Actual Play Podcast
-  - Hal
-  listen-of:
-    h-cite:
-      url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
-      photo: ""
-      audio:
-      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_19.mp3
-      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_19.mp3
-      name: Kingmaker Session 19
-      author: Hal
-      content: "Episode 19 \u2013 in which Kaylen finally confronts Hagrulka, in the
-        battle of the Monster Kingdom vs Stagthorn!"
-  content:
-    text: ' \ud83c\udfa7 Listened to Kingmaker Session 19 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
-- type: entry
+0:
+  type: entry
   published: "2019-04-01T15:17:39+00:00"
   category:
   - scrobble
@@ -45,4 +26,25 @@
         a body of work, and you''ve been inspirational in helping me create it.'
   content:
     text: ' \ud83c\udfa7 Listened to The Podcasting Episode by @textfiles From #JasonScottTalksHisWayOutofIt'
+2:
+  type: entry
+  published: "2019-04-01T14:59:40+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_19.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_19.mp3
+      name: Kingmaker Session 19
+      author: Hal
+      content: "Episode 19 \u2013 in which Kaylen finally confronts Hagrulka, in the
+        battle of the Monster Kingdom vs Stagthorn!"
+  content:
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 19 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
 ...

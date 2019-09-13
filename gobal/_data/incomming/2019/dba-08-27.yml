@@ -1,0 +1,36 @@
+---
+- type: entry
+  published: "2019-08-27T23:03:19+00:00"
+  category:
+  - scrobble
+  - audio
+  - IRL - Online Life Is Real Life
+  - Firefox, backed by Mozilla
+  listen-of:
+    h-cite:
+      url: https://feeds.mozilla-podcasts.org/irl
+      photo: ""
+      audio:
+      - https://tracking.feedpress.it/link/17512/12767291/irl_s5_e06_privacy_gamechangers_withsurvey_vfinal_aug16_tc.mp3
+      - http://archive.org/download/IRL_Online_Life_Is_Real_Life-Podcast-by-Firefox_backed_by_Mozilla/irl_s5_e06_privacy_gamechangers_withsurvey_vfinal_aug16_tc.mp3
+      name: Making Privacy Law
+      author: Firefox, backed by Mozilla
+      content: "The word \u201Cregulation\" gets tossed around a lot. And it\u2019s
+        often aimed at the internet\u2019s Big Tech companies. Some worry that the
+        size of these companies and the influence they wield is too much. On the other
+        side, there\u2019s the argument that any regulation is overreach \u2014 leave
+        it to the market, and everything will sort itself out. But over the last year,
+        in the midst of this regulation debate, a funny thing happened. Tech companies
+        got regulated. And our right to privacy got a little easier to exercise. \n\nGabriela
+        Zanfir-Fortuna gives us the highlights of Europe\u2019s sweeping GDPR privacy
+        law, and explains how the law netted a huge fine against Spain\u2019s National
+        Football League. Twitter\u2019s Data Protection Officer, Damien Kieran explains
+        how regulation has shaped his new job and is changing how Twitter works with
+        our personal data. Julie Brill at Microsoft says the company wants legislators
+        to go further, and bring a federal privacy law to the U.S. And Manoush chats
+        with Alastair MacTaggart, the California resident whose work led to the passing
+        of the California Consumer Privacy Act. "
+  content:
+    text: ' \ud83c\udfa7 Listened to Making Privacy Law by Firefox, backed by Mozilla
+      From IRL - Online Life Is Real Life'
+...

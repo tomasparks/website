@@ -1,5 +1,6 @@
 ---
-- type: entry
+0:
+  type: entry
   published: "2019-02-20T18:34:12+00:00"
   category:
   - scrobble
@@ -25,7 +26,8 @@
   content:
     text: ' \ud83c\udfa7 Listened to The (Big?) Business Of Podcasting by Techdirt
       From Techdirt'
-- type: entry
+1:
+  type: entry
   published: "2019-02-20T18:39:40+00:00"
   category:
   - scrobble
@@ -46,7 +48,8 @@
   content:
     text: ' \ud83c\udfa7 Listened to Brain freeze by ABC Radio National From Great
       Moments In Science - with Dr Karl Kruszelnicki'
-- type: entry
+4:
+  type: entry
   published: "2019-02-20T17:10:28+00:00"
   category:
   - scrobble

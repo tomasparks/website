@@ -1,25 +1,5 @@
 ---
 - type: entry
-  published: "2019-06-02T05:12:46+00:00"
-  category:
-  - scrobble
-  - audio
-  - 'RPGMP3: Yorkton Gamer Guild Actual Play Podcast'
-  - Yorkton Gamer Guild
-  listen-of:
-    h-cite:
-      url: http://rpgmp3.com/v5/category/group/yorktongamerguild/feed/
-      photo: ""
-      audio:
-      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Yorkton_Gamer_Guild/bg_arabian_nights_01.MP3
-      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/bg_arabian_nights_01.MP3
-      name: Tales of the Arabian Nights Session 01
-      author: Yorkton Gamer Guild
-      content: Session 01 - YGG Board Game Session 01
-  content:
-    text: ' \ud83c\udfa7 Listened to Tales of the Arabian Nights Session 01 by @rpgmp3
-      , @GM_Lockhart & @ygguild From #RPGMP3ActualPlayPodcast #YorktonGamerGuildActualPlayPodcast'
-- type: entry
   published: "2019-06-02T07:19:11+00:00"
   category:
   - scrobble
@@ -60,4 +40,24 @@
     text: " \\ud83c\\udfa7 Listened to Inspectres \u2013 Team America Ghost Police
       Session 01 by @rpgmp3 , @GM_Lockhart & @ygguild From #RPGMP3ActualPlayPodcast
       #YorktonGamerGuildActualPlayPodcast"
+- type: entry
+  published: "2019-06-02T05:12:46+00:00"
+  category:
+  - scrobble
+  - audio
+  - 'RPGMP3: Yorkton Gamer Guild Actual Play Podcast'
+  - Yorkton Gamer Guild
+  listen-of:
+    h-cite:
+      url: http://rpgmp3.com/v5/category/group/yorktongamerguild/feed/
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Yorkton_Gamer_Guild/bg_arabian_nights_01.MP3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/bg_arabian_nights_01.MP3
+      name: Tales of the Arabian Nights Session 01
+      author: Yorkton Gamer Guild
+      content: Session 01 - YGG Board Game Session 01
+  content:
+    text: ' \ud83c\udfa7 Listened to Tales of the Arabian Nights Session 01 by @rpgmp3
+      , @GM_Lockhart & @ygguild From #RPGMP3ActualPlayPodcast #YorktonGamerGuildActualPlayPodcast'
 ...

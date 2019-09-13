@@ -1,5 +1,6 @@
 ---
-- type: entry
+0:
+  type: entry
   published: "2019-01-16T14:14:25+00:00"
   category:
   - scrobble
@@ -25,7 +26,8 @@
   content:
     text: ' \ud83c\udfa7 Listened to The EU Endangers Free Speech Online... Again
       by Techdirt From Techdirt'
-- type: entry
+2:
+  type: entry
   published: "2019-01-16T13:13:30+00:00"
   category:
   - scrobble

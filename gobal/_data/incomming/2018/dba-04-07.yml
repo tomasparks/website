@@ -1,147 +1,5 @@
 ---
 - type: entry
-  published: "2018-04-07T12:09:51+00:00"
-  category:
-  - scrobble
-  - audio
-  - Adam Ruins Everything
-  - Adam Ruins Everything
-  listen-of:
-    h-cite:
-      url: http://maximumfun.org/feeds/are.xml
-      photo: ""
-      audio:
-      - http://media.adknit.com/a/f/90/adam-ruins-everything/l1y7zc.1-1.mp3
-      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_38_Professor_Brian_Nosek_On_Sciences_Reproducibility_Crisis_and_Opportunity.mp3
-      name: 'Ep. 38:  Professor Brian Nosek On Science''s Reproducibility Crisis and
-        Opportunity'
-      author: Adam Ruins Everything
-      content: 'We''ve seen it time and time again. A journal publishes a seemingly
-        significant scientific study which gains traction in the press only to be
-        subsequently deemed irreproducible. '
-  content:
-    text: ' \ud83c\udfa7 Listened to Ep. 38:  Professor Brian Nosek On Science''s
-      Reproducibility Crisis and Opportunity by Adam Ruins Everything From Adam Ruins
-      Everything'
-- type: entry
-  published: "2018-04-07T09:25:31+00:00"
-  category:
-  - scrobble
-  - audio
-  - Adam Ruins Everything
-  - Adam Ruins Everything
-  listen-of:
-    h-cite:
-      url: http://maximumfun.org/feeds/are.xml
-      photo: ""
-      audio:
-      - http://media.adknit.com/a/f/90/adam-ruins-everything/x5mh9x.1-1.mp3
-      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_40_Dr_Arjun_Srinivasan_on_Antibiotic_Resistance.mp3
-      name: 'Ep 40: Dr. Arjun Srinivasan on Antibiotic Resistance'
-      author: Adam Ruins Everything
-      content: "Is the antibiotic resistance apocalypse\_approaching? This week's
-        guest,\_Dr. Arjun Srinivasan, who appeared on\_Adam Ruins the Hospital, says
-        yes.\_"
-  content:
-    text: ' \ud83c\udfa7 Listened to Ep 40: Dr. Arjun Srinivasan on Antibiotic Resistance
-      by Adam Ruins Everything From Adam Ruins Everything'
-- type: entry
-  published: "2018-04-07T10:26:14+00:00"
-  category:
-  - scrobble
-  - audio
-  - Adam Ruins Everything
-  - Adam Ruins Everything
-  listen-of:
-    h-cite:
-      url: http://maximumfun.org/feeds/are.xml
-      photo: ""
-      audio:
-      - http://media.adknit.com/a/f/90/adam-ruins-everything/vetsmj.1-1.mp3
-      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_41_Heather_Jarvis_on_the_Unsustainability_of_Student_Loans.mp3
-      name: 'Ep. 41: Heather Jarvis on the Unsustainability of Student Loans'
-      author: Adam Ruins Everything
-      content: "Student loans are an absolute necessity for many students in today's
-        economy, but they're also among the worst forms of debt you can have, burdening
-        students and sometimes permanently crippling their financial lives. Our guest
-        Heather Jarvis, who appeared on Adam Ruins College, is going to tell us how
-        we got here and give us practical tips on navigating the world of student
-        loans. Heather is an attorney and student loan expert. She has practiced public
-        interest law for more than a dozen years and has contributed to student debt
-        relief policy for the House Education Committee and others in Congress.\r\n\r\nAdam
-        is on Twitter @AdamConover and you can find past episodes and bonus content
-        from the TruTV show at AdamRuinsEverything.com.\r\n\r\nProduced by Shara Morris
-        for MaximumFun.org."
-  content:
-    text: ' \ud83c\udfa7 Listened to Ep. 41: Heather Jarvis on the Unsustainability
-      of Student Loans by Adam Ruins Everything From Adam Ruins Everything'
-- type: entry
-  published: "2018-04-07T13:04:02+00:00"
-  category:
-  - scrobble
-  - audio
-  - Adam Ruins Everything
-  - Adam Ruins Everything
-  listen-of:
-    h-cite:
-      url: http://maximumfun.org/feeds/are.xml
-      photo: ""
-      audio:
-      - http://media.adknit.com/a/f/90/adam-ruins-everything/elvmhb.1-1.mp3
-      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_37_Professor_Stephan_Lewandowsky_on_the_Backfire_Effect.mp3
-      name: 'Ep 37: Professor Stephan Lewandowsky on the Backfire Effect'
-      author: Adam Ruins Everything
-      content: On Adam Ruins Everything, we're all about using persuasive, rational
-        arguments to bring awareness to a topic and hopefully change some minds along
-        the way.
-  content:
-    text: ' \ud83c\udfa7 Listened to Ep 37: Professor Stephan Lewandowsky on the Backfire
-      Effect by Adam Ruins Everything From Adam Ruins Everything'
-- type: entry
-  published: "2018-04-07T11:19:04+00:00"
-  category:
-  - scrobble
-  - audio
-  - Adam Ruins Everything
-  - Adam Ruins Everything
-  listen-of:
-    h-cite:
-      url: http://maximumfun.org/feeds/are.xml
-      photo: ""
-      audio:
-      - http://media.adknit.com/a/f/90/adam-ruins-everything/opugm6.1-1.mp3
-      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_39_Jessica_Huseman_on_Why_Filing_Taxes_Is_Unnecessarily_Difficult.mp3
-      name: 'Ep 39: Jessica Huseman on Why Filing Taxes Is Unnecessarily Difficult'
-      author: Adam Ruins Everything
-      content: We all know how filing taxes is a pain. Every April Americans dig through
-        receipts, meet with accountants, claim their expenses, and pray they're not
-        audited.
-  content:
-    text: ' \ud83c\udfa7 Listened to Ep 39: Jessica Huseman on Why Filing Taxes Is
-      Unnecessarily Difficult by Adam Ruins Everything From Adam Ruins Everything'
-- type: entry
-  published: "2018-04-07T14:05:37+00:00"
-  category:
-  - scrobble
-  - audio
-  - Adam Ruins Everything
-  - Adam Ruins Everything
-  listen-of:
-    h-cite:
-      url: http://maximumfun.org/feeds/are.xml
-      photo: ""
-      audio:
-      - http://media.adknit.com/a/f/90/adam-ruins-everything/7qo9k0.1-1.mp3
-      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_36_Nikole_HannahJones_on_the_Rippling_Effects_of_Redlining_and_Segregation.mp3
-      name: 'Ep 36: Nikole Hannah-Jones on the Rippling Effects of Redlining and Segregation'
-      author: Adam Ruins Everything
-      content: 'Many people have an idyllic view of the suburbs. You can have a lawn!
-        Access to good schools! Safety! But much of that American dream has been historically
-        reserved for white people. '
-  content:
-    text: ' \ud83c\udfa7 Listened to Ep 36: Nikole Hannah-Jones on the Rippling Effects
-      of Redlining and Segregation by Adam Ruins Everything From Adam Ruins Everything'
-- type: entry
   published: "2018-04-07T06:54:16+00:00"
   category:
   - scrobble
@@ -173,4 +31,146 @@
   content:
     text: ' \ud83c\udfa7 Listened to Ep 42: Professor Ellen Dunham-Jones on Retrofitting
       Suburbia by Adam Ruins Everything From Adam Ruins Everything'
+- type: entry
+  published: "2018-04-07T12:09:51+00:00"
+  category:
+  - scrobble
+  - audio
+  - Adam Ruins Everything
+  - Adam Ruins Everything
+  listen-of:
+    h-cite:
+      url: http://maximumfun.org/feeds/are.xml
+      photo: ""
+      audio:
+      - http://media.adknit.com/a/f/90/adam-ruins-everything/l1y7zc.1-1.mp3
+      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_38_Professor_Brian_Nosek_On_Sciences_Reproducibility_Crisis_and_Opportunity.mp3
+      name: 'Ep. 38:  Professor Brian Nosek On Science''s Reproducibility Crisis and
+        Opportunity'
+      author: Adam Ruins Everything
+      content: 'We''ve seen it time and time again. A journal publishes a seemingly
+        significant scientific study which gains traction in the press only to be
+        subsequently deemed irreproducible. '
+  content:
+    text: ' \ud83c\udfa7 Listened to Ep. 38:  Professor Brian Nosek On Science''s
+      Reproducibility Crisis and Opportunity by Adam Ruins Everything From Adam Ruins
+      Everything'
+- type: entry
+  published: "2018-04-07T11:19:04+00:00"
+  category:
+  - scrobble
+  - audio
+  - Adam Ruins Everything
+  - Adam Ruins Everything
+  listen-of:
+    h-cite:
+      url: http://maximumfun.org/feeds/are.xml
+      photo: ""
+      audio:
+      - http://media.adknit.com/a/f/90/adam-ruins-everything/opugm6.1-1.mp3
+      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_39_Jessica_Huseman_on_Why_Filing_Taxes_Is_Unnecessarily_Difficult.mp3
+      name: 'Ep 39: Jessica Huseman on Why Filing Taxes Is Unnecessarily Difficult'
+      author: Adam Ruins Everything
+      content: We all know how filing taxes is a pain. Every April Americans dig through
+        receipts, meet with accountants, claim their expenses, and pray they're not
+        audited.
+  content:
+    text: ' \ud83c\udfa7 Listened to Ep 39: Jessica Huseman on Why Filing Taxes Is
+      Unnecessarily Difficult by Adam Ruins Everything From Adam Ruins Everything'
+- type: entry
+  published: "2018-04-07T13:04:02+00:00"
+  category:
+  - scrobble
+  - audio
+  - Adam Ruins Everything
+  - Adam Ruins Everything
+  listen-of:
+    h-cite:
+      url: http://maximumfun.org/feeds/are.xml
+      photo: ""
+      audio:
+      - http://media.adknit.com/a/f/90/adam-ruins-everything/elvmhb.1-1.mp3
+      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_37_Professor_Stephan_Lewandowsky_on_the_Backfire_Effect.mp3
+      name: 'Ep 37: Professor Stephan Lewandowsky on the Backfire Effect'
+      author: Adam Ruins Everything
+      content: On Adam Ruins Everything, we're all about using persuasive, rational
+        arguments to bring awareness to a topic and hopefully change some minds along
+        the way.
+  content:
+    text: ' \ud83c\udfa7 Listened to Ep 37: Professor Stephan Lewandowsky on the Backfire
+      Effect by Adam Ruins Everything From Adam Ruins Everything'
+- type: entry
+  published: "2018-04-07T10:26:14+00:00"
+  category:
+  - scrobble
+  - audio
+  - Adam Ruins Everything
+  - Adam Ruins Everything
+  listen-of:
+    h-cite:
+      url: http://maximumfun.org/feeds/are.xml
+      photo: ""
+      audio:
+      - http://media.adknit.com/a/f/90/adam-ruins-everything/vetsmj.1-1.mp3
+      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_41_Heather_Jarvis_on_the_Unsustainability_of_Student_Loans.mp3
+      name: 'Ep. 41: Heather Jarvis on the Unsustainability of Student Loans'
+      author: Adam Ruins Everything
+      content: "Student loans are an absolute necessity for many students in today's
+        economy, but they're also among the worst forms of debt you can have, burdening
+        students and sometimes permanently crippling their financial lives. Our guest
+        Heather Jarvis, who appeared on Adam Ruins College, is going to tell us how
+        we got here and give us practical tips on navigating the world of student
+        loans. Heather is an attorney and student loan expert. She has practiced public
+        interest law for more than a dozen years and has contributed to student debt
+        relief policy for the House Education Committee and others in Congress.\r\n\r\nAdam
+        is on Twitter @AdamConover and you can find past episodes and bonus content
+        from the TruTV show at AdamRuinsEverything.com.\r\n\r\nProduced by Shara Morris
+        for MaximumFun.org."
+  content:
+    text: ' \ud83c\udfa7 Listened to Ep. 41: Heather Jarvis on the Unsustainability
+      of Student Loans by Adam Ruins Everything From Adam Ruins Everything'
+- type: entry
+  published: "2018-04-07T09:25:31+00:00"
+  category:
+  - scrobble
+  - audio
+  - Adam Ruins Everything
+  - Adam Ruins Everything
+  listen-of:
+    h-cite:
+      url: http://maximumfun.org/feeds/are.xml
+      photo: ""
+      audio:
+      - http://media.adknit.com/a/f/90/adam-ruins-everything/x5mh9x.1-1.mp3
+      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_40_Dr_Arjun_Srinivasan_on_Antibiotic_Resistance.mp3
+      name: 'Ep 40: Dr. Arjun Srinivasan on Antibiotic Resistance'
+      author: Adam Ruins Everything
+      content: "Is the antibiotic resistance apocalypse\_approaching? This week's
+        guest,\_Dr. Arjun Srinivasan, who appeared on\_Adam Ruins the Hospital, says
+        yes.\_"
+  content:
+    text: ' \ud83c\udfa7 Listened to Ep 40: Dr. Arjun Srinivasan on Antibiotic Resistance
+      by Adam Ruins Everything From Adam Ruins Everything'
+- type: entry
+  published: "2018-04-07T14:05:37+00:00"
+  category:
+  - scrobble
+  - audio
+  - Adam Ruins Everything
+  - Adam Ruins Everything
+  listen-of:
+    h-cite:
+      url: http://maximumfun.org/feeds/are.xml
+      photo: ""
+      audio:
+      - http://media.adknit.com/a/f/90/adam-ruins-everything/7qo9k0.1-1.mp3
+      - http://archive.org/download/Adam_Ruins_Everything-Podcast-by-Adam_Ruins_Everything/Ep_36_Nikole_HannahJones_on_the_Rippling_Effects_of_Redlining_and_Segregation.mp3
+      name: 'Ep 36: Nikole Hannah-Jones on the Rippling Effects of Redlining and Segregation'
+      author: Adam Ruins Everything
+      content: 'Many people have an idyllic view of the suburbs. You can have a lawn!
+        Access to good schools! Safety! But much of that American dream has been historically
+        reserved for white people. '
+  content:
+    text: ' \ud83c\udfa7 Listened to Ep 36: Nikole Hannah-Jones on the Rippling Effects
+      of Redlining and Segregation by Adam Ruins Everything From Adam Ruins Everything'
 ...

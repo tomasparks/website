@@ -60,31 +60,6 @@
     text: ' \ud83c\udfa7 Listened to The 5G Privilege by Firefox, backed by Mozilla
       From IRL - Online Life Is Real Life'
 - type: entry
-  published: "2019-08-12T17:29:00+00:00"
-  category:
-  - scrobble
-  - audio
-  - Internet History Podcast
-  - Brian McCullough
-  listen-of:
-    h-cite:
-      url: http://feeds.feedburner.com/InternetHistoryPodcast
-      photo: ""
-      audio:
-      - https://media.acast.com/internethistorypodcast/201.thehistoryofaudiblewithangelikafuellemann/media.mp3
-      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/201_The_History_of_Audible_With_Angelika_Fuellemann.mp3
-      name: 201. The History of Audible With Angelika Fuellemann
-      author: Brian McCullough
-      content: "Angelika Fuellemann is a designer who worked early on with BookSense.com,
-        then got hired by Audible early on, so this is the early story of Audible.
-        It\u2019s funny\u2026 audio, streaming music, podcasts, audiobooks, it seems
-        so obvious now, but it really is funny to look back and think about how off
-        the wall this seamed before the smartphone. You mean books on tape will be
-        a thing?&nbsp;  For information regarding your data privacy, visit acast.com/privacy"
-  content:
-    text: ' \ud83c\udfa7 Listened to 201. The History of Audible With Angelika Fuellemann
-      by Brian McCullough From Internet History Podcast'
-- type: entry
   published: "2019-08-12T23:49:36+00:00"
   category:
   - scrobble
@@ -108,5 +83,30 @@
         acast.com/privacy
   content:
     text: ' \ud83c\udfa7 Listened to 200. Professional Blogging Pioneer Josh Marshall
+      by Brian McCullough From Internet History Podcast'
+- type: entry
+  published: "2019-08-12T17:29:00+00:00"
+  category:
+  - scrobble
+  - audio
+  - Internet History Podcast
+  - Brian McCullough
+  listen-of:
+    h-cite:
+      url: http://feeds.feedburner.com/InternetHistoryPodcast
+      photo: ""
+      audio:
+      - https://media.acast.com/internethistorypodcast/201.thehistoryofaudiblewithangelikafuellemann/media.mp3
+      - http://archive.org/download/Internet_History_Podcast-by-Brian_McCullough/201_The_History_of_Audible_With_Angelika_Fuellemann.mp3
+      name: 201. The History of Audible With Angelika Fuellemann
+      author: Brian McCullough
+      content: "Angelika Fuellemann is a designer who worked early on with BookSense.com,
+        then got hired by Audible early on, so this is the early story of Audible.
+        It\u2019s funny\u2026 audio, streaming music, podcasts, audiobooks, it seems
+        so obvious now, but it really is funny to look back and think about how off
+        the wall this seamed before the smartphone. You mean books on tape will be
+        a thing?&nbsp;  For information regarding your data privacy, visit acast.com/privacy"
+  content:
+    text: ' \ud83c\udfa7 Listened to 201. The History of Audible With Angelika Fuellemann
       by Brian McCullough From Internet History Podcast'
 ...

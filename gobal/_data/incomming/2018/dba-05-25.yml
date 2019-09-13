@@ -1,77 +1,5 @@
 ---
 - type: entry
-  published: "2018-05-25T22:18:07+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/324153636-techdirt-no-the-mp3-isnt-dead.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/324153636-techdirt-no-the-mp3-isnt-dead.mp3
-      name: No, The MP3 Isn't Dead
-      author: Techdirt
-      content: "When the \"death of the MP3\" started being reported, we were among
-        the very few blogs that said umm, no \u2014 but the deluge of eulogies for
-        the still-thriving format has been overwhelming and quite surprising. This
-        week I join the podcast to discuss why the MP3 isn't dead, and how so much
-        of the tech press got it so wrong."
-  content:
-    text: ' \ud83c\udfa7 Listened to No, The MP3 Isn''t Dead by Techdirt From Techdirt'
-- type: entry
-  published: "2018-05-25T16:46:53+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/333766433-techdirt-is-it-bad-if-facebook-copies-everything-snapchat-does.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/333766433-techdirt-is-it-bad-if-facebook-copies-everything-snapchat-does.mp3
-      name: Is It Bad If Facebook Copies Everything Snapchat Does?
-      author: Techdirt
-      content: 'You may have heard the joke: the best way to do product design for
-        Facebook is to get a job at Snapchat. We''ve all seen how, after failing to
-        buy the company, Facebook has wasted little time in building its own versions
-        of most of Snapchat''s key features. So... is this a problem? That''s the
-        subject on this week''s episode, were we discuss the ins and outs of this
-        kind of copying and what it might mean for the future of social media.'
-  content:
-    text: ' \ud83c\udfa7 Listened to Is It Bad If Facebook Copies Everything Snapchat
-      Does? by Techdirt From Techdirt'
-- type: entry
-  published: "2018-05-25T11:36:33+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/335843536-techdirt-is-there-any-smartphone-innovation-left.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/335843536-techdirt-is-there-any-smartphone-innovation-left.mp3
-      name: Is There Any Smartphone Innovation Left?
-      author: Techdirt
-      content: "Smartphones have been one of the most world-changing innovations of
-        our time \u2014 and for a long time, smartphone design was a hotbed of innovation.
-        But more recently that innovation seems to have stagnated. So where does this
-        technology go next? That's the subject of this weeks episode, in which we
-        try to figure out whether smartphone innovation is still happening."
-  content:
-    text: ' \ud83c\udfa7 Listened to Is There Any Smartphone Innovation Left? by Techdirt
-      From Techdirt'
-- type: entry
   published: "2018-05-25T18:18:33+00:00"
   category:
   - scrobble
@@ -95,6 +23,29 @@
   content:
     text: ' \ud83c\udfa7 Listened to Patent Trolls, With Cloudflare''s General Counsel
       by Techdirt From Techdirt'
+- type: entry
+  published: "2018-05-25T22:18:07+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/324153636-techdirt-no-the-mp3-isnt-dead.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/324153636-techdirt-no-the-mp3-isnt-dead.mp3
+      name: No, The MP3 Isn't Dead
+      author: Techdirt
+      content: "When the \"death of the MP3\" started being reported, we were among
+        the very few blogs that said umm, no \u2014 but the deluge of eulogies for
+        the still-thriving format has been overwhelming and quite surprising. This
+        week I join the podcast to discuss why the MP3 isn't dead, and how so much
+        of the tech press got it so wrong."
+  content:
+    text: ' \ud83c\udfa7 Listened to No, The MP3 Isn''t Dead by Techdirt From Techdirt'
 - type: entry
   published: "2018-05-25T19:14:37+00:00"
   category:
@@ -128,6 +79,30 @@
     text: ' \ud83c\udfa7 Listened to Copyright, Music & ''Theft'' by Techdirt From
       Techdirt'
 - type: entry
+  published: "2018-05-25T11:36:33+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/335843536-techdirt-is-there-any-smartphone-innovation-left.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/335843536-techdirt-is-there-any-smartphone-innovation-left.mp3
+      name: Is There Any Smartphone Innovation Left?
+      author: Techdirt
+      content: "Smartphones have been one of the most world-changing innovations of
+        our time \u2014 and for a long time, smartphone design was a hotbed of innovation.
+        But more recently that innovation seems to have stagnated. So where does this
+        technology go next? That's the subject of this weeks episode, in which we
+        try to figure out whether smartphone innovation is still happening."
+  content:
+    text: ' \ud83c\udfa7 Listened to Is There Any Smartphone Innovation Left? by Techdirt
+      From Techdirt'
+- type: entry
   published: "2018-05-25T20:48:52+00:00"
   category:
   - scrobble
@@ -150,52 +125,6 @@
         efforts to restore the decentralization of the web.
   content:
     text: ' \ud83c\udfa7 Listened to Re-Decentralizing The Web by Techdirt From Techdirt'
-- type: entry
-  published: "2018-05-25T23:06:47+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/322939002-techdirt-truth-and-fiction-with-cory-doctorow.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/322939002-techdirt-truth-and-fiction-with-cory-doctorow.mp3
-      name: Truth And Fiction With Cory Doctorow
-      author: Techdirt
-      content: Most Techdirt readers are already familiar with Cory Doctorow, whether
-        via his EFF work, the BoingBoing blog, his novels, or all of the above. This
-        week, he joins us on the podcast to discuss his new book Walkaway and much,
-        much more.
-  content:
-    text: ' \ud83c\udfa7 Listened to Truth And Fiction With Cory Doctorow by Techdirt
-      From Techdirt'
-- type: entry
-  published: "2018-05-25T21:34:31+00:00"
-  category:
-  - scrobble
-  - audio
-  - Techdirt
-  - Techdirt
-  listen-of:
-    h-cite:
-      url: https://www.techdirt.com/podcast.xml
-      photo: ""
-      audio:
-      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/325238061-techdirt-the-future-of-internet-copyright-with-techfreedom.mp3
-      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/325238061-techdirt-the-future-of-internet-copyright-with-techfreedom.mp3
-      name: The Future Of Internet Copyright, With TechFreedom
-      author: Techdirt
-      content: This week we've got a special crossover episode with our friends at
-        TechFreedom. Mike joined their Tech Policy Podcast recently to discuss notice
-        and takedown systems and the future of internet copyright, and we're cross-posting
-        the conversation as an episode of the Techdirt Podcast too.
-  content:
-    text: ' \ud83c\udfa7 Listened to The Future Of Internet Copyright, With TechFreedom
-      by Techdirt From Techdirt'
 - type: entry
   published: "2018-05-25T19:55:16+00:00"
   category:
@@ -221,6 +150,77 @@
   content:
     text: ' \ud83c\udfa7 Listened to Talking Freedom Of Information With A "FOIA Terrorist"
       by Techdirt From Techdirt'
+- type: entry
+  published: "2018-05-25T16:46:53+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/333766433-techdirt-is-it-bad-if-facebook-copies-everything-snapchat-does.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/333766433-techdirt-is-it-bad-if-facebook-copies-everything-snapchat-does.mp3
+      name: Is It Bad If Facebook Copies Everything Snapchat Does?
+      author: Techdirt
+      content: 'You may have heard the joke: the best way to do product design for
+        Facebook is to get a job at Snapchat. We''ve all seen how, after failing to
+        buy the company, Facebook has wasted little time in building its own versions
+        of most of Snapchat''s key features. So... is this a problem? That''s the
+        subject on this week''s episode, were we discuss the ins and outs of this
+        kind of copying and what it might mean for the future of social media.'
+  content:
+    text: ' \ud83c\udfa7 Listened to Is It Bad If Facebook Copies Everything Snapchat
+      Does? by Techdirt From Techdirt'
+- type: entry
+  published: "2018-05-25T21:34:31+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/325238061-techdirt-the-future-of-internet-copyright-with-techfreedom.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/325238061-techdirt-the-future-of-internet-copyright-with-techfreedom.mp3
+      name: The Future Of Internet Copyright, With TechFreedom
+      author: Techdirt
+      content: This week we've got a special crossover episode with our friends at
+        TechFreedom. Mike joined their Tech Policy Podcast recently to discuss notice
+        and takedown systems and the future of internet copyright, and we're cross-posting
+        the conversation as an episode of the Techdirt Podcast too.
+  content:
+    text: ' \ud83c\udfa7 Listened to The Future Of Internet Copyright, With TechFreedom
+      by Techdirt From Techdirt'
+- type: entry
+  published: "2018-05-25T23:06:47+00:00"
+  category:
+  - scrobble
+  - audio
+  - Techdirt
+  - Techdirt
+  listen-of:
+    h-cite:
+      url: https://www.techdirt.com/podcast.xml
+      photo: ""
+      audio:
+      - http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/322939002-techdirt-truth-and-fiction-with-cory-doctorow.mp3
+      - http://archive.org/download/Techdirt-Podcast-by-Techdirt/322939002-techdirt-truth-and-fiction-with-cory-doctorow.mp3
+      name: Truth And Fiction With Cory Doctorow
+      author: Techdirt
+      content: Most Techdirt readers are already familiar with Cory Doctorow, whether
+        via his EFF work, the BoingBoing blog, his novels, or all of the above. This
+        week, he joins us on the podcast to discuss his new book Walkaway and much,
+        much more.
+  content:
+    text: ' \ud83c\udfa7 Listened to Truth And Fiction With Cory Doctorow by Techdirt
+      From Techdirt'
 - type: entry
   published: "2018-05-25T17:39:24+00:00"
   category:

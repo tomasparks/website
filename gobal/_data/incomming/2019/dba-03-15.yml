@@ -1,25 +1,6 @@
 ---
-- type: entry
-  published: "2019-03-15T18:39:06+00:00"
-  category:
-  - scrobble
-  - audio
-  - RPGMP3 Actual Play Podcast
-  - Hal
-  listen-of:
-    h-cite:
-      url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
-      photo: ""
-      audio:
-      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_06.mp3
-      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_06.mp3
-      name: Kingmaker Session 06
-      author: Hal
-      content: "Episode 6 \u2013 in which the lizardfolk army attacks and the Church
-        of Desna and the Order of the Silver Twilight disagree over the fate of Candlemere."
-  content:
-    text: ' \ud83c\udfa7 Listened to Kingmaker Session 06 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
-- type: entry
+0:
+  type: entry
   published: "2019-03-15T19:26:44+00:00"
   category:
   - scrobble
@@ -40,7 +21,8 @@
   content:
     text: ' \ud83c\udfa7 Listened to 191. Bringing The WSJ Online With Rich Jaroslovsky
       Part 2 by Brian McCullough From Internet History Podcast'
-- type: entry
+1:
+  type: entry
   published: "2019-03-15T19:45:16+00:00"
   category:
   - scrobble
@@ -65,4 +47,25 @@
   content:
     text: ' \ud83c\udfa7 Listened to The Christopher March and Heimdall Episode by
       @textfiles From #JasonScottTalksHisWayOutofIt'
+4:
+  type: entry
+  published: "2019-03-15T18:39:06+00:00"
+  category:
+  - scrobble
+  - audio
+  - RPGMP3 Actual Play Podcast
+  - Hal
+  listen-of:
+    h-cite:
+      url: http://www.rpgmp3.com/files/feeds/rpgmp3_ap_podcast.xml
+      photo: ""
+      audio:
+      - http://media.blubrry.com/rpgmp3_actual_play/www.rpgmp3.com/files/game_recordings/Sugar_Fuelled_Gamers/kingmaker_session_06.mp3
+      - http://archive.org/download/RPGMP3_Actual_Play_Podcast-by-Hal/kingmaker_session_06.mp3
+      name: Kingmaker Session 06
+      author: Hal
+      content: "Episode 6 \u2013 in which the lizardfolk army attacks and the Church
+        of Desna and the Order of the Silver Twilight disagree over the fate of Candlemere."
+  content:
+    text: ' \ud83c\udfa7 Listened to Kingmaker Session 06 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
 ...

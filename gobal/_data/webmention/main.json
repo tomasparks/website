@@ -22,5 +22,27 @@
         "in-reply-to": "https://tomasparks.github.io//archive/2017/12/rhythmbox-notes-system.html",
         "wm-property": "in-reply-to",
         "wm-private": false
+    },
+    {
+        "type": "entry",
+        "author": {
+            "type": "card",
+            "name": "The Shift Radio",
+            "photo": "https://webmention.io/avatar/pbs.twimg.com/edead4c0fcbcca490d749305e0dc015b99744d88c736fa9abb48edb5bdfa226a.jpg",
+            "url": "https://twitter.com/The_Shift_Radio"
+        },
+        "url": "https://twitter.com/The_Shift_Radio/status/1166428253940326403",
+        "published": "2019-08-27T19:12:21+00:00",
+        "wm-received": "2019-08-27T21:29:39Z",
+        "wm-id": 677563,
+        "wm-source": "https://brid-gy.appspot.com/post/twitter/tomasparksts/1166428253940326403",
+        "wm-target": "https://tomasparks.name/",
+        "content": {
+            "html": "<a href=\"https://twitter.com/tomasparksts\">@tomasparksts</a> <a href=\"https://twitter.com/chrisdavidsimps\">@chrisdavidsimps</a> <a href=\"https://twitter.com/egotistoffduty\">@egotistoffduty</a> We love playing independent music! No annoying ads &amp; we promote all the way!  Keep on listening <a href=\"https://www.theshiftradiostation.com\">theshiftradiostation.com</a> ! Let's create <a href=\"https://twitter.com/search?q=%23themusicrevolution\">#themusicrevolution</a> ! RT x\n<a class=\"u-mention\" href=\"https://www.theshiftradiostation.com/\"></a>",
+            "text": "@tomasparksts @chrisdavidsimps @egotistoffduty We love playing independent music! No annoying ads & we promote all the way!  Keep on listening theshiftradiostation.com ! Let's create #themusicrevolution ! RT x"
+        },
+        "mention-of": "https://tomasparks.name/",
+        "wm-property": "mention-of",
+        "wm-private": false
     }
 ]

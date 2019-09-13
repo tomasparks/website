@@ -1,5 +1,6 @@
 ---
-- type: entry
+0:
+  type: entry
   published: "2019-05-01T00:48:12+00:00"
   category:
   - scrobble
@@ -25,7 +26,8 @@
   content:
     text: ' \ud83c\udfa7 Listened to Cory Doctorow On Anti-Circumvention (And More)
       by Techdirt From Techdirt'
-- type: entry
+2:
+  type: entry
   published: "2019-05-01T03:02:25+00:00"
   category:
   - scrobble
@@ -46,7 +48,8 @@
         for the Boasts."
   content:
     text: ' \ud83c\udfa7 Listened to Kingmaker Session 62 by @rpgmp3 From #RPGMP3ActualPlayPodcast'
-- type: entry
+3:
+  type: entry
   published: "2019-05-01T06:05:28+00:00"
   category:
   - scrobble

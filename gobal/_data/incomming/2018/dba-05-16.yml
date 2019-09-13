@@ -1,7 +1,7 @@
 ---
 0:
   type: entry
-  published: "2018-05-16T14:09:14+00:00"
+  published: "2018-05-16T16:32:21+00:00"
   category:
   - scrobble
   - audio
@@ -12,15 +12,16 @@
       url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
       photo: ""
       audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20170608.mp3
-      - http://archive.org/download/Dr_Karl_Podcast-by-ABC_Science/Faster_than_light_speed_screaming_in_pain_Earth_mass.mp3
-      name: Faster than light speed, screaming in pain, Earth mass
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20170511.mp3
+      - http://archive.org/download/Dr_Karl_Podcast-by-ABC_Science/Why_we_fear_the_speed_of_smell_moon_crash.mp3
+      name: Why we fear, the speed of smell, moon crash
       author: ABC Science
-      content: Where does all the poo in the world go? Why do we scream when we're
-        in pain? What would happen if something went faster than light speed?
+      content: What is the evolutionary purpose of having a facial reaction when seeing
+        others in pain? Why doesn't the moon crash into the Earth? Can you measure
+        the speed of smell?
   content:
-    text: ' \ud83c\udfa7 Listened to Faster than light speed, screaming in pain, Earth
-      mass by ABC Science From Dr_Karl_Podcast'
+    text: ' \ud83c\udfa7 Listened to Why we fear, the speed of smell, moon crash by
+      ABC Science From Dr_Karl_Podcast'
 1:
   type: entry
   published: "2018-05-16T15:22:26+00:00"
@@ -46,29 +47,6 @@
       by ABC Science From Dr_Karl_Podcast'
 2:
   type: entry
-  published: "2018-05-16T13:43:05+00:00"
-  category:
-  - scrobble
-  - audio
-  - Dr Karl on triplej
-  - ABC Science
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20170615.mp3
-      - http://archive.org/download/Dr_Karl_Podcast-by-ABC_Science/Stomach_butterflies_baby_hair_making_gold.mp3
-      name: Stomach butterflies, baby hair, making gold
-      author: ABC Science
-      content: Why does my dog like to eat its own hair? What's actually happening
-        when we get butterflies in our stomach? Are there any parts of the human body
-        that are inedible?
-  content:
-    text: ' \ud83c\udfa7 Listened to Stomach butterflies, baby hair, making gold by
-      ABC Science From Dr_Karl_Podcast'
-3:
-  type: entry
   published: "2018-05-16T15:56:32+00:00"
   category:
   - scrobble
@@ -90,52 +68,7 @@
   content:
     text: ' \ud83c\udfa7 Listened to Doggie memories, laughing fits, fish energy by
       ABC Science From Dr_Karl_Podcast'
-4:
-  type: entry
-  published: "2018-05-16T16:32:21+00:00"
-  category:
-  - scrobble
-  - audio
-  - Dr Karl on triplej
-  - ABC Science
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20170511.mp3
-      - http://archive.org/download/Dr_Karl_Podcast-by-ABC_Science/Why_we_fear_the_speed_of_smell_moon_crash.mp3
-      name: Why we fear, the speed of smell, moon crash
-      author: ABC Science
-      content: What is the evolutionary purpose of having a facial reaction when seeing
-        others in pain? Why doesn't the moon crash into the Earth? Can you measure
-        the speed of smell?
-  content:
-    text: ' \ud83c\udfa7 Listened to Why we fear, the speed of smell, moon crash by
-      ABC Science From Dr_Karl_Podcast'
-5:
-  type: entry
-  published: "2018-05-16T14:44:41+00:00"
-  category:
-  - scrobble
-  - audio
-  - Dr Karl on triplej
-  - ABC Science
-  listen-of:
-    h-cite:
-      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
-      photo: ""
-      audio:
-      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20170601.mp3
-      - http://archive.org/download/Dr_Karl_Podcast-by-ABC_Science/3D_movie_sickness_natural_crystals_melting_wood.mp3
-      name: 3D movie sickness, natural crystals, melting wood
-      author: ABC Science
-      content: Why can birds stand of electrical wires, without getting shocked? Why
-        do I get sick from video games and 3D movies? Can you melt wood?
-  content:
-    text: ' \ud83c\udfa7 Listened to 3D movie sickness, natural crystals, melting
-      wood by ABC Science From Dr_Karl_Podcast'
-6:
+3:
   type: entry
   published: "2018-05-16T12:46:53+00:00"
   category:
@@ -157,6 +90,73 @@
   content:
     text: ' \ud83c\udfa7 Listened to Itching, faraday cages, mermaids by ABC Science
       From Dr_Karl_Podcast'
+4:
+  type: entry
+  published: "2018-05-16T14:44:41+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl on triplej
+  - ABC Science
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20170601.mp3
+      - http://archive.org/download/Dr_Karl_Podcast-by-ABC_Science/3D_movie_sickness_natural_crystals_melting_wood.mp3
+      name: 3D movie sickness, natural crystals, melting wood
+      author: ABC Science
+      content: Why can birds stand of electrical wires, without getting shocked? Why
+        do I get sick from video games and 3D movies? Can you melt wood?
+  content:
+    text: ' \ud83c\udfa7 Listened to 3D movie sickness, natural crystals, melting
+      wood by ABC Science From Dr_Karl_Podcast'
+5:
+  type: entry
+  published: "2018-05-16T14:09:14+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl on triplej
+  - ABC Science
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20170608.mp3
+      - http://archive.org/download/Dr_Karl_Podcast-by-ABC_Science/Faster_than_light_speed_screaming_in_pain_Earth_mass.mp3
+      name: Faster than light speed, screaming in pain, Earth mass
+      author: ABC Science
+      content: Where does all the poo in the world go? Why do we scream when we're
+        in pain? What would happen if something went faster than light speed?
+  content:
+    text: ' \ud83c\udfa7 Listened to Faster than light speed, screaming in pain, Earth
+      mass by ABC Science From Dr_Karl_Podcast'
+6:
+  type: entry
+  published: "2018-05-16T13:43:05+00:00"
+  category:
+  - scrobble
+  - audio
+  - Dr Karl on triplej
+  - ABC Science
+  listen-of:
+    h-cite:
+      url: http://www.abc.net.au/science/k2/podcast/drk_rss.xml
+      photo: ""
+      audio:
+      - http://mpegmedia.abc.net.au/science/podcast/scienceontriplej/scienceontriplej20170615.mp3
+      - http://archive.org/download/Dr_Karl_Podcast-by-ABC_Science/Stomach_butterflies_baby_hair_making_gold.mp3
+      name: Stomach butterflies, baby hair, making gold
+      author: ABC Science
+      content: Why does my dog like to eat its own hair? What's actually happening
+        when we get butterflies in our stomach? Are there any parts of the human body
+        that are inedible?
+  content:
+    text: ' \ud83c\udfa7 Listened to Stomach butterflies, baby hair, making gold by
+      ABC Science From Dr_Karl_Podcast'
 14:
   type: entry
   published: "2018-05-16T15:56:32+00:00"

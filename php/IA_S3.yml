@@ -263,6 +263,7 @@ Techdirt-Podcast-by-Techdirt:
   655390613-techdirt-dont-panic.mp3: true
   638665395-techdirt-experimenting-with-twitch.mp3: true
   665334242-techdirt-whats-really-in-the-ftcs-facebook-settlement-part-one.mp3: true
+  668642123-techdirt-whats-really-in-the-fccs-facebook-settlement-part-two.mp3: true
 IRL_Online_Life_Is_Real_Life-Podcast-by-Mozilla:
   4758d08e.mp3: true
   5de33dc3.mp3: true
@@ -1164,6 +1165,7 @@ IRL_Online_Life_Is_Real_Life-Podcast-by-Firefox_backed_by_Mozilla:
   IRL_S5E01_Privacy_Policy_Policies_FINAL_tc.mp3: true
   irl_s5e04_the_tech_worker_resistance_final_tc.mp3: true
   irl_s5_e02_democracy_and_the_internet_final_tc.mp3: true
+  irl_s5_e06_privacy_gamechangers_withsurvey_vfinal_aug16_tc.mp3: false
 Sum_Of_All_Parts_ABC_RN-by-ABC_Radio_National:
   sop_20190809.mp3: true
   sop_20190816.mp3: true
@@ -1175,4 +1177,9 @@ Retro_Tea_Break-by-Retro_Tea_Break:
   7329817.mp3: true
 Retro_Island_Diskettes-by-Retro_Island_Diskettes_Podcast:
   7328044.mp3: true
+  7328040.mp3: true
+  7328039.mp3: true
+  7328041.mp3: true
+  7328043.mp3: true
+  7328042.mp3: true
 ...

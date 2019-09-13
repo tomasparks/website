@@ -1,5 +1,6 @@
 ---
-- type: entry
+0:
+  type: entry
   published: "2019-04-03T03:08:43+00:00"
   category:
   - scrobble
@@ -27,7 +28,8 @@
   content:
     text: ' \ud83c\udfa7 Listened to Charter Cities & Innovative Governance by Techdirt
       From Techdirt'
-- type: entry
+2:
+  type: entry
   published: "2019-04-03T16:02:32+00:00"
   category:
   - scrobble
