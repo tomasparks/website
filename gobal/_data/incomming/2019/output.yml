@@ -1,6 +1,53 @@
 ---
 2019:
   09:
+    14:
+    - type: entry
+      published: "2019-09-14T06:54:02+00:00"
+      url: https://twitter.com/tomasparksts/status/1172765433096572930
+      in-reply-to:
+      - https://twitter.com/DoctorKarl/status/1172752502380384256
+      content:
+        text: "US article:  techdirt.com/articles/20160\u2026"
+        html: "US article:  <a href=\"https://www.techdirt.com/articles/20160712/15543134951/field-drug-tests-2-tool-that-can-destroy-lives.shtml\">techdirt.com/articles/20160\u2026</a>\n<a
+          class=\"u-mention\" href=\"https://twitter.com/DoctorKarl\"></a>"
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+    - type: entry
+      published: "2019-09-14T01:25:03+00:00"
+      url: https://twitter.com/tomasparksts/status/1172682639523794944
+      in-reply-to:
+      - https://twitter.com/lazygamereviews/status/1172521560952967168
+      content:
+        text: 'yay more @Barbie game to #LetsPlay with @PushinUpRoses'
+        html: |-
+          yay more <a href="https://twitter.com/Barbie">@Barbie</a> game to <a href="https://twitter.com/search?q=%23LetsPlay">#LetsPlay</a> with <a href="https://twitter.com/PushinUpRoses">@PushinUpRoses</a>
+          <a class="u-mention" href="https://twitter.com/lazygamereviews"></a>
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+    13:
+    - type: entry
+      published: "2019-09-13T00:37:06+00:00"
+      url: https://twitter.com/tomasparksts/status/1172308185165651968
+      in-reply-to:
+      - https://twitter.com/thelimeofdoom/status/1172290551929962496
+      content:
+        text: that what i've watching on @7plus
+        html: |-
+          that what i've watching on <a href="https://twitter.com/7plus">@7plus</a>
+          <a class="u-mention" href="https://twitter.com/PushinUpRoses"></a>
+          <a class="u-mention" href="https://twitter.com/thelimeofdoom"></a>
+      author:
+        type: card
+        name: Tom Sparks
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
     "07":
     - type: entry
       published: "2019-09-07T05:57:33+00:00"
@@ -119,56 +166,6 @@
           I am in a <a href="https://twitter.com/search?q=%23catch22">#catch22</a>: my <a href="https://twitter.com/search?q=%23DcnHat">#DcnHat</a> has a <a href="https://twitter.com/search?q=%23scaleablepower">#scaleablepower</a> <a href="https://twitter.com/search?q=%23philosophy">#philosophy</a>, while my <a href="https://twitter.com/search?q=%23DigitalCreativity">#DigitalCreativity</a> side has outsourcing computing task #philosophy
           <a class="u-mention" href="https://twitter.com/IRLPodcast_org"></a>
           <a class="u-mention" href="https://twitter.com/mozilla"></a>
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-    - type: entry
-      published: "2019-08-05T15:20:46+00:00"
-      url: https://twitter.com/tomasparksts/status/1158397439809687552
-      in-reply-to:
-      - https://twitter.com/tomasparksts/status/1158396964079202304
-      content:
-        text: 'I #read the #shownotes'
-        html: |-
-          I <a href="https://twitter.com/search?q=%23read">#read</a> the <a href="https://twitter.com/search?q=%23shownotes">#shownotes</a>
-          <a class="u-mention" href="https://twitter.com/IRLPodcast_org"></a>
-          <a class="u-mention" href="https://twitter.com/mozilla"></a>
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-    - type: entry
-      published: "2019-08-05T15:18:52+00:00"
-      url: https://twitter.com/tomasparksts/status/1158396964079202304
-      content:
-        text: "#listened to @IRLPodcast_org  \"The Internet\u2019s Carbon Footprint\"
-          by @mozilla"
-        html: "<a href=\"https://twitter.com/search?q=%23listened\">#listened</a>
-          to <a href=\"https://twitter.com/IRLPodcast_org\">@IRLPodcast_org</a>  \"The
-          Internet\u2019s Carbon Footprint\" by <a href=\"https://twitter.com/mozilla\">@mozilla</a>"
-      author:
-        type: card
-        name: Tom Sparks
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-    "03":
-    - type: entry
-      published: "2019-08-03T14:50:36+00:00"
-      url: https://twitter.com/tomasparksts/status/1157665073692721157
-      in-reply-to:
-      - https://twitter.com/Octav1usKitten/status/1157662163361783809
-      content:
-        text: "I remember seeing them @ shopping centres in the 90s,\ni explored #DactylNightmare
-          in #Rend386 \nseanclark.me.uk/homebrew-virtu\u2026"
-        html: "I remember seeing them @ shopping centres in the 90s,\ni explored <a
-          href=\"https://twitter.com/search?q=%23DactylNightmare\">#DactylNightmare</a>
-          in <a href=\"https://twitter.com/search?q=%23Rend386\">#Rend386</a> \n<a
-          href=\"https://www.seanclark.me.uk/homebrew-virtual-reality\">seanclark.me.uk/homebrew-virtu\u2026</a>\n<a
-          class=\"u-mention\" href=\"https://twitter.com/Octav1usKitten\"></a>\n<a
-          class=\"u-mention\" href=\"https://twitter.com/retrocompmuseum\"></a>"
       author:
         type: card
         name: Tom Sparks

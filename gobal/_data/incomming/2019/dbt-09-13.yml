@@ -1,0 +1,18 @@
+---
+- type: entry
+  published: "2019-09-13T00:37:06+00:00"
+  url: https://twitter.com/tomasparksts/status/1172308185165651968
+  in-reply-to:
+  - https://twitter.com/thelimeofdoom/status/1172290551929962496
+  content:
+    text: that what i've watching on @7plus
+    html: |-
+      that what i've watching on <a href="https://twitter.com/7plus">@7plus</a>
+      <a class="u-mention" href="https://twitter.com/PushinUpRoses"></a>
+      <a class="u-mention" href="https://twitter.com/thelimeofdoom"></a>
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+...

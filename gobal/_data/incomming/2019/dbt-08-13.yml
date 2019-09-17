@@ -1,5 +1,6 @@
 ---
-- type: entry
+0:
+  type: entry
   published: "2019-08-13T16:48:35+00:00"
   url: https://twitter.com/tomasparksts/status/1161318643868717057
   in-reply-to:
@@ -17,7 +18,8 @@
     name: Tom Sparks
     url: https://twitter.com/tomasparksts
     photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-- type: entry
+2:
+  type: entry
   published: "2019-08-13T16:48:35+00:00"
   url: https://twitter.com/tomasparksts/status/1161318643868717057
   in-reply-to:
@@ -35,7 +37,8 @@
     name: Tom Sparks
     url: https://twitter.com/tomasparksts
     photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-- type: entry
+3:
+  type: entry
   published: "2019-08-13T16:48:35+00:00"
   url: https://twitter.com/tomasparksts/status/1161318643868717057
   category:
