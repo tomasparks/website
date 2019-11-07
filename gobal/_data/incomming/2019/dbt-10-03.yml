@@ -1,0 +1,19 @@
+---
+- type: entry
+  published: "2019-10-03T03:44:30+00:00"
+  url: https://twitter.com/tomasparksts/status/1179603102682370048
+  video:
+  - https://video.twimg.com/tweet_video/EF7KwyPUEAMxNIg.mp4
+  in-reply-to:
+  - https://twitter.com/Octav1usKitten/status/1179590885337702401
+  content:
+    text: upload it to @Bandcamp along with your other songs
+    html: |-
+      upload it to <a href="https://twitter.com/Bandcamp">@Bandcamp</a> along with your other songs
+      <a class="u-mention" href="https://twitter.com/Octav1usKitten"></a>
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+...

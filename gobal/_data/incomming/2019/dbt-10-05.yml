@@ -1,0 +1,37 @@
+---
+- type: entry
+  published: "2019-10-05T09:03:57+00:00"
+  url: https://twitter.com/tomasparksts/status/1180408272131543040
+  in-reply-to:
+  - https://twitter.com/yankytyke/status/1180268759010992134
+  content:
+    text: review?
+    html: |-
+      review?
+      <a class="u-mention" href="https://twitter.com/Octav1usKitten"></a>
+      <a class="u-mention" href="https://twitter.com/yankytyke"></a>
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+- type: entry
+  published: "2019-10-05T07:52:23+00:00"
+  url: https://twitter.com/tomasparksts/status/1180390261018382336
+  video:
+  - https://video.twimg.com/tweet_video/EGGWrcOU0AA2YWS.mp4
+  in-reply-to:
+  - https://twitter.com/JackBealeGuitar/status/1180371548022231040
+  content:
+    text: American football
+    html: |-
+      American football
+      <a class="u-mention" href="https://twitter.com/JackBealeGuitar"></a>
+      <a class="u-mention" href="https://twitter.com/Octav1usKitten"></a>
+      <a class="u-mention" href="https://twitter.com/demonscythsynth"></a>
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+...

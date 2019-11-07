@@ -1,0 +1,17 @@
+---
+- type: entry
+  published: "2019-10-10T11:48:02+00:00"
+  url: https://twitter.com/tomasparksts/status/1182261504239755265
+  content:
+    text: 'whats is @Octav1usKitten opinion on #IonFury by @voidpnt and @3DRealms
+      ?'
+    html: whats is <a href="https://twitter.com/Octav1usKitten">@Octav1usKitten</a>
+      opinion on <a href="https://twitter.com/search?q=%23IonFury">#IonFury</a> by
+      <a href="https://twitter.com/voidpnt">@voidpnt</a> and <a href="https://twitter.com/3DRealms">@3DRealms</a>
+      ?
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+...

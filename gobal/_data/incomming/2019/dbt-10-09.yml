@@ -1,0 +1,17 @@
+---
+- type: entry
+  published: "2019-10-09T07:23:33+00:00"
+  url: https://twitter.com/tomasparksts/status/1181832556385169419
+  in-reply-to:
+  - https://twitter.com/Octav1usKitten/status/1181725992622186497
+  content:
+    text: "\U0001F913 50fps is double 25fps \nffmpeg -i \"input.avi\" -r 25 -c:v libx264
+      -crf 17 -c:a copy \"output.mkv\""
+    html: "\U0001F913 50fps is double 25fps \nffmpeg -i \"input.avi\" -r 25 -c:v libx264
+      -crf 17 -c:a copy \"output.mkv\"\n<a class=\"u-mention\" href=\"https://twitter.com/Octav1usKitten\"></a>"
+  author:
+    type: card
+    name: Tom Sparks
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+...

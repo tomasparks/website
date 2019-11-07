@@ -24,6 +24,12 @@ $BuildConfig = array
                         "plugins" => "",
                         "pre"=> array ("build-gallery")
                     ),
+                     "ebooks" => array ("name" => "ebooks",
+                    "src" => "ebooks-src",
+                    "dest" => "ebooks.tomasparks.name",
+                    "gitDest" => "ebooks",
+                    "theme"=> "jekyll-dokieli-theme",
+                    "plugins" => ""),
                     
                     "main" => array ("name" => "main",
                     "src" => "main",
@@ -49,7 +55,7 @@ $BuildConfig = array
 );
 
 
-$who ="miniatures"; 
+$who ="ebooks"; 
 $building = $BuildConfig[$who];
 $building = array_merge($building,$builddefualts);
 
