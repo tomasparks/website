@@ -16,6 +16,13 @@ $builddefualts = array (
                         
 $BuildConfig = array
                     (
+                    "mindmap" => array (
+                        "name" => "mindmap",
+                        "src" => "mindmap-src",
+                        "dest" => "mindmap.tomasparks.name",
+                        "gitDest" => "mindmap",
+                        "theme"=> "mindmap-jekyll",
+                        "plugins" => ""),
                     "gallery" => array (
                         "name" => "Gallery",
                         "src" => "gallery-src",
@@ -55,7 +62,7 @@ $BuildConfig = array
 );
 
 
-$who ="ebooks"; 
+$who ="mindmap"; 
 $building = $BuildConfig[$who];
 $building = array_merge($building,$builddefualts);
 

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data>
+  <Series>
+    <id>75734</id>
+    <Actors>|Dan Milano|Matthew Senreich|Mike Henry|Dax Shepard|Seth Green|Michelle Trachtenberg|</Actors>
+    <Airs_DayOfWeek>Sunday</Airs_DayOfWeek>
+    <Airs_Time>11:30 PM</Airs_Time>
+    <ContentRating>TV-MA</ContentRating>
+    <FirstAired>2005-02-20</FirstAired>
+    <Genre>|Animation|Comedy|</Genre>
+    <IMDB_ID>tt0437745</IMDB_ID>
+    <Language>en</Language>
+    <Network>Adult Swim</Network>
+    <NetworkID></NetworkID>
+    <Overview>Old-school stop-motion animation and fast-paced satire are the hallmarks of this eclectic show created by Seth Green and Matt Senreich. Action figures find new life as players in frenetic sketch-comedy vignettes that skewer TV, movies, music, and celebrities.</Overview>
+    <Rating>8.2</Rating>
+    <RatingCount>121</RatingCount>
+    <Runtime>10</Runtime>
+    <SeriesID>33630</SeriesID>
+    <SeriesName>Robot Chicken</SeriesName>
+    <Status>Continuing</Status>
+    <added></added>
+    <addedBy></addedBy>
+    <banner>graphical/75734-g7.jpg</banner>
+    <fanart>fanart/original/75734-7.jpg</fanart>
+    <finale_aired>2018-02-25</finale_aired>
+    <lastupdated>1518924880</lastupdated>
+    <poster>posters/75734-1.jpg</poster>
+    <slug>robot-chicken</slug>
+    <tms_wanted_old>1</tms_wanted_old>
+    <zap2it_id>EP00725962</zap2it_id>
+  </Series>
+</Data>
