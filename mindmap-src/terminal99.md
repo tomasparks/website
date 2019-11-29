@@ -1,6 +1,6 @@
 ---
 title: Terminal 99 (chipspeech)
-permalink: ./music/singing_synth/terminal99.html
+permalink: /music/singing_synth/terminal99.html
 layout: mindmap_page
 function: array2tree_lvl3
 breadcrumbs:
@@ -9,9 +9,9 @@ breadcrumbs:
 - title: mindmap
   url: /mindmap/
 - title: Music
-  url: ./music/index.html
+  url: /music/index.html
 - title: Singing Synthesizer
-  url: ./music/singing_synth/index.html
+  url: /music/singing_synth/index.html
 type: Artist
 artist:
   bio: ~

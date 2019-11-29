@@ -1,6 +1,6 @@
 ---
 title: copyright notices
-permalink: ./music/copyright.html
+permalink: /music/copyright.html
 layout: mindmap_copy
 ---
 
