@@ -38,9 +38,9 @@ level1:
         type: Group
         country: GB
         life-span:
-          ended: false
           end: ~
           begin: "2008"
+          ended: false
       level4:
       - url: /mindmap/music/steampunk/blamedfornothing/steampunkvol1.html
         name: Now That's What I Call Steampunk! Volume 1
@@ -92,9 +92,9 @@ level1:
         type: Group
         country: ~
         life-span:
-          end: ~
           begin: "2000"
           ended: false
+          end: ~
       level4:
       - url: /mindmap/music/steampunk/decemberists/picaresque.html
         name: Picaresque
@@ -159,9 +159,9 @@ level1:
         type: Person
         country: US
         life-span:
-          ended: false
           end: ~
           begin: "1970-12-01"
+          ended: false
       level4:
       - url: /mindmap/music/CC/JoCo/wtmt.html
         name: Where Tradition Meets Tomorrow
@@ -251,9 +251,9 @@ level1:
         type: Character
         country: JP
         life-span:
-          begin: "2007-08-31"
           ended: false
           end: ~
+          begin: "2007-08-31"
       photo: Hatsune_Miku_cover.png
       background:
         image_url: Hatsune_Miku_concert.jpg

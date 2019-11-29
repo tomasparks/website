@@ -12,7 +12,7 @@ echo "Entering Array2tree().......\n";
 //			echo "\narr:\n".yaml_emit($arr)."\n";
 			$filename ="index.md";
 			$frontmatter = array('title'=> $treedb['name'],
-								'permalink' => "/mindmap/index.html",
+								'permalink' => "index.html",
 								'layout' => 'mindmap_index',
 								'links'=>$arr['links'],
 								'breadcrumbs'=>$breadcrumbs,
