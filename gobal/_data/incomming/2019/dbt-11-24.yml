@@ -1,0 +1,49 @@
+---
+- type: entry
+  published: "2019-11-24T13:00:25+00:00"
+  url: https://twitter.com/tomasparksts/status/1198587175157190656
+  in-reply-to:
+  - https://twitter.com/Octav1usKing/status/1198542797890113536
+  content:
+    text: I hope the real world can stay away until after Octy's stream (it well be
+      Monday local time in Australia (GMT+10))
+    html: |-
+      I hope the real world can stay away until after Octy's stream (it well be Monday local time in Australia (GMT+10))
+      <a class="u-mention" href="https://twitter.com/Octav1usKing"></a>
+  author:
+    type: card
+    name: 'Tom Sparks #ChurchofOctav1us'
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+- type: entry
+  published: "2019-11-24T09:06:37+00:00"
+  url: https://twitter.com/tomasparksts/status/1198528336055562245
+  in-reply-to:
+  - https://twitter.com/RetroPrincess1/status/1198521391181684738
+  content:
+    text: let's not give him any ideas
+    html: |-
+      let's not give him any ideas
+      <a class="u-mention" href="https://twitter.com/GuyFawkesRetro"></a>
+      <a class="u-mention" href="https://twitter.com/RetroPrincess1"></a>
+  author:
+    type: card
+    name: 'Tom Sparks #ChurchofOctav1us'
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+- type: entry
+  published: "2019-11-24T00:23:02+00:00"
+  url: https://twitter.com/tomasparksts/status/1198396573639557120
+  in-reply-to:
+  - https://twitter.com/RetroPrincess1/status/1198271887245283328
+  content:
+    text: wow, wish you had @twitch streamed it
+    html: |-
+      wow, wish you had <a href="https://twitter.com/Twitch">@twitch</a> streamed it
+      <a class="u-mention" href="https://twitter.com/RetroPrincess1"></a>
+  author:
+    type: card
+    name: 'Tom Sparks #ChurchofOctav1us'
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+...

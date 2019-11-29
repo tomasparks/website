@@ -1,0 +1,17 @@
+---
+- type: entry
+  published: "2019-11-25T05:43:35+00:00"
+  url: https://twitter.com/tomasparksts/status/1198839626988785664
+  in-reply-to:
+  - https://twitter.com/Octav1usKing/status/1198694721163538432
+  content:
+    text: the stream was at a better time for me
+    html: |-
+      the stream was at a better time for me
+      <a class="u-mention" href="https://twitter.com/Octav1usKing"></a>
+  author:
+    type: card
+    name: 'Tom Sparks #ChurchofOctav1us'
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+...

@@ -1,0 +1,33 @@
+---
+- type: entry
+  published: "2019-11-21T15:57:34+00:00"
+  url: https://twitter.com/tomasparksts/status/1197544593048236032
+  video:
+  - https://video.twimg.com/tweet_video/EJ6Icx5UUAAO6FZ.mp4
+  in-reply-to:
+  - https://twitter.com/Horacio79446316/status/1197536171871604738
+  content:
+    text: look at all your follows..... the Church of Octy
+    html: |-
+      look at all your follows..... the Church of Octy
+      <a class="u-mention" href="https://twitter.com/Horacio79446316"></a>
+      <a class="u-mention" href="https://twitter.com/Octav1usKing"></a>
+  author:
+    type: card
+    name: 'Tom Sparks #ChurchofOctav1us'
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+- type: entry
+  published: "2019-11-21T03:40:58+00:00"
+  url: https://twitter.com/tomasparksts/status/1197359219688624128
+  in-reply-to:
+  - https://twitter.com/Octav1usKing/status/1197351759368392704
+  content:
+    text: "your back \U0001F63B"
+    html: "your back \U0001F63B\n<a class=\"u-mention\" href=\"https://twitter.com/Octav1usKing\"></a>"
+  author:
+    type: card
+    name: 'Tom Sparks #ChurchofOctav1us'
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+...

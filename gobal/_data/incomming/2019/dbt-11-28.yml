@@ -1,0 +1,31 @@
+---
+- type: entry
+  published: "2019-11-28T15:27:31+00:00"
+  url: https://twitter.com/tomasparksts/status/1200073744447705088
+  video:
+  - https://video.twimg.com/tweet_video/EKeEsa1VAAMLMU3.mp4
+  in-reply-to:
+  - https://twitter.com/tomasparksts/status/1200008282519130113
+  content:
+    text: happy birthday to me
+    html: |-
+      happy birthday to me
+      <a class="u-mention" href="https://twitter.com/Octav1usKing"></a>
+  author:
+    type: card
+    name: 'Tom Sparks #ChurchofOctav1us'
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+- type: entry
+  published: "2019-11-28T11:07:24+00:00"
+  url: https://twitter.com/tomasparksts/status/1200008282519130113
+  content:
+    text: 'hoping for a #birthday stream from @Octav1usKing'
+    html: hoping for a <a href="https://twitter.com/search?q=%23birthday">#birthday</a>
+      stream from <a href="https://twitter.com/Octav1usKing">@Octav1usKing</a>
+  author:
+    type: card
+    name: 'Tom Sparks #ChurchofOctav1us'
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+...
