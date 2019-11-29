@@ -5,10 +5,7 @@ layout: mindmap_index
 links:
 - title: Music
   id: music
-  url: /mindmap/music/index.html
-- title: TV series & Movies
-  id: tv_movies
-  url: /mindmap/tv_movies/index.html
+  url: ./music/index.html
 breadcrumbs:
 - title: website
   url: /

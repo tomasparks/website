@@ -4,9 +4,9 @@ name: Tom Sparks
 level1:
 - name: Music
   id: music
-  url: /mindmap/music/index.html
+  url: ./music/index.html
   background:
-    image_url: https://wallpapercave.com/wp/w0Gu6Nm.jpg
+    image_url: music-background.jpg
     source_url: https://wallpapercave.com/music-wallpapers-for-desktop
   copyright_notices:
     text:
@@ -21,7 +21,7 @@ level1:
         owners.
       wikipedia: images are from [wikipedia](http://www.wikipedia.org/)
   level2:
-  - url: /mindmap/music/steampunk/index.html
+  - url: ./music/steampunk/index.html
     name: Steampunk
     id: steampunk
     type: music_genre
@@ -29,7 +29,7 @@ level1:
       image_url: steampunk-2663369-1920x1080.jpg
       source_url: http://simplywallpapers.com/wallpaper/steampunk/37866/
     level3:
-    - url: /mindmap/music/steampunk/blamedfornothing.html
+    - url: ./music/steampunk/blamedfornothing.html
       name: The Men That Will Not Be Blamed for Nothing
       id: blamedfornothing
       type: music_artist
@@ -38,11 +38,11 @@ level1:
         type: Group
         country: GB
         life-span:
-          end: ~
           begin: "2008"
+          end: ~
           ended: false
       level4:
-      - url: /mindmap/music/steampunk/blamedfornothing/steampunkvol1.html
+      - url: ./music/steampunk/blamedfornothing/steampunkvol1.html
         name: Now That's What I Call Steampunk! Volume 1
         id: steampunkvol1
         type: music_albums
@@ -83,7 +83,7 @@ level1:
         - number: "11"
           title: Charlie
           length: 01:25:33
-    - url: /mindmap/music/steampunk/decemberists.html
+    - url: ./music/steampunk/decemberists.html
       name: The Decemberists
       id: decemberists
       type: music_artist
@@ -92,11 +92,11 @@ level1:
         type: Group
         country: ~
         life-span:
+          end: ~
           begin: "2000"
           ended: false
-          end: ~
       level4:
-      - url: /mindmap/music/steampunk/decemberists/picaresque.html
+      - url: ./music/steampunk/decemberists/picaresque.html
         name: Picaresque
         id: picaresque
         type: music_albums
@@ -142,7 +142,7 @@ level1:
         - number: "11"
           title: Of Angels and Angles
           length: "17:00:26"
-  - url: /mindmap/music/CC/index.html
+  - url: ./music/CC/index.html
     name: Creative Commons music
     id: CC
     type: music_genre
@@ -150,7 +150,7 @@ level1:
       image_url: ~
       source_url: ~
     level3:
-    - url: /mindmap/music/CC/JoCo.html
+    - url: ./music/CC/JoCo.html
       name: Jonathan Coulton
       id: JoCo
       type: music_artist
@@ -159,11 +159,11 @@ level1:
         type: Person
         country: US
         life-span:
+          ended: false
           end: ~
           begin: "1970-12-01"
-          ended: false
       level4:
-      - url: /mindmap/music/CC/JoCo/wtmt.html
+      - url: ./music/CC/JoCo/wtmt.html
         name: Where Tradition Meets Tomorrow
         id: wtmt
         type: music_albums
@@ -186,7 +186,7 @@ level1:
         - number: "5"
           title: Mandelbrot Set
           length: 00:46:40
-  - url: /mindmap/music/singing_synth/index.html
+  - url: ./music/singing_synth/index.html
     name: Singing Synthesizer
     id: singing_synth
     type: music_genre
@@ -194,7 +194,7 @@ level1:
       image_url: ~
       source_url: ~
     level3:
-    - url: /mindmap/music/singing_synth/dandy704.html
+    - url: ./music/singing_synth/dandy704.html
       name: Dandy 704 (chipspeech)
       id: dandy704
       type: music_artist
@@ -202,7 +202,7 @@ level1:
       - name: "Dandy 704 \u300C\u30DE\u30A4\u30F3\u30C9\u30D6\u30E9\u30F3\u30C9\u300DCover"
         type: music_songs
         id: dandy704_cover
-    - url: /mindmap/music/singing_synth/otto_mozer.html
+    - url: ./music/singing_synth/otto_mozer.html
       name: Otto Mozer (chipspeech)
       id: otto_mozer
       type: music_artist
@@ -210,7 +210,7 @@ level1:
       - name: '1975: The first speech synthesizer IC was born.'
         type: music_songs
         id: otto_mozer_1975
-    - url: /mindmap/music/singing_synth/lady_parsec.html
+    - url: ./music/singing_synth/lady_parsec.html
       name: Lady Parsec (chipspeech)
       id: lady_parsec
       type: music_artist
@@ -218,7 +218,7 @@ level1:
       - name: Give Me Patience - Wisdom Of The Rain
         type: music_songs
         id: Wisdom_Of_The_Rain
-    - url: /mindmap/music/singing_synth/bert_gotrax.html
+    - url: ./music/singing_synth/bert_gotrax.html
       name: Bert Gotrax (chipspeech)
       id: bert_gotrax
       type: music_artist
@@ -226,7 +226,7 @@ level1:
       - name: DANDY - chipANnimal
         type: music_songs
         id: chipannimal
-    - url: /mindmap/music/singing_synth/dee_klatt.html
+    - url: ./music/singing_synth/dee_klatt.html
       name: Dee Klatt (chipspeech)
       id: dee_klatt
       type: music_artist
@@ -234,7 +234,7 @@ level1:
       - name: Solitaire
         type: music_songs
         id: solitaire
-    - url: /mindmap/music/singing_synth/terminal99.html
+    - url: ./music/singing_synth/terminal99.html
       name: Terminal 99 (chipspeech)
       id: terminal99
       type: music_artist
@@ -242,7 +242,7 @@ level1:
       - name: GOTO80 - Crossword Puzzle
         type: music_songs
         id: goto80
-    - url: /mindmap/music/singing_synth/HM.html
+    - url: ./music/singing_synth/HM.html
       name: Hatsune Miku
       id: HM
       type: music_artist
@@ -262,7 +262,7 @@ level1:
       - name: The World is Mine
         type: music_songs
         id: world_is_mine
-  - url: /mindmap/music/VG/index.html
+  - url: ./music/VG/index.html
     name: video game music
     id: VG
     type: music_genre
@@ -270,7 +270,7 @@ level1:
       image_url: ~
       source_url: ~
     level3:
-    - url: /mindmap/music/VG/chris_huelsbeck.html
+    - url: ./music/VG/chris_huelsbeck.html
       name: "chris H\xFClsbeck"
       id: chris_huelsbeck
       type: music_artist
@@ -279,12 +279,12 @@ level1:
         type: Person
         country: DE
         life-span:
-          end: ~
-          begin: "1968-03-02"
           ended: false
+          begin: "1968-03-02"
+          end: ~
       photo: chris_huelsbeck.jpg
       level4:
-      - url: /mindmap/music/VG/chris_huelsbeck/TSAvol1.html
+      - url: ./music/VG/chris_huelsbeck/TSAvol1.html
         name: Turrican Soundtrack Anthology, Volume 1
         id: TSAvol1
         type: music_albums
@@ -340,7 +340,7 @@ level1:
         - number: "16"
           title: Transformers Medley 2013
           length: "22:06:54"
-      - url: /mindmap/music/VG/chris_huelsbeck/TSAvol2.html
+      - url: ./music/VG/chris_huelsbeck/TSAvol2.html
         name: Turrican Soundtrack Anthology, Volume 2
         id: TSAvol2
         type: music_albums
@@ -417,7 +417,7 @@ level1:
         - number: "23"
           title: The Final Fight (Machinae Supremacy version)
           length: "11:38:54"
-      - url: /mindmap/music/VG/chris_huelsbeck/TSAvol3.html
+      - url: ./music/VG/chris_huelsbeck/TSAvol3.html
         name: Turrican Soundtrack Anthology, Volume 3
         id: TSAvol3
         type: music_albums
@@ -491,7 +491,7 @@ level1:
         - number: "22"
           title: Payment Day (Allister Brimble version)
           length: 07:49:20
-      - url: /mindmap/music/VG/chris_huelsbeck/TSAvol4.html
+      - url: ./music/VG/chris_huelsbeck/TSAvol4.html
         name: Turrican Soundtrack Anthology, Volume 4
         id: TSAvol4
         type: music_albums
@@ -556,7 +556,7 @@ level1:
         - number: "19"
           title: Farewell
           length: "23:18:54"
-      - url: /mindmap/music/VG/chris_huelsbeck/Turrican_OVGS.html
+      - url: ./music/VG/chris_huelsbeck/Turrican_OVGS.html
         name: Turrican (Original Video Game Soundtrack)
         id: Turrican_OVGS
         type: music_albums
@@ -612,7 +612,7 @@ level1:
         - number: "16"
           title: Turrican Medley (mix)
           length: "20:32:40"
-      - url: /mindmap/music/VG/chris_huelsbeck/TFFTSAM.html
+      - url: ./music/VG/chris_huelsbeck/TFFTSAM.html
         name: The Final Fight - TSA Maxi
         id: TFFTSAM
         type: music_albums

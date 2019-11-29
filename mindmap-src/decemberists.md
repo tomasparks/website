@@ -1,6 +1,6 @@
 ---
 title: The Decemberists
-permalink: /mindmap/music/steampunk/decemberists.html
+permalink: ./music/steampunk/decemberists.html
 layout: mindmap_page
 function: array2tree_lvl3
 breadcrumbs:
@@ -9,9 +9,9 @@ breadcrumbs:
 - title: mindmap
   url: /mindmap/
 - title: Music
-  url: /mindmap/music/index.html
+  url: ./music/index.html
 - title: Steampunk
-  url: /mindmap/music/steampunk/index.html
+  url: ./music/steampunk/index.html
 type: Artist
 artist:
   bio:

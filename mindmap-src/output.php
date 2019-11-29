@@ -12,7 +12,7 @@ echo "Entering Array2tree().......\n";
 //			echo "\narr:\n".yaml_emit($arr)."\n";
 			$filename ="index.md";
 			$frontmatter = array('title'=> $treedb['name'],
-								'permalink' => "index.html",
+								'permalink' => "/mindmap/index.html",
 								'layout' => 'mindmap_index',
 								'links'=>$arr['links'],
 								'breadcrumbs'=>$breadcrumbs,
@@ -244,19 +244,20 @@ function media($image,$id,$url,$type) {
 	} else {$ret['basefilename'] = $image; }	
 	
 	$ret['newfilename'] = $id.'-'.$type.'.'.$extension;
-	$ret['url'] = str_ireplace ( 'index.html' , '' , $url );
-	$ret['url'] = str_ireplace ( ''.$id.'.html' , '' , $ret['url'] );
-	$ret['url'] = $ret['url'].$ret['newfilename'];
+	//$ret['url'] = str_ireplace ( 'index.html' , '' , $url );
+	//$ret['url'] = str_ireplace ( ''.$id.'.html' , '' , $ret['url'] );
+	//$ret['url'] = $ret['url'].$ret['newfilename'];
+	$ret['url'] = $ret['newfilename'];
 	
    echo "making dirs\n";
    	
    if (isset($ret['remote_url'])) { 
    		echo "Downloading from ".$ret['remote_url']." to ".$ret['url']."\n";
-   		passthru("wget --continue '".$ret['remote_url']."'");
+   		passthru("wget --continue '".$ret['remote_url']."' -O '".$ret['url']."'");
 	}
 	
 	
-   	echo "Copying from ".$ret['basefilename']." to ".$ret['url']."\n";
+   	echo "Copying from ".$image." to ".$ret['url']."\n";
 
 
    

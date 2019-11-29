@@ -42,13 +42,13 @@ foreach ($filelist as $file) {
     			echo "\n".$file." skipping md file\n";
     			continue 2;
     					
-			case strstr($file, "tv_movies.yml"):
-    			echo "found tv_movies.yml :)\n";
-    			$arr = tv_movies_levels($treedb,$gobaldb);
-				$treedb = $arr['treedb'];
-				yaml_emit_file("tree.yml",$treedb);
-				$gobaldb = $arr['gobaldb'];
-    			break;	
+	#		case strstr($file, "tv_movies.yml"):
+    #			echo "found tv_movies.yml :)\n";
+   # 			$arr = tv_movies_levels($treedb,$gobaldb);
+	#			$treedb = $arr['treedb'];
+#				yaml_emit_file("tree.yml",$treedb);
+#				$gobaldb = $arr['gobaldb'];
+#    			break;	
     		case strstr($file, "music.yml"):
     			echo "found music.yml :)\n";
     			$arr = music_levels($treedb,$gobaldb);

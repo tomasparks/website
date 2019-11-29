@@ -18,7 +18,7 @@ function music_levels($treedb,$gobaldb) {
 	
 	foreach ($database['genre'] as $genre) { // start of level 2
 		$tmp_lvl2 =array (
-			'url' => "/mindmap/".$database['id']."/".$genre['id']."/index.html",
+			'url' => "./".$database['id']."/".$genre['id']."/index.html",
 			'name' => $genre['name'],
 			'id' => $genre['id'],
 			'type'=>'music_genre'
@@ -31,7 +31,7 @@ function music_levels($treedb,$gobaldb) {
 		foreach ($genre['artists'] as $artists) { // start of level 3
 		//echo yaml_emit($artists);
 				$tmp_lvl3 = array (
-								'url'=>"/mindmap/".$database['id']."/".$genre['id']."/".$artists['id'].".html",
+								'url'=>"./".$database['id']."/".$genre['id']."/".$artists['id'].".html",
 								'name' => $artists['name'],
 								'id' => $artists['id'],
 								'type'=>'music_artist'
@@ -54,7 +54,7 @@ function music_levels($treedb,$gobaldb) {
 				if (isset($artists['albums'])) {
 					foreach ($artists['albums'] as $albums) {
 						$tmp_lvl4 = array (
-									'url'=>"/mindmap/".$database['id']."/".$genre['id']."/".$artists['id']."/".$albums['id'].".html",
+									'url'=>"./".$database['id']."/".$genre['id']."/".$artists['id']."/".$albums['id'].".html",
 									'name' => $albums['name'],
 									'id' => $albums['id'],
 									'type'=>'music_albums',
@@ -104,7 +104,7 @@ function music_levels($treedb,$gobaldb) {
 	$tmp_lvl1 = array (
 		"name"=>$database['name'],
 		"id"=>$database['id'],
-		"url"=>"/mindmap/".$database['id']."/index.html",
+		"url"=>"./".$database['id']."/index.html",
 		'background' =>array (	'image_url'=>$database['background']['image_url'],
 								'source_url'=>$database['background']['source_url'] ),
 		'copyright_notices'=>$database['copyright_notices'],

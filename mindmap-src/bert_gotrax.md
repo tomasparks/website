@@ -1,6 +1,6 @@
 ---
 title: Bert Gotrax (chipspeech)
-permalink: /mindmap/music/singing_synth/bert_gotrax.html
+permalink: ./music/singing_synth/bert_gotrax.html
 layout: mindmap_page
 function: array2tree_lvl3
 breadcrumbs:
@@ -9,9 +9,9 @@ breadcrumbs:
 - title: mindmap
   url: /mindmap/
 - title: Music
-  url: /mindmap/music/index.html
+  url: ./music/index.html
 - title: Singing Synthesizer
-  url: /mindmap/music/singing_synth/index.html
+  url: ./music/singing_synth/index.html
 type: Artist
 artist:
   bio: ~
