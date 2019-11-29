@@ -22,8 +22,8 @@ artist:
     type: Character
     country: JP
     life-span:
+      ended: false
       end: ~
       begin: "2007-08-31"
-      ended: false
   photo: HM-photo.png
 ---

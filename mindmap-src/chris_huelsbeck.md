@@ -19,8 +19,8 @@ artist:
     type: Person
     country: DE
     life-span:
-      begin: "1968-03-02"
       ended: false
+      begin: "1968-03-02"
       end: ~
   photo: chris_huelsbeck-photo.jpg
 ---

@@ -19,7 +19,7 @@ artist:
     type: Group
     country: GB
     life-span:
+      end: ~
       ended: false
       begin: "2008"
-      end: ~
 ---

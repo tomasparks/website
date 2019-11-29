@@ -19,7 +19,7 @@ artist:
     type: Group
     country: ~
     life-span:
-      end: ~
       begin: "2000"
+      end: ~
       ended: false
 ---
