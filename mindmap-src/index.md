@@ -1,6 +1,6 @@
 ---
 title: Tom Sparks
-permalink: /mindmap/index.html
+permalink: ./index.html
 layout: mindmap_index
 links:
 - title: Music
