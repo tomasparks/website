@@ -1,0 +1,81 @@
+{
+	"name": "Tom Sparks",
+	"id": "Me",
+	"level1": [{
+			"name": "Hoarder",
+			"id": "Hoarder",
+			"level2": [{
+				"name": "Data",
+				"id": "data",
+				"see-also": {
+					"id": "retro-computers",
+					"name": "retro computers"
+				}
+			}]
+		},
+		{
+			"name": "Hobbies",
+			"id": "hobbies",
+			"level2": [{
+					"name": "Computer programming"
+				}, {
+					"name": "con-worlding / Worldbuilding",
+					"level3": [{
+						"name": "alt-waterworld"
+					}]
+				}, {
+					"name": "Electronics",
+					"id": "electronics",
+					"level3": [{
+						"name": "Amateur radio"
+					}]
+				},
+				{
+					"name": "Photography"
+				}, {
+					"name": "Singing"
+				},
+				{
+					"name": "Gaming"
+				},
+				{
+					"name": "Arts",
+					"level3": [{
+							"name": "3D modelling",
+							"level4": [{
+								"name": "3D printing"
+							}]
+						},
+						{
+							"name": "Fractal"
+						}, {
+							"name": "Pen plotter"
+						}, {
+							"name": "dot-martix "
+						}
+					]
+				},
+				{
+					"name": "role playing games",
+					"id": "rpg"
+				},
+				{
+					"name": "Music",
+					"id": "music",
+					"level3": [{
+							"name": "steampunk"
+						},
+						{
+							"name": "Creative Commons music"
+						},
+						{
+							"name": "Singing Synthesizer"
+						},						{
+							"name": "video game music"
+						}
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,24 +1,11 @@
-name: Tom Sparks
-id: Me
-level1:
-    - include: personal.yml
-    - include: events.yml
-    - name: Hoarder
-      id: Hoarder
-      level2:
-        - name: Data
-          id: data
-          see-also:
-                  - id: retro-computers
-                    name: retro computers
-                    
-    - name: Hobbies
-      id: hobbies
-      level2:
-        - include: ./hobbies/books.yml
-        - include: ./hobbies/tv_movies.yml
-        - include: ./hobbies/music.yml
-        - include: ./hobbies/podcast.yml
+    {"include": "personal.json"},
+    {"include": "events.json"},         
+    {name: Hobbies,id: hobbies
+   {
+        {include: ./hobbies/books.yml},
+        {include: ./hobbies/tv_movies.yml},
+        {include: ./hobbies/music.yml},
+        {include: ./hobbies/podcast.yml}
         - include: ./hobbies/computers.yml
         - include: ./hobbies/retro-computers.yml
         - include: ./hobbies/networks.yml

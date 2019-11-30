@@ -4,6 +4,8 @@ function array2tree($treedb,$gobaldb,$rootpath) {
 echo "Entering Array2tree().......\n";
 //				echo "\ntreedb\n".yaml_emit($treedb)."\n";
 //	chdir($rootpath);
+
+
 	
 		if (isset($treedb['level1'])) {
 			$breadcrumbs[] = array ('title'=>'website', 'url'=>'/');
@@ -12,13 +14,13 @@ echo "Entering Array2tree().......\n";
 //			echo "\narr:\n".yaml_emit($arr)."\n";
 			$filename ="index.md";
 			$frontmatter = array('title'=> $treedb['name'],
-								'permalink' => "/mindmap/index.html",
+								'permalink' => "index.html",
 								'layout' => 'mindmap_index',
 								'links'=>$arr['links'],
 								'breadcrumbs'=>$breadcrumbs,
 								'function'=>'array2tree'
 								);
-																if (isset($value['background'])) {
+								if (isset($value['background'])) {
 									if (isset($value['background']['image_url'])) {
 												$mediatmp = media($value['background']['image_url'],$value['id'],$value['url'],'background');
 												$ret['media'][] = $mediatmp;

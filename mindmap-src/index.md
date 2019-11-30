@@ -3,9 +3,12 @@ title: Tom Sparks
 permalink: index.html
 layout: mindmap_index
 links:
-- title: Music
-  id: music
-  url: /music/index.html
+- title: Hoarder
+  id: Hoarder
+  url: ~
+- title: Hobbies
+  id: hobbies
+  url: ~
 breadcrumbs:
 - title: website
   url: /
