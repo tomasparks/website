@@ -41,4 +41,53 @@ level1:
     - name: Creative Commons music
     - name: Singing Synthesizer
     - name: video game music
+      id: VG
+      level4:
+      - name: "Chris H\xFClsbeck"
+        id: chris_huelsbeck
+        musicbrainz: 6a4ee4c8-eaed-48ef-84c2-34ee655e2312
+        website: http://www.huelsbeck.com/
+        photo: chris_huelsbeck.jpg
+        level5:
+        - name: "Royalty\u200B-\u200BFree Music Vol. 1"
+          id: RFvol1
+          coverart: RFvol1vol1.jpg
+        - name: "Royalty\u200B-\u200BFree Music Vol. 2"
+          id: RFvol2
+          coverart: RFvol1vol2.jpg
+        - name: Turrican Soundtrack Anthology, Volume 1
+          id: TSAvol1
+          musicbrainz: ce02621b-4947-4a64-9862-68067f8f2aca
+          coverart: TSAvol1.jpg
+        - name: Turrican Soundtrack Anthology, Volume 2
+          id: TSAvol2
+          musicbrainz: 06a2d1ee-efcc-4aff-8f92-b219682e9210
+          coverart: TSAvol2.jpg
+        - name: Turrican Soundtrack Anthology, Volume 3
+          id: TSAvol3
+          musicbrainz: 54ecbe53-7343-430a-a3c6-ad65c2801f70
+          coverart: TSAvol3.jpg
+        - name: Turrican Soundtrack Anthology, Volume 4
+          id: TSAvol4
+          musicbrainz: 2ab4f2f1-384a-4ab2-a3e1-1d5d6b5717ba
+          coverart: TSAvol4.jpg
+        - name: Turrican (Original Video Game Soundtrack)
+          id: Turrican_OVGS
+          musicbrainz: 8205e8c1-decc-40fc-905c-ab0e8169f5ff
+          coverart: Turrican_OVGS.jpg
+        - name: The Final Fight - TSA Maxi
+          id: TFFTSAM
+          musicbrainz: 2342e63b-7e58-4f46-a162-5754c3e5d75a
+          coverart: TFFTSAM.jpg
+      - name: James Marsh
+        id: gamingmuso
+        website: http://www.gamingmuso.com/
+        photo: gamingmuso.jpg
+        level5:
+        - name: "The Gaming Muso Vol\u200B.\u200B1"
+          id: gamingmusovol1
+          coverart: gamingmusovol1.jpg
+          bandcamp:
+          - albumid: "2392271417"
+            url: http://gamingmuso.bandcamp.com/album/the-gaming-muso-vol-1
 ...
