@@ -1,7 +1,7 @@
 ---
 title: Dandy 704 (chipspeech)
 permalink: /music/singing_synth/dandy704.html
-layout: mindmap_page
+layout: mindmap_page_music_artist
 function: array2tree_lvl3
 breadcrumbs:
 - title: website

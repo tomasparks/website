@@ -1,7 +1,7 @@
 ---
 title: Lady Parsec (chipspeech)
 permalink: /music/singing_synth/lady_parsec.html
-layout: mindmap_page
+layout: mindmap_page_music_artist
 function: array2tree_lvl3
 breadcrumbs:
 - title: website

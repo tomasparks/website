@@ -178,7 +178,7 @@ echo "Entering array2tree_lvl3().......\n";
 								$filename =$value['id'].".md";
 								$frontmatter = array('title'=> $value['name'],
 								'permalink' => $value['url'],
-								'layout' => 'mindmap_page','function'=>'array2tree_lvl3',
+								'layout' => 'mindmap_page_'.$value['type'],'function'=>'array2tree_lvl3',
 								'breadcrumbs'=>$breadcrumbs
 								);		
 								

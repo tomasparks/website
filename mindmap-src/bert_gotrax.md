@@ -1,7 +1,7 @@
 ---
 title: Bert Gotrax (chipspeech)
 permalink: /music/singing_synth/bert_gotrax.html
-layout: mindmap_page
+layout: mindmap_page_music_artist
 function: array2tree_lvl3
 breadcrumbs:
 - title: website

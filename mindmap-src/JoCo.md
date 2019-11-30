@@ -1,7 +1,7 @@
 ---
 title: Jonathan Coulton
 permalink: /music/CC/JoCo.html
-layout: mindmap_page
+layout: mindmap_page_music_artist
 function: array2tree_lvl3
 breadcrumbs:
 - title: website
@@ -19,7 +19,7 @@ artist:
     type: Person
     country: US
     life-span:
-      begin: "1970-12-01"
-      end: ~
       ended: false
+      end: ~
+      begin: "1970-12-01"
 ---

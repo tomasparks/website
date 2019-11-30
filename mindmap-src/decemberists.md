@@ -1,7 +1,7 @@
 ---
 title: The Decemberists
 permalink: /music/steampunk/decemberists.html
-layout: mindmap_page
+layout: mindmap_page_music_artist
 function: array2tree_lvl3
 breadcrumbs:
 - title: website
@@ -19,7 +19,7 @@ artist:
     type: Group
     country: ~
     life-span:
+      ended: false
       begin: "2000"
       end: ~
-      ended: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: Hatsune Miku
 permalink: /music/singing_synth/HM.html
-layout: mindmap_page
+layout: mindmap_page_music_artist
 function: array2tree_lvl3
 breadcrumbs:
 - title: website
@@ -22,8 +22,8 @@ artist:
     type: Character
     country: JP
     life-span:
-      ended: false
-      end: ~
       begin: "2007-08-31"
+      end: ~
+      ended: false
   photo: HM-photo.png
 ---

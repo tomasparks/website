@@ -1,7 +1,7 @@
 ---
 title: "chris H\xFClsbeck"
 permalink: /music/VG/chris_huelsbeck.html
-layout: mindmap_page
+layout: mindmap_page_music_artist
 function: array2tree_lvl3
 breadcrumbs:
 - title: website
@@ -19,8 +19,8 @@ artist:
     type: Person
     country: DE
     life-span:
-      ended: false
-      begin: "1968-03-02"
       end: ~
+      begin: "1968-03-02"
+      ended: false
   photo: chris_huelsbeck-photo.jpg
 ---

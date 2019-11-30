@@ -1,7 +1,7 @@
 ---
 title: Otto Mozer (chipspeech)
 permalink: /music/singing_synth/otto_mozer.html
-layout: mindmap_page
+layout: mindmap_page_music_artist
 function: array2tree_lvl3
 breadcrumbs:
 - title: website
