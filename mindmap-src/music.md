@@ -4,17 +4,17 @@ permalink: ~
 layout: mindmap_index
 function: array2tree_lvl2
 links:
-- title: steampunk
+- title: 3D modelling
   id: ~
   url: ~
-- title: Creative Commons music
+- title: Fractal
   id: ~
   url: ~
-- title: Singing Synthesizer
+- title: Pen plotter
   id: ~
   url: ~
-- title: video game music
-  id: VG
+- title: 'dot-martix '
+  id: ~
   url: ~
 breadcrumbs:
 - title: website

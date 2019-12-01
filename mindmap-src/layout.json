@@ -20,6 +20,16 @@
 					"name": "Computer programming"
 				}, {
 					"name": "con-worlding / Worldbuilding",
+					"see-also": [{
+							"id": "tv_movies-water-world"
+						},
+						{
+							"id": "tv_movies-seaquest"
+						},
+						{
+							"id": "alt-networking-dtn"
+						}
+					],
 					"level3": [{
 						"name": "alt-waterworld"
 					}]
@@ -57,99 +67,261 @@
 				},
 				{
 					"name": "role playing games",
-					"id": "rpg"
+					"id": "rpg",
+					"see-also": [{
+						"id": "con-worlding"
+					}]
 				},
 				{
 					"name": "Music",
 					"id": "music",
-					"level3": [{
-							"name": "steampunk"
-						},
-						{
-							"name": "Creative Commons music"
-						},
-						{
-							"name": "Singing Synthesizer"
-						}, {
-							"name": "video game music",
-							"id": "VG",
-							"level4": [{
-									"name": "Chris Hülsbeck",
-									"id": "chris_huelsbeck",
-									"musicbrainz": "6a4ee4c8-eaed-48ef-84c2-34ee655e2312",
-									"website": "http://www.huelsbeck.com/",
-									"photo": "chris_huelsbeck.jpg",
-									"level5": [
-																		{
-											"name": "Royalty​-​Free Music Vol. 1",
-											"id": "RFvol1",
-											"coverart": "RFvol1vol1.jpg"
-										},
-																	{
-											"name": "Royalty​-​Free Music Vol. 2",
-											"id": "RFvol2",
-											"coverart": "RFvol1vol2.jpg"
-										},
-									{
-											"name": "Turrican Soundtrack Anthology, Volume 1",
-											"id": "TSAvol1",
-											"musicbrainz": "ce02621b-4947-4a64-9862-68067f8f2aca",
-											"coverart": "TSAvol1.jpg"
-										},
-										{
-											"name": "Turrican Soundtrack Anthology, Volume 2",
-											"id": "TSAvol2",
-											"musicbrainz": "06a2d1ee-efcc-4aff-8f92-b219682e9210",
-											"coverart": "TSAvol2.jpg"
-										},
-										{
-											"name": "Turrican Soundtrack Anthology, Volume 3",
-											"id": "TSAvol3",
-											"musicbrainz": "54ecbe53-7343-430a-a3c6-ad65c2801f70",
-											"coverart": "TSAvol3.jpg"
-										},
-										{
-											"name": "Turrican Soundtrack Anthology, Volume 4",
-											"id": "TSAvol4",
-											"musicbrainz": "2ab4f2f1-384a-4ab2-a3e1-1d5d6b5717ba",
-											"coverart": "TSAvol4.jpg"
-										},
-										{
-											"name": "Turrican (Original Video Game Soundtrack)",
-											"id": "Turrican_OVGS",
-											"musicbrainz": "8205e8c1-decc-40fc-905c-ab0e8169f5ff",
-											"coverart": "Turrican_OVGS.jpg"
-										},
-										{
-											"name": "The Final Fight - TSA Maxi",
-											"id": "TFFTSAM",
-											"musicbrainz": "2342e63b-7e58-4f46-a162-5754c3e5d75a",
-											"coverart": "TFFTSAM.jpg"
-										}
-									]
-								},
-								{
-									"name": "James Marsh",
-									"id": "gamingmuso",
-									"website": "http://www.gamingmuso.com/",
-									"photo": "gamingmuso.jpg",
-									"level5": [{
-										"name": "The Gaming Muso Vol​.​1",
-										"id": "gamingmusovol1",
-										"coverart": "gamingmusovol1.jpg",
-										"bandcamp": [{
-											"albumid": "2392271417",
-											"url": "http://gamingmuso.bandcamp.com/album/the-gaming-muso-vol-1"
+					"type": "music",
+					"background": [{
+						"imageurl": "music-background.jpg",
+						"sourceurl": "https://wallpapercave.com/music-wallpapers-for-desktop"
+					}],
+					"copyright_notices": [{
+						"text": [{
+							"musicbrainz": "text is from [musicbrainz](http://musicbrainz.org) used under [CC0 Public Domain](https://creativecommons.org/publicdomain/zero/1.0/) and/or [Creative Commons Attribution-NonCommercial-ShareAlike 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/).",
+							"wikipedia": "text is from [wikipedia](http://www.wikipedia.org/), Text is used under the [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/3.0/)."
+						}],
+						"images": [{
+							"coverartarchive": "All images are uploaded from users' computers directly to Internet Archive servers. All images are copyrighted by their respective copyright owners.",
+							"wikipedia": "images are from [wikipedia](http://www.wikipedia.org/)"
+						}],
+						"level3": [{
+								"name": "steampunk",
+								"id": "steampunk",
+								"type": "music_genre",
+								"background": [{
+									"imageurl": "steampunk-2663369-1920x1080.jpg",
+									"sourceurl": "http://simplywallpapers.com/wallpaper/steampunk/37866/"
+								}],
+								"level4": [{
+										"type": "music_artist",
+										"name": "The Men That Will Not Be Blamed for Nothing",
+										"id": "blamedfornothing",
+										"website": "http://www.blamedfornothing.com/",
+										"musicbrainz": "08249437-acfb-4a74-a817-ca02b6ab58e0",
+										"level5": [{
+											"type": "music_album",
+											"name": "Now That's What I Call Steampunk! Volume 1",
+											"id": "steampunkvol1",
+											"musicbrainz": "3dd03335-3d5f-4e92-8a76-cfddf6ec4ac9",
+											"coverart": "steampunkvol1.jpg"
 										}]
+									},
+									{
+										"name": "The Decemberists",
+										"type": "music_artist",
+										"id": "decemberists",
+										"website": "http://www.decemberists.com/",
+										"musicbrainz": "97b1142f-c71e-4971-8736-4a8ceaf6b4c3",
+										"level5": [{
+											"type": "music_album",
+											"name": "Picaresque",
+											"id": "picaresque",
+											"musicbrainz": "552e1453-99a4-35ad-bc47-5e8fc2397040",
+											"coverart": "picaresque.jpg"
+										}]
+									}
+								]
+							},
+							{
+								"name": "Creative Commons music",
+								"type": "music_genre",
+								"id": "CC",
+								"level4": [{
+									"name": "Jonathan Coulton",
+									"type": "music_artist",
+									"id": "JoCo",
+									"website": "https://www.jonathancoulton.com/",
+									"musicbrainz": "d8df7087-06d5-4545-9024-831bb8558ad1",
+									"level5": [{
+										"type": "music_album",
+										"name": "Where Tradition Meets Tomorrow",
+										"id": "wtmt",
+										"musicbrainz": "039462e5-34ad-468c-b085-14c4555d0c3f",
+										"coverart": "wtmt.jpg"
 									}]
-
-								}
-							]
-						}
-					]
+								}]
+							},
+							{
+								"name": "Singing Synthesizer",
+								"type": "music_genre",
+								"id": "singing_synth",
+								"level4": [{
+										"name": "chipspeech",
+										"id": "chipspeech",
+										"website": "https: //plogue.com/products/chipspeech/"
+									},
+									{
+										"name": "Hatsune Miku / Vocaloid",
+										"type": "music_artist",
+										"id": "Vocaloid",
+										"musicbrainz": "130d679a-9a92-4373-8348-0800b6b93a30",
+										"website": "https://ec.crypton.co.jp/pages/prod/vocaloid/cv01",
+										"decscription": "https://www.youtube.com/watch?v=8Kb_WBChA5U",
+										"photo": "Hatsune_Miku_cover.png",
+										"background": [{
+											"imageurl": "Hatsune_Miku_concert.jpg",
+											"sourceurl": "https://www.pinterest.es/pin/224898575117584447/"
+										}],
+										"level5": [{
+											"type": "music_song",
+											"name": "The World is Mine",
+											"id": "world_is_mine",
+											"musicbrainz": "b97aefa1-b3c6-4744-b6ac-8b517a49fc66",
+											"videos": [{
+												"youtube": "https://www.youtube.com/watch?v=O17f3lB7BFY",
+												"englishcover": "https://www.youtube.com/watch?v=10u0VZHDiq0"
+											}]
+										}]
+									}
+								]
+							}, {
+								"name": "youtube",
+								"type": "music_genre",
+								"id": "youtube",
+								"level4": [{
+									"name": "Octav1us",
+									"type": "music_artist",
+									"youtube": "https://www.youtube.com/channel/UCz5Kx6dP6rHRf9yLY1tnelw",
+									"id": "octy",
+									"level5": [{
+										"type": "music_song",
+										"name": "Theme song"
+									}]
+								}, {
+									"name": "Dan Bull",
+									"musicbrainz": "f1597ac6-6cc6-4769-9751-69f681f015da",
+									"type": "music_artist",
+									"website": "https://itsdanbull.com/",
+									"youtube": "https://www.youtube.com/user/douglby"
+								}]
+							}, {
+								"name": "demoscene",
+								"type": "music_genre",
+								"id": "demoscene",
+								"website": "http://scene.org/",
+								"level4": [{
+									"name": "Andromeda Software Development",
+									"website": "http://www.asd.gr/",
+									"type": "music_artist",
+									"id": "asd",
+									"level5": [{
+										"type": "music_song",
+										"name": "Dreamchild",
+										"website": "http://www.asd.gr/#dreamchild",
+										"youtube": "https://www.youtube.com/watch?v=QR2b3BGKBKU"
+									}]
+								}, {
+									"name": "Farbrausch",
+									"id": "fr",
+									"website": "http://www.farbrausch.de/",
+									"type": "music_artist",
+									"level5": [{
+										"type": "music_song",
+										"name": "fr-08: .the .product"
+									}, {
+										"type": "music_song",
+										"name": "fr-025: the.popular.demo"
+									}, {
+										"type": "music_song",
+										"name": "fr-030: candytron"
+									}]
+								}]
+							},
+							{
+								"name": "video game music",
+								"type": "music_genre",
+								"id": "VG",
+								"level4": [{
+										"name": "Chris Hülsbeck",
+										"type": "music_artist",
+										"id": "chris_huelsbeck",
+										"musicbrainz": "6a4ee4c8-eaed-48ef-84c2-34ee655e2312",
+										"website": "http://www.huelsbeck.com/",
+										"photo": "chris_huelsbeck.jpg",
+										"level5": [{
+												"type": "music_album",
+												"name": "Royalty​-​Free Music Vol. 1",
+												"id": "RFvol1",
+												"coverart": "RFvol1vol1.jpg"
+											},
+											{
+												"type": "music_album",
+												"name": "Royalty​-​Free Music Vol. 2",
+												"id": "RFvol2",
+												"coverart": "RFvol1vol2.jpg"
+											},
+											{
+												"type": "music_album",
+												"name": "Turrican Soundtrack Anthology, Volume 1",
+												"id": "TSAvol1",
+												"musicbrainz": "ce02621b-4947-4a64-9862-68067f8f2aca",
+												"coverart": "TSAvol1.jpg"
+											},
+											{
+												"type": "music_album",
+												"name": "Turrican Soundtrack Anthology, Volume 2",
+												"id": "TSAvol2",
+												"musicbrainz": "06a2d1ee-efcc-4aff-8f92-b219682e9210",
+												"coverart": "TSAvol2.jpg"
+											},
+											{
+												"type": "music_album",
+												"name": "Turrican Soundtrack Anthology, Volume 3",
+												"id": "TSAvol3",
+												"musicbrainz": "54ecbe53-7343-430a-a3c6-ad65c2801f70",
+												"coverart": "TSAvol3.jpg"
+											},
+											{
+												"type": "music_album",
+												"name": "Turrican Soundtrack Anthology, Volume 4",
+												"id": "TSAvol4",
+												"musicbrainz": "2ab4f2f1-384a-4ab2-a3e1-1d5d6b5717ba",
+												"coverart": "TSAvol4.jpg"
+											},
+											{
+												"type": "music_album",
+												"name": "Turrican (Original Video Game Soundtrack)",
+												"id": "Turrican_OVGS",
+												"musicbrainz": "8205e8c1-decc-40fc-905c-ab0e8169f5ff",
+												"coverart": "Turrican_OVGS.jpg"
+											},
+											{
+												"type": "music_album",
+												"name": "The Final Fight - TSA Maxi",
+												"id": "TFFTSAM",
+												"musicbrainz": "2342e63b-7e58-4f46-a162-5754c3e5d75a",
+												"coverart": "TFFTSAM.jpg"
+											}
+										]
+									},
+									{
+										"name": "James Marsh",
+										"type": "music_artist",
+										"id": "gamingmuso",
+										"website": "http://www.gamingmuso.com/",
+										"photo": "gamingmuso.jpg",
+										"level5": [{
+											"type": "music_album",
+											"name": "The Gaming Muso Vol​.​1",
+											"id": "gamingmusovol1",
+											"coverart": "gamingmusovol1.jpg",
+											"bandcamp": [{
+												"albumid": "2392271417",
+												"url": "http://gamingmuso.bandcamp.com/album/the-gaming-muso-vol-1"
+											}]
+										}]
+									}
+								]
+							}
+						]
+					}]
 				}
 			]
 		}
 	]
-
 }
