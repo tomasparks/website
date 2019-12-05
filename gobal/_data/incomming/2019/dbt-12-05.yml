@@ -1,0 +1,18 @@
+---
+- type: entry
+  published: "2019-12-05T06:06:27+00:00"
+  url: https://twitter.com/tomasparksts/status/1202469260678713344
+  in-reply-to:
+  - https://twitter.com/viniciusferrao/status/1202407196799197184
+  content:
+    text: '@lazygamereviews  a topic you could talk about'
+    html: |-
+      <a href="https://twitter.com/lazygamereviews">@lazygamereviews</a>  a topic you could talk about
+      <a class="u-mention" href="https://twitter.com/nostalnerd"></a>
+      <a class="u-mention" href="https://twitter.com/viniciusferrao"></a>
+  author:
+    type: card
+    name: 'Tom Sparks #ChurchofOctav1us'
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+...

@@ -1,0 +1,17 @@
+---
+- type: entry
+  published: "2019-12-02T13:57:07+00:00"
+  url: https://twitter.com/tomasparksts/status/1201500545338335233
+  in-reply-to:
+  - https://twitter.com/Octav1usKing/status/1201308064625909760
+  content:
+    text: we need a farewell video to Octy's blue "boyfriend" (Not @murrayoddpod sorry)
+    html: |-
+      we need a farewell video to Octy's blue "boyfriend" (Not <a href="https://twitter.com/murrayoddpod">@murrayoddpod</a> sorry)
+      <a class="u-mention" href="https://twitter.com/Octav1usKing"></a>
+  author:
+    type: card
+    name: 'Tom Sparks #ChurchofOctav1us'
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+...

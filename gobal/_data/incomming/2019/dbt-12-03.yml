@@ -1,0 +1,34 @@
+---
+- type: entry
+  published: "2019-12-03T07:04:09+00:00"
+  url: https://twitter.com/tomasparksts/status/1201759006794010624
+  in-reply-to:
+  - https://twitter.com/murrayoddpod/status/1201688361796349953
+  content:
+    text: I don't think you want to be remembered as blue ash
+    html: |-
+      I don't think you want to be remembered as blue ash
+      <a class="u-mention" href="https://twitter.com/Octav1usKing"></a>
+      <a class="u-mention" href="https://twitter.com/murrayoddpod"></a>
+  author:
+    type: card
+    name: 'Tom Sparks #ChurchofOctav1us'
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+- type: entry
+  published: "2019-12-03T07:02:01+00:00"
+  url: https://twitter.com/tomasparksts/status/1201758469214224384
+  in-reply-to:
+  - https://twitter.com/murrayoddpod/status/1201688361796349953
+  content:
+    text: Are you the new/updated boyfriend for Octy 2.0?
+    html: |-
+      Are you the new/updated boyfriend for Octy 2.0?
+      <a class="u-mention" href="https://twitter.com/Octav1usKing"></a>
+      <a class="u-mention" href="https://twitter.com/murrayoddpod"></a>
+  author:
+    type: card
+    name: 'Tom Sparks #ChurchofOctav1us'
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+...
