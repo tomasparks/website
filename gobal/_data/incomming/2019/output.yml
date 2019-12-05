@@ -1,5 +1,90 @@
 ---
 2019:
+  12:
+    "05":
+    - type: entry
+      published: "2019-12-05T06:06:27+00:00"
+      url: https://twitter.com/tomasparksts/status/1202469260678713344
+      in-reply-to:
+      - https://twitter.com/viniciusferrao/status/1202407196799197184
+      content:
+        text: '@lazygamereviews  a topic you could talk about'
+        html: |-
+          <a href="https://twitter.com/lazygamereviews">@lazygamereviews</a>  a topic you could talk about
+          <a class="u-mention" href="https://twitter.com/nostalnerd"></a>
+          <a class="u-mention" href="https://twitter.com/viniciusferrao"></a>
+      author:
+        type: card
+        name: 'Tom Sparks #ChurchofOctav1us'
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+    "04":
+    - type: entry
+      published: "2019-12-04T05:43:26+00:00"
+      url: https://twitter.com/tomasparksts/status/1202101082639306752
+      in-reply-to:
+      - https://twitter.com/LadyLyxx/status/1202099068102758400
+      content:
+        text: "\U0001F3B5Soft rat, warm rat, little ball of fur! Happy rat, sleepy
+          rat, purr purr purr!\U0001F3B5  Crap wrong song"
+        html: "\U0001F3B5Soft rat, warm rat, little ball of fur! Happy rat, sleepy
+          rat, purr purr purr!\U0001F3B5  Crap wrong song\n<a class=\"u-mention\"
+          href=\"https://twitter.com/LadyLyxx\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/Octav1usKing\"></a>"
+      author:
+        type: card
+        name: 'Tom Sparks #ChurchofOctav1us'
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+    "03":
+    - type: entry
+      published: "2019-12-03T07:04:09+00:00"
+      url: https://twitter.com/tomasparksts/status/1201759006794010624
+      in-reply-to:
+      - https://twitter.com/murrayoddpod/status/1201688361796349953
+      content:
+        text: I don't think you want to be remembered as blue ash
+        html: |-
+          I don't think you want to be remembered as blue ash
+          <a class="u-mention" href="https://twitter.com/Octav1usKing"></a>
+          <a class="u-mention" href="https://twitter.com/murrayoddpod"></a>
+      author:
+        type: card
+        name: 'Tom Sparks #ChurchofOctav1us'
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+    - type: entry
+      published: "2019-12-03T07:02:01+00:00"
+      url: https://twitter.com/tomasparksts/status/1201758469214224384
+      in-reply-to:
+      - https://twitter.com/murrayoddpod/status/1201688361796349953
+      content:
+        text: Are you the new/updated boyfriend for Octy 2.0?
+        html: |-
+          Are you the new/updated boyfriend for Octy 2.0?
+          <a class="u-mention" href="https://twitter.com/Octav1usKing"></a>
+          <a class="u-mention" href="https://twitter.com/murrayoddpod"></a>
+      author:
+        type: card
+        name: 'Tom Sparks #ChurchofOctav1us'
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+    "02":
+    - type: entry
+      published: "2019-12-02T13:57:07+00:00"
+      url: https://twitter.com/tomasparksts/status/1201500545338335233
+      in-reply-to:
+      - https://twitter.com/Octav1usKing/status/1201308064625909760
+      content:
+        text: we need a farewell video to Octy's blue "boyfriend" (Not @murrayoddpod
+          sorry)
+        html: |-
+          we need a farewell video to Octy's blue "boyfriend" (Not <a href="https://twitter.com/murrayoddpod">@murrayoddpod</a> sorry)
+          <a class="u-mention" href="https://twitter.com/Octav1usKing"></a>
+      author:
+        type: card
+        name: 'Tom Sparks #ChurchofOctav1us'
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
   11:
     28:
     - type: entry
@@ -75,85 +160,6 @@
           let's not give him any ideas
           <a class="u-mention" href="https://twitter.com/GuyFawkesRetro"></a>
           <a class="u-mention" href="https://twitter.com/RetroPrincess1"></a>
-      author:
-        type: card
-        name: 'Tom Sparks #ChurchofOctav1us'
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-    - type: entry
-      published: "2019-11-24T00:23:02+00:00"
-      url: https://twitter.com/tomasparksts/status/1198396573639557120
-      in-reply-to:
-      - https://twitter.com/RetroPrincess1/status/1198271887245283328
-      content:
-        text: wow, wish you had @twitch streamed it
-        html: |-
-          wow, wish you had <a href="https://twitter.com/Twitch">@twitch</a> streamed it
-          <a class="u-mention" href="https://twitter.com/RetroPrincess1"></a>
-      author:
-        type: card
-        name: 'Tom Sparks #ChurchofOctav1us'
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-    23:
-    - type: entry
-      published: "2019-11-23T09:52:22+00:00"
-      url: https://twitter.com/tomasparksts/status/1198177459549523969
-      in-reply-to:
-      - https://twitter.com/Octav1usKing/status/1197977434223783937
-      content:
-        text: Did the church of Octy break @Twitch?
-        html: |-
-          Did the church of Octy break <a href="https://twitter.com/Twitch">@Twitch</a>?
-          <a class="u-mention" href="https://twitter.com/Octav1usKing"></a>
-      author:
-        type: card
-        name: 'Tom Sparks #ChurchofOctav1us'
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-    - type: entry
-      published: "2019-11-23T02:27:48+00:00"
-      url: https://twitter.com/tomasparksts/status/1198065581762592768
-      in-reply-to:
-      - https://twitter.com/BarryTheCroc/status/1198028208454717442
-      content:
-        text: cc @lazygamereviews
-        html: |-
-          cc <a href="https://twitter.com/lazygamereviews">@lazygamereviews</a>
-          <a class="u-mention" href="https://twitter.com/BarryTheCroc"></a>
-          <a class="u-mention" href="https://twitter.com/Octav1usKing"></a>
-      author:
-        type: card
-        name: 'Tom Sparks #ChurchofOctav1us'
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-    21:
-    - type: entry
-      published: "2019-11-21T15:57:34+00:00"
-      url: https://twitter.com/tomasparksts/status/1197544593048236032
-      video:
-      - https://video.twimg.com/tweet_video/EJ6Icx5UUAAO6FZ.mp4
-      in-reply-to:
-      - https://twitter.com/Horacio79446316/status/1197536171871604738
-      content:
-        text: look at all your follows..... the Church of Octy
-        html: |-
-          look at all your follows..... the Church of Octy
-          <a class="u-mention" href="https://twitter.com/Horacio79446316"></a>
-          <a class="u-mention" href="https://twitter.com/Octav1usKing"></a>
-      author:
-        type: card
-        name: 'Tom Sparks #ChurchofOctav1us'
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-    - type: entry
-      published: "2019-11-21T03:40:58+00:00"
-      url: https://twitter.com/tomasparksts/status/1197359219688624128
-      in-reply-to:
-      - https://twitter.com/Octav1usKing/status/1197351759368392704
-      content:
-        text: "your back \U0001F63B"
-        html: "your back \U0001F63B\n<a class=\"u-mention\" href=\"https://twitter.com/Octav1usKing\"></a>"
       author:
         type: card
         name: 'Tom Sparks #ChurchofOctav1us'

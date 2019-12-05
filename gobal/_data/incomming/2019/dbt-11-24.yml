@@ -1,5 +1,6 @@
 ---
-- type: entry
+0:
+  type: entry
   published: "2019-11-24T13:00:25+00:00"
   url: https://twitter.com/tomasparksts/status/1198587175157190656
   in-reply-to:
@@ -15,7 +16,8 @@
     name: 'Tom Sparks #ChurchofOctav1us'
     url: https://twitter.com/tomasparksts
     photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-- type: entry
+1:
+  type: entry
   published: "2019-11-24T09:06:37+00:00"
   url: https://twitter.com/tomasparksts/status/1198528336055562245
   in-reply-to:
@@ -31,7 +33,8 @@
     name: 'Tom Sparks #ChurchofOctav1us'
     url: https://twitter.com/tomasparksts
     photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-- type: entry
+4:
+  type: entry
   published: "2019-11-24T00:23:02+00:00"
   url: https://twitter.com/tomasparksts/status/1198396573639557120
   in-reply-to:
