@@ -3,24 +3,24 @@
 	"id": "Me",
 	"level1": [{
 			"name": "Hoarder",
-			"id": "Hoarder",
+			"id": "hoarder",
 			"level2": [{
 				"name": "Data",
-				"id": "data",
+				"id": ["data","hoarder-data"],
 				"see-also": {
-					"id": "retro-computers",
-					"name": "retro computers"
+					"id": "retro-computers"
 				}
 			}]
 		},
 		{
 			"name": "Hobbies",
 			"id": "hobbies",
+			"newsection":"true",
 			"level2": [{
 					"name": "Computer programming"
 				}, {
 					"name": "con-worlding / Worldbuilding",
-					"id": "conworlding",
+					"id": ["conworlding","hobbies-conworlding"],
 					"see-also": [{
 							"id": "tv_movies-water-world"
 						},
@@ -32,7 +32,8 @@
 						}
 					],
 					"level3": [{
-						"name": "alt-waterworld"
+						"name": "alt-waterworld",
+						"id": ["altwaterworld","hobbies-conworlding-altwaterworld"],
 					}]
 				}, {
 					"name": "Electronics",
@@ -70,13 +71,14 @@
 					"name": "role playing games",
 					"id": "rpg",
 					"see-also": [{
-						"id": "con-worlding"
+						"id": "hobbies-conworlding"
 					}]
 				},
 				{
 					"name": "Music",
-					"id": "music",
+					"id": ["music","hobbies-musuc"],
 					"type": "music",
+					"newsection":"true",
 					"background": [{
 						"imageurl": "music-background.jpg",
 						"sourceurl": "https://wallpapercave.com/music-wallpapers-for-desktop"
@@ -185,6 +187,12 @@
 								"type": "music_genre",
 								"id": "youtube",
 								"level4": [{
+									"name": "Tammy Tuckey",
+									"type": "music_artist",
+									"youtube": "https://www.youtube.com/user/TammyTuckey",
+									"id": "tammy_tuckey",
+									"website": "http://tammytuckey.com/"
+								},{
 									"name": "Octav1us",
 									"type": "music_artist",
 									"youtube": "https://www.youtube.com/channel/UCz5Kx6dP6rHRf9yLY1tnelw",
