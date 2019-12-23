@@ -1,6 +1,23 @@
 ---
 2019:
   12:
+    23:
+    - type: entry
+      published: "2019-12-23T04:14:45+00:00"
+      url: https://twitter.com/tomasparksts/status/1208964133778903040
+      in-reply-to:
+      - https://twitter.com/MrPSB/status/1208868223757770752
+      content:
+        text: '@cinemassacre'
+        html: |-
+          <a href="https://twitter.com/cinemassacre">@cinemassacre</a>
+          <a class="u-mention" href="https://twitter.com/MrPSB"></a>
+          <a class="u-mention" href="https://twitter.com/Octav1usKing"></a>
+      author:
+        type: card
+        name: 'Tom Sparks #ChurchofOctav1us'
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
     16:
     - type: entry
       published: "2019-12-16T06:43:43+00:00"
@@ -147,18 +164,6 @@
           <a class="u-mention" href="https://twitter.com/_Piggotto_"></a>
           <a class="u-mention" href="https://twitter.com/balmut_"></a>
           <a class="u-mention" href="https://twitter.com/gamingmuso"></a>
-      author:
-        type: card
-        name: 'Tom Sparks #ChurchofOctav1us'
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-    - type: entry
-      published: "2019-12-09T19:32:37+00:00"
-      url: https://twitter.com/tomasparksts/status/1204121693519667200
-      video:
-      - https://video.twimg.com/tweet_video/ELXmSnjU4AA12h0.mp4
-      in-reply-to:
-      - https://twitter.com/gamingmuso/status/1204120565415587840
       author:
         type: card
         name: 'Tom Sparks #ChurchofOctav1us'

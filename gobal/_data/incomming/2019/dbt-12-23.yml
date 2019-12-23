@@ -1,0 +1,18 @@
+---
+- type: entry
+  published: "2019-12-23T04:14:45+00:00"
+  url: https://twitter.com/tomasparksts/status/1208964133778903040
+  in-reply-to:
+  - https://twitter.com/MrPSB/status/1208868223757770752
+  content:
+    text: '@cinemassacre'
+    html: |-
+      <a href="https://twitter.com/cinemassacre">@cinemassacre</a>
+      <a class="u-mention" href="https://twitter.com/MrPSB"></a>
+      <a class="u-mention" href="https://twitter.com/Octav1usKing"></a>
+  author:
+    type: card
+    name: 'Tom Sparks #ChurchofOctav1us'
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+...

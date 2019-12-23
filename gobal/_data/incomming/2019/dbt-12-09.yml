@@ -1,5 +1,6 @@
 ---
-- type: entry
+0:
+  type: entry
   published: "2019-12-09T20:08:25+00:00"
   url: https://twitter.com/tomasparksts/status/1204130701592842240
   in-reply-to:
@@ -19,7 +20,8 @@
     name: 'Tom Sparks #ChurchofOctav1us'
     url: https://twitter.com/tomasparksts
     photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-- type: entry
+2:
+  type: entry
   published: "2019-12-09T19:32:37+00:00"
   url: https://twitter.com/tomasparksts/status/1204121693519667200
   video:
