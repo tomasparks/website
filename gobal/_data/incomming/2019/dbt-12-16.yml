@@ -1,0 +1,19 @@
+---
+- type: entry
+  published: "2019-12-16T06:43:43+00:00"
+  url: https://twitter.com/tomasparksts/status/1206464905756299265
+  in-reply-to:
+  - https://twitter.com/justmedashv/status/1206445118426886144
+  content:
+    text: '@Octav1usKing'
+    html: |-
+      <a href="https://twitter.com/Octav1usKing">@Octav1usKing</a>
+      <a class="u-mention" href="https://twitter.com/GtoTheNextLevel"></a>
+      <a class="u-mention" href="https://twitter.com/gamingmuso"></a>
+      <a class="u-mention" href="https://twitter.com/justmedashv"></a>
+  author:
+    type: card
+    name: 'Tom Sparks #ChurchofOctav1us'
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+...

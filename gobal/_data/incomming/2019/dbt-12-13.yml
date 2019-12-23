@@ -1,0 +1,14 @@
+---
+- type: entry
+  published: "2019-12-13T23:38:38+00:00"
+  url: https://twitter.com/tomasparksts/status/1205633155555721216
+  video:
+  - https://video.twimg.com/tweet_video/ELtE9M9UUAAs7Ty.mp4
+  in-reply-to:
+  - https://twitter.com/KimiFraser/status/1205597468118913025
+  author:
+    type: card
+    name: 'Tom Sparks #ChurchofOctav1us'
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+...

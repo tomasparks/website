@@ -1,0 +1,17 @@
+---
+- type: entry
+  published: "2019-12-12T07:50:57+00:00"
+  url: https://twitter.com/tomasparksts/status/1205032275320004608
+  in-reply-to:
+  - https://twitter.com/jack/status/1204766078468911106
+  content:
+    text: '@indiewebcamp'
+    html: |-
+      <a href="https://twitter.com/indiewebcamp">@indiewebcamp</a>
+      <a class="u-mention" href="https://twitter.com/jack"></a>
+  author:
+    type: card
+    name: 'Tom Sparks #ChurchofOctav1us'
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+...

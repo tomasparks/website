@@ -1,0 +1,34 @@
+---
+- type: entry
+  published: "2019-12-09T20:08:25+00:00"
+  url: https://twitter.com/tomasparksts/status/1204130701592842240
+  in-reply-to:
+  - https://twitter.com/gamingmuso/status/1204123059369717768
+  content:
+    text: 'you could just change the pitch of your voice like  #RichardJoseph and
+      #JonHare did for #Goalscoringsuperstarhero from #SensibleWorldofSoccer'
+    html: |-
+      you could just change the pitch of your voice like  <a href="https://twitter.com/search?q=%23RichardJoseph">#RichardJoseph</a> and <a href="https://twitter.com/search?q=%23JonHare">#JonHare</a> did for <a href="https://twitter.com/search?q=%23Goalscoringsuperstarhero">#Goalscoringsuperstarhero</a> from <a href="https://twitter.com/search?q=%23SensibleWorldofSoccer">#SensibleWorldofSoccer</a>
+      <a class="u-mention" href="https://twitter.com/Disney"></a>
+      <a class="u-mention" href="https://twitter.com/SlopesGameRoom"></a>
+      <a class="u-mention" href="https://twitter.com/_Piggotto_"></a>
+      <a class="u-mention" href="https://twitter.com/balmut_"></a>
+      <a class="u-mention" href="https://twitter.com/gamingmuso"></a>
+  author:
+    type: card
+    name: 'Tom Sparks #ChurchofOctav1us'
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+- type: entry
+  published: "2019-12-09T19:32:37+00:00"
+  url: https://twitter.com/tomasparksts/status/1204121693519667200
+  video:
+  - https://video.twimg.com/tweet_video/ELXmSnjU4AA12h0.mp4
+  in-reply-to:
+  - https://twitter.com/gamingmuso/status/1204120565415587840
+  author:
+    type: card
+    name: 'Tom Sparks #ChurchofOctav1us'
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+...

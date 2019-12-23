@@ -1,0 +1,18 @@
+---
+- type: entry
+  published: "2019-12-14T17:21:36+00:00"
+  url: https://twitter.com/tomasparksts/status/1205900659456823296
+  in-reply-to:
+  - https://twitter.com/daph2theB/status/1205891312450461697
+  content:
+    text: your profile pix on twitter looks a bit like Octy :)
+    html: |-
+      your profile pix on twitter looks a bit like Octy :)
+      <a class="u-mention" href="https://twitter.com/Octav1usKing"></a>
+      <a class="u-mention" href="https://twitter.com/daph2theB"></a>
+  author:
+    type: card
+    name: 'Tom Sparks #ChurchofOctav1us'
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+...

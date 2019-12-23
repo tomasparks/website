@@ -1,0 +1,36 @@
+---
+- type: entry
+  published: "2019-12-10T19:45:55+00:00"
+  url: https://twitter.com/tomasparksts/status/1204487427487723522
+  in-reply-to:
+  - https://twitter.com/Octav1usKing/status/1204483277089910784
+  content:
+    text: that sucks
+    html: |-
+      that sucks
+      <a class="u-mention" href="https://twitter.com/Octav1usKing"></a>
+      <a class="u-mention" href="https://twitter.com/WrestlesGaming"></a>
+      <a class="u-mention" href="https://twitter.com/theretrobyte"></a>
+  author:
+    type: card
+    name: 'Tom Sparks #ChurchofOctav1us'
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+- type: entry
+  published: "2019-12-10T19:37:01+00:00"
+  url: https://twitter.com/tomasparksts/status/1204485186320125952
+  in-reply-to:
+  - https://twitter.com/theretrobyte/status/1204481829186756609
+  content:
+    text: 'total agree any time I see #SaaS I recoil in horror'
+    html: |-
+      total agree any time I see <a href="https://twitter.com/search?q=%23SaaS">#SaaS</a> I recoil in horror
+      <a class="u-mention" href="https://twitter.com/Octav1usKing"></a>
+      <a class="u-mention" href="https://twitter.com/WrestlesGaming"></a>
+      <a class="u-mention" href="https://twitter.com/theretrobyte"></a>
+  author:
+    type: card
+    name: 'Tom Sparks #ChurchofOctav1us'
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+...
