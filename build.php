@@ -62,7 +62,7 @@ $BuildConfig = array
 );
 
 
-$who ="mindmap"; 
+$who ="miniatures"; 
 $building = $BuildConfig[$who];
 $building = array_merge($building,$builddefualts);
 
