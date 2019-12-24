@@ -1,5 +1,20 @@
 ---
 - type: entry
+  published: "2019-12-23T22:06:40+00:00"
+  url: https://twitter.com/tomasparksts/status/1209233888289030144
+  in-reply-to:
+  - https://twitter.com/Octav1usKing/status/1209195283520917504
+  content:
+    text: yay! Octy's VR video
+    html: |-
+      yay! Octy's VR video
+      <a class="u-mention" href="https://twitter.com/Octav1usKing"></a>
+  author:
+    type: card
+    name: 'Tom Sparks #ChurchofOctav1us'
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+- type: entry
   published: "2019-12-23T04:14:45+00:00"
   url: https://twitter.com/tomasparksts/status/1208964133778903040
   in-reply-to:

@@ -1,7 +1,36 @@
 ---
 2019:
   12:
+    24:
+    - type: entry
+      published: "2019-12-24T09:30:47+00:00"
+      url: https://twitter.com/tomasparksts/status/1209406053118427137
+      content:
+        text: "@Octav1usKing #clubdrive review by @2ndOpinionGames youtube.com/watch?v=zuBOKc\u2026"
+        html: "<a href=\"https://twitter.com/Octav1usKing\">@Octav1usKing</a> <a href=\"https://twitter.com/search?q=%23clubdrive\">#clubdrive</a>
+          review by <a href=\"https://twitter.com/2ndOpinionGames\">@2ndOpinionGames</a>
+          <a href=\"https://www.youtube.com/watch?v=zuBOKcSypCE\">youtube.com/watch?v=zuBOKc\u2026</a>"
+      author:
+        type: card
+        name: 'Tom Sparks #ChurchofOctav1us'
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
     23:
+    - type: entry
+      published: "2019-12-23T22:06:40+00:00"
+      url: https://twitter.com/tomasparksts/status/1209233888289030144
+      in-reply-to:
+      - https://twitter.com/Octav1usKing/status/1209195283520917504
+      content:
+        text: yay! Octy's VR video
+        html: |-
+          yay! Octy's VR video
+          <a class="u-mention" href="https://twitter.com/Octav1usKing"></a>
+      author:
+        type: card
+        name: 'Tom Sparks #ChurchofOctav1us'
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
     - type: entry
       published: "2019-12-23T04:14:45+00:00"
       url: https://twitter.com/tomasparksts/status/1208964133778903040
@@ -126,44 +155,6 @@
           <a class="u-mention" href="https://twitter.com/Octav1usKing"></a>
           <a class="u-mention" href="https://twitter.com/WrestlesGaming"></a>
           <a class="u-mention" href="https://twitter.com/theretrobyte"></a>
-      author:
-        type: card
-        name: 'Tom Sparks #ChurchofOctav1us'
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-    - type: entry
-      published: "2019-12-10T19:37:01+00:00"
-      url: https://twitter.com/tomasparksts/status/1204485186320125952
-      in-reply-to:
-      - https://twitter.com/theretrobyte/status/1204481829186756609
-      content:
-        text: 'total agree any time I see #SaaS I recoil in horror'
-        html: |-
-          total agree any time I see <a href="https://twitter.com/search?q=%23SaaS">#SaaS</a> I recoil in horror
-          <a class="u-mention" href="https://twitter.com/Octav1usKing"></a>
-          <a class="u-mention" href="https://twitter.com/WrestlesGaming"></a>
-          <a class="u-mention" href="https://twitter.com/theretrobyte"></a>
-      author:
-        type: card
-        name: 'Tom Sparks #ChurchofOctav1us'
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-    09:
-    - type: entry
-      published: "2019-12-09T20:08:25+00:00"
-      url: https://twitter.com/tomasparksts/status/1204130701592842240
-      in-reply-to:
-      - https://twitter.com/gamingmuso/status/1204123059369717768
-      content:
-        text: 'you could just change the pitch of your voice like  #RichardJoseph
-          and #JonHare did for #Goalscoringsuperstarhero from #SensibleWorldofSoccer'
-        html: |-
-          you could just change the pitch of your voice like  <a href="https://twitter.com/search?q=%23RichardJoseph">#RichardJoseph</a> and <a href="https://twitter.com/search?q=%23JonHare">#JonHare</a> did for <a href="https://twitter.com/search?q=%23Goalscoringsuperstarhero">#Goalscoringsuperstarhero</a> from <a href="https://twitter.com/search?q=%23SensibleWorldofSoccer">#SensibleWorldofSoccer</a>
-          <a class="u-mention" href="https://twitter.com/Disney"></a>
-          <a class="u-mention" href="https://twitter.com/SlopesGameRoom"></a>
-          <a class="u-mention" href="https://twitter.com/_Piggotto_"></a>
-          <a class="u-mention" href="https://twitter.com/balmut_"></a>
-          <a class="u-mention" href="https://twitter.com/gamingmuso"></a>
       author:
         type: card
         name: 'Tom Sparks #ChurchofOctav1us'

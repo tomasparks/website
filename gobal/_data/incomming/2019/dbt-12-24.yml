@@ -1,0 +1,15 @@
+---
+- type: entry
+  published: "2019-12-24T09:30:47+00:00"
+  url: https://twitter.com/tomasparksts/status/1209406053118427137
+  content:
+    text: "@Octav1usKing #clubdrive review by @2ndOpinionGames youtube.com/watch?v=zuBOKc\u2026"
+    html: "<a href=\"https://twitter.com/Octav1usKing\">@Octav1usKing</a> <a href=\"https://twitter.com/search?q=%23clubdrive\">#clubdrive</a>
+      review by <a href=\"https://twitter.com/2ndOpinionGames\">@2ndOpinionGames</a>
+      <a href=\"https://www.youtube.com/watch?v=zuBOKcSypCE\">youtube.com/watch?v=zuBOKc\u2026</a>"
+  author:
+    type: card
+    name: 'Tom Sparks #ChurchofOctav1us'
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+...
