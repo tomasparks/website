@@ -3,6 +3,19 @@
   12:
     24:
     - type: entry
+      published: "2019-12-24T22:56:16+00:00"
+      url: https://twitter.com/tomasparksts/status/1209608762123681793
+      content:
+        text: 'I''ve watched @Octav1usKing''s #xmas present "90s VR games"'
+        html: I've watched <a href="https://twitter.com/Octav1usKing">@Octav1usKing</a>'s
+          <a href="https://twitter.com/search?q=%23xmas">#xmas</a> present "90s VR
+          games"
+      author:
+        type: card
+        name: 'Tom Sparks #ChurchofOctav1us'
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+    - type: entry
       published: "2019-12-24T09:30:47+00:00"
       url: https://twitter.com/tomasparksts/status/1209406053118427137
       content:
@@ -137,24 +150,6 @@
           good from the <a href="https://twitter.com/Twitch">@twitch</a> stream, sadly
           <a href="https://twitter.com/search?q=%23robocopyright">#robocopyright</a>
           mute the stream in places
-      author:
-        type: card
-        name: 'Tom Sparks #ChurchofOctav1us'
-        url: https://twitter.com/tomasparksts
-        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
-    10:
-    - type: entry
-      published: "2019-12-10T19:45:55+00:00"
-      url: https://twitter.com/tomasparksts/status/1204487427487723522
-      in-reply-to:
-      - https://twitter.com/Octav1usKing/status/1204483277089910784
-      content:
-        text: that sucks
-        html: |-
-          that sucks
-          <a class="u-mention" href="https://twitter.com/Octav1usKing"></a>
-          <a class="u-mention" href="https://twitter.com/WrestlesGaming"></a>
-          <a class="u-mention" href="https://twitter.com/theretrobyte"></a>
       author:
         type: card
         name: 'Tom Sparks #ChurchofOctav1us'

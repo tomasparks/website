@@ -1,5 +1,17 @@
 ---
 - type: entry
+  published: "2019-12-24T22:56:16+00:00"
+  url: https://twitter.com/tomasparksts/status/1209608762123681793
+  content:
+    text: 'I''ve watched @Octav1usKing''s #xmas present "90s VR games"'
+    html: I've watched <a href="https://twitter.com/Octav1usKing">@Octav1usKing</a>'s
+      <a href="https://twitter.com/search?q=%23xmas">#xmas</a> present "90s VR games"
+  author:
+    type: card
+    name: 'Tom Sparks #ChurchofOctav1us'
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+- type: entry
   published: "2019-12-24T09:30:47+00:00"
   url: https://twitter.com/tomasparksts/status/1209406053118427137
   content:
