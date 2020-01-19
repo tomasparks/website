@@ -1,0 +1,99 @@
+---
+layout: null
+redirect_from:
+  - /temp/minecraft2x3d/test_x3d.html
+  - /X3D/popbuffers/minecraft/index.html
+---
+<!DOCTYPE html>
+<html style='width:100%; height:100%; border:0; margin:0; padding:0;'>
+  <head>
+    <meta http-equiv='X-UA-Compatible' content='chrome=1'/>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'/>
+    <meta http-equiv='Content-Type' content='text/html;charset=utf-8'/>
+    <link rel='stylesheet' type='text/css' href='/assets/ext/x3dom/x3dom.css'/>
+    <script type='text/javascript' src='/assets/ext/x3dom/x3dom.js'></script>
+    <style>.x3dom-logContainer { bottom: 0px; position: absolute; }
+    </style>
+  </head>
+  <body style='width:100%; height:100%; border:0; margin:0; padding:0;'>
+    <div id='HUDs_Div'> 
+      <div id='X3DOM_AOPT_Links' class='group' style='margin:26px 2px 2px; padding:4px; background-color:rgba(199,202,204,.7); position:absolute; z-index:1000;'> 
+        <a href='http://www.x3dom.org'>X3DOM
+        </a> output created with 
+        <a href='http://www.instantreality.org'>InstantReality
+        </a> aopt tool and <a href="https://github.com/paulharter/blockmodel">blockmodel</a><br />
+Minecraft model: Living Water Fountain Home.schematic
+      </div> 
+      <div id='Interaction_Toolbox' style='margin:2px; padding:4px 150px 4px 4px; background-color:rgba(199,202,204,.7); position:absolute; z-index:1000; right:0px; top:0px;'> 
+        <table> 
+          <tr> 
+            <td>Navigation Mode: 
+            </td> 
+            <td align='right'> 
+              <select style='float:right;' onchange='document.getElementById(&apos;x3dElement&apos;).runtime[value]();'> 
+                <option selected='selected' value='examine'>Examine 
+                </option> 
+                <option value='turnTable'>TurnTable 
+                </option> 
+                <option value='lookAt'>LookAt 
+                </option> 
+                <option value='lookAround'>LookAround 
+                </option> 
+                <option value='fly'>Fly 
+                </option> 
+                <option value='freeFly'>FreeFly 
+                </option> 
+                <option value='helicopter'>Helicopter 
+                </option> 
+                <option value='walk'>Walk 
+                </option>  
+                <option value='noNav'>None 
+                </option> 
+              </select> 
+            </td> 
+          </tr> 
+          <tr> 
+            <td>Debug Display: 
+            </td> 
+            <td align='right'> 
+              <input type='checkbox' onclick='document.getElementById(&apos;x3dElement&apos;).runtime.statistics(this.checked);'> 
+              </input> Stats 
+              <input type='checkbox' onclick='document.getElementById(&apos;x3dElement&apos;).runtime.debug();'> 
+              </input> Log 
+            </td> 
+          </tr> 
+          <tr> 
+            <td> 
+              <button onclick='document.getElementById(&apos;x3dElement&apos;).runtime.showAll();'> Show Everything 
+              </button> 
+            </td> 
+            <td> 
+              <button onclick='document.getElementById(&apos;x3dElement&apos;).runtime.resetView();'> Reset View 
+              </button> 
+            </td> 
+          </tr> 
+        </table> 
+      </div> 
+    </div>
+    <x3d id='x3dElement' showStat='false' showLog='false' style='width:100%; height:100%; border:0; margin:0; padding:0;'>
+      <scene>
+<environment SSAO='true' SSAOamount='0.3' SSAOblurDepthTreshold='1.0' SSAOradius='0.7' frustumCulling='true' smallFeatureCulling='true'> </environment>
+        <shape DEF='SP_0'>
+          <appearance>
+            <imageTexture url='"./terrain_big.png"'></imageTexture>
+          </appearance>
+          <popGeometry DEF='PG_0' vertexCount='339552' primType='"TRIANGLES"' position='0 43 0' size='147.46 86.86 105.04' attributeStride='16' normalOffset='8' texcoordOffset='12' vertexBufferSize='339552' indexedRendering='false' bbMinModF='0.50495049505 0 0.50495049505' bbMaxModF='0.49504950495 0.990099009901 0.49504950495' bbMin='-73 0 -52' tightSize='146 86 104'>
+            <popGeometryLevel src='popPG_0_level0.bin'></popGeometryLevel>
+            <popGeometryLevel src='popPG_0_level1.bin' vertexDataBufferOffset='108'></popGeometryLevel>
+            <popGeometryLevel src='popPG_0_level2.bin' vertexDataBufferOffset='540'></popGeometryLevel>
+            <popGeometryLevel src='popPG_0_level3.bin' vertexDataBufferOffset='3576'></popGeometryLevel>
+            <popGeometryLevel src='popPG_0_level4.bin' vertexDataBufferOffset='15480'></popGeometryLevel>
+            <popGeometryLevel src='popPG_0_level5.bin' vertexDataBufferOffset='62748'></popGeometryLevel>
+            <popGeometryLevel src='popPG_0_level6.bin' vertexDataBufferOffset='195600'></popGeometryLevel>
+            <popGeometryLevel src='popPG_0_level7.bin' vertexDataBufferOffset='321576'></popGeometryLevel>
+          </popGeometry>
+        </shape>
+      </scene>
+    </x3d>
+  </body>
+</html>
