@@ -1,0 +1,163 @@
+---
+2020:
+  "01":
+    18:
+    - type: entry
+      published: "2020-01-18T12:30:48+00:00"
+      url: https://twitter.com/tomasparksts/status/1218511054646333440
+      content:
+        text: Australian Bushfire Charity Stream twitch.tv/mazgaminguk
+        html: Australian Bushfire Charity Stream <a href="https://www.twitch.tv/mazgaminguk">twitch.tv/mazgaminguk</a>
+      author:
+        type: card
+        name: 'Tom Sparks #AustraliaOnFire'
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+    17:
+    - type: entry
+      published: "2020-01-17T03:56:31+00:00"
+      url: https://twitter.com/tomasparksts/status/1218019240181030913
+      in-reply-to:
+      - https://twitter.com/Lord_Arse/status/1217953504242716674
+      content:
+        text: |-
+          Has #spicebot3000 invaded twitter now?
+          @thatbunty @NikkiAndBunty
+        html: |-
+          Has <a href="https://twitter.com/search?q=%23spicebot3000">#spicebot3000</a> invaded twitter now?
+          <a href="https://twitter.com/thatbunty">@thatbunty</a> <a href="https://twitter.com/NikkiAndBunty">@NikkiAndBunty</a>
+          <a class="u-mention" href="https://twitter.com/Lord_Arse"></a>
+      author:
+        type: card
+        name: 'Tom Sparks #AustraliaOnFire'
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+    16:
+    - type: entry
+      published: "2020-01-16T16:25:56+00:00"
+      url: https://twitter.com/tomasparksts/status/1217845452239851525
+      in-reply-to:
+      - https://twitter.com/Azrael316/status/1217734201501454336
+      content:
+        text: Are they related to DnD land sharks?
+        html: |-
+          Are they related to DnD land sharks?
+          <a class="u-mention" href="https://twitter.com/Azrael316"></a>
+          <a class="u-mention" href="https://twitter.com/Octav1usKing"></a>
+      author:
+        type: card
+        name: 'Tom Sparks #AustraliaOnFire'
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+    15:
+    - type: entry
+      published: "2020-01-15T16:37:15+00:00"
+      url: https://twitter.com/tomasparksts/status/1217485911123824640
+      video:
+      - https://video.twimg.com/tweet_video/EOVg-YUVUAEM3Ur.mp4
+      in-reply-to:
+      - https://twitter.com/Nimmo1492/status/1217464677841690625
+      content:
+        text: I agree with you some sponsorships deals seam out of place as if its
+          the money talking
+        html: |-
+          I agree with you some sponsorships deals seam out of place as if its the money talking
+          <a class="u-mention" href="https://twitter.com/Nimmo1492"></a>
+          <a class="u-mention" href="https://twitter.com/nostalnerd"></a>
+      author:
+        type: card
+        name: 'Tom Sparks #AustraliaOnFire'
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+    - type: entry
+      published: "2020-01-15T15:57:48+00:00"
+      url: https://twitter.com/tomasparksts/status/1217475982438752256
+      content:
+        text: I am @patreon-ing @nostalnerd and @TheRetroManCave
+        html: I am <a href="https://twitter.com/Patreon">@patreon</a>-ing <a href="https://twitter.com/nostalnerd">@nostalnerd</a>
+          and <a href="https://twitter.com/TheRetroManCave">@TheRetroManCave</a>
+      author:
+        type: card
+        name: 'Tom Sparks #AustraliaOnFire'
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+    - type: entry
+      published: "2020-01-15T15:30:13+00:00"
+      url: https://twitter.com/tomasparksts/status/1217469042472042497
+      in-reply-to:
+      - https://twitter.com/aravelle/status/1217465183821598720
+      content:
+        text: I thought Bedford was your nickname for "In bed" before I read you were
+          travelling home
+        html: |-
+          I thought Bedford was your nickname for "In bed" before I read you were travelling home
+          <a class="u-mention" href="https://twitter.com/aravelle"></a>
+      author:
+        type: card
+        name: 'Tom Sparks #AustraliaOnFire'
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+    14:
+    - type: entry
+      published: "2020-01-14T16:42:54+00:00"
+      url: https://twitter.com/tomasparksts/status/1217124944766586880
+      in-reply-to:
+      - https://twitter.com/DropHazard/status/1217055004546207747
+      content:
+        text: 'I dislike people who watch sports (car racing, football, tennis, golf),
+          but I do watch #techsports eg: @RobotWarsUK,  #DroneRacing'
+        html: |-
+          I dislike people who watch sports (car racing, football, tennis, golf), but I do watch <a href="https://twitter.com/search?q=%23techsports">#techsports</a> eg: <a href="https://twitter.com/RobotWarsUK">@RobotWarsUK</a>,  <a href="https://twitter.com/search?q=%23DroneRacing">#DroneRacing</a>
+          <a class="u-mention" href="https://twitter.com/DropHazard"></a>
+          <a class="u-mention" href="https://twitter.com/aravelle"></a>
+          <a class="u-mention" href="https://twitter.com/waterloo933"></a>
+      author:
+        type: card
+        name: 'Tom Sparks #AustraliaOnFire'
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+    - type: entry
+      published: "2020-01-14T04:57:13+00:00"
+      url: https://twitter.com/tomasparksts/status/1216947354936340482
+      video:
+      - https://video.twimg.com/tweet_video/EON3KWwU8AEqJns.mp4
+      in-reply-to:
+      - https://twitter.com/NickyDomRom/status/1216890424939380736
+      author:
+        type: card
+        name: 'Tom Sparks #AustraliaOnFire'
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+    13:
+    - type: entry
+      published: "2020-01-13T19:55:45+00:00"
+      url: https://twitter.com/tomasparksts/status/1216811087225425921
+      in-reply-to:
+      - https://twitter.com/fishingparty/status/1216589102671441921
+      content:
+        text: "i've wikied it for you en.wikipedia.org/wiki/Intellivi\u2026"
+        html: "i've wikied it for you <a href=\"https://en.wikipedia.org/wiki/Intellivision\">en.wikipedia.org/wiki/Intellivi\u2026</a>\n<a
+          class=\"u-mention\" href=\"https://twitter.com/Octav1usKing\"></a>\n<a class=\"u-mention\"
+          href=\"https://twitter.com/fishingparty\"></a>"
+      author:
+        type: card
+        name: 'Tom Sparks #AustraliaOnFire'
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+    - type: entry
+      published: "2020-01-13T19:02:40+00:00"
+      url: https://twitter.com/tomasparksts/status/1216797728748883968
+      in-reply-to:
+      - https://twitter.com/tomasparksts/status/1216796870191640577
+      content:
+        text: '*apart limb by limb*'
+        html: |-
+          *apart limb by limb*
+          <a class="u-mention" href="https://twitter.com/BoxyNerd"></a>
+          <a class="u-mention" href="https://twitter.com/TopHatGamingMan"></a>
+      author:
+        type: card
+        name: 'Tom Sparks #AustraliaOnFire'
+        url: https://twitter.com/tomasparksts
+        photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+...

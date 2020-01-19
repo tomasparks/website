@@ -1,0 +1,33 @@
+---
+- type: entry
+  published: "2020-01-13T19:55:45+00:00"
+  url: https://twitter.com/tomasparksts/status/1216811087225425921
+  in-reply-to:
+  - https://twitter.com/fishingparty/status/1216589102671441921
+  content:
+    text: "i've wikied it for you en.wikipedia.org/wiki/Intellivi\u2026"
+    html: "i've wikied it for you <a href=\"https://en.wikipedia.org/wiki/Intellivision\">en.wikipedia.org/wiki/Intellivi\u2026</a>\n<a
+      class=\"u-mention\" href=\"https://twitter.com/Octav1usKing\"></a>\n<a class=\"u-mention\"
+      href=\"https://twitter.com/fishingparty\"></a>"
+  author:
+    type: card
+    name: 'Tom Sparks #AustraliaOnFire'
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+- type: entry
+  published: "2020-01-13T19:02:40+00:00"
+  url: https://twitter.com/tomasparksts/status/1216797728748883968
+  in-reply-to:
+  - https://twitter.com/tomasparksts/status/1216796870191640577
+  content:
+    text: '*apart limb by limb*'
+    html: |-
+      *apart limb by limb*
+      <a class="u-mention" href="https://twitter.com/BoxyNerd"></a>
+      <a class="u-mention" href="https://twitter.com/TopHatGamingMan"></a>
+  author:
+    type: card
+    name: 'Tom Sparks #AustraliaOnFire'
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+...

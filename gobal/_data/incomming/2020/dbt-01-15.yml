@@ -1,0 +1,49 @@
+---
+- type: entry
+  published: "2020-01-15T16:37:15+00:00"
+  url: https://twitter.com/tomasparksts/status/1217485911123824640
+  video:
+  - https://video.twimg.com/tweet_video/EOVg-YUVUAEM3Ur.mp4
+  in-reply-to:
+  - https://twitter.com/Nimmo1492/status/1217464677841690625
+  content:
+    text: I agree with you some sponsorships deals seam out of place as if its the
+      money talking
+    html: |-
+      I agree with you some sponsorships deals seam out of place as if its the money talking
+      <a class="u-mention" href="https://twitter.com/Nimmo1492"></a>
+      <a class="u-mention" href="https://twitter.com/nostalnerd"></a>
+  author:
+    type: card
+    name: 'Tom Sparks #AustraliaOnFire'
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+- type: entry
+  published: "2020-01-15T15:57:48+00:00"
+  url: https://twitter.com/tomasparksts/status/1217475982438752256
+  content:
+    text: I am @patreon-ing @nostalnerd and @TheRetroManCave
+    html: I am <a href="https://twitter.com/Patreon">@patreon</a>-ing <a href="https://twitter.com/nostalnerd">@nostalnerd</a>
+      and <a href="https://twitter.com/TheRetroManCave">@TheRetroManCave</a>
+  author:
+    type: card
+    name: 'Tom Sparks #AustraliaOnFire'
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+- type: entry
+  published: "2020-01-15T15:30:13+00:00"
+  url: https://twitter.com/tomasparksts/status/1217469042472042497
+  in-reply-to:
+  - https://twitter.com/aravelle/status/1217465183821598720
+  content:
+    text: I thought Bedford was your nickname for "In bed" before I read you were
+      travelling home
+    html: |-
+      I thought Bedford was your nickname for "In bed" before I read you were travelling home
+      <a class="u-mention" href="https://twitter.com/aravelle"></a>
+  author:
+    type: card
+    name: 'Tom Sparks #AustraliaOnFire'
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+...

@@ -1,0 +1,13 @@
+---
+- type: entry
+  published: "2020-01-18T12:30:48+00:00"
+  url: https://twitter.com/tomasparksts/status/1218511054646333440
+  content:
+    text: Australian Bushfire Charity Stream twitch.tv/mazgaminguk
+    html: Australian Bushfire Charity Stream <a href="https://www.twitch.tv/mazgaminguk">twitch.tv/mazgaminguk</a>
+  author:
+    type: card
+    name: 'Tom Sparks #AustraliaOnFire'
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+...

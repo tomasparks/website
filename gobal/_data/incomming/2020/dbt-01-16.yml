@@ -1,0 +1,18 @@
+---
+- type: entry
+  published: "2020-01-16T16:25:56+00:00"
+  url: https://twitter.com/tomasparksts/status/1217845452239851525
+  in-reply-to:
+  - https://twitter.com/Azrael316/status/1217734201501454336
+  content:
+    text: Are they related to DnD land sharks?
+    html: |-
+      Are they related to DnD land sharks?
+      <a class="u-mention" href="https://twitter.com/Azrael316"></a>
+      <a class="u-mention" href="https://twitter.com/Octav1usKing"></a>
+  author:
+    type: card
+    name: 'Tom Sparks #AustraliaOnFire'
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+...

@@ -1,0 +1,20 @@
+---
+- type: entry
+  published: "2020-01-17T03:56:31+00:00"
+  url: https://twitter.com/tomasparksts/status/1218019240181030913
+  in-reply-to:
+  - https://twitter.com/Lord_Arse/status/1217953504242716674
+  content:
+    text: |-
+      Has #spicebot3000 invaded twitter now?
+      @thatbunty @NikkiAndBunty
+    html: |-
+      Has <a href="https://twitter.com/search?q=%23spicebot3000">#spicebot3000</a> invaded twitter now?
+      <a href="https://twitter.com/thatbunty">@thatbunty</a> <a href="https://twitter.com/NikkiAndBunty">@NikkiAndBunty</a>
+      <a class="u-mention" href="https://twitter.com/Lord_Arse"></a>
+  author:
+    type: card
+    name: 'Tom Sparks #AustraliaOnFire'
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+...

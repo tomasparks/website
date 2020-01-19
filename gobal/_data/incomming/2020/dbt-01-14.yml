@@ -1,0 +1,32 @@
+---
+- type: entry
+  published: "2020-01-14T16:42:54+00:00"
+  url: https://twitter.com/tomasparksts/status/1217124944766586880
+  in-reply-to:
+  - https://twitter.com/DropHazard/status/1217055004546207747
+  content:
+    text: 'I dislike people who watch sports (car racing, football, tennis, golf),
+      but I do watch #techsports eg: @RobotWarsUK,  #DroneRacing'
+    html: |-
+      I dislike people who watch sports (car racing, football, tennis, golf), but I do watch <a href="https://twitter.com/search?q=%23techsports">#techsports</a> eg: <a href="https://twitter.com/RobotWarsUK">@RobotWarsUK</a>,  <a href="https://twitter.com/search?q=%23DroneRacing">#DroneRacing</a>
+      <a class="u-mention" href="https://twitter.com/DropHazard"></a>
+      <a class="u-mention" href="https://twitter.com/aravelle"></a>
+      <a class="u-mention" href="https://twitter.com/waterloo933"></a>
+  author:
+    type: card
+    name: 'Tom Sparks #AustraliaOnFire'
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+- type: entry
+  published: "2020-01-14T04:57:13+00:00"
+  url: https://twitter.com/tomasparksts/status/1216947354936340482
+  video:
+  - https://video.twimg.com/tweet_video/EON3KWwU8AEqJns.mp4
+  in-reply-to:
+  - https://twitter.com/NickyDomRom/status/1216890424939380736
+  author:
+    type: card
+    name: 'Tom Sparks #AustraliaOnFire'
+    url: https://twitter.com/tomasparksts
+    photo: https://pbs.twimg.com/profile_images/973153778252759042/iitKqsPV.jpg
+...
